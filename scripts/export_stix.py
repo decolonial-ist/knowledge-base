@@ -324,6 +324,13 @@ def sheet_date(row, col, fallback):
         export_errors.append(f"не удалось разобрать дату «{v}» в колонке «{col}»")
         return fallback
 
+def source_file_prop(r):
+    """x_decolonial_file - путь файла сущности в репозитории базы знаний (кнопка «Предложить правку» на сайте:
+    github.com/decolonial-ist/knowledge-base/edit/main/<путь>). Из таблицы (--sheet) колонки нет - свойства нет."""
+    f = str(r.get('file', '') or '').strip()
+    return {"x_decolonial_file": f} if f and f.lower() != 'nan' else {}
+
+
 def get_id(stix_type, name):
     # ключ - идентификатор сущности (TA0001, T0023.001, C1193, G0011, S0010), clean_name его съел бы;
     # для служебных объектов и связей - очищенное имя, как раньше
@@ -598,7 +605,8 @@ def build(lang, now):
                 "created_by_ref": admin.id,
                 "created": sheet_date(r, 'created', now), "modified": sheet_date(r, 'last modified', now),
                 "x_mitre_modified_by_ref": admin.id,
-                "spec_version": "2.1", "x_mitre_version": "1.0", "x_mitre_attack_spec_version": "3.3.0"
+                "spec_version": "2.1", "x_mitre_version": "1.0", "x_mitre_attack_spec_version": "3.3.0",
+                **source_file_prop(r)
             })
             tactic_refs.append(t_stix_id)
 
@@ -721,6 +729,7 @@ def build(lang, now):
         t_contribs = lcell(r, 'contributors', lang)
         if t_contribs:
             tech_data_map[tid]["custom_properties"]["x_mitre_contributors"] = split_contributors(t_contribs)
+        tech_data_map[tid]["custom_properties"].update(source_file_prop(r))
 
     # 3. Линкуем субтехники к родителям (Relationship subtechnique-of)
     for t_obj in tech_data_map.values():
@@ -894,6 +903,7 @@ def build(lang, now):
             contribs = lcell(r, 'contributors', lang)
             if contribs:
                 item_props["x_mitre_contributors"] = split_contributors(contribs)
+            item_props.update(source_file_prop(r))
             
             extra_kwargs = {
                 "x_mitre_domains": ["russia-colonialism"]
@@ -1009,7 +1019,7 @@ def build(lang, now):
         })
 
     # --- 3. СВЯЗИ (RELATIONSHIPS) ---
-    def add_rel(src, target, rel_type, desc="", desc_ru="", people=None, contributors=None):
+    def add_rel(src, target, rel_type, desc="", desc_ru="", people=None, contributors=None, source_file=None):
         safe_desc = str(desc).strip() if pd.notna(desc) and str(desc).strip() != '' else ""
         rel_refs = extract_refs(safe_desc, bibliography, debug_ctx=f"Связь {src}->{target} [{lang}]", verbose=verbose)
 
@@ -1029,6 +1039,8 @@ def build(lang, now):
             # кампании с техникой; сайт показывает их на странице процедуры
             if contributors:
                 props["x_mitre_contributors"] = contributors
+            if source_file:
+                props["x_decolonial_file"] = source_file
             objects.append(Relationship(
                 id=rid, relationship_type=rel_type, source_ref=src, target_ref=target,
                 description=safe_desc,
@@ -1082,7 +1094,7 @@ def build(lang, now):
         # 3. Остальные связи из процедур
         if c_id and t_id:
             add_rel(c_id, t_id, "uses", mapping_description, mapping_description_ru, people=people_name,
-                    contributors=proc_contribs)
+                    contributors=proc_contribs, source_file=source_file_prop(r).get("x_decolonial_file"))
             # внутрилистовые дубли пары кампания+техника (правило 1×1×1 народ);
             # та же пара в листах РАЗНЫХ народов — законный мультидомен, не считается
             proc_pairs.setdefault((label, c_name, t_name), []).append(i + 2)

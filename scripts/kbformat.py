@@ -132,4 +132,6 @@ def block_to_cell(block: str) -> str:
     """Проза файла -> текст ячейки, как он лежал в таблице."""
     block = (block or "").strip("\n")
     paras = block.split("\n\n")
-    return "\n".join(" ".join(line.strip() for line in p.split("\n")).strip() for p in paras)
+    # абзацы - пустой строкой, как в таблице: сайт (markdown) делает из них <p>; один перенос дал бы <br>
+    # (04.11: «мне кажется или абзацы пропали?» - пропали, одиночный перенос)
+    return "\n\n".join(" ".join(line.strip() for line in p.split("\n")).strip() for p in paras)

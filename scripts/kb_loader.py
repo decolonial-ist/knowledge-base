@@ -91,11 +91,13 @@ class KnowledgeBase:
             if os.path.isdir(path) and re.fullmatch(r"C\d{4}", name):
                 c = kbformat.load_yaml(os.path.join(path, f"{name}.yml"))
                 c["parent"] = parent
+                c["file"] = os.path.relpath(os.path.join(path, f"{name}.yml"), self.root)
                 self.campaigns[name] = c
                 for f in sorted(os.listdir(path)):
                     if re.fullmatch(rf"{name}\.T\d{{4}}(\.\d{{3}})?\.yml", f):
                         p = kbformat.load_yaml(os.path.join(path, f))
                         p["campaign"] = name
+                        p["file"] = os.path.relpath(os.path.join(path, f), self.root)
                         self.procedures.append(p)
                 self._walk_campaigns(path, name)
 
@@ -142,7 +144,8 @@ class KnowledgeBase:
             return [{"to be published": "TRUE", "ID": t["id"], **self.tri(t["name"], "name"),
                      **self.tri(t["description"], "description", True), "shortname": t["shortname"],
                      "order": str(t["order"]), "created": self.date(t.get("created")),
-                     "last modified": self.date(t.get("modified")), "domain": "russia-colonialism"}
+                     "last modified": self.date(t.get("modified")), "domain": "russia-colonialism",
+                     "file": f"tactics/{t['id']}.yml"}
                     for t in self.tactics.values()]
         if sheet == "Техники | Techniques":
             out = []
@@ -154,7 +157,7 @@ class KnowledgeBase:
                             "created": self.date(t.get("created")), "last modified": self.date(t.get("modified")),
                             "domain": "russia-colonialism", "version": t.get("version") or "1.0",
                             "is sub-technique": "TRUE" if t.get("parent") else "FALSE",
-                            "sub-technique of": t.get("parent") or ""})
+                            "sub-technique of": t.get("parent") or "", "file": f"techniques/{t['id']}.yml"})
             return out
         if sheet == "Акторы | Groups":
             return [{"to be published": "TRUE", "ID": a["id"], **self.tri(a["name"], "name"),
@@ -162,7 +165,8 @@ class KnowledgeBase:
                      **{f"contributors ({l})": self.contribs(a.get("contributors"), l) for l in LANGS},
                      "created": self.date(a.get("created")), "last modified": self.date(a.get("modified")),
                      "domain": "russia-colonialism", "version": a.get("version") or "1.0",
-                     "associated groups": ", ".join(a.get("associated_groups") or [])}
+                     "associated groups": ", ".join(a.get("associated_groups") or []),
+                     "file": f"actors/{a['id']}.yml"}
                     for a in self.actors.values()]
         if sheet == "Инструменты | Tools":
             return [{"to be published": "TRUE", "ID": s["id"], **self.tri(s["name"], "name"),
@@ -170,7 +174,8 @@ class KnowledgeBase:
                      **{f"contributors ({l})": self.contribs(s.get("contributors"), l) for l in LANGS},
                      "created": self.date(s.get("created")), "last modified": self.date(s.get("modified")),
                      "domain": "russia-colonialism", "version": s.get("version") or "1.0",
-                     "aliases": ", ".join(s.get("aliases") or []), "type": s.get("kind") or "tool"}
+                     "aliases": ", ".join(s.get("aliases") or []), "type": s.get("kind") or "tool",
+                     "file": f"tools/{s['id']}.yml"}
                     for s in self.tools.values()]
         if sheet == "Список материалов":
             out = []
@@ -201,7 +206,7 @@ class KnowledgeBase:
                             "first seen citation": self.cit_list(c.get("first_seen_citation")),
                             "last seen": self.date(c.get("last_seen")),
                             "last seen citation": self.cit_list(c.get("last_seen_citation")),
-                            "sub-campaign of": c.get("parent") or ""})
+                            "sub-campaign of": c.get("parent") or "", "file": c.get("file", "")})
             return out
         if sheet.startswith("Процедуры"):
             out = []
@@ -219,7 +224,8 @@ class KnowledgeBase:
                             "target technique name (ru)": self.techniques[p["technique"]]["name"]["ru"] if p["technique"] in self.techniques else "",
                             **self.tri(p["description"], "mapping description", True),
                             **{f"contributors ({l})": self.contribs(p.get("contributors"), l) for l in LANGS},
-                            "created": self.date(p.get("created")), "last modified": self.date(p.get("modified"))})
+                            "created": self.date(p.get("created")), "last modified": self.date(p.get("modified")),
+                            "file": p.get("file", "")})
             return out
         raise KeyError(f"лист «{sheet}» загрузчику неизвестен")
 
@@ -227,7 +233,8 @@ class KnowledgeBase:
         """DataFrame как у load_tab_api: все колонки листа, пустые ячейки - NA."""
         import pandas as pd
         kind = "campaigns" if sheet.startswith("Кампании") else "procedures" if sheet.startswith("Процедуры") else sheet
-        header = HEADERS[kind]
+        # «file» - колонка только файловой базы: путь файла сущности для кнопки «Предложить правку»
+        header = HEADERS[kind] + (["file"] if kind != "Список материалов" else [])
         rows = [[r.get(h, "") for h in header] for r in self.rows(sheet)]
         df = pd.DataFrame(rows, columns=header, dtype=str)
         return df.replace("", pd.NA)
