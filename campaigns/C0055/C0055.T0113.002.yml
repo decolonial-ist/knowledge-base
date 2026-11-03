@@ -1,0 +1,14 @@
+type: procedure
+id: C0055.T0113.002
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0113.002
+people: ukrainians
+actor: G0011
+tool: S0020
+contributors: []
+description:
+  ru: 'Попытка легализовать маргинализацию государственного языка в регионах: закон «Об основах государственной языковой политики» (закон Кивалова-Колесниченко) допускал перевод делопроизводства на «региональные языки», фактически закрепляя доминирование русского в русифицированных регионах(Citation: 198).'
+  en: 'An attempt to legalize the marginalization of the state language in the regions: the law "On the Principles of State Language Policy" (the Kivalov-Kolesnichenko law) allowed record-keeping to be transferred to "regional languages," effectively entrenching the dominance of Russian in the Russified regions(Citation: 198).'
+  uk: 'Спроба легалізувати маргіналізацію державної мови в регіонах: закон «Про засади державної мовної політики» (закон Ківалова-Колесніченка) допускав переведення діловодства на «регіональні мови», фактично закріплюючи домінування російської в русифікованих регіонах(Citation: 198).'

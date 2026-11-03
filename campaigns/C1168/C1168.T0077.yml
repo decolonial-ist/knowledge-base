@@ -1,0 +1,35 @@
+type: procedure
+id: C1168.T0077
+created: 2026-08-03
+modified: 2026-08-31
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историк Н. И. Покровский пишет: «Весь январь 1857 г. Чеченский и Кумыкский отряды рубят просеки», а «С 10 ноября началась новая экспедиция в Аух.
+    Ауховцы не выдержали и сдались, "принесли покорность"»(Citation: 129).
+    В 1858 году войска генерала Евдокимова вошли в Аргунское ущелье: «Царские войска ведут наступление по долине Аргуна.
+    В январе Чеченский отряд занял выход из Аргунского ущелья на плоскость... только в июле 1858 г. Евдокимов двинулся дальше... 4 июля он перешел Мескен-Дук и проник в Шатоевское общество»(Citation: 129).
+    Ход летней экспедиции виден по журналу самого генерала Евдокимова, поданному военному министру Сухозанету рапортом от 11 августа 1858 года, № 237: 4 августа к Аргуну подошёл имам Шамиль «со всею своею кавалеріею изъ Назрановской экспедиціи» и стал с двумя орудиями за оврагом Верды-ахк; «убѣдясь въ намѣреніи нашемъ оставаться на правомъ берегу Чанты-Аргуна, онъ приказалъ снимать лагерь», после чего имперские «2 легкихъ орудія и 2 полу-пудовыхъ мортиры открыли, по приказанію моему, огонь по горцамъ».
+    В тот же день Евдокимов «осмотрѣлъ мѣсто, на которомъ должно быть возведено главное укрѣпленіе, и тотчасъ-же приказалъ приступить къ разбивкѣ» его(Citation: 109).
+    В феврале 1859 года войска подошли к Ведено, столице имамата и резиденции имама Шамиля (руководителя сопротивления горцев Дагестана и Чечни российскому завоеванию), - крепость пала 1 апреля 1859 года(Citation: 129).
+  en: |-
+    Historian N. I. Pokrovsky writes: "Throughout January 1857 the Chechen and Kumyk detachments are cutting clearings", and "On 10 November a new expedition into Aukh began.
+    The Aukhovites could not hold out and surrendered, 'brought submission'"(Citation: 129).
+    In 1858 General Yevdokimov's troops entered the Argun gorge: "The tsarist troops are advancing along the Argun valley.
+    In January the Chechen detachment occupied the exit from the Argun gorge onto the plain... only in July 1858 did Yevdokimov move further... on 4 July he crossed Mesken-Duk and penetrated into the Shatoy society"(Citation: 129).
+    The course of the summer expedition can be seen from the journal of General Yevdokimov himself, submitted to Minister of War Sukhozanet with a report of 11 August 1858, No. 237: on 4 August imam Shamil approached the Argun "with all his cavalry from the Nazran expedition" and took position with two guns beyond the Verdy-akhk ravine; "having satisfied himself of our intention to remain on the right bank of the Chanty-Argun, he ordered the camp to be struck", after which the imperial "2 light guns and 2 half-pud mortars opened, at my order, fire on the highlanders".
+    That same day Yevdokimov "inspected the site on which the main fortification was to be built, and at once ordered that its laying-out begin"(Citation: 109).
+    In February 1859 the troops approached Vedeno, the capital of the Imamate and residence of imam Shamil (leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest) - the fortress fell on 1 April 1859(Citation: 129).
+  uk: |-
+    Історик М. І. Покровський пише: «Увесь січень 1857 р. Чеченський і Кумицький загони рублять просіки», а «З 10 листопада почалася нова експедиція в Аух.
+    Ауховці не витримали і здалися, „принесли покірність“»(Citation: 129).
+    У 1858 році війська генерала Євдокимова увійшли в Аргунську ущелину: «Царські війська ведуть наступ долиною Аргуна.
+    У січні Чеченський загін зайняв вихід з Аргунської ущелини на площину... лише в липні 1858 р. Євдокимов рушив далі... 4 липня він перейшов Мескен-Дук і проник у Шатоєвське товариство»(Citation: 129).
+    Хід літньої експедиції видно за журналом самого генерала Євдокимова, поданим військовому міністрові Сухозанету рапортом від 11 серпня 1858 року, № 237: 4 серпня до Аргуна підійшов імам Шаміль «з усією своєю кавалерією з Назранівської експедиції» і став із двома гарматами за яром Верди-ахк; «переконавшись у намірі нашому залишатися на правому березі Чанти-Аргуна, він наказав знімати табір», після чого імперські «2 легкі гармати і 2 півпудові мортири відкрили, за наказом моїм, вогонь по горцях».
+    Того ж дня Євдокимов «оглянув місце, на якому має бути зведене головне укріплення, і одразу ж наказав приступити до його розбивки»(Citation: 109).
+    У лютому 1859 року війська підійшли до Ведено, столиці імамату й резиденції імама Шаміля (керівника опору горців Дагестану і Чечні російському завоюванню), - фортеця впала 1 квітня 1859 року(Citation: 129).

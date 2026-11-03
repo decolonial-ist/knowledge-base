@@ -1,0 +1,28 @@
+type: procedure
+id: C1180.T0045.001
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0045.001
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Колонизатор разорял святыни и могилы выселенных чеченцев.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «...по распоряжению партийно-советских органов были разграблены даже мечети и кладбища...
+    Могильные чурты (камни) легли в основания фундаментов заводов, животноводческих ферм, ими мостили улицы городов, выкладывали бордюры тротуаров»(Citation: 125).
+    Колонизатор уничтожил городскую мечеть Грозного(Citation: 125).
+  en: |-
+    The colonizer ravaged the shrines and graves of the deported Chechens.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "...on the orders of the party-soviet organs even mosques and cemeteries were plundered...
+    The grave churts (stones) went into the foundations of factories and livestock farms; they were used to pave city streets and edge sidewalks"(Citation: 125).
+    The colonizer destroyed the city mosque of Grozny(Citation: 125).
+  uk: |-
+    Колонізатор плюндрував святині та могили виселених чеченців.
+    Історики Я. З. Ахмадов та Е. Х. Хасмагомадов пишуть: «...за розпорядженням партійно-радянських органів були розграбовані навіть мечеті та кладовища...
+    Могильні чурти (камені) лягли в основи фундаментів заводів, тваринницьких ферм, ними мостили вулиці міст, викладали бордюри тротуарів»(Citation: 125).
+    Колонізатор знищив міську мечеть Грозного(Citation: 125).

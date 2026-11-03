@@ -1,0 +1,24 @@
+type: procedure
+id: C0066.T0117.001
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0117.001
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Массовый завоз рабочей силы из российских губерний, менявший демографический баланс: «в 1892 г. 80 процентов рабочей силы на шахтах и заводах Юзовки, одного из промышленных городов Украины, прибыло из Московского региона»(Citation: 183).
+    «Среди рабочих и шахтёров Донбасса преобладали этнические русские из Центральной России…
+    Сельское население Донбасса было в основном этнически украинским»(Citation: 213).
+  en: |-
+    The mass importation of labor from the Russian governorates, altering the demographic balance: "in 1892, 80 percent of the workforce at the mines and plants of Yuzivka, one of Ukraine's industrial towns, had arrived from the Moscow region"(Citation: 183).
+    "Among the workers and miners of the Donbas, ethnic Russians from Central Russia predominated…
+    The rural population of the Donbas was mostly ethnically Ukrainian"(Citation: 213).
+  uk: |-
+    Масове завезення робочої сили з російських губерній, що змінювало демографічний баланс: «у 1892 р. 80 відсотків робочої сили на шахтах і заводах Юзівки, одного з промислових міст України, прибуло з Московського реґіону»(Citation: 183).
+    «Серед робітників і шахтарів Д[онбасу] переважали етнічні росіяни із Центр.
+    Росії…
+    Сільс. населення Д[онбасу] було здебільшого етнічно українським»(Citation: 213).

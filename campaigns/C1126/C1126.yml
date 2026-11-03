@@ -1,0 +1,49 @@
+type: campaign
+id: C1126
+created: 2026-06-18
+modified: 2026-09-05
+version: '1.2'
+people: nokhchi
+associated_campaigns:
+- C1124
+first_seen: 1708-01-01
+first_seen_citation:
+- '94'
+last_seen: 1708-12-31
+contributors: []
+name:
+  ru: Подавление восстания Мурата Кучукова и террор против коренного населения (1708)
+  en: Suppression of the Uprising of Murat Kuchukov and Terror against the Indigenous Population (1708)
+  uk: Придушення повстання Мурата Кучукова і терор проти корінного населення (1708)
+description:
+  ru: |-
+    В 1708 году Московское Царство применило радикальное насилие для подавления вооруженного выступления коренного населения.
+    Причиной восстания послужили методы, ранее заложенные метрополией в рамках кампании [C1124: Карательные рейды и экономическое удушение нохчи, 1691–1700](/campaigns/C1124): системные злоупотребления воевод и дискриминационная экономическая политика.
+    Историк Ш. Б. Ахмадов констатирует, что из-за пошлин «экономическое общение вайнахов с Россией... было практически парализовано»(Citation: 66).
+    В ответ на осаду Терского города отрядами под предводительством Мурата Кучукова, правительство организовало масштабные операции: историк Я. З. Ахмадов констатирует, что «меры, принятые Петром I по борьбе с булавинской «ребелией» и другими восстаниями, в т.ч. на Тереке против Чечни, были, по существу, карательными»(Citation: 94).
+    Регулярная армия осуществляла зачистки: он подчеркивает, что «на Терек были отправлены военные команды, физически уничтожавшие население, проявлявшее малейшее неповиновение»(Citation: 94).
+    Военное давление дополнялось сговором с третьей стороной: исследователь дополняет, что 30 сентября 1708 года дипломатический аппарат заключил с калмыцким ханом Аюкой соглашение, включавшее пункт «о преследовании чеченцев и ногайцев»(Citation: 94).
+    Для нейтрализации оппозиции метрополия пленила лидера восставших: Ахмадов указывает, что царь «лично решал судьбу руководителей повстанцев»(Citation: 94), в результате чего предводитель, «попавший раненым в плен, был повешен»(Citation: 94).
+    Тотальное устрашение обеспечивалось показательным террором: автор фиксирует, что казнь осуществили «за ребро на крюке в соответствии с приказом Петра I П.М.
+    Апраксину («учини жестокую смертную казнь»)»(Citation: 94).
+  en: |-
+    In 1708, the Tsardom of Muscovy employed radical violence to suppress an armed uprising of the Indigenous population.
+    The revolt was caused by the methods previously laid down by the metropole within the campaign [C1124: Punitive Raids and Economic Strangulation of the Nokhchi, 1691–1700](/campaigns/C1124): systematic abuses by the voevodas and a discriminatory economic policy.
+    Historian Sh.
+    B. Akhmadov states that, because of the duties, “the economic interaction of the Vainakhs with Russia... was practically paralyzed”(Citation: 66).
+    In response to the siege of the town of Terki by detachments led by Murat Kuchukov, the government organized large-scale operations: historian Ya.
+    Z. Akhmadov states that “the measures taken by Peter I to combat the Bulavin ‘rebellion’ and other uprisings, including on the Terek against Chechnya, were, in essence, punitive”(Citation: 94).
+    The Regular Army carried out sweep operations: he emphasizes that “military detachments were sent to the Terek that physically exterminated any population showing the slightest disobedience”(Citation: 94).
+    Military pressure was supplemented by collusion with a third party: the researcher adds that on September 30, 1708, the diplomatic apparatus concluded an agreement with the Kalmyk khan Ayuka that included a clause “on the persecution of Chechens and Nogais”(Citation: 94).
+    To neutralize the opposition, the metropole took the leader of the insurgents captive: Akhmadov points out that the tsar “personally decided the fate of the rebel leaders”(Citation: 94), as a result of which the leader, “taken prisoner while wounded, was hanged”(Citation: 94).
+    Total intimidation was ensured through demonstrative terror: the author records that the execution was carried out “by the rib on a hook, in accordance with Peter I’s order to P.M. Apraksin (‘inflict a cruel death penalty’)”(Citation: 94).
+  uk: |-
+    У 1708 році Московське царство застосувало радикальне насильство для придушення збройного виступу корінного населення.
+    Причиною повстання стали методи, раніше закладені метрополією в межах кампанії [C1124: Каральні рейди та економічне удушення Нохчі, 1691–1700](/campaigns/C1124): системні зловживання воєвод і дискримінаційна економічна політика.
+    Історик Ш. Б. Ахмадов констатує, що через мита «економічне спілкування Вайнахів з Росією... було практично паралізоване»(Citation: 66).
+    У відповідь на облогу Терського міста загонами під проводом Мурата Кучукова уряд організував масштабні операції: історик Я. З. Ахмадов констатує, що «заходи, вжиті Петром I для боротьби з булавінською „ребелією“ та іншими повстаннями, зокрема на Тереку проти Чечні, були, по суті, каральними»(Citation: 94).
+    Регулярна армія здійснювала зачистки: він підкреслює, що «на Терек були відправлені військові команди, які фізично знищували населення, що виявляло найменшу непокору»(Citation: 94).
+    Військовий тиск доповнювався змовою з третьою стороною: дослідник додає, що 30 вересня 1708 року дипломатичний апарат уклав з калмицьким ханом Аюкою угоду, яка містила пункт «про переслідування Чеченців і Ногайців»(Citation: 94).
+    Для нейтралізації опозиції метрополія полонила лідера повсталих: Ахмадов вказує, що цар «особисто вирішував долю керівників повстанців»(Citation: 94), внаслідок чого ватажок, «який потрапив пораненим у полон, був повішений»(Citation: 94).
+    Тотальне залякування забезпечувалося показовим терором: автор фіксує, що страту здійснили «за ребро на гаку відповідно до наказу Петра I П.М.
+    Апраксіну („учини жорстоку смертну кару“)»(Citation: 94).

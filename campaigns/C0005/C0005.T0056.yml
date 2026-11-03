@@ -1,0 +1,14 @@
+type: procedure
+id: C0005.T0056
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0056
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: 'Почувствовав политическую власть над Левобережьем, Москва немедленно попыталась перехватить право на сбор налогов, чтобы напрямую выкачивать ресурсы: «попыток русских воевод... ввести в Украине свою систему налогообложения приводили только к бунтам (например... попытку переписи 1666 года...)»(Citation: 4).'
+  en: 'Having gained political power over the Left Bank, Moscow immediately attempted to seize the right to collect taxes in order to extract resources directly: "the attempts of Russian voivodes... to introduce their own taxation system in Ukraine led only to revolts (for example... the attempted census of 1666...)"(Citation: 4).'
+  uk: 'Відчувши політичну владу над Лівобережжям, Москва негайно спробувала перехопити право на збирання податків, щоб напряму викачувати ресурси: «спроби російських воєвод... запровадити в Україні свою систему оподаткування призводили лише до бунтів (наприклад... спроба перепису 1666 року...)»(Citation: 4).'

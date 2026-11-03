@@ -1,0 +1,23 @@
+type: procedure
+id: C1174.T0037
+created: 2026-08-09
+modified: 2026-08-09
+version: '1.0'
+technique: T0037
+people: nokhchi
+actor: G0014
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В 1919 году генерал Деникин не признал и распустил Горское правительство(Citation: 256); назначенный правителем Терской области генерал Ляхов согласился считать парламент республики лишь «совещательным органом при своей особе»(Citation: 125).
+    Правителем Чечни Добровольческая армия назначила генерала из чеченцев - историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Правителем же Чечни от Добровольческой армии был назначен известный военный - генерал Эрисхан (Ирисхан) Алиев, чеченец по происхождению»(Citation: 125). 29 марта 1919 года Деникин созвал в Грозном совещание - как пишут те же историки, «призванное положить конец кровопролитию и утвердить Э. Алиева в качестве правителя Чечни», - присутствовали представители 42 селений, в основном сторонники Атагинского совета (Чеченского Национального Совета, заседавшего в Старых Атагах), предприниматели и часть духовенства(Citation: 125).
+  en: |-
+    In 1919 General Denikin refused to recognize the Mountain government and dissolved it(Citation: 256); General Lyakhov, appointed ruler of the Terek oblast, agreed to regard the republic's parliament as no more than "a consultative organ attached to his person"(Citation: 125).
+    As ruler of Chechnya the Volunteer Army appointed a general from among the Chechens - historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "As Ruler of Chechnya on behalf of the Volunteer Army was appointed a well-known military man - General Eriskhan (Iriskhan) Aliev, a Chechen by origin"(Citation: 125).
+    On 29 March 1919 Denikin convened a conference in Grozny - as the same historians write, one "called upon to put an end to the bloodshed and to confirm E. Aliev as ruler of Chechnya" - attended by representatives of 42 villages, mostly supporters of the Atagi Soviet (the Chechen National Council, which sat in Starye Atagi), entrepreneurs and part of the clergy(Citation: 125).
+  uk: |-
+    У 1919 році генерал Денікін не визнав і розпустив Гірський уряд(Citation: 256); призначений правителем Терської області генерал Ляхов погодився вважати парламент республіки лише «дорадчим органом при своїй особі»(Citation: 125).
+    Правителем Чечні Добровольча армія призначила генерала з чеченців - історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Правителем же Чечні від Добровольчої армії було призначено відомого військового - генерала Ерісхана (Ірісхана) Алієва, чеченця за походженням»(Citation: 125). 29 березня 1919 року Денікін скликав у Грозному нараду - як пишуть ті ж історики, «покликану покласти край кровопролиттю і затвердити Е. Алієва як правителя Чечні», - були присутні представники 42 селищ, здебільшого прихильники Атагинської Ради (Чеченської Національної Ради, що засідала в Старих Атагах), підприємці та частина духовенства(Citation: 125).

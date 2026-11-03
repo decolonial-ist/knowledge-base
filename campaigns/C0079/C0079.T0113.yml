@@ -1,0 +1,14 @@
+type: procedure
+id: C0079.T0113
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique: T0113
+people: ukrainians
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: 'Принудительная реформа правописания 1933 года, направленная на искусственное сближение украинской грамматики и терминологии с русским языком(Citation: 22).'
+  en: 'The forced orthography reform of 1933, aimed at artificially bringing Ukrainian grammar and terminology closer to the Russian language(Citation: 22).'
+  uk: 'Примусова реформа правопису 1933 року, спрямована на штучне зближення української граматики й термінології з російською мовою(Citation: 22).'

@@ -1,0 +1,14 @@
+type: procedure
+id: C0046.T0010
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0010
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Официальный отказ в признании языка и идентичности – формула валуевского циркуляра (1863): «никакого особенного малороссийского языка не было, нет и быть не может, и что наречие их, употребляемое простонародием, есть тот же русский язык, только испорченный влиянием на него Польши»(Citation: 151).'
+  en: 'The official refusal to recognize the language and identity – the formula of Valuev''s circular (1863): "there was not, is not, and cannot be any distinct Little Russian language, and their dialect, used by the common folk, is the same Russian language, only spoiled by Poland''s influence upon it"(Citation: 151).'
+  uk: 'Офіційна відмова у визнанні мови та ідентичності – формула валуєвського циркуляра (1863): «ніякої особливої малоросійської мови не було, нема і бути не може, і що наріччя їхнє, вживане простолюдом, є та сама російська мова, тільки зіпсована впливом на неї Польщі»(Citation: 151).'

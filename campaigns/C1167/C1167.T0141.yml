@@ -1,0 +1,26 @@
+type: procedure
+id: C1167.T0141
+created: 2026-07-31
+modified: 2026-07-31
+version: '1.0'
+technique: T0141
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Империя выжила жителей Ханкальского ущелья голодом по открыто сформулированному плану.
+    Имперский историк Волконский записал замысел лета 1852 года: Барятинский, командовавший на левом фланге Кавказской линии (цепи имперских укреплений на земле нохчи), «решился... выкурить жителей из ущелья, именно - выкурить, потому что нужно было огнем истребить все, что давало им продовольствие»; расчёт Волконский записал так - «Искать же у нас пропитания - значит смириться, подчиниться и волей-неволей переселиться»(Citation: 119).
+    Тот же расчёт стоял за сносом Хан-Калы - жителей рассчитывали оторвать от имама Шамиля, руководителя сопротивления горцев Дагестана и Чечни российскому завоеванию: «жители, лишенные крова и пропитания, вместо перебега к Шамилю, стали бы искать у нас приюта»(Citation: 119).
+    При осаде Хан-Калы отряд отрезал аул и от воды: «у неприятеля была отнята возможность иметь прикрытый доступ к реке, и он лишался воды»(Citation: 119).
+  en: |-
+    The empire starved the inhabitants of the Khankala gorge out by an openly formulated plan.
+    Imperial historian Volkonsky recorded the design of the summer of 1852: Baryatinsky, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), "resolved... to smoke the inhabitants out of the gorge, precisely - to smoke them out, because it was necessary to annihilate with fire everything that gave them subsistence"; the calculation Volkonsky recorded thus - "And to seek food from us means to humble oneself, submit, and willy-nilly resettle"(Citation: 119).
+    The same calculation stood behind the razing of Khan-Kala - the inhabitants were to be torn away from Imam Shamil, leader of the highlanders' resistance of Dagestan and Chechnya to the Russian conquest: "the inhabitants, deprived of shelter and sustenance, instead of running over to Shamil, would seek refuge with us"(Citation: 119).
+    During the siege of Khan-Kala the detachment cut the aul off from water as well: "the enemy was deprived of the possibility of covered access to the river, and he was left without water"(Citation: 119).
+  uk: |-
+    Імперія вижила жителів Ханкальської ущелини голодом за відкрито сформульованим планом.
+    Імперський історик Волконський записав задум літа 1852 року: Барятинський, що командував на лівому фланзі Кавказької лінії (ланцюга імперських укріплень на землі нохчі), «зважився... викурити жителів з ущелини, саме - викурити, бо треба було вогнем винищити все, що давало їм продовольство»; розрахунок Волконський записав так - «Шукати ж у нас прожитку - значить змиритися, підкоритися і волею-неволею переселитися»(Citation: 119).
+    Той самий розрахунок стояв за знесенням Хан-Кали - жителів розраховували відірвати від імама Шаміля, керівника опору горців Дагестану і Чечні російському завоюванню: «жителі, позбавлені даху і прожитку, замість перебігу до Шаміля, стали б шукати в нас притулку»(Citation: 119).
+    Під час облоги Хан-Кали загін відрізав аул і від води: «у ворога було відібрано можливість мати прикритий доступ до річки, і він позбавлявся води»(Citation: 119).

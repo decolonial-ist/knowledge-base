@@ -1,0 +1,23 @@
+type: procedure
+id: C1020.T0141
+created: 2026-05-12
+modified: 2026-08-01
+version: '1.0'
+technique: T0141
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Империя целенаправленно использовала малоземелье и тяжелые экономические условия в украинских губерниях, вынуждая десятки тысяч человек переехать на Кавказ: в «в 1809—11 переселено ок. 24 тыс. лиц мужского и 19 тыс. женского пола для укрепления южной границы и обеспечения Черноморского казацкого войска хлебом; в 1820 речь шла о переселении 25 тыс. малороссийских казаков»(Citation: 195).
+    В 1832 году население Кавказской линии также было пополнено малороссийскими казаками «переселившимися из Полтавской и Черниговской губерний»(Citation: 51).
+    Совокупный масштаб зафиксирован архивно: «в течение 1792—1865 из Украины на Кубань было переселено казаков в составе войсковых формирований, казаков бывшей Гетманщины и Слободской Украины и крестьян - 158 843 человека»(Citation: 194).
+  en: |-
+    The empire deliberately exploited land shortage and harsh economic conditions in the Ukrainian gubernias, forcing tens of thousands of people to move to the Caucasus: in "1809–11 about 24 thousand males and 19 thousand females were resettled to strengthen the southern border and supply the Black Sea Cossack Host with grain; in 1820 the resettlement of 25 thousand Little Russian Cossacks was at issue"(Citation: 195).
+    In 1832 the population of the Caucasian Line was likewise replenished with Little Russian Cossacks "who had resettled from the Poltava and Chernihiv gubernias"(Citation: 51).
+    The cumulative scale is fixed in the archives: "during 1792-1865, 158,843 people were resettled from Ukraine to the Kuban - Cossacks within military formations, Cossacks of the former Hetmanate and Sloboda Ukraine, and peasants"(Citation: 194).
+  uk: |-
+    Імперія цілеспрямовано використовувала малоземелля та важкі економічні умови в українських губерніях, змушуючи десятки тисяч людей переїхати на Кавказ: у «1809—11 переселено бл. 24 тис. осіб чоловічої і 19 тис. жіночої статі для зміцнення пд. кордону та забезпечення Чорномор. козац. війська хлібом; 1820 йшлося про переселення 25 тис. малорос. козаків»(Citation: 195).
+    У 1832 році населення Кавказької лінії також було поповнене малоросійськими козаками «що переселилися з Полтавської та Чернігівської губерній»(Citation: 51).
+    Сукупний масштаб зафіксовано архівно: «Протягом 1792—1865 з України на Кубань було переселено козаків у складі військ. формувань, козаків колишньої Гетьманщини і Слобідської України та селян 158 843 особи»(Citation: 194).

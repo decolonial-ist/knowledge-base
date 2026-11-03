@@ -1,0 +1,41 @@
+type: procedure
+id: C1170.T0032
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0032
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    С 1882 года «особо важные» дела, где обвиняемыми были горцы, передавались военно-полевому суду; в 1893 году с разрешения императора значительная часть уголовных дел горцев изъята из общегражданских судов - в чьё ведение перешли эти дела, источник не уточняет(Citation: 252).
+    Наказывать можно было и без суда: начальник области арестовывал горцев до одного месяца по личному усмотрению, на аульные общества налагал взыскания за укрывательство(Citation: 252); 19 ноября 1893 года на Терскую область распространены правила административной высылки в Восточную Сибирь по обвинению или подозрению в краже лошадей и скота(Citation: 252), а по историкам Я. З. Ахмадову и Э. Х. Хасмагомадову решение об административной ссылке сроком до пяти лет принимал командующий Кавказской армией, и местом ссылки служил остров Чечень на Каспии(Citation: 125).
+    «Временное положение о мерах по удержанию туземного населения Терской области от хищничества» 1894 года — проект его представил на утверждение начальник Терской области генерал Каханов — по историку З. Х. Ибрагимовой, узаконило круговую поруку сельского общества за совершённые преступления(Citation: 252); историки Я. З. Ахмадов и Э. Х. Хасмагомадов фиксируют механику: горские селения платили за угнанный скот, «если следы угнанного скота оказывались потерянными вблизи данного селения», причём «совершенно игнорировалась возможность того, что похитители могли быть и не горцами»(Citation: 125).
+    Коренным жителям запрещалось занимать должности пристава и начальника округа и быть мировыми судьями(Citation: 252); положение 1888 года об управлении Терской и Кубанской областями установило, словами историка З. Х. Ибрагимовой, «узко-кастовое военно-казачье управление, без участия в нём не только представителей горских народов, но и не казачьего элемента... горцы ставились вне действия общих законов»(Citation: 252).
+    В 1890-х годах администрация отдельным распоряжением запретила казакам куначество с горцами (куначество - побратимство, институт дружбы домами)(Citation: 252).
+    Разделяли и по службе: «политическая неблагонадёжность» кавказских мусульман заставила власть отказаться от формирования из них строевых частей, и с 1886 года по распоряжению военного министра новобранцы из Терской области распределялись только в войска, стоявшие на Кавказе(Citation: 252).
+    Земства в области не вводились вовсе; внесённое в 1914 году в Государственную думу предложение о земских учреждениях в Терской области до революции принято не было(Citation: 252).
+  en: |-
+    From 1882 "especially important" cases in which the accused were highlanders were transferred to the field court-martial; in 1893, with the emperor's permission, a significant share of highlanders' criminal cases was withdrawn from the general civil courts - into whose jurisdiction these cases passed, the source does not specify(Citation: 252).
+    Punishment could also be imposed without any court: the head of the oblast jailed highlanders for up to one month at his personal discretion, and imposed penalties on aul communities for harbouring(Citation: 252); on 19 November 1893 the rules of administrative deportation to Eastern Siberia on accusation or suspicion of stealing horses and livestock were extended to the Terek oblast(Citation: 252), and according to historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov the decision on administrative exile for a term of up to five years was taken by the commander of the Caucasus Army, and the place of exile was Chechen Island in the Caspian(Citation: 125).
+    The 1894 "Temporary Regulation on Measures to Restrain the Native Population of the Terek Oblast from 'Predation'" - its draft was submitted for approval by the head of the Terek oblast, general Kakhanov - according to historian Z. Kh.
+    Ibragimova, wrote the collective liability of the village community for committed crimes into law(Citation: 252); historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov record the mechanics: mountain villages paid for stolen livestock "if the tracks of the stolen livestock turned out to be lost near the given village", while "the possibility that the thieves might not be highlanders at all was completely ignored"(Citation: 125).
+    Indigenous inhabitants were barred from holding the posts of pristav and okrug head and from serving as justices of the peace(Citation: 252); the 1888 regulation on the administration of the Terek and Kuban oblasts established, in the words of historian Z. Kh.
+    Ibragimova, "a narrowly caste-based military-Cossack administration, without the participation not only of representatives of the mountain peoples but of the non-Cossack element as well... the highlanders were placed outside the operation of the general laws"(Citation: 252).
+    In the 1890s the administration, by a separate order, forbade Cossacks to keep kunachestvo with highlanders (kunachestvo - sworn brotherhood, an institution of friendship between households)(Citation: 252).
+    Service was segregated too: the "political unreliability" of the Caucasus Muslims led the authorities to give up forming line units from them, and from 1886, by order of the Minister of War, recruits from the Terek oblast were assigned only to troops stationed in the Caucasus(Citation: 252).
+    Zemstvos were never introduced in the oblast at all; the proposal on zemstvo institutions in the Terek oblast, submitted to the State Duma in 1914, was not adopted before the revolution(Citation: 252).
+  uk: |-
+    З 1882 року «особливо важливі» справи, де обвинуваченими були горці, передавалися військово-польовому суду; у 1893 році з дозволу імператора значну частину кримінальних справ горців вилучено із загальноцивільних судів - у чиє відання перейшли ці справи, джерело не уточнює(Citation: 252).
+    Карати можна було й без суду: начальник області арештовував горців до одного місяця на власний розсуд, на аульні громади накладав стягнення за переховування(Citation: 252); 19 листопада 1893 року на Терську область поширено правила адміністративного вислання до Східного Сибіру за обвинуваченням або підозрою в крадіжці коней і худоби(Citation: 252), а за істориками Я. З. Ахмадовим і Е. Х. Хасмагомадовим рішення про адміністративне заслання строком до п'яти років ухвалював командувач Кавказької армії, і місцем заслання слугував острів Чечень на Каспії(Citation: 125).
+    «Тимчасове положення про заходи з утримання тубільного населення Терської області від хижацтва» 1894 року - проєкт його подав на затвердження начальник Терської області генерал Каханов - за істориком З. Х. Ібрагімовою, узаконило кругову поруку сільської громади за скоєні злочини(Citation: 252); історики Я. З. Ахмадов і Е. Х. Хасмагомадов фіксують механіку: горські селища платили за викрадену худобу, «якщо сліди викраденої худоби виявлялися загубленими поблизу даного селища», причому «цілком ігнорувалася можливість того, що викрадачі могли бути й не горцями»(Citation: 125).
+    Корінним жителям заборонялося обіймати посади пристава і начальника округу та бути мировими суддями(Citation: 252); положення 1888 року про управління Терською і Кубанською областями встановило, словами історика З. Х. Ібрагімової, «вузько-кастове військово-козаче управління, без участі в ньому не тільки представників горських народів, а й некозачого елементу... горці ставилися поза дією загальних законів»(Citation: 252).
+    У 1890-х роках адміністрація окремим розпорядженням заборонила козакам кунацтво з горцями (кунацтво - побратимство, інститут дружби домами)(Citation: 252).
+    Розділяли й за службою: «політична неблагонадійність» кавказьких мусульман змусила владу відмовитися від формування з них стройових частин, і з 1886 року за розпорядженням військового міністра новобранці з Терської області розподілялися лише у війська, що стояли на Кавказі(Citation: 252).
+    Земства в області не запроваджувалися зовсім; внесена 1914 року до Державної думи пропозиція про земські установи в Терській області до революції ухвалена не була(Citation: 252).

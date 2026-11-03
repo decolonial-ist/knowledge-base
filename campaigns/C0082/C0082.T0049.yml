@@ -1,0 +1,14 @@
+type: procedure
+id: C0082.T0049
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.0'
+technique: T0049
+people: ukrainians
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: 'Массовый призыв полевыми военкоматами населения только что освобожденных территорий: «„Черносвитники“ или „чёрная пехота“ – такое неофициальное название получили мужчины и юноши, мобилизованные полевыми военными комиссариатами, а фактически командирами объединений, соединений и частей в 1943–1944 гг. после освобождения Красной армией оккупированных врагом территорий»(Citation: 211).'
+  en: 'The mass conscription by field draft offices of the population of just-liberated territories: "''Chornosvytnyky'' or ''black infantry'' – such was the unofficial name given to men and youths mobilized by field military commissariats, and in fact by the commanders of formations, units, and detachments in 1943–1944 after the Red Army''s liberation of enemy-occupied territories"(Citation: 211).'
+  uk: 'Масовий призов польовими військкоматами населення щойно звільнених територій: «„Чорносвитники“ або „чорна піхота“ – таку неофіційну назву отримали чоловіки і юнаки, мобілізовані польовими військовими комісаріатами, а фактично командирами об''єднань, з''єднань і частин у 1943–1944 рр. після звільнення Червоною армією окупованих ворогом територій»(Citation: 211).'

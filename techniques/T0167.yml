@@ -1,0 +1,28 @@
+type: technique
+id: T0167
+created: 2026-09-27
+modified: 2026-11-01
+version: '1.1'
+tactics:
+- TA0004
+name:
+  ru: Вероломство
+  en: Perfidy
+  uk: Віроломство
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут обманывать доверие коренного народа: обещать мир, безопасность, прощение или свободу развивать свою культуру, прикрываться красным крестом, белым флагом, знаками международных миссий, чужой формой или гражданской одеждой.
+    Люди складывают оружие, выходят из укрытий, подпускают нападающих, возвращаются из эмиграции или открыто заявляют о себе, а колонизатор арестовывает, высылает или убивает тех, кто поверил.
+    Так колонизатор отнимает у людей защиту права войны: верить белому флагу и красному кресту становится опасно для жизни.
+    На войне международное право запрещает такой обман как вероломство (статья 37 Дополнительного протокола I к Женевским конвенциям), а злоупотребление красным крестом, белым флагом и знаками ООН - отдельно (статья 38).
+  en: |-
+    Aggressors may betray the trust of the Indigenous people: promise peace, safety, pardon or the freedom to develop their culture, hide behind the red cross, the white flag, the emblems of international missions, the other side's uniform or civilian clothing.
+    People lay down their arms, come out of hiding, let the attackers come close, return from emigration or make themselves known openly, and the colonizer arrests, deports or kills those who believed.
+    This is how the colonizer strips people of the protection of the law of war: trusting the white flag and the red cross becomes a risk to life.
+    In war, international law prohibits such deception as perfidy (Article 37 of Additional Protocol I to the Geneva Conventions), and separately prohibits the misuse of the red cross, the white flag and the UN emblems (Article 38).
+  uk: |-
+    Агресори можуть обманювати довіру корінного народу: обіцяти мир, безпеку, прощення або свободу розвивати свою культуру, прикриватися червоним хрестом, білим прапором, знаками міжнародних місій, чужою формою чи цивільним одягом.
+    Люди складають зброю, виходять зі сховків, підпускають нападників, повертаються з еміграції або відкрито заявляють про себе, а колонізатор заарештовує, висилає або вбиває тих, хто повірив.
+    Так колонізатор відбирає в людей захист права війни: вірити білому прапору й червоному хресту стає небезпечно для життя.
+    На війні міжнародне право забороняє такий обман як віроломство (стаття 37 Додаткового протоколу I до Женевських конвенцій), а зловживання червоним хрестом, білим прапором і знаками ООН - окремо (стаття 38).

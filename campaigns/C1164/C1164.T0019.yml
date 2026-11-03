@@ -1,0 +1,23 @@
+type: procedure
+id: C1164.T0019
+created: 2026-07-24
+modified: 2026-08-04
+version: '1.0'
+technique: T0019
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    На восстание Чечни империя ответила вводом войск.
+    Генерал Пулло, командовавший левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), рапортом от 9 марта 1840 года доносил о выступлении против восставших: «я выступил вчерашнего числа в Ханкалу с 5-ю ротами» (Ханкала - урочище у крепости Грозной)(Citation: 126).
+    Вторым вводом стал отряд на реке Сунже: имперское предписание от 25 марта 1840 года поставило ему задачу «удержания карабулаков в покорности» (карабулаки - вайнахское общество между Чечнёй и Ингушетией; «покорность» - имперская формула подчинения)(Citation: 126).
+  en: |-
+    The empire answered the Chechen uprising by sending in troops.
+    General Pullo, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), reported on 9 March 1840 about marching out against the insurgents: "I set out yesterday for Khankala with 5 companies" (Khankala - a tract by the Groznaya fortress)(Citation: 126).
+    The second deployment was a detachment on the Sunzha river: an imperial instruction of 25 March 1840 set it the task of "keeping the Karabulaks in submission" (the Karabulaks - a Vainakh community between Chechnya and Ingushetia; "submission" - the empire's formula of subordination)(Citation: 126).
+  uk: |-
+    На повстання Чечні імперія відповіла введенням військ.
+    Генерал Пулло, який командував лівим флангом Кавказької лінії (ланцюга імперських укріплень на землі нохчі), рапортом від 9 березня 1840 року доносив про виступ проти повсталих: «я виступив учорашнього числа в Ханкалу з 5-ма ротами» (Ханкала - урочище біля фортеці Грозної)(Citation: 126).
+    Другим введенням став загін на річці Сунжі: імперський припис від 25 березня 1840 року поставив йому завдання «утримання карабулаків у покірності» (карабулаки - вайнахська громада між Чечнею та Інгушетією; «покірність» - імперська формула підпорядкування)(Citation: 126).

@@ -1,0 +1,26 @@
+type: technique
+id: T0022
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+- TA0004
+name:
+  ru: Террор
+  en: Terror
+  uk: Терор
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут использовать системное, демонстративное и масштабное насилие против местного населения.
+    Эта форма радикального давления применяется для нейтрализации защиты в активной фазе конфликта и для последующего закрепления оккупационного режима.
+    Проведение массовых внесудебных казней, публичных расправ и истязаний направлено на тотальный психологический слом воли колонизируемого общества, физическое подавление сопротивления и принуждение к безоговорочной покорности.
+  en: |-
+    Aggressors may use systemic, demonstrative, and large-scale violence against the local population.
+    This form of radical pressure is used to neutralize defenses in the active phase of a conflict and for the subsequent consolidation of the occupation regime.
+    Carrying out mass extrajudicial executions, public reprisals, and torture is aimed at the total psychological breaking of the colonized society's will, the physical suppression of resistance, and coercion into unconditional submission.
+  uk: |-
+    Агресори можуть використовувати системне, демонстративне та масштабне насильство проти місцевого населення.
+    Ця форма радикального тиску застосовується для нейтралізації захисту в активній фазі конфлікту та для подальшого закріплення окупаційного режиму.
+    Проведення масових позасудових страт, публічних розправ і катувань спрямоване на тотальний психологічний злам волі колонізованого суспільства, фізичне придушення опору та примус до беззастережної покори.

@@ -1,0 +1,29 @@
+type: procedure
+id: C1137.T0148
+created: 2026-06-26
+modified: 2026-06-26
+version: '1.0'
+technique: T0148
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    НЕ ПОДТВЕРЖДЕНО КАК АКТ.
+    Та же декларация (АКАК т. 2, Цицианов - Чарторыйскому, 10 марта 1804): угон скота без выкупу зимой и осенью объявлен средством принуждения чеченцев к подчинению.
+    Это формулировка тактики, а не задокументированный угон у конкретного селения нохчи.
+    Намерение не равно действию - техника твердо НЕ встает.
+    Внесено красным: требует документа об актическом угоне скота у нохчи (потенциально - рапорт Шепелева, см. процедуру T0077, источник не найден).
+  en: |-
+    NOT CONFIRMED AS AN ACT.
+    The same declaration (AKAK vol. 2, Tsitsianov to Czartoryski, March 10, 1804): the driving off of livestock without ransom in winter and autumn is proclaimed a means of subduing Chechens.
+    This is a formulation of a tactic, not a documented driving off of livestock from a specific Nokhchi settlement.
+    Intent does not equal action — the technique firmly does NOT stand.
+    Entered in red: requires a document on an actual driving off of livestock from the Nokhchi (potentially Shepelev's report, see procedure T0077; source not found).
+  uk: |-
+    НЕ ПІДТВЕРДЖЕНО ЯК АКТ.
+    Та сама декларація (АКАК т. 2, Ціціанов — Чарторийському, 10 березня 1804): відгін худоби без викупу взимку й восени оголошено засобом примусу Чеченців до підпорядкування.
+    Це формулювання тактики, а не задокументований відгін худоби в конкретному селищі Нохчі.
+    Намір не дорівнює дії — техніка твердо НЕ підтверджується.
+    Внесено червоним: потребує документа про фактичний відгін худоби у Нохчі (потенційно — рапорт Шепелєва, див. процедуру T0077, джерело не знайдено).

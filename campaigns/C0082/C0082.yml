@@ -1,0 +1,29 @@
+type: campaign
+id: C0082
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1941-06-22
+last_seen: 1945-05-09
+contributors: []
+name:
+  ru: Тактика «выжженной земли» и преступная мобилизация (1941–1945)
+  en: Scorched Earth Tactics and Criminal Mobilization (1941–1945)
+  uk: Тактика «випаленої землі» та злочинна мобілізація (1941–1945)
+description:
+  ru: |-
+    Отношение советской власти к Украине как к колониальному ресурсу во время войны.
+    При отступлении 1941 года действовала директива СНК СССР и ЦК ВКП(б) от 29 июня 1941 года: «При вынужденном отходе частей Красной Армии… не оставлять противнику ни килограмма хлеба, ни литра горючего…
+    Все ценное имущество… которое не может быть вывезено, должно безуслов­но уничтожаться»(Citation: 167).
+    В 1943–1944 годах на освобожденной территории проводилась мобилизация «черносвитников»: их «бросали в боевые действия часто сразу, без прохождения военной подготовки… иногда невооружёнными, не переодетыми в военную форму»(Citation: 211).
+  en: |-
+    The Soviet authorities' treatment of Ukraine as a colonial resource during the war.
+    During the 1941 retreat the directive of the USSR Sovnarkom and the Central Committee of 29 June 1941 was in force: "In the forced withdrawal of Red Army units… leave the enemy not a kilogram of grain, not a liter of fuel…
+    All valuable property… that cannot be evacuated must without fail be destroyed"(Citation: 167).
+    In 1943–1944, on the liberated territory, the mobilization of the "chornosvytnyky" was carried out: they were "thrown into combat often at once, without undergoing military training… sometimes unarmed, not even changed into military uniform"(Citation: 211).
+  uk: |-
+    Ставлення радянської влади до України як до колоніального ресурсу під час війни.
+    Під час відступу 1941 року діяла директива РНК СРСР і ЦК ВКП(б) від 29 червня 1941 року: «При вимушеному відході частин Червоної Армії… не залишати противникові ні кілограма хліба, ні літра пального…
+    Все цінне майно… яке не може бути вивезене, повинно безумовно знищуватися»(Citation: 167).
+    У 1943–1944 роках на звільненій території проводилася мобілізація «чорносвитників»: їх «кидали у бойові дії часто відразу, без проходження військової підготовки… іноді неозброєними, не переодягненими у військову форму»(Citation: 211).

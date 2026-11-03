@@ -1,0 +1,26 @@
+type: campaign
+id: C0095
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.1'
+people: ukrainians
+first_seen: 1991-08-18
+last_seen: 1991-08-21
+contributors: []
+name:
+  ru: Попытка государственного переворота ГКЧП (август 1991)
+  en: Attempted Coup d'État by the GKChP (August 1991)
+  uk: Спроба державного перевороту ГКЧП (серпень 1991)
+description:
+  ru: |-
+    Вооруженный мятеж консервативного крыла советского руководства, КГБ и армии с целью остановить распад СССР и силой удержать республики.
+    ГКЧП объявил: «ввести чрезвычайное положение в отдельных местностях СССР на срок 6 месяцев с 4 часов по московскому времени 19 августа 1991 года… образовать Государственный комитет по чрезвычайному положению в СССР»(Citation: 176).
+    Провал путча открыл путь к независимости: Акт провозглашения принят «исходя из смертельной опасности, нависшей над Украиной в связи с государственным переворотом в СССР 19 августа 1991 года»(Citation: 175).
+  en: |-
+    An armed mutiny by the conservative wing of the Soviet leadership, the KGB, and the army aimed at halting the USSR's disintegration and holding the republics by force.
+    The State Committee for the State of Emergency declared: "to introduce a state of emergency in particular localities of the USSR for a term of 6 months from 4 a.m. Moscow time on August 19, 1991… to form the State Committee for the State of Emergency in the USSR"(Citation: 176).
+    The putsch's failure opened the way to independence: the Act of Declaration was adopted "proceeding from the mortal danger that had loomed over Ukraine in connection with the coup d'état in the USSR on August 19, 1991"(Citation: 175).
+  uk: |-
+    Збройний заколот консервативного крила радянського керівництва, КДБ та армії з метою зупинити розпад СРСР і силою втримати республіки.
+    ГКЧП оголосив: «ввести надзвичайний стан в окремих місцевостях СРСР на строк 6 місяців з 4 години за московським часом 19 серпня 1991 року… утворити Державний комітет з надзвичайного стану в СРСР»(Citation: 176).
+    Провал путчу відкрив шлях до незалежності: Акт проголошення ухвалено «виходячи із смертельної небезпеки, яка нависла була над Україною в зв'язку з державним переворотом в СРСР 19 серпня 1991 року»(Citation: 175).

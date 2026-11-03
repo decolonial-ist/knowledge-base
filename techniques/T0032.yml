@@ -1,0 +1,25 @@
+type: technique
+id: T0032
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Правовая сегрегация населения
+  en: Legal Segregation of the Population
+  uk: Правова сегрегація населення
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут на законодательном уровне вводить дискриминационные нормы, ограничивающие базовые права коренного народа по сравнению с представителями метрополии.
+    Эта техника применяется для институционального закрепления контроля.
+    Создание искусственных барьеров в доступе к образованию, государственным должностям, владению имуществом или свободе передвижения (включая создание зон искусственной оседлости) позволяет колонизатору маргинализировать местное население и зафиксировать его подчиненный статус в выстраиваемой социальной иерархии.
+  en: |-
+    Aggressors may introduce discriminatory norms at the legislative level that restrict the basic rights of the Indigenous people compared with representatives of the metropole.
+    This technique is used for the institutional consolidation of control.
+    Creating artificial barriers in access to education, government positions, property ownership, or freedom of movement (including the creation of zones of artificial settlement) allows the colonizer to marginalize the local population and fix its subordinate status in the social hierarchy being constructed.
+  uk: |-
+    Агресори можуть на законодавчому рівні запроваджувати дискримінаційні норми, що обмежують базові права корінного народу порівняно з представниками метрополії.
+    Ця техніка застосовується для інституційного закріплення контролю.
+    Створення штучних бар'єрів у доступі до освіти, державних посад, володіння майном чи свободи пересування (включно зі створенням зон штучної осілості) дає колонізаторові змогу маргіналізувати місцеве населення та зафіксувати його підлеглий статус у вибудовуваній соціальній ієрархії.

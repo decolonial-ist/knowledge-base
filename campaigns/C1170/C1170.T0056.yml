@@ -1,0 +1,29 @@
+type: procedure
+id: C1170.T0056
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0056
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Историк З. Х. Ибрагимова пишет: административный аппарат в Чечне и Ингушетии с 1860-х годов «содержался в основном на средства, собираемые с народа»(Citation: 252).
+    В воинскую повинность горцев империя не верила - и обложила их взамен деньгами: законами 2 и 9 июня 1887 года для мусульман Терской области введён денежный сбор взамен воинской службы, размером «не превышал 22 копеек с «дыма»»(Citation: 252) («дым» - отдельный двор, домохозяйство)(Citation: 252); историки Я. З. Ахмадов и Э. Х. Хасмагомадов подтверждают: «в 1887 г. российское правительство ввело для них специальный денежный сбор»(Citation: 125).
+    Дальше сборы только росли: «С 1887 по 1905 гг. сумма налогов выросла с 228,1 до 678,8 тыс. рублей, то есть увеличилась за эти годы почти в три раза», а подымная подать - налог с каждого двора - «в Терской области достигла в 90-х гг. до 70 коп. за десятину, а в это время во внутренних губерниях страны она была не более 17 коп., или в 4 раза меньше»(Citation: 252).
+    Сверх сбора сельские общества несли повинности: содержание старшины и правления, дорог, канав и караулов(Citation: 125).
+  en: |-
+    Historian Z. Kh.
+    Ibragimova writes: from the 1860s the administrative apparatus in Chechnya and Ingushetia "was maintained chiefly on funds collected from the people"(Citation: 252).
+    The empire did not trust the highlanders with military service - and taxed them in money instead: by the laws of 2 and 9 June 1887 a monetary levy in place of military service was introduced for the Muslims of the Terek oblast, its size "did not exceed 22 kopecks per 'dym'"(Citation: 252) ("dym" - a separate household, homestead)(Citation: 252); historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov confirm: "in 1887 the Russian government introduced a special monetary levy for them"(Citation: 125).
+    From then on the levies only grew: "From 1887 to 1905 the sum of taxes rose from 228.1 to 678.8 thousand rubles, that is, it nearly tripled over these years", while the podymnaya tax - the tax on each household - "in the Terek oblast reached in the 1890s up to 70 kopecks per desiatina, while at that time in the interior provinces of the country it was no more than 17 kopecks, or four times less"(Citation: 252).
+    On top of the levy, village communities bore obligations in kind: maintaining the elder and the village board, the roads, ditches and watch posts(Citation: 125).
+  uk: |-
+    Історик З. Х. Ібрагімова пише: адміністративний апарат у Чечні та Інгушетії з 1860-х років «утримувався в основному на кошти, що збиралися з народу»(Citation: 252).
+    У військову повинність горців імперія не вірила - і обклала їх натомість грошима: законами 2 і 9 червня 1887 року для мусульман Терської області запроваджено грошовий збір замість військової служби, розміром «не перевищував 22 копійок з «диму»»(Citation: 252) («дим» - окремий двір, домогосподарство)(Citation: 252); історики Я. З. Ахмадов і Е. Х. Хасмагомадов підтверджують: «у 1887 р. російський уряд запровадив для них спеціальний грошовий збір»(Citation: 125).
+    Далі збори тільки зростали: «З 1887 по 1905 рр. сума податків зросла з 228,1 до 678,8 тис. рублів, тобто збільшилася за ці роки майже втричі», а подимна подать - податок з кожного двору - «в Терській області сягнула в 90-х рр. до 70 коп. за десятину, а в цей час у внутрішніх губерніях країни вона була не більше 17 коп., або вчетверо менша»(Citation: 252).
+    Понад збір сільські громади несли повинності: утримання старшини і правління, доріг, канав і караулів(Citation: 125).

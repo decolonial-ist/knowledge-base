@@ -1,0 +1,23 @@
+type: campaign
+id: C0024
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1665-09-01
+last_seen: 1665-12-31
+contributors: []
+name:
+  ru: Московские статьи Ивана Брюховецкого (1665)
+  en: The Moscow Articles of Ivan Briukhovetsky (1665)
+  uk: Московські статті Івана Брюховецького (1665)
+description:
+  ru: |-
+    Договор, ставший точкой невозврата в политическом, экономическом и военном поглощении автономии: «Согласно Московским статьям, в руки царских воевод переходило непосредственное управление военно-административной и финансово-хозяйственной жизнью Украины (за исключением казацкого сословия)»(Citation: 24).
+    Гарнизоны с воеводами вводились в новые города вплоть до Кодака, налоги пошли напрямую в царскую казну, а киевская митрополия подлежала подчинению московскому патриарху(Citation: 24).
+  en: |-
+    The treaty that became the point of no return in the political, economic, and military absorption of the autonomy: "Under the Moscow Articles, direct control over the military-administrative and financial-economic life of Ukraine (except for the Cossack estate) passed into the hands of the tsarist voivodes"(Citation: 24).
+    Garrisons headed by voivodes were introduced into new cities as far as Kodak, taxes went directly to the tsar's treasury, and the Kyiv metropolitanate was to be subordinated to the Moscow patriarch(Citation: 24).
+  uk: |-
+    Договір, що став точкою неповернення в політичному, економічному та військовому поглинанні автономії: «Згідно з М[осковськими] с[таттями], до рук царських воєвод переходило безпосереднє управління військово-адм. і фінансово-госп. життям України (за винятком козац. стану)»(Citation: 24).
+    Залоги з воєводами вводилися до нових міст аж до Кодака, податки пішли напряму до царської скарбниці, а київська митрополія підлягала підпорядкуванню московському патріархові(Citation: 24).

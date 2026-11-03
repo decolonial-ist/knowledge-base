@@ -1,0 +1,53 @@
+type: procedure
+id: C0074.T0120
+created: 2026-04-27
+modified: 2026-08-30
+version: '1.0'
+technique: T0120
+people: ukrainians
+actor: G0014
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Части Добровольческой армии («белые») захватили город Фастов Киевской губернии 25 августа 1919 года (7 сентября по современному календарю) - и в тот же день начали грабить жителей еврейских кварталов города.
+    Временный комендант белых Пахомов, получив от еврейской делегации 25 тысяч рублей, обещал принять меры, но сразу остановить насилие отказался и объяснил почему: «так как войско очень озлоблено против евреев».
+    Гарнизоном белых командовал Белогорцев.
+    Белые убивали по распорядку: «Под вечер обычно собирали всех казаков, регулярных и партизан особо, на поверку.
+    После поверки и молитвы они группами рассыпались по городу "на работу"».
+    Бегущих ловили на железной дороге: «Многих по дороге снимали с поездов и уводили в лес на расстрел»(Citation: 568).
+
+    Когда к коменданту пришла русская делегация с просьбой прекратить погром, потому что от него начало страдать и русское население, тот спросил: «А кто грабит?» - и, услышав, что участвует и русское население, ответил: «А потом скажут, что грабили казаки»(Citation: 568). 23 сентября 1919 года комендант белых в Фастове Кундо издал приказ № 2, где объявил, что всё улажено: «Добавляю, что меры к охранению порядка в местечке давно приняты, всякие опасения совершенно неосновательны.
+    О всех случаях грабежа, насилиях и реквизициях прошу немедленно сообщать в комендантское управление»(Citation: 581).
+
+    Уполномоченный Российского Красного Креста Рабинович описал итог трёх дней так: «Погром, как смерч, разрушил, сжег и разметал большую половину городка…
+    Из тлеющих руин пожарищ все еще извлекали трупы сожженных в домах»(Citation: 587).
+    К 30 сентября 1919 года в Фастове насчитали 600 убитых, 100 сожжённых и 315 раненых - при восьми тысячах еврейских жителей города, и это была неполная цифра: «убитых гораздо больше, так как еще по сей день находят трупы в лесах»(Citation: 568).
+  en: |-
+    Units of the Volunteer Army (the "Whites") captured the town of Fastiv in Kyiv province on 25 August 1919 (7 September by the modern calendar) - and on the same day began robbing the inhabitants of the town's Jewish quarters.
+    Pakhomov, the Whites' temporary commandant, having received 25,000 roubles from a Jewish delegation, promised to take measures but refused to stop the violence at once, explaining why: "since the troops are greatly embittered against the Jews."
+    The Whites' garrison was commanded by Belogortsev.
+    The Whites killed on a schedule: "Towards evening all the Cossacks, regulars and partisans separately, were usually assembled for roll-call.
+    After roll-call and prayer they scattered in groups across the town 'to work.'" Those fleeing were caught on the railway: "Many were taken off trains along the way and led into the forest to be shot"(Citation: 568).
+
+    When a Russian delegation came to the commandant asking him to stop the pogrom, because the Russian population had begun to suffer from it too, he asked: "And who is doing the robbing?" - and, on hearing that the Russian population was also taking part, replied: "And later they will say it was the Cossacks who robbed"(Citation: 568).
+    On 23 September 1919 Kundo, the Whites' commandant in Fastiv, issued order No. 2 declaring everything settled: "I add that measures for the protection of order in the townlet were taken long ago, all apprehensions are entirely groundless.
+    Of all cases of robbery, violence and requisitions I request immediate notification to the commandant's office"(Citation: 581).
+
+    Rabinovich, a commissioner of the Russian Red Cross, described the result of the three days thus: "The pogrom, like a tornado, destroyed, burned and scattered the greater half of the town...
+    From the smouldering ruins of the fires bodies of those burned in the houses were still being recovered"(Citation: 587).
+    By 30 September 1919, 600 killed, 100 burned and 315 wounded had been counted in Fastiv - out of eight thousand Jewish inhabitants of the town, and the figure was incomplete: "there are far more killed, since to this day bodies are being found in the woods"(Citation: 568).
+  uk: |-
+    Частини Добровольчої армії («білі») захопили місто Фастів Київської губернії 25 серпня 1919 року (7 вересня за сучасним календарем) - і того ж дня почали грабувати мешканців єврейських кварталів міста.
+    Тимчасовий комендант білих Пахомов, отримавши від єврейської делегації 25 тисяч рублів, обіцяв ужити заходів, але одразу зупинити насильство відмовився і пояснив чому: «бо військо дуже озлоблене проти євреїв».
+    Гарнізоном білих командував Бєлогорцев.
+    Білі вбивали за розпорядком: «Надвечір зазвичай збирали всіх козаків, регулярних і партизанів окремо, на перевірку.
+    Після перевірки й молитви вони групами розсипалися по місту „на роботу"».
+    Утікачів ловили на залізниці: «Багатьох дорогою знімали з поїздів і вели до лісу на розстріл»(Citation: 568).
+
+    Коли до коменданта прийшла російська делегація з проханням припинити погром, бо від нього почало страждати й російське населення, той спитав: «А хто грабує?» - і, почувши, що бере участь і російське населення, відповів: «А потім скажуть, що грабували козаки»(Citation: 568). 23 вересня 1919 року комендант білих у Фастові Кундо видав наказ № 2, де оголосив, що все залагоджено: «Додаю, що заходів до охорони порядку в містечку давно вжито, усякі побоювання цілком безпідставні.
+    Про всі випадки грабежу, насильств і реквізицій прошу негайно повідомляти в комендантське управління»(Citation: 581).
+
+    Уповноважений Російського Червоного Хреста Рабинович описав підсумок трьох днів так: «Погром, як смерч, зруйнував, спалив і розметав більшу половину містечка…
+    З тліючих руїн пожарищ усе ще діставали трупи спалених у будинках»(Citation: 587).
+    До 30 вересня 1919 року у Фастові налічили 600 убитих, 100 спалених і 315 поранених - при восьми тисячах єврейських мешканців міста, і це була неповна цифра: «убитих значно більше, бо ще й досі знаходять трупи в лісах»(Citation: 568).

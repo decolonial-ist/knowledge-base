@@ -1,0 +1,23 @@
+type: procedure
+id: C0103.T0019
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Вторжение регулярной армии РФ и массированные ракетно-авиационные удары по украинским городам: «24 февраля 2022 года президент Российской Федерации Владимир Путин объявил о своём решении провести в Украине „специальную военную операцию“ ради её „демилитаризации и денацификации“.
+    В тот же день российские войска пересекли границу Украины в различных пунктах, в том числе через Беларусь, и начали атаки с суши, с воздуха и с моря»(Citation: 221).
+    Комиссия ООН расследовала события февраля-марта 2022 года в Киевской, Черниговской, Харьковской и Сумской областях(Citation: 221).
+  en: |-
+    The invasion by the regular Russian army and massive missile and air strikes on Ukrainian cities: "On 24 February 2022, the President of the Russian Federation, Vladimir Putin, announced his decision to conduct a 'special military operation' in Ukraine to seek its 'demilitarization and denazification'.
+    On the same day, Russian troops crossed various border points into Ukraine, including through Belarus, and launched attacks by land, air and sea"(Citation: 221).
+    The UN Commission investigated the events of February-March 2022 in Kyiv, Chernihiv, Kharkiv and Sumy Provinces(Citation: 221).
+  uk: |-
+    Вторгнення регулярної армії РФ і масовані ракетно-авіаційні удари по українських містах: «24 лютого 2022 року президент Російської Федерації Володимир Путін оголосив про своє рішення провести в Україні „спеціальну воєнну операцію“ задля її „демілітаризації та денацифікації“.
+    Того ж дня російські війська перетнули кордон України в різних пунктах, зокрема через Білорусь, і розпочали атаки із суші, повітря та моря»(Citation: 221).
+    Комісія ООН розслідувала події лютого-березня 2022 року в Київській, Чернігівській, Харківській та Сумській областях(Citation: 221).

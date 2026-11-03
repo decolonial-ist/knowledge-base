@@ -1,0 +1,50 @@
+type: tool
+id: S0014
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Правительствующий сенат (DEPRECATED)
+  en: Governing Senate (DEPRECATED)
+  uk: Урядовий сенат (DEPRECATED)
+contributors: []
+aliases:
+- '1.1'
+description:
+  ru: |-
+    Дата основания: 1711 год (Петр I).
+
+    Даты существования: 1711 — 1917 гг.
+
+    Тип инструмента: Высший орган государственного управления и законодательства.
+
+    Центральный «мозг» империи, концентрирующий в себе административную, судебную и законотворческую власть.
+    В рамках колониальных практик Сенат выступал высшей инстанцией, которая легитимировала демонтаж автономий через издание указов, отменяющих локальное право.
+
+    Создан для замещения Боярской думы и Ближней канцелярии.
+    С 1722 года Сенат официально руководил деятельностью коллегий и был инструментом превращения «союзных территорий» в регулярные провинции империи.
+  en: |-
+    Date of founding: 1711 (Peter I).
+
+    Dates of existence: 1711 — 1917.
+
+    Type of instrument: The supreme body of state administration and legislation.
+
+    The central "brain" of the empire, concentrating administrative, judicial, and lawmaking power.
+    Within colonial practices, the Senate acted as the highest authority that legitimized the dismantling of autonomies by issuing decrees abolishing local law.
+
+    It was created to replace the Boyar Duma and the Near Chancellery.
+    From 1722, the Senate officially directed the activity of the collegia and served as an instrument for turning "allied territories" into regular provinces of the empire.
+  uk: |-
+    Дата заснування: 1711 рік (Петро I).
+
+    Дати існування: 1711 — 1917 рр.
+
+    Тип інструмента: Вищий орган державного управління та законодавства.
+
+    Центральний «мозок» імперії, що концентрує в собі адміністративну, судову та законотворчу владу.
+    У межах колоніальних практик Сенат виступав найвищою інстанцією, яка легітимізувала демонтаж автономій через видання указів, що скасовували локальне право.
+
+    Створений на заміну Боярській думі та Ближній канцелярії.
+    З 1722 року Сенат офіційно керував діяльністю колегій і був інструментом перетворення «союзних територій» на регулярні провінції імперії.

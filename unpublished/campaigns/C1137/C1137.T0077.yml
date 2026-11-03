@@ -1,0 +1,33 @@
+type: procedure
+id: C1137.T0077
+created: 2026-06-26
+modified: 2026-06-26
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    НЕ ПОДТВЕРЖДЕНО ПЕРВОИСТОЧНИКОМ.
+    По имеющимся данным (только третичный источник): по приказу главнокомандующего на Кавказе генерала Цицианова командующий Кавказской линией генерал Шепелев направлен в поход на чеченские селения с предписанием наказывать всех жителей - и признавших власть империи, и нет; 25 июня 1803 года отряд (гребенские казаки, Саратовский, Моздокский, 15-й егерский полки, эскадроны драгун, роты Кизлярского гарнизона) внезапно напал на села Истису и Наимберды, убито 9 человек, один пленен, уничтожен урожай хлеба, угнано 960 голов рогатого скота, 127 буйволов и 24 лошади.
+    ИСТОЧНИК НЕ НАЙДЕН: факт известен только по передаче историка Т. Х. Ибрагимова (через статью Википедии); в АКАК тт. 1-2, у имперского историка Потто (тт. 1-2), у Дубровина (т. 4) и у Я. А. Гордина отсутствует.
+    Рапорт Шепелева предположительно в архиве РГВИА (бывш.
+    ЦГВИА).
+    Требует сверки с первоисточником до публикации.
+  en: |-
+    NOT CONFIRMED BY A PRIMARY SOURCE.
+    According to available data (tertiary source only): by order of the commander-in-chief in the Caucasus, General Tsitsianov, the commander of the Caucasian Line, General Shepelev, was sent on a campaign against Chechen villages with instructions to punish all inhabitants without distinction between peaceful and non-peaceful; on June 25, 1803, a detachment (Greben Cossacks, the Saratov, Mozdok, and 15th Jaeger regiments, squadrons of dragoons, companies of the Kizlyar garrison) suddenly attacked the villages of Istisu and Naimberdy; 9 people were killed, one taken prisoner, the grain harvest was destroyed, and 960 head of cattle, 127 buffalo, and 24 horses were driven off.
+    SOURCE NOT FOUND: the fact is known only through the account of historian T. Kh.
+    Ibragimov (via a Wikipedia article); it is absent from AKAK vols. 1-2, from the imperial historian Potto (vols. 1-2), from Dubrovin (vol. 4), and from Ya.
+    A. Gordin.
+    Shepelev's report is presumably held in the RGVIA archive (formerly TsGVIA).
+    Requires verification against the primary source before publication.
+  uk: |-
+    НЕ ПІДТВЕРДЖЕНО ПЕРШОДЖЕРЕЛОМ.
+    За наявними даними (лише третинне джерело): за наказом головнокомандувача на Кавказі генерала Ціціанова командувача Кавказької лінії генерала Шепелєва направлено в похід на чеченські селища з приписом карати всіх жителів - і тих, хто визнав владу імперії, і ні; 25 червня 1803 року загін (гребінські козаки, Саратовський, Моздокський, 15-й єгерський полки, ескадрони драгунів, роти Кізлярського гарнізону) раптово напав на села Істису та Наїмберди, вбито 9 осіб, одного взято в полон, знищено врожай хліба, викрадено 960 голів рогатої худоби, 127 буйволів і 24 коней.
+    ДЖЕРЕЛО НЕ ЗНАЙДЕНО: факт відомий лише за переказом історика Т. Х. Ібрагімова (через статтю Вікіпедії); в АКАК тт. 1-2, в імперського історика Потто (тт. 1-2), у Дубровіна (т. 4) та в Я. А. Гордіна відсутній.
+    Рапорт Шепелєва імовірно зберігається в архіві РДВІА (кол.
+    ЦДВІА).
+    Потребує звірки з першоджерелом до публікації.

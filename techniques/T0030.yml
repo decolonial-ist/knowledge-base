@@ -1,0 +1,28 @@
+type: technique
+id: T0030
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Административно-территориальное деление
+  en: Administrative-Territorial Division
+  uk: Адміністративно-територіальний поділ
+contributors: []
+description:
+  ru: |-
+    Агрессоры очень часто изменяют административные границы внутри захваченного региона.
+    В ходе реализации этой техники традиционные системы местного управления принудительно упраздняются, а захваченные земли дробятся и интегрируются в стандартную бюрократическую сетку колонизатора, что необратимо разрушает исторически сложившиеся социальные связи внутри общества.
+    Так, например, многие границы в Африке являются результатом борьбы колониальных держав между собой(Citation: 58).
+    Граница союзных и автономных республик СССР были установлены Москвой ради удобства управления и менялись в соответствии с решениями московского руководства(Citation: 59).
+  en: |-
+    Aggressors very often alter administrative boundaries within a captured region.
+    In the course of implementing this technique, traditional systems of local governance are forcibly abolished, while the seized lands are fragmented and integrated into the colonizer's standard bureaucratic grid, which irreversibly destroys the historically formed social ties within the society.
+    For example, many borders in Africa are the result of struggles between colonial powers(Citation: 58).
+    The borders of the union and autonomous republics of the USSR were established by Moscow for administrative convenience and were changed in accordance with the decisions of the Moscow leadership(Citation: 59).
+  uk: |-
+    Агресори дуже часто змінюють адміністративні кордони всередині захопленого регіону.
+    Під час реалізації цієї техніки традиційні системи місцевого управління примусово скасовуються, а захоплені землі дробляться та інтегруються у стандартну бюрократичну сітку колонізатора, що незворотно руйнує історично сформовані соціальні зв'язки всередині суспільства.
+    Так, наприклад, багато кордонів в Африці є результатом боротьби колоніальних держав між собою(Citation: 58).
+    Кордони союзних та автономних республік СРСР були встановлені Москвою заради зручності управління та змінювалися відповідно до рішень московського керівництва(Citation: 59).

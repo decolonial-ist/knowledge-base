@@ -1,0 +1,53 @@
+type: tool
+id: S0015
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Малороссийская коллегия (DEPRECATED)
+  en: Little Russian Collegium (DEPRECATED)
+  uk: Малоросійська колегія (DEPRECATED)
+contributors: []
+aliases:
+- '1.1'
+description:
+  ru: |-
+    Дата основания: 1722 год (Указ Петра I).
+
+    Даты существования: 1722–1727, 1764–1786
+
+    Тип инструмента: Постоянный орган колониальной администрации на местах.
+
+    Первый специализированный орган прямого имперского управления, размещенный непосредственно на территории Гетманщины (г. Глухов).
+    В отличие от центральных приказов, Коллегия функционировала как «правительство над правительством», осуществляя повседневный надзор за гетманом и казацкой старшиной, постепенно перехватывая их функции.
+
+    Создана сразу после смерти Ивана Скоропадского для предотвращения избрания нового гетмана.
+    Коллегия стала инструментом трансформации договорной автономии в обычную провинцию.
+    Существовала в двух составах (1722–1727 и 1764–1786), каждый раз знаменуя собой периоды ликвидации гетманской власти.
+  en: |-
+    Date of foundation: 1722 (Decree of Peter I).
+
+    Dates of existence: 1722–1727, 1764–1786
+
+    Instrument type: Permanent body of local colonial administration.
+
+    The first specialized body of direct imperial governance stationed directly on the territory of the Hetmanate (the town of Hlukhiv).
+    Unlike the central prikazes, the Collegium functioned as a "government above the government," exercising day-to-day oversight of the hetman and the Cossack starshyna while gradually taking over their functions.
+
+    Created immediately after the death of Ivan Skoropadsky to prevent the election of a new hetman.
+    The Collegium became an instrument for transforming a treaty-based autonomy into an ordinary province.
+    It existed in two compositions (1722–1727 and 1764–1786), each time marking a period of liquidation of the hetman's power.
+  uk: |-
+    Дата заснування: 1722 рік (Указ Петра I).
+
+    Дати існування: 1722–1727, 1764–1786
+
+    Тип інструменту: Постійний орган колоніальної адміністрації на місцях.
+
+    Перший спеціалізований орган прямого імперського управління, розміщений безпосередньо на території Гетьманщини (м. Глухів).
+    На відміну від центральних приказів, Колегія функціонувала як «уряд над урядом», здійснюючи повсякденний нагляд за гетьманом і козацькою старшиною та поступово перебираючи на себе їхні функції.
+
+    Створена одразу після смерті Івана Скоропадського, щоб запобігти обранню нового гетьмана.
+    Колегія стала інструментом перетворення договірної автономії на звичайну провінцію.
+    Існувала у двох складах (1722–1727 і 1764–1786), щоразу знаменуючи собою періоди ліквідації гетьманської влади.

@@ -1,0 +1,16 @@
+type: procedure
+id: C0034.T0030
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.0'
+technique: T0030
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Упразднение казацкого полкового устройства и дробление Левобережья на имперские наместничества: Киевское наместничество учреждено именным указом Сенату от 16 сентября 1781 года (ПСЗРИ, собр. 1-е, т. XXI, № 15.228; исполнить предписано с ноября)(Citation: 397)(Citation: 391), «окончательно упразднившим остатки автономии Гетманщины и её полково-сотенное административно-политическое и военное устройство»(Citation: 192); тем же указом учреждены Черниговское и Новгород-Северское наместничества.'
+  en: |-
+    The abolition of the Cossack regimental order and the division of the Left Bank into imperial viceroyalties: the Kyiv Viceroyalty was established by the nominal decree to the Senate of September 16, 1781 (PSZRI, coll. 1, vol.
+    XXI, no. 15,228; execution ordered from November)(Citation: 397)(Citation: 391), "which finally abolished the remnants of the Hetmanate's autonomy and its regimental-sotnia administrative-political and military order"(Citation: 192); the same decree established the Chernihiv and Novhorod-Siverskyi viceroyalties.
+  uk: 'Скасування козацького полкового устрою та дроблення Лівобережжя на імперські намісництва: Київське намісництво засновано іменним указом Сенату від 16 вересня 1781 року (ПСЗРІ, зібр. 1-ше, т. XXI, № 15.228; виконати приписано з листопада)(Citation: 397)(Citation: 391), «що остаточно скасував залишки автономії Гетьманщини та її полково-сотенний адм.-політ. і військ. устрій»(Citation: 192); тим самим указом засновано Чернігівське та Новгород-Сіверське намісництва.'

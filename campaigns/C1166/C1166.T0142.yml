@@ -1,0 +1,27 @@
+type: procedure
+id: C1166.T0142
+created: 2026-07-31
+modified: 2026-07-31
+version: '1.0'
+technique: T0142
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Колонизация Сунженской линии (цепи казачьих станиц по реке Сунже) оставила чеченскому народу малую часть его собственной земли.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов подводят итог: «после создания Сунженской казачьей линии и других многочисленных военных укреплений, большая часть населения страны оказалась согнанной на пространстве протяженностью примерно 70 верст с запада на восток и 40 верст с юга на север» (верста - чуть больше километра); на душу приходилось меньше 2 десятин земли (десятина - чуть больше гектара) при норме выживания в 5(Citation: 125).
+    Ещё раньше империя взялась за сам порядок расселения: «еще в 40-е гг.
+    XIX в. российские власти стремились ликвидировать многочисленные хутора на территории плоскостной Чечни, вынуждая их жителей переселяться в крупные селения с целью облегчить сбор налогов и податей и обеспечить должный полицейский контроль над населением»(Citation: 125).
+  en: |-
+    The colonization of the Sunzha Line (the chain of Cossack stanitsas along the Sunzha river) left the Chechen people a small part of its own land.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov sum up: "after the creation of the Sunzha Cossack line and other numerous military fortifications, the greater part of the country's population found itself herded onto a space roughly 70 versts from west to east and 40 versts from south to north" (a verst is slightly more than a kilometer); per person there was less than 2 desiatinas of land (a desiatina is slightly more than a hectare) against a survival norm of 5(Citation: 125).
+    Still earlier the empire took on the very order of settlement: "as early as the 1840s the Russian authorities strove to liquidate the numerous hamlets on the territory of lowland Chechnya, forcing their inhabitants to resettle into large villages with the aim of easing the collection of taxes and tributes and ensuring proper police control over the population"(Citation: 125).
+  uk: |-
+    Колонізація Сунженської лінії (ланцюга козачих станиць по річці Сунжі) залишила чеченському народові малу частину його власної землі.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов підбивають підсумок: «після створення Сунженської козачої лінії та інших численних військових укріплень більша частина населення країни виявилася зігнаною на просторі протяжністю приблизно 70 верст із заходу на схід і 40 верст із півдня на північ» (верста - трохи більше кілометра); на душу припадало менше 2 десятин землі (десятина - трохи більше гектара) за норми виживання в 5(Citation: 125).
+    Ще раніше імперія взялася за сам порядок розселення: «ще в 40-ві рр.
+    XIX ст. російська влада прагнула ліквідувати численні хутори на території площинної Чечні, змушуючи їхніх жителів переселятися у великі селища з метою полегшити збір податків і податей та забезпечити належний поліцейський контроль над населенням»(Citation: 125).

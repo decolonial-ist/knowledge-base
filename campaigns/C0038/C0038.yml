@@ -1,0 +1,23 @@
+type: campaign
+id: C0038
+created: 2026-04-25
+modified: 2026-08-06
+version: '1.2'
+people: ukrainians
+first_seen: 1801-01-01
+last_seen: 1811-12-31
+contributors: []
+name:
+  ru: Создание Малороссийского генерал-губернаторства (1801–1811)
+  en: Creation of the Little Russian Governorate-General (1801–1811)
+  uk: Створення Малоросійського генерал-губернаторства (1801–1811)
+description:
+  ru: |-
+    Административное поглощение: «МАЛОРОССИЙСКОЕ ГЕНЕРАЛ-ГУБЕРНАТОРСТВО — административно-территориальная и политическая единица Российской империи, созданная в 1802 для инкорпорации и интеграции Левобережной Украины в состав Российской империи»(Citation: 194).
+    Итог зафиксирован там же: «За время существования Малороссийского генерал-губернаторства окончательно ликвидированы остатки автономии Гетманщины»(Citation: 194).
+  en: |-
+    Administrative absorption: "the LITTLE RUSSIAN GOVERNORATE-GENERAL – an administrative-territorial and political unit of the Russian Empire, created in 1802 for the incorporation and integration of Left-Bank Ukraine into the Russian Empire"(Citation: 194).
+    The outcome is recorded there as well: "During the existence of the governorate-general, the remnants of the Hetmanate's autonomy were finally liquidated"(Citation: 194).
+  uk: |-
+    Адміністративне поглинання: «МАЛОРОСІЙСЬКЕ ГЕНЕРАЛ-ГУБЕРНАТОРСТВО — адм.-тер. і політ. одиниця Російської імперії, створена 1802 для інкорпорації та інтеграції Лівобережної України у склад Рос. імперії»(Citation: 194).
+    Підсумок зафіксовано там само: «За час існування М[алоросійського] г[енерал]-г[убернаторства] остаточно ліквідовані залишки автономії Гетьманщини»(Citation: 194).

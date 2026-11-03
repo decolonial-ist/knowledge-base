@@ -1,0 +1,19 @@
+# Базовые проверки на каждый PR и пуш в main: форма файлов, ссылки, сноски.
+# Только механика (куратор 02.11.2026: «никакого CI кроме базовых проверок»).
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/validate.py .

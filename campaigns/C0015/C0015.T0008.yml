@@ -1,0 +1,20 @@
+type: procedure
+id: C0015.T0008
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0008
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Ликвидация государственности и международной субъектности автономии в результате поражения шведско-украинских сил.
+    Разгром под Полтавой запустил необратимый процесс демонтажа: «За сто лет после знаменательной Переяславской рады Украина проделала путь от „Статей Богдана Хмельницкого“… к фактической ликвидации автономии и гетманства, к превращению страны в обыкновенную губернию Российской империи»(Citation: 4).
+  en: |-
+    The liquidation of the autonomy's statehood and international agency as a result of the defeat of the Swedish-Ukrainian forces.
+    The rout at Poltava set off an irreversible process of dismantlement: "In the hundred years after the famous Pereiaslav Council, Ukraine traveled the path from the 'Articles of Bohdan Khmelnytsky'… to the de facto liquidation of the autonomy and the hetmanate, to the country's transformation into an ordinary province of the Russian Empire"(Citation: 4).
+  uk: |-
+    Ліквідація державності та міжнародної суб'єктності автономії внаслідок поразки шведсько-українських сил.
+    Розгром під Полтавою запустив незворотний процес демонтажу: «За сто років після знаменної Переяславської ради Україна пройшла шлях від „Статей Богдана Хмельницького“… до фактичної ліквідації автономії і гетьманства, до перетворення країни на звичайну губернію Російської імперії»(Citation: 4).

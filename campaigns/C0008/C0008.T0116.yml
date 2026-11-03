@@ -1,0 +1,20 @@
+type: procedure
+id: C0008.T0116
+created: 2026-04-25
+modified: 2026-10-26
+version: '1.0'
+technique: T0116
+people: ukrainians
+actor: G0008
+tool: S0011
+contributors: []
+description:
+  ru: |-
+    Сразу после подчинения началось навязывание московских церковных стандартов и обрядов, маргинализировавшее локальную традицию.
+    Каноническую незаконность самого акта Вселенский патриархат зафиксировал прямо: «отчуждение от нашего Престола Митрополии Киева и зависимых от неё Православных Церквей Литвы и Польши, а равно и присоединение их к Святой Церкви Москвы, с самого начала были совершены совсем не в согласии с законными каноническими предписаниями»(Citation: 164).
+  en: |-
+    Immediately after the subordination began the imposition of Muscovite church standards and rites, marginalizing the local tradition.
+    The Ecumenical Patriarchate recorded the canonical illegality of the act itself directly: "the alienation from our Throne of the Metropolitanate of Kyiv and of the Orthodox Churches of Lithuania and Poland dependent on it, as well as their attachment to the Holy Church of Moscow, were from the very beginning carried out entirely out of accord with the lawful canonical prescriptions"(Citation: 164).
+  uk: |-
+    Одразу після підпорядкування почалося нав'язування московських церковних стандартів та обрядів, що маргіналізувало локальну традицію.
+    Канонічну незаконність самого акту Вселенський патріархат зафіксував прямо: «відчуження від нашого Престолу Митрополії Києва й залежних від неї Православних Церков Литви та Польщі, а рівно ж прилучення їх до Святої Церкви Москви, з самого початку були здійснені зовсім не у згоді із законними канонічними приписами»(Citation: 164).

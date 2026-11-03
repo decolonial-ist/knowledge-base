@@ -1,0 +1,14 @@
+type: procedure
+id: C1174.T0022
+created: 2026-08-09
+modified: 2026-08-09
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0014
+tool: S0010
+contributors: []
+description:
+  ru: 'Добровольческая армия ответила массовыми казнями на восстание в Грозном в декабре 1919 года: после подавления выступления в ночь на 23 декабря руководитель повстанцев Гикало доложил: «Сейчас в Грозном кошмарные репрессии: 79 человек повешено и масса расстреляна»(Citation: 125).'
+  en: 'The Volunteer Army answered the uprising in Grozny in December 1919 with mass executions: after the suppression of the rising on the night of 23 December the insurgent leader Gikalo reported: "Right now there are nightmarish reprisals in Grozny: 79 people have been hanged and a mass of people shot"(Citation: 125).'
+  uk: 'Добровольча армія відповіла масовими стратами на повстання в Грозному в грудні 1919 року: після придушення виступу в ніч на 23 грудня керівник повстанців Гікало доповів: «Зараз у Грозному кошмарні репресії: 79 осіб повішено і масу розстріляно»(Citation: 125).'

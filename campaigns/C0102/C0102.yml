@@ -1,0 +1,32 @@
+type: campaign
+id: C0102
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.1'
+people: ukrainians
+first_seen: 2020-01-01
+last_seen: 2022-02-23
+contributors: []
+name:
+  ru: Идеологическая подготовка к полномасштабному вторжению (2020–2021)
+  en: Ideological Preparation for the Full-Scale Invasion (2020–2021)
+  uk: Ідеологічна підготовка до повномасштабного вторгнення (2020–2021)
+description:
+  ru: |-
+    Период интенсивной идеологической накачки российского общества и политической элиты для обоснования полного уничтожения украинской государственности.
+    Глава РФ опубликовал программную статью, где заявил, что «русские и украинцы – один народ, единое целое», а о действиях большевиков написал: «действия большевиков по отторжению от России её исторических территорий преступным актом не считаются»(Citation: 245).
+    Заместитель председателя Совбеза объявил переговоры с Киевом бессмысленными: «нам с вассалами дело иметь бессмысленно.
+    Дела нужно вести с сюзереном»(Citation: 241).
+    Параллельно шли индоктринация армии и военный шантаж скоплением войск у границ под видом учений(Citation: 2).
+  en: |-
+    A period of intensive ideological conditioning of Russian society and the political elite to justify the complete destruction of Ukrainian statehood.
+    The head of the Russian state published a programmatic article declaring that "Russians and Ukrainians are one people, a single whole," and wrote of the Bolsheviks that "the Bolsheviks' actions in severing from Russia its historical territories are not considered a criminal act"(Citation: 245).
+    Deputy Security Council chairman D. Medvedev (Kommersant, 11 October 2021) declared negotiations with Kyiv pointless: "it is pointless for us to deal with vassals.
+    One must do business with the suzerain"(Citation: 241).
+    In parallel came the indoctrination of the army and military blackmail through the massing of troops near the borders under the guise of exercises(Citation: 2).
+  uk: |-
+    Період інтенсивного ідеологічного накачування російського суспільства та політичної еліти для обґрунтування повного знищення української державності.
+    Голова РФ опублікував програмну статтю, де заявив, що «росіяни й українці – один народ, єдине ціле», а про дії більшовиків написав: «дії більшовиків з відторгнення від Росії її історичних територій злочинним актом не вважаються»(Citation: 245).
+    Заступник голови Радбезу оголосив переговори з Києвом безглуздими: «нам з васалами справу мати безглуздо.
+    Справи треба вести з сюзереном»(Citation: 241).
+    Паралельно тривали індоктринація армії та воєнний шантаж скупченням військ біля кордонів під виглядом навчань(Citation: 2).

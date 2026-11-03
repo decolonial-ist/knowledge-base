@@ -1,0 +1,23 @@
+type: procedure
+id: C1152.T0121
+created: 2026-07-03
+modified: 2026-07-03
+version: '1.0'
+technique: T0121
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В декабре 1830 - январе 1831 войска генерала Вельяминова целенаправленно уничтожали зимние запасы продовольствия и корма разоряемых сёл.
+    Имперский историк Потто писал: при сожжении Един-Юрта и Даут-Юрта войска «истребили громадные запасы заготовленного сена»(Citation: 78); 17 января 1831 Гельдиген предан огню «со всеми его запасами»(Citation: 78).
+    Уничтожение сена и хлебных запасов в разгар зимы обрекало жителей, бежавших в горы и леса, на голод.
+  en: |-
+    In December 1830 – January 1831, General Velyaminov's troops deliberately destroyed the winter stores of food and fodder of the villages being devastated.
+    The imperial historian Potto wrote: during the burning of Edin-Yurt and Daut-Yurt, the troops “destroyed enormous stores of harvested hay”(Citation: 78); on January 17, 1831, Geldigen was put to the torch “with all its stores”(Citation: 78).
+    The destruction of hay and grain stores in the depths of winter condemned the inhabitants, who had fled to the mountains and forests, to famine.
+  uk: |-
+    У грудні 1830 – січні 1831 війська генерала Вельямінова цілеспрямовано знищували зимові запаси продовольства та кормів розорюваних сіл.
+    Імперський історик Потто писав: під час спалення Едін-Юрта й Даут-Юрта війська «винищили величезні запаси заготовленого сіна»(Citation: 78); 17 січня 1831 Гельдіген віддано вогню «з усіма його запасами»(Citation: 78).
+    Знищення сіна та хлібних запасів у розпал зими прирікало жителів, що втекли в гори й ліси, на голод.

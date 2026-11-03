@@ -1,0 +1,14 @@
+type: procedure
+id: C1027.T0108
+created: 2026-04-20
+modified: 2026-04-20
+version: '1.0'
+technique: T0108
+people: nokhchi
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: 'В апреле 1992 года правительство России ввело жесткие экономические и финансовые санкции, включая блокировку перевода денежных средств предприятиям и частным лицам(Citation: 26).'
+  en: 'In April 1992, the Russian government imposed harsh economic and financial sanctions, including blocking the transfer of funds to enterprises and private individuals(Citation: 26).'
+  uk: 'У квітні 1992 року уряд Росії запровадив жорсткі економічні та фінансові санкції, зокрема блокування переказу коштів підприємствам і приватним особам(Citation: 26).'

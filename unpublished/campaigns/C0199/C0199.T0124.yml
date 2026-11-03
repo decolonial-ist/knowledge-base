@@ -1,0 +1,17 @@
+type: procedure
+id: C0199.T0124
+created: 2026-08-09
+modified: 2026-08-09
+version: '1.0'
+technique: T0124
+people: ukrainians
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Саммари 1-2 предложения.
+    Фактаж с ссылками на пруфы.
+    Украинский голос первый, имперский второй.
+  en: ''
+  uk: ''

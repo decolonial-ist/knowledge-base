@@ -1,0 +1,20 @@
+type: procedure
+id: C0002.T0039
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0039
+people: ukrainians
+actor: G0008
+tool: S0009
+contributors: []
+description:
+  ru: |-
+    Как только политические интересы изменились, Москва пошла на сепаратный мир со своим недавним врагом – Польшей, договариваясь за спиной украинского союзника: «Приоритетными на переговорах были территориальные и финансовые вопросы, а также условия элекции (избрания) российского царя на польский престол»(Citation: 185) – судьба казацких земель стала разменной монетой в этом торге.
+    Переговоры велись в Немежи под Вильно с августа 1656 года; перемирие подписано 24 октября(Citation: 185).
+  en: |-
+    As soon as political interests changed, Moscow went for a separate peace with its recent enemy – Poland – negotiating behind its Ukrainian ally's back: "The priorities at the negotiations were territorial and financial questions, as well as the terms of the election of the Russian tsar to the Polish throne"(Citation: 185) – the fate of the Cossack lands became a bargaining chip in this deal.
+    The negotiations were held at Niemieza near Vilna from August 1656; the armistice was signed on October 24(Citation: 185).
+  uk: |-
+    Щойно політичні інтереси змінилися, Москва пішла на сепаратний мир зі своїм недавнім ворогом – Польщею, домовляючись за спиною українського союзника: «Пріоритетними на переговорах були територіальні й фінансові питання, а також умови елекції (обрання) рос. царя на польс. престол»(Citation: 185) – доля козацьких земель стала розмінною монетою в цьому торзі.
+    Переговори велися в Нємєжі під Вільно із серпня 1656 року; перемир'я підписано 24 жовтня(Citation: 185).

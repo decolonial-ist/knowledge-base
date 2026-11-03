@@ -1,0 +1,23 @@
+type: campaign
+id: C0085
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1946-08-01
+last_seen: 1953-03-05
+contributors: []
+name:
+  ru: Послевоенный идеологический террор («Ждановщина») (1946–1953)
+  en: Postwar Ideological Terror ("Zhdanovshchina") (1946–1953)
+  uk: Повоєнний ідеологічний терор («Жданівщина») (1946–1953)
+description:
+  ru: |-
+    Возврат к тотальному контролю над культурой после относительных послаблений военных лет: разгром украинской творческой интеллигенции, обвинения в «буржуазном национализме» (нападки на Рыльского, Яновского, травля Сосюры за стихотворение «Любите Украину»).
+    Параллельно шла государственная антисемитская кампания: «18 июля 1952 Военная коллегия Верховного Суда СССР вынесла смертный приговор 13 лицам, в т. ч. 5 выходцам из Украины… 12 августа 1952 все они были казнены»(Citation: 189), а в январе 1953 года началось «Дело врачей».
+  en: |-
+    A return to total control over culture after the relative relaxations of the war years: the rout of the Ukrainian creative intelligentsia, accusations of "bourgeois nationalism" (attacks on Rylsky, Yanovsky, the persecution of Sosiura for the poem "Love Ukraine").
+    In parallel ran a state antisemitic campaign: "On July 18, 1952 the Military Collegium of the USSR Supreme Court passed death sentences on 13 people, including 5 natives of Ukraine… on August 12, 1952 they were all executed"(Citation: 189), and in January 1953 the "Doctors' Plot" began.
+  uk: |-
+    Повернення до тотального контролю над культурою після відносних послаблень воєнних років: розгром української творчої інтелігенції, звинувачення в «буржуазному націоналізмі» (нападки на Рильського, Яновського, цькування Сосюри за вірш «Любіть Україну»).
+    Паралельно тривала державна антисемітська кампанія: «18 лип. 1952 Військ. колегія Верховного Суду СРСР винесла смертний вирок 13 особам, у т. ч. 5 вихідцям з України… 12 серп. 1952 всі вони були страчені»(Citation: 189), а в січні 1953 року почалася «Справа лікарів».

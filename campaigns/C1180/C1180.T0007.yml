@@ -1,0 +1,40 @@
+type: procedure
+id: C1180.T0007
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0007
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    СССР строил обвинения чеченцев в «бандитизме» на фальсифицированной статистике: проверка центрального аппарата советского НКВД (предшественника современной ФСБ) летом 1943 года показала, что из 213 объявленных убитыми «бандитов» на учёте состояли только 22 человека; на конец августа 1943 года на учёте числилось 359 участников «бандгрупп» на всю Чечено-Ингушетию(Citation: 125). 9 ноября 1943 года заместитель народного комиссара (министра) внутренних дел Кобулов подал народному комиссару (министру) внутренних дел Берии докладную «О положении в районах Чечено-Ингушской АССР» «с заведомо фальшивыми цифрами, о якобы массовом количестве активных бандитов и дезертиров.
+    «Кобулов!
+    Очень хорошая записка», - указал Берия на докладе и дал ход подготовке операции «Чечевица»»(Citation: 125).
+    Берия лгал и в итоговом докладе - доносил руководству СССР, что выселение прошло «без серьезных случаев сопротивления и инцидентов»; историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «В своем донесении руководству страны нарком внутренних дел откровенно лгал: выселение чеченцев сопровождалось множеством инцидентов и массовыми убийствами мирных жителей»(Citation: 125).
+    Чеченский историк А. Г. Авторханов, писавший об этом в эмиграции в 1952 году, разобрал официальную версию по пунктам.
+    Мотив, объявленный указом 25 июня 1946 года, он приводит дословно - «Многие из чеченцев и ингушей, подстрекаемые немецкими агентами, присоединились добровольно к организованным немцами формированиям и вместе с немецкими вооруженными силами выступали с оружием в руках против Красной Армии...
+    Поэтому Чечено-Ингушская республика ликвидируется с выселением ее населения» - и называет его рассчитанным «на невежество советского народа и на неосведомленность Запада»(Citation: 369).
+    Против версии он ставит два факта: «во время второй мировой войны ни разу не было ноги немецкого солдата на территории Чечено-Ингушской республики, если не считать кратковременного занятия пограничного местечка Малгобек, населенного русскими», и «присоединяться к немецким формированиям чеченцы и ингуши и физически не могли, так как в Чечено-Ингушетии не было обязательной мобилизации»(Citation: 369).
+  en: |-
+    The USSR built its accusations of Chechen "banditry" on falsified statistics: an inspection by the central apparatus of the Soviet NKVD (predecessor of today's FSB) in the summer of 1943 showed that of 213 "bandits" reported killed, only 22 people had ever been on file; at the end of August 1943 the files listed 359 members of "bandit groups" for the entire Checheno-Ingushetia(Citation: 125).
+    On 9 November 1943 Deputy People's Commissar (Minister) of Internal Affairs Kobulov submitted to People's Commissar (Minister) of Internal Affairs Beria a report "On the Situation in the Districts of the Checheno-Ingush ASSR" "with deliberately false figures alleging a mass presence of active bandits and deserters. 'Kobulov!
+    A very good memorandum,' Beria noted on the report, and set in motion the preparation of Operation 'Chechevitsa'"(Citation: 125).
+    Beria lied in his final report as well - he informed the leadership of the USSR that the deportation had passed "without serious instances of resistance or incidents"; historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "In his report to the country's leadership the People's Commissar of Internal Affairs lied outright: the deportation of the Chechens was accompanied by numerous incidents and mass killings of peaceful residents"(Citation: 125).
+    The Chechen historian A. G. Avtorkhanov, writing about this in emigration in 1952, took the official version apart point by point.
+    The motive announced by the decree of 25 June 1946 he quotes verbatim - "Many Chechens and Ingush, incited by German agents, voluntarily joined formations organized by the Germans and, together with the German armed forces, took up arms against the Red Army...
+    Therefore the Checheno-Ingush Republic is to be liquidated and its population deported" - and calls it calculated "for the ignorance of the Soviet people and the unawareness of the West"(Citation: 369).
+    Against this version he sets two facts: "during the Second World War not once did a German soldier set foot on the territory of the Checheno-Ingush Republic, save for the brief occupation of the border settlement of Malgobek, populated by Russians," and "the Chechens and Ingush were physically unable to join German formations, since there was no compulsory conscription in Checheno-Ingushetia"(Citation: 369).
+  uk: |-
+    СРСР будував звинувачення чеченців у «бандитизмі» на сфальсифікованій статистиці: перевірка центрального апарату радянського НКВД (попередника сучасної ФСБ) влітку 1943 року показала, що з 213 оголошених убитими «бандитів» на обліку стояли лише 22 людини; на кінець серпня 1943 року на обліку значилося 359 учасників «бандгруп» на всю Чечено-Інгушетію(Citation: 125). 9 листопада 1943 року заступник народного комісара (міністра) внутрішніх справ Кобулов подав народному комісарові (міністру) внутрішніх справ Берії доповідну «Про становище в районах Чечено-Інгушської АРСР» «із завідомо фальшивими цифрами про нібито масову кількість активних бандитів і дезертирів.
+    «Кобулов!
+    Дуже хороша записка», - зазначив Берія на доповіді й дав хід підготовці операції «Чечевица»»(Citation: 125).
+    Берія брехав і в підсумковій доповіді - доносив керівництву СРСР, що виселення пройшло «без серйозних випадків опору та інцидентів»; історики Я. З. Ахмадов та Е. Х. Хасмагомадов пишуть: «У своєму донесенні керівництву країни нарком внутрішніх справ відверто брехав: виселення чеченців супроводжувалося безліччю інцидентів і масовими вбивствами мирних жителів»(Citation: 125).
+    Чеченський історик А. Г. Авторханов, який писав про це в еміграції 1952 року, розібрав офіційну версію по пунктах.
+    Мотив, оголошений указом від 25 червня 1946 року, він наводить дослівно - «Багато чеченців та інгушів, підбурювані німецькими агентами, добровільно приєдналися до організованих німцями формувань і разом з німецькими збройними силами виступали зі зброєю в руках проти Червоної Армії...
+    Тому Чечено-Інгушська республіка ліквідується з виселенням її населення» - і називає його розрахованим «на неуцтво радянського народу та на непоінформованість Заходу»(Citation: 369).
+    Проти цієї версії він ставить два факти: «під час другої світової війни жодного разу не ступала нога німецького солдата на територію Чечено-Інгушської республіки, якщо не рахувати короткочасного зайняття прикордонного містечка Малгобек, населеного росіянами», і «приєднуватися до німецьких формувань чеченці та інгуші й фізично не могли, бо в Чечено-Інгушетії не було обов'язкової мобілізації»(Citation: 369).

@@ -1,0 +1,14 @@
+type: procedure
+id: C0050.T0032
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0032
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Официальное зачисление коренного населения в чужаки: Столыпин предписал губернаторам отказывать в регистрации «каких бы то ни было инородческих обществ, в том числе украинских и еврейских, независимо от преследуемых ими целей»(Citation: 160).'
+  en: 'The official classing of the indigenous population as aliens: Stolypin prescribed to the governors to refuse the registration of "any alien societies whatsoever, including Ukrainian and Jewish ones, regardless of the aims they pursue"(Citation: 160).'
+  uk: 'Офіційне зарахування корінного населення до чужинців: Столипін приписав губернаторам відмовляти в реєстрації «будь-яких інородницьких товариств, у тому числі українських і єврейських, незалежно від цілей, які вони переслідують»(Citation: 160).'

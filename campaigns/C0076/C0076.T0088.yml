@@ -1,0 +1,14 @@
+type: procedure
+id: C0076.T0088
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique: T0088
+people: ukrainians
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: 'Использование Договора об образовании СССР (декабрь 1922 г.) для формального декларирования союза равноправных республик, маскирующего окончательную централизацию власти в Москве(Citation: 25).'
+  en: 'Use of the Treaty on the Creation of the USSR (December 1922) to formally declare a union of equal republics, masking the final centralization of power in Moscow(Citation: 25).'
+  uk: 'Використання Договору про утворення СРСР (грудень 1922 р.) для формального декларування союзу рівноправних республік, що маскував остаточну централізацію влади в Москві(Citation: 25).'

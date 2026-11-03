@@ -1,0 +1,31 @@
+type: procedure
+id: C1168.T0105
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Генерал Евдокимов, командовавший войсками левого крыла Кавказской линии (цепи имперских укреплений на земле нохчи), записал в журнале военных действий зимы 1857 года: он направил генерала Мищенко вниз по Хизы-Шавдону, «поручивъ ему... истреблять аулы, чтобы отнять у Чеченцевъ самую мысль о возможности оставаться на мѣстѣ прежняго жительства»(Citation: 109).
+    Исполнение записано там же: «Ген.-м.
+    Мищенко сжегъ всѣ аулы и хутора на назначенномъ ему пространствѣ; къ нему вышло множество покорившихся... до 400 двор., подъ прикрытіемъ части войскъ... направлена въ Умаханъ-юртъ»(Citation: 109).
+    На рапорт об этой кампании император Александр II ответил одобрением «за совершенно успѣшное окончаніе 1-го періода зимней кампаніи»(Citation: 109).
+    В ноябре 1857 года тот же журнал подвёл итог похода на пограничную с Чечнёй Салатавию: «Салатавія разорена и сожжена, такъ что жители ея должны уже будутъ селиться на мѣстахъ прежнихъ Салатавскихъ ауловъ по Сулаку»(Citation: 109).
+    Взяв Ведено, столицу имамата - государства Шамиля, - империя уничтожила крепость: «Занятая 1 апреля 1859 года царскими войсками, крепость Ведено была полностью уничтожена в течение пяти дней»(Citation: 95).
+  en: |-
+    General Yevdokimov, who commanded the troops of the left wing of the Caucasus Line (the chain of imperial fortifications on Nokhchi land), recorded in the journal of military operations of the winter of 1857 that he sent General Mishchenko down the Khizy-Shavdon, "instructing him... to annihilate auls, so as to take away from the Chechens the very thought of the possibility of remaining at the site of their former dwelling"(Citation: 109).
+    The execution is recorded there as well: "Major-general Mishchenko burned all the auls and hamlets in the area assigned to him; a multitude of those who had submitted came out to him... up to 400 households, under the cover of part of the troops... sent to Umakhan-yurt"(Citation: 109).
+    To the report on this campaign Emperor Alexander II replied with approval "for the completely successful conclusion of the 1st period of the winter campaign"(Citation: 109).
+    In November 1857 the same journal summed up the expedition against Salatavia, bordering on Chechnya: "Salatavia has been devastated and burned, so that its inhabitants will now have to settle at the sites of the former Salatavian auls along the Sulak"(Citation: 109).
+    Having taken Vedeno, the capital of the Imamate - Shamil's state - the empire destroyed the fortress: "Occupied on 1 April 1859 by the tsarist troops, the Vedeno fortress was completely destroyed within five days"(Citation: 95).
+  uk: |-
+    Генерал Євдокимов, який командував військами лівого крила Кавказької лінії (ланцюга імперських укріплень на землі нохчі), записав у журналі воєнних дій зими 1857 року: він направив генерала Міщенка вниз по Хізи-Шавдону, «доручивши йому... винищувати аули, щоб відняти в чеченців саму думку про можливість залишатися на місці колишнього проживання»(Citation: 109).
+    Виконання записано там само: «Ген.-м.
+    Міщенко спалив усі аули й хутори на призначеному йому просторі; до нього вийшло безліч покірних... до 400 двор., під прикриттям частини військ... відправлена в Умахан-юрт»(Citation: 109).
+    На рапорт про цю кампанію імператор Олександр II відповів схваленням «за цілком успішне закінчення 1-го періоду зимової кампанії»(Citation: 109).
+    У листопаді 1857 року той самий журнал підбив підсумок походу на прикордонну з Чечнею Салатавію: «Салатавія зруйнована і спалена, так що жителі її муситимуть уже селитися на місцях колишніх салатавських аулів по Сулаку»(Citation: 109).
+    Взявши Ведено, столицю імамату - держави Шаміля, - імперія знищила фортецю: «Зайнята 1 квітня 1859 року царськими військами, фортеця Ведено була повністю знищена протягом п'яти днів»(Citation: 95).

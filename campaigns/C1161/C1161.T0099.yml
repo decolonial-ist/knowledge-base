@@ -1,0 +1,23 @@
+type: procedure
+id: C1161.T0099
+created: 2026-07-21
+modified: 2026-08-04
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Каждая присяга весеннего тура Фезе (февраль-апрель 1837) оплачивалась людьми: войска забирали аманатов (аманат - человек, которого империя забирала у общины как гарантию подчинения) у каждого подчинившегося общества.
+    Рапорты Розена военному министру Чернышеву фиксируют механизм: Шали - «представили в залог оной аманатов», Гельдиген - «выдали по выбору из лучших семейств аманатов», Яман-су и Аксай - «с обезпечением оной аманатами», Гойтинский лес и Мартанское ущелье - «представили аманатов в обезпечение своей покорности»; сводка от 4 марта 1837 считает: за 12-22 февраля «взято аманатов 52 чел.»(Citation: 105).
+    В апреле в Гертлинском селении, по рапорту от 30 мая, «Фезе приказал взять под стражу семейство старшины и ещё 12 душ»(Citation: 105).
+  en: |-
+    Every oath of Feze's spring tour (February-April 1837) was paid for in people: the troops took amanats (amanat - a person whom the empire took from a community as a guarantee of subordination) from every community that submitted.
+    Rozen's reports to Minister of War Chernyshev record the mechanism: Shali - "presented amanats as its pledge", Geldigen - "handed over amanats chosen from the best families", the Yaman-su and the Aksai - "with amanats as its security", the Goyta forest and the Martan gorge - "presented amanats as security for their submission"; the summary of 4 March 1837 counts: for 12-22 February "52 amanats were taken"(Citation: 105).
+    In April, in the Gertli settlement, according to the report of 30 May, "Feze ordered the elder's family and 12 more souls to be taken into custody"(Citation: 105).
+  uk: |-
+    Кожна присяга весняного туру Фезе (лютий-квітень 1837) оплачувалася людьми: війська забирали аманатів (аманат - людина, яку імперія забирала в громади як гарантію підпорядкування) у кожної підпорядкованої громади.
+    Рапорти Розена військовому міністру Чернишову фіксують механізм: Шалі - «представили в заставу оної аманатів», Гельдіген - «видали за вибором з кращих сімейств аманатів», Яман-су і Аксай - «із забезпеченням оної аманатами», Гойтинський ліс і Мартанське міжгір'я - «представили аманатів у забезпечення своєї покірності»; зведення від 4 березня 1837 рахує: за 12-22 лютого «взято аманатів 52 чол.»(Citation: 105).
+    У квітні в Гертлінському селищі, за рапортом від 30 травня, «Фезе наказав узяти під варту сімейство старшини і ще 12 душ»(Citation: 105).

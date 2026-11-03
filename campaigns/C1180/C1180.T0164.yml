@@ -1,0 +1,31 @@
+type: procedure
+id: C1180.T0164
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Выселяя чеченский народ в феврале 1944 года, колонизатор грабил его опустевшие дома.
+    Чеченский историк Далхан Хожаев пишет: «В дни переселения параллельно людскому к Грозному сплошным потоком двигались колонны военных автомобилей с материальными ценностями, награбленными в опустевших домах чеченцев и ингушей.
+    Наиболее ценные по мнению охраны вещи - ковры, бурки, кавказские наборные ремни, украшенное золотом и серебром оружие (кинжалы, шашки, кремневые ружья работы чеченских мастеров прошлого века), драгоценности везли в крытых брезентом автофургонах»(Citation: 553).
+    Руководитель бригады Народного комиссариата (министерства) государственного контроля РСФСР Дроздов, по поручению правительства РСФСР проверявший в августе 1944 года переданные Дагестану районы, докладывал о «безудержном хищении и разбазаривании имущества спецпереселенцев», начавшемся «вскоре после выселения»: исполняющий обязанности председателя районного совета Юсупов «полностью экипировался за счет имущества спецпереселенцев» - за ним недостача четырёх ручных и четырёх ножных швейных машин, 26 паласов, 30 ковров и 6 велосипедов; прокурор Дагестана Хашаев получил дом, сад, огород и «безхозную» корову; народный судья Сулейманов оформил добычу распиской: «Вещи получил, деньги не уплатил, в чем и расписуюсь»(Citation: 553).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов подводят итог: «В безудержных хищениях чужого добра оказалась замешанной вся партийно-хозяйственная и милицейская верхушка Грозненской области, Дагестана, Ставрополья, Северной Осетии и Грузии»; попавшихся снимали и судили, но «в конце концов пришлось отказаться от арестов, так как на свободе не оставалось, кому руководить»(Citation: 125).
+  en: |-
+    Deporting the Chechen people in February 1944, the colonizer looted its emptied homes.
+    The Chechen historian Dalkhan Khozhaev writes: "In the days of the deportation, parallel to the human stream, columns of military trucks moved toward Grozny in an unbroken flow, loaded with the valuables looted from the emptied homes of the Chechens and Ingush.
+    The items the guards deemed most valuable - carpets, burkas, Caucasian mounted belts, weapons ornamented with gold and silver (daggers, shashkas, flintlock rifles made by Chechen masters of the last century), jewels - were carried in canvas-covered vans"(Citation: 553).
+    Drozdov, head of a brigade of the People's Commissariat (Ministry) of State Control of the RSFSR, who inspected the districts handed to Dagestan in August 1944 on the instructions of the government of the RSFSR, reported "unrestrained theft and squandering of the property of the special settlers," begun "soon after the deportation": Yusupov, acting chairman of a district soviet, "fully outfitted himself at the expense of the property of the special settlers" - he was short four hand-operated and four treadle sewing machines, 26 rugs, 30 carpets and 6 bicycles; Khashaev, prosecutor of Dagestan, received a house, an orchard, a vegetable garden and an "ownerless" cow; people's judge Suleimanov formalized his haul with a receipt: "Goods received, money not paid, to which I hereby subscribe"(Citation: 553).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov sum up: "Implicated in the unrestrained theft of other people's goods was the entire party-economic and militia top brass of Grozny Oblast, Dagestan, Stavropol, North Ossetia and Georgia"; those caught were dismissed and tried, but "in the end the arrests had to be abandoned, since no one would have been left at liberty to govern"(Citation: 125).
+  uk: |-
+    Виселяючи чеченський народ у лютому 1944 року, колонізатор грабував його спустілі домівки.
+    Чеченський історик Далхан Хожаєв пише: «У дні переселення паралельно людському до Грозного суцільним потоком рухалися колони військових автомобілів з матеріальними цінностями, награбованими в спустілих домівках чеченців та інгушів.
+    Найцінніші на думку охорони речі - килими, бурки, кавказькі наборні ремені, оздоблена золотом і сріблом зброя (кинджали, шашки, кремневі рушниці роботи чеченських майстрів минулого століття), коштовності везли в критих брезентом автофургонах»(Citation: 553).
+    Керівник бригади Народного комісаріату (міністерства) державного контролю РРФСР Дроздов, який за дорученням уряду РРФСР перевіряв у серпні 1944 року передані Дагестану райони, доповідав про «нестримне розкрадання та розбазарювання майна спецпереселенців», що почалося «невдовзі після виселення»: виконувач обов'язків голови районної ради Юсупов «повністю екіпірувався за рахунок майна спецпереселенців» - за ним недостача чотирьох ручних і чотирьох ножних швейних машин, 26 паласів, 30 килимів і 6 велосипедів; прокурор Дагестану Хашаєв отримав будинок, сад, город і «безхазяйну» корову; народний суддя Сулейманов оформив здобич розпискою: «Речі отримав, гроші не сплатив, у чому й розписуюся»(Citation: 553).
+    Історики Я. З. Ахмадов та Е. Х. Хасмагомадов підбивають підсумок: «У нестримних розкраданнях чужого добра виявилася замішаною вся партійно-господарська та міліцейська верхівка Грозненської області, Дагестану, Ставрополля, Північної Осетії та Грузії»; спійманих знімали з посад і судили, але «врешті-решт довелося відмовитися від арештів, бо на волі не залишалося, кому керувати»(Citation: 125).

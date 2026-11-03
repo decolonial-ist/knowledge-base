@@ -1,0 +1,17 @@
+type: procedure
+id: C1174.T0163
+created: 2026-08-09
+modified: 2026-08-09
+version: '1.0'
+technique: T0163
+people: nokhchi
+actor: G0014
+tool: S0010
+contributors: []
+description:
+  ru: 'Добровольческая армия после взятия Алхан-Юрта в конце марта 1919 года месяц не давала жителям похоронить погибших - историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «В виде наказания за упорное сопротивление, белое командование в течение месяца не разрешало предать земле тела погибших защитников села»(Citation: 125).'
+  en: |-
+    After capturing Alkhan-Yurt at the end of March 1919 the Volunteer Army for a month did not let the residents bury their dead - historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "As a punishment for the stubborn resistance, the White command for the course of a month did not permit the bodies of the village's fallen defenders to be committed to the earth"(Citation: 125).
+  uk: 'Добровольча армія після взяття Алхан-Юрта наприкінці березня 1919 року місяць не давала жителям поховати загиблих - історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «У вигляді покарання за впертий опір, біле командування протягом місяця не дозволяло віддати землі тіла загиблих захисників села»(Citation: 125).'

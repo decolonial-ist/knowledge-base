@@ -1,0 +1,23 @@
+type: procedure
+id: C1148.T0053
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0053
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историк Д. А. Хожаев пишет, что к 18 мая 1826 года у нохчи были «взяты в плен женщины и дети»(Citation: 95).
+    Сам генерал Ермолов в рапорте императору Николаю I от 28 мая 1826 года уточнял число: при внезапном нападении на селение Ставна-куль 2 мая «в плен взято обоего пола 16 душ», а при нападении на Малую Атагу 16 мая «захватил обоего пола 15 душ в плен»(Citation: 103).
+    Имперский историк Волконский подтверждает захват у Ставноколя: внезапное движение «доставило нам шестнадцать пленных»(Citation: 116).
+  en: |-
+    Historian D. A. Khozhaev writes that by May 18, 1826, «women and children had been taken captive» from the Nokhchi(Citation: 95).
+    General Yermolov himself, in a report to Emperor Nicholas I dated May 28, 1826, specified the number: in the surprise attack on the village of Stavna-kul on May 2, «16 souls of both sexes were taken captive», and in the attack on Malaya Ataga on May 16 he «captured 15 souls of both sexes»(Citation: 103).
+    The imperial historian Volkonsky confirms the seizure at Stavnokol: the sudden movement «brought us sixteen captives»(Citation: 116).
+  uk: |-
+    Історик Д. А. Хожаєв пише, що до 18 травня 1826 року в Нохчі було «взято в полон жінок і дітей»(Citation: 95).
+    Сам генерал Єрмолов у рапорті імператору Миколі I від 28 травня 1826 року уточнював число: під час раптового нападу на селище Ставна-куль 2 травня «в полон взято обох статей 16 душ», а під час нападу на Малу Атагу 16 травня «захопив обох статей 15 душ у полон»(Citation: 103).
+    Імперський історик Волконський підтверджує захоплення біля Ставноколя: раптовий рух «приніс нам шістнадцять полонених»(Citation: 116).

@@ -1,0 +1,39 @@
+type: procedure
+id: C0103.T0158
+created: 2026-08-04
+modified: 2026-08-31
+version: '1.0'
+technique: T0158
+people: ukrainians
+actor: G0011
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Российские оккупационные администрации с апреля 2022 года метили захваченные территории имперскими знаками - в камне и в бумаге.
+    В Херсонской области до вторжения было демонтировано более 110 памятников Ленину и практически ни одного не осталось; после оккупации захватчики поставили десять новых: первый в Геническе в апреле 2022 года - первый памятник Ленину на территории Украины после 2014 года, - а в конце того же месяца монумент вернули на постамент у горсовета в Новой Каховке(Citation: 435).
+    В Мариуполе 5 мая 2022 года открыли памятник женщине с красным флагом, а церемонию опубликовал в своём телеграм-канале секретарь генсовета «Единой России» Андрей Турчак; площади Воинов-Освободителей, названной в честь освобождавших город от нацистов, оккупанты вернули советское имя «площадь Ленинского комсомола»(Citation: 456).
+    Параллельно оккупационная администрация обклеивала территорию баннерами: в Херсоне и Новой Каховке висели русскоязычные щиты «Россия здесь навсегда!», «Херсон - навеки с Россией», «Херсон - русский город», и для них купили за двадцать центов на фотостоке снимок украинского фотографа Анны Пасичник - её сын Ярослав с подругой в вышиванках на рапсовом поле Киевщины, - дорисовав за спинами детей российский флаг(Citation: 410).
+    В Балаклее на Харьковщине оккупанты заклеили городской баннер: сначала повесили поверх «Україна і Росія "едины"», затем плакат с триколором и надписью «Мы с Россией один народ!». 10 сентября 2022 года украинские военные сорвали триколор - а под ним открылись строки Шевченко, простоявшие под оккупацией всё это время: «Борітеся - поборете!
+    Вам Бог помагає!
+    За вас правда, за вас слава, і воля святая!»(Citation: 455).
+    Знаки продержались до деоккупации: 11 ноября 2022 года плакат «Россия здесь навсегда» в освобождённой Белозерке Херсонской области сорвали местные жители - видео опубликовал телеграм-канал «Николаевский Ванек»(Citation: 470).
+  en: |-
+    From April 2022 the Russian occupation administrations marked the seized territories with imperial signs - in stone and on paper.
+    In Kherson oblast more than 110 Lenin monuments had been dismantled before the invasion, with practically none left; after the occupation the invaders put up ten new ones: the first in Henichesk in April 2022 - the first Lenin monument on Ukrainian territory since 2014 - and at the end of that same month a monument was returned to its pedestal by the city council in Nova Kakhovka(Citation: 435).
+    In Mariupol on 5 May 2022 a monument to a woman with a red flag was unveiled, and the ceremony was published in his Telegram channel by Andrei Turchak, secretary of the general council of "United Russia"; the Square of the Warrior-Liberators, named in honor of those who freed the city from the Nazis, was given back its Soviet name of "Lenin Komsomol Square" by the occupiers(Citation: 456).
+    In parallel the occupation administration papered the territory with banners: in Kherson and Nova Kakhovka hung Russian-language billboards reading "Russia is here forever!," "Kherson - forever with Russia," "Kherson is a Russian city," and for them they bought, for twenty cents on a stock-photo site, a picture by the Ukrainian photographer Anna Pasichnyk - her son Yaroslav with a friend in vyshyvankas in a rapeseed field near Kyiv - painting a Russian flag in behind the children's backs(Citation: 410).
+    In Balakliia in Kharkiv oblast the occupiers pasted over a city banner: first they hung "Ukraine and Russia are 'one'" on top of it, then a poster with a tricolor reading "We are one people with Russia!".
+    On 10 September 2022 Ukrainian soldiers tore the tricolor down - and beneath it emerged the lines of Shevchenko that had stood there through the entire occupation: "Fight - and you shall prevail!
+    God is helping you!
+    Truth is with you, glory is with you, and holy freedom!"(Citation: 455).
+    The signs held only until de-occupation: on 11 November 2022, a "Russia is here forever" poster in liberated Bilozerka in the Kherson region was torn down by local residents - the video was published by the Telegram channel "Nikolaevsky Vanek"(Citation: 470).
+  uk: |-
+    Російські окупаційні адміністрації з квітня 2022 року мітили захоплені території імперськими знаками - в камені та в папері.
+    У Херсонській області до вторгнення було демонтовано понад 110 пам'ятників Леніну і практично жодного не лишилося; після окупації загарбники поставили десять нових: перший у Генічеську в квітні 2022 року - перший пам'ятник Леніну на території України після 2014 року, - а наприкінці того ж місяця монумент повернули на постамент біля міськради в Новій Каховці(Citation: 435).
+    У Маріуполі 5 травня 2022 року відкрили пам'ятник жінці з червоним прапором, а церемонію опублікував у своєму телеграм-каналі секретар генради «Единой России» Андрій Турчак; площі Воїнів-Визволителів, названій на честь визволителів міста від нацистів, окупанти повернули радянську назву «площа Ленінського комсомолу»(Citation: 456).
+    Паралельно окупаційна адміністрація обклеювала територію банерами: у Херсоні та Новій Каховці висіли російськомовні щити «Россия здесь навсегда!», «Херсон - навеки с Россией», «Херсон - русский город», і для них купили за двадцять центів на фотостоці знімок української фотографки Анни Пасічник - її син Ярослав із подругою у вишиванках на ріпаковому полі Київщини, - домалювавши за спинами дітей російський прапор(Citation: 410).
+    У Балаклії на Харківщині окупанти заклеїли міський банер: спершу повісили поверх «Україна і Росія "едины"», потім плакат із триколором і написом «Мы с Россией один народ!». 10 вересня 2022 року українські військові зірвали триколор - а під ним відкрилися рядки Шевченка, що простояли під окупацією весь цей час: «Борітеся - поборете!
+    Вам Бог помагає!
+    За вас правда, за вас слава, і воля святая!»(Citation: 455).
+    Знаки протрималися до деокупації: 11 листопада 2022 року плакат «Россия здесь навсегда» у звільненій Білозерці Херсонської області зірвали місцеві жителі - відео опублікував телеграм-канал «Николаевский Ванек»(Citation: 470).

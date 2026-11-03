@@ -1,0 +1,31 @@
+type: procedure
+id: C1172.T0077
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В мае 1877 года отряд полковника Батьянова подавил восстание в пограничной Салатавии: историк А. И. Исмаилова пишет - «Подавление восстания, продолжавшееся всю вторую половину мая, было проведено с чрезвычайной жестокостью.
+    Аулы Алмак, Дылым и Буртунай с их хуторами были уничтожены»(Citation: 253). 12 июля 1877 года «против бассовских аулов были двинуты значительные отряды войск.
+    Но жители с семействами и всем движимым имуществом скрылись в лесах.
+    Карательная экспедиция уничтожила аулы, а посевы вытравила и вытоптала»(Citation: 253). 16 июля полковник Накашидзе двумя колоннами вошёл в Чеберлой: историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут - «разрушил 5 селений, включая аулы Макажой и Садой, арестовал до тысячи человек и захватил большое количество скота»(Citation: 125). 14 августа войска взяли аул Дышни-Ведено у стен Веденской крепости - восставшие, по историку А. И. Исмаиловой, отстаивали каждую саклю (дом горца) «несмотря на убийственный артиллерийский огонь»(Citation: 253).
+  en: |-
+    In May 1877 the detachment of Colonel Batyanov suppressed the uprising in borderland Salatavia: historian A. I. Ismailova writes - "The suppression of the uprising, which went on through the entire second half of May, was carried out with extreme cruelty.
+    The auls of Almak, Dylym and Burtunay with their hamlets were destroyed"(Citation: 253).
+    On 12 July 1877, "significant detachments of troops were moved against the Bass auls.
+    But the inhabitants, with their families and all their movable property, hid in the forests.
+    The punitive expedition destroyed the auls, and the crops it ravaged and trampled down"(Citation: 253).
+    On 16 July Colonel Nakashidze entered Cheberloy in two columns: historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write - he "destroyed 5 villages, including the auls of Makazhoy and Sadoy, arrested up to a thousand people and seized a large number of livestock"(Citation: 125).
+    On 14 August the troops took the aul of Dyshni-Vedeno at the walls of the Vedeno fortress - the insurgents, according to historian A. I. Ismailova, defended every saklia (a highlander's house) "despite the murderous artillery fire"(Citation: 253).
+  uk: |-
+    У травні 1877 року загін полковника Батьянова придушив повстання в прикордонній Салатавії: історик А. І. Ісмаїлова пише - «Придушення повстання, що тривало всю другу половину травня, було проведене з надзвичайною жорстокістю.
+    Аули Алмак, Дилим і Буртунай з їхніми хуторами були знищені»(Citation: 253). 12 липня 1877 року «проти бассовських аулів було рушено значні загони військ.
+    Але жителі з родинами і всім рухомим майном сховалися в лісах.
+    Каральна експедиція знищила аули, а посіви витравила й витоптала»(Citation: 253). 16 липня полковник Накашідзе двома колонами увійшов до Чеберлоя: історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть - «зруйнував 5 селищ, включно з аулами Макажой і Садой, заарештував до тисячі осіб і захопив велику кількість худоби»(Citation: 125). 14 серпня війська взяли аул Дишні-Ведено біля стін Веденської фортеці - повстанці, за істориком А. І. Ісмаїловою, відстоювали кожну саклю (дім горця) «попри вбивчий артилерійський вогонь»(Citation: 253).

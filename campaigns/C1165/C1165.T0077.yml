@@ -1,0 +1,38 @@
+type: procedure
+id: C1165.T0077
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В 1841-1846 годах карательные выходы имперских войск против Чечни шли ежегодно.
+    В июне 1841 года генерал Граббе, командующий войсками Кавказской линии (цепи имперских укреплений на земле нохчи), вошёл в Аух (чеченскую область на северо-востоке): историк Н. И. Покровский пишет - «6 июня он занял Ярыксу, 7 - Кишень, который разорялся три дня»(Citation: 129).
+    В конце сентября 1841 года отряды Граббе и подполковника Нестерова прошли верховья реки Ассы - поход, по Покровскому, «сопровождался истреблениями аулов»(Citation: 129); с 15 по 30 октября экспедиция Граббе прошла по Большой и Малой Чечне (равнинным восточной и западной частям Чечни).
+    Цель этих походов Покровский формулирует так: «экспедициями запугать чеченцев»(Citation: 129).
+    Весной 1844 года набеги предписал генерал Нейдгардт, глава имперских войск на Кавказе: собрать войска в крепости Грозной «для производства кратковременных и внезапных набегов в ближайшие аулы Большой Чечни» и действовать «не только для угрожения, но и для наказания непокорных аулов» (предписание начальнику Назрановского отряда от 5 апреля 1844 года)(Citation: 126).
+    Зачистку Малой Чечни (равнинно-предгорной западной части Чечни) в декабре 1846 года вела специально назначенная колонна.
+    Имперский офицер Полторацкий, участник экспедиции, записал приказ от 14 декабря 1846 года: «на завтрашний день... колонна в составе трех батальонов [Егерского князя Воронцова полка], восьми орудий и полка кавалерии под командой полковника Меллер-Закомельского назначалась идти жечь неприятельские аулы»(Citation: 122).
+    Задача «идти жечь» аулы поставлена приказом как рутинное назначение на завтра.
+  en: |-
+    In 1841-1846 punitive marches of imperial troops against Chechnya went on yearly.
+    In June 1841 general Grabbe, commander of the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), entered Aukh (the Chechen region in the north-east): historian N. I. Pokrovsky writes - "on 6 June he occupied Yaryksu, on the 7th - Kishen, which was being devastated for three days"(Citation: 129).
+    At the end of September 1841 the detachments of Grabbe and lieutenant colonel Nesterov passed through the upper reaches of the Assa river - a march which, according to Pokrovsky, "was accompanied by annihilations of auls"(Citation: 129); from 15 to 30 October Grabbe's expedition passed through Greater and Lesser Chechnya (the lowland eastern and western parts of Chechnya).
+    Pokrovsky states the goal of these marches: "to intimidate the Chechens by expeditions"(Citation: 129).
+    In spring 1844 raids were ordered by general Neidhardt, head of the empire's troops in the Caucasus: to gather troops in the Groznaya fortress "for the conduct of brief and sudden raids into the nearest auls of Greater Chechnya" and to act "not only for menacing, but also for the punishment of unsubmissive auls" (instruction to the commander of the Nazran detachment of 5 April 1844)(Citation: 126).
+    The sweeping of Lesser Chechnya (the lowland-piedmont western part of Chechnya) in December 1846 was carried out by a specially assigned column.
+    The imperial officer Poltoratsky, a participant of the expedition, recorded the order of 14 December 1846: "for tomorrow... a column of three battalions [of the Jaeger Prince Vorontsov regiment], eight guns and a cavalry regiment under the command of colonel Meller-Zakomelsky was assigned to go and burn the enemy auls"(Citation: 122).
+    The task "to go and burn" auls was set by order as a routine assignment for the next day.
+  uk: |-
+    У 1841-1846 роках каральні виходи імперських військ проти Чечні йшли щороку.
+    У червні 1841 року генерал Граббе, командувач військ Кавказької лінії (ланцюга імперських укріплень на землі нохчі), увійшов в Аух (чеченську область на північному сході): історик Н. І. Покровський пише - «6 червня він зайняв Ярикса, 7 - Кишень, який розорявся три дні»(Citation: 129).
+    Наприкінці вересня 1841 року загони Граббе і підполковника Нестерова пройшли верхів'я річки Асси - похід, за Покровським, «супроводжувався винищеннями аулів»(Citation: 129); з 15 по 30 жовтня експедиція Граббе пройшла Великою і Малою Чечнею (рівнинними східною та західною частинами Чечні).
+    Мету цих походів Покровський формулює так: «експедиціями залякати чеченців»(Citation: 129).
+    Навесні 1844 року набіги приписав генерал Нейдгардт, глава імперських військ на Кавказі: зібрати війська у фортеці Грозній «для проведення короткочасних і раптових набігів у найближчі аули Великої Чечні» і діяти «не тільки для погрози, але й для покарання непокірних аулів» (припис начальнику Назрановського загону від 5 квітня 1844 року)(Citation: 126).
+    Зачистку Малої Чечні (рівнинно-передгірної західної частини Чечні) у грудні 1846 року вела спеціально призначена колона.
+    Імперський офіцер Полторацький, учасник експедиції, записав наказ від 14 грудня 1846 року: «на завтрашній день... колона у складі трьох батальйонів [Єгерського князя Воронцова полку], восьми гармат і полку кавалерії під командою полковника Меллер-Закомельського призначалася йти палити ворожі аули»(Citation: 122).
+    Завдання «йти палити» аули поставлене наказом як рутинне призначення на завтра.

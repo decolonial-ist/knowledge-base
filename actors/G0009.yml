@@ -1,0 +1,30 @@
+type: actor
+id: G0009
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+name:
+  ru: Российская Империя
+  en: Russian Empire
+  uk: Російська імперія
+contributors: []
+associated_groups:
+- Московское царство
+- СССР
+- Российская Федерация
+description:
+  ru: |-
+    Форма государства с 1721 по 1917 год, архитекторы системной ассимиляции.
+    Российская империя - преемник Московского царства, официально провозглашенный в 1721 году.
+    Характеризуется переходом к регулярному государству, созданием жестких имперских институтов (Коллегии, Сенат) и окончательной ликвидацией договорных отношений с автономиями.
+    В рамках фреймворка этот актор фокусируется на унификации управления, стирании административных границ и полном поглощении локальных политических систем через бюрократический аппарат.
+  en: |-
+    The form of the state from 1721 to 1917, architects of systemic assimilation.
+    The Russian Empire is the successor of the Tsardom of Muscovy, officially proclaimed in 1721.
+    It is characterized by the transition to a regular state, the creation of rigid imperial institutions (the Collegia, the Senate), and the final elimination of treaty-based relations with autonomies.
+    Within the framework, this actor focuses on the unification of governance, the erasure of administrative boundaries, and the complete absorption of local political systems through the bureaucratic apparatus.
+  uk: |-
+    Форма держави з 1721 по 1917 рік, архітектори системної асиміляції.
+    Російська імперія — наступниця Московського царства, офіційно проголошена 1721 року.
+    Характеризується переходом до регулярної держави, створенням жорстких імперських інститутів (Колегії, Сенат) та остаточною ліквідацією договірних відносин з автономіями.
+    У межах фреймворку цей актор фокусується на уніфікації управління, стиранні адміністративних кордонів і повному поглинанні локальних політичних систем через бюрократичний апарат.

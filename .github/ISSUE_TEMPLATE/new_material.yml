@@ -1,0 +1,22 @@
+name: Новый материал / Новий матеріал / New material
+description: Документ или публикация, которую стоит завести в архив источников / Документ або публікація, яку варто завести в архів джерел / A document or publication worth adding to the source archive
+labels: [material]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Название, автор, год / Назва, автор, рік / Title, author, year
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Ссылка / Посилання / Link
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Что подтверждает и где пригодится / Що підтверджує і де знадобиться / What it supports and where it is needed
+    validations:
+      required: true

@@ -1,0 +1,20 @@
+type: procedure
+id: C0085.T0022
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.0'
+technique: T0022
+people: ukrainians
+actor: G0010
+tool: S0021
+contributors: []
+description:
+  ru: |-
+    Организация публичной политической травли (нападки на Рыльского, Сосюру, Яновского, кампания по «борьбе с космополитами»), насаждавшая атмосферу страха.
+    Её итогом стала казнь фигурантов дела ЕАК: «12 августа 1952 все они были казнены»(Citation: 189).
+  en: |-
+    The staging of public political persecution (attacks on Rylsky, Sosiura, Yanovsky, the campaign against "cosmopolitans"), instilling an atmosphere of fear.
+    Its outcome was the execution of the defendants in the JAC case: "on August 12, 1952 they were all executed"(Citation: 189).
+  uk: |-
+    Організація публічного політичного цькування (нападки на Рильського, Сосюру, Яновського, кампанія з «боротьби з космополітами»), що насаджувала атмосферу страху.
+    Її підсумком стала страта фігурантів справи ЄАК: «12 серп. 1952 всі вони були страчені»(Citation: 189).

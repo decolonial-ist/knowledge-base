@@ -1,0 +1,23 @@
+type: procedure
+id: C0012.T0022
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0022
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Показательное уничтожение города как акт устрашения для остальной страны.
+    Петр I лично отдал приказ: «а Батурин в знак изменникам (понеже боронились) другим на приклад сжечь весь»(Citation: 3)(Citation: 4).
+    Грушевский: московское войско, взяв Батурин «через измену одного человека», «страшно расправилось с населением: людей вырезало, город разрушило дотла, начальников отдало на страшные муки»(Citation: 250).
+  en: |-
+    The demonstrative destruction of the city as an act of intimidation for the rest of the country.
+    Peter I personally gave the order: "and Baturyn, as a sign to the traitors (since they resisted), burn down entirely as an example to others"(Citation: 3)(Citation: 4).
+    Hrushevsky: the Muscovite army, having taken Baturyn "through the treachery of one man," "dealt terribly with the populace: the people were slaughtered, the town razed to the ground, the commanders given over to terrible tortures"(Citation: 250).
+  uk: |-
+    Показове знищення міста як акт залякування для решти країни.
+    Петро I особисто віддав наказ: «а Батурин на знак зрадникам (позаяк боронилися) іншим на приклад спалити весь»(Citation: 3)(Citation: 4).
+    Грушевський: московське військо, здобувши Батурин «через зраду одного чоловіка», «страшно росправило ся з людністю: людей порізало, місто зруйновало до решти, начальників віддало на страшні муки»(Citation: 250).

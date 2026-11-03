@@ -1,0 +1,26 @@
+type: procedure
+id: C1159.T0153
+created: 2026-07-17
+modified: 2026-07-17
+version: '1.0'
+technique: T0153
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В 1836 году командование российского Кавказского корпуса при генерале Розене учредило подконтрольную себе должность духовного вождя всех суннитов Кавказа и назначило на неё нанятого казанского эфенди (мусульманского богослова) Тадж ад-Дина Мустафина с содержанием за счёт казны - попытка замкнуть суннитское духовенство колонизируемых народов, включая нохчи, на фигуру, подчинённую империи.
+    Историк Н. И. Покровский писал: «выплывает широкий проект подчинения всего горского суннитского духовенства специальному духовному лицу»; задачей ставилось «обратить горцев на путь истинный, подчинить их русскому правительству и истребить или выдать нам живьем Шамиля» (Шамиль - имам, руководитель сопротивления горцев Дагестана и Чечни российскому завоеванию)(Citation: 129).
+    Состоялись только учреждение должности, назначение и многолетняя оплата проповедника; подчинить духовенство не вышло: «В горы проповедник не рискнул показываться»(Citation: 129).
+    Империя свернула проект лишь через шесть лет: сменивший Розена генерал Головин согласился отпустить Мустафина по докладу военного министра Чернышева от 13 ноября 1841 - «учение Таджудина Эффенди в продолжении 6 лет нисколько не изменило отношение горцев к нам»(Citation: 129).
+  en: |-
+    In 1836, the command of the Russian Caucasus Corps under General Rozen established under its own control the post of spiritual leader of all the Sunnis of the Caucasus, and appointed to it the hired Kazan efendi (Muslim theologian) Taj ad-Din Mustafin, maintained at the treasury's expense - an attempt to tie the Sunni clergy of the colonized peoples, including the Nokhchi, to a figure subordinate to the empire.
+    The historian N. I. Pokrovsky wrote: "a broad project emerges for subordinating the entire mountain Sunni clergy to a special spiritual person"; the task set was "to turn the highlanders onto the true path, subordinate them to the Russian government, and destroy or hand over Shamil to us alive" (Shamil - imam, leader of the Dagestani and Chechen highlanders' resistance to the Russian conquest)(Citation: 129).
+    Only the establishment of the post, the appointment, and the preacher's years-long payment took place; subordinating the clergy did not succeed: "The preacher did not dare to show himself in the mountains"(Citation: 129).
+    The empire wound down the project only six years later: Golovin, who succeeded Rozen, agreed to release Mustafin based on a report by Minister of War Chernyshev of 13 November 1841 - "the teaching of Tajudin Effendi over the course of 6 years did not change the highlanders' attitude toward us in the slightest"(Citation: 129).
+  uk: |-
+    У 1836 році командування російського Кавказького корпусу за генерала Розена заснувало підконтрольну собі посаду духовного вождя всіх суннітів Кавказу і призначило на неї найнятого казанського ефенді (мусульманського богослова) Тадж ад-Діна Мустафіна з утриманням за рахунок скарбниці - спроба замкнути суннітське духовенство колонізованих народів, включно з нохчі, на фігуру, підпорядковану імперії.
+    Історик М. І. Покровський писав: «спливає широкий проєкт підпорядкування всього гірського суннітського духовенства спеціальній духовній особі»; завданням ставилося «навернути горців на шлях істинний, підпорядкувати їх російському уряду і винищити або видати нам живцем Шаміля» (Шаміль - імам, керівник опору горців Дагестану і Чечні російському завоюванню)(Citation: 129).
+    Відбулися лише заснування посади, призначення і багаторічна оплата проповідника; підпорядкувати духовенство не вдалося: «У гори проповідник не наважився показуватися»(Citation: 129).
+    Імперія згорнула проєкт лише через шість років: генерал Головін, який змінив Розена, погодився відпустити Мустафіна за доповіддю військового міністра Чернишева від 13 листопада 1841 - «вчення Таджудіна Ефенді протягом 6 років анітрохи не змінило ставлення горців до нас»(Citation: 129).

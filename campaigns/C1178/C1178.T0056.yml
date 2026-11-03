@@ -1,0 +1,37 @@
+type: procedure
+id: C1178.T0056
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0056
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    СССР разорял чеченских крестьян налогами и принудительными сдачами зерна и мяса.
+    Чиновники облагали тех, кого записали в «кулаки», повышенным налогом по особому списку («индивидуальное обложение»), и председатель Северо-Кавказской краевой контрольной комиссии Ларин в феврале 1930 года считал, что в списки попадало слишком мало хозяйств: в Веденском округе «на 8.513 хозяйств в индивидуальном порядке было обложено лишь 80 хозяйств», в Центорое «из 464 хозяйств 406 освобождены от един. сел-хоз. налога», в Белгатое из 335 - 295, в Дарго из 501 - 439.
+    Налог бил наугад, вплоть до абсурда - про село Дай Ларин говорил: «кулак в Дае был обложен на 4 коп., а комсомолец там же - на 4 р. 39 коп.»(Citation: 537).
+    Колонизатор клал на горные аулы «хлебные задания» - нормы сдачи зерна, - хотя зерна там почти не было.
+    Ларин докладывал: областной комитет партии дал Ножай-Юртовскому округу задание в 15 000 пудов - около 240 тонн зерна; дальше у Ларина: «а на месте его увеличивают до 25.000 и на один аул Беной, где вообще-то вряд-ли есть 5 тысяч пудов, падает 5 тысяч пудов»; за несдачу колонизаторы переписывали имущество под изъятие и штрафовали - в Шали, докладывал Ларин, «было вынесено решение об оштрафовании 60 хозяйств»(Citation: 537).
+    В 1932 году, пишут историки Я. З. Ахмадов и Э. Х. Хасмагомадов, поверх отобранного скота «был еще спущен план по заготовкам мяса, что означало, по существу, конфискацию значительной части поголовья скота»(Citation: 125).
+    Колонизатор облагал и духовенство: историк К. Г. Дендиев ставит обложение мулл подоходным налогом первым шагом их вытеснения из жизни Чечни(Citation: 544).
+  en: |-
+    The USSR ruined the Chechen peasants with taxes and forced deliveries of grain and meat.
+    Officials taxed those entered as "kulaks" at a higher rate by a special list ("individual taxation"), and Larin, chairman of the North Caucasus krai control commission, held in February 1930 that too few households made the lists: in the Vedeno okrug, "of 8,513 households only 80 households were taxed on the individual basis"; in Tsentoroy "of 464 households, 406 are exempted from the unified agricultural tax", in Belgatoy 295 of 335, in Dargo 439 of 501.
+    The tax struck at random, to the point of absurdity - of the village of Day Larin said: "a kulak in Day was assessed at 4 kopecks, while a Komsomol member there was assessed at 4 rubles 39 kopecks"(Citation: 537).
+    The colonizer laid "grain assignments" - delivery quotas of grain - on the mountain auls, though there was hardly any grain there.
+    Larin reported: the oblast committee of the party gave the Nozhay-Yurt okrug an assignment of 15,000 poods - about 240 tonnes of grain; further in Larin: "and on the spot they raise it to 25,000, and on the single aul of Benoy, where there are hardly 5 thousand poods to be had at all, fall 5 thousand poods"; for non-delivery the colonizers inventoried property for confiscation and imposed fines - in Shali, Larin reported, "a decision was passed to fine 60 households"(Citation: 537).
+    In 1932, write historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov, on top of the confiscated livestock "a meat procurement plan was also handed down, which meant, in essence, the confiscation of a significant part of the livestock"(Citation: 125).
+    The colonizer taxed the clergy as well: historian K. G. Dendiev places the imposition of income tax on the mullahs as the first step of their displacement from the life of Chechnya(Citation: 544).
+  uk: |-
+    СРСР розоряв чеченських селян податками і примусовими здачами зерна та м'яса.
+    Чиновники обкладали тих, кого записали в «куркулі», підвищеним податком за особливим списком («індивідуальне оподаткування»), і голова Північно-Кавказької крайової контрольної комісії Ларін у лютому 1930 року вважав, що до списків потрапляло замало господарств: у Веденському окрузі «на 8.513 господарств в індивідуальному порядку було обкладено лише 80 господарств», у Центорої «з 464 господарств 406 звільнені від єдиного сільгоспподатку», у Белгатої з 335 - 295, у Дарго з 501 - 439.
+    Податок бив навмання, аж до абсурду - про село Дай Ларін казав: «куркуль у Даї був обкладений на 4 коп., а комсомолець там же - на 4 крб. 39 коп.»(Citation: 537).
+    Колонізатор клав на гірські аули «хлібні завдання» - норми здачі зерна, - хоча зерна там майже не було.
+    Ларін доповідав: обласний комітет партії дав Ножай-Юртівському округу завдання в 15 000 пудів - близько 240 тонн зерна; далі в Ларіна: «а на місці його збільшують до 25.000, і на один аул Беной, де взагалі-то навряд чи є 5 тисяч пудів, падає 5 тисяч пудів»; за нездачу колонізатори переписували майно під вилучення і штрафували - у Шалі, доповідав Ларін, «було винесено рішення про оштрафування 60 господарств»(Citation: 537).
+    У 1932 році, пишуть історики Я. З. Ахмадов і Е. Х. Хасмагомадов, поверх відібраної худоби «було ще спущено план із заготівель м'яса, що означало, по суті, конфіскацію значної частини поголів'я худоби»(Citation: 125).
+    Колонізатор обкладав і духовенство: історик К. Г. Дендієв ставить обкладення мулл прибутковим податком першим кроком їхнього витіснення з життя Чечні(Citation: 544).

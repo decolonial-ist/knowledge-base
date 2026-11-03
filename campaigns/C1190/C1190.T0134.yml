@@ -1,0 +1,67 @@
+type: procedure
+id: C1190.T0134
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0134
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    СССР поставил чечено-ингушских добровольцев в строй, но отказал им в оружии, снабжении и армейском номере - и 3-4 августа 1942 года бросил их, с шашками и случайными винтовками, против немецких танков под Котельниковом.
+    Воевать чеченцы и ингуши шли и без имперского принуждения: уже в первый год войны на фронте были свыше 18 тысяч человек, к третьему году - 32 тысячи, по другим сведениям до 50 тысяч(Citation: 125).
+    После того как СССР отменил призыв чеченцев и ингушей, чечено-ингушские офицеры советской армии добились разрешения набрать добровольцев; их просьбы вооружить набранных по-армейски остались без ответа.
+    Чеченский историк А. Г. Авторханов, писавший об этих событиях в эмиграции, называет их поимённо: «По инициативе чеченца советского генерала Супьяна Моллаева, ингуша полковника Абадиева, майора Висантова, капитана Ахтаева и других Советское правительство разрешило Чечено-Ингушской республике набрать добровольцев»(Citation: 369).
+    Собрались две дивизии, действующая и запасная; действующая после эвакуации Керчи ушла на Южный фронт.
+    В Краснодаре командующий Южным фронтом маршал Будённый выставил её напротив дивизии, отступившей из Керчи, и обратился к отступившим, как передаёт Авторханов, такими словами: «Вот, смотрите на них, горцев, их отцы и деды под руководством великого Шамиля 25 лет храбро дрались и отстаивали свою независимость против целой царской России.
+    Берите с них пример, как надо защищать Родину!»(Citation: 369).
+    Ни одна из двух дивизий не была принята на снабжение советской армии и не получила армейского номера.
+    Авторханов пишет: «Обмундированы они были самой Чечено-Ингушской республикой, оттуда же получали и провиант»(Citation: 369).
+    О вооружении и обуви бойцов он пишет так: «все вооружение этих дивизий состояло из одних шашек и из случайных винтовок самых разных систем»(Citation: 369); «Многие из бойцов были босыми, так как домашние горские чувяки давно износились»(Citation: 369).
+    Офицеры попросили Будённого принять дивизии в армию и вооружить их по-армейски.
+    Дальше у Авторханова сказано: «Буденный обещал подумать.
+    Пока Буденный думал, немцы переправились через Дон и чечено-ингушская дивизия была в том же виде, без всякой поддержки, брошена буквально под ураганный огонь немецких танков, стремительно рвавшихся к Сталинграду.
+    Под Котельниковом, 4 августа 1942 года, немецкие танки прошли по трупам многих бойцов этой дивизии.
+    Маленькая же часть попала в плен, другая, во главе со штабом, сумела вырваться из окружения и отступила.
+    Но разгром этой дивизии вместе с разгромом целых корпусов и армий Южного фронта явился плохой аттестацией для всего чечено-ингушского народа»(Citation: 369).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов описывают события иначе: набиралась одна 114-я Чечено-Ингушская кавалерийская дивизия - добровольцев пришло на тысячу человек сверх комплекта в 4,5 тысячи, - Москва её расформировала, а созданный на её базе 255-й Чечено-Ингушский кавалерийский полк майора Мовлида Висаитова СССР бросил под Сталинград(Citation: 125).
+  en: |-
+    The USSR put Chechen-Ingush volunteers into the line, but denied them weapons, supply and an army number - and on 3-4 August 1942 threw them, with sabers and miscellaneous rifles, against German tanks at Kotelnikovo.
+    Chechens and Ingush went to fight without any imperial coercion: already in the first year of the war over 18 thousand were at the front, by the third year - 32 thousand, by other accounts up to 50 thousand(Citation: 125).
+    After the USSR cancelled the call-up of Chechens and Ingush, Chechen-Ingush officers of the Soviet army obtained permission to recruit volunteers; their requests to arm the recruits properly, army-style, went unanswered.
+    The Chechen historian A. G. Avtorkhanov, who wrote about these events in emigration, names them one by one: "On the initiative of the Chechen Soviet general Supyan Mollaev, the Ingush colonel Abadiev, Major Visantov, Captain Akhtaev and others, the Soviet government permitted the Chechen-Ingush republic to recruit volunteers"(Citation: 369).
+    Two divisions gathered, an active one and a reserve one; after the evacuation of Kerch the active division went to the Southern Front.
+    In Krasnodar the commander of the Southern Front, Marshal Budyonny, drew it up facing the division that had retreated from Kerch and addressed the retreaters, as Avtorkhanov renders it, with these words: "Look at them, the highlanders: their fathers and grandfathers, under the leadership of the great Shamil, fought bravely for 25 years and defended their independence against the whole of tsarist Russia.
+    Take them as your example of how to defend the Motherland!"(Citation: 369).
+    Neither of the two divisions was taken onto the supply rolls of the Soviet army or received an army number.
+    Avtorkhanov writes: "They were uniformed by the Chechen-Ingush republic itself, and from there they received their provisions as well"(Citation: 369).
+    Of the fighters' weapons and footwear he writes: "the entire armament of these divisions consisted of sabers alone and of chance rifles of the most varied systems"(Citation: 369); "Many of the fighters were barefoot, as their homemade highland chuviaki had long worn out"(Citation: 369).
+    The officers asked Budyonny to take the divisions into the army and arm them army-style.
+    Avtorkhanov continues: "Budyonny promised to think it over.
+    While Budyonny was thinking, the Germans crossed the Don, and the Chechen-Ingush division, in the same condition, without any support, was thrown literally under the hurricane fire of German tanks racing toward Stalingrad.
+    At Kotelnikovo, on 4 August 1942, German tanks rolled over the corpses of many fighters of this division.
+    A small part was taken prisoner; another, led by the staff, managed to break out of the encirclement and retreated.
+    But the rout of this division, together with the rout of whole corps and armies of the Southern Front, served as a bad attestation for the entire Chechen-Ingush people"(Citation: 369).
+    The historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov describe the events differently: a single 114th Chechen-Ingush Cavalry Division was being recruited - volunteers came a thousand over the establishment of 4.5 thousand - Moscow disbanded it, and the 255th Chechen-Ingush Cavalry Regiment of Major Movlid Visaitov, created on its base, was thrown by the USSR toward Stalingrad(Citation: 125).
+  uk: |-
+    СРСР поставив чечено-інгуських добровольців у стрій, але відмовив їм у зброї, постачанні та армійському номері - і 3-4 серпня 1942 року кинув їх, із шашками та випадковими гвинтівками, проти німецьких танків під Котельниковим.
+    Воювати чеченці та інгуші йшли й без імперського примусу: вже в перший рік війни на фронті були понад 18 тисяч людей, до третього року - 32 тисячі, за іншими відомостями до 50 тисяч(Citation: 125).
+    Після того як СРСР скасував призов чеченців та інгушів, чечено-інгуські офіцери радянської армії домоглися дозволу набрати добровольців; їхні прохання озброїти набраних по-армійському залишилися без відповіді.
+    Чеченський історик А. Г. Авторханов, який писав про ці події в еміграції, називає їх поіменно: «З ініціативи чеченця радянського генерала Суп'яна Моллаєва, інгуша полковника Абадієва, майора Візантова, капітана Ахтаєва та інших Радянський уряд дозволив Чечено-Інгуській республіці набрати добровольців»(Citation: 369).
+    Зібралися дві дивізії, діюча й запасна; діюча після евакуації Керчі пішла на Південний фронт.
+    У Краснодарі командувач Південного фронту маршал Будьонний виставив її навпроти дивізії, що відступила з Керчі, і звернувся до тих, хто відступив, як передає Авторханов, такими словами: «Ось, дивіться на них, горців: їхні батьки й діди під проводом великого Шаміля 25 років хоробро билися й відстоювали свою незалежність проти цілої царської Росії.
+    Беріть із них приклад, як треба захищати Батьківщину!»(Citation: 369).
+    Жодну з двох дивізій не було прийнято на постачання радянської армії, і жодна не отримала армійського номера.
+    Авторханов пише: «Обмундировані вони були самою Чечено-Інгуською республікою, звідти ж отримували й провіант»(Citation: 369).
+    Про озброєння та взуття бійців він пише так: «усе озброєння цих дивізій складалося з самих шашок і з випадкових гвинтівок найрізноманітніших систем»(Citation: 369); «Багато бійців були босими, бо домашні горські чув'яки давно зносилися»(Citation: 369).
+    Офіцери попросили Будьонного прийняти дивізії до армії та озброїти їх по-армійському.
+    Далі в Авторханова сказано: «Будьонний пообіцяв подумати.
+    Поки Будьонний думав, німці переправилися через Дон, і чечено-інгуська дивізія в тому ж вигляді, без жодної підтримки, була кинута буквально під ураганний вогонь німецьких танків, що стрімко рвалися до Сталінграда.
+    Під Котельниковим, 4 серпня 1942 року, німецькі танки пройшли по трупах багатьох бійців цієї дивізії.
+    Маленька ж частина потрапила в полон, інша, на чолі зі штабом, зуміла вирватися з оточення й відступила.
+    Але розгром цієї дивізії разом із розгромом цілих корпусів та армій Південного фронту став поганою атестацією для всього чечено-інгуського народу»(Citation: 369).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов описують події інакше: набиралася одна 114-та Чечено-Інгуська кавалерійська дивізія - добровольців прийшло на тисячу людей понад комплект у 4,5 тисячі, - Москва її розформувала, а створений на її базі 255-й Чечено-Інгуський кавалерійський полк майора Мовліда Вісаїтова СРСР кинув під Сталінград(Citation: 125).

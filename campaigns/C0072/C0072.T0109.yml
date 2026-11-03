@@ -1,0 +1,81 @@
+type: procedure
+id: C0072.T0109
+created: 2026-08-12
+modified: 2026-10-27
+version: '1.0'
+technique: T0109
+people: ukrainians
+actor: G0013
+tool: S0020
+contributors:
+- ru: Палий Светодар
+  en: Palii Svitodar
+  uk: Палій Світодар
+description:
+  ru: |-
+    В декабре 1917 года большевики провели в Харькове фиктивный «всеукраинский» съезд, чтобы придать захвату власти в Украине вид народного волеизъявления.
+    Выборные собрания рабочих и солдат, через которые большевики пытались захватить власть, съехались на настоящий Всеукраинский съезд Советов в Киеве 4–6 (17–19) декабря 1917 года.
+    На настоящем съезде украинцы большевиков почти не заметили: из более чем 2500 делегатов «большевиков представляли лишь 150», и съезд поддержал Центральную Раду(Citation: 185).
+    Коммунисты решили не сдаваться.
+    Затонский (один из них, позднее член марионеточного правительства в Харькове) вспоминал: «собравшись нелегально в помещении профсоюзов, делегаты съезда, все большевики, кроме двух или трёх левых эсеров, постановили объявить себя полномочным Съездом Советов Страны, избрать Центральный Исполнительный Комитет и правительство Советской Украины и, переехав в Харьков, стать к открытой борьбе с Центральной Радой»(Citation: 492).
+    Новый «съезд» собрался в городе, уже захваченном российскими войсками.
+    Историк Станислав Кульчицкий пишет: «за день до начала съезда советов гарнизон Центральной Рады в Харькове был разоружён войсками В. Антонова-Овсеенко, которому Совнарком поручил занять Украину силой оружия»(Citation: 494). 9(22) декабря в Харькове открылся областной съезд советов Донбасса и Криворожья.
+    При проверке полномочий делегатов насчитали 77 человек с правом голоса и ещё 6 без права голоса.
+    В Донбассе и Криворожье было 140 выборных собраний рабочих и солдат, а делегатов прислали только 46 из них.
+    По правилу предыдущего областного съезда заседать можно было только при делегатах от половины этих собраний.
+    Собравшиеся в Харькове отменили это правило голосованием, 46 против 18 при 5 воздержавшихся, и признали себя вправе заседать.
+    Затем к собравшимся обратились делегаты, ушедшие из Киева.
+    Большинством 43 против 11 собрание постановило «слиться с представителями Краевого съезда и назвать съезд „съездом Советов рабочих и солдатских депутатов Украины при участии части крестьянских депутатов“»(Citation: 600).
+    Так собрание одной области заговорило от имени всей Украины.
+    Право заседать оно выдало себе само, отменив собственное правило о том, что заседать можно только при делегатах хотя бы от половины собраний области.
+    Новое имя дало голосование 43 против 11 в харьковском зале, а не выборы: за пределами зала за этот съезд никто не голосовал.
+    Историк Владислав Верстюк называет его «наспех инсценированным альтернативным съездом Советов»: «на нём 200 делегатами были представлены 89 советов и военно-революционных комитетов», тогда как «только советов на тот момент в Украине было более 300»(Citation: 493).
+    Историк Лариса Якубова отмечает: делегатов от крестьян «почти не было», а оговорку «при участии крестьянских депутатов» из названия съезда советская историография позднее вычистила(Citation: 25).
+    В постановлении 9(22) декабря эта оговорка стоит(Citation: 600).
+    Большинство населения Украины осталось за дверями зала.
+    Собрание объявило себя Всеукраинским съездом Советов и провозгласило создание советской - «мол, действительно народной» - Украинской Народной Республики(Citation: 25).
+  en: |-
+    In December 1917 the Bolsheviks held a sham "all-Ukrainian" congress in Kharkiv to give the seizure of power in Ukraine the appearance of an expression of the people's will.
+    The elected assemblies of workers and soldiers, through which the Bolsheviks were trying to seize power, gathered at the real All-Ukrainian Congress of Soviets in Kyiv on 4–6 (17–19) December 1917.
+    At the real congress Ukrainians hardly noticed the Bolsheviks: of more than 2,500 delegates "the Bolsheviks were represented by only 150", and the congress supported the Central Rada(Citation: 185).
+    The communists decided not to give up.
+    Zatonsky (one of them, later a member of the puppet government in Kharkiv) recalled: "having gathered illegally in the premises of the trade unions, the delegates of the congress, all Bolsheviks except for two or three Left SRs, resolved to declare themselves the plenipotentiary Congress of Soviets of the Country, to elect a Central Executive Committee and a government of Soviet Ukraine and, having moved to Kharkiv, to take up open struggle against the Central Rada"(Citation: 492).
+    The new "congress" met in a city already seized by Russian troops.
+    The historian Stanislav Kulchytsky writes: "the day before the opening of the congress of soviets the Central Rada's garrison in Kharkiv was disarmed by the troops of V. Antonov-Ovseyenko, whom the Council of People's Commissars had instructed to take Ukraine by force of arms"(Citation: 494).
+    On 9 (22) December the regional congress of soviets of the Donbas and Kryvyi Rih area opened in Kharkiv.
+    When the delegates' credentials were checked, 77 people with the right to vote and another 6 without it were counted.
+    In the Donbas and the Kryvyi Rih area there were 140 elected assemblies of workers and soldiers, and only 46 of them had sent delegates.
+    By the rule of the previous regional congress, a session was allowed only with delegates from half of these assemblies.
+    Those gathered in Kharkiv abolished this rule by a vote of 46 to 18 with 5 abstentions and declared themselves entitled to sit.
+    Then the delegates who had left Kyiv addressed the gathering.
+    By a majority of 43 to 11 the assembly resolved "to merge with the representatives of the Regional Congress and to name the congress 'the Congress of Soviets of Workers' and Soldiers' Deputies of Ukraine with the participation of part of the peasant deputies'"(Citation: 600).
+    Thus an assembly of one region began to speak in the name of all Ukraine.
+    It granted itself the right to sit by abolishing its own rule that a session was allowed only with delegates from at least half of the region's assemblies.
+    Its new name came from a vote of 43 to 11 in a Kharkiv hall, not from elections: outside the hall nobody had voted for this congress.
+    The historian Vladyslav Verstiuk calls it "a hastily staged alternative congress of soviets": "at it 89 soviets and military revolutionary committees were represented by 200 delegates", whereas "soviets alone at that moment numbered more than 300 in Ukraine"(Citation: 493).
+    The historian Larysa Yakubova notes: there were "almost no" peasant delegates, and Soviet historiography later scrubbed the qualifier "with the participation of peasant deputies" from the congress's name(Citation: 25).
+    In the resolution of 9 (22) December that qualifier stands(Citation: 600).
+    The majority of Ukraine's population remained outside the doors of the hall.
+    The assembly declared itself the All-Ukrainian Congress of Soviets and proclaimed the creation of a Soviet - "supposedly truly people's" - Ukrainian People's Republic(Citation: 25).
+  uk: |-
+    У грудні 1917 року більшовики провели в Харкові фіктивний «всеукраїнський» з'їзд, щоб надати захопленню влади в Україні вигляду народного волевиявлення.
+    Виборні збори робітників і солдатів, через які більшовики намагалися захопити владу, з'їхалися на справжній Всеукраїнський з'їзд Рад у Києві 4–6 (17–19) грудня 1917 року.
+    На справжньому з'їзді українці більшовиків майже не помітили: із понад 2500 делегатів «більшовиків представляли лише 150», і з'їзд підтримав Центральну Раду(Citation: 185).
+    Комуністи вирішили не здаватися.
+    Затонський (один із них, згодом член маріонеткового уряду в Харкові) згадував: «зібравшись нелегально в приміщенні профспілок, делегати з'їзду, всі більшовики, крім двох чи трьох лівих есерів, постановили оголосити себе повноважним З'їздом Рад Країни, обрати Центральний Виконавчий Комітет і уряд Радянської України та, переїхавши до Харкова, стати до відкритої боротьби з Центральною Радою»(Citation: 492).
+    Новий «з'їзд» зібрався в місті, вже захопленому російськими військами.
+    Історик Станіслав Кульчицький пише: «за день до початку з'їзду рад гарнізон Центральної Ради в Харкові був роззброєний військами В. Антонова-Овсієнка, якому Раднарком доручив зайняти Україну силою зброї»(Citation: 494). 9(22) грудня в Харкові відкрився обласний з'їзд рад Донбасу та Криворіжжя.
+    Під час перевірки повноважень делегатів нарахували 77 осіб із правом голосу та ще 6 без права голосу.
+    У Донбасі та Криворіжжі було 140 виборних зборів робітників і солдатів, а делегатів прислали лише 46 із них.
+    За правилом попереднього обласного з'їзду засідати можна було лише за делегатів від половини цих зборів.
+    Ті, що зібралися в Харкові, скасували це правило голосуванням, 46 проти 18 при 5 утриманих, і визнали себе вправі засідати.
+    Потім до зібраних звернулися делегати, що пішли з Києва.
+    Більшістю 43 проти 11 зібрання постановило «злитися з представниками Крайового з'їзду й назвати з'їзд „з'їздом Рад робітничих і солдатських депутатів України за участю частини селянських депутатів“»(Citation: 600).
+    Так зібрання однієї області заговорило від імені всієї України.
+    Право засідати воно видало собі само, скасувавши власне правило про те, що засідати можна лише за делегатів хоча б від половини зборів області.
+    Нове ім'я дало голосування 43 проти 11 у харківській залі, а не вибори: за межами зали за цей з'їзд ніхто не голосував.
+    Історик Владислав Верстюк називає його «нашвидкуруч інсценованим альтернативним з'їздом Рад»: «на ньому 200 делегатами були представлені 89 рад і військово-революційних комітетів», тоді як «лише рад на той момент в Україні було понад 300»(Citation: 493).
+    Історик Лариса Якубова зазначає: делегатів від селян «майже не було», а застереження «за участю селянських депутатів» із назви з'їзду радянська історіографія згодом вичистила(Citation: 25).
+    У постанові 9(22) грудня це застереження стоїть(Citation: 600).
+    Більшість населення України залишилася за дверима зали.
+    Зібрання оголосило себе Всеукраїнським з'їздом Рад і проголосило створення радянської - «мовляв, справді народної» - Української Народної Республіки(Citation: 25).

@@ -1,0 +1,15 @@
+type: tool
+id: S0019
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Прямой указ текущего правителя (DEPRECATED)
+  en: Direct Decree of the Current Ruler (DEPRECATED)
+  uk: Прямий указ чинного правителя (DEPRECATED)
+contributors: []
+description:
+  ru: Прямой указ текущего правителя
+  en: Direct Decree of the Current Ruler
+  uk: Прямий указ чинного правителя

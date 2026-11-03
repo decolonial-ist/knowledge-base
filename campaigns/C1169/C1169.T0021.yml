@@ -1,0 +1,72 @@
+type: procedure
+id: C1169.T0021
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0021
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Байсангура Беноевского войска взяли в плен 17 февраля 1861 года: генерал Кемпферт рапортовал военному министру 28 февраля - «...Несмотря на отчаянное сопротивление, взяли в плен Байсунгура и четырех его сподвижников... захвачены также семейства Байсунгура и Султан-Мурада — всего 14 человек»(Citation: 95).
+    В марте 1861 года военно-полевой суд в Хасав-Юрте приговорил его к повешению; историк З. Х. Ибрагимова передаёт чеченскую устную традицию о казни: никто из стоявших у виселицы не согласился стать палачом, и «только после того, как распоряжавшиеся проведением казни офицеры предложили денежное вознаграждение добровольному палачу, эту роль взял на себя один из стоявших в толпе дагестанцев»(Citation: 251); семья и сыновья Байсангура сосланы в Сибирь(Citation: 95).
+    Сдавшихся руководителей восстания - наиба Малой Чечни Атаби-муллу Атаева, которого имперские бумаги зовут Атабаем (14 ноября 1861 года), и Уму Дуева (14 декабря 1861 года) император Александр II повелел сослать во внутренние губернии - раздельно: «Уму... отправить на жительство въ дальнія отъ Кавказа губерніи... но съ условіемъ, чтобы онъ не находился въ одномъ городѣ съ Атабаемъ»(Citation: 109).
+    Шейха Кунта-Хаджи, мусульманского проповедника, учившего поминать Бога вслух, хором, с пением и кружением по кругу (такое поминание называется зикр, отсюда имперское прозвище его последователей - зикристы), за которым с начала 1862 года был учреждён постоянный полицейский надзор, арестовали 3 января 1864 года в Сержень-Юрте по распоряжению наместника.
+    Требование его последователей было одно: «Главное требование зикристов, как и прежде, состояло в немедленном освобождении арестованных и прекращении новых арестов.
+    В этом случае кунта-хаджинцы обещали вновь повиноваться властям»(Citation: 125).
+    Начальник Чеченского округа генерал Туманов требования отклонил и добивался выдачи тех, кто ареста избежал; 18 января 1864 года у Шали дело кончилось расстрелом.
+    Огнестрельное оружие пришедшие оставили сознательно - решение идти только с холодным приписывают Мачик-мулле, объявившему, что явившийся ему Кунта-Хаджи наполнит винтовки солдат водой(Citation: 125).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «кунта-хаджинцы двинулись на плотные каре регулярных войск лишь с шашками и кинжалами в руках.
+    Туманов позволил им атаковать, после чего отдал приказ открыть ружейный и орудийный огонь»; убитых они считают «свыше 150»(Citation: 125).
+    Историк З. Х. Ибрагимова даёт счёт по месту побоища: «На месте столкновения осталось 164 убитых.
+    В числе заколотых штыками оказалось 5 женских трупов»; потери отряда - 8 убитых и 33 раненых(Citation: 251).
+    По этому делу сослано 18 человек - сам шейх бессрочно в Устюжне Новгородской губернии, его брат Мовсар - в Выборгскую крепость, векили, доверенные люди шейха, - в Смоленскую губернию, девять рядовых зикристов - на крепостные работы с дальнейшим поселением в Сибири(Citation: 125)(Citation: 251).
+    В архивной ведомости поднадзорных Новгородской губернии за 1865 год шейх записан строкой: «Чеченец Ших-Кунты.
+    Возраст 35 лет.
+    Сослан за распространение фантастического учения «зикра»...
+    Получает в месяц 1 руб. 80 коп.»(Citation: 251).
+    Прожив в ссылке чуть более двух лет, Кунта-Хаджи умер от голодного истощения(Citation: 125).
+  en: |-
+    Baysangur of Benoy was taken prisoner by the troops on 17 February 1861: General Kempfert reported to the Minister of War on 28 February - "...Despite desperate resistance, [we] took prisoner Baysungur and four of his companions... the families of Baysungur and Sultan-Murad were also seized — 14 people in all"(Citation: 95).
+    In March 1861 a field court-martial in Khasav-Yurt sentenced him to hanging; the historian Z. Kh.
+    Ibragimova relays the Chechen oral tradition about the execution: none of those standing by the gallows agreed to act as executioner, and "only after the officers in charge of the execution offered a monetary reward to a volunteer executioner did one of the Dagestanis standing in the crowd take this role upon himself"(Citation: 251); Baysangur's family and sons were exiled to Siberia(Citation: 95).
+    The leaders of the uprising who surrendered - Atabi-Mullah Atayev, naib of Lesser Chechnya, whom the imperial papers call Atabai (14 November 1861), and Uma Duyev (14 December 1861) - Emperor Alexander II ordered exiled to the inner provinces - separately: "Uma... is to be sent to reside in provinces distant from the Caucasus... but on the condition that he not be in the same town as Atabai"(Citation: 109).
+    Sheikh Kunta-Haji, a Muslim preacher who taught that God should be remembered aloud, in chorus, with singing and circling in a ring (such remembrance is called zikr - hence the imperial nickname of his followers, the zikrists), who had been under permanent police surveillance since the beginning of 1862, was arrested on 3 January 1864 in Serzhen-Yurt by order of the Viceroy.
+    His followers had a single demand: "The main demand of the zikrists, as before, was the immediate release of those arrested and an end to new arrests.
+    In that case the Kunta-Haji followers promised to obey the authorities once more"(Citation: 125).
+    The head of the Chechen district, General Tumanov, rejected the demands and pressed for the surrender of those who had escaped arrest; on 18 January 1864, near Shali, the matter ended in a shooting.
+    Those who came had left their firearms behind deliberately - the decision to go with blades alone is attributed to Machik-Mullah, who announced that Kunta-Haji, having appeared to him, would fill the soldiers' rifles with water(Citation: 125).
+    The historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "the Kunta-Haji followers advanced on the dense squares of regular troops with nothing but shashkas and daggers in their hands.
+    Tumanov allowed them to attack, and then gave the order to open rifle and artillery fire"; they put the dead at "over 150"(Citation: 125).
+    The historian Z. Kh.
+    Ibragimova gives the count at the site of the slaughter: "164 dead remained at the site of the clash.
+    Among those bayoneted there proved to be 5 women's bodies"; the detachment's losses - 8 dead and 33 wounded(Citation: 251).
+    Eighteen people were exiled in this case - the sheikh himself, indefinitely, to Ustyuzhna in Novgorod province; his brother Movsar - to the Vyborg fortress; the vekils, the sheikh's trusted men, - to Smolensk province; nine rank-and-file zikrists - to fortress labor with subsequent settlement in Siberia(Citation: 125)(Citation: 251).
+    In the archival register of persons under surveillance in Novgorod province for 1865 the sheikh is entered in a single line: "Chechen Shikh-Kunty.
+    Age 35.
+    Exiled for spreading the fantastical teaching of 'zikr'...
+    Receives 1 rub. 80 kop. a month"(Citation: 251).
+    Having lived in exile a little over two years, Kunta-Haji died of starvation(Citation: 125).
+  uk: |-
+    Байсангура Беноєвського війська взяли в полон 17 лютого 1861 року: генерал Кемпферт рапортував військовому міністрові 28 лютого - «...Попри відчайдушний опір, узяли в полон Байсунгура і чотирьох його сподвижників... захоплено також родини Байсунгура і Султан-Мурада — усього 14 осіб»(Citation: 95).
+    У березні 1861 року військово-польовий суд у Хасав-Юрті засудив його до повішення; історик З. Х. Ібрагімова передає чеченську усну традицію про страту: ніхто з тих, хто стояв біля шибениці, не погодився стати катом, і «лише після того, як офіцери, що розпоряджалися проведенням страти, запропонували грошову винагороду добровільному катові, цю роль узяв на себе один із дагестанців, які стояли в натовпі»(Citation: 251); родину і синів Байсангура заслано до Сибіру(Citation: 95).
+    Керівників повстання, що здалися, - наїба Малої Чечні Атабі-муллу Атаєва, якого імперські папери звуть Атабаєм (14 листопада 1861 року), і Уму Дуєва (14 грудня 1861 року) - імператор Олександр II звелів заслати у внутрішні губернії - окремо: «Уму... відправити на проживання в далекі від Кавказу губернії... але з умовою, щоб він не перебував в одному місті з Атабаєм»(Citation: 109).
+    Шейха Кунта-Хаджі, мусульманського проповідника, який учив поминати Бога вголос, хором, зі співом і кружлянням по колу (таке поминання називається зікр, звідси імперське прізвисько його послідовників - зікристи), за яким із початку 1862 року був установлений постійний поліцейський нагляд, заарештували 3 січня 1864 року в Сержень-Юрті за розпорядженням намісника.
+    Вимога його послідовників була одна: «Головна вимога зікристів, як і раніше, полягала в негайному звільненні заарештованих і припиненні нових арештів.
+    У такому разі кунта-хаджинці обіцяли знову коритися владі»(Citation: 125).
+    Начальник Чеченського округу генерал Туманов вимоги відхилив і домагався видачі тих, хто арешту уникнув; 18 січня 1864 року біля Шалі справа скінчилася розстрілом.
+    Вогнепальну зброю ті, що прийшли, залишили свідомо - рішення йти лише з холодною зброєю приписують Мачик-муллі, який оголосив, що Кунта-Хаджі, який йому явився, наповнить гвинтівки солдатів водою(Citation: 125).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «кунта-хаджинці рушили на щільні каре регулярних військ лише з шашками й кинджалами в руках.
+    Туманов дозволив їм атакувати, після чого віддав наказ відкрити рушничний і гарматний вогонь»; убитих вони рахують «понад 150»(Citation: 125).
+    Історик З. Х. Ібрагімова дає лік за місцем побоїща: «На місці зіткнення залишилося 164 убитих.
+    Серед заколотих багнетами виявилося 5 жіночих трупів»; втрати загону - 8 убитих і 33 поранених(Citation: 251).
+    У цій справі заслано 18 осіб - самого шейха безстроково в Устюжну Новгородської губернії, його брата Мовсара - у Виборзьку фортецю, векілів, довірених людей шейха, - у Смоленську губернію, дев'ятьох рядових зікристів - на фортечні роботи з подальшим поселенням у Сибіру(Citation: 125)(Citation: 251).
+    В архівній відомості піднаглядних Новгородської губернії за 1865 рік шейх записаний рядком: «Чеченець Ших-Кунти.
+    Вік 35 років.
+    Засланий за поширення фантастичного вчення «зікру»...
+    Отримує на місяць 1 руб. 80 коп.»(Citation: 251).
+    Проживши на засланні трохи більше двох років, Кунта-Хаджі помер від голодного виснаження(Citation: 125).

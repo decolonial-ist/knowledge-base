@@ -1,0 +1,34 @@
+type: procedure
+id: C1168.T0127
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0127
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историк Д. А. Хожаев пишет о вёснах 1859 года: «Всех покоренных горцев тут же, под конвоем царских войск, переселяли на плоскость для надзора»(Citation: 95).
+    На плоскость, то есть на равнину под надзор, гнали сразу: в декабре 1857 года до 400 дворов, вышедших из истребляемых аулов, направлены под прикрытием войск в Умахан-юрт(Citation: 109).
+    После взятия Ведено генерал Евдокимов приказал своему подчинённому Ностицу «приступить къ переселенію Чеченцевъ, живущихъ между Хулхулау и Гудермесомъ»: 8 апреля 1859 года «до 300 сем., жившихъ въ ближайшихъ хуторахъ на правомъ берегу Хулхулау, тотчасъ же явились въ лагерь со своими пожитками и скотомъ»(Citation: 109).
+    Сопротивление переселению фиксируют сами имперские документы: наиб (управляющий округом при имаме) Осман «нѣсколько разъ пытался пройти мимо отряда на плоскость и старался воспрепятствовать переселенію Чеченцевъ»(Citation: 109); отдельно, по журналу военных действий не позднее 9 апреля 1859 года, «ичкеринцы, ауховцы и салатавцы, собравшись в большом числе, хотели воспрепятствовать переселению» жителей с Аксая(Citation: 126).
+    Аулам верховьев Фортанги и Ассы, принуждённым к капитуляции в ноябре 1858 года, выселение назначили отсрочкой: «оставаться въ занимаемыхъ ими мѣстахъ еще въ теченіи трехъ мѣсяцевъ, съ раннею-же весною они выселятся на плоскость Малой Чечни въ Галашевское общество»(Citation: 109).
+    Последним держался Беной: историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут, что Евдокимов «осенью 1859 г. и в начале 1860 г. принялся за жителей горного общества Беной», часть которых «расселили по окрестным аулам и хуторам»(Citation: 125).
+  en: |-
+    Historian D. A. Khozhayev writes of the springs of 1859: "All the subdued highlanders were immediately, under convoy of the tsarist troops, resettled onto the plain for surveillance"(Citation: 95).
+    To the plain, that is down to the lowland under surveillance, people were driven at once: in December 1857 up to 400 households that had come out of the auls being annihilated were sent under troop cover to Umakhan-yurt(Citation: 109).
+    After the taking of Vedeno General Yevdokimov ordered his subordinate Nostitz "to proceed with the resettlement of the Chechens living between the Khulkhulau and the Gudermes": on 8 April 1859 "up to 300 families who lived in the nearest hamlets on the right bank of the Khulkhulau at once appeared in the camp with their belongings and livestock"(Citation: 109).
+    Resistance to the resettlement is recorded by the imperial documents themselves: naib (district governor under the imam) Osman "several times attempted to pass by the detachment onto the plain and tried to obstruct the resettlement of the Chechens"(Citation: 109); separately, according to the journal of military operations of no later than 9 April 1859, "the Ichkerians, Aukhovites and Salatavians, having gathered in great numbers, wanted to obstruct the resettlement" of the inhabitants from the Aksai(Citation: 126).
+    For the auls of the upper Fortanga and Assa, forced into capitulation in November 1858, the eviction was set with a deferral: "to remain in the places they occupy for another three months; with early spring they will move out onto the plain of Lesser Chechnya into the Galash society"(Citation: 109).
+    Benoy held out longest: historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write that Yevdokimov "in the autumn of 1859 and at the beginning of 1860 set about the inhabitants of the mountain society of Benoy", part of whom "were dispersed among the surrounding auls and hamlets"(Citation: 125).
+  uk: |-
+    Історик Д. А. Хожаєв пише про весни 1859 року: «Усіх покорених горців тут же, під конвоєм царських військ, переселяли на площину для нагляду»(Citation: 95).
+    На площину, тобто на рівнину під нагляд, гнали одразу: у грудні 1857 року до 400 дворів, що вийшли з винищуваних аулів, направлено під прикриттям військ в Умахан-юрт(Citation: 109).
+    Після взяття Ведено генерал Євдокимов наказав своєму підлеглому Ностіцу «приступити до переселення чеченців, які живуть між Хулхулау і Гудермесом»: 8 квітня 1859 року «до 300 сімей, що жили в найближчих хуторах на правому березі Хулхулау, одразу ж з'явилися в табір зі своїми пожитками і худобою»(Citation: 109).
+    Опір переселенню фіксують самі імперські документи: наїб (управитель округу при імамі) Осман «кілька разів намагався пройти повз загін на площину і старався перешкодити переселенню чеченців»(Citation: 109); окремо, за журналом воєнних дій не пізніше 9 квітня 1859 року, «ічкеринці, ауховці й салатавці, зібравшись у великому числі, хотіли перешкодити переселенню» жителів з Аксаю(Citation: 126).
+    Аулам верхів'їв Фортанги й Асси, примушеним до капітуляції в листопаді 1858 року, виселення призначили з відстрочкою: «залишатися в займаних ними місцях ще протягом трьох місяців, з ранньою ж весною вони виселяться на площину Малої Чечні в Галашівське товариство»(Citation: 109).
+    Останнім тримався Беной: історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть, що Євдокимов «восени 1859 р. і на початку 1860 р. взявся за жителів гірського товариства Беной», частину яких «розселили по навколишніх аулах і хуторах»(Citation: 125).

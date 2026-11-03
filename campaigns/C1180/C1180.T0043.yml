@@ -1,0 +1,28 @@
+type: procedure
+id: C1180.T0043
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0043
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Колонизатор стирал чеченские и ингушские имена с карты.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Спешно переименовывались улицы, поселки, аулы и районы»(Citation: 125).
+    Историк П. М. Полян пишет об ингушских землях, переданных Северной Осетии: «были репрессированы и все ингушские топонимы, их заменили осетинскими или русскими» - указом Президиума Верховного Совета РСФСР от 29 апреля 1944 года Пседахский район стал Аланским, Назрановский - Коста-Хетагуровским, Ачалукский - Нартовским, а указом от 30 августа 1944 года колонизатор переименовал «все районы и их центры» Грозненской области(Citation: 533).
+    Колонизатор назвал отошедшие Грузии чеченские земли Ахалхевским районом(Citation: 125).
+  en: |-
+    The colonizer erased Chechen and Ingush names from the map.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "Streets, settlements, auls and districts were hastily renamed"(Citation: 125).
+    Historian P. M. Polian writes of the Ingush lands handed to North Ossetia: "all the Ingush place names were repressed as well; they were replaced with Ossetian or Russian ones" - by the decree of the Presidium of the Supreme Soviet of the RSFSR of 29 April 1944 the Psedakh district became Alansky, Nazran district - Kosta-Khetagurovsky, Achaluki district - Nartovsky, and by the decree of 30 August 1944 the colonizer renamed "all the districts and their centers" of Grozny Oblast(Citation: 533).
+    The Chechen lands that had gone to Georgia the colonizer named the Akhalkhevi district(Citation: 125).
+  uk: |-
+    Колонізатор стирав чеченські та інгушські імена з мапи.
+    Історики Я. З. Ахмадов та Е. Х. Хасмагомадов пишуть: «Поспіхом перейменовувалися вулиці, селища, аули й райони»(Citation: 125).
+    Історик П. М. Полян пише про інгушські землі, передані Північній Осетії: «були репресовані й усі інгушські топоніми, їх замінили осетинськими або російськими» - указом Президії Верховної Ради РРФСР від 29 квітня 1944 року Пседахський район став Аланським, Назранівський - Коста-Хетагурівським, Ачалуцький - Нартівським, а указом від 30 серпня 1944 року колонізатор перейменував «усі райони та їхні центри» Грозненської області(Citation: 533).
+    Чеченські землі, що відійшли Грузії, колонізатор назвав Ахалхевським районом(Citation: 125).

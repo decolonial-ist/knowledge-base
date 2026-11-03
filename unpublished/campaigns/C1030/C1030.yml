@@ -1,0 +1,23 @@
+type: campaign
+id: C1030
+created: 2026-04-20
+modified: 2026-04-20
+version: '1.0'
+people: nokhchi
+first_seen: 1994-12-11
+last_seen: 1996-08-31
+contributors: []
+name:
+  ru: Институциональный террор и фильтрационные лагеря (1994–1996)
+  en: Institutional terror and filtration camps (1994–1996)
+  uk: Інституційний терор і фільтраційні табори (1994–1996)
+description:
+  ru: |-
+    Создание незаконной сети официальных и теневых («зинданы») фильтрационных пунктов для массового содержания гражданского населения.
+    Кампания сопровождалась систематическими пытками и внесудебными казнями(Citation: 27).
+  en: |-
+    Creation of an unlawful network of official and shadow ("zindans") filtration points for the mass detention of the civilian population.
+    The campaign was accompanied by systematic torture and extrajudicial executions(Citation: 27).
+  uk: |-
+    Створення незаконної мережі офіційних і тіньових («зіндани») фільтраційних пунктів для масового утримання цивільного населення.
+    Кампанія супроводжувалася систематичними катуваннями та позасудовими стратами(Citation: 27).

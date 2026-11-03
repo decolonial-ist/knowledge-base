@@ -1,0 +1,20 @@
+type: procedure
+id: C0028.T0008
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.0'
+technique: T0008
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Отказ от договорного формата: вместо двустороннего соглашения – царские «решительные» резолюции на просьбы гетмана, изданные в форме указа.
+    Автономия перестала быть стороной договора и получала правила существования сверху.
+  en: |-
+    Rejection of the treaty format: instead of a bilateral agreement – the tsar's "decisive" resolutions upon the hetman's requests, issued in the form of a decree.
+    The autonomy ceased to be a party to a treaty and received its rules of existence from above.
+  uk: |-
+    Відмова від договірного формату: замість двосторонньої угоди – царські «рішительні» резолюції на прохання гетьмана, видані у формі указу.
+    Автономія перестала бути стороною договору й отримувала правила існування згори.

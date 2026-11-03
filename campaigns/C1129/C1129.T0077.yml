@@ -1,0 +1,16 @@
+type: procedure
+id: C1129.T0077
+created: 2026-06-18
+modified: 2026-08-07
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Правительство Российской империи целенаправленно организовывало военные акции для наказания не подчинившегося коренного населения: историк Ш. Б. Ахмадов указывает, что 4 августа 1722 года по указу Петра I «повторно совершена была карательная экспедиция против восставших чеченцев и андреевцев»(Citation: 66).'
+  en: |-
+    The government of the Russian Empire purposefully organized military actions to punish the defiant Indigenous population: historian Sh.
+    B. Akhmadov points out that on August 4, 1722, by decree of Peter I, "a punitive expedition was carried out for a second time against the rebellious Chechens and Andreevtsy"(Citation: 66).
+  uk: 'Уряд Російської імперії цілеспрямовано організовував воєнні акції для покарання корінного населення, що не підкорилося: історик Ш. Б. Ахмадов вказує, що 4 серпня 1722 року за указом Петра I «повторно було здійснено каральну експедицію проти повсталих Чеченців та Андріївців»(Citation: 66).'

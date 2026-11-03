@@ -1,0 +1,30 @@
+type: procedure
+id: C1164.T0121
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0121
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Весной 1840 года империя ввела в Чечне хлебную блокаду при уже задокументированном голоде. 14 марта 1840 года генерал Пирятинский, начальник центра Кавказской линии (цепи имперских укреплений на земле нохчи), доносил: «по всей Чечне нет совершенно хлеба, народ терпит большую от голода крайность»(Citation: 126).
+    Через три недели, 8 апреля 1840 года, генерал Граббе, командующий войсками Кавказской линии, предписанием генералу Галафееву санкционировал введённый тем запрет: «Распоряжение ваше относительно запрещения продажи зернового хлеба я вполне одобряю и разрешаю вам распространить это запрещение по всем тем частям вверенного края, где вы сочтете нужным»(Citation: 126).
+    Летом войска уничтожали урожай на корню: журнал военных действий отряда генерала Галафеева (6-17 июля 1840 года) называет цель прямо - «наказание возмутившихся деревень истреблением их и уничтожением способов к существованию, ибо теперь можно предвидеть верный недостаток в продовольствии жителей»(Citation: 135).
+    Осенью запасы истребляли перед самой зимой: имперский обзор от 27 октября 1840 года фиксирует - войска шли, «истребив на пути своем весьма значительное количество запасов продовольствия и сена»(Citation: 126).
+    Расчёт признал генерал Головин, командир Отдельного Кавказского корпуса (глава имперских войск и администрации на Кавказе), запиской от 26 апреля 1841 года: «Напрасно мы ожидали, что после истребления в прошлогодней экспедиции продовольственных запасов горцев, их селений и разного имущества голод, стужа и крайняя нищета поколебают лютую власть возмутителя» («возмутитель» - имперский ярлык Шамиля, руководителя сопротивления горцев)(Citation: 129).
+  en: |-
+    In spring 1840 the empire imposed a grain blockade on Chechnya amid famine that was already documented.
+    On 14 March 1840 general Piryatinsky, commander of the centre of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), reported: "throughout Chechnya there is no grain at all, the people suffer great extremity from famine"(Citation: 126).
+    Three weeks later, on 8 April 1840, general Grabbe, commander of the troops of the Caucasus Line, by an instruction to general Galafeyev sanctioned the ban the latter had introduced: "Your directive concerning the prohibition of the sale of grain I fully approve, and I permit you to extend this prohibition to all those parts of the region entrusted to you where you deem it necessary"(Citation: 126).
+    In summer the troops destroyed the harvest where it stood: the journal of military operations of general Galafeyev's detachment (6-17 July 1840) names the goal outright - "the punishment of the mutinous villages by annihilating them and destroying their means of existence, for now a certain shortage in the inhabitants' food supply can be foreseen"(Citation: 135).
+    In autumn the stores were annihilated just before winter: the imperial survey of 27 October 1840 records that the troops marched, "having annihilated on their way a very considerable quantity of stores of food and hay"(Citation: 126).
+    General Golovin, commander of the Separate Caucasus Corps (head of the empire's troops and administration in the Caucasus), admitted the calculation in a memorandum of 26 April 1841: "In vain did we expect that after the annihilation, in last year's expedition, of the highlanders' food stores, their villages and various property, famine, cold and extreme destitution would shake the fierce power of the instigator" ("instigator" - the empire's label for Shamil, leader of the highlanders' resistance)(Citation: 129).
+  uk: |-
+    Навесні 1840 року імперія запровадила в Чечні хлібну блокаду при вже задокументованому голоді. 14 березня 1840 року генерал Пірятинський, начальник центру Кавказької лінії (ланцюга імперських укріплень на землі нохчі), доносив: «по всій Чечні немає зовсім хліба, народ терпить велику від голоду скруту»(Citation: 126).
+    Через три тижні, 8 квітня 1840 року, генерал Граббе, командувач військ Кавказької лінії, приписом генералу Галафєєву санкціонував запроваджену тим заборону: «Розпорядження ваше щодо заборони продажу зернового хліба я цілком схвалюю і дозволяю вам поширити цю заборону на всі ті частини ввіреного краю, де ви вважатимете за потрібне»(Citation: 126).
+    Улітку війська знищували врожай на корені: журнал воєнних дій загону генерала Галафєєва (6-17 липня 1840 року) називає мету прямо - «покарання збунтованих сіл винищенням їх і знищенням способів до існування, бо тепер можна передбачити певний нестаток у продовольстві жителів»(Citation: 135).
+    Восени запаси винищували перед самою зимою: імперський огляд від 27 жовтня 1840 року фіксує - війська йшли, «винищивши на шляху своєму вельми значну кількість запасів продовольства і сіна»(Citation: 126).
+    Розрахунок визнав генерал Головін, командир Окремого Кавказького корпусу (глава імперських військ і адміністрації на Кавказі), запискою від 26 квітня 1841 року: «Марно ми очікували, що після винищення в торішній експедиції продовольчих запасів горців, їхніх селищ і різного майна голод, холоднеча і крайні злидні похитнуть люту владу бунтівника» («бунтівник» - імперський ярлик Шаміля, керівника опору горців)(Citation: 129).

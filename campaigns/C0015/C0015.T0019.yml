@@ -1,0 +1,14 @@
+type: procedure
+id: C0015.T0019
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: 'Физическое уничтожение вооруженных сил сторонников независимости в ходе генерального сражения для ликвидации военного потенциала сопротивления(Citation: 4).'
+  en: 'Physical destruction of the armed forces of the supporters of independence in a general battle in order to eliminate the military potential of the resistance(Citation: 4).'
+  uk: 'Фізичне знищення збройних сил прихильників незалежності в ході генеральної битви для ліквідації воєнного потенціалу опору(Citation: 4).'

@@ -1,0 +1,24 @@
+type: technique
+id: T0167.004
+created: 2026-09-27
+modified: 2026-10-18
+version: '1.0'
+parent: T0167
+tactics:
+- TA0004
+- TA0002
+name:
+  ru: Переговоры как прикрытие нападения
+  en: Negotiations as Cover for an Attack
+  uk: Переговори як прикриття нападу
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут вести переговоры, назначать встречи и обещать не нападать, уже решив напасть, чтобы коренной народ не готовился к обороне.
+    Колонизатор атакует во время переговоров или сразу после них либо захватывает тех, кто пришёл на встречу.
+  en: |-
+    Aggressors may hold negotiations, schedule meetings and promise not to attack, having already decided to attack, so that the Indigenous people do not prepare to defend themselves.
+    The colonizer attacks during the negotiations or right after them, or captures those who came to the meeting.
+  uk: |-
+    Агресори можуть вести переговори, призначати зустрічі й обіцяти не нападати, уже вирішивши напасти, щоб корінний народ не готувався до оборони.
+    Колонізатор атакує під час переговорів або одразу після них, або ж захоплює тих, хто прийшов на зустріч.

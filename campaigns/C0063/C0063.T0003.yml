@@ -1,0 +1,26 @@
+type: procedure
+id: C0063.T0003
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0003
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Системное навязывание логики превосходства метрополии.
+    Логику Каткова исследователи реконструируют так: «нация должна быть племенем, способным создавать государство; только государственная нация может устанавливать порядок в какой-либо территории; племенам, неспособным создавать государство, приходится подчиняться государственной нации»(Citation: 208).
+    Сам Катков писал: «В признании нации решается вопрос о власти, о правительстве, о государстве»(Citation: 208).
+    Грушевский фиксирует и тезис, и его тираж: Валуев ссылался на мнимое «большинство малороссов», которые будто бы «не знают украинской народности ни языка, а только один российский народ и язык», а рупоры этой идеологии доводили её до формулы «нет никаких русинов — есть только один „русскій народъ“, от Карпат до Камчатки»(Citation: 250).
+  en: |-
+    The systematic imposition of the metropole's logic of superiority.
+    Researchers reconstruct Katkov's logic thus: "a nation must be a tribe capable of creating a state; only a state nation can establish order in a given territory; tribes incapable of creating a state have to submit to the state nation"(Citation: 208).
+    Katkov himself wrote: "In the recognition of a nation the question of power, of government, of the state is decided"(Citation: 208).
+    Hrushevsky records both the thesis and its reach: Valuev invoked an imaginary "majority of Little Russians" who allegedly "know neither a Ukrainian nationality nor language, only one Russian people and tongue," while the ideology's mouthpieces carried it to the formula "there are no Ruthenians — there is only one 'Russian people' from the Carpathians to Kamchatka"(Citation: 250).
+  uk: |-
+    Системне нав'язування логіки вищості метрополії.
+    Логіку Каткова дослідники реконструюють так: «нація повинна бути племенем, здатним створювати державу; тільки державна нація може встановлювати порядок на якійсь території; племенам, нездатним створювати державу, доводиться підкорятися державній нації»(Citation: 208).
+    Сам Катков писав: «У визнанні нації вирішується питання про владу, про уряд, про державу»(Citation: 208).
+    Грушевський фіксує і тезу, і її тираж: Валуєв посилався на вигадане «большинство Малороссів», які нібито «не знають української народности ні мови, а тільки оден росийський нарід і язик», а рупори цієї ідеології доводили її до формули «нема ніяких Русинів — є тільки оден „русскій народъ“, від Карпатів до Камчатки»(Citation: 250).

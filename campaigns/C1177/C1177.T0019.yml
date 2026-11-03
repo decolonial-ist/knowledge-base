@@ -1,0 +1,49 @@
+type: procedure
+id: C1177.T0019
+created: 2026-08-13
+modified: 2026-08-13
+version: '1.0'
+technique: T0019
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    25 августа 1925 года СССР ввёл войска в Чеченскую автономную область, чтобы отобрать оружие у жителей; операцию вели армия и ОГПУ (политическая полиция, предшественница современной ФСБ) под общим руководством командующего Северо-Кавказским военным округом Уборевича и полномочного представителя ОГПУ по краю Евдокимова(Citation: 259).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут о силах, собранных против чеченских сёл: «Всего к участию в ней были привлечены около семи тысяч красноармейцев при 240 пулеметах и 24 [артиллерийских] орудиях.
+    Кроме того, в распоряжении командующего операцией находилось два авиационных отряда и бронепоезд.
+    В тактическом отношении войска, а также оперативные группы ГПУ, были разбиты на семь группировок»(Citation: 125).
+    Историк Т. У. Эльбуздукаева приводит по военным документам другой счёт: 6183 красноармейца при 137 станковых и 102 лёгких пулемётах, 14 горных и 10 лёгких [артиллерийских] орудиях, и сверх того 341 сотрудник ОГПУ, собранный со всего Северного Кавказа(Citation: 259).
+    Один из организаторов операции, секретарь Северо-Кавказского крайкома партии Микоян, вспоминал, что «Договорились направить в Чечню "на учения" две дивизии.
+    В ходе учений предусматривались общение с населением, вечера самодеятельности, концерты, сближение с местной молодежью, что должно было еще больше укрепить доверие к Советской власти»(Citation: 483); ту же легенду разбрасывали с воздуха - в рассказе уцелевшего спутника имама Нажмуддина Гоцинского, напечатанном в 1936 году в варшавском журнале «Северный Кавказ», сказано: «Для успокоения населения с аэропланов разбрасывались прокламации, в которых писалось, что происходят обыкновенные маневры и жителей просят не беспокоиться и сидеть по домам»(Citation: 484).
+    Руководителя самой Чечни - председателя Чеченского ЦИКа (высшего органа власти автономной области) Эльдарханова - о подготовке не известили: «Центр и органы ОГПУ не посчитали нужным проинформировать о готовящейся акции даже председателя Чеченского ЦИКа Т. Эльдарханова.
+    Скопление войск в Грозном было объяснено предстоящими маневрами»(Citation: 259).
+    При этом инструкция о разоружении от 4 августа 1925 года вписала Чеченский ЦИК в каждый шаг исполнения: его представители вместе с командованием входят в окружённый аул и созывают сход, заседают в комиссиях по приёму оружия, обязаны давать характеристики районов, а после «всех перечисленных мер воздействия» получают полномочия распускать сельские исполкомы и ставить ревкомы(Citation: 479).
+    Ещё до ввода войск ОГПУ описало каждое село: историк Е. Ф. Жупикова приводит - «Органы ОГПУ собрали сведения о наиболее влиятельных муллах и шейхах, о почетных стариках, о проводниках, без которых невозможно было проникнуть в горы»(Citation: 257); на каждый населённый пункт завели анкету с числом жителей и дворов, составом населения по тайпам (родам) и количеством оружия, которое планировали изъять(Citation: 479).
+  en: |-
+    On 25 August 1925 the USSR sent troops into the Chechen Autonomous Oblast to take away the weapons of its inhabitants; the operation was conducted by the army and the OGPU (the political police, a predecessor of today's FSB) under the overall command of Uborevich, commander of the North Caucasus Military District, and Yevdokimov, plenipotentiary representative of the OGPU for the krai(Citation: 259).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write of the forces gathered against the Chechen villages: "In all, about seven thousand Red Army men with 240 machine guns and 24 [artillery] guns were brought in to take part in it.
+    In addition, two aviation detachments and an armored train were at the disposal of the operation's commander.
+    Tactically the troops, as well as the operational groups of the GPU, were divided into seven groupings"(Citation: 125).
+    Historian T. U. Elbuzdukayeva gives, from the military documents, a different count: 6183 Red Army men with 137 heavy and 102 light machine guns, 14 mountain and 10 light [artillery] guns, and beyond that 341 OGPU officers assembled from across the whole North Caucasus(Citation: 259).
+    Mikoyan, secretary of the North Caucasus krai committee of the party and one of the operation's organizers, recalled that "It was agreed to send two divisions into Chechnya 'for exercises'.
+    The exercises were to include contact with the population, amateur performance evenings, concerts, closeness with the local youth, which was to strengthen still further the trust in Soviet power"(Citation: 483); the same legend was scattered from the air - the account of a surviving companion of imam Nazhmuddin Gotsinsky, printed in 1936 in the Warsaw journal Severny Kavkaz, says: "To calm the population, proclamations were scattered from aeroplanes, in which it was written that ordinary maneuvers were taking place and the inhabitants were asked not to worry and to stay in their homes"(Citation: 484).
+    The head of Chechnya itself - Eldarkhanov, chairman of the Chechen TsIK (the highest organ of power of the autonomous oblast) - was not informed of the preparations: "The center and the organs of the OGPU did not consider it necessary to inform even the chairman of the Chechen TsIK, T. Eldarkhanov, of the action being prepared.
+    The concentration of troops in Grozny was explained by forthcoming maneuvers"(Citation: 259).
+    At the same time the disarmament instruction of 4 August 1925 wrote the Chechen TsIK into every step of the execution: its representatives enter the surrounded aul together with the command and convene the assembly, sit on the weapons-reception commissions, are obliged to provide profiles of the districts, and after "all the enumerated measures of influence" receive the authority to dissolve village executive committees and install revkoms(Citation: 479).
+    Even before the troops went in, the OGPU had described every village: historian E. F. Zhupikova relates - "The organs of the OGPU gathered information about the most influential mullahs and sheikhs, about the honored elders, about the guides without whom it was impossible to penetrate into the mountains"(Citation: 257); for every settlement a questionnaire was drawn up with the number of inhabitants and households, the composition of the population by taips (clans) and the quantity of weapons planned for removal(Citation: 479).
+  uk: |-
+    25 серпня 1925 року СРСР увів війська в Чеченську автономну область, щоб відібрати зброю в жителів; операцію вели армія та ОГПУ (політична поліція, попередниця сучасної ФСБ) під загальним керівництвом командувача Північно-Кавказького військового округу Уборевича і повноважного представника ОГПУ по краю Євдокимова(Citation: 259).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть про сили, зібрані проти чеченських сіл: «Усього до участі в ній було залучено близько семи тисяч червоноармійців при 240 кулеметах і 24 гарматах.
+    Крім того, у розпорядженні командувача операцією перебувало два авіаційні загони і бронепоїзд.
+    У тактичному відношенні війська, а також оперативні групи ГПУ, були розбиті на сім угруповань»(Citation: 125).
+    Історик Т. У. Ельбуздукаєва наводить за військовими документами інший рахунок: 6183 червоноармійці при 137 станкових і 102 легких кулеметах, 14 гірських і 10 легких гарматах, і понад те 341 співробітник ОГПУ, зібраний з усього Північного Кавказу(Citation: 259).
+    Один з організаторів операції, секретар Північно-Кавказького крайкому партії Мікоян, згадував, що «Домовилися направити в Чечню "на навчання" дві дивізії.
+    У ході навчань передбачалися спілкування з населенням, вечори самодіяльності, концерти, зближення з місцевою молоддю, що мало ще більше зміцнити довіру до Радянської влади»(Citation: 483); ту саму легенду розкидали з повітря - у розповіді вцілілого супутника імама Нажмуддіна Гоцинського, надрукованій 1936 року у варшавському журналі «Северный Кавказ», сказано: «Для заспокоєння населення з аеропланів розкидалися прокламації, в яких писалося, що відбуваються звичайні маневри і жителів просять не турбуватися і сидіти по домівках»(Citation: 484).
+    Керівника самої Чечні - голову Чеченського ЦВК (найвищого органу влади автономної області) Ельдарханова - про підготовку не сповістили: «Центр і органи ОГПУ не вважали за потрібне поінформувати про підготовлювану акцію навіть голову Чеченського ЦВК Т. Ельдарханова.
+    Скупчення військ у Грозному було пояснено майбутніми маневрами»(Citation: 259).
+    При цьому інструкція про роззброєння від 4 серпня 1925 року вписала Чеченський ЦВК у кожен крок виконання: його представники разом з командуванням входять в оточений аул і скликають схід, засідають у комісіях з приймання зброї, зобов'язані давати характеристики районів, а після «всіх перелічених заходів впливу» отримують повноваження розпускати сільські виконкоми і ставити ревкоми(Citation: 479).
+    Ще до введення військ ОГПУ описало кожне село: історик Є. Ф. Жупікова наводить - «Органи ОГПУ зібрали відомості про найвпливовіших мулл і шейхів, про почесних старих, про провідників, без яких неможливо було проникнути в гори»(Citation: 257); на кожен населений пункт завели анкету з числом жителів і дворів, складом населення за тайпами (родами) і кількістю зброї, яку планували вилучити(Citation: 479).

@@ -1,0 +1,25 @@
+type: procedure
+id: C1172.T0013
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0013
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «3 октября к генералу Смекалову... пришел некий житель Беноя по имени Бий-Султан.
+    В обмен на полное прощение и разрешение собрать остатки своего имущества Бий-Султан вызвался стать проводником к последнему укрепленному пункту Алибек-хаджи.
+    Благодаря этой неожиданной помощи симсирские хутора были быстро захвачены»(Citation: 125).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "On 3 October there came to General Smekalov... a certain inhabitant of Benoy named Biy-Sultan.
+    In exchange for a full pardon and permission to gather the remains of his property, Biy-Sultan volunteered to serve as a guide to Alibek-Haji's last fortified point.
+    Thanks to this unexpected help the Simsir hamlets were quickly captured"(Citation: 125).
+  uk: |-
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «3 жовтня до генерала Смєкалова... прийшов якийсь житель Беноя на ім'я Бій-Султан.
+    В обмін на повне прощення і дозвіл зібрати залишки свого майна Бій-Султан зголосився стати провідником до останнього укріпленого пункту Алібек-Хаджі.
+    Завдяки цій несподіваній допомозі сімсірські хутори було швидко захоплено»(Citation: 125).

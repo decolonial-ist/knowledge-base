@@ -1,0 +1,23 @@
+type: campaign
+id: C1027
+created: 2026-04-20
+modified: 2026-09-05
+version: '1.1'
+people: nokhchi
+first_seen: 1992-04-01
+last_seen: 1994-12-11
+contributors: []
+name:
+  ru: Экономическая и транспортная блокада Ичкерии (1992–1994)
+  en: Economic and transport blockade of Ichkeria (1992–1994)
+  uk: Економічна та транспортна блокада Ічкерії (1992–1994)
+description:
+  ru: |-
+    Инфраструктурное удушение региона.
+    Введение финансовых санкций, перекрытие воздушного, железнодорожного и автомобильного сообщения с республикой(Citation: 26).
+  en: |-
+    Infrastructural strangulation of the region.
+    Imposition of financial sanctions and the severing of air, rail, and road links with the republic(Citation: 26).
+  uk: |-
+    Інфраструктурне удушення регіону.
+    Запровадження фінансових санкцій, перекриття повітряного, залізничного та автомобільного сполучення з республікою(Citation: 26).

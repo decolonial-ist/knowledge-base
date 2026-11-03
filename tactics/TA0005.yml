@@ -1,0 +1,21 @@
+type: tactic
+id: TA0005
+created: 2026-05-23
+modified: 2026-07-12
+version: '1.0'
+shortname: persistence
+order: 5
+name:
+  ru: Закрепление
+  en: Persistence
+  uk: Закріплення
+description:
+  ru: |-
+    Перестройка захваченного пространства под долгосрочный контроль: переселенческий колониализм, административно-территориальная перекройка, русификация образования и топонимики, переписывание истории и контроль памяти.
+    Цель – сделать возврат к независимому существованию немыслимым для следующих поколений.
+  en: |-
+    Reshaping the seized space for long-term control: settler colonialism, redrawing of administrative-territorial boundaries, Russification of education and toponymy, rewriting of history and control of memory.
+    The goal is to make a return to independent existence unthinkable for the next generations.
+  uk: |-
+    Перебудова захопленого простору під довгостроковий контроль: переселенський колоніалізм, адміністративно-територіальне перекроювання, русифікація освіти й топоніміки, переписування історії та контроль пам'яті.
+    Мета – зробити повернення до незалежного існування немислимим для наступних поколінь.

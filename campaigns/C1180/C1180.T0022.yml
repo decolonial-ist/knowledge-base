@@ -1,0 +1,28 @@
+type: procedure
+id: C1180.T0022
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут о днях выселения чеченцев: «в течение двух-трех суток, пока шло выселение, убивая по одному-два человека то там то здесь, каратели в общей сложности уничтожили не одну тысячу человек.
+    Причем громко и внятно объявлялось на русском языке: за попытку к бегству - расстрел, за неисполнение приказа - расстрел, за выражение протеста - расстрел»(Citation: 125).
+    Чеченский историк Далхан Хожаев пишет, что угрозы «объявляли по-русски, хотя многие языка не понимали», и счёт расправ пошёл с первых часов: «На плоскости Чечни за несколько часов были расстреляны сотни людей (мужчины, женщины, дети и старики)»; в горах, где людей гнали к дорогам пешком, «чаще, чем на равнине, пристреливали отставших, ослабевших, не понявших приказа, да и так просто - «при попытке к бегству»»(Citation: 553).
+    Историк З. С. Исакиева пишет о колоннах из горных селений: «Тех, кто не мог передвигаться, выводили из колонны и расстреливали, даже не разрешая похоронить»(Citation: 260).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write about the days of the deportation of the Chechens: "over the two or three days that the deportation lasted, killing one or two people here and there, the punitive forces destroyed in total no less than a thousand people.
+    And it was announced loudly and distinctly, in Russian: for attempted escape - execution, for failure to obey an order - execution, for expressing protest - execution"(Citation: 125).
+    The Chechen historian Dalkhan Khozhaev writes that the threats "were announced in Russian, though many did not understand the language," and the toll of reprisals began within the first hours: "On the Chechen plain hundreds of people (men, women, children and the old) were shot within a few hours"; in the mountains, where people were driven to the roads on foot, "more often than on the plain, they shot down stragglers, the enfeebled, those who misunderstood an order, or simply - 'attempting to escape'"(Citation: 553).
+    Historian Z. S. Isakieva writes about the columns from the mountain villages: "Those who could not walk were led out of the column and shot, without even permission to bury them"(Citation: 260).
+  uk: |-
+    Історики Я. З. Ахмадов та Е. Х. Хасмагомадов пишуть про дні виселення чеченців: «протягом двох-трьох діб, поки йшло виселення, вбиваючи по одній-дві людини то тут то там, карателі загалом знищили не одну тисячу людей.
+    Причому голосно і виразно оголошувалося російською мовою: за спробу втечі - розстріл, за невиконання наказу - розстріл, за вираження протесту - розстріл»(Citation: 125).
+    Чеченський історик Далхан Хожаєв пише, що погрози «оголошували російською, хоча багато хто мови не розумів», і рахунок розправ пішов з перших годин: «На рівнинній Чечні за кілька годин були розстріляні сотні людей (чоловіки, жінки, діти та старі)»; у горах, де людей гнали до доріг пішки, «частіше, ніж на рівнині, пристрілювали відсталих, знесилених, тих, хто не зрозумів наказу, та й просто - «при спробі втечі»»(Citation: 553).
+    Історик З. С. Ісакієва пише про колони з гірських селищ: «Тих, хто не міг пересуватися, виводили з колони й розстрілювали, навіть не дозволяючи поховати»(Citation: 260).

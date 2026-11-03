@@ -1,0 +1,26 @@
+type: procedure
+id: C1143.T0077
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя посылала войска разорять нохчийские селения в наказание за неподчинение.
+    Историк Д. А. Хожаев пишет, что генерал Ермолов приказал генерал-майору Сысоеву и полковнику Бековичу-Черкасскому «окружить мирное селение Дади-юрт» и «наказать оружием, никому не давая пощады»(Citation: 95).
+    Ермолов в своих «Записках» подтверждает свой приказ: окружить аул, предложить жителям уйти, «и буде станут противиться, наказать оружием, никому не давая пощады»(Citation: 96).
+    Пятнадцатого сентября 1819 года аул окружили шесть кабардинских рот и семь сотен казаков и взяли штурмом(Citation: 75).
+  en: |-
+    The Russian Empire sent troops to ravage Nokhchi villages as punishment for insubordination.
+    Historian D. A. Khozhayev writes that general Yermolov ordered Major General Sysoyev and Colonel Bekovich-Cherkassky to “surround the peaceful village of Dadi-Yurt” and to “punish it by force of arms, giving quarter to no one”(Citation: 95).
+    Yermolov confirms his order in his “Notes”: to surround the aul, offer the inhabitants the chance to leave, “and should they resist, to punish them by force of arms, giving quarter to no one”(Citation: 96).
+    On the fifteenth of September 1819 the aul was surrounded by six Kabardian companies and seven sotnias of Cossacks and taken by storm(Citation: 75).
+  uk: |-
+    Російська імперія посилала війська розоряти нохчійські селища на покарання за відмову підкоритися.
+    Історик Д. А. Хожаєв пише, що генерал Єрмолов наказав генерал-майорові Сисоєву та полковникові Бековичу-Черкаському «оточити мирне селище Даді-юрт» і «покарати зброєю, нікому не даючи пощади»(Citation: 95).
+    Єрмолов у своїх «Записках» підтверджує свій наказ: оточити аул, запропонувати мешканцям піти, «а якщо чинитимуть опір, покарати зброєю, нікому не даючи пощади»(Citation: 96).
+    П’ятнадцятого вересня 1819 року аул оточили шість кабардинських рот і сім сотень козаків і взяли штурмом(Citation: 75).

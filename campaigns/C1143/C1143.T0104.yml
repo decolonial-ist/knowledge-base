@@ -1,0 +1,26 @@
+type: procedure
+id: C1143.T0104
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя при штурме нохчийского аула истребляла его жителей без различия пола и возраста.
+    Историк Д. А. Хожаев пишет, что «озверевшие каратели не щадили ни женщин, ни детей», а врываясь в дома, «вырезали всех без пощады»(Citation: 95).
+    Сам организатор, генерал Ермолов, в своих «Записках» признаёт счёт: «все, бывшие с оружием, истреблены, и число оных не менее могло быть четырёхсот человек», а «гораздо большее число вырезано было или в домах погибло от действия артиллерии и пожара»(Citation: 96).
+    Имперский историк Потто подтверждает, что аул взяли, лишь когда «истреблены были поголовно все его защитники», а вырезанных и погибших в пожаре было вдвое больше ста сорока уцелевших(Citation: 75).
+  en: |-
+    During the storming of a Nokhchi aul, the Russian Empire exterminated its inhabitants without distinction of sex or age.
+    Historian D. A. Khozhayev writes that “the brutalized punitive forces spared neither women nor children,” and, breaking into the houses, “slaughtered everyone without mercy”(Citation: 95).
+    The organizer himself, general Yermolov, admits the toll in his “Notes”: “all who bore arms were exterminated, and their number could not have been fewer than four hundred,” while “a far greater number were slaughtered or perished in the houses from the effect of artillery and fire”(Citation: 96).
+    Imperial historian Potto confirms that the aul was taken only when “every one of its defenders had been exterminated to a man,” and those slaughtered or killed in the fire numbered twice as many as the one hundred forty who survived(Citation: 75).
+  uk: |-
+    Російська імперія під час штурму нохчійського аулу винищувала його мешканців без різниці статі та віку.
+    Історик Д. А. Хожаєв пише, що «озвірілі карателі не щадили ні жінок, ні дітей», а вриваючись у доми, «вирізали всіх без пощади»(Citation: 95).
+    Сам організатор, генерал Єрмолов, у своїх «Записках» визнає рахунок: «усі, хто був зі зброєю, винищені, і число їх не менш як чотириста осіб», а «значно більше число було вирізано або загинуло в домах від дії артилерії та пожежі»(Citation: 96).
+    Імперський історик Потто підтверджує, що аул узяли, лише коли «поголовно були винищені всі його захисники», а вирізаних і загиблих у пожежі було вдвічі більше за сто сорок уцілілих(Citation: 75).

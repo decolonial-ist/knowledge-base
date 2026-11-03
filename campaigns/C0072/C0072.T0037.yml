@@ -1,0 +1,99 @@
+type: procedure
+id: C0072.T0037
+created: 2026-04-27
+modified: 2026-10-27
+version: '1.0'
+technique: T0037
+people: ukrainians
+actor: G0013
+tool: S0012
+contributors:
+- ru: Палий Светодар
+  en: Palii Svitodar
+  uk: Палій Світодар
+description:
+  ru: |-
+    В декабре 1917 года большевики собрали в Харькове свой съезд Советов и создали правительство, подчинённое Петрограду, «Народный секретариат».
+    Цель: выдать войну России против Украины за внутреннюю борьбу украинцев.
+    Энциклопедия истории Украины описывает его так: создан «как альтернатива Украинской Центральной Раде и Генеральному секретариату Украинской Центральной Рады», «действовал в тесном контакте и под непосредственным руководством высших государственных и партийных институций советской России»(Citation: 24).
+    Съезд объявил Украину частью России. 12(25) декабря 1917 года он принял резолюцию о самоопределении Украины.
+    В ней съезд признал «Украинскую Республику как федеративную часть Российской Республики» и объявил «решительную борьбу пагубной для рабоче-крестьянских масс политике Центральной рады, раскрывая её буржуазный, контрреволюционный характер»(Citation: 490).
+    Съезд объяснял своё право на власть переворотом в Петрограде и записал в резолюции: «принцип права наций на самоопределение, провозглашённый Февральской революцией, мог быть претворен в жизнь только благодаря Октябрьской революции, приведшей к созданию Рабоче-Крестьянского Правительства — Совета Народных Комиссаров»(Citation: 490).
+    Своих законов у марионеточного правительства в Харькове не было: оно вводило в Украине готовые декреты Петрограда.
+    Так решил сам съезд: «немедленно распространить на территории Украинской республики все декреты и распоряжения рабоче-крестьянского правительства Федерации» и «объявить недействительными все распоряжения Рады, которые она издала и издаст»(Citation: 601).
+    Вся новая «всеукраинская» советская власть состояла из 40 человек, выбранных съездом.
+    Крестьян среди них не было: 20 мест съезд оставил крестьянскому съезду, который ещё не собрался(Citation: 602).
+    Первыми решениями марионеточное правительство обратилось к Совету народных комиссаров (правительство советской России) и отменило ответ Генерального секретариата (правительство Украинской Народной Республики при Центральной Раде) на ультиматум Петрограда(Citation: 602).
+    Оно объяснило цель обращения так: «для избежания возможности возникновения братоубийственной войны между трудящимися народами, населяющими Россию»(Citation: 602).
+    Этот ультиматум Совет народных комиссаров телеграфировал в Киев раньше, 4(17) декабря(Citation: 194).
+    Он ставил Раде четыре требования.
+    Не разрушать общий фронт отзывом украинских частей.
+    Не пропускать без согласия Петрограда казачьи части на Дон, к Каледину (генерал, атаман Войска Донского, власть Совета народных комиссаров не признал).
+    Помогать войскам советской России против Каледина.
+    Прекратить разоружение советских полков и Красной гвардии.
+    Совет народных комиссаров записал в ультиматуме: «в случае неполучения удовлетворительного ответа на эти вопросы в течение 48 часов, Совет Народных Комиссаров будет считать Раду в состоянии открытой войны против Советской власти в России и на Украине»(Citation: 621).
+    Генеральный секретариат на следующий день ответил отказом(Citation: 194).
+    Марионеточное правительство сняло этот отказ.
+    Так Петроград получил украинское правительство, которое условия ультиматума принимает.
+    Петроград держал своего человека и внутри правительства.
+    Народный секретарь по межнациональным делам Бакинский был одновременно представителем Совета народных комиссаров России(Citation: 24).
+    Историк Станислав Кульчицкий описывает прямой надзор: «поскольку украинского партийного центра не существовало, Ленин поставил над харьковским правительством временного чрезвычайного комиссара»(Citation: 494).
+    Им стал Орджоникидзе, работник центрального партийного аппарата(Citation: 494).
+    Журнал «Летопись революции» (издание Истпарта, партийной комиссии по истории) писал в 1924 году: «Всеукраинское правительство представляло собой центр без периферии, штаб без армии, когда оно не имело ни территории, ни подчинённого ему населения, ни вооружённой силы»(Citation: 22).
+  en: |-
+    In December 1917 the Bolsheviks gathered their own congress of soviets in Kharkiv and created a government subordinate to Petrograd, the "People's Secretariat".
+    The goal was to pass off Russia's war against Ukraine as an internal struggle among Ukrainians.
+    The Encyclopedia of the History of Ukraine describes it this way: it was created "as an alternative to the Ukrainian Central Rada and the General Secretariat of the Ukrainian Central Rada" and "acted in close contact with and under the direct leadership of the highest state and party institutions of Soviet Russia"(Citation: 24).
+    The congress declared Ukraine a part of Russia.
+    On 12 (25) December 1917 it adopted a resolution on the self-determination of Ukraine.
+    In it the congress recognized "the Ukrainian Republic as a federative part of the Russian Republic" and declared "a resolute struggle against the policy of the Central Rada, ruinous for the worker and peasant masses, exposing its bourgeois, counter-revolutionary character"(Citation: 490).
+    The congress explained its right to power by the coup in Petrograd and wrote in the resolution: "the principle of the right of nations to self-determination, proclaimed by the February Revolution, could be put into practice only thanks to the October Revolution, which led to the creation of the Worker-Peasant Government — the Council of People's Commissars"(Citation: 490).
+    The puppet government in Kharkiv had no laws of its own: it introduced Petrograd's ready-made decrees in Ukraine.
+    The congress itself decided so: "to immediately extend to the territory of the Ukrainian Republic all decrees and orders of the worker-peasant government of the Federation" and "to declare invalid all orders of the Rada that it has issued and will issue"(Citation: 601).
+    The entire new "all-Ukrainian" Soviet authority consisted of 40 people chosen by the congress.
+    There were no peasants among them: the congress left 20 seats for a peasant congress that had not yet convened(Citation: 602).
+    Among its first decisions the puppet government appealed to the Council of People's Commissars (the government of Soviet Russia) and annulled the reply of the General Secretariat (the government of the Ukrainian People's Republic under the Central Rada) to Petrograd's ultimatum(Citation: 602).
+    It explained the purpose of the appeal this way: "to avoid the possibility of a fratricidal war between the working peoples inhabiting Russia"(Citation: 602).
+    The Council of People's Commissars had telegraphed this ultimatum to Kyiv earlier, on 4 (17) December(Citation: 194).
+    It put four demands to the Rada.
+    Not to break up the common front by recalling Ukrainian units.
+    Not to let Cossack units pass to the Don, to Kaledin (a general, ataman of the Don Cossack Host, who did not recognize the authority of the Council of People's Commissars), without Petrograd's consent.
+    To help the troops of Soviet Russia against Kaledin.
+    To stop disarming Soviet regiments and the Red Guard.
+    The Council of People's Commissars wrote in the ultimatum: "in the event that a satisfactory answer to these questions is not received within 48 hours, the Council of People's Commissars will consider the Rada to be in a state of open war against Soviet power in Russia and in Ukraine"(Citation: 621).
+    The General Secretariat replied with a refusal the next day(Citation: 194).
+    The puppet government withdrew that refusal.
+    Thus Petrograd obtained a Ukrainian government that accepted the terms of the ultimatum.
+    Petrograd also kept its own man inside the government.
+    The people's secretary for inter-ethnic affairs, Bakinsky, was at the same time the representative of the Council of People's Commissars of Russia(Citation: 24).
+    The historian Stanislav Kulchytsky describes direct supervision: "since no Ukrainian party centre existed, Lenin placed a temporary extraordinary commissar over the Kharkiv government"(Citation: 494).
+    That commissar was Ordzhonikidze, an official of the central party apparatus(Citation: 494).
+    The journal "Letopis revolyutsii" (a publication of Istpart, the party commission on history) wrote in 1924: "The all-Ukrainian government was a centre without a periphery, a headquarters without an army, when it had neither territory, nor a population subordinate to it, nor an armed force"(Citation: 22).
+  uk: |-
+    У грудні 1917 року більшовики зібрали в Харкові свій з'їзд Рад і створили уряд, підпорядкований Петрограду, «Народний секретаріат».
+    Мета: видати війну Росії проти України за внутрішню боротьбу українців.
+    Енциклопедія історії України описує його так: створений «як альтернатива Українській Центральній Раді та Генеральному секретаріатові Української Центральної Ради», «діяв у тісному контакті та під безпосереднім керівництвом вищих державних і партійних інституцій радянської Росії»(Citation: 24).
+    З'їзд оголосив Україну частиною Росії. 12(25) грудня 1917 року він ухвалив резолюцію про самовизначення України.
+    У ній з'їзд визнав «Українську Республіку як федеративну частину Російської Республіки» й оголосив «рішучу боротьбу згубній для робітничо-селянських мас політиці Центральної ради, розкриваючи її буржуазний, контрреволюційний характер»(Citation: 490).
+    З'їзд пояснював своє право на владу переворотом у Петрограді й записав у резолюції: «принцип права націй на самовизначення, проголошений Лютневою революцією, міг бути втілений у життя лише завдяки Жовтневій революції, що привела до створення Робітничо-Селянського Уряду — Ради Народних Комісарів»(Citation: 490).
+    Своїх законів у маріонеткового уряду в Харкові не було: він запроваджував в Україні готові декрети Петрограда.
+    Так вирішив сам з'їзд: «негайно поширити на територію Української республіки всі декрети й розпорядження робітничо-селянського уряду Федерації» та «оголосити недійсними всі розпорядження Ради, які вона видала і видасть»(Citation: 601).
+    Уся нова «всеукраїнська» радянська влада складалася з 40 осіб, обраних з'їздом.
+    Селян серед них не було: 20 місць з'їзд залишив селянському з'їздові, який ще не зібрався(Citation: 602).
+    Першими рішеннями маріонетковий уряд звернувся до Ради народних комісарів (уряд радянської Росії) і скасував відповідь Генерального секретаріату (уряд Української Народної Республіки при Центральній Раді) на ультиматум Петрограда(Citation: 602).
+    Мету звернення він пояснив так: «для уникнення можливості виникнення братовбивчої війни між трудящими народами, що населяють Росію»(Citation: 602).
+    Цей ультиматум Рада народних комісарів телеграфувала до Києва раніше, 4(17) грудня(Citation: 194).
+    Він ставив Раді чотири вимоги.
+    Не руйнувати спільний фронт відкликанням українських частин.
+    Не пропускати без згоди Петрограда козачі частини на Дон, до Каледіна (генерал, отаман Війська Донського, влади Ради народних комісарів не визнав).
+    Допомагати військам радянської Росії проти Каледіна.
+    Припинити роззброєння радянських полків і Червоної гвардії.
+    Рада народних комісарів записала в ультиматумі: «у разі неотримання задовільної відповіді на ці питання протягом 48 годин, Рада Народних Комісарів вважатиме Раду в стані відкритої війни проти Радянської влади в Росії та на Україні»(Citation: 621).
+    Генеральний секретаріат наступного дня відповів відмовою(Citation: 194).
+    Маріонетковий уряд зняв цю відмову.
+    Так Петроград отримав український уряд, який умови ультиматуму приймає.
+    Петроград тримав свою людину і всередині уряду.
+    Народний секретар у міжнаціональних справах Бакинський був водночас представником Ради народних комісарів Росії(Citation: 24).
+    Історик Станіслав Кульчицький описує прямий нагляд: «оскільки українського партійного центру не існувало, Ленін поставив над харківським урядом тимчасового надзвичайного комісара»(Citation: 494).
+    Ним став Орджонікідзе, працівник центрального партійного апарату(Citation: 494).
+    Журнал «Летопись революции» (видання Істпарту, партійної комісії з історії) писав у 1924 році: «Всеукраїнський уряд являв собою центр без периферії, штаб без армії, коли він не мав ні території, ні підпорядкованого йому населення, ні збройної сили»(Citation: 22).

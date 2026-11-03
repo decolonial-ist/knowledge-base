@@ -1,0 +1,23 @@
+type: procedure
+id: C1174.T0105
+created: 2026-08-09
+modified: 2026-08-09
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0014
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Добровольческая армия в мартовском наступлении вдоль железной дороги разрушила сёла до основания: «в течение нескольких дней шли упорные бои, в ходе которых оказались полностью разрушенными селения Бердыкель и Устар-Гордой, захвачен ряд других селений»(Citation: 125).
+    Счёт за год ведёт советское обследование, которое приводит историк Е. Ф. Жупикова: 21 разрушенный аул (в другой публикации того же источника - 27) при 15 тысячах погибших(Citation: 256).
+    Чеченский историк А. Г. Авторханов, писавший об этих событиях в эмиграции, даёт и мотив, и поимённый список: желание горцев «устраивать свою государственную жизнь по собственному усмотрению» Деникин истолковал как «национальный большевизм», «отсюда политика сожжения аулов и истребление непокорных горцев», и «чтобы сломать сопротивление чеченцев и ингушей, Деникин дотла сжег десятки крупнейших центров Чечено-Ингушетии - Экажево, Долаково, Алхан-Юрт, Чечен-аул, Устар-Гардой, Гудермес, Герзель-аул, Старый-Юрт и др.» (Экажево и Долаково - ингушские сёла)(Citation: 369).
+  en: |-
+    In its March offensive along the railway the Volunteer Army destroyed villages to the ground: "for several days stubborn battles went on, in the course of which the villages of Berdykel and Ustar-Gordoy ended up completely destroyed, and a number of other villages were captured"(Citation: 125).
+    The year's count is kept by the Soviet survey cited by historian E. F. Zhupikova: 21 destroyed auls (27 in another publication of the same source) with 15 thousand dead(Citation: 256).
+    The Chechen historian A. G. Avtorkhanov, who wrote of these events in emigration, gives both the motive and a list by name: the highlanders' desire "to arrange their state life at their own discretion" Denikin construed as "national Bolshevism", "hence the policy of burning auls and the extermination of the unsubmissive highlanders", and "to break the resistance of the Chechens and the Ingush, Denikin burned to the ground dozens of the largest centers of Chechnya-Ingushetia - Ekazhevo, Dolakovo, Alkhan-Yurt, Chechen-Aul, Ustar-Gardoy, Gudermes, Gerzel-Aul, Stary-Yurt and others" (Ekazhevo and Dolakovo are Ingush villages)(Citation: 369).
+  uk: |-
+    Добровольча армія в березневому наступі вздовж залізниці зруйнувала села вщент: «протягом кількох днів йшли запеклі бої, в ході яких виявилися повністю зруйнованими селища Бердикель і Устар-Гордой, захоплено низку інших селищ»(Citation: 125).
+    Рахунок за рік веде радянське обстеження, яке наводить історик Є. Ф. Жупікова: 21 зруйнований аул (в іншій публікації того ж джерела - 27) при 15 тисячах загиблих(Citation: 256).
+    Чеченський історик А. Г. Авторханов, який писав про ці події в еміграції, дає і мотив, і поіменний список: бажання горців «влаштовувати своє державне життя на власний розсуд» Денікін витлумачив як «національний більшовизм», «звідси політика спалення аулів і винищення непокірних горців», і «щоб зламати опір чеченців та інгушів, Денікін дотла спалив десятки найбільших центрів Чечено-Інгушетії - Екажево, Долаково, Алхан-Юрт, Чечен-аул, Устар-Гардой, Гудермес, Герзель-аул, Старий-Юрт та ін.» (Екажево і Долаково - інгуські села)(Citation: 369).

@@ -1,0 +1,36 @@
+type: procedure
+id: C1165.T0019
+created: 2026-07-24
+modified: 2026-09-04
+version: '1.0'
+technique: T0019
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Трижды за 1842-1845 годы империя бросала на Чечню большие армии. 30 мая 1842 года генерал Граббе, командующий войсками Кавказской линии (цепи имперских укреплений на земле нохчи), повёл десятитысячный отряд из крепости Герзель в Ичкерию (горную юго-восточную Чечню) - к Дарго, резиденции Шамиля (имама, руководителя сопротивления горцев Дагестана и Чечни российскому завоеванию); историк Н. И. Покровский: «В шестидневном бою в густых ичкеринских лесах Граббе потерпел решительное поражение»(Citation: 129); историки Я. З. Ахмадов и Э. Х. Хасмагомадов считают: «Общие потери убитыми, ранеными и пропавшими без вести составили 66 офицеров и свыше 1700 нижних чинов»(Citation: 125). 14 ноября 1843 года император Николай I лично назначил новые силы: «Посылаю тебе на один год 2 дивизии в составе 24 баталионов... даю я тебе такие силы, каких Кавказ и во сне не видел...
+    Ты должен проникнуть в горы, разгромить Шамиля везде, где тебе противостанет, все истреблять, что тебе будет противиться, но щадить все, что покоряться будет без боя» - и добавил о подкупе: «Сори деньги, стараясь ими привлечь на нашу сторону людей, пользующихся влиянием на племена»(Citation: 126).
+    Летом 1845 года Воронцов, наместник и главнокомандующий на Кавказе, по прямому распоряжению Николая I повёл армию на Дарго: Покровский считает отряд в 9500 человек, историки Я. З. Ахмадов и Э. Х. Хасмагомадов - «армию в 21 тысячу солдат и офицеров с 42 артиллерийскими орудиями»(Citation: 129)(Citation: 125).
+    Поход кончился катастрофой: «Из 9500 человек, составлявших отряд Воронцова, выбыло из строя 3510 чел., среди которых было 3 генерала, 28 штаб-офицеров и 158 обер-офицеров»(Citation: 129).
+    Судьбу самого Дарго источники передают по-разному: по Покровскому, войска нашли аул «очищенным и зажженным самими мюридами»(Citation: 129); по записи Гаджи-Али, спутника и хрониста Шамиля, русские «после незначительной перестрелки завладели» Дарго, а уходя сожгли около 700 своих палаток(Citation: 123); историк Д. А. Хожаев пишет, что селение сожгли сами царские войска(Citation: 95).
+  en: |-
+    Three times in 1842-1845 the empire threw large armies at Chechnya.
+    On 30 May 1842 general Grabbe, commander of the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), led a ten-thousand-strong detachment from the Gerzel fortress into Ichkeria (mountainous south-eastern Chechnya) - towards Dargo, the residence of Shamil (the imam, leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest); historian N. I. Pokrovsky: "In a six-day battle in the dense Ichkerian forests Grabbe suffered a decisive defeat"(Citation: 129); the historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov count: "The total losses in killed, wounded and missing came to 66 officers and over 1700 lower ranks"(Citation: 125).
+    On 14 November 1843 emperor Nicholas I personally assigned new forces: "I am sending you for one year 2 divisions of 24 battalions...
+    I give you such forces as the Caucasus has not seen even in a dream...
+    You must penetrate into the mountains, rout Shamil wherever he stands against you, annihilate everything that resists you, but spare everything that submits without a fight" - and added, on bribery: "Scatter money, trying to attract to our side people who have influence over the tribes"(Citation: 126).
+    In summer 1845 Vorontsov, viceroy and commander-in-chief in the Caucasus, on the direct order of Nicholas I led an army against Dargo: Pokrovsky counts the detachment at 9500 men, historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov - "an army of 21 thousand soldiers and officers with 42 artillery pieces"(Citation: 129)(Citation: 125).
+    The march ended in catastrophe: "Of the 9500 men who made up Vorontsov's detachment, 3510 men were put out of action, among them 3 generals, 28 staff officers and 158 line officers"(Citation: 129).
+    The fate of Dargo itself the sources convey differently: according to Pokrovsky, the troops found the aul "cleared and set alight by the murids themselves"(Citation: 129); by the record of Gadzhi-Ali, Shamil's companion and chronicler, the Russians "after an insignificant skirmish took possession" of Dargo, and burned about 700 of their own tents as they left(Citation: 123); historian D. A. Khozhayev writes that the village was burned by the tsarist troops themselves(Citation: 95).
+  uk: |-
+    Тричі за 1842-1845 роки імперія кидала на Чечню великі армії. 30 травня 1842 року генерал Граббе, командувач військ Кавказької лінії (ланцюга імперських укріплень на землі нохчі), повів десятитисячний загін з фортеці Герзель в Ічкерію (гірську південно-східну Чечню) - до Дарго, резиденції Шаміля (імама, керівника опору горців Дагестану і Чечні російському завоюванню); історик Н. І. Покровський: «У шестиденному бою в густих ічкеринських лісах Граббе зазнав рішучої поразки»(Citation: 129); історики Я. З. Ахмадов і Е. Х. Хасмагомадов рахують: «Загальні втрати вбитими, пораненими і зниклими безвісти склали 66 офіцерів і понад 1700 нижніх чинів»(Citation: 125). 14 листопада 1843 року імператор Микола I особисто призначив нові сили: «Посилаю тобі на один рік 2 дивізії у складі 24 батальйонів... даю я тобі такі сили, яких Кавказ і уві сні не бачив...
+    Ти повинен проникнути в гори, розгромити Шаміля скрізь, де тобі протистане, все винищувати, що тобі буде противитися, але щадити все, що покорятиметься без бою» - і додав про підкуп: «Сип гроші, намагаючись ними привернути на наш бік людей, які мають вплив на племена»(Citation: 126).
+    Улітку 1845 року Воронцов, намісник і головнокомандувач на Кавказі, за прямим розпорядженням Миколи I повів армію на Дарго: Покровський рахує загін у 9500 осіб, історики Я. З. Ахмадов і Е. Х. Хасмагомадов - «армію у 21 тисячу солдатів і офіцерів з 42 артилерійськими гарматами»(Citation: 129)(Citation: 125).
+    Похід скінчився катастрофою: «З 9500 осіб, що складали загін Воронцова, вибуло з ладу 3510 осіб, серед яких було 3 генерали, 28 штаб-офіцерів і 158 обер-офіцерів»(Citation: 129).
+    Долю самого Дарго джерела передають по-різному: за Покровським, війська знайшли аул «очищеним і запаленим самими мюридами»(Citation: 129); за записом Гаджі-Алі, супутника і хроніста Шаміля, росіяни «після незначної перестрілки заволоділи» Дарго, а йдучи спалили близько 700 своїх наметів(Citation: 123); історик Д. А. Хожаєв пише, що селище спалили самі царські війська(Citation: 95).

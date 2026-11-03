@@ -1,0 +1,24 @@
+type: procedure
+id: C1171.T0015
+created: 2026-08-04
+modified: 2026-09-04
+version: '1.0'
+technique: T0015
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    По разрешению наместника от 6 апреля 1867 года, пишет историк З. Х. Ибрагимова, «В частную собственность за заслуги было роздано местным влиятельным людям Чечни 8674 десятины» (десятина - чуть больше гектара); получили её 57 чеченцев, инициатором раздач Ибрагимова называет наместника на Кавказе Барятинского(Citation: 251); крупнейшие наделы получили чеченские владетельные фамилии - Таймазовы (6550 десятин), Бековичи-Черкасские (свыше 6350), Турловы, Эльдаровы; раздавали землю и русским офицерам - «полковник Ипполитов получил более 1 тысячи десятин земли в Аргунском округе»(Citation: 125).
+    Иерархия раздач была сословной: крупнейшим горским владельцам - «от 1 до 5 тыс. десятин, смотря «по степени значения и оказанных каждым услуг правительству»», лицам второй категории (горская знать при первой - русских дворянах) - до 1 тысячи(Citation: 251).
+    Землёй оплачивалась и низовая администрация: «сельские старшины получали по пять паев пахотных и сенокосных земель»(Citation: 125), аульные секретари - до 75 десятин(Citation: 252).
+  en: |-
+    By the viceroy's authorization of 6 April 1867, writes historian Z. Kh.
+    Ibragimova, "8674 desiatinas were given out into private ownership, for services, to influential local people of Chechnya" (a desiatina is a little over a hectare); 57 Chechens received it, and Ibragimova names the viceroy in the Caucasus, Baryatinsky, as the initiator of the handouts(Citation: 251); the largest allotments went to the Chechen ruling families - the Taymazovs (6550 desiatinas), the Bekovich-Cherkasskys (over 6350), the Turlovs, the Eldarovs; land was also handed out to Russian officers - "Colonel Ippolitov received more than 1 thousand desiatinas of land in the Argun okrug"(Citation: 125).
+    The hierarchy of the handouts followed estate lines: to the largest highland owners - "from 1 to 5 thousand desiatinas, depending 'on the degree of significance and the services rendered by each to the government'", to persons of the second category (the highland notability, the first being Russian nobles) - up to 1 thousand(Citation: 251).
+    Land also paid the lower administration: "village elders received five shares each of arable and hay lands"(Citation: 125), aul secretaries - up to 75 desiatinas(Citation: 252).
+  uk: |-
+    З дозволу намісника від 6 квітня 1867 року, пише історикиня З. Х. Ібрагімова, «У приватну власність за заслуги було роздано місцевим впливовим людям Чечні 8674 десятини» (десятина - трохи більше гектара); отримали її 57 чеченців, ініціатором роздач Ібрагімова називає намісника на Кавказі Барятинського(Citation: 251); найбільші наділи отримали чеченські владні родини - Таймазови (6550 десятин), Бековичі-Черкаські (понад 6350), Турлови, Ельдарови; роздавали землю і російським офіцерам - «полковник Іполітов отримав понад 1 тисячу десятин землі в Аргунському окрузі»(Citation: 125).
+    Ієрархія роздач була становою: найбільшим гірським власникам - «від 1 до 5 тис. десятин, зважаючи «на ступінь значення і наданих кожним послуг урядові»», особам другої категорії (гірська знать при першій - російських дворянах) - до 1 тисячі(Citation: 251).
+    Землею оплачувалася і низова адміністрація: «сільські старшини отримували по п'ять паїв орних і сіножатних земель»(Citation: 125), аульні секретарі - до 75 десятин(Citation: 252).

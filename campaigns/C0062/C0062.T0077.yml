@@ -1,0 +1,14 @@
+type: procedure
+id: C0062.T0077
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0077
+people: ukrainians
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Использование регулярной армии для подавления Январского восстания: назначенные императором Муравьев и Берг «прибегли к жестоким репрессиям и террору с целью подавления восстания»; «сотни поляков были казнены, тысячи высланы в Сибирь или отданы в армию»(Citation: 195).'
+  en: 'The use of the regular army to suppress the January Uprising: Muravyov and Berg, appointed by the emperor, "resorted to brutal repressions and terror with the aim of suppressing the uprising"; "hundreds of Poles were executed, thousands exiled to Siberia or given over to the army"(Citation: 195).'
+  uk: 'Використання регулярної армії для придушення Січневого повстання: призначені імператором Муравйов і Берг «вдалися до жорстоких репресій і терору з метою придушення повстання»; «сотні поляків були страчені, тисячі вислані в Сибір або віддані в армію»(Citation: 195).'

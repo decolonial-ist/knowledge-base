@@ -1,0 +1,22 @@
+type: technique
+id: T0125
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Насильственное изъятие детей
+  en: Forcible Removal of Children
+  uk: Насильницьке вилучення дітей
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять принудительное изъятие и массовое перемещение детей из оккупированной группы в культурную среду колонизатора (интернаты, усыновление).
+    Подобные действия могут быть классифицированы как акт геноцида, направленный исключительно на разрыв связи поколений, насильственную ассимиляцию и демографическое стирание колонизируемой группы в долгосрочной перспективе.
+  en: |-
+    Aggressors may carry out the forcible removal and mass transfer of children from the occupied group into the colonizer's cultural environment (boarding schools, adoption).
+    Such actions may be classified as an act of genocide aimed solely at severing the bond between generations, forced assimilation, and the long-term demographic erasure of the colonized group.
+  uk: |-
+    Агресори можуть здійснювати примусове вилучення та масове переміщення дітей з окупованої групи в культурне середовище колонізатора (інтернати, усиновлення).
+    Такі дії можуть бути класифіковані як акт геноциду, спрямований виключно на розрив зв'язку поколінь, насильницьку асиміляцію та демографічне стирання колонізованої групи в довгостроковій перспективі.

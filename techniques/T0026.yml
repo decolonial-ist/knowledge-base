@@ -1,0 +1,22 @@
+type: technique
+id: T0026
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0004
+name:
+  ru: Уничтожение локальных медиа
+  en: Destruction of Local Media
+  uk: Знищення локальних медіа
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять физическое уничтожение редакций, захват или разрушение теле- и радиовещательных центров, а также целенаправленные репрессии против независимых журналистов на оккупированных территориях.
+    Блокирование каналов оперативного оповещения и ликвидация объективных источников информации не позволяет колонизируемому обществу координировать действия по обороне и делает его уязвимым перед массированными информационно-психологическими операциями колонизатора.
+  en: |-
+    Aggressors may carry out the physical destruction of editorial offices, the seizure or demolition of television and radio broadcasting centers, as well as targeted repression against independent journalists in occupied territories.
+    Blocking channels of rapid public alert and eliminating objective sources of information prevents the colonized society from coordinating defensive actions and leaves it vulnerable to the colonizer's massive information-psychological operations.
+  uk: |-
+    Агресори можуть здійснювати фізичне знищення редакцій, захоплення або руйнування теле- і радіомовних центрів, а також цілеспрямовані репресії проти незалежних журналістів на окупованих територіях.
+    Блокування каналів оперативного оповіщення та ліквідація об'єктивних джерел інформації не дає колонізованому суспільству змоги координувати оборонні дії та робить його вразливим перед масованими інформаційно-психологічними операціями колонізатора.

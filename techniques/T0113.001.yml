@@ -1,0 +1,23 @@
+type: technique
+id: T0113.001
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+parent: T0113
+tactics:
+- TA0005
+name:
+  ru: Законодательный запрет родного языка
+  en: Legislative Ban on the Native Language
+  uk: Законодавча заборона рідної мови
+contributors: []
+description:
+  ru: |-
+    В рамках лингвистической ассимиляции агрессоры могут на государственном уровне запрещать публичное использование языка коренного народа.
+    Выпуск официальных указов, криминализация книгопечатания, запрет театральных постановок и публичных выступлений на родном языке лишают местное население легальных механизмов сохранения, трансляции и развития своей культуры.
+  en: |-
+    As part of linguistic assimilation, aggressors may prohibit, at the state level, the public use of the Indigenous people's language.
+    The issuance of official decrees, the criminalization of book printing, and the banning of theatrical performances and public speeches in the native language deprive the local population of legal mechanisms for preserving, transmitting, and developing their culture.
+  uk: |-
+    У межах лінгвістичної асиміляції агресори можуть на державному рівні забороняти публічне використання мови корінного народу.
+    Видання офіційних указів, криміналізація книгодрукування, заборона театральних вистав і публічних виступів рідною мовою позбавляють місцеве населення легальних механізмів збереження, передавання та розвитку своєї культури.

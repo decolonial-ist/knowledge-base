@@ -1,0 +1,24 @@
+type: procedure
+id: C1155.T0053
+created: 2026-07-03
+modified: 2026-08-07
+version: '1.0'
+technique: T0053
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    9 сентября 1832 при захвате села Центорой в Ичкерии колонна генерала Вольховского из отряда корпусного командира Розена захватила в плен женщину из числа жителей, не успевших скрыться.
+    Имперский историк Волконский писал: «взята в плен одна женщина»(Citation: 116). 15 сентября у села Дунген-юрт кавалерия майора Борейши захватила в плен жителей, застигнутых при попытке покинуть дома.
+    Розен доносил военному министру Чернышёву: кавалерия «успела взять в плен 4 чел. и 1 женщину»(Citation: 105).
+  en: |-
+    On September 9, 1832, during the seizure of the village of Tsentoroy in Ichkeria, the column of General Volkhovsky from the detachment of corps commander Rosen took captive a woman from among the residents who had not managed to flee.
+    The imperial historian Volkonsky wrote: “one woman was taken prisoner”(Citation: 116).
+    On September 15, near the village of Dungen-yurt, the cavalry of Major Boreysha took captive residents caught while attempting to leave their homes.
+    Rosen reported to Minister of War Chernyshev: the cavalry “managed to take prisoner 4 persons and 1 woman”(Citation: 105).
+  uk: |-
+    9 вересня 1832 року під час захоплення села Центорой в Ічкерії колона генерала Вольховського із загону корпусного командира Розена захопила в полон жінку з-поміж жителів, які не встигли сховатися.
+    Імперський історик Волконський писав: «взято в полон одну жінку»(Citation: 116). 15 вересня біля села Дунген-юрт кавалерія майора Борейші захопила в полон жителів, застигнутих під час спроби покинути домівки.
+    Розен доносив військовому міністрові Чернишову: кавалерія «встигла взяти в полон 4 чол. і 1 жінку»(Citation: 105).

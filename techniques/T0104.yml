@@ -1,0 +1,32 @@
+type: technique
+id: T0104
+created: 2026-04-21
+modified: 2026-09-24
+version: '1.2'
+tactics:
+- TA0003
+- TA0004
+name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут массово убивать мирных жителей.
+    Прямо: расстреливать людей, которых видят безоружными, - колонны беженцев, жителей в домах и подвалах, тех, кто сбежался на помощь раненым, - или заманивать их в ловушку и бить по скоплению.
+    Через удары по населённым местам: когда бомбёжки и обстрелы повторяют по одному месту, оружие выбирают против скоплений людей, мирных жителей не берегут, и сумма ударов становится истреблением населения.
+    Эта форма террора применяется для физического устранения сопротивления (ослабления защиты) и захвата управления через страх и паралич воли к обороне.
+    Женевская конвенция IV (статья 147) и общая статья 3 запрещают умышленное убийство; Дополнительные протоколы I (статья 51(2)) и II (статья 13(2)) запрещают делать гражданское население объектом нападения и терроризировать его; Римский статут криминализует убийство и истребление как преступления против человечности (статья 7(1)(a)-(b); Элементы преступлений Международного уголовного суда: убийство «как часть массового убийства гражданского населения») и умышленное нападение на гражданское население как таковое (статьи 8(2)(b)(i) и 8(2)(e)(i)); Международный трибунал по бывшей Югославии выводит нападение на гражданских из неизбирательного характера оружия и повторности ударов (дела Галича, апелляция 2006, § 132; Мартича, 2007, § 472; Купрешкича, 2000, § 526).
+  en: |-
+    Aggressors may kill civilians en masse.
+    Directly: shooting people they can see are unarmed - refugee columns, residents in houses and cellars, those who ran to help the wounded - or luring them into a trap and striking the crowd.
+    Through attacks on populated places: when bombing and shelling are repeated on the same spot, weapons are chosen against gatherings of people, civilians are not spared, and the sum of the strikes becomes the extermination of a population.
+    This form of terror is used to physically eliminate resistance (impairment of defense) and to seize governance through fear and the paralysis of the will to defend.
+    Geneva Convention IV (Article 147) and Common Article 3 prohibit wilful killing; Additional Protocols I (Article 51(2)) and II (Article 13(2)) prohibit making the civilian population the object of attack and terrorizing it; the Rome Statute criminalizes murder and extermination as crimes against humanity (Article 7(1)(a)-(b); the ICC Elements of Crimes: killing "as part of a mass killing of members of a civilian population") and intentionally directing attacks against the civilian population as such (Articles 8(2)(b)(i) and 8(2)(e)(i)); the International Criminal Tribunal for the former Yugoslavia infers an attack on civilians from the indiscriminate character of the weapon and the repetition of strikes (Galić, Appeal Judgement 2006, § 132; Martić, 2007, § 472; Kupreškić, 2000, § 526).
+  uk: |-
+    Агресори можуть масово вбивати мирних жителів.
+    Прямо: розстрілювати людей, яких бачать беззбройними, - колони біженців, жителів у будинках і підвалах, тих, хто збігся на допомогу пораненим, - або заманювати їх у пастку і бити по скупченню.
+    Через удари по населених місцях: коли бомбардування й обстріли повторюють по одному місцю, зброю обирають проти скупчень людей, мирних жителів не бережуть, і сума ударів стає винищенням населення.
+    Ця форма терору застосовується для фізичного усунення опору (ослаблення захисту) і захоплення управління через страх і параліч волі до оборони.
+    Женевська конвенція IV (стаття 147) і спільна стаття 3 забороняють умисне вбивство; Додаткові протоколи I (стаття 51(2)) і II (стаття 13(2)) забороняють робити цивільне населення об'єктом нападу і тероризувати його; Римський статут криміналізує вбивство та винищення як злочини проти людяності (стаття 7(1)(a)-(b); Елементи злочинів Міжнародного кримінального суду: вбивство «як частина масового вбивства цивільного населення») та умисне спрямування нападів на цивільне населення як таке (статті 8(2)(b)(i) і 8(2)(e)(i)); Міжнародний трибунал щодо колишньої Югославії виводить напад на цивільних із невибіркового характеру зброї та повторності ударів (справи Галича, апеляція 2006, § 132; Мартича, 2007, § 472; Купрешкича, 2000, § 526).

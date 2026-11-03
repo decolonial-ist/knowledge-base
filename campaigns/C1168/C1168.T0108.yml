@@ -1,0 +1,20 @@
+type: procedure
+id: C1168.T0108
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0108
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Генерал Евдокимов записал в журнале военных действий по 22 июня 1859 года (рапорт военному министру Сухозанету, № 544): за отказ выдать пленных «я объявилъ Беноевцевъ и ихъ сосѣдей непокорными, лишенными покровительства Русскихъ законовъ и приказалъ окрестному населенію захватывать ихъ въ плѣнъ и отнимать у нихъ скотъ»(Citation: 109).
+    Историк Д. А. Хожаев передаёт ту же политику: «Временной администрации окрестных селений прямо предписывалось прекратить всякие контакты с Беноем, брать в плен и уничтожать беноевцев»(Citation: 95).
+  en: |-
+    General Yevdokimov recorded in the journal of military operations up to 22 June 1859 (report to Minister of War Sukhozanet, No. 544): for the refusal to hand over captives "I declared the Benoy people and their neighbors unsubmissive, deprived of the protection of Russian laws, and ordered the surrounding population to seize them as captives and to take away their livestock"(Citation: 109).
+    Historian D. A. Khozhayev relays the same policy: "The temporary administration of the surrounding villages was directly instructed to cease all contacts with Benoy, to take the Benoy people captive and to destroy them"(Citation: 95).
+  uk: |-
+    Генерал Євдокимов записав у журналі воєнних дій по 22 червня 1859 року (рапорт військовому міністрові Сухозанету, № 544): за відмову видати полонених «я оголосив беноєвців та їхніх сусідів непокірними, позбавленими покровительства російських законів, і наказав навколишньому населенню захоплювати їх у полон і відбирати в них худобу»(Citation: 109).
+    Історик Д. А. Хожаєв передає ту саму політику: «Тимчасовій адміністрації навколишніх селищ прямо приписувалося припинити всякі контакти з Беноєм, брати в полон і знищувати беноєвців»(Citation: 95).

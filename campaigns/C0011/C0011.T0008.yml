@@ -1,0 +1,29 @@
+type: procedure
+id: C0011.T0008
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0008
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Курс на полное поглощение и уничтожение имени казацкого государства.
+    Орлик в Бендерской конституции 1710 года фиксировал намерение Москвы «Войско Запорожское Низовое искоренити и имя того вечне згладити»(Citation: 4).
+    Грушевский подтверждает системность курса: союз Мазепы со шведским королём лишь «дал повод правительству московскому… взяться сильнее за упразднение украинской автономии.
+    Такую линию московское правительство вело с самого начала»(Citation: 250).
+    Речь шла о порабощении всего народа: Московское государство, по преамбуле конституции Орлика, сумело права и вольности «нарушить и вконец разрушить, а на вольный казацкий народ, ею никогда не завоёванный, накинуть невольничье ярмо»(Citation: 332).
+  en: |-
+    A course toward the complete absorption and destruction of the very name of the Cossack state.
+    In the Bendery Constitution of 1710, Orlyk recorded Moscow's intention "to eradicate the Zaporozhian Host of the Lower Dnipro and to efface its name forever"(Citation: 4).
+    Hrushevsky confirms the course was systemic: Mazepa's alliance with the Swedish king merely "gave the Muscovite government occasion… to take up more forcefully the abolition of Ukrainian autonomy.
+    The Muscovite government had pursued this line from the very beginning"(Citation: 250).
+    What was at stake was the enslavement of the entire people: the Muscovite state, per the preamble of Orlyk's constitution, managed to "violate and utterly destroy" the rights and liberties "and to cast a slave's yoke upon the free Cossack people, never conquered by it"(Citation: 332).
+  uk: |-
+    Курс на повне поглинання та знищення самого імені козацької держави.
+    Орлик у Бендерській конституції 1710 року фіксував намір Москви «Військо Запорозьке Низове викоренити й ім'я того вічно згладити»(Citation: 4).
+    Грушевський підтверджує системність курсу: союз Мазепи зі шведським королем лише «дав притоку правительству московському… взяти ся сильнїйше до касовання української автономії.
+    Таку лїнїю московське правительство вело з самого початку»(Citation: 250).
+    Йшлося про поневолення всього народу: Московська держава, за преамбулою конституції Орлика, змогла права та вольності «порушити і вщент зруйнувати, а на вільний козацький народ, нею ніколи не завойований, накинути невільниче ярмо»(Citation: 332).

@@ -1,0 +1,22 @@
+type: technique
+id: T0011
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0002
+name:
+  ru: Скупка медиа и активов
+  en: Buying Up Media and Assets
+  uk: Скуповування медіа та активів
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут тайно или через подставных лиц приобретать контрольные пакеты акций в ключевых средствах массовой информации, стратегических предприятиях и инфраструктурных объектах целевого региона.
+    Монополизация информационного и экономического пространства позволяет колонизатору формировать нужную общественную повестку, манипулировать мнением местного населения и ослаблять самостоятельность институтов коренного народа еще до начала открытого силового вмешательства.
+  en: |-
+    Aggressors may covertly, or through front persons, acquire controlling stakes in key mass media outlets, strategic enterprises, and infrastructure facilities of the target region.
+    Monopolizing the informational and economic space allows the colonizer to shape the desired public agenda, manipulate the opinion of the local population, and weaken the autonomy of the Indigenous people's institutions even before the start of open forcible intervention.
+  uk: |-
+    Агресори можуть таємно або через підставних осіб купувати контрольні пакети акцій у ключових засобах масової інформації, стратегічних підприємствах та інфраструктурних об'єктах цільового регіону.
+    Монополізація інформаційного та економічного простору дає колонізаторові змогу формувати потрібний суспільний порядок денний, маніпулювати думкою місцевого населення та послаблювати самостійність інституцій корінного народу ще до початку відкритого силового втручання.

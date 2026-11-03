@@ -1,0 +1,29 @@
+type: campaign
+id: C1105
+created: 2026-06-14
+modified: 2026-09-05
+version: '1.2'
+people: nokhchi
+first_seen: 1567-01-01
+last_seen: 1567-12-31
+contributors: []
+name:
+  ru: Закладка первого плацдарма на реке Сунжа (1567)
+  en: Establishment of the First Foothold on the Sunzha River (1567)
+  uk: Закладення першого плацдарму на річці Сунжа (1567)
+description:
+  ru: |-
+    Регулярная армия Московского Царства возвела первую военную базу на землях нохчи при поддержке регулярных войск.
+    Как пишет историк Е. Н. Кушева, «по просьбе Темрюка, переданной в Москве в декабре 1566 г. его сыном Матловым или Мазловым, поставить город «на Терке реке усть Сююнчи реки» «для брежениа от недругов его» весной 1567 г. из Москвы были посланы воеводы для городового дела - князь А. С. Бабичев и П. Протасьев «со многими людьми, да и наряд, пушки и пищали»(Citation: 83).
+    Историки А. С. Куликов и В. А. Рунов дополняют, что воеводы были посланы «с огненным боем и многими людьми»(Citation: 65).
+    Историк Е. Н. Кушева констатирует факт возведения базы на землях нохчи: «Русский город... был в том же году поставлен»(Citation: 83).
+  en: |-
+    The Regular Army of the Tsardom of Muscovy built the first military base on the lands of the Nokhchi with the support of regular troops.
+    As historian E. N. Kusheva writes, "at the request of Temriuk, conveyed in Moscow in December 1566 by his son Matlov or Mazlov, to build a town 'on the Terek River at the mouth of the Siuiunchi River' 'for protection from his enemies,' in the spring of 1567 voevodas were sent from Moscow for the town-building work — Prince A. S. Babichev and P. Protasyev 'with many men, as well as ordnance, cannons, and arquebuses'"(Citation: 83).
+    Historians A. S. Kulikov and V. A. Runov add that the voevodas were sent "with firearms and many men"(Citation: 65).
+    Historian E. N. Kusheva states the fact that the base was built on the lands of the Nokhchi: "The Russian town... was built that same year"(Citation: 83).
+  uk: |-
+    Регулярна армія Московського царства звела першу військову базу на землях Нохчі за підтримки регулярних військ.
+    Як пише історик Е. Н. Кушева, «на прохання Темрюка, передане в Москві в грудні 1566 р. його сином Матловим або Мазловим, поставити місто «на Терке реке усть Сююнчи реки» «для брежениа от недругов его», навесні 1567 р. з Москви були послані воєводи для городової справи — князь А. С. Бабичев і П. Протасьєв «со многими людьми, да и наряд, пушки и пищали»»(Citation: 83).
+    Історики А. С. Куликов і В. А. Рунов доповнюють, що воєводи були послані «с огненным боем и многими людьми»(Citation: 65).
+    Історик Е. Н. Кушева констатує факт зведення бази на землях Нохчі: «Російське місто... було поставлене того ж року»(Citation: 83).

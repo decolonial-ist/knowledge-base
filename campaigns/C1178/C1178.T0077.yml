@@ -1,0 +1,121 @@
+type: procedure
+id: C1178.T0077
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Нохчи трижды поднимались с оружием против принудительного сведения хозяйств в колхозы («коллективизации»), и все три раза СССР посылал против аулов войска.
+    В декабре 1929 года восстали Шали, Гойты и Беной.
+    Чеченский историк А. Г. Авторханов, работавший в те годы в Чечне и писавший об этом в эмиграции, называет руководителей восстания: в Шали его возглавил Шита Истамулов, в Гойтах - Ахмат-мулла и Куриев, в Беное - Яроч и Ходжас.
+    Шита Истамулов объяснял, почему берётся за оружие: «не можем смотреть, когда у чеченцев забирают хлеб, разоряют его и отбирают последнее имущество.
+    Штрафы, обыски – если все это власть будет продолжать – то вынудит меня выступить с оружием в руках...
+    Если дальше смотреть на это, то заберут все, до последних штанов и голого убьют.
+    Лучше хотя умереть, то будешь знать, что похоронят в брюках»(Citation: 544).
+    Авторханов пишет о первых днях восстания: «Восставшие заняли все сельские и районные учреждения, сожгли казенные архивы, арестовали районное начальство, в том числе и шефов ГПУ [политической полиции, предшественницы современной ФСБ], в Беное захватили еще и нефтяные промыслы, и учредили временную народную власть»(Citation: 369).
+    Восставшие отправили свои требования в Москву.
+    Первым пунктом они потребовали «Остановить незаконную конфискацию крестьянской собственности», вторым - «Прекратить бессудные аресты крестьян», третьим - «Отозвать руководителей ГПУ из Чечни, заменив их гражданской администрацией»; ещё двумя пунктами - упразднить введённые советской властью «народные» суды с возвратом шариатского правосудия и восстановить полномочия Чеченского съезда.
+    Сложить оружие они соглашались при выполнении этих условий(Citation: 544).
+    Первые попытки советских войск захватить аулы провалились - Шали и Гойты отбились; штаб Северо-Кавказского военного округа признал в справке по первой операции от 30 марта 1930 года, что «успешное вооруженное сопротивление местным властям в аулах Шали и Гойтах при изъятии описанного имущества послужило последним толчком» к вызову полевых частей(Citation: 533).
+    ОГПУ в обзоре политического состояния СССР за декабрь 1929 года записало: 7 декабря «два тейпа [рода] аула Гойты под руководством сына шейха Хаджиева заперлись в своих кварталах, выставив вооруженную охрану», а «8 декабря в с.
+    Шали на почве описи имущества у кулаков [крестьян, объявленных зажиточными] была обезоружена милиция»; ОГПУ называет Шиту Истамулова «бывшим военным министром правительства Узун-Хаджи» [Северо-Кавказского эмирата 1919-1920 годов]; счёт арестов в том же обзоре: «арестовано в Шалях 220 человек и в Гойтах — 144.
+    Руководители шалинского и гойтинского выступлений Истамулов, Хаджиев и Куриев скрылись»(Citation: 542).
+    Российское командование двинуло против крестьян, разоружённых четырьмя годами раньше, отряд, сформированный в Грозном.
+    Во главе отряда стоял Буриченко, бывший начальник Владикавказской пехотной школы.
+    После первых неудач командование усилило отряд батальонами, артиллерийским дивизионом и «отрядом самолетов». 11 декабря войска захватили Шали, утром 12 декабря - Гойты, а с 20 по 27 декабря атаковали горные аулы Беной, Центорой и Зандак.
+    В справке штаба сказано: «в операции в целом приняло участие всего с частями ВОГПУ [войск ОГПУ] 1904 бойца при 75 станковых и легких пулеметах»; там же названы артиллерийские орудия и семь самолётов; итог там же: «За операцию изъято бандитов 450 чел.
+    Убито и ранено до 60 чел.»; потери войск - 43 человека, из них 21 убитый и умерший от ран(Citation: 533).
+    О конце восстания источники расходятся: в справке штаба захват Шали и Гойт датирован 11 и 12 декабря 1929 года, у историков падение обоих центров отнесено к середине января 1930-го; о судьбе руководителей одни источники пишут, что они скрылись, другие - что штаб повстанцев в Гойтах погиб(Citation: 369).
+    Весной 1930 года горные округа поднялись снова, и советские войска снова пошли на аулы, уже большими силами.
+    Оккупационное командование округа признало масштаб выступления в докладе краевому комитету партии («крайком ВКП(б)»): «В Чечне, как и в Карачае, мы имели не отдельные бандитские контрреволюционные выступления, а прямое восстание целых районов (Галанчож), в котором почти все население принимало участие в вооруженном выступлении»(Citation: 533).
+    По справке штаба округа о второй операции в Чечне к 14 марта в Чечню были стянуты стрелковые батальоны с батареями, кавалерийские дивизионы и авиазвено: «всего было втянуто в операцию 3920 бойцов при 16 [артиллерийских] орудиях»(Citation: 533).
+    По итоговому докладу командующего оккупационными войсками округа Белова краевому комитету партии по Чечне изъято 1500 единиц оружия, арестовано 122 человека, убито 19 повстанцев(Citation: 533).
+    Авторханов описывает конец похода на Беной: «В конце марта 1930 года Белов, получив свежие части из Закавказья, развернул большое горное наступление с задачей овладеть последним пунктом повстанцев - Беной.
+    После двухмесячных тяжелых боев и больших жертв, в апреле 1930 года, Белов вошел в Беной, но в ауле не застал ни одного жителя: все они, включая женщин и детей, эвакуировались дальше в горные трущобы.
+    Победитель Белов послал к повстанцам парламентеров с предложением почетного мира: всем, кто добровольно возвращался обратно в аул со сдачей оружия, объявлялась амнистия.
+    Повстанцы ответили, что они вернутся обратно в свои аулы только тогда, когда Белов уйдет со своими войсками»(Citation: 369).
+    В марте 1932 года восстал Ножай-Юртовский район; руководили восстанием Муцу Шамилев (нохчи знают его как Моцу Шуанинского), Ибрагим Нинахаджиев, Усман Ушхаев, Хусейн Истамулов и Дада Кебетов; 20 марта 300-400 повстанцев атаковали участок нефтедобычи на горе Стерч-Кертч, ещё 700-800 закрепились на горном хребте, прикрыв район восстания со стороны Хасав-Юрта, города в соседнем Дагестане(Citation: 125).
+    Командующий оккупационными войсками округа Каширин в докладной записке от 31 марта 1932 года доносил военному министру СССР Ворошилову: «Руководство бандой возглавляет некий «имам» Муцу из аула Шуани»(Citation: 533).
+    Девять дней район оставался в руках восставших.
+    Части 28-й Горской стрелковой дивизии и национальный кавалерийский полк подошли к району 26-27 марта, 28 марта в середине дня начались бои, и к 29 марта советские войска захватили район.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «число убитых достигло 333, раненых — 150.
+    Части Красной Армии и оперативные группы ГПУ потеряли всего 27 человек убитыми и 30 ранеными»(Citation: 125).
+  en: |-
+    The Nokhchi rose in arms three times against the forced merging of households into kolkhozes ("collectivization"), and all three times the USSR sent troops against the auls.
+    In December 1929 Shali, Goity and Benoy revolted.
+    The Chechen historian A. G. Avtorkhanov, who worked in Chechnya in those years and later wrote about it in emigration, names the leaders of the uprising: in Shali it was headed by Shita Istamulov, in Goity - by Akhmat-Mullah and Kuriev, in Benoy - by Yaroch and Khodzhas.
+    Shita Istamulov explained why he was taking up arms: "we cannot look on while the Chechens' grain is taken away, while they are ruined and their last property is taken.
+    Fines, searches - if the authorities keep all this up, they will force me to come out with weapon in hand...
+    If we keep looking on at this, they will take everything, down to your last trousers, and kill you naked.
+    Better to die, at least you will know you will be buried in trousers"(Citation: 544).
+    Avtorkhanov writes of the first days of the uprising: "The insurgents occupied all the village and district institutions, burned the state archives, arrested the district authorities, including the chiefs of the GPU [the political police, a predecessor of today's FSB], in Benoy they also seized the oil fields, and established a provisional people's power"(Citation: 369).
+    The insurgents sent their demands to Moscow.
+    As the first point they demanded "Stop the unlawful confiscation of peasant property", as the second - "End the trial-less arrests of peasants", as the third - "Recall the heads of the GPU from Chechnya, replacing them with a civil administration"; by two more points - to abolish the "people's" courts introduced by the Soviet power, with the return of sharia justice, and to restore the powers of the Chechen Congress.
+    They agreed to lay down arms if these conditions were met(Citation: 544).
+    The first attempts of the Soviet troops to seize the auls failed - Shali and Goity fought them off; the staff of the North Caucasus Military District admitted in its memorandum on the first operation of 30 March 1930 that "the successful armed resistance to the local authorities in the auls of Shali and Goity during the seizure of inventoried property served as the final push" toward calling in field units(Citation: 533).
+    The OGPU recorded in its survey of the political condition of the USSR for December 1929: on 7 December "two teips [clans] of the aul of Goity, led by the son of Sheikh Khadzhiev, shut themselves in their quarters, posting an armed guard", and "on 8 December in the village of Shali, over the inventorying of the property of kulaks [peasants declared well-off], the militia was disarmed"; the OGPU calls Shita Istamulov "the former Minister of War of the government of Uzun-Haji" [the North Caucasus emirate of 1919-1920]; the arrest count in the same survey: "220 people arrested in Shali and 144 in Goity.
+    The leaders of the Shali and Goity outbreaks Istamulov, Khadzhiev and Kuriev have gone into hiding"(Citation: 542).
+    The Russian command moved against the peasants, disarmed four years earlier, a detachment formed in Grozny.
+    At its head stood Burichenko, former head of the Vladikavkaz infantry school.
+    After the first failures the command reinforced the detachment with battalions, an artillery divizion and a "detachment of airplanes".
+    On 11 December the troops seized Shali, on the morning of 12 December - Goity, and from 20 to 27 December they attacked the mountain auls of Benoy, Tsentoroy and Zandak.
+    The staff memorandum states: "in the operation as a whole there took part, together with the units of the VOGPU [OGPU troops], 1,904 fighters with 75 heavy and light machine guns"; artillery pieces and seven airplanes are named there as well; the outcome, in the same document: "Over the operation 450 bandits were seized.
+    Up to 60 people killed and wounded"; the troops' losses - 43 men, of them 21 killed or dead of wounds(Citation: 533).
+    On the end of the uprising the sources diverge: in the staff memorandum the seizure of Shali and Goity is dated 11 and 12 December 1929, while the historians place the fall of both centers in mid-January 1930; of the leaders' fate some sources write that they escaped, others - that the insurgent staff in Goity perished(Citation: 369).
+    In the spring of 1930 the mountain okrugs rose again, and the Soviet troops again marched on the auls, now in greater force.
+    The occupation command of the district admitted the scale of the outbreak in its report to the krai committee of the party (the "kraikom VKP(b)"): "In Chechnya, as in Karachay, we had not isolated bandit counter-revolutionary outbreaks, but a direct uprising of entire districts (Galanchozh), in which almost the whole population took part in the armed action"(Citation: 533).
+    By the district staff's memorandum on the second operation in Chechnya, by 14 March rifle battalions with batteries, cavalry divizions and an aviation flight had been massed into Chechnya: "in all, 3,920 fighters with 16 [artillery] pieces were drawn into the operation"(Citation: 533).
+    By the final report of Belov, commander of the occupation troops of the district, to the krai committee of the party, 1,500 units of weapons were seized across Chechnya, 122 people arrested, 19 insurgents killed(Citation: 533).
+    Avtorkhanov describes the end of the march on Benoy: "At the end of March 1930 Belov, having received fresh units from Transcaucasia, unfolded a large mountain offensive with the task of taking the insurgents' last point - Benoy.
+    After two months of heavy fighting and great losses, in April 1930, Belov entered Benoy, but found not a single inhabitant in the aul: all of them, including women and children, had evacuated further into the mountain wilds.
+    The victor Belov sent envoys to the insurgents with an offer of honorable peace: to all who voluntarily returned to the aul with the surrender of weapons, an amnesty was declared.
+    The insurgents replied that they would return to their auls only when Belov left with his troops"(Citation: 369).
+    In March 1932 the Nozhay-Yurt district revolted; the uprising was led by Mutsu Shamilev (the Nokhchi know him as Motsu of Shuani), Ibragim Ninakhadzhiev, Usman Ushkhaev, Khusein Istamulov and Dada Kebetov; on 20 March, 300-400 insurgents attacked the oil extraction site on Mount Sterch-Kertch, another 700-800 dug in on the mountain ridge, covering the uprising's district from the direction of Khasav-Yurt, a town in neighboring Dagestan(Citation: 125).
+    Kashirin, commander of the occupation troops of the district, in a memorandum of 31 March 1932 reported to the Minister of War of the USSR Voroshilov: "The band is headed by a certain 'imam' Mutsu from the aul of Shuani"(Citation: 533).
+    For nine days the district remained in the insurgents' hands.
+    Units of the 28th Mountain Rifle Division and the national cavalry regiment approached the district on 26-27 March, fighting began at midday on 28 March, and by 29 March the Soviet troops had seized the district.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "the number of killed reached 333, of wounded - 150.
+    The units of the Red Army and the operational groups of the GPU lost in all 27 men killed and 30 wounded"(Citation: 125).
+  uk: |-
+    Нохчі тричі піднімалися зі зброєю проти примусового зведення господарств у колгоспи («колективізації»), і всі три рази СРСР посилав проти аулів війська.
+    У грудні 1929 року повстали Шалі, Гойти і Беной.
+    Чеченський історик А. Г. Авторханов, який працював у ті роки в Чечні і писав про це в еміграції, називає керівників повстання: у Шалі його очолив Шита Істамулов, у Гойтах - Ахмат-мулла і Курієв, у Беної - Яроч і Ходжас.
+    Шита Істамулов пояснював, чому береться за зброю: «не можемо дивитися, коли в чеченців забирають хліб, розоряють його і відбирають останнє майно.
+    Штрафи, обшуки – якщо все це влада продовжуватиме – то змусить мене виступити зі зброєю в руках...
+    Якщо далі дивитися на це, то заберуть усе, до останніх штанів, і голого вб'ють.
+    Краще хоч померти, то знатимеш, що поховають у штанах»(Citation: 544).
+    Авторханов пише про перші дні повстання: «Повсталі зайняли всі сільські та районні установи, спалили казенні архіви, заарештували районне начальство, зокрема й шефів ГПУ [політичної поліції, попередниці сучасної ФСБ], у Беної захопили ще й нафтові промисли, і заснували тимчасову народну владу»(Citation: 369).
+    Повсталі надіслали свої вимоги до Москви.
+    Першим пунктом вони зажадали «Зупинити незаконну конфіскацію селянської власності», другим - «Припинити безсудні арешти селян», третім - «Відкликати керівників ГПУ з Чечні, замінивши їх цивільною адміністрацією»; ще двома пунктами - скасувати запроваджені радянською владою «народні» суди з поверненням шаріатського правосуддя і відновити повноваження Чеченського з'їзду.
+    Скласти зброю вони погоджувалися за виконання цих умов(Citation: 544).
+    Перші спроби радянських військ захопити аули провалилися - Шалі й Гойти відбилися; штаб Північно-Кавказького військового округу визнав у довідці по першій операції від 30 березня 1930 року, що «успішний збройний опір місцевій владі в аулах Шалі і Гойтах при вилученні описаного майна став останнім поштовхом» до виклику польових частин(Citation: 533).
+    ОГПУ в огляді політичного стану СРСР за грудень 1929 року записало: 7 грудня «два тейпи [роди] аулу Гойти під проводом сина шейха Хаджиєва замкнулися у своїх кварталах, виставивши озброєну охорону», а «8 грудня в с.
+    Шалі на ґрунті опису майна в куркулів [селян, оголошених заможними] було обеззброєно міліцію»; ОГПУ називає Шиту Істамулова «колишнім військовим міністром уряду Узун-Хаджі» [Північно-Кавказького емірату 1919-1920 років]; лік арештів у тому ж огляді: «заарештовано в Шалях 220 осіб і в Гойтах — 144.
+    Керівники шалінського і гойтинського виступів Істамулов, Хаджиєв і Курієв зникли»(Citation: 542).
+    Російське командування рушило проти селян, обеззброєних чотирма роками раніше, загін, сформований у Грозному.
+    На чолі загону стояв Буриченко, колишній начальник Владикавказької піхотної школи.
+    Після перших невдач командування підсилило загін батальйонами, артилерійським дивізіоном і «загоном літаків». 11 грудня війська захопили Шалі, вранці 12 грудня - Гойти, а з 20 по 27 грудня атакували гірські аули Беной, Центорой і Зандак.
+    У довідці штабу сказано: «в операції в цілому взяли участь усього з частинами ВОГПУ [військ ОГПУ] 1904 бійці при 75 станкових і легких кулеметах»; там же названо артилерійські гармати і сім літаків; підсумок там же: «За операцію вилучено бандитів 450 чол.
+    Убито і поранено до 60 чол.»; втрати військ - 43 людини, з них 21 убитий і померлий від ран(Citation: 533).
+    Про кінець повстання джерела розходяться: у довідці штабу захоплення Шалі і Гойт датовано 11 і 12 грудня 1929 року, в істориків падіння обох центрів віднесено до середини січня 1930-го; про долю керівників одні джерела пишуть, що вони зникли, інші - що штаб повстанців у Гойтах загинув(Citation: 369).
+    Навесні 1930 року гірські округи піднялися знову, і радянські війська знову пішли на аули, вже більшими силами.
+    Окупаційне командування округу визнало масштаб виступу в доповіді крайовому комітетові партії («крайком ВКП(б)»): «У Чечні, як і в Карачаї, ми мали не окремі бандитські контрреволюційні виступи, а пряме повстання цілих районів (Галанчож), у якому майже все населення брало участь у збройному виступі»(Citation: 533).
+    За довідкою штабу округу про другу операцію в Чечні до 14 березня в Чечню було стягнуто стрілецькі батальйони з батареями, кавалерійські дивізіони та авіаланку: «усього було втягнуто в операцію 3920 бійців при 16 [артилерійських] гарматах»(Citation: 533).
+    За підсумковою доповіддю командувача окупаційних військ округу Бєлова крайовому комітетові партії по Чечні вилучено 1500 одиниць зброї, заарештовано 122 особи, вбито 19 повстанців(Citation: 533).
+    Авторханов описує кінець походу на Беной: «Наприкінці березня 1930 року Бєлов, діставши свіжі частини із Закавказзя, розгорнув великий гірський наступ із завданням оволодіти останнім пунктом повстанців - Беноєм.
+    Після двомісячних тяжких боїв і великих жертв, у квітні 1930 року, Бєлов увійшов у Беной, але в аулі не застав жодного жителя: усі вони, включно з жінками і дітьми, евакуювалися далі в гірські нетрі.
+    Переможець Бєлов послав до повстанців парламентерів із пропозицією почесного миру: всім, хто добровільно повертався назад в аул зі здачею зброї, оголошувалася амністія.
+    Повстанці відповіли, що вони повернуться назад у свої аули лише тоді, коли Бєлов піде зі своїми військами»(Citation: 369).
+    У березні 1932 року повстав Ножай-Юртівський район; повстанням керували Муцу Шамілєв (нохчі знають його як Моцу Шуанинського), Ібрагім Нінахаджиєв, Усман Ушхаєв, Хусейн Істамулов і Дада Кебетов; 20 березня 300-400 повстанців атакували дільницю нафтовидобутку на горі Стерч-Кертч, ще 700-800 закріпилися на гірському хребті, прикривши район повстання з боку Хасав-Юрта, міста в сусідньому Дагестані(Citation: 125).
+    Командувач окупаційних військ округу Каширін у доповідній записці від 31 березня 1932 року доносив військовому міністрові СРСР Ворошилову: «Керівництво бандою очолює якийсь «імам» Муцу з аулу Шуані»(Citation: 533).
+    Дев'ять днів район залишався в руках повсталих.
+    Частини 28-ї Гірської стрілецької дивізії і національний кавалерійський полк підійшли до району 26-27 березня, 28 березня в середині дня почалися бої, і до 29 березня радянські війська захопили район.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «число вбитих сягнуло 333, поранених — 150.
+    Частини Червоної армії та оперативні групи ГПУ втратили всього 27 людей убитими і 30 пораненими»(Citation: 125).

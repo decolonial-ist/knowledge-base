@@ -1,0 +1,27 @@
+type: procedure
+id: C1167.T0104
+created: 2026-07-31
+modified: 2026-08-04
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В погроме Чечни 1852 года жертвы среди жителей шли на сотни. 18 января 1852 года на реке Гойте действовал отряд Барятинского, командовавшего на левом фланге Кавказской линии (цепи имперских укреплений на земле нохчи): имперский историк Волконский, участник похода, подвёл итог дня - «мы в этот день... уничтожили до двух тысяч дворов»; счёт по людям он записал так: «Пленных захвачено всего лишь десять человек - и тех едва успели вырвать силою из-под кинжалов казаков.
+    Независимо от горцев, павших собственно в битве, число жертв, погибших в аулах на Гойте, простирается до двухсот человек»(Citation: 119).
+    О набеге на аул Гурдали 11 августа 1852 года источники расходятся: историк Н. И. Покровский передаёт рапорт Барятинского от 21 августа 1852 года - «вырезал все его население, кроме 52 человек, взятых в плен»(Citation: 129); Волконский же, описавший тот же день, утверждает, что аул не пал, отряд отступил с тяжёлыми потерями, и сожалеет: «Если бы мы действительно разорили, сожгли Гурдали, перебили бы все его население... дело вышло бы и существеннее, и полезнее»(Citation: 119) - рапорт Барятинского и рассказ Волконского описывают один и тот же день взаимоисключающим образом.
+    Истребление людей было и заявленным планом: Воронцов, наместник и главнокомандующий на Кавказе, письмом императору от 1-20 марта 1854 года сформулировал задачу минувшей зимы - «окончательное покореніе и истребленіе остающихся немирныхъ по окрестностямъ на плоскости»(Citation: 107) («немирные» - в имперском лексиконе не подчинившиеся империи).
+  en: |-
+    In the pogrom of Chechnya of 1852 the victims among the inhabitants ran into the hundreds.
+    On 18 January 1852 on the Goyta river operated the detachment of Baryatinsky, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi): imperial historian Volkonsky, a participant in the march, summed up the day - "on that day we... destroyed up to two thousand households"; the count in people he recorded thus: "Only ten prisoners were taken - and even those were barely torn by force from under the daggers of the Cossacks.
+    Apart from the highlanders who fell in the battle proper, the number of victims who perished in the auls on the Goyta reaches two hundred people"(Citation: 119).
+    On the raid against the aul Gurdali of 11 August 1852 the sources diverge: historian N. I. Pokrovsky conveys Baryatinsky's report of 21 August 1852 - he "slaughtered its entire population, except for 52 people taken prisoner"(Citation: 129); Volkonsky, who described the same day, asserts that the aul did not fall, the detachment withdrew with heavy losses, and regrets: "If we had really devastated and burned Gurdali, slaughtered its entire population... the affair would have come out both more substantial and more useful"(Citation: 119) - Baryatinsky's report and Volkonsky's account describe one and the same day in mutually exclusive ways.
+    The annihilation of people was also a declared plan: Vorontsov, viceroy and commander-in-chief in the Caucasus, in a letter to the Emperor of 1-20 March 1854, formulated the task of the past winter - "the final subjugation and annihilation of the remaining unpacified in the environs on the plain"(Citation: 107) ("unpacified" in the imperial lexicon means those who had not submitted to the empire).
+  uk: |-
+    У погромі Чечні 1852 року жертви серед жителів ішли на сотні. 18 січня 1852 року на річці Гойті діяв загін Барятинського, що командував на лівому фланзі Кавказької лінії (ланцюга імперських укріплень на землі нохчі): імперський історик Волконський, учасник походу, підбив підсумок дня - «ми в цей день... знищили до двох тисяч дворів»; рахунок по людях він записав так: «Полонених захоплено всього лише десять людей - і тих ледве встигли вирвати силою з-під кинджалів козаків.
+    Незалежно від горців, що полягли власне в битві, число жертв, які загинули в аулах на Гойті, сягає двохсот людей»(Citation: 119).
+    Про набіг на аул Гурдалі 11 серпня 1852 року джерела розходяться: історик М. І. Покровський передає рапорт Барятинського від 21 серпня 1852 року - «вирізав усе його населення, крім 52 людей, узятих у полон»(Citation: 129); Волконський же, що описав той самий день, стверджує, що аул не впав, загін відступив із тяжкими втратами, і шкодує: «Якби ми справді розорили, спалили Гурдалі, перебили б усе його населення... діло вийшло б і суттєвіше, і корисніше»(Citation: 119) - рапорт Барятинського і розповідь Волконського описують один і той самий день взаємовиключним чином.
+    Винищення людей було і заявленим планом: Воронцов, намісник і головнокомандувач на Кавказі, листом імператору від 1-20 березня 1854 року сформулював завдання минулої зими - «остаточне підкорення і винищення немирних, що залишаються, по околицях на площині»(Citation: 107) («немирні» - в імперському лексиконі ті, хто не підпорядкувався імперії).

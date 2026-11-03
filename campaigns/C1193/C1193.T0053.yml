@@ -1,0 +1,160 @@
+type: procedure
+id: C1193.T0053
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0053
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты похищали чеченцев и скрывали информацию о судьбе, местонахождении или состоянии от их родных.
+
+    Российские военные, бойцы ОМОНа (милицейского спецназа) и внутренних войск МВД России (предшественников современной Росгвардии) задерживали чеченцев на блокпостах и уводили из домов, иногда ночью(Citation: 922)(Citation: 27)(Citation: 986).
+    Российские солдаты проверяли паспорта по спискам для ареста, которые получали из МВД России, задерживали по ним чеченцев даже с документами и пропусками, а затем передавали в штаб МВД России в Ичкерии.
+    В эти списки также попадали женщины и старики(Citation: 988).
+
+    Российские военные и милиционеры не давали задержанным чеченцам сообщить о себе семье, и родные считали их пропавшими без вести.
+    Оккупанты сажали похищенных в ямы при воинских частях и не регистрировали арест (подробнее: «Система фильтрационных лагерей»)(Citation: 27)(Citation: 986).
+
+    Российские военные везли задержанных чеченцев из комендатур в фильтрационные лагеря, и по дороге люди часто бесследно пропадали.
+    Когда родные узнавали, где держат человека, российская охрана сразу увозила его оттуда(Citation: 988).
+
+    На запросы о пропавших, которые значились в списках фильтрационных лагерей, российские ведомства отвечали, что этих людей отпустили(Citation: 27).
+    Чеченское общество «Жертвы войны» разыскивало чеченцев, которых оккупанты задержали в Грозном и на блокпостах с 11 декабря 1994 года по май 1995 года, и не нашло ни одного из них в российском списке 252 отпущенных.
+    По адресам из российских списков женщины из общества не находили людей с такими фамилиями(Citation: 988).
+
+    Родные пропавших подавали заявления в общество «Жертвы войны».
+    На 8 августа 1995 года пропавшими без вести числились 1308 мирных граждан Ичкерии(Citation: 27).
+    К середине октября 1996 года в списке общества было 1432 пропавших чеченца(Citation: 657).
+    Весной 1997 года Ичкерия передала России список из 1563 пропавших(Citation: 27).
+
+    Российские военные пытали и убивали часть похищенных, а родные потом находили их тела там, где стояли российские части (подробнее: «Убийство пленных и задержанных»)(Citation: 27).
+
+    9 января 1995 года оккупанты задержали в Грозном Шамсу Магомадова, и охрана фильтрационного лагеря в Моздоке, городе в подконтрольной России Северной Осетии, записала, что отпустила его 2 февраля(Citation: 988).
+    Шамса Магомадов не вернулся домой, а зимой 1995-1996 годов МВД России обещало его сестре обменять брата на пленного российского солдата (подробнее: «Захват заложников»)(Citation: 988)(Citation: 27). 21 мая 1995 года на блокпосту № 13 у Самашек, села на западе Ичкерии, российские военные задержали Руслана Паршоева из этого села, и российский майор Морозов увёз его в свою часть у Ассиновской, станицы на западе Ичкерии.
+    На следующий день начальник штаба внутренних войск МВД России в Ичкерии Львов приказал отправить задержанного в Ханкалу, главную базу оккупационных войск на восточной окраине Грозного, где его забрали бойцы отряда спецназа «Русь», и Руслан Паршоев пропал без вести(Citation: 27).
+    Летом 1995 года оккупанты похитили на блокпосту по дороге в Грозный Хамада Курбанова, представителя президента Ичкерии в России, только что вышедшего на свободу после месяца без обвинения в московской тюрьме(Citation: 1293).
+    Российская охрана держала Хамада Курбанова в яме у Ассиновской и в фильтрационном лагере в Грозном, пока комиссия при международной миссии ОБСЕ не добилась его освобождения на переговорах России и Ичкерии(Citation: 988). 23 декабря 1995 года российские военные по спискам забрали на блокпосту у въезда в Грозный Руслана Сосламбекова, председателя движения «Народная дипломатия за мир и единство», 28 дней не выпускали из фильтрационного лагеря на окраине города, затем отпустили(Citation: 986).
+
+    В феврале 1996 года российские военные остановили на блокпостах 26 знакомых Мадины Магомадовой из общества «Жертвы войны», и все они пропали(Citation: 988).
+
+    1 августа 1996 года на рассвете бойцы ОМОНа МВД России на вертолётах, джипах и бронетранспортёрах напали на посёлок Долинский к северо-западу от Грозного(Citation: 1275).
+    Мовла Идрисов из Долинского в день налёта рассказал корреспонденту агентства Reuters, что омоновцы зашли на первый и второй этажи, увели всех мужчин, которых нашли, и оставили одного: 65-летнего, с одной ногой, на костылях(Citation: 1428).
+    В срочном обращении Amnesty International от 6 августа 1996 года сказано, что омоновцы увели 18 чеченцев, среди них Асланбека Гассаева и Умаха Могамедова: «Мужчин с мешками на головах повели к ожидавшему автобусу и увезли.
+    С тех пор их никто не видел»(Citation: 1275).
+    В 1996 году Рабочая группа ООН по насильственным исчезновениям запросила у России сведения о судьбе двоих из них, а в 1997 году Россия ответила, что их дела расследуют Генеральная прокуратура, МВД и ФСБ(Citation: 1429)(Citation: 1430).
+
+    24 августа 1996 года восемь российских солдат увели со двора в Грозном 67-летнего инвалида Алексея Кармаева, который жаловался в штаб 276-го полка российской армии на грабежи, после чего инвалид пропал без вести(Citation: 657)(Citation: 1152).
+
+    К концу октября 1996 года тюремное ведомство МВД России ответило на список из более чем 1300 пропавших, переданный после прекращения огня в июне 1996 года, что сорок человек из списка сидели под стражей и вышли на свободу, но все сорок вышли до 1993 года, ещё до войны.
+    Об остальных ведомство не сообщило. 22 января 1997 года офицер российской группы розыска Измайлов сказал в эфире телеканала ОРТ, что пропавших чеченцев, скорее всего, нет в живых, и не уточнил, убили ли их российские военные в бою или расстреляли при задержании, или они умерли под стражей(Citation: 657).
+    В январе 1998 года Рабочая группа ООН по насильственным исчезновениям сообщила, что Россия не выяснила судьбу ни одного пропавшего, о котором её запрашивали(Citation: 1430).
+
+    10 июня 1996 года рабочие группы России и Ичкерии по розыску пропавших договорились прекратить задержания по спискам и другим бумагам без законной силы(Citation: 1300).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    The occupiers abducted Chechens and concealed information about their fate, whereabouts or condition from their relatives.
+
+    Russian servicemen, fighters of OMON (police special forces) and of the Internal Troops of the Russian Ministry of Internal Affairs (predecessors of today's Rosgvardia) detained Chechens at checkpoints and led them away from their homes, sometimes at night(Citation: 922)(Citation: 27)(Citation: 986).
+    Russian soldiers checked passports against arrest lists, which they received from the Russian Ministry of Internal Affairs, detained Chechens by them even with documents and passes, and then handed them over to the headquarters of the Russian Ministry of Internal Affairs in Ichkeria.
+    Women and old people also ended up on these lists(Citation: 988).
+
+    Russian servicemen and police officers did not let detained Chechens inform their families about themselves, and their relatives considered them missing.
+    The occupiers put the abducted in pits at military units and did not register the arrest (see: "Filtration Camp System")(Citation: 27)(Citation: 986).
+
+    The Russian military transported detained Chechens from commandant's offices to filtration camps, and on the way people often disappeared without a trace.
+    When relatives found out where a person was being held, the Russian guards immediately moved him elsewhere(Citation: 988).
+
+    To inquiries about missing people who appeared on the lists of the filtration camps, Russian agencies replied that these people had been released(Citation: 27).
+    The Chechen society "Victims of War" searched for Chechens whom the occupiers had detained in Grozny and at checkpoints from 11 December 1994 to May 1995, and did not find a single one of them on the Russian list of 252 released.
+    At the addresses from the Russian lists, the women of the society found no people with such surnames(Citation: 988).
+
+    Relatives of the missing filed statements with the society "Victims of War".
+    As of 8 August 1995, 1308 peaceful citizens of Ichkeria were listed as missing(Citation: 27).
+    By mid-October 1996, the society's list held 1432 missing Chechens(Citation: 657).
+    In the spring of 1997, Ichkeria handed Russia a list of 1563 missing(Citation: 27).
+
+    The Russian military tortured and killed some of the abducted, and relatives later found their bodies where Russian units had been stationed (see: "Killing of Prisoners and Detainees")(Citation: 27).
+
+    On 9 January 1995, the occupiers detained Shamsa Magomadov in Grozny, and the guards of the filtration camp in Mozdok, a town in Russian-controlled North Ossetia, recorded that they had released him on 2 February(Citation: 988).
+    Shamsa Magomadov did not return home, and in the winter of 1995-1996 the Russian Ministry of Internal Affairs promised his sister to exchange her brother for a captured Russian soldier (see: "Hostage-Taking")(Citation: 988)(Citation: 27).
+    On 21 May 1995, at checkpoint No. 13 near Samashki, a village in the west of Ichkeria, the Russian military detained Ruslan Parshoev from that village, and the Russian major Morozov took him to his unit near Assinovskaya, a stanitsa in the west of Ichkeria.
+    The next day, Lvov, the chief of staff of the Internal Troops of the Russian Ministry of Internal Affairs in Ichkeria, ordered the detainee sent to Khankala, the main base of the occupation troops on the eastern outskirts of Grozny, where he was taken by fighters of the "Rus" special forces unit, and Ruslan Parshoev went missing(Citation: 27).
+    In the summer of 1995, the occupiers abducted at a checkpoint on the road to Grozny Khamad Kurbanov, the representative of the president of Ichkeria in Russia, who had just been released after a month without charge in a Moscow prison(Citation: 1293).
+    Russian guards held Khamad Kurbanov in a pit near Assinovskaya and in the filtration camp in Grozny until a commission under the international OSCE mission secured his release at the negotiations between Russia and Ichkeria(Citation: 988).
+    On 23 December 1995, the Russian military, working from lists, took Ruslan Soslambekov, chairman of the movement "People's Diplomacy for Peace and Unity", at a checkpoint at the entrance to Grozny, kept him for 28 days in the filtration camp on the outskirts of the city, then released him(Citation: 986).
+
+    In February 1996, the Russian military stopped at checkpoints 26 acquaintances of Madina Magomadova from the society "Victims of War", and all of them disappeared(Citation: 988).
+
+    At dawn on 1 August 1996, OMON fighters of the Russian Ministry of Internal Affairs in helicopters, jeeps and armored personnel carriers attacked the settlement of Dolinsky north-west of Grozny(Citation: 1275).
+    Movla Idrisov from Dolinsky told a Reuters correspondent on the day of the raid that the OMON men went into the first and second floors, led away all the men they found, and left one: a 65-year-old with one leg, on crutches(Citation: 1428).
+    The urgent action of Amnesty International of 6 August 1996 says that the OMON men led away 18 Chechens, among them Aslanbek Gassayev and Umakh Mogamedov: "The men were led with sacks over their heads to a waiting bus and driven away.
+    They have not been seen since"(Citation: 1275).
+    In 1996, the UN Working Group on Enforced Disappearances requested from Russia information on the fate of two of them, and in 1997 Russia replied that their cases were being investigated by the Prosecutor General's Office, the Ministry of Internal Affairs and the FSB(Citation: 1429)(Citation: 1430).
+
+    On 24 August 1996, eight Russian soldiers led away from a yard in Grozny Aleksei Karmayev, a 67-year-old disabled man who had complained to the headquarters of the 276th Regiment of the Russian army about looting, after which the disabled man went missing(Citation: 657)(Citation: 1152).
+
+    By the end of October 1996, the prison department of the Russian Ministry of Internal Affairs replied to a list of more than 1300 missing, handed over after the ceasefire in June 1996, that forty people from the list had been held in custody and released, but all forty had been released before 1993, before the war.
+    About the rest the department said nothing.
+    On 22 January 1997, Izmailov, an officer of the Russian search group, said on air on the ORT television channel that the missing Chechens were most likely no longer alive, and did not specify whether the Russian military had killed them in battle or shot them on detention, or whether they had died in custody(Citation: 657).
+    In January 1998, the UN Working Group on Enforced Disappearances reported that Russia had not clarified the fate of a single missing person about whom it had been asked(Citation: 1430).
+
+    On 10 June 1996, the working groups of Russia and Ichkeria on the search for the missing agreed to stop detentions based on lists and other papers without legal force(Citation: 1300).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти викрадали чеченців і приховували від їхніх рідних інформацію про долю, місцеперебування чи стан.
+
+    Російські військові, бійці ОМОНу (міліцейського спецназу) та внутрішніх військ МВС Росії (попередників сучасної Росгвардії) затримували чеченців на блокпостах і забирали з домівок, іноді вночі(Citation: 922)(Citation: 27)(Citation: 986).
+    Російські солдати перевіряли паспорти за списками для арешту, які отримували з МВС Росії, затримували за ними чеченців навіть із документами й перепустками, а потім передавали до штабу МВС Росії в Ічкерії.
+    До цих списків потрапляли й жінки та старі люди(Citation: 988).
+
+    Російські військові та міліціонери не давали затриманим чеченцям повідомити про себе родині, і рідні вважали їх зниклими безвісти.
+    Окупанти садили викрадених у ями при військових частинах і не реєстрували арешт (докладніше: «Система фільтраційних таборів»)(Citation: 27)(Citation: 986).
+
+    Російські військові везли затриманих чеченців із комендатур до фільтраційних таборів, і дорогою люди часто безслідно зникали.
+    Коли рідні дізнавалися, де тримають людину, російська охорона одразу вивозила її звідти(Citation: 988).
+
+    На запити про зниклих, які значилися у списках фільтраційних таборів, російські відомства відповідали, що цих людей відпустили(Citation: 27).
+    Чеченське товариство «Жертви війни» розшукувало чеченців, яких окупанти затримали в Грозному і на блокпостах з 11 грудня 1994 року по травень 1995 року, і не знайшло жодного з них у російському списку 252 відпущених.
+    За адресами з російських списків жінки з товариства не знаходили людей із такими прізвищами(Citation: 988).
+
+    Рідні зниклих подавали заяви до товариства «Жертви війни».
+    На 8 серпня 1995 року зниклими безвісти значилися 1308 мирних громадян Ічкерії(Citation: 27).
+    До середини жовтня 1996 року в списку товариства було 1432 зниклих чеченці(Citation: 657).
+    Навесні 1997 року Ічкерія передала Росії список із 1563 зниклих(Citation: 27).
+
+    Російські військові катували й убивали частину викрадених, а рідні потім знаходили їхні тіла там, де стояли російські частини (докладніше: «Вбивство полонених і затриманих»)(Citation: 27).
+
+    9 січня 1995 року окупанти затримали в Грозному Шамсу Магомадова, і охорона фільтраційного табору в Моздоку, місті в підконтрольній Росії Північній Осетії, записала, що відпустила його 2 лютого(Citation: 988).
+    Шамса Магомадов не повернувся додому, а взимку 1995-1996 років МВС Росії обіцяло його сестрі обміняти брата на полоненого російського солдата (докладніше: «Захоплення заручників»)(Citation: 988)(Citation: 27). 21 травня 1995 року на блокпосту № 13 біля Самашок, села на заході Ічкерії, російські військові затримали Руслана Паршоєва з цього села, і російський майор Морозов відвіз його до своєї частини біля Ассиновської, станиці на заході Ічкерії.
+    Наступного дня начальник штабу внутрішніх військ МВС Росії в Ічкерії Львов наказав відправити затриманого в Ханкалу, головну базу окупаційних військ на східній околиці Грозного, де його забрали бійці загону спецназу «Русь», і Руслан Паршоєв зник безвісти(Citation: 27).
+    Улітку 1995 року окупанти викрали на блокпосту дорогою до Грозного Хамада Курбанова, представника президента Ічкерії в Росії, який щойно вийшов на волю після місяця без звинувачення в московській в'язниці(Citation: 1293).
+    Російська охорона тримала Хамада Курбанова в ямі біля Ассиновської та у фільтраційному таборі в Грозному, поки комісія при міжнародній місії ОБСЄ не домоглася його звільнення на переговорах Росії та Ічкерії(Citation: 988). 23 грудня 1995 року російські військові за списками забрали на блокпосту біля в'їзду до Грозного Руслана Сосламбекова, голову руху «Народна дипломатія за мир і єдність», 28 днів не випускали з фільтраційного табору на околиці міста, потім відпустили(Citation: 986).
+
+    У лютому 1996 року російські військові зупинили на блокпостах 26 знайомих Мадіни Магомадової з товариства «Жертви війни», і всі вони зникли(Citation: 988).
+
+    1 серпня 1996 року на світанку бійці ОМОНу МВС Росії на гелікоптерах, джипах і бронетранспортерах напали на селище Долинський на північний захід від Грозного(Citation: 1275).
+    Мовла Ідрісов із Долинського в день нальоту розповів кореспондентові агентства Reuters, що омонівці зайшли на перший і другий поверхи, забрали всіх чоловіків, яких знайшли, і залишили одного: 65-річного, з однією ногою, на милицях(Citation: 1428).
+    У терміновому зверненні Amnesty International від 6 серпня 1996 року сказано, що омонівці забрали 18 чеченців, серед них Асланбека Гассаєва та Умаха Могамедова: «Чоловіків із мішками на головах повели до автобуса, що чекав, і повезли.
+    Відтоді їх ніхто не бачив»(Citation: 1275).
+    У 1996 році Робоча група ООН з насильницьких зникнень запитала в Росії відомості про долю двох із них, а в 1997 році Росія відповіла, що їхні справи розслідують Генеральна прокуратура, МВС і ФСБ(Citation: 1429)(Citation: 1430).
+
+    24 серпня 1996 року восьмеро російських солдатів повели з двору в Грозному 67-річного інваліда Олексія Кармаєва, який скаржився до штабу 276-го полку російської армії на грабежі, після чого інвалід зник безвісти(Citation: 657)(Citation: 1152).
+
+    До кінця жовтня 1996 року тюремне відомство МВС Росії відповіло на список із понад 1300 зниклих, переданий після припинення вогню в червні 1996 року, що сорок людей зі списку сиділи під вартою і вийшли на волю, але всі сорок вийшли до 1993 року, ще до війни.
+    Про решту відомство не повідомило. 22 січня 1997 року офіцер російської групи розшуку Ізмайлов сказав в ефірі телеканалу ОРТ, що зниклих чеченців, найімовірніше, немає серед живих, і не уточнив, чи вбили їх російські військові в бою, чи розстріляли під час затримання, чи вони померли під вартою(Citation: 657).
+    У січні 1998 року Робоча група ООН з насильницьких зникнень повідомила, що Росія не з'ясувала долю жодного зниклого, про якого її запитували(Citation: 1430).
+
+    10 червня 1996 року робочі групи Росії та Ічкерії з розшуку зниклих домовилися припинити затримання за списками та іншими паперами без законної сили(Citation: 1300).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

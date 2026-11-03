@@ -1,0 +1,70 @@
+type: procedure
+id: C0074.T0162.004
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0162.004
+people: ukrainians
+actor: G0013
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Тайная полиция большевиков истязала в захваченных городах задержанных украинцев: допросы с избиениями и пытками без различия пола и возраста, карцеры-шкафы и залитые водой погреба, инсценированные расстрелы, штатные палачи с платой за расстрелянного.
+    В Киеве это зафиксировал Красный Крест: доклад Центрального комитета Российского общества Красного Креста о деятельности киевской тайной полиции, составленный по наблюдениям сестёр милосердия за февраль - август 1919 года и подписанный исполняющим должность председателя комитета врачом Лодыженским, описывает допросы: «Как только человек попадал во власть ЧК [тайной полиции], он терял все человеческие права...
+    С первого же допроса начинался крик... начинались жестокие, сопровождавшиеся издевательствами, побои.
+    Ни возраст, ни пол не ограждали от них» - «четырнадцатилетнюю дочь артистки Е. К. Чалеевой жестоко избили на глазах матери, чтобы добиться более откровенных показаний и от дочери, и от матери», следователь избил 60-летнюю Воровскую в присутствии её арестованной дочери(Citation: 569).
+    Арестованных украинцев держали в залитом водой погребе без окон и в стенном шкафу - в нём, по докладу, «можно было только сидеть скорчившись».
+    Дознание вели инсценированными казнями: Устинского «отводили на место казни в подвал, раздевали, клали на пол...
+    Выстрел действительно раздавался, но с таким расчетом, чтобы пуля пролетела близко, но мимо.
+    Так близко, что... вся кожа на руках Устинского была обожжена.
+    Такая стрельба повторялась много раз.
+    В конце концов Устинского застрелили»; Солнцева заставляли присутствовать при казнях и запирали в подвале «последнего живого среди неостывших трупов» - ночью на допросе он сошёл с ума, что по требованию следователей констатировал врач-психиатр Киричевский, сам заключённый.
+    Итог семи месяцев наблюдений одна из сестёр сформулировала так: «не было ни вырванных ногтей, ни погон, прибитых к плечам, ни содранной кожи, ни людей, ошпаренных кипятком.
+    Но вся их жизнь была одной сплошной пыткой»(Citation: 569).
+
+    В Одессе очевидец, сидевший под арестом в одесской тайной полиции и издавший воспоминания там же в 1919 году под псевдонимом К. Алинин, записал со слов штатного палача Абаша, как один из руководителей этой тайной полиции вёл допрос: он «"разменивал человека по частям".
+    Он обыкновенно садился перед своей жертвой и начинал его расспрашивать. - Офицер? - прищуривался... и, прицелившись из револьвера, пробивал кисть руки мученика. - Может быть, полковник? - И пуля раздробляла локоть»; за каждого расстрелянного, по словам того же Абаша, тайная полиция платила палачу(Citation: 597).
+
+    В Харькове комендант харьковской тайной полиции Саенко истязал допрашиваемых сам: его «излюбленный способ», по показаниям, собранным следственной комиссией белых, выглядел так: «он вонзал кинжал на сантиметр в тело допрашиваемого и затем поворачивал его в ране», истязания шли «в кабинете следователя "особого отдела", на глазах Якимовича, его помощников и следователя Любарского».
+    То же независимо подтвердил сидевший в харьковской тюрьме левый эсер Карелин: «Обыкновенно всех приговоренных Саенко расстреливал собственноручно...
+    При нас в Харьковской тюрьме он застрелил больного на носилках»(Citation: 562).
+  en: |-
+    The Bolsheviks' secret police tortured detained Ukrainians in the captured cities: interrogations with beatings and torture regardless of sex or age, closet-cells and cellars flooded with water, staged executions, staff executioners paid per person shot.
+    In Kyiv this was put on record by the Red Cross: the report of the Central Committee of the Russian Red Cross Society on the activity of the Kyiv secret police, compiled from the observations of nursing sisters over February - August 1919 and signed by the committee's acting chairman, doctor Lodyzhensky, describes the interrogations: "As soon as a person fell into the power of the ChK [the secret police], he lost all human rights...
+    From the very first interrogation the screaming began... cruel beatings began, accompanied by abuse.
+    Neither age nor sex protected from them" - "the fourteen-year-old daughter of the actress E. K. Chaleeva was cruelly beaten before her mother's eyes, to extract more candid testimony from both daughter and mother"; an investigator beat 60-year-old Vorovskaya in the presence of her arrested daughter(Citation: 569).
+    The arrested Ukrainians were kept in a windowless cellar flooded with water and in a wall closet in which, according to the report, "one could only sit hunched."
+    Interrogation was conducted by staged executions: Ustinsky "was led to the place of execution in the basement, undressed, laid on the floor...
+    The shot did ring out, but calculated so that the bullet flew close but past.
+    So close that... all the skin on Ustinsky's hands was scorched.
+    Such shooting was repeated many times.
+    In the end Ustinsky was shot dead"; Solntsev was forced to attend executions and locked in the basement as "the last living man among the still-warm corpses" - at a night interrogation he went mad, which, at the investigators' demand, was certified by the psychiatrist Kirichevsky, himself a prisoner.
+    One of the sisters summed up seven months of observation thus: "there were no torn-out fingernails, no epaulettes nailed to shoulders, no flayed skin, no people scalded with boiling water.
+    But their whole life was one continuous torture"(Citation: 569).
+
+    In Odesa an eyewitness who had been held under arrest in the Odesa secret police and published his memoirs there in 1919 under the pseudonym K. Alinin recorded, from the words of the staff executioner Abash, how one of the chiefs of that secret police conducted interrogation: he "'broke a person up by parts.' He would usually sit down before his victim and begin questioning him. - An officer? - he would squint... and, taking aim with his revolver, shoot through the martyr's hand. - A colonel, perhaps? - And the bullet would shatter the elbow"; for each person shot, by the same Abash's words, the secret police paid the executioner(Citation: 597).
+
+    In Kharkiv Saenko, commandant of the Kharkiv secret police, tortured the interrogated himself: his "favourite method," by testimony collected by the Whites' investigative commission, was this: "he would plunge a dagger a centimetre into the body of the person under interrogation and then turn it in the wound," and the torture went on "in the office of the investigator of the 'special department,' before the eyes of Yakimovich, his assistants and investigator Lyubarsky."
+    The same was independently confirmed by the left SR Karelin, held in the Kharkiv prison: "Usually Saenko shot all the condemned with his own hand...
+    In our presence in the Kharkiv prison he shot a sick man on a stretcher"(Citation: 562).
+  uk: |-
+    Таємна поліція більшовиків катувала в захоплених містах затриманих українців: допити з побоями й тортурами без різниці статі та віку, карцери-шафи й залиті водою погреби, інсценовані розстріли, штатні кати з платою за розстріляного.
+    У Києві це зафіксував Червоний Хрест: доповідь Центрального комітету Російського товариства Червоного Хреста про діяльність київської таємної поліції, складена за спостереженнями сестер милосердя за лютий - серпень 1919 року й підписана виконувачем обов'язків голови комітету лікарем Лодиженським, описує допити: «Щойно людина потрапляла у владу ЧК [таємної поліції], вона втрачала всі людські права...
+    З першого ж допиту починався крик... починалися жорстокі, супроводжувані знущаннями, побої.
+    Ні вік, ні стать не захищали від них» - «чотирнадцятирічну доньку артистки Є. К. Чалєєвої жорстоко побили на очах матері, щоб добитися відвертіших свідчень і від доньки, і від матері», слідчий побив 60-річну Воровську в присутності її заарештованої доньки(Citation: 569).
+    Заарештованих українців тримали в залитому водою погребі без вікон і в стінній шафі - у ній, за доповіддю, «можна було тільки сидіти скорчившись».
+    Дізнання вели інсценованими стратами: Устинського «відводили на місце страти в підвал, роздягали, клали на підлогу...
+    Постріл справді лунав, але з таким розрахунком, щоб куля пролетіла близько, але повз.
+    Так близько, що... вся шкіра на руках Устинського була обпалена.
+    Така стрільба повторювалася багато разів.
+    Зрештою Устинського застрелили»; Солнцева змушували бути присутнім на стратах і замикали в підвалі «останнім живим серед іще теплих трупів» - уночі на допиті він збожеволів, що на вимогу слідчих констатував лікар-психіатр Кирічевський, сам ув'язнений.
+    Підсумок семи місяців спостережень одна з сестер сформулювала так: «не було ні вирваних нігтів, ні погонів, прибитих до плечей, ні здертої шкіри, ні людей, ошпарених окропом.
+    Але все їхнє життя було однією суцільною тортурою»(Citation: 569).
+
+    В Одесі очевидець, що сидів під арештом в одеській таємній поліції і видав спогади там же 1919 року під псевдонімом К. Алінін, записав зі слів штатного ката Абаша, як один із керівників цієї таємної поліції вів допит: він «„розмінював людину частинами".
+    Він звичайно сідав перед своєю жертвою і починав її розпитувати. - Офіцер? - примружувався... і, прицілившись із револьвера, пробивав кисть руки мученика. - Може, полковник? - І куля роздроблювала лікоть»; за кожного розстріляного, за словами того ж Абаша, таємна поліція платила катові(Citation: 597).
+
+    У Харкові комендант харківської таємної поліції Саєнко катував допитуваних сам: його «улюблений спосіб», за свідченнями, зібраними слідчою комісією білих, виглядав так: «він устромляв кинджал на сантиметр у тіло допитуваного, а потім повертав його в рані», катування йшли «в кабінеті слідчого „особливого відділу", на очах Якимовича, його помічників і слідчого Любарського».
+    Те саме незалежно підтвердив лівий есер Карелін, що сидів у харківській тюрмі: «Звичайно всіх засуджених Саєнко розстрілював власноруч...
+    При нас у Харківській тюрмі він застрелив хворого на ношах»(Citation: 562).

@@ -1,0 +1,39 @@
+type: campaign
+id: C0074
+created: 2026-04-27
+modified: 2026-10-27
+version: '1.4'
+people: ukrainians
+first_seen: 1919-01-01
+last_seen: 1919-12-31
+contributors: []
+name:
+  ru: 'Советско-Украинская война: второе вторжение и ресурсное истощение (1919)'
+  en: 'Soviet-Ukrainian War: Second Invasion and Resource Depletion (1919)'
+  uk: 'Радянсько-Українська війна: друге вторгнення і ресурсне виснаження (1919)'
+description:
+  ru: |-
+    После капитуляции Германии в Первой мировой войне германские и австро-венгерские войска, занимавшие Украину с весны 1918 года, ушли(Citation: 185) - и в январе 1919 года войска РСФСР вторглись в Украину во второй раз: Советско-Украинская война продолжилась(Citation: 185).
+    Ширма была собрана заранее: ещё 28 ноября 1918 года Центральный комитет большевистской партии (ЦК РКП(б)) создал в российском Курске «Временное рабоче-крестьянское правительство Украины» для политического прикрытия вторжения(Citation: 334).
+    Целью были ресурсы захваченной земли: глава правительства РСФСР Ленин советовал петроградским рабочим ехать в Украину за провизией и топливом - «Глупо голодать, гибнуть в Питере, когда можно отвоевать хлеб и уголь»(Citation: 576).
+    Сёла на изъятие хлеба ответили восстаниями, и войну с ними российское командование считало фронтовой работой(Citation: 571).
+    Летом 1919 года в Украину пришла вторая российская армия - Вооружённые силы Юга России генерала Деникина («белые»), тоже отрицавшие украинскую государственность(Citation: 248). 30 августа 1919 года украинские войска заняли оставленный большевиками Киев, но уже 31 августа их вытеснили белые - этот день вошёл в историю как «Киевская катастрофа»(Citation: 192).
+    К осени 1919 года белые вытеснили войска РСФСР и установили свою военную диктатуру на большей части Украины(Citation: 186).
+    В декабре 1919 года советская Россия вторглась в третий раз (кампания C0104).
+  en: |-
+    After Germany's capitulation in World War I, the German and Austro-Hungarian troops that had occupied Ukraine since the spring of 1918 left(Citation: 185) - and in January 1919 RSFSR troops invaded Ukraine for the second time: the Soviet-Ukrainian War went on(Citation: 185).
+    The cover had been prepared in advance: as early as 28 November 1918, the Central Committee of the Bolshevik party (CC RCP(b)) created a "Provisional Workers' and Peasants' Government of Ukraine" in the Russian city of Kursk to provide political cover for the invasion(Citation: 334).
+    The goal was the resources of the captured land: the head of the RSFSR government, Lenin, advised Petrograd workers to go to Ukraine for provisions and fuel - "It is foolish to starve and perish in Petrograd when you can win back bread and coal"(Citation: 576).
+    The villages answered the grain seizures with uprisings, and the Russian command treated the war against them as frontline work(Citation: 571).
+    In the summer of 1919 a second Russian army came to Ukraine - the Armed Forces of South Russia under General Denikin (the "Whites"), who likewise denied Ukrainian statehood(Citation: 248).
+    On 30 August 1919 Ukrainian troops took Kyiv, abandoned by the Bolsheviks, but on 31 August the Whites pushed them out - the day went down in history as the "Kyiv Catastrophe"(Citation: 192).
+    By the autumn of 1919 the Whites had driven out the RSFSR troops and established their military dictatorship over most of Ukraine(Citation: 186).
+    In December 1919 Soviet Russia invaded for the third time (campaign C0104).
+  uk: |-
+    Після капітуляції Німеччини в Першій світовій війні німецькі й австро-угорські війська, що займали Україну з весни 1918 року, пішли(Citation: 185) - і в січні 1919 року війська РСФРР вторглися в Україну вдруге: Радянсько-Українська війна продовжилася(Citation: 185).
+    Ширму було зібрано заздалегідь: ще 28 листопада 1918 року Центральний комітет більшовицької партії (ЦК РКП(б)) створив у російському Курську «Тимчасовий робітничо-селянський уряд України» для політичного прикриття вторгнення(Citation: 334).
+    Метою були ресурси захопленої землі: голова уряду РСФРР Ленін радив петроградським робітникам їхати в Україну по провізію і паливо - «Нерозумно голодувати, гинути в Пітері, коли можна відвоювати хліб і вугілля»(Citation: 576).
+    Села на вилучення хліба відповіли повстаннями, і війну з ними російське командування вважало фронтовою роботою(Citation: 571).
+    Влітку 1919 року в Україну прийшла друга російська армія - Збройні сили Півдня Росії генерала Денікіна («білі»), що так само заперечували українську державність(Citation: 248). 30 серпня 1919 року українські війська зайняли залишений більшовиками Київ, але вже 31 серпня їх витіснили білі - цей день увійшов в історію як «Київська катастрофа»(Citation: 192).
+    До осені 1919 року білі витіснили війська РСФРР і встановили свою військову диктатуру на більшій частині України(Citation: 186).
+    У грудні 1919 року радянська Росія вторглася втретє (кампанія C0104).

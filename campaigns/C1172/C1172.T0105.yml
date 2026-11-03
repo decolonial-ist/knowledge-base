@@ -1,0 +1,23 @@
+type: procedure
+id: C1172.T0105
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Приказ полковника Лохвицкого от 17 июля 1877 года по Чеберлоевскому участку предписал: «разорить до основания селения Нижелой, Ригахой и Нуй-Хой»(Citation: 253); историк А. И. Исмаилова подводит итог: «Аулы и посевы Чаберлоевского участка были сплошь уничтожены; такая же участь постигла многие аулы Шатоевского и Евдокимовского участков.
+    Жители скрылись в лесах»(Citation: 253).
+    В октябре 1877 года, на обратном пути от симсирских хуторов, историк Д. А. Хожаев фиксирует: «русские сожгли и разрушили Зандак и, вторично, селение Беной - все до последнего дома, включая и мечети, сровняли с землей»(Citation: 95).
+  en: |-
+    The order of Colonel Lokhvitsky of 17 July 1877 for the Cheberloy uchastok (administrative section) prescribed: "to raze to the ground the villages of Nizheloy, Rigakhoy and Nuy-Khoy"(Citation: 253); historian A. I. Ismailova sums up: "The auls and crops of the Cheberloy uchastok were destroyed wholesale; the same fate befell many auls of the Shatoy and Evdokimovsky uchastoks.
+    The inhabitants hid in the forests"(Citation: 253).
+    In October 1877, on the way back from the Simsir hamlets, historian D. A. Khozhaev records: "the Russians burned and destroyed Zandak and, for the second time, the village of Benoy - everything, down to the last house, including the mosques, they leveled to the ground"(Citation: 95).
+  uk: |-
+    Наказ полковника Лохвицького від 17 липня 1877 року по Чеберлоївській дільниці приписав: «розорити дощенту селища Нижелой, Ригахой і Нуй-Хой»(Citation: 253); історик А. І. Ісмаїлова підбиває підсумок: «Аули й посіви Чаберлоївської дільниці були суцільно знищені; така сама доля спіткала багато аулів Шатоївської та Євдокимівської дільниць.
+    Жителі сховалися в лісах»(Citation: 253).
+    У жовтні 1877 року, на зворотному шляху від сімсірських хуторів, історик Д. А. Хожаєв фіксує: «росіяни спалили і зруйнували Зандак і, вдруге, селище Беной - усе до останнього будинку, включно з мечетями, зрівняли із землею»(Citation: 95).

@@ -1,0 +1,34 @@
+type: campaign
+id: C1168
+created: 2026-08-03
+modified: 2026-09-05
+version: '1.2'
+people: nokhchi
+first_seen: 1857-01-15
+first_seen_citation:
+- '129'
+last_seen: 1859-08-19
+contributors: []
+name:
+  ru: 'Просеки и голод: завоевание Чечни Евдокимовым (1857-1859)'
+  en: 'Forest clearings and famine: Yevdokimov''s conquest of Chechnya (1857-1859)'
+  uk: 'Просіки і голод: завоювання Чечні Євдокимовим (1857-1859)'
+description:
+  ru: |-
+    В 1857-1859 годах империя завершила завоевание Чечни: просеки резали страну на части, аулы и запасы выжигались, обессиленные общества одно за другим принуждались к капитуляции, сдавшихся сгоняли на равнину под надзор.
+    Метод сформулировал сам генерал Евдокимов, командовавший Чеченским отрядом, - рапортом военному министру Сухозанету от 25 марта 1857 года он объяснил назначение просеки: она «отняла отъ непокорныхъ широкія поля, мѣста ихъ посѣвовъ, и разрѣзавъ, такъ сказать, непокорное населеніе, гнѣздившееся въ недоступныхъ до сего времени лѣсахъ, поставило его въ необходимость искать спасеніе или бѣгствомъ въ горы, или выходомъ къ намъ на поляны»(Citation: 109).
+    Имперский историк Волконский вывел формулу периода: «куда бы ни ступила наша нога – прорубаются непроходимые леса, делаются просеки... закладываются редуты, укрепления: природа осилена – Кавказ сдается»(Citation: 121).
+    Что несло подчинение, чеченцам сказал имам Шамиль (руководитель сопротивления горцев Дагестана и Чечни российскому завоеванию) на собрании в Шали осенью 1858 года - речь записал его спутник и хронист Гаджи-Али: «они отберут у вас оружие и даже не позволят иметь ножа, Всех почетных ваших сошлют в Сибирь и вы будете после того как мужики»(Citation: 123).
+    Состояние страны наиб Большой Чечни Талхиг Шалинский передал имаму письмом: «Чечня горит, имам, иди тушить»(Citation: 95).
+  en: |-
+    In 1857-1859 the empire completed its conquest of Chechnya: forest clearings (prosekas) cut the country into pieces, auls and food stores were burned, exhausted societies were forced into capitulation one after another, and those who surrendered were herded down to the plain under surveillance.
+    The method was formulated by General Yevdokimov himself, who commanded the Chechen Detachment - in a report to Minister of War Sukhozanet of 25 March 1857 he explained the purpose of the clearing: it "took away from the unsubmissive their broad fields, the places of their crops, and, having cut apart, so to speak, the unsubmissive population that nested in forests hitherto inaccessible, put it under the necessity of seeking salvation either by flight into the mountains or by coming out to us onto the glades"(Citation: 109).
+    The imperial historian Volkonsky distilled the formula of the period: "wherever our foot steps – impassable forests are cut through, clearings are made... redoubts and fortifications are laid down: nature is overpowered – the Caucasus surrenders"(Citation: 121).
+    What subordination would bring, imam Shamil (leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest) told the Chechens at a gathering in Shali in the autumn of 1858 - the speech was written down by his companion and chronicler Hadji-Ali: "they will take away your weapons and will not allow you even to have a knife, All your honored men they will exile to Siberia, and after that you will be like muzhiks"(Citation: 123).
+    The condition of the country was conveyed to the imam in a letter by Talkhig Shalinsky, naib of Greater Chechnya: "Chechnya is burning, imam, come put it out"(Citation: 95).
+  uk: |-
+    У 1857-1859 роках імперія завершила завоювання Чечні: просіки різали країну на частини, аули й запаси випалювалися, знесилені товариства одне за одним примушувалися до капітуляції, тих, хто здався, зганяли на рівнину під нагляд.
+    Метод сформулював сам генерал Євдокимов, який командував Чеченським загоном, - рапортом військовому міністрові Сухозанету від 25 березня 1857 року він пояснив призначення просіки: вона «відняла в непокірних широкі поля, місця їхніх посівів, і, розрізавши, так би мовити, непокірне населення, що гніздилося в недоступних досі лісах, поставила його перед необхідністю шукати порятунку або втечею в гори, або виходом до нас на галявини»(Citation: 109).
+    Імперський історик Волконський вивів формулу періоду: «куди б не ступила наша нога – прорубуються непрохідні ліси, робляться просіки... закладаються редути, укріплення: природу подолано – Кавказ здається»(Citation: 121).
+    Що несе підпорядкування, чеченцям сказав імам Шаміль (керівник опору горців Дагестану і Чечні російському завоюванню) на зібранні в Шалі восени 1858 року - промову записав його супутник і хроніст Гаджі-Алі: «вони відберуть у вас зброю і навіть не дозволять мати ножа, Всіх почесних ваших зашлють до Сибіру, і ви будете після того як мужики»(Citation: 123).
+    Стан країни наїб Великої Чечні Талхіг Шалінський передав імамові листом: «Чечня горить, імаме, йди гасити»(Citation: 95).

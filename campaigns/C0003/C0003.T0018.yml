@@ -1,0 +1,20 @@
+type: procedure
+id: C0003.T0018
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0018
+people: ukrainians
+actor: G0008
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Стремясь ослабить Гетманщину изнутри и не дать ей разорвать вассалитет, Москва искусственно разжигала гражданскую войну, поддерживая и вооружая внутреннюю оппозицию против законного гетмана: «Провозглашение гетманом И.Выговского было негативно воспринято представителями оппозиционных ему сил», во главе которых стояли полтавский полковник Пушкарь и кошевой атаман Барабаш(Citation: 196).
+    Их выступление открыло период Руины.
+  en: |-
+    Seeking to weaken the Hetmanate from within and prevent it from breaking vassalage, Moscow artificially fomented civil war, supporting and arming the internal opposition against the lawful hetman: "The proclamation of I. Vyhovsky as hetman was received negatively by the representatives of the forces opposed to him," led by Poltava colonel Pushkar and kish otaman Barabash(Citation: 196).
+    Their revolt opened the period of the bloody Ruin.
+  uk: |-
+    Прагнучи ослабити Гетьманщину зсередини й не дати їй розірвати васалітет, Москва штучно розпалювала громадянську війну, підтримуючи та озброюючи внутрішню опозицію проти законного гетьмана: «Проголошення гетьманом І.Виговського було негативно сприйнято представниками опозиційних йому сил», на чолі яких стояли полтавський полковник Пушкар і кошовий отаман Барабаш(Citation: 196).
+    Їхній виступ відкрив період Руїни.

@@ -1,0 +1,14 @@
+type: procedure
+id: C1031.T0099
+created: 2026-04-20
+modified: 2026-04-20
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: 'Захват и удержание мирных жителей на военных базах с целью давления на их родственников для обмена на пленных военнослужащих или тела погибших солдат(Citation: 27).'
+  en: 'Seizure and detention of civilians at military bases in order to pressure their relatives into exchanging them for captured servicemen or the bodies of dead soldiers(Citation: 27).'
+  uk: 'Захоплення та утримання мирних жителів на військових базах з метою тиску на їхніх родичів для обміну на полонених військовослужбовців або тіла загиблих солдатів(Citation: 27).'

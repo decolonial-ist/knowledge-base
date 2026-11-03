@@ -1,0 +1,36 @@
+type: procedure
+id: C1165.T0013
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0013
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Империя держала тайных агентов внутри администрации имамата Шамиля (имама, руководителя сопротивления горцев Дагестана и Чечни российскому завоеванию).
+    Историк Н. И. Покровский пишет по имперским военным материалам: «Ахверды-Магома сменил начальника караулов между Аргуном и Сунжей, Муллу-Гази, бывшего тайным агентом царского правительства» (Ахверды-Магома - наместник имама в Малой Чечне; Аргун и Сунжа - реки в Чечне)(Citation: 129).
+    Второй агент - старшина зааргунских обществ: генерал Завадовский, временно командовавший войсками Кавказской линии (цепи имперских укреплений на земле нохчи), рапортом генералу Нейдгардту, главе имперских войск на Кавказе, от 24 февраля 1845 года передал донесение с левого фланга о сведениях, полученных «через прибывшего к нему нарочного от за-Аргунского старшины, имеющего вес в народе и находящегося с г.-л.
+    Гаксфортом в тайном сношении»: агент сообщал о созыве Шамилём совещания наибов (наместников имама) в Дарго, резиденции имама(Citation: 129).
+    Перебежчиков империя оформляла в агентов и проводников на условиях сделки.
+    Генерал Лабынцев, начальник Сунженской линии, рапортом Воронцову, наместнику на Кавказе, летом 1846 года описал условия чеченца Топи: «Обещав, если это приведется в исполнение, не только быть лазутчиком в горах и вожаком для войск наших, но, своим примером и убеждением действуя в нашу пользу, склонять других к принесению покорности... я позволил семействам Топи... поселиться между находящимися возле укрепления переселенцами»(Citation: 126).
+    Агент оплачивался не деньгами, а правом семьи жить у укрепления - под контролем той же империи.
+  en: |-
+    The empire kept secret agents inside the administration of the Imamate of Shamil (the imam, leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest).
+    Historian N. I. Pokrovsky writes from imperial military materials: "Akhverdy-Magoma replaced the chief of the guard posts between the Argun and the Sunzha, Mulla-Gazi, who had been a secret agent of the tsarist government" (Akhverdy-Magoma - the deputy of the imam in Lesser Chechnya; the Argun and the Sunzha - rivers in Chechnya)(Citation: 129).
+    The second agent was an elder of the trans-Argun communities: general Zavadovsky, temporarily commanding the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), in a report to general Neidhardt, head of the empire's troops in the Caucasus, of 24 February 1845, forwarded a dispatch from the left flank about information received "through a messenger who came to him from the trans-Argun elder, a man of weight among the people who is in secret communication with lt.-gen.
+    Gaksfort": the agent reported that Shamil was convening a council of naibs (the imam's deputies) in Dargo, the imam's residence(Citation: 129).
+    Defectors the empire formalised into agents and guides on the terms of a bargain.
+    General Labyntsev, commander of the Sunzha Line, in a report to Vorontsov, viceroy in the Caucasus, in summer 1846 described the terms of the Chechen Topi: "Having promised, should this be carried into effect, not only to be a scout in the mountains and a guide for our troops, but, acting in our favour by his example and persuasion, to incline others to the offering of submission...
+    I permitted the families of Topi... to settle among the resettlers located by the fortification"(Citation: 126).
+    The agent was paid not in money but with his family's right to live by the fortification - under the control of the same empire.
+  uk: |-
+    Імперія тримала таємних агентів усередині адміністрації імамату Шаміля (імама, керівника опору горців Дагестану і Чечні російському завоюванню).
+    Історик Н. І. Покровський пише за імперськими воєнними матеріалами: «Ахверди-Магома змінив начальника караулів між Аргуном і Сунжею, Муллу-Газі, що був таємним агентом царського уряду» (Ахверди-Магома - намісник імама в Малій Чечні; Аргун і Сунжа - річки в Чечні)(Citation: 129).
+    Другий агент - старшина зааргунських громад: генерал Завадовський, який тимчасово командував військами Кавказької лінії (ланцюга імперських укріплень на землі нохчі), рапортом генералу Нейдгардту, главі імперських військ на Кавказі, від 24 лютого 1845 року передав донесення з лівого флангу про відомості, отримані «через нарочного, що прибув до нього від за-Аргунського старшини, який має вагу в народі і перебуває з г.-л.
+    Гаксфортом у таємних зносинах»: агент повідомляв про скликання Шамілем наради наїбів (намісників імама) у Дарго, резиденції імама(Citation: 129).
+    Перебіжчиків імперія оформлювала в агентів і провідників на умовах угоди.
+    Генерал Лабинцев, начальник Сунженської лінії, рапортом Воронцову, наміснику на Кавказі, влітку 1846 року описав умови чеченця Топі: «Пообіцявши, якщо це буде виконано, не тільки бути лазутчиком у горах і вожаком для військ наших, але, своїм прикладом і переконанням діючи на нашу користь, схиляти інших до принесення покірності... я дозволив сім'ям Топі... поселитися між переселенцями, що знаходяться біля укріплення»(Citation: 126).
+    Агент оплачувався не грошима, а правом сім'ї жити біля укріплення - під контролем тієї ж імперії.

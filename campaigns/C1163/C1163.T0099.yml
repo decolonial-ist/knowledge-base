@@ -1,0 +1,32 @@
+type: procedure
+id: C1163.T0099
+created: 2026-07-23
+modified: 2026-07-23
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В 1836-1840 годах Пулло, командующий Сунженской линией, а затем левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), сделал захват заложников несущим институтом аманатско-податной системы в захваченных империей аулах Чечни.
+    Аманат - человек, которого империя забирала из семьи или общины как заложника; угроза расправы над взятым держала родных и весь аул в подчинении.
+    В докладной записке 1840 года Пулло описал метод: «Аманатов брал я не без разбору, как то делалось прежде, но от наиболее уважаемых или наименее надежных семейств и этим средством неоднократно многие аулы, замышлявшие возмущение, были удержаны в повиновении» - и масштаб института: «на содержание аманатов употреблялось ежегодно до 20 тыс. руб...»(Citation: 126).
+    Захват шёл волнами по мере продвижения войск: имперский историк Юров записал о декабре 1839 года, что под давлением отряда даже селения, запиравшие вход в Аргунское ущелье, «смирились, выдали аманатов» - войска забирали людей как «знак покорности»(Citation: 134).
+    Условия содержания заложников Юров описал так: «с арестантами и даже аманатами обращались бесчеловечно, держа их в сырой яме, где они нередко заболевали»(Citation: 134).
+    В той же докладной записке Пулло требовал сделать заложничество бессрочным: аманатов за проступки поручителей «должно непременно сообразно с их возрастом переводить в кантонисты или арестантские роты, заменяя места убывших другими аманатами» - детей-заложников отдавать в кантонисты (военное сословие, куда империя принудительно зачисляла малолетних), взрослых - в арестантские роты (принудительные работы под военным конвоем); в докладной записке 1840 года это зафиксировано как план(Citation: 126).
+  en: |-
+    In 1836-1840 Pullo, commander of the Sunzha Line and then of the left flank of the Caucasus Line (a chain of imperial fortifications on the land of the Nokhchi), made hostage-taking the load-bearing institution of the amanat-and-tribute system in the auls of Chechnya seized by the empire.
+    An amanat is a person whom the empire took away from a family or community as a hostage; the threat of reprisal against the taken one held the relatives and the whole aul in subjection.
+    In a memorandum of 1840 Pullo described the method: "I took amanats not indiscriminately, as was done before, but from the most respected or least reliable families, and by this means many auls plotting revolt were repeatedly kept in obedience" - and the scale of the institution: "up to 20 thousand rubles... were spent yearly on the upkeep of amanats"(Citation: 126).
+    The taking of hostages went in waves as the troops advanced: the imperial historian Yurov recorded of December 1839 that under the pressure of the detachment even the villages that barred the entrance to the Argun gorge "humbled themselves, handed over amanats" - the troops took people as a "token of submission"(Citation: 134).
+    Yurov described the conditions in which the hostages were kept: "prisoners and even amanats were treated inhumanly, kept in a damp pit, where they often fell ill"(Citation: 134).
+    In the same memorandum Pullo demanded that hostageship be made perpetual: for the offenses of those under warranty, amanats "must without fail, according to their age, be transferred into cantonists or convict companies, replacing the departed with other amanats" - child hostages to be handed into the cantonists (a military estate into which the empire forcibly enrolled minors), adults into convict companies (forced labor under military escort); in the memorandum of 1840 this is recorded as a plan(Citation: 126).
+  uk: |-
+    У 1836-1840 роках Пулло, командувач Сунженської лінії, а потім лівого флангу Кавказької лінії (ланцюга імперських укріплень на землі нохчі), зробив захоплення заручників несучим інститутом аманатсько-податної системи в захоплених імперією аулах Чечні.
+    Аманат - людина, яку імперія забирала з родини чи громади як заручника; загроза розправи над взятим тримала рідних і весь аул у підпорядкуванні.
+    У доповідній записці 1840 року Пулло описав метод: «Аманатів брав я не без розбору, як то робилося раніше, а від найбільш шанованих або найменш надійних родин, і цим засобом неодноразово багато аулів, що замишляли повстання, були утримані в покорі» - і масштаб інституту: «на утримання аманатів витрачалося щорічно до 20 тис. руб...»(Citation: 126).
+    Захоплення йшло хвилями в міру просування військ: імперський історик Юров записав про грудень 1839 року, що під тиском загону навіть селища, які замикали вхід до Аргунського міжгір'я, «змирилися, видали аманатів» - війська забирали людей як «знак покірності»(Citation: 134).
+    Умови утримання заручників Юров описав так: «з арештантами і навіть аманатами поводилися нелюдськи, тримаючи їх у сирій ямі, де вони нерідко хворіли»(Citation: 134).
+    У тій самій доповідній записці Пулло вимагав зробити заручництво безстроковим: аманатів за провини поручителів «слід неодмінно відповідно до їхнього віку переводити в кантоністи або арештантські роти, заміняючи місця вибулих іншими аманатами» - дітей-заручників віддавати в кантоністи (військовий стан, куди імперія примусово зараховувала малолітніх), дорослих - в арештантські роти (примусові роботи під військовим конвоєм); у доповідній записці 1840 року це зафіксовано як план(Citation: 126).

@@ -1,0 +1,53 @@
+type: procedure
+id: C1178.T0167.001
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0167.001
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    СССР боролся с восставшими в декабре 1929 года аулами не только войсками, но и ложными обещаниями; чеченский историк А. Г. Авторханов, работавший в те годы в Чечне и писавший в эмиграции, описал эту механику.
+    Для «мирной ликвидации» восстания из Москвы прибыла правительственная делегация - в неё входили член Центрального комитета союзной партии («ЦК ВКП(б)») Николаева и заместитель главы правительства РСФСР Рискулов, - и созданная ею «мирная комиссия» из духовных авторитетов заявила повстанцам в Шали: «в происшедших событиях ответственность несут исключительно местные работники, действовавшие вопреки установкам партии и правительства», а от имени правительственной комиссии было оглашено обращение к чеченскому народу: «внутренние чеченские дела будет решать и впредь сам чеченский народ»(Citation: 369).
+    Повстанцы, пишет Авторханов, «признали эти объяснения удовлетворительными и согласились вернуться по домам»; прибывший следом отряд ГПУ (политической полиции, предшественницы современной ФСБ) три дня арестовывал местных советских работников - как и было обещано; Авторханов продолжает: «а к часу ночи четвертого дня окружили дом бывшего вождя повстанцев Шиты Истамулова»(Citation: 369).
+    Захват сорвался - чеченцы отбили Шиту Истамулова с боем; Авторханов пишет: «На ультиматум сдаться без боя, однако, Шита и его брат Хасан ответили огнем.
+    Часть дома Шиты была объята пламенем, а Хасан тяжело ранен, когда к рассвету подоспела помощь: около сотни вооруженных всадников-чеченцев окружили самую часть войск ГПУ, обложившую дом Шиты.
+    После какого-нибудь часа рукопашного боя отряд ГПУ, числом до 150 человек, был почти целиком уничтожен»(Citation: 369).
+    Авторханов продолжает: «Освобожденный своими друзьями Шита Истамулов призвал всех чеченцев к «священной войне» за восстановление «Имамата Шамиля» и изгнание «неверных» с Кавказа.
+    Следуя этому призыву, вновь восстали Шали, Гойти, Беной»(Citation: 369).
+    Вторым обманом стала амнистия; Авторханов пишет: «Всем участникам восстания, в том числе и вождям восстания, была объявлена амнистия от имени центрального правительства» - Шита Истамулов вернулся в Шали и «по указанию сверху» даже был назначен председателем Шалинского сельского потребительного общества (кооперации по промтоварам)(Citation: 369).
+    Авторханов описывает развязку так: осенью 1931 года Шита Истамулов «был вызван к начальнику районного ГПУ Бакланову для вручения ему официального акта амнистии из Москвы.
+    Вручая ему одной рукой акт, Бакланов из-под стойки другой рукой выпустил в него всю обойму из маузера.
+    Тяжело раненный Истамулов успел насмерть заколоть кинжалом вероломного Бакланова.
+    Наружная охрана добила Истамулова»(Citation: 369).
+  en: |-
+    The USSR fought the auls that revolted in December 1929 not only with troops but with false promises; the Chechen historian A. G. Avtorkhanov, who worked in Chechnya in those years and wrote in emigration, described this mechanism.
+    For the "peaceful liquidation" of the uprising a government delegation arrived from Moscow - it included Nikolayeva, member of the Central Committee of the union party (the "TsK VKP(b)"), and Ryskulov, deputy head of the government of the RSFSR, - and the "peace commission" of religious authorities it created declared to the insurgents in Shali: "responsibility for the events that have occurred lies exclusively with the local functionaries, who acted contrary to the directives of the party and the government", and in the name of the government delegation an address to the Chechen people was read out: "the internal Chechen affairs will henceforth be decided by the Chechen people itself"(Citation: 369).
+    The insurgents, Avtorkhanov writes, "found these explanations satisfactory and agreed to return to their homes"; the GPU detachment (the political police, a predecessor of today's FSB) that arrived next spent three days arresting local Soviet functionaries - just as had been promised; Avtorkhanov continues: "and toward one o'clock in the morning of the fourth day they surrounded the house of the former leader of the insurgents, Shita Istamulov"(Citation: 369).
+    The seizure failed - the Chechens fought Shita Istamulov free; Avtorkhanov writes: "To the ultimatum to surrender without a fight, however, Shita and his brother Hasan replied with fire.
+    Part of Shita's house was engulfed in flames and Hasan gravely wounded when, toward dawn, help arrived: about a hundred armed Chechen horsemen surrounded the very part of the GPU troops that had invested Shita's house.
+    After perhaps an hour of hand-to-hand fighting the GPU detachment, numbering up to 150 men, was almost entirely destroyed"(Citation: 369).
+    Avtorkhanov continues: "Freed by his friends, Shita Istamulov called all Chechens to a 'holy war' for the restoration of the 'Imamate of Shamil' and the expulsion of the 'infidels' from the Caucasus.
+    Following this call, Shali, Goity and Benoy rose again"(Citation: 369).
+    The second deception was the amnesty; Avtorkhanov writes: "To all participants of the uprising, including the leaders of the uprising, an amnesty was declared in the name of the central government" - Shita Istamulov returned to Shali and "on instructions from above" was even appointed chairman of the Shali rural consumers' society (a cooperative for manufactured goods)(Citation: 369).
+    Avtorkhanov describes the denouement thus: in the autumn of 1931 Shita Istamulov "was summoned to Baklanov, head of the district GPU, to be handed the official act of amnesty from Moscow.
+    Handing him the act with one hand, Baklanov with the other, from under the counter, emptied an entire Mauser clip into him.
+    The gravely wounded Istamulov managed to stab the treacherous Baklanov to death with his dagger.
+    The outside guard finished Istamulov off"(Citation: 369).
+  uk: |-
+    СРСР боровся з аулами, що повстали в грудні 1929 року, не лише військами, а й брехливими обіцянками; чеченський історик А. Г. Авторханов, який працював у ті роки в Чечні і писав в еміграції, описав цю механіку.
+    Для «мирної ліквідації» повстання з Москви прибула урядова делегація - до неї входили член Центрального комітету союзної партії («ЦК ВКП(б)») Ніколаєва і заступник глави уряду РРФСР Рискулов, - і створена нею «мирна комісія» з духовних авторитетів заявила повстанцям у Шалі: «у подіях, що сталися, відповідальність несуть виключно місцеві працівники, які діяли всупереч настановам партії та уряду», а від імені урядової комісії було оголошено звернення до чеченського народу: «внутрішні чеченські справи вирішуватиме і надалі сам чеченський народ»(Citation: 369).
+    Повстанці, пише Авторханов, «визнали ці пояснення задовільними і погодилися повернутися по домівках»; загін ГПУ (політичної поліції, попередниці сучасної ФСБ), що прибув слідом, три дні заарештовував місцевих радянських працівників - як і було обіцяно; Авторханов продовжує: «а близько першої години ночі четвертого дня оточили дім колишнього вождя повстанців Шити Істамулова»(Citation: 369).
+    Захоплення зірвалося - чеченці відбили Шиту Істамулова з боєм; Авторханов пише: «На ультиматум здатися без бою, однак, Шита і його брат Хасан відповіли вогнем.
+    Частина дому Шити була охоплена полум'ям, а Хасан тяжко поранений, коли до світанку наспіла допомога: близько сотні озброєних вершників-чеченців оточили саму ту частину військ ГПУ, що обложила дім Шити.
+    Після якоїсь години рукопашного бою загін ГПУ, числом до 150 осіб, був майже цілком знищений»(Citation: 369).
+    Авторханов продовжує: «Звільнений своїми друзями Шита Істамулов закликав усіх чеченців до «священної війни» за відновлення «Імамату Шаміля» і вигнання «невірних» з Кавказу.
+    Слідуючи цьому заклику, знову повстали Шалі, Гойти, Беной»(Citation: 369).
+    Другим обманом стала амністія; Авторханов пише: «Усім учасникам повстання, зокрема й вождям повстання, було оголошено амністію від імені центрального уряду» - Шита Істамулов повернувся до Шалі і «за вказівкою згори» навіть був призначений головою Шалінського сільського споживчого товариства (кооперації з промтоварів)(Citation: 369).
+    Авторханов описує розв'язку так: восени 1931 року Шита Істамулов «був викликаний до начальника районного ГПУ Бакланова для вручення йому офіційного акта амністії з Москви.
+    Вручаючи йому однією рукою акт, Бакланов з-під стійки другою рукою випустив у нього всю обойму з маузера.
+    Тяжко поранений Істамулов устиг насмерть заколоти кинджалом віроломного Бакланова.
+    Зовнішня охорона добила Істамулова»(Citation: 369).

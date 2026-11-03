@@ -1,0 +1,20 @@
+type: procedure
+id: C1156.T0053
+created: 2026-07-03
+modified: 2026-08-07
+version: '1.0'
+technique: T0053
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    23 августа 1836 при внезапном захвате аула Зандак отряд полковника Пулло, начальника Сунженской укреплённой линии, захватил в плен жителей, не успевших спастись бегством через овраги и лес.
+    Корпусный командир Розен доносил военному министру: пехота вытеснила защитников, «захватив в плен 31 душу мужского и женского пола»(Citation: 105).
+  en: |-
+    On August 23, 1836, during the sudden seizure of the aul of Zandak, the detachment of Colonel Pullo, chief of the Sunzha fortified line, took captive residents who had not managed to escape through the ravines and the forest.
+    Corps commander Rosen reported to the Minister of War: the infantry drove out the defenders, “having taken prisoner 31 souls of male and female sex”(Citation: 105).
+  uk: |-
+    23 серпня 1836 року під час раптового захоплення аулу Зандак загін полковника Пулло, начальника Сунженської укріпленої лінії, захопив у полон жителів, які не встигли врятуватися втечею через яри та ліс.
+    Корпусний командир Розен доносив військовому міністрові: піхота витіснила захисників, «захопивши в полон 31 душу чоловічої та жіночої статі»(Citation: 105).

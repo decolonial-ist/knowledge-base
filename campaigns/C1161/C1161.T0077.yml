@@ -1,0 +1,23 @@
+type: procedure
+id: C1161.T0077
+created: 2026-07-21
+modified: 2026-07-21
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В феврале-апреле 1837 года, продолжая январское истребление Малой Чечни (кампания C1160), командование российского Кавказского корпуса провело серию экспедиций генерала Фезе по восточной и центральной Чечне: февральское движение через Шали, Герменчук и Мичик, мартовский марш вверх по Джалке, апрельский ночной рейд на Гертлинское селение.
+    Санкцию Розен изложил в донесении военному министру Чернышеву: поход «за Аргуном» - «для уменьшения в Чеченцах доверия к возмутителям и отклонения их от намерения соединиться с Шамилем» (Шамиль - имам, руководитель сопротивления горцев Дагестана и Чечни российскому завоеванию)(Citation: 105).
+    Гертлинский рейд объявлен в рапорте Розена Чернышеву от 30 мая 1837 карой: «для раззорения или конечного истребления сей хищнической партии... и для наказания его жителей»(Citation: 105).
+  en: |-
+    In February-April 1837, continuing the January annihilation of Lesser Chechnya (campaign C1160), the command of the Russian Caucasus Corps conducted a series of expeditions under General Feze across eastern and central Chechnya: the February movement through Shali, Germenchuk and the Michik, the March march up the Dzhalka, and the April night raid on the Gertli settlement.
+    Rozen set out the sanction in a dispatch to Minister of War Chernyshev: a campaign "beyond the Argun" - "for diminishing the Chechens' trust in the instigators and turning them away from the intention of joining Shamil" (Shamil - imam, leader of the Dagestani and Chechen highlanders' resistance to the Russian conquest)(Citation: 105).
+    The Gertli raid was declared a punishment in Rozen's report to Chernyshev of 30 May 1837: "for the devastation or final annihilation of this brigand party... and for the punishment of its inhabitants"(Citation: 105).
+  uk: |-
+    У лютому-квітні 1837 року, продовжуючи січневе винищення Малої Чечні (кампанія C1160), командування російського Кавказького корпусу провело серію експедицій генерала Фезе по східній і центральній Чечні: лютневий рух через Шалі, Герменчук і Мічик, березневий марш вгору по Джалці, квітневий нічний рейд на Гертлінське селище.
+    Санкцію Розен виклав у донесенні військовому міністру Чернишову: похід «за Аргуном» - «для зменшення в чеченцях довіри до підбурювачів і відхилення їх від наміру з'єднатися з Шамілем» (Шаміль - імам, керівник опору горців Дагестану і Чечні російському завоюванню)(Citation: 105).
+    Гертлінський рейд оголошений у рапорті Розена Чернишову від 30 травня 1837 карою: «для руйнування або остаточного винищення цієї хижацької партії... і для покарання його жителів»(Citation: 105).

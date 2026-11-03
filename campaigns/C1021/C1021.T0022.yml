@@ -1,0 +1,20 @@
+type: procedure
+id: C1021.T0022
+created: 2026-06-25
+modified: 2026-06-25
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Регулярная армия Российской империи насаждала подчинение страхом показательного уничтожения семей.
+    Имперский генерал Ермолов в «Обращении» к чеченцам объявил: «Малейшее неповиновение… и Ваши аулы будут разрушены, семейства распроданы в горы, аманаты повешены, деревни истребляются огнем, жен и детей вырезывают»(Citation: 95)(Citation: 75).
+  en: |-
+    The Regular Army of the Russian Empire instilled submission through fear of the demonstrative destruction of families.
+    Imperial general Yermolov, in his “Address” to the Chechens, declared: “The slightest disobedience… and your auls will be destroyed, your families sold off into the mountains, the amanats hanged, villages exterminated by fire, women and children slaughtered”(Citation: 95)(Citation: 75).
+  uk: |-
+    Регулярна армія Російської імперії насаджувала підпорядкування страхом показового знищення сімей.
+    Імперський генерал Єрмолов у «Зверненні» до Чеченців оголосив: «Найменший непослух… і ваші аули будуть зруйновані, сім’ї розпродані в гори, аманати повішені, села винищуються вогнем, жінок і дітей вирізають»(Citation: 95)(Citation: 75).

@@ -1,0 +1,41 @@
+type: campaign
+id: C1176
+created: 2026-08-08
+modified: 2026-09-05
+version: '1.3'
+people: nokhchi
+first_seen: 1920-04-03
+last_seen: 1924-12-31
+contributors: []
+name:
+  ru: 'Советизация Чечни: ревкомы вместо Советов, карательные операции и расстрелы ЧК (1920-1924)'
+  en: 'Sovietization of Chechnya: revkoms in place of Soviets, punitive operations and Cheka executions (1920-1924)'
+  uk: 'Радянізація Чечні: ревкоми замість Рад, каральні операції та розстріли ЧК (1920-1924)'
+description:
+  ru: |-
+    В 1920-1924 годах Советская Россия устанавливала контроль над Чечнёй: ставила невыборные ревкомы вместо избранных Советов, вела войсковые операции по разоружению с авиацией, расстреливала без суда руками ЧК и брала заложников.
+    За семь лет до этого Чечня прошла через первую мировую войну, две революции 1917 года и попытку жить своим государством - Горской Республикой, провозглашённой в мае 1918 года.
+    В 1919 году Чечню занимала Добровольческая армия генерала Деникина - войска бывших имперских офицеров, воевавшие с большевиками за возвращение России в прежних границах; после её террора остался 21 разрушенный аул и 15 тысяч погибших (кампания C1174).
+    К весне 1920 года деникинцы с Северного Кавказа откатились, а эмират шейха Узун-Хаджи, воевавший против них, распался сам: эмир умер, «В могилу с ним ушел и эмират без каких-либо политических последствий для Чечни и Дагестана»(Citation: 125).
+    Власть в крае взяли большевики, которых чеченские сёла до того поддерживали против Деникина.
+    Приказ штаба Северо-Кавказского военного округа предписывал: «Разоружение должно начаться с плоскостной Чечни, дабы обезопасить район Грозного.
+    Операция должна вестись самым настоящим образом, вплоть до уничтожения непокорных аулов»(Citation: 125).
+    Комиссар Кавказской трудовой армии Врачев жаловался на собственный карательный аппарат: особый отдел армии производит массовые расстрелы, о которых «... почти ничего не известно не только Ревтрибуналу или Политическому отделу армии, но ни мне, ни командующему армией»(Citation: 125).
+  en: |-
+    In 1920-1924 Soviet Russia imposed its control over Chechnya: it installed unelected revolutionary committees (revkoms) in place of elected Soviets, conducted military disarmament operations with the use of aviation, shot people without trial by the hands of the Cheka and took hostages.
+    Seven years earlier Chechnya had gone through the First World War, the two revolutions of 1917 and an attempt to live in a state of its own - the Mountain Republic, proclaimed in May 1918.
+    In 1919 Chechnya was held by the Volunteer Army of General Denikin - troops of former imperial officers who fought the Bolsheviks for the return of Russia within its former borders; its terror left behind 21 destroyed auls and 15 thousand dead (campaign C1174).
+    By the spring of 1920 the Denikinites had rolled back from the North Caucasus, and the emirate of Sheikh Uzun-Haji, which had fought against them, fell apart on its own: the emir died, "The emirate went into the grave with him, without any political consequences for Chechnya and Dagestan"(Citation: 125).
+    Power in the land was taken by the Bolsheviks, whom the Chechen villages had until then supported against Denikin.
+    An order of the staff of the North Caucasus Military District prescribed: "The disarmament must begin with lowland Chechnya, so as to secure the Grozny area.
+    The operation must be conducted in real earnest, up to the destruction of the unsubmissive auls"(Citation: 125).
+    Commissar of the Caucasus Labor Army Vrachev complained about his own punitive apparatus: the army's special department was carrying out mass shootings of which "... almost nothing is known not only to the Revolutionary Tribunal or the Political Department of the army, but to me or the army commander either"(Citation: 125).
+  uk: |-
+    У 1920-1924 роках Радянська Росія встановлювала контроль над Чечнею: ставила невиборні ревкоми замість обраних Рад, вела військові операції з роззброєння із застосуванням авіації, розстрілювала без суду руками ЧК і брала заручників.
+    За сім років до того Чечня пройшла через першу світову війну, дві революції 1917 року і спробу жити своєю державою - Гірською Республікою, проголошеною у травні 1918 року.
+    У 1919 році Чечню займала Добровольча армія генерала Денікіна - війська колишніх імперських офіцерів, що воювали з більшовиками за повернення Росії в колишніх кордонах; після її терору залишився 21 зруйнований аул і 15 тисяч загиблих (кампанія C1174).
+    До весни 1920 року денікінці з Північного Кавказу відкотилися, а емірат шейха Узун-Хаджі, що воював проти них, розпався сам: емір помер, «У могилу з ним пішов і емірат без будь-яких політичних наслідків для Чечні та Дагестану»(Citation: 125).
+    Владу в краї взяли більшовики, яких чеченські села доти підтримували проти Денікіна.
+    Наказ штабу Північно-Кавказького військового округу приписував: «Роззброєння має початися з площинної Чечні, щоб убезпечити район Грозного.
+    Операція має вестися по-справжньому, аж до знищення непокірних аулів»(Citation: 125).
+    Комісар Кавказької трудової армії Врачев скаржився на власний каральний апарат: особливий відділ армії проводить масові розстріли, про які «... майже нічого не відомо не тільки Ревтрибуналу чи Політичному відділу армії, а й ні мені, ні командувачу армії»(Citation: 125).

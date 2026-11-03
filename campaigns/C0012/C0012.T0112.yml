@@ -1,0 +1,20 @@
+type: procedure
+id: C0012.T0112
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0112
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Целенаправленный вывоз интеллектуального и исторического наследия.
+    Имперские войска не просто мародерствовали, они изымали уникальные документы: «Меншиков успел вывезти... гетманский архив, библиотеку Мазепы»(Citation: 3)(Citation: 4).
+  en: |-
+    Deliberate removal of intellectual and historical heritage.
+    The imperial troops did not merely loot — they seized unique documents: "Menshikov managed to carry off... the hetman's archive and Mazepa's library"(Citation: 3)(Citation: 4).
+  uk: |-
+    Цілеспрямоване вивезення інтелектуальної та історичної спадщини.
+    Імперські війська не просто мародерствували — вони вилучали унікальні документи: «Меншиков встиг вивезти... гетьманський архів, бібліотеку Мазепи»(Citation: 3)(Citation: 4).

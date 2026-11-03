@@ -1,0 +1,23 @@
+type: procedure
+id: C0012.T0077
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0077
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Бросок регулярной армии под командованием Александра Меншикова на физическое уничтожение отказавшейся подчиниться столицы Гетманщины (казацкого гетманского государства): «Утром 2 ноября российские войска ворвались в Батурин.
+    После двухчасового боя остатки гарнизона были перебиты вместе со всем гражданским населением»(Citation: 3)(Citation: 4).
+    Город был разграблен и сожжён по прямому распоряжению царя Петра I - письмо Меншикову от 5 ноября 1708 года: «а Батуран в знак изменникам (понеже боровились) другим на приклад зжечь весь»(Citation: 394).
+  en: |-
+    The deployment of the regular army to physically destroy the Hetmanate's defiant capital: "On the morning of November 2, Russian troops burst into Baturyn.
+    After a two-hour battle, the remnants of the garrison were slaughtered together with the entire civilian population"(Citation: 3)(Citation: 4).
+    The town was looted and burned on Peter's direct order - his letter to Menshikov of 5 November 1708: "and Baturyn, as a mark against the traitors (for they resisted), burn entire, as an example to others"(Citation: 394).
+  uk: |-
+    Кидок регулярної армії для фізичного знищення столиці Гетьманщини, яка не скорилася: «Вранці 2 листопада російські війська увірвалися в Батурин.
+    Після двогодинного бою рештки гарнізону були перебиті разом з усім цивільним населенням»(Citation: 3)(Citation: 4).
+    Місто було розграбовано і спалено за прямим розпорядженням Петра - лист Меншикову від 5 листопада 1708 року: «а Батурин - на знак зрадникам (позаяк боронилися), іншим на приклад - спалити ввесь»(Citation: 394).

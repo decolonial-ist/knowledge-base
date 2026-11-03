@@ -1,0 +1,29 @@
+type: campaign
+id: C0013
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.3'
+people: ukrainians
+first_seen: 1708-11-01
+last_seen: 1709-01-01
+contributors: []
+name:
+  ru: Лебединские казни (1708–1709)
+  en: The Lebedyn Executions (1708–1709)
+  uk: Лебединські страти (1708–1709)
+description:
+  ru: |-
+    Карательная кампания против сторонников Мазепы после перехода гетмана к шведам.
+    Ставка царя и Меншикова в январе 1709 года находилась в Лебедине и Сумах, откуда велось следствие над казацкой старшиной(Citation: 4).
+    Образцом устрашения стал разгром гетманской столицы: 2 ноября 1708 года Батурин был взят войсками Меншикова, «город был разрушен дотла, а жители уничтожены», а когда в июле 1709 года царь разрешил заселить его заново, то «за измену» обязал жителей платить в казну специальный налог(Citation: 185).
+    Наказание распространялось на всех: «в кровавой резне и пожаре погибло множество защитников и жителей города»(Citation: 4).
+  en: |-
+    A punitive campaign against Mazepa's supporters after the hetman went over to the Swedes.
+    In January 1709 the headquarters of the tsar and Menshikov were at Lebedyn and Sumy, from where the investigation of the Cossack officers was conducted(Citation: 4).
+    The model of intimidation was the destruction of the hetman capital: on 2 November 1708 Baturyn was taken by Menshikov's troops, "the town was razed to the ground and its inhabitants annihilated," and when in July 1709 the tsar permitted it to be resettled, he obliged the inhabitants to pay a special tax to the treasury "for treason"(Citation: 185).
+    The punishment fell on everyone: "in the bloody massacre and fire a multitude of the town's defenders and inhabitants perished"(Citation: 4).
+  uk: |-
+    Каральна кампанія проти прихильників Мазепи після переходу гетьмана до шведів.
+    Ставка царя і Меншикова в січні 1709 року була в Лебедині та Сумах, звідки велося слідство над козацькою старшиною(Citation: 4).
+    Взірцем залякування став розгром гетьманської столиці: 2 листопада 1708 року Батурин було взято військами Меншикова, «місто було вщент зруйновано, а жителів знищено», а коли в липні 1709 року цар дозволив заселити його наново, то «за зраду» зобов'язав мешканців платити до скарбниці спеціальний податок(Citation: 185).
+    Покарання поширювалося на всіх: «у кривавій різанині й пожежі загинуло безліч захисників і жителів міста»(Citation: 4).

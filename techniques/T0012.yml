@@ -1,0 +1,22 @@
+type: technique
+id: T0012
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0002
+name:
+  ru: Поддержка сепаратизма
+  en: Support for Separatism
+  uk: Підтримка сепаратизму
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут тайно или явно финансировать, вооружать и политически поддерживать радикальные группировки, выступающие за откол части территории от суверенного государства.
+    Искусственное разжигание внутренних конфликтов извне ослабляет государственные институты, дестабилизирует регион и создает удобный предлог для последующего открытого вмешательства колонизатора под видом миротворческой операции или защиты якобы угнетаемого меньшинства.
+  en: |-
+    Aggressors may covertly or openly finance, arm, and politically support radical groups advocating the secession of part of a sovereign state's territory.
+    Artificially inflaming internal conflicts from the outside weakens state institutions, destabilizes the region, and creates a convenient pretext for the colonizer's subsequent open intervention under the guise of a peacekeeping operation or the protection of an allegedly oppressed minority.
+  uk: |-
+    Агресори можуть таємно чи відкрито фінансувати, озброювати та політично підтримувати радикальні угруповання, що виступають за відокремлення частини території від суверенної держави.
+    Штучне розпалювання внутрішніх конфліктів ззовні послаблює державні інституції, дестабілізує регіон і створює зручний привід для подальшого відкритого втручання колонізатора під виглядом миротворчої операції або захисту нібито пригнобленої меншини.

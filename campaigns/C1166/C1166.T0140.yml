@@ -1,0 +1,26 @@
+type: procedure
+id: C1166.T0140
+created: 2026-07-31
+modified: 2026-07-31
+version: '1.0'
+technique: T0140
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Империя прорубала и расширяла просеки в лесах Малой Чечни (равнинно-предгорной западной части Чечни).
+    Историк Н. И. Покровский пишет о 1848 годе: «В январе - феврале Р. К. Фрейтаг очищал и расширял Гойтинскую и Гехинскую просеки»(Citation: 129).
+    Воронцов, наместник и главнокомандующий на Кавказе, доложил назначение просек военному министру Чернышеву служебным письмом (отношением) от 25 октября 1847 года: «Эти просеки, в связи с прорубленными зимой с 1845 года на 1846 год, дают возможность с нескольких сторон проникать в Чечню и наказывать враждебные аулы; стесненные в средствах жизни, видя постоянные свои неудачи, чеченцы колеблются и в большом числе семейств уже переселяются в наши пределы»(Citation: 126).
+    Император Николай I наложил на донесение резолюцию «Согласен» (6 ноября 1847 года; с одной организационной оговоркой - о невозможности формирования новых линейных батальонов)(Citation: 126).
+  en: |-
+    The empire cut and widened forest clearings (prosekas) in the woods of Lesser Chechnya (the lowland-piedmont western part of Chechnya).
+    Historian N. I. Pokrovsky writes of 1848: "In January - February R. K. Freytag was clearing and widening the Goyta and Gekhi clearings"(Citation: 129).
+    Vorontsov, viceroy and commander-in-chief in the Caucasus, reported the purpose of the clearings to Minister of War Chernyshev in an official letter (otnosheniye) of 25 October 1847: "These clearings, together with those cut in the winter of 1845-1846, make it possible to penetrate Chechnya from several directions and punish hostile auls; constrained in their means of life, seeing their constant failures, the Chechens waver, and a large number of families are already resettling into our bounds"(Citation: 126).
+    Emperor Nicholas I placed the resolution "Agreed" on the dispatch (6 November 1847; with one organizational reservation - on the impossibility of forming new line battalions)(Citation: 126).
+  uk: |-
+    Імперія прорубувала й розширювала просіки в лісах Малої Чечні (рівнинно-передгірної західної частини Чечні).
+    Історик М. І. Покровський пише про 1848 рік: «У січні - лютому Р. К. Фрейтаг очищав і розширював Гойтинську та Гехінську просіки»(Citation: 129).
+    Воронцов, намісник і головнокомандувач на Кавказі, доповів призначення просік військовому міністрові Чернишову службовим листом (отношенієм) від 25 жовтня 1847 року: «Ці просіки, у зв'язку з прорубаними взимку з 1845 року на 1846 рік, дають можливість з кількох боків проникати в Чечню і карати ворожі аули; стиснуті в засобах життя, бачачи постійні свої невдачі, чеченці вагаються і у великому числі родин уже переселяються в наші межі»(Citation: 126).
+    Імператор Микола I наклав на донесення резолюцію «Згоден» (6 листопада 1847 року; з одним організаційним застереженням - про неможливість формування нових лінійних батальйонів)(Citation: 126).

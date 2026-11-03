@@ -1,0 +1,14 @@
+type: procedure
+id: C0012.T0052
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0052
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: 'Масштабное разграбление государственных арсеналов и казны во время карательного рейда на столицу автономии: «Меншиков успел вывезти часть артиллерии»(Citation: 3)(Citation: 4), остальные орудия были подорваны, а город сожжен.'
+  en: 'Large-scale looting of state arsenals and the treasury during the punitive raid on the autonomy''s capital: "Menshikov managed to remove part of the artillery"(Citation: 3)(Citation: 4); the remaining guns were blown up and the city burned.'
+  uk: 'Масштабне розграбування державних арсеналів і скарбниці під час карального рейду на столицю автономії: «Меншиков встиг вивезти частину артилерії»(Citation: 3)(Citation: 4), решту гармат було підірвано, а місто спалено.'

@@ -1,0 +1,23 @@
+type: procedure
+id: C1152.T0077
+created: 2026-07-03
+modified: 2026-07-03
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    С 18 декабря 1830 по 26 января 1831 генерал Вельяминов провёл сквозной поход по равнинной Чечне в наказание народа за поддержку сопротивления, последовательно разоряя сёла от реки Сунжи до Качкалыковского хребта.
+    Имперский историк Потто писал о методе: Вельяминов «обыкновенно намечал себе пункт, к которому неуклонно шёл с целым отрядом, а затем, достигнув его, тотчас располагался лагерем и ставил укреплённый вагенбург (лагерь, огороженный повозками), откуда войска поочерёдно высылались небольшими колоннами для истребления соседних аулов»(Citation: 78).
+    Итог похода Потто признаёт: «вся плоскостная Чечня, пройденная насквозь до Кочалыковского хребта, была предана Вельяминовым огню и мечу»(Citation: 78).
+  en: |-
+    From December 18, 1830 to January 26, 1831, General Velyaminov conducted a sweeping march through lowland Chechnya as punishment of the people for supporting the resistance, systematically devastating villages from the Sunzha River to the Kachkalyk Ridge.
+    The imperial historian Potto wrote of the method: Velyaminov “would usually mark out a point toward which he advanced unswervingly with his entire detachment, and then, upon reaching it, immediately set up camp and established a fortified wagenburg (a camp enclosed by wagons), from which the troops were dispatched in turn in small columns to exterminate the neighboring auls”(Citation: 78).
+    Potto acknowledges the outcome of the campaign: “the whole of lowland Chechnya, traversed through and through as far as the Kochalyk Ridge, was put to fire and sword by Velyaminov”(Citation: 78).
+  uk: |-
+    З 18 грудня 1830 до 26 січня 1831 генерал Вельямінов провів наскрізний похід рівнинною Чечнею на покарання народу за підтримку опору, послідовно розоряючи села від річки Сунжі до Качкаликівського хребта.
+    Імперський історик Потто писав про метод: Вельямінов «зазвичай намічав собі пункт, до якого неухильно йшов з цілим загоном, а потім, досягнувши його, одразу розташовувався табором і ставив укріплений вагенбург (табір, обгороджений возами), звідки війська по черзі висилалися невеликими колонами для винищення сусідніх аулів»(Citation: 78).
+    Підсумок походу Потто визнає: «вся рівнинна Чечня, пройдена наскрізь до Кочаликівського хребта, була віддана Вельяміновим вогню та мечу»(Citation: 78).

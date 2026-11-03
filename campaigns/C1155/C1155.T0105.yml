@@ -1,0 +1,23 @@
+type: procedure
+id: C1155.T0105
+created: 2026-07-03
+modified: 2026-08-07
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    С 22 августа по 23 сентября 1832 войска корпусного командира Розена снесли десятки сёл Чечни и Ичкерии: Белгатой и Джан-юрт, дома шестисотдворного Герменчука, Шали (кроме 11 дворов), Алхан-юрт, Сала-юрт, Катар-юрт, Лялсин-юрт, Назари-юрт, Уздень-юрт, Урузбей-юрт, Хызин-Ерзо-юрт, Анзели-юрт, Чингарой-юрт, Саид-юрт, Анто-юрт, Асхор-юрт, Таба-юрт, Кудиш-юрт, Маиртуп, Шони, Центорой, хутор Хамер, Али-юрт, Бей-Булат-юрт, Бачин-юрт, Хелбойн-юрт, Беной и другие.
+    Розен доносил военному министру Чернышёву о командировании полковника Шумского, которым «истреблены Алхан-юрт, Сала-юрт, Катар-юрт, Лялсин-юрт, Назари-юрт, Уздень-юрт, Урузбей-юрт и Хызин-Ерзо-юрт»(Citation: 105), а итог подвёл сам: «Истреблено непокорившихся селений 61»(Citation: 105).
+    Историк Д. А. Хожаев писал: «Войска генерала сожгли Беной и другие чеченские селения»(Citation: 95).
+  en: |-
+    From August 22 to September 23, 1832, the troops of corps commander Rosen razed dozens of villages of Chechnya and Ichkeria: Belgatoy and Dzhan-yurt, the houses of the six-hundred-household Germenchuk, Shali (except for 11 households), Alkhan-yurt, Sala-yurt, Katar-yurt, Lyalsin-yurt, Nazari-yurt, Uzden-yurt, Uruzbey-yurt, Khyzin-Erzo-yurt, Anzeli-yurt, Chingaroy-yurt, Said-yurt, Anto-yurt, Askhor-yurt, Taba-yurt, Kudish-yurt, Mairtup, Shoni, Tsentoroy, the hamlet of Khamer, Ali-yurt, Bey-Bulat-yurt, Bachin-yurt, Khelboyn-yurt, Benoy, and others.
+    Rosen reported to Minister of War Chernyshev on the dispatch of Colonel Shumsky, by whom “Alkhan-yurt, Sala-yurt, Katar-yurt, Lyalsin-yurt, Nazari-yurt, Uzden-yurt, Uruzbey-yurt and Khyzin-Erzo-yurt have been exterminated”(Citation: 105), and summed up the result himself: “Of unsubmitted villages, 61 have been exterminated”(Citation: 105).
+    Historian D. A. Khozhaev wrote: “The general’s troops burned Benoy and other Chechen villages”(Citation: 95).
+  uk: |-
+    З 22 серпня до 23 вересня 1832 року війська корпусного командира Розена знесли десятки сіл Чечні та Ічкерії: Белгатой і Джан-юрт, будинки шестисотдвірного Герменчука, Шалі (крім 11 дворів), Алхан-юрт, Сала-юрт, Катар-юрт, Лялсін-юрт, Назарі-юрт, Уздень-юрт, Урузбей-юрт, Хизін-Ерзо-юрт, Анзелі-юрт, Чингарой-юрт, Саїд-юрт, Анто-юрт, Асхор-юрт, Таба-юрт, Кудіш-юрт, Маїртуп, Шоні, Центорой, хутір Хамер, Алі-юрт, Бей-Булат-юрт, Бачин-юрт, Хелбойн-юрт, Беной та інші.
+    Розен доносив військовому міністрові Чернишову про відрядження полковника Шумського, яким «знищені Алхан-юрт, Сала-юрт, Катар-юрт, Лялсін-юрт, Назарі-юрт, Уздень-юрт, Урузбей-юрт і Хизін-Ерзо-юрт»(Citation: 105), а підсумок підбив сам: «Знищено непокірних селищ 61»(Citation: 105).
+    Історик Д. А. Хожаєв писав: «Війська генерала спалили Беной та інші чеченські селища»(Citation: 95).

@@ -1,0 +1,25 @@
+type: technique
+id: T0163
+created: 2026-08-06
+modified: 2026-08-06
+version: '1.0'
+tactics:
+- TA0004
+name:
+  ru: Надругательство над мёртвыми
+  en: Desecration of the Dead
+  uk: Наруга над мертвими
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут глумиться над телами убитых - выставлять их напоказ, возить как трофеи, отказывать семьям в выдаче останков и месте могилы.
+    Это акт для живых: тело превращают в послание общине, устрашающее и унижающее.
+    Надругательство над телами запрещено как посягательство на человеческое достоинство (Римский статут, статья 8(2)(b)(xxi); обычная норма 113 свода МККК), а обязанность возвращать останки семьям закреплена нормой 114.
+  en: |-
+    Aggressors may mock the bodies of the dead - put them on display, carry them around as trophies, refuse families the remains and a place of burial.
+    This is an act aimed at the living: the body is turned into a message to the community, one of intimidation and humiliation.
+    Desecration of bodies is prohibited as an outrage upon personal dignity (Rome Statute, Article 8(2)(b)(xxi); customary Rule 113 of the ICRC study), and the duty to return the remains to the families is fixed by Rule 114.
+  uk: |-
+    Агресори можуть глумитися над тілами вбитих - виставляти їх напоказ, возити як трофеї, відмовляти сім'ям у видачі останків і місці могили.
+    Це акт для живих: тіло перетворюють на послання громаді - залякувальне і принизливе.
+    Наруга над тілами заборонена як посягання на людську гідність (Римський статут, стаття 8(2)(b)(xxi); звичаєва норма 113 зводу МКЧХ), а обов'язок повертати останки сім'ям закріплено нормою 114.

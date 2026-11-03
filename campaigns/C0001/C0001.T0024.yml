@@ -1,0 +1,20 @@
+type: procedure
+id: C0001.T0024
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.0'
+technique: T0024
+people: ukrainians
+actor: G0008
+tool: S0011
+contributors: []
+description:
+  ru: |-
+    Захват территорий соседнего государства преподносился населению Московского царства не как акт политической или военной экспансии, а как священная миссия защиты братьев по вере.
+    Этот миф пережил века: еще в 1990 году Солженицын воспроизводил его дословно – «Возврат этих земель в Россию был всеми тогда осознаваем как ВОССОЕДИНЕНИЕ»(Citation: 173).
+  en: |-
+    The seizure of a neighboring state's territories was presented to the population of the Tsardom of Muscovy not as an act of political or military expansion, but as a sacred mission of protecting brothers in faith.
+    This myth outlived the centuries: as late as 1990 Solzhenitsyn reproduced it verbatim – "The return of these lands to Russia was then perceived by everyone as REUNIFICATION"(Citation: 173).
+  uk: |-
+    Захоплення територій сусідньої держави подавалося населенню Московського царства не як акт політичної чи воєнної експансії, а як священна місія захисту братів по вірі.
+    Цей міф пережив століття: ще 1990 року Солженіцин відтворював його дослівно – «Повернення цих земель у Росію було всіма тоді усвідомлюване як ВОЗЗ'ЄДНАННЯ»(Citation: 173).

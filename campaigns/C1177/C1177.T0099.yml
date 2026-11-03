@@ -1,0 +1,66 @@
+type: procedure
+id: C1177.T0099
+created: 2026-08-13
+modified: 2026-08-13
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Чтобы получить укрывавшегося в горах Чечни имама Нажмуддина Гоцинского, ОГПУ (политическая полиция, предшественница современной ФСБ) забрало из сёл стариков и держало их заложниками под угрозой уничтожения сёл артиллерией.
+    Один из организаторов операции, секретарь Северо-Кавказского крайкома партии Микоян, описал это сам: «чтобы поймать его, чекисты пригласили к себе из сел, где он мог скрываться, стариков и, объявив их заложниками, предупредили, что если они не скажут, где находится Гоцинский, то разрушат села артиллерией, а их арестуют и предадут суду.
+    Целые сутки уговаривали стариков, но все было безрезультатно.
+    Тогда в этот район прислали самолет.
+    Они страшно боялись самолета.
+    Только после того, как по селу выпустили несколько снарядов с тем, чтобы без разрушения домов жители почувствовали его силу, старики сказали, в каком ущелье скрывается Гоцинский»(Citation: 483).
+    Слово «заложники» есть и в документах самой операции: 4 сентября 1925 года начальник Чеченского областного отдела ОГПУ Миронов доносил: «Доношу, население выдает Нажмудина.
+    Сейчас веду переговоры с представителями.
+    Дело ведется через отпущенных мною заложников...
+    Пусть 15 часов появятся аэропланы, но не бьют.
+    Для эффекта пусть прибудут штук 6—7»(Citation: 480).
+    Для Шароевского района счёт заложников известен по документам военного архива: историк А. Ю. Лашков пишет, что «командование военной группировки потребовало от населения Шароевского района сдать известного бандита Гоцинского.
+    При этом 40 человек из числа почтенных стариков были взяты в заложники.
+    Однако требование о сдаче Гоцинского в назначенный срок не было удовлетворено, поэтому войска прибегли к усиленным репрессиям.
+    За два дня на район сбросили 22 пуда бомб [около 360 килограммов - как 22 мины современного 120-мм миномёта]»(Citation: 477).
+    Уцелевший спутник Гоцинского называет другое число и добавляет то, чего нет в советских бумагах: из разрушенного аула Хакмеды «было взято 105 заложников», а заложникам грозил расстрел - в его рассказе сказано: «о расстреле заложников в случае сопротивления писали в своих прокламациях большевики»(Citation: 484).
+    В инструкции о разоружении от 4 августа 1925 года, утверждённой руководителями операции, слова «заложники» нет - она разрешает только аресты «влиятельных лиц аула» как крайнюю меру: заложничество делалось сверх написанного, и его следы остались в донесениях исполнителей и мемуарах организатора.
+  en: |-
+    To get at imam Nazhmuddin Gotsinsky, who was sheltering in the mountains of Chechnya, the OGPU (the political police, a predecessor of today's FSB) took old men from the villages and held them hostage under the threat of destroying the villages with artillery.
+    Mikoyan, secretary of the North Caucasus krai committee of the party and one of the operation's organizers, described it himself: "to catch him, the Chekists invited to their quarters old men from the villages where he might be hiding and, declaring them hostages, warned them that if they did not say where Gotsinsky was, they would destroy the villages with artillery, and would arrest them and put them on trial.
+    For a whole day they tried to persuade the old men, but all was without result.
+    Then an aeroplane was sent to that district.
+    They were terribly afraid of the aeroplane.
+    Only after several shells had been fired at the village so that, without destruction of the houses, the inhabitants should feel its power, did the old men say in which gorge Gotsinsky was hiding"(Citation: 483).
+    The word "hostages" is also in the documents of the operation itself: on 4 September 1925 Mironov, head of the Chechen oblast department of the OGPU, reported: "I report: the population is giving up Nazhmudin.
+    I am now conducting negotiations with the representatives.
+    The matter is being conducted through the hostages I have released...
+    Let aeroplanes appear at 15 hours, but not strike.
+    For effect let some 6-7 of them come"(Citation: 480).
+    For the Sharoy district the count of hostages is known from the documents of the military archive: historian A. Yu.
+    Lashkov writes that "the command of the military grouping demanded of the population of the Sharoy district the surrender of the well-known bandit Gotsinsky.
+    In doing so, 40 men from among the honored elders were taken hostage.
+    However, the demand to surrender Gotsinsky was not satisfied within the appointed time, and therefore the troops resorted to intensified repressions.
+    In two days 22 puds of bombs [about 360 kilograms - like 22 rounds of a modern 120 mm mortar] were dropped on the district"(Citation: 477).
+    The surviving companion of Gotsinsky names a different number and adds what is not in the Soviet papers: from the destroyed aul of Khakmedy "105 hostages were taken", and the hostages were threatened with shooting - his account says: "the Bolsheviks wrote of the shooting of the hostages in the event of resistance in their proclamations"(Citation: 484).
+    The word "hostages" is not in the disarmament instruction of 4 August 1925, approved by the operation's commanders, - it allows only arrests of "influential persons of the aul" as an extreme measure: the hostage-taking was done over and above what was written, and its traces remained in the dispatches of the executors and the memoirs of an organizer.
+  uk: |-
+    Щоб отримати імама Нажмуддіна Гоцинського, який переховувався в горах Чечні, ОГПУ (політична поліція, попередниця сучасної ФСБ) забрало із сіл старих і тримало їх заручниками під загрозою знищення сіл артилерією.
+    Один з організаторів операції, секретар Північно-Кавказького крайкому партії Мікоян, описав це сам: «щоб зловити його, чекісти запросили до себе із сіл, де він міг переховуватися, старих і, оголосивши їх заручниками, попередили, що якщо вони не скажуть, де перебуває Гоцинський, то зруйнують села артилерією, а їх заарештують і віддадуть під суд.
+    Цілу добу вмовляли старих, але все було безрезультатно.
+    Тоді в цей район прислали літак.
+    Вони страшенно боялися літака.
+    Тільки після того, як по селу випустили кілька снарядів з тим, щоб без руйнування будинків жителі відчули його силу, старі сказали, в якій ущелині переховується Гоцинський»(Citation: 483).
+    Слово «заручники» є і в документах самої операції: 4 вересня 1925 року начальник Чеченського обласного відділу ОГПУ Міронов доносив: «Доношу, населення видає Нажмудіна.
+    Зараз веду переговори з представниками.
+    Справа ведеться через відпущених мною заручників...
+    Нехай о 15 годині з'являться аероплани, але не б'ють.
+    Для ефекту нехай прибудуть штук 6-7»(Citation: 480).
+    Для Шароєвського району рахунок заручників відомий за документами військового архіву: історик А. Ю. Лашков пише, що «командування військового угруповання зажадало від населення Шароєвського району видати відомого бандита Гоцинського.
+    При цьому 40 осіб з числа поважних старих було взято в заручники.
+    Однак вимогу про видачу Гоцинського в призначений строк не було задоволено, тому війська вдалися до посилених репресій.
+    За два дні на район скинули 22 пуди бомб [близько 360 кілограмів - як 22 міни сучасного 120-мм міномета]»(Citation: 477).
+    Вцілілий супутник Гоцинського називає інше число і додає те, чого немає в радянських паперах: із зруйнованого аулу Хакмеди «було взято 105 заручників», а заручникам загрожував розстріл - у його розповіді сказано: «про розстріл заручників у разі опору писали у своїх прокламаціях більшовики»(Citation: 484).
+    В інструкції про роззброєння від 4 серпня 1925 року, затвердженій керівниками операції, слова «заручники» немає - вона дозволяє тільки арешти «впливових осіб аулу» як крайній захід: заручництво робилося понад написане, і його сліди залишилися в донесеннях виконавців і мемуарах організатора.

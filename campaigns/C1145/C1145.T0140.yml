@@ -1,0 +1,20 @@
+type: procedure
+id: C1145.T0140
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0140
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя сводила леса нохчи, чтобы лишить их сёла естественной защиты и открыть войскам путь.
+    Имперский историк Потто пишет, что «дремучий лес», тянувшийся от Аргуна до Джалки и служивший «преградой для уничтожения герменчугских полей и пастбищ», за три дня был прорублен широкой просекой, «открывавшей большую поляну, на которой стоял Герменчуг и множество аулов»(Citation: 75).
+  en: |-
+    The Russian Empire cut down the forests of the Nokhchi to strip their villages of natural protection and open a path for the troops.
+    The imperial historian Potto writes that the “dense forest” stretching from the Argun to the Dzhalka, which served as “an obstacle to the destruction of the Germenchug fields and pastures,” was cut through in three days by a wide clearing “opening onto a large glade on which stood Germenchug and a multitude of auls”(Citation: 75).
+  uk: |-
+    Російська імперія зводила ліси Нохчі, щоб позбавити їхні села природного захисту та відкрити військам шлях.
+    Імперський історик Потто пише, що «дрімучий ліс», який тягнувся від Аргуна до Джалки і слугував «перепоною для знищення герменчузьких полів і пасовищ», за три дні був прорубаний широкою просікою, «що відкривала велику галявину, на якій стояв Герменчуг і безліч аулів»(Citation: 75).

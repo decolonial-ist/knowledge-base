@@ -1,0 +1,20 @@
+type: procedure
+id: C0044.T0114.003
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.0'
+technique: T0114.003
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Русификация преподавания в главном учебном заведении страны: с 1784 года митрополит Самуил Миславский завёл в Киево-Могилянской академии новые классы географии и истории с наказом вести их «на чистом российском языке», а наказом от 26 октября 1784 года потребовал от учителей и студентов соблюдения «правил правописания, российскому языку свойственнаго» - учителям за упущения грозило отрешение от должности, студентам - исключение из духовного ведомства(Citation: 415).
+    Унификацию завершил наказ от 13 февраля 1786 года: «присвоять немедленно Академии Киевской образ учення, для всех училищ в Империи Всероссийской узаконенными»(Citation: 181) – Киево-Могилянская академия переводилась на общеимперский порядок преподавания.
+  en: |-
+    The Russification of teaching in the country's principal institution of learning: from 1784 metropolitan Samuil Myslavsky introduced new classes of geography and history at the Kyiv-Mohyla Academy with an order to conduct them "in pure Russian," and by his order of 26 October 1784 demanded that teachers and students observe "the rules of orthography proper to the Russian language" - teachers faced dismissal for lapses, and students expulsion from the clerical estate(Citation: 415).
+    The unification was completed by the order of February 13, 1786: "to adopt immediately for the Kyiv Academy the mode of instruction legalized for all schools in the All-Russian Empire"(Citation: 181) – the Kyiv-Mohyla Academy was transferred to the empire-wide mode of teaching.
+  uk: |-
+    Русифікація викладання в головному навчальному закладі країни: з 1784 року митрополит Самуїл Миславський завів у Києво-Могилянській академії нові класи географії та історії з наказом вести їх «чистою російською мовою», а наказом від 26 жовтня 1784 року вимагав від учителів і студентів дотримання «правил правопису, властивого російській мові» - учителям за недогляд загрожувало усунення з посади, студентам - виключення з духовного відомства(Citation: 415).
+    Уніфікацію завершив наказ від 13 лютого 1786 року: «надати негайно Академії Київській образ навчання, для всіх училищ в Імперії Всеросійській узаконений»(Citation: 181) – Києво-Могилянську академію переводили на загальноімперський порядок викладання.

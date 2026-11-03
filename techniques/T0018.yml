@@ -1,0 +1,25 @@
+type: technique
+id: T0018
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0003
+name:
+  ru: Прокси-война
+  en: Proxy War
+  uk: Проксі-війна
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут скрыто инициировать и вести боевые действия на территории целевого региона руками марионеточных вооруженных формирований, радикальных групп или наемников.
+    Данная техника применяется для силового захвата управления без формального объявления войны.
+    Спонсирование, вооружение и координация незаконных отрядов позволяет колонизатору искусственно создать иллюзию внутреннего гражданского конфликта, разрушить государственные институты местного населения и установить военный контроль над территорией, формально отрицая свое прямое участие.
+  en: |-
+    Aggressors may covertly initiate and wage combat operations on the territory of the target region through the hands of puppet armed formations, radical groups, or mercenaries.
+    This technique is used for the forcible seizure of governance without a formal declaration of war.
+    Sponsoring, arming, and coordinating illegal detachments allows the colonizer to artificially create the illusion of an internal civil conflict, destroy the state institutions of the local population, and establish military control over the territory while formally denying its direct involvement.
+  uk: |-
+    Агресори можуть приховано ініціювати та вести бойові дії на території цільового регіону руками маріонеткових збройних формувань, радикальних груп чи найманців.
+    Ця техніка застосовується для силового захоплення управління без формального оголошення війни.
+    Спонсорування, озброєння та координація незаконних загонів дає змогу колонізаторові штучно створити ілюзію внутрішнього громадянського конфлікту, зруйнувати державні інститути місцевого населення та встановити військовий контроль над територією, формально заперечуючи свою пряму участь.

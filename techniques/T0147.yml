@@ -1,0 +1,32 @@
+type: technique
+id: T0147
+created: 2026-06-10
+modified: 2026-08-30
+version: '1.1'
+tactics:
+- TA0003
+- TA0005
+name:
+  ru: Принудительное оформление подданства
+  en: Forced Registration of Subjecthood
+  uk: Примусове оформлення підданства
+contributors: []
+description:
+  ru: |-
+    Агрессоры принуждают лидеров колонизируемых обществ к официальному юридическому закреплению своего подчиненного статуса.
+    Этот процесс происходит под экономическим или военным давлением, при этом условия заранее составленных договоров не подлежат обсуждению(Citation: 71).
+    Для обеспечения легитимности в глазах местного населения колонизатор зачастую требует принесения клятвы верности по религиозным обычаям самих покоряемых народов(Citation: 70).
+    В качестве исторического примера подобной практики выступает шерть — присяга на верность, юридическое закрепление которой нередко сопровождалось выдачей заложников из числа родственников или местной знати(Citation: 71).
+    В некоторых случаях гражданство метрополии является необходимым условием свободы передвижения, возможности обращаться в суд или не быть изгнанным на основании нелегального нахождения на территории, аннексированной колонизатором(Citation: 84).
+  en: |-
+    Aggressors force the leaders of colonized societies to formally codify their subordinate status in law.
+    This process takes place under economic or military pressure, and the terms of the pre-drafted treaties are not open to negotiation(Citation: 71).
+    To ensure legitimacy in the eyes of the local population, the colonizer often demands that an oath of allegiance be sworn according to the religious customs of the subjugated peoples themselves(Citation: 70).
+    A historical example of this practice is the shert — an oath of allegiance whose legal codification was often accompanied by the surrender of hostages from among relatives or the local nobility(Citation: 71).
+    In some cases, citizenship of the metropole is a necessary condition for freedom of movement, for the ability to go to court, or for not being expelled on the grounds of illegal presence in territory annexed by the colonizer(Citation: 84).
+  uk: |-
+    Агресори примушують лідерів колонізованих суспільств до офіційного юридичного закріплення свого підлеглого статусу.
+    Цей процес відбувається під економічним або військовим тиском, при цьому умови заздалегідь складених договорів не підлягають обговоренню(Citation: 71).
+    Для забезпечення легітимності в очах місцевого населення колонізатор часто вимагає складення присяги на вірність за релігійними звичаями самих підкорюваних народів(Citation: 70).
+    Історичним прикладом подібної практики є шерть — присяга на вірність, юридичне закріплення якої нерідко супроводжувалося видачею заручників з числа родичів або місцевої знаті(Citation: 71).
+    У деяких випадках громадянство метрополії є необхідною умовою свободи пересування, можливості звертатися до суду або не бути вигнаним на підставі нелегального перебування на території, анексованій колонізатором(Citation: 84).

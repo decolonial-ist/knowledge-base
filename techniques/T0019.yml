@@ -1,0 +1,22 @@
+type: technique
+id: T0019
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0003
+name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут прибегать к прямому и открытому применению вооруженных сил для вторжения на территорию другого государства или региона.
+    Ввод армии используется для свержения законного правительства, смены политического режима или физического установления контроля над ключевыми инфраструктурными и административными центрами.
+  en: |-
+    Aggressors may resort to the direct and open use of armed forces to invade the territory of another state or region.
+    The deployment of the army is used to overthrow the legitimate government, change the political regime, or physically establish control over key infrastructure and administrative centers.
+  uk: |-
+    Агресори можуть вдаватися до прямого та відкритого застосування збройних сил для вторгнення на територію іншої держави чи регіону.
+    Введення армії використовується для повалення законного уряду, зміни політичного режиму або фізичного встановлення контролю над ключовими інфраструктурними та адміністративними центрами.

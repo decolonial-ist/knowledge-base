@@ -1,0 +1,23 @@
+type: campaign
+id: C0100
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.1'
+people: ukrainians
+first_seen: 2014-02-20
+last_seen: 2014-03-18
+contributors: []
+name:
+  ru: 'Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)'
+  en: 'Beginning of the Russo-Ukrainian War: Armed Invasion and Occupation of Crimea (2014)'
+  uk: 'Початок російсько-української війни: Збройне вторгнення та окупація Криму (2014)'
+description:
+  ru: |-
+    Скрытое военное вторжение и оккупация Крыма, начало вооруженной агрессии РФ против Украины: захват административных зданий военными без знаков различия, назначение подконтрольного премьера и фиктивный референдум, который Генассамблея ООН признала не имеющим силы: «референдум, проведённый в Автономной Республике Крым и городе Севастополе 16 марта 2014 года, не имеющий законной силы, не может быть основой для какого-либо изменения статуса»(Citation: 202).
+    Юридическое оформление захвата завершилось в Москве законом от 21 марта 2014 года(Citation: 204).
+  en: |-
+    A covert military invasion and the occupation of Crimea, the beginning of Russia's armed aggression against Ukraine: the seizure of administrative buildings by troops without insignia, the installation of a controlled prime minister, and a sham referendum that the UN General Assembly declared void: "the referendum held in the Autonomous Republic of Crimea and the city of Sevastopol on 16 March 2014, having no validity, cannot form the basis for any alteration of the status"(Citation: 202).
+    The legal formalization of the seizure was completed in Moscow by the law of March 21, 2014(Citation: 204).
+  uk: |-
+    Приховане воєнне вторгнення та окупація Криму, початок збройної агресії РФ проти України: захоплення адміністративних будівель військовими без розпізнавальних знаків, призначення підконтрольного прем'єра та фіктивний референдум, який Генасамблея ООН визнала таким, що не має сили: «референдум, проведений в Автономній Республіці Крим та місті Севастополі 16 березня 2014 року, не маючи законної сили, не може бути основою для будь-якої зміни статусу»(Citation: 202).
+    Юридичне оформлення захоплення завершилося в Москві законом від 21 березня 2014 року(Citation: 204).

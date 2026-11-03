@@ -1,0 +1,23 @@
+type: procedure
+id: C1143.T0164
+created: 2026-06-27
+modified: 2026-08-10
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя при разорении нохчийского аула отдавала его имущество солдатам как добычу.
+    Историк Д. А. Хожаев пишет, что карательные набеги при Ермолове шли «с уничтожением населения, домов, посевов, садов и лесов, угоном скота и разграблением имущества», а русские начальники вторгались в мирные земли, «чтобы отличиться или забрать добычу»(Citation: 95).
+    Сам генерал Ермолов в своих «Записках» признаёт это: после уничтожения Дади-юрта «солдатам досталась добыча довольно богатая»(Citation: 96).
+  en: |-
+    When laying waste to a Nokhchi aul, the Russian Empire handed its property over to the soldiers as spoils.
+    Historian D. A. Khozhaev writes that the punitive raids under Yermolov proceeded “with the destruction of the population, houses, crops, orchards, and forests, the driving off of livestock, and the plundering of property,” while Russian commanders invaded peaceful lands “to distinguish themselves or to seize booty”(Citation: 95).
+    General Yermolov himself admits this in his “Notes”: after the destruction of Dadi-Yurt, “the soldiers came away with rather rich spoils”(Citation: 96).
+  uk: |-
+    Російська імперія під час розорення нохчійського аулу віддавала його майно солдатам як здобич.
+    Історик Д. А. Хожаєв пише, що каральні набіги за Єрмолова йшли «зі знищенням населення, будинків, посівів, садів і лісів, викраденням худоби та розграбуванням майна», а російські начальники вторгалися в мирні землі, «щоб відзначитися або забрати здобич»(Citation: 95).
+    Сам генерал Єрмолов у своїх «Записках» визнає це: після знищення Даді-юрта «солдатам дісталася доволі багата здобич»(Citation: 96).

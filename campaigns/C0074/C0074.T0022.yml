@@ -1,0 +1,51 @@
+type: procedure
+id: C0074.T0022
+created: 2026-04-27
+modified: 2026-08-30
+version: '1.0'
+technique: T0022
+people: ukrainians
+actor: G0013
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    В захваченном Киеве оккупанты за 1919 год расстреляли сотни людей: убивали по ночам, имена убитых ежедневно печатали в газете, а в последнюю неделю августа объявили «неделю красного террора».
+    Очевидица - киевлянка Катерина Коваль-Медзведская, прожившая в городе под московской оккупацией семь месяцев, с февраля по август 1919 года.
+    Она записала: 24 августа 1919 года «официально объявлена „неделя красного террора" - кровь полилась реками.
+    Всесильные в тот день Петерс, Ворошилов и Лацис не считаются с членами правительства Раковским, Мануильским и другими, подписывавшими ордера об освобождении из ЧК тех или иных лиц, а приказывают их расстреливать „в порядке красного террора"».
+    Расстреливали по ночам: «С 2 до 4 часов зловещую ночную тишину в несчастном, измученном городе нарушали одиночные выстрелы и пронзительные звуки автомобильной сирены.
+    Люди, жившие поблизости от одной из 17 разбросанных по городу чрезвычаек, понимали, что это расстреливают наших братьев, крики и стоны которых красные палачи заглушали остро-пронзительными звуками сирен»(Citation: 560).
+
+    С 24 по 30 августа включительно газета «Известия» - издание киевской оккупационной власти - ежедневно объявляла списки десятков расстрелянных «в порядке красного террора»; 26 августа «объявлен был список 167 лиц, расстрелянных „в порядке красного террора"» - среди них люди, о чьём освобождении очевидица за два дня до того читала приказ в канцелярии центрального органа колониальной администрации (ВУЦИК).
+    «А сколько же людей погибало без объявления, просто исчезали без следа!»(Citation: 560).
+    Один из таких газетных списков уцелел в перепечатке: врио начальника Информационной части белых Шумахер привёл в «Сводке сведений о злодеяниях и беззакониях большевиков» № 25 напечатанный в киевских «Известиях» перечень расстрелянных оккупантами: профессор, преподаватель гимназии, купцы, домовладельцы, присяжные поверенные, бывший киевский губернатор Суковкин, бывший вице-губернатор Неклюдов, 80-летний Слинко(Citation: 574).
+    Сама форма объявлений шла из Москвы: постановление правительства РСФСР «О красном терроре» от 5 сентября 1918 года за подписями министра юстиции Курского и министра внутренних дел Петровского требовало «опубликовывать имена всех расстрелянных, а также основания применения к ним этой меры» - киевские списки с формулой «в порядке красного террора» давали имена и основание - то, чего требовало постановление(Citation: 563).
+
+    Глава советской колониальной администрации Украины Раковский 9 августа 1919 года писал Ленину, что киевская тайная полиция увлекалась расстрелами по наскоро составленным спискам и что всего в Киеве расстреляно более 300 человек(Citation: 564), а председатель украинской тайной полиции Лацис в отчётной книге 1920 года привёл собственную статистику: «Киевской Чрезвычайной Комиссией совместно с В.У.Ч.К. расстреляно 825» человек за 1919 год до октября(Citation: 567).
+  en: |-
+    In captured Kyiv the occupiers shot hundreds of people over 1919: they killed at night, printed the names of the dead daily in a newspaper, and in the last week of August proclaimed a "week of red terror."
+    An eyewitness - Kateryna Koval-Medzvedska, a Kyivan who lived seven months in the city under Moscow's occupation, from February to August 1919 - recorded that on 24 August 1919 "a 'week of red terror' was officially proclaimed - blood flowed in rivers.
+    Peters, Voroshilov and Latsis, all-powerful that day, took no account of government members Rakovsky, Manuilsky and others who signed orders for releases from the Cheka, but ordered those people shot 'in the order of red terror.'" The shooting was done at night: "From 2 to 4 o'clock the sinister night silence of the unhappy, tormented city was broken by single shots and the piercing sounds of a car siren.
+    People living near one of the 17 chekas scattered across the city understood that our brothers were being shot, their cries and groans drowned out by the red executioners with the shrill piercing sounds of sirens"(Citation: 560).
+
+    From 24 to 30 August inclusive the newspaper Izvestia - the organ of the Kyiv occupation authority - daily announced lists of dozens shot "in the order of red terror"; on 26 August "a list was announced of 167 persons shot 'in the order of red terror'" - among them people whose release order the eyewitness had read two days earlier in the chancellery of the central organ of the colonial administration (the VUTsIK).
+    "And how many people perished without announcement, simply vanished without trace!"(Citation: 560).
+    One of those newspaper lists survived in a reprint: Shumakher, acting head of the Whites' Information Section, reproduced in "Summary of Information on the Atrocities and Lawlessness of the Bolsheviks" No. 25 a list printed in the Kyiv Izvestia of people shot by the occupiers: a professor, a gymnasium teacher, merchants, house-owners, attorneys, former Kyiv governor Sukovkin, former vice-governor Neklyudov, 80-year-old Slynko(Citation: 574).
+    The very form of the announcements came from Moscow: the RSFSR government's resolution "On Red Terror" of 5 September 1918, signed by justice minister Kursky and interior minister Petrovsky, required "publishing the names of all those shot, as well as the grounds for applying this measure to them" - the Kyiv lists with the formula "in the order of red terror" delivered names and grounds, exactly what the resolution demanded(Citation: 563).
+
+    The head of the Soviet colonial administration of Ukraine, Rakovsky, wrote to Lenin on 9 August 1919 that the Kyiv secret police had been carried away with executions by hastily drawn-up lists and that more than 300 people had been shot in Kyiv in total(Citation: 564), while Latsis, chairman of the Ukrainian secret police, gave his own statistics in his 1920 report book: "Shot by the Kyiv Extraordinary Commission jointly with the V.U.Ch.K. - 825" people in 1919 up to October(Citation: 567).
+  uk: |-
+    У захопленому Києві окупанти за 1919 рік розстріляли сотні людей: убивали ночами, імена вбитих щодня друкували в газеті, а в останній тиждень серпня оголосили «тиждень червоного терору».
+    Очевидиця - киянка Катерина Коваль-Медзвєдська, що прожила в місті під московською окупацією сім місяців, з лютого по серпень 1919 року.
+    Вона записала: 24 серпня 1919 року «офіціяльно оголошено „тиждень червоного терору" - кров полилася річками.
+    Всесильні на той день Петерс, Ворошилов та Лаціс не числяться з членами правительства Раковським, Мануїльським та іншими, що підписували ордери про звільнення з Чека тих чи інших осіб, а наказують їх розстрілювати „в парядкє краснаво тєрора"».
+    Розстрілювали ночами: «Від 3 до 4 години лиховісну нічну тишу в нещасному, вимученому місті порушували поодинокі стріли та пронизливі звуки самоходової сирени.
+    Люди, що жили поблизу однієї з 17 розкиданих по місту черезвичайок, розуміли, що це розстрілюють наших братів, крики та стогін яких заглушували червоні кати гостро-пронизливими звуками сирен»(Citation: 560).
+
+    З 24 по 30 серпня включно газета „Извєстія" - видання київської окупаційної влади - щодня оголошувала списки десятків розстріляних «в парядкє краснаво тєрора»; 26 серпня «в газеті „Извєстія" оголошено було список 167 осіб, розстріляних „в парядкє краснаво тєрора"» - серед них люди, про чиє звільнення очевидиця за два дні до того читала наказ у канцелярії центрального органу колоніальної адміністрації (ВУЦВК).
+    «А скільки ж то людей загибало без оголошення, просто зникали без сліду!»(Citation: 560).
+    Один із таких газетних списків уцілів у передруку: в. о. начальника Інформаційної частини білих Шумахер навів у «Зведенні відомостей про злодіяння і беззаконня більшовиків» № 25 надрукований у київських „Извєстіях" перелік розстріляних окупантами: професор, викладач гімназії, купці, домовласники, присяжні повірені, колишній київський губернатор Суковкін, колишній віцегубернатор Неклюдов, 80-річний Слинько(Citation: 574).
+    Сама форма оголошень ішла з Москви: постанова уряду РСФРР «Про червоний терор» від 5 вересня 1918 року за підписами міністра юстиції Курського та міністра внутрішніх справ Петровського вимагала «публікувати імена всіх розстріляних, а також підстави застосування до них цього заходу» - київські списки з формулою «в порядку червоного терору» давали імена й підставу - те, чого вимагала постанова(Citation: 563).
+
+    Голова радянської колоніальної адміністрації України Раковський 9 серпня 1919 року писав Леніну, що київська таємна поліція захопилася розстрілами за нашвидку складеними списками і що всього в Києві розстріляно понад 300 осіб(Citation: 564), а голова української таємної поліції Лаціс у звітній книзі 1920 року навів власну статистику: «Київською Надзвичайною Комісією спільно з В.У.Ч.К. розстріляно 825» осіб за 1919 рік до жовтня(Citation: 567).

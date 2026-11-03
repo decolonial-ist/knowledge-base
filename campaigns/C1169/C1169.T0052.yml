@@ -1,0 +1,25 @@
+type: procedure
+id: C1169.T0052
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0052
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Рапорт командующего Кавказской армией военному министру от 6 августа 1860 года фиксирует о выселенных аккинцах: «земля, занимаемая ими, объявлена казенною, и такимъ образомъ дѣло съ Акинцами рѣшено окончательно»(Citation: 109).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов подтверждают: жители Аккинского общества «в течение июля были расселены в Галашевском и других соседних обществах.
+    При этом земля Аккинского общества были объявлены «казенными»»(Citation: 125).
+  en: |-
+    A report of 6 August 1860 from the commander of the Caucasus Army to the Minister of War records, concerning the deported Akkins: "the land they occupied has been declared state property, and thus the matter of the Akkins has been settled conclusively"(Citation: 109).
+    The historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov confirm: the inhabitants of the Akki society "were dispersed over the course of July among the Galash and other neighboring societies.
+    The land of the Akki society was thereby declared 'state property'"(Citation: 125).
+  uk: |-
+    Рапорт командувача Кавказької армії військовому міністрові від 6 серпня 1860 року фіксує щодо виселених аккінців: «земля, яку вони займали, оголошена казенною, і таким чином справу з аккінцями вирішено остаточно»(Citation: 109).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов підтверджують: жителі Аккінського товариства «протягом липня були розселені в Галашівському та інших сусідніх товариствах.
+    При цьому землі Аккінського товариства були оголошені «казенними»»(Citation: 125).

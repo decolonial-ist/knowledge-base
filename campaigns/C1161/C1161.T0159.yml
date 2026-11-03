@@ -1,0 +1,14 @@
+type: procedure
+id: C1161.T0159
+created: 2026-08-07
+modified: 2026-08-07
+version: '1.0'
+technique: T0159
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Апрельским рейдом 1837 года на Гертлинское селение войска генерала Фезе наложили на всё село коллективное имущественное взыскание: по рапорту Розена военному министру Чернышеву от 30 мая, сверх забранного при рейде скота «положен на селение штраф в 132 штуки скота»(Citation: 105) - платило селение целиком, без разбора личной причастности жителей.'
+  en: 'By the April 1837 raid on the Gertli settlement the troops of General Feze imposed a collective property levy on the whole village: according to Rozen''s report to Minister of War Chernyshev of 30 May, on top of the livestock taken during the raid "a fine of 132 head of livestock was imposed on the settlement"(Citation: 105) - the settlement paid as a whole, with no regard to the personal involvement of its residents.'
+  uk: 'Квітневим рейдом 1837 року на Гертлінське селище війська генерала Фезе наклали на все село колективне майнове стягнення: за рапортом Розена військовому міністру Чернишову від 30 травня, понад забрану під час рейду худобу «покладено на селище штраф у 132 штуки худоби»(Citation: 105) - платило селище цілком, без розбору особистої причетності жителів.'

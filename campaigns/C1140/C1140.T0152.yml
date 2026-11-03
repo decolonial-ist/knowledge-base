@@ -1,0 +1,26 @@
+type: procedure
+id: C1140.T0152
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0152
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя натравливала соседние коренные народы друг на друга, чтобы их взаимная вражда ослабляла сопротивление каждого и не давала им объединиться.
+    Для похода 1807 года на чеченцев главнокомандующий на Кавказе генерал Гудович принуждал кабардинцев выступить против нохчи: за неявку «из званий узденей и бегаулей назначенных» был положен штраф «по 50 р. с. и 2 быками».
+    Генерал Дельпоццо доносил, что «склонил Кабардинцев к выступлению в поход и содействию вместе с нашими войсками к наказанию Чеченцев», и хотя «уговорить их было весьма трудно», собрал свыше 3,500 человек, которые «чрез р. Терек переправились и прибыли… на р. Сунжу» против чеченских и карабулакских селений; сами кабардинцы при этом отказывались идти прямо «против Чеченцев», как единоверцев, соглашаясь действовать лишь «против одних Карабулаков».
+    Цель такого натравливания генерал Гудович формулировал прямо — «сии два народа поссорить между собою и привесть во вражду друг против друга, чем самым современем их ослабить»(Citation: 99).
+  en: |-
+    The Russian Empire set neighboring Indigenous peoples against one another so that their mutual enmity would weaken the resistance of each and prevent them from uniting.
+    For the 1807 campaign against the Chechens, the commander-in-chief in the Caucasus, General Gudovich, coerced Kabardians into marching against the Nokhchi: for failure to appear, those “designated from the ranks of uzdens and begauls” faced a fine “of 50 r. in silver and 2 oxen.”
+    General Delpozzo reported that he had “inclined the Kabardians to set out on the campaign and to assist together with our troops in punishing the Chechens,” and although “it was very difficult to persuade them,” he gathered over 3,500 men who “crossed the Terek River and arrived… at the Sunzha River” against the Chechen and Karabulak villages; at the same time, the Kabardians themselves refused to go directly “against the Chechens,” as their co-religionists, agreeing to act only “against the Karabulaks alone.”
+    General Gudovich stated the aim of this incitement outright — “to set these two peoples at odds with each other and bring them into enmity against one another, and thereby weaken them over time”(Citation: 99).
+  uk: |-
+    Російська імперія нацьковувала сусідні корінні народи один на одного, щоб їхня взаємна ворожнеча ослаблювала опір кожного й не давала їм об'єднатися.
+    Для походу 1807 року на Чеченців головнокомандувач на Кавказі генерал Гудович примушував Кабардинців виступити проти Нохчі: за неявку «призначених зі звань узденів і бегаулів» було встановлено штраф «по 50 р. с. і 2 биками».
+    Генерал Дельпоццо доносив, що «схилив Кабардинців до виступу в похід і сприяння разом з нашими військами покаранню Чеченців», і хоча «умовити їх було вельми важко», зібрав понад 3,500 осіб, які «через р. Терек переправилися і прибули… на р. Сунжу» проти чеченських і карабулацьких селищ; самі Кабардинці при цьому відмовлялися йти прямо «проти Чеченців» як одновірців, погоджуючись діяти лише «проти самих Карабулаків».
+    Мету такого нацьковування генерал Гудович формулював прямо — «ці два народи посварити між собою і привести до ворожнечі один проти одного, чим самим з часом їх ослабити»(Citation: 99).

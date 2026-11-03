@@ -1,0 +1,22 @@
+type: technique
+id: T0111
+created: 2026-04-21
+modified: 2026-11-01
+version: '1.2'
+tactics:
+- TA0004
+name:
+  ru: Использование людей как «живого щита»
+  en: Use of People as “Human Shields”
+  uk: Використання людей як «живого щита»
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут использовать мирных жителей, включая женщин, детей и медицинский персонал, для физического прикрытия своей военной техники и личного состава.
+    Размещение безоружных представителей местного населения перед наступающими или отступающими войсками лишает обороняющуюся сторону возможности вести ответный огонь из-за угрозы массовой гибели собственных сограждан, тем самым парализуя сопротивление колонизируемого общества.
+  en: |-
+    Aggressors may use civilians, including women, children, and medical personnel, as physical cover for their military equipment and personnel.
+    Placing unarmed members of the local population in front of advancing or retreating troops deprives the defending side of the ability to return fire due to the threat of mass death of its own fellow citizens, thereby paralyzing the resistance of the colonized society.
+  uk: |-
+    Агресори можуть використовувати мирних жителів, зокрема жінок, дітей і медичний персонал, для фізичного прикриття своєї військової техніки та особового складу.
+    Розміщення беззбройних представників місцевого населення перед військами, що наступають або відступають, позбавляє сторону, яка обороняється, можливості вести вогонь у відповідь через загрозу масової загибелі власних співгромадян, тим самим паралізуючи спротив колонізованого суспільства.

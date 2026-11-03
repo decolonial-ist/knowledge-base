@@ -1,0 +1,20 @@
+type: procedure
+id: C0008.T0015
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0015
+people: ukrainians
+actor: G0008
+tool: S0009
+contributors: []
+description:
+  ru: |-
+    Для получения контроля над церковью Москва применила коррупцию на международном уровне: Киевскую митрополию захватили «путём подкупа, манипуляций, шантажа»(Citation: 212).
+    Плату зафиксировал сам константинопольский патриарх Дионисий в письме к царям: «Приняли есмы милостыню святаго вашего царствія отъ посланного вашего господина Никиты Алексѣевича три сорока соболей и двѣсти червонныхъ»(Citation: 152).
+  en: |-
+    To gain control over the church, Moscow applied corruption at the international level: the Kyiv metropolitanate was seized "through bribery, manipulation, and blackmail"(Citation: 212).
+    The payment was recorded by Patriarch Dionysius of Constantinople himself in a letter to the tsars: "We have received the alms of your holy tsardom from your envoy, lord Nikita Alekseevich – three forties of sables and two hundred gold pieces"(Citation: 152).
+  uk: |-
+    Для здобуття контролю над церквою Москва застосувала корупцію на міжнародному рівні: Київську митрополію захопили «шляхом підкупу, маніпуляцій, шантажу»(Citation: 212).
+    Плату зафіксував сам константинопольський патріарх Діонісій у листі до царів: «Прийняли єсмо милостиню святого вашого царствія від посланого вашого господина Микити Олексійовича три сороки соболів і двісті червоних»(Citation: 152).

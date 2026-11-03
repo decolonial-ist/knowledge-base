@@ -1,0 +1,22 @@
+type: technique
+id: T0036
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Установка новой системы управления
+  en: Installation of a New System of Governance
+  uk: Встановлення нової системи управління
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут принудительно заменять легитимные органы собственными бюрократическими и административными структурами.
+    Внедрение управленческих стандартов метрополии позволяет колонизатору полностью интегрировать захваченный регион в свое правовое и политическое поле, лишая местное население права на самоуправление.
+  en: |-
+    Aggressors may forcibly replace legitimate bodies with their own bureaucratic and administrative structures.
+    The introduction of the metropole's administrative standards allows the colonizer to fully integrate the seized region into its legal and political domain, depriving the local population of the right to self-governance.
+  uk: |-
+    Агресори можуть примусово замінювати легітимні органи власними бюрократичними й адміністративними структурами.
+    Впровадження управлінських стандартів метрополії дає колонізаторові змогу повністю інтегрувати захоплений регіон у своє правове й політичне поле, позбавляючи місцеве населення права на самоврядування.

@@ -1,0 +1,26 @@
+type: procedure
+id: C1161.T0053
+created: 2026-07-21
+modified: 2026-07-21
+version: '1.0'
+technique: T0053
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    За весенний тур Фезе по Чечне (февраль-апрель 1837) войска увели в плен десятки жителей, большинство - безоружных.
+    Сводка рапорта Розена военному министру Чернышеву от 4 марта 1837: за 12-22 февраля «захвачено войсками нашими в плен 52 души непокорившихся добровольно жителей, в том числе 8 чел. вооруженных»(Citation: 105) - то есть 44 из 52 пленных оружия не имели.
+    Рапорт от 23 февраля о сожжении Сеид-юрта и Автура: взяты «один Чеченец и три женщины, не успевшие уйти в лес»(Citation: 105).
+    В ночь на 22 марта у Гурдали, по рапорту от 12 апреля, подполковник Пантелеев «захватил в плен 9 Чеченцев непокорных»; в апрельском рейде на Гертлинское селение «захвачено ещё 18 душ, принадлежащих к семействам хищников»(Citation: 105).
+  en: |-
+    Over Feze's spring tour across Chechnya (February-April 1837), the troops led away dozens of inhabitants into captivity, most of them unarmed.
+    The summary in Rozen's report to Minister of War Chernyshev of 4 March 1837: for 12-22 February "52 souls of inhabitants who did not submit voluntarily were taken captive by our troops, including 8 armed men"(Citation: 105) - that is, 44 of the 52 captives bore no arms.
+    The report of 23 February on the burning of Seid-yurt and Avtur: "one Chechen and three women who had not managed to get away into the forest" were taken(Citation: 105).
+    On the night of 22 March at Gurdali, according to the report of 12 April, Lieutenant Colonel Panteleyev "took captive 9 unsubmissive Chechens"; in the April raid on the Gertli settlement "18 more souls belonging to the families of the brigands were seized"(Citation: 105).
+  uk: |-
+    За весняний тур Фезе по Чечні (лютий-квітень 1837) війська увели в полон десятки жителів, більшість - беззбройних.
+    Зведення рапорту Розена військовому міністру Чернишову від 4 березня 1837: за 12-22 лютого «захоплено військами нашими в полон 52 душі жителів, що не підкорилися добровільно, у тому числі 8 чол. озброєних»(Citation: 105) - тобто 44 з 52 полонених зброї не мали.
+    Рапорт від 23 лютого про спалення Сеїд-юрта і Автура: взяті «один чеченець і три жінки, що не встигли піти в ліс»(Citation: 105).
+    У ніч на 22 березня біля Гурдалі, за рапортом від 12 квітня, підполковник Пантелєєв «захопив у полон 9 чеченців непокірних»; у квітневому рейді на Гертлінське селище «захоплено ще 18 душ, що належать до сімейств хижаків»(Citation: 105).

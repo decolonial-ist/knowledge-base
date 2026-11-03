@@ -1,0 +1,20 @@
+type: procedure
+id: C0008.T0100
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0100
+people: ukrainians
+actor: G0008
+tool: S0011
+contributors: []
+description:
+  ru: |-
+    Ликвидация независимой юрисдикции для превращения церкви в инструмент ассимиляции – присоединение украинской церкви к московской в 1686 году(Citation: 168).
+    Вселенский патриархат впоследствии официально констатировал, что эти действия «были совершены совсем не в согласии с законными каноническими предписаниями»(Citation: 164).
+  en: |-
+    The liquidation of independent jurisdiction to turn the church into an instrument of assimilation – the annexation of the Ukrainian church to the Muscovite one in 1686(Citation: 168).
+    The Ecumenical Patriarchate later officially stated that these actions "were carried out entirely out of accord with the lawful canonical prescriptions"(Citation: 164).
+  uk: |-
+    Ліквідація незалежної юрисдикції для перетворення церкви на інструмент асиміляції – приєднання української церкви до московської 1686 року(Citation: 168).
+    Вселенський патріархат згодом офіційно констатував, що ці дії «були здійснені зовсім не у згоді із законними канонічними приписами»(Citation: 164).

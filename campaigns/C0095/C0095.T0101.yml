@@ -1,0 +1,14 @@
+type: procedure
+id: C0095.T0101
+created: 2026-04-27
+modified: 2026-08-08
+version: '1.0'
+technique: T0101
+people: ukrainians
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: 'Немедленная ликвидация независимой прессы: постановление ГКЧП № 2 от 19 августа 1991 года предписало «Временно ограничить перечень выпускаемых центральных, московских городских и областных общественно-политических изданий следующими газетами: «Труд», «Рабочая трибуна», «Известия», «Правда», «Красная звезда», «Советская Россия», «Московская правда», «Ленинское знамя», «Сельская жизнь»»(Citation: 179) – всё, что не вошло в список, выходить не могло.'
+  en: 'The immediate elimination of the independent press: GKChP resolution No. 2 of 19 August 1991 ordered "to temporarily limit the list of published central, Moscow city, and oblast socio-political editions to the following newspapers: ''Trud,'' ''Rabochaya tribuna,'' ''Izvestia,'' ''Pravda,'' ''Krasnaya zvezda,'' ''Sovetskaya Rossiya,'' ''Moskovskaya pravda,'' ''Leninskoye znamya,'' ''Selskaya zhizn''"(Citation: 179) – anything not on the list could not appear.'
+  uk: 'Негайна ліквідація незалежної преси: постанова ГКЧП № 2 від 19 серпня 1991 року приписала «Тимчасово обмежити перелік центральних, московських міських і обласних суспільно-політичних видань, що випускаються, такими газетами: «Труд», «Рабочая трибуна», «Известия», «Правда», «Красная звезда», «Советская Россия», «Московская правда», «Ленинское знамя», «Сельская жизнь»»(Citation: 179) – усе, що не увійшло до списку, виходити не могло.'

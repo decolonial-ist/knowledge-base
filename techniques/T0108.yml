@@ -1,0 +1,26 @@
+type: technique
+id: T0108
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0004
+- TA0002
+name:
+  ru: Экономическая блокада
+  en: Economic Blockade
+  uk: Економічна блокада
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут вводить финансовые и торговые ограничения, блокировать банковские переводы и останавливать работу предприятий коренного народа,.
+    Эта техника применяется для подготовки к захвату и нейтрализации защиты.
+    Искусственное удушение экономики лишает колонизируемое общество ресурсов, необходимых для самообеспечения и обороны, провоцируя внутренний кризис и ослабляя институты перед началом открытой интервенции или в ходе активного конфликта.
+  en: |-
+    Aggressors may impose financial and trade restrictions, block bank transfers, and halt the operation of the Indigenous people's enterprises.
+    This technique is used for preparation for seizure and neutralization of defenses.
+    The artificial strangulation of the economy deprives the colonized society of the resources needed for self-sufficiency and defense, provoking an internal crisis and weakening institutions before the start of an open intervention or in the course of an active conflict.
+  uk: |-
+    Агресори можуть запроваджувати фінансові й торговельні обмеження, блокувати банківські перекази та зупиняти роботу підприємств корінного народу.
+    Ця техніка застосовується для підготовки до захоплення та нейтралізації захисту.
+    Штучне удушення економіки позбавляє колонізоване суспільство ресурсів, необхідних для самозабезпечення й оборони, провокуючи внутрішню кризу та послаблюючи інститути перед початком відкритої інтервенції або в ході активного конфлікту.

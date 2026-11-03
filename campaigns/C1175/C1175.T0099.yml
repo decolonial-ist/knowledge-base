@@ -1,0 +1,22 @@
+type: procedure
+id: C1175.T0099
+created: 2026-08-06
+modified: 2026-08-06
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    В 1906 году начальник Веденского округа подполковник Добровольский, как пишут историки Я. З. Ахмадов и Э. Х. Хасмагомадов, «не нашел ничего более умного, как дать команду в Харачое хватать женщин-родственниц абрека Зелимхана»(Citation: 125).
+    «Осенью 1910 г. схвачена и выслана семья Зелимхана», а в ноябре 1911 года «выслано 24 родственника Зелимхана вместе с семьями, после того как они не выполнили требование выдать или убить Зелимхана» - по донесению властей, эти люди ещё и «...агитировали среди прочего населения Хорочоя, что делать этого не следует»(Citation: 125).
+  en: |-
+    In 1906 the head of the Vedeno okrug, Lieutenant colonel Dobrovolsky, as historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write, "found nothing smarter than to give the command to seize the women relatives of the abrek Zelimkhan in Kharachoy"(Citation: 125).
+    "In the autumn of 1910 Zelimkhan's family was seized and exiled", and in November 1911 "24 relatives of Zelimkhan were exiled together with their families, after they failed to comply with the demand to hand over or kill Zelimkhan" - by the authorities' report, these people had also "...agitated among the rest of the population of Khorochoy that this should not be done"(Citation: 125).
+  uk: |-
+    У 1906 році начальник Веденського округу підполковник Добровольський, як пишуть історики Я. З. Ахмадов і Е. Х. Хасмагомадов, «не знайшов нічого розумнішого, ніж дати команду в Харачої хапати жінок-родичок абрека Зелімхана»(Citation: 125).
+    «Восени 1910 р. схоплено і вислано сім'ю Зелімхана», а в листопаді 1911 року «вислано 24 родичів Зелімхана разом із сім'ями, після того як вони не виконали вимогу видати або вбити Зелімхана» - за донесенням влади, ці люди ще й «...агітували серед іншого населення Хорочоя, що робити цього не слід»(Citation: 125).

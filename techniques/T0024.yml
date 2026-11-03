@@ -1,0 +1,25 @@
+type: technique
+id: T0024
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0001
+name:
+  ru: Оправдание через религию
+  en: Justification Through Religion
+  uk: Виправдання через релігію
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут использовать религиозную риторику и институты для идеологического обоснования экспансии.
+    Захват территорий преподносится не как акт вооруженной агрессии, а как священная миссия по защите единоверцев, восстановлению канонической справедливости или исполнению божественного предназначения.
+    Использование подобных нарративов позволяет колонизатору морально оправдать вторжение в глазах собственного общества, мобилизовать его на поддержку конфликта, а также замаскировать политическое поглощение под духовное объединение.
+  en: |-
+    Aggressors may use religious rhetoric and institutions to provide ideological justification for expansion.
+    The seizure of territories is presented not as an act of armed aggression but as a sacred mission to protect co-religionists, restore canonical justice, or fulfill a divine destiny.
+    Using such narratives allows the colonizer to morally justify the invasion in the eyes of its own society, mobilize it to support the conflict, and disguise political absorption as spiritual unification.
+  uk: |-
+    Агресори можуть використовувати релігійну риторику та інституції для ідеологічного обґрунтування експансії.
+    Захоплення територій подається не як акт збройної агресії, а як священна місія із захисту одновірців, відновлення канонічної справедливості чи виконання божественного призначення.
+    Використання подібних наративів дозволяє колонізатору морально виправдати вторгнення в очах власного суспільства, мобілізувати його на підтримку конфлікту, а також замаскувати політичне поглинання під духовне об'єднання.

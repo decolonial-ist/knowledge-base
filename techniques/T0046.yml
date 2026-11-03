@@ -1,0 +1,22 @@
+type: technique
+id: T0046
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Создание экономической зависимости
+  en: Creation of Economic Dependence
+  uk: Створення економічної залежності
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут целенаправленно разрушать или изолировать самодостаточные отрасли экономики колонизируемого общества, заменяя их дотациями или критическими поставками из метрополии.
+    Искусственное превращение региона в дотационную периферию, критически зависящую от внешнего финансирования, энергоносителей или рынков сбыта колонизатора, лишает местное население материальной базы для политической независимости и делает организованный протест экономически невозможным.
+  en: |-
+    Aggressors may deliberately destroy or isolate the self-sufficient sectors of the colonized society's economy, replacing them with subsidies or critical supplies from the metropole.
+    Artificially turning the region into a subsidized periphery critically dependent on the colonizer's external financing, energy resources, or export markets deprives the local population of the material base for political independence and makes organized protest economically impossible.
+  uk: |-
+    Агресори можуть цілеспрямовано руйнувати або ізолювати самодостатні галузі економіки колонізованого суспільства, замінюючи їх дотаціями чи критично важливими поставками з метрополії.
+    Штучне перетворення регіону на дотаційну периферію, критично залежну від зовнішнього фінансування, енергоносіїв чи ринків збуту колонізатора, позбавляє місцеве населення матеріальної бази для політичної незалежності та робить організований протест економічно неможливим.

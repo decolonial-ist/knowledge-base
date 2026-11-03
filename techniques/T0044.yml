@@ -1,0 +1,25 @@
+type: technique
+id: T0044
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Уничтожение локальных систем знаний
+  en: Destruction of Local Knowledge Systems
+  uk: Знищення локальних систем знань
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут целенаправленно разрушать образовательные, научные и теологические институты коренного народа.
+    Ликвидация местных академических школ, запрет на издание литературы и официальное объявление трудов локальных мыслителей еретическими или экстремистскими позволяет колонизатору искусственно разорвать интеллектуальную преемственность.
+    Это лишает колонизируемое общество его собственной культурной базы и создает вакуум, который немедленно заполняется образовательными и идеологическими стандартами метрополии.
+  en: |-
+    Aggressors may deliberately destroy the educational, scientific, and theological institutions of an Indigenous people.
+    Eliminating local academic schools, banning the publication of literature, and officially declaring the works of local thinkers heretical or extremist allows the colonizer to artificially sever intellectual continuity.
+    This deprives the colonized society of its own cultural foundation and creates a vacuum that is immediately filled by the educational and ideological standards of the metropole.
+  uk: |-
+    Агресори можуть цілеспрямовано руйнувати освітні, наукові та теологічні інституції корінного народу.
+    Ліквідація місцевих академічних шкіл, заборона на видання літератури та офіційне оголошення праць місцевих мислителів єретичними чи екстремістськими дозволяє колонізатору штучно розірвати інтелектуальну спадкоємність.
+    Це позбавляє колонізоване суспільство власної культурної бази та створює вакуум, який негайно заповнюється освітніми й ідеологічними стандартами метрополії.

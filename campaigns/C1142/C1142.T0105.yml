@@ -1,0 +1,20 @@
+type: procedure
+id: C1142.T0105
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя сносила и жгла селения нохчи.
+    Имперский историк Потто пишет, что полковник Эристов, перейдя за Терек, после упорного боя сжёг и снёс «несколько селений по Сунже»(Citation: 74).
+  en: |-
+    The Russian Empire razed and burned Nokhchi villages.
+    The imperial historian Potto writes that Colonel Eristov, having crossed the Terek, after a stubborn battle burned and razed «several villages along the Sunzha»(Citation: 74).
+  uk: |-
+    Російська імперія зносила й палила селища Нохчі.
+    Імперський історик Потто пише, що полковник Ерістов, перейшовши за Терек, після впертого бою спалив і зніс «кілька селищ по Сунжі»(Citation: 74).

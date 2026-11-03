@@ -1,0 +1,52 @@
+type: campaign
+id: C0103
+created: 2026-04-27
+modified: 2026-08-17
+version: '1.3'
+people: ukrainians
+first_seen: 2022-02-24
+last_seen: 2026-05-13
+contributors: []
+name:
+  ru: Полномасштабное вторжение (с 24 февраля 2022)
+  en: Full-Scale Invasion (from February 24, 2022)
+  uk: Повномасштабне вторгнення (з 24 лютого 2022)
+description:
+  ru: |-
+    24 февраля 2022 года Российская Федерация начала полномасштабное вторжение в Украину силами регулярной армии сразу с нескольких направлений - с севера через Беларусь на Киев, с востока и с юга из Крыма, - развязав крупнейшую войну в Европе со времён Второй Мировой.
+
+    Комиссия ООН зафиксировала начало так: «в тот же день российские войска пересекли границу Украины в различных пунктах, в том числе через Беларусь, и начали атаки с суши, с воздуха и с моря»(Citation: 221).
+    Комиссия квалифицирует установленное так: нарушения «составляют военные преступления и включают умышленные убийства, нападения на гражданских лиц, незаконное лишение свободы, пытки, изнасилования и принудительное перемещение и депортацию детей»(Citation: 221).
+    О характере ударов комиссия пишет: они наносились «с явным пренебрежением к ущербу и страданиям гражданского населения»(Citation: 221).
+    Миссия ОБСЕ формулирует итог так: в ведении боевых действий российскими силами видны «явные паттерны нарушений международного гуманитарного права»; и миссия добавляет: соблюдай они «обязательства в части избирательности, соразмерности и предосторожностей при атаке», число жертв среди гражданских было бы «намного ниже»(Citation: 327).
+    Кампания сопровождается уничтожением целых городов (урбицидом), экоцидом и системной политикой ассимиляции на оккупированных территориях(Citation: 2).
+    К маю 2026 года под оккупацией остаётся около 20% территории Украины(Citation: 473).
+
+    Это головная кампания войны.
+    Отдельные осады, оккупационные режимы, эпизоды массовых убийств и сквозные политики вынесены в самостоятельные кампании - от блокады Мариуполя и резни в Буче до депортации детей, системы фильтрации и войны против энергосистемы.
+  en: |-
+    On 24 February 2022, the Russian Federation launched a full-scale invasion of Ukraine with its regular army from several directions at once - from the north through Belarus towards Kyiv, from the east, and from the south out of Crimea - unleashing the largest war in Europe since the Second World War.
+    The aim of the campaign is the complete destruction of Ukrainian statehood and the erasure of Ukrainian identity.
+
+    The UN commission recorded the opening this way: "On the same day, Russian troops crossed various border points into Ukraine, including through Belarus, and launched attacks by land, air and sea"(Citation: 221).
+    The commission qualifies what it established as follows: the violations "amount to war crimes and include wilful killings, attacks on civilians, unlawful confinement, torture, rape and the forced transfer and deportation of children"(Citation: 221).
+    On the character of the strikes the commission writes: they were carried out "with an apparent disregard for civilian harm and suffering"(Citation: 221).
+    The OSCE mission puts its finding this way: in the Russian forces' conduct of hostilities there are "clear patterns of IHL violations"; and the mission adds: had they respected "their IHL obligations in terms of distinction, proportionality and precautions in attack," civilian casualties would have been far lower(Citation: 327).
+    The campaign is accompanied by the destruction of entire cities (urbicide), ecocide, and a systematic policy of assimilation in the occupied territories(Citation: 2).
+    As of May 2026, about 20% of Ukraine's territory remains under occupation(Citation: 473).
+
+    This is the head campaign of the war.
+    Individual sieges, occupation regimes, episodes of mass killing, and cross-cutting policies are carried in campaigns of their own - from the siege of Mariupol and the Bucha massacre to the deportation of children, the filtration system, and the war on the power grid.
+  uk: |-
+    24 лютого 2022 року Російська Федерація розпочала повномасштабне вторгнення в Україну силами регулярної армії одразу з кількох напрямків - з півночі через Білорусь на Київ, зі сходу та з півдня з Криму, - розв'язавши найбільшу війну в Європі з часів Другої світової.
+    Мета кампанії - повне знищення української державності та стирання української ідентичності.
+
+    Комісія ООН зафіксувала початок так: «того ж дня російські війська перетнули кордон України в різних пунктах, зокрема через Білорусь, і розпочали атаки із суші, повітря та моря»(Citation: 221).
+    Комісія кваліфікує встановлене так: порушення «становлять воєнні злочини і включають умисні вбивства, напади на цивільних осіб, незаконне позбавлення волі, катування, зґвалтування та примусове переміщення й депортацію дітей»(Citation: 221).
+    Про характер ударів комісія пише: вони завдавалися «з явною зневагою до шкоди та страждань цивільного населення»(Citation: 221).
+    Місія ОБСЄ формулює підсумок так: у веденні бойових дій російськими силами видно «явні патерни порушень міжнародного гуманітарного права»; і місія додає: якби вони дотримувалися «зобов'язань щодо розрізнення, пропорційності та запобіжних заходів під час атаки», кількість жертв серед цивільних була б «набагато нижчою»(Citation: 327).
+    Кампанія супроводжується знищенням цілих міст (урбіцидом), екоцидом та системною політикою асиміляції на окупованих територіях(Citation: 2).
+    Станом на травень 2026 року під окупацією залишається близько 20% території України(Citation: 473).
+
+    Це головна кампанія війни.
+    Окремі облоги, окупаційні режими, епізоди масових убивств і наскрізні політики винесено в самостійні кампанії - від блокади Маріуполя та різанини в Бучі до депортації дітей, системи фільтрації та війни проти енергосистеми.

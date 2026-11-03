@@ -1,0 +1,29 @@
+type: procedure
+id: C0014.T0077
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0077
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Карательный поход на Сечь для физического уничтожения низового казачества: «Туда было направлено три пехотных полка во главе с полковником П. Яковлевым.
+    Первой 16 апреля была взята и сожжена Келеберда.
+    Упорный бой шел за Переволочную»(Citation: 3).
+    Штурм самой Сечи продолжался четыре дня.
+    Проводником карателей стал компанейский полковник Гнат Галаган: он «1709 принимал участие в разрушении Запорожской Сечи, за что получил четыре села на Правобережье»(Citation: 186).
+  en: |-
+    A punitive expedition against the Sich to physically annihilate the Lower Dnipro Cossacks: "Three infantry regiments led by Colonel P. Yakovlev were sent there.
+    Keleberda was the first to be taken and burned on April 16.
+    A stubborn battle was fought for Perevolochna"(Citation: 3).
+    The assault on the Sich itself lasted four days.
+    The punitive force was guided by mercenary colonel Hnat Galagan: in "1709 he took part in the destruction of the Zaporozhian Sich, for which he received four villages on the Right Bank"(Citation: 186).
+  uk: |-
+    Каральний похід на Січ для фізичного знищення низового козацтва: «Туди було направлено три піхотні полки на чолі з полковником П. Яковлєвим.
+    Першою 16 квітня була взята і спалена Келеберда.
+    Упертий бій ішов за Переволочну»(Citation: 3).
+    Штурм самої Січі тривав чотири дні.
+    Провідником карателів став компанійський полковник Гнат Ґалаґан: він «1709 брав участь у зруйнуванні Запорозької Січі, за що одержав чотири села на Правобережжі»(Citation: 186).

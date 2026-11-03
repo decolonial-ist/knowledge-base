@@ -1,0 +1,30 @@
+type: technique
+id: T0141
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0004
+- TA0006
+- TA0005
+name:
+  ru: Создание экономической безысходности
+  en: Creation of Economic Hopelessness
+  uk: Створення економічної безвиході
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут целенаправленно создавать и поддерживать невыносимые социально-экономические условия (острое малоземелье, непосильные повинности, нищету) на исторических территориях коренного народа.
+    Это делается для того, чтобы вынудить население спасаться от физического и социального разорения.
+    В результате народ «добровольно-принудительно» вступает в военизированные структуры колонизатора (например, казачество, регулярную армию) или массово мигрирует на опасные имперские фронтиры для их освоения.
+    Техника позволяет империи решать свои военные и колонизационные задачи чужими руками, маскируя государственное принуждение под «свободный экономический выбор» самих жертв.
+  en: |-
+    Aggressors may deliberately create and maintain unbearable socio-economic conditions (acute land shortage, crushing obligations, destitution) in the historical territories of an Indigenous people.
+    This is done to force the population to flee physical and social ruin.
+    As a result, the people 'voluntarily-compulsorily' join the colonizer's militarized structures (for example, the Cossack host or the regular army) or migrate en masse to dangerous imperial frontiers to settle them.
+    This technique allows the empire to accomplish its military and colonization objectives by proxy, disguising state coercion as the victims' own 'free economic choice.'
+  uk: |-
+    Агресори можуть цілеспрямовано створювати й підтримувати нестерпні соціально-економічні умови (гостре малоземелля, непосильні повинності, злидні) на історичних територіях корінного народу.
+    Це робиться для того, щоб змусити населення рятуватися від фізичного та соціального розорення.
+    У результаті народ «добровільно-примусово» вступає до воєнізованих структур колонізатора (наприклад, козацтва, регулярної армії) або масово мігрує на небезпечні імперські фронтири для їх освоєння.
+    Техніка дозволяє імперії розв'язувати свої військові та колонізаційні завдання чужими руками, маскуючи державний примус під «вільний економічний вибір» самих жертв.

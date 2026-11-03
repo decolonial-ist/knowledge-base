@@ -1,0 +1,23 @@
+type: technique
+id: T0113.002
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+parent: T0113
+tactics:
+- TA0005
+name:
+  ru: Исключение родного языка из делопроизводства
+  en: Exclusion of the Native Language from Official Use
+  uk: Виключення рідної мови з діловодства
+contributors: []
+description:
+  ru: |-
+    В рамках лингвистической ассимиляции агрессоры могут принудительно переводить работу всех государственных, судебных и административных учреждений исключительно на язык метрополии.
+    Создание языкового барьера между бюрократическим аппаратом и коренным народом искусственно маргинализирует местное население, ограничивает его доступ к государственным услугам и вынуждает переходить на язык колонизатора для социального и карьерного выживания.
+  en: |-
+    As part of linguistic assimilation, aggressors may forcibly convert the operation of all state, judicial, and administrative institutions exclusively to the language of the metropole.
+    Creating a language barrier between the bureaucratic apparatus and the Indigenous people artificially marginalizes the local population, restricts its access to public services, and forces it to switch to the colonizer's language for social and career survival.
+  uk: |-
+    У межах лінгвістичної асиміляції агресори можуть примусово переводити роботу всіх державних, судових та адміністративних установ виключно на мову метрополії.
+    Створення мовного бар'єра між бюрократичним апаратом і корінним народом штучно маргіналізує місцеве населення, обмежує його доступ до державних послуг і змушує переходити на мову колонізатора задля соціального та кар'єрного виживання.

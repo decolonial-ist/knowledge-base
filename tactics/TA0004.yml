@@ -1,0 +1,21 @@
+type: tactic
+id: TA0004
+created: 2026-05-23
+modified: 2026-07-12
+version: '1.0'
+shortname: neutralization
+order: 4
+name:
+  ru: Ослабление защиты
+  en: Defense Impairment
+  uk: Ослаблення захисту
+description:
+  ru: |-
+    Подрыв коллективной способности сопротивляться: физическое уничтожение и депортация элит, разоружение, репрессии против оппозиции, разрушение автономных институтов – армии, церкви, самоуправления, образования.
+    Так ослабляются инструменты коллективной защиты и самоорганизации.
+  en: |-
+    Undermining the collective capacity to resist: physical destruction and deportation of elites, disarmament, repression of the opposition, dismantling of autonomous institutions – the army, the church, self-government, education.
+    The instruments of collective defense and self-organization are eroded.
+  uk: |-
+    Підрив колективної здатності чинити опір: фізичне знищення та депортація еліт, роззброєння, репресії проти опозиції, руйнування автономних інституцій – армії, церкви, самоврядування, освіти.
+    Так послаблюються інструменти колективного захисту та самоорганізації.

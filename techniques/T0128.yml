@@ -1,0 +1,26 @@
+type: technique
+id: T0128
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+- TA0004
+name:
+  ru: Ликвидация национальных общественных организаций
+  en: Liquidation of National Civic Organizations
+  uk: Ліквідація національних громадських організацій
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять принудительный роспуск, запрет и криминализацию деятельности независимых просветительских, культурных, научных и благотворительных обществ коренного народа.
+    В острой фазе эта техника применяется для нейтрализации защиты, лишая общество легальных структур для горизонтальной самоорганизации.
+    В долгосрочной перспективе она служит закреплению контроля, так как ликвидация национальных гражданских институтов делает невозможным легальное развитие национальной культуры и формирование независимых элит.
+  en: |-
+    Aggressors may carry out the forced dissolution, prohibition, and criminalization of the activities of independent educational, cultural, scientific, and charitable societies of the indigenous people.
+    In the acute phase, this technique is used to neutralize defenses, depriving society of legal structures for horizontal self-organization.
+    In the long term, it serves to consolidate control, since the liquidation of national civic institutions makes the legal development of national culture and the formation of independent elites impossible.
+  uk: |-
+    Агресори можуть здійснювати примусовий розпуск, заборону та криміналізацію діяльності незалежних просвітницьких, культурних, наукових і благодійних товариств корінного народу.
+    У гострій фазі ця техніка застосовується для нейтралізації захисту, позбавляючи суспільство легальних структур для горизонтальної самоорганізації.
+    У довгостроковій перспективі вона слугує закріпленню контролю, оскільки ліквідація національних громадянських інституцій унеможливлює легальний розвиток національної культури та формування незалежних еліт.

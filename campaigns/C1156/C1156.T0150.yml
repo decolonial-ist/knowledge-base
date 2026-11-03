@@ -1,0 +1,28 @@
+type: procedure
+id: C1156.T0150
+created: 2026-07-03
+modified: 2026-08-07
+version: '1.0'
+technique: T0150
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В 1836 году корпусный командир Розен направил через Чечню тайных топографов для скрытного изучения не подчинившейся земли.
+    В отчёте императору Розен признаёт: «в 1836 году, для обозрения прямого пути, идущего из Кахетии в Чечню, послан был топограф, который, пройдя чрез снеговой хребет, вышел на Кавказскую Линию в кр.
+    Грозную, а оттуда чрез Чечню, земли Кистинцев и Дидойцев, возвратился в Кахетию»; тогда же «послан был мною из Владикавказа л.-гв.
+    Гренадерского полка прап. кн.
+    Уцмиев с топографом, чрез Чечню, в Андию»(Citation: 105).
+    Розен прямо называл метод: «скрытные обозрения земель неприязненных нам горцев»(Citation: 105).
+  en: |-
+    In 1836, corps commander Rosen sent covert topographers through Chechnya for the clandestine surveying of the land that had not submitted.
+    In a report to the emperor, Rosen acknowledges: “in 1836, to survey the direct route leading from Kakheti to Chechnya, a topographer was sent who, having crossed the snow ridge, came out onto the Caucasian Line at the fortress of Groznaya, and from there, through Chechnya and the lands of the Kistins and the Didois, returned to Kakheti”; at the same time “I sent from Vladikavkaz Ensign Prince Utsmiev of the Life Guards Grenadier Regiment with a topographer, through Chechnya, to Andia”(Citation: 105).
+    Rosen named the method outright: “covert surveys of the lands of the mountaineers hostile to us”(Citation: 105).
+  uk: |-
+    У 1836 році корпусний командир Розен направив через Чечню таємних топографів для прихованого вивчення землі, що не підкорилася.
+    У звіті імператорові Розен визнає: «у 1836 році, для огляду прямого шляху, що йде з Кахетії в Чечню, було послано топографа, який, пройшовши через сніговий хребет, вийшов на Кавказьку Лінію у фортеці Грозній, а звідти через Чечню, землі Кістинців і Дідойців, повернувся до Кахетії»; тоді ж «послано було мною з Владикавказа л.-гв.
+    Гренадерського полку прап. кн.
+    Уцмієва з топографом, через Чечню, в Андію»(Citation: 105).
+    Розен прямо називав метод: «приховані огляди земель ворожих нам горців»(Citation: 105).

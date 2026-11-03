@@ -1,0 +1,26 @@
+type: campaign
+id: C0094
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.1'
+people: ukrainians
+first_seen: 1991-08-01
+last_seen: 1991-08-01
+contributors: []
+name:
+  ru: Дипломатический шантаж (речь «Котлета по-киевски» август 1991)
+  en: Diplomatic Blackmail (the "Chicken Kiev" Speech, August 1991)
+  uk: Дипломатичний шантаж (промова «Котлета по-київськи», серпень 1991)
+description:
+  ru: |-
+    Использование союзным центром международных рычагов для удержания Украины в составе СССР.
+    Кульминацией стал визит президента США Буша в Киев, который с трибуны Верховной Рады предостерегал от независимости: «американцы не поддержат тех, кто добивается независимости ради того, чтобы сменить далёкую тиранию на местный деспотизм.
+    Они не станут помогать тем, кто насаждает самоубийственный национализм на почве этнической ненависти»(Citation: 174).
+  en: |-
+    The union center's use of international levers to keep Ukraine within the USSR.
+    The culmination was US president Bush's visit to Kyiv, where from the rostrum of the Verkhovna Rada he warned against independence: "Americans will not support those who seek independence in order to replace a far-off tyranny with a local despotism.
+    They will not aid those who promote a suicidal nationalism based upon ethnic hatred"(Citation: 174).
+  uk: |-
+    Використання союзним центром міжнародних важелів для утримання України у складі СРСР.
+    Кульмінацією став візит президента США Буша до Києва, який із трибуни Верховної Ради застерігав від незалежності: «американці не підтримають тих, хто домагається незалежності заради того, щоб замінити далеку тиранію місцевим деспотизмом.
+    Вони не допомагатимуть тим, хто насаджує самогубний націоналізм на ґрунті етнічної ненависті»(Citation: 174).

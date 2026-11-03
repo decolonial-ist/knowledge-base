@@ -1,0 +1,26 @@
+type: procedure
+id: C1164.T0147
+created: 2026-07-24
+modified: 2026-08-04
+version: '1.0'
+technique: T0147
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Империя оформляла подчинение чеченских обществ как «покорность» (имперская формула подданства).
+    После вторжения генерала Граббе, командующего войсками Кавказской линии (цепи имперских укреплений на земле нохчи), в Ичкерию (горную юго-восточную Чечню) в мае 1839 года имперский обзор 1840 года записал: «Ичкеринцы вследствие экспедиции к ним ген. Граббе в 1839 году изъявили покорность, но едва ли таковая упрочена» - сомнение в прочности «покорности» принадлежит самому имперскому документу(Citation: 126).
+    После подавления восстания Граббе 14 июня 1840 года издал воззвание к восставшим: «Образумьтесь и спасите себя ныне чистосердечным раскаянием и немедленною покорностью.
+    В противном случае войска наши пройдут везде...», а 15 июня - двенадцать пунктов «Условий, предписываемых покоряющимся горцам», где вторым пунктом стоит присяга: «Принести присягу в покорности российскому императору, и предоставить через старшин присяжные листы русскому начальству» (старшины - главы аульных общин)(Citation: 126).
+  en: |-
+    The empire registered the subordination of the Chechen communities as "submission" (the imperial formula of subjecthood).
+    After the invasion of Ichkeria (mountainous south-eastern Chechnya) in May 1839 by general Grabbe, commander of the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), the imperial survey of 1840 recorded: "The Ichkerians, in consequence of gen. Grabbe's expedition against them in 1839, declared their submission, but such is hardly consolidated" - the doubt about the firmness of the "submission" belongs to the imperial document itself(Citation: 126).
+    After the suppression of the uprising Grabbe on 14 June 1840 issued a proclamation to the insurgents: "Come to your senses and save yourselves now by sincere repentance and immediate submission.
+    Otherwise our troops will pass everywhere...", and on 15 June - the twelve points of the "Conditions prescribed to submitting highlanders", whose second point is the oath: "To take an oath of submission to the Russian emperor, and to present the oath sheets through the elders to the Russian authorities" (elders - the heads of aul communities)(Citation: 126).
+  uk: |-
+    Імперія оформлювала підпорядкування чеченських громад як «покірність» (імперська формула підданства).
+    Після вторгнення генерала Граббе, командувача військ Кавказької лінії (ланцюга імперських укріплень на землі нохчі), в Ічкерію (гірську південно-східну Чечню) у травні 1839 року імперський огляд 1840 року записав: «Ічкеринці внаслідок експедиції до них ген. Граббе в 1839 році виявили покірність, але навряд чи така упрочена» - сумнів у міцності «покірності» належить самому імперському документу(Citation: 126).
+    Після придушення повстання Граббе 14 червня 1840 року видав відозву до повсталих: «Схаменіться і врятуйте себе нині щиросердним каяттям і негайною покірністю.
+    Інакше війська наші пройдуть скрізь...», а 15 червня - дванадцять пунктів «Умов, приписуваних горцям, що підкоряються», де другим пунктом стоїть присяга: «Принести присягу в покірності російському імператору, і надати через старшин присяжні листи російському начальству» (старшини - глави аульних громад)(Citation: 126).

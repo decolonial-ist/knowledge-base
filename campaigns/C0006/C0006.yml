@@ -1,0 +1,23 @@
+type: campaign
+id: C0006
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.3'
+people: ukrainians
+first_seen: 1674-01-01
+last_seen: 1674-01-01
+contributors: []
+name:
+  ru: Издание «Синопсиса» (1674)
+  en: Publication of the "Synopsis" (1674)
+  uk: Видання «Синопсиса» (1674)
+description:
+  ru: |-
+    Создание первого масштабного идеологического обоснования захвата земель московскими царями – «Синопсис или краткое собрание от различных летописцев о начале славенороссийского народа», изданный печатней Киево-Печерской лавры в 1674 году(Citation: 196).
+    Расчет автора был политическим: «дать московскому царю мотивацию для продолжения борьбы с Речью Посполитой за освобождение из-под власти католиков остальной части „единого православного народа“»(Citation: 184).
+  en: |-
+    The creation of the first large-scale ideological justification for the seizure of lands by the Muscovite tsars – the "Synopsis, or a Brief Collection from Various Chroniclers on the Origin of the Slaveno-Rossian People," published by the printing house of the Kyiv-Pechersk Lavra in 1674(Citation: 196).
+    The author's calculation was political: "to give the Muscovite tsar the motivation to continue the struggle with the Polish-Lithuanian Commonwealth for the liberation from Catholic rule of the remaining part of the 'single Orthodox people'"(Citation: 184).
+  uk: |-
+    Створення першого масштабного ідеологічного обґрунтування захоплення земель московськими царями – «Синопсис, або коротке зібрання від різних літописців про початок славеноросійського народу», виданий друкарнею Києво-Печерської лаври 1674 року(Citation: 196).
+    Розрахунок автора був політичним: «дати московському цареві мотивацію для продовження боротьби з Річчю Посполитою за визволення з-під влади католиків решти „єдиного православного народу“»(Citation: 184).

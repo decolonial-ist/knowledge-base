@@ -1,0 +1,14 @@
+type: procedure
+id: C0078.T0057
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique: T0057
+people: ukrainians
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: 'Смертельно опасная эксплуатация труда украинских крестьян, массово осужденных по «закону о пяти колосках» и сосланных в исправительно-трудовые лагеря в период Голодомора(Citation: 22).'
+  en: 'Lethally dangerous exploitation of the labor of Ukrainian peasants, convicted en masse under the "law of five ears of grain" and exiled to corrective labor camps during the Holodomor(Citation: 22).'
+  uk: 'Смертельно небезпечна експлуатація праці Українських селян, масово засуджених за «законом про п''ять колосків» і засланих до виправно-трудових таборів у період Голодомору(Citation: 22).'

@@ -1,0 +1,23 @@
+type: technique
+id: T0169
+created: 2026-11-01
+modified: 2026-11-01
+version: '1.0'
+tactics:
+- TA0003
+- TA0005
+name:
+  ru: Создание институтов-двойников
+  en: Creation of Counterfeit Institutions
+  uk: Створення інститутів-двійників
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут подменять институты коренного народа своими двойниками: закрывать его независимые СМИ, представительные органы и общественные организации, а на их месте создавать подконтрольные: с «национальной» вывеской, на его языке, под старым названием и логотипом.
+    Так колонизатор говорит с народом его голосом и выдаёт свою пропаганду и своих людей за сам народ.
+  en: |-
+    Aggressors may replace the institutions of the Indigenous people with counterfeits of their own: shut down their independent media, representative bodies and civic organizations, and set up controlled ones in their place, with a "national" façade, in their language, under the old name and logo.
+    This is how the colonizer speaks to the people in their own voice and passes off its propaganda and its own people as the nation itself.
+  uk: |-
+    Агресори можуть підміняти інститути корінного народу своїми двійниками: закривати його незалежні ЗМІ, представницькі органи та громадські організації, а на їхньому місці створювати підконтрольні: з «національною» вивіскою, його мовою, під старою назвою і логотипом.
+    Так колонізатор говорить з народом його голосом і видає свою пропаганду та своїх людей за сам народ.

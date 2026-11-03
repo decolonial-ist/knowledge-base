@@ -1,0 +1,29 @@
+type: campaign
+id: C0005
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.4'
+people: ukrainians
+first_seen: 1667-01-01
+last_seen: 1667-01-01
+contributors: []
+name:
+  ru: Андрусовское перемирие (1667)
+  en: Truce of Andrusovo (1667)
+  uk: Андрусівське перемир'я (1667)
+description:
+  ru: |-
+    Соглашение о разделе Гетманщины по Днепру между Русским царством и Речью Посполитой без участия украинцев: «Рус. гос-во получило значит. территориальные приобретения…
+    Однако Правобережная Украина, Полоцк, Витебск и др. белорус. города, где были рус. гарнизоны, сохранялись за Речью Посполитой»(Citation: 187).
+    Юридическое закрепление раскола Украины и превращение Запорожья в буферную зону: «по договору 1667 года было в совместном правлении Москвы и Варшавы»(Citation: 4).
+    Грушевский фиксирует реакцию на раздел: «были большие нарекания на московское правительство, что оно согласилось уступить Польше правобережную Украину, заключая перемирие 1667 года: поделилось Украиной с Польшей, не сдержало того, что обещало, принимая Украину под царскую руку»(Citation: 250).
+  en: |-
+    An agreement on the partition of the Hetmanate along the Dnipro between the Tsardom of Muscovy and the Polish-Lithuanian Commonwealth without Ukrainian participation: "The Russian state received significant territorial acquisitions…
+    However, Right-Bank Ukraine, Polotsk, Vitebsk, and other Belarusian cities with Russian garrisons remained with the Commonwealth"(Citation: 187).
+    The legal entrenchment of Ukraine's split and the transformation of Zaporizhzhia into a buffer zone: "under the treaty of 1667 it was under the joint rule of Moscow and Warsaw"(Citation: 4).
+    Hrushevsky records the reaction to the partition: "there was great resentment against the Muscovite government for agreeing to cede Right-Bank Ukraine to Poland in the armistice of 1667: it divided Ukraine with Poland and did not keep what it had promised when taking Ukraine under the tsar's hand"(Citation: 250).
+  uk: |-
+    Угода про поділ Гетьманщини по Дніпру між Московським царством і Річчю Посполитою без участі українців: «Російська держава отримала значні територіальні надбання…
+    Однак Правобережна Україна, Полоцьк, Вітебськ та інші білоруські міста, де були російські гарнізони, зберігалися за Річчю Посполитою»(Citation: 187).
+    Юридичне закріплення розколу України та перетворення Запорожжя на буферну зону: «за договором 1667 року було у спільному правлінні Москви і Варшави»(Citation: 4).
+    Грушевський фіксує реакцію на поділ: «були великі нарікання на московське правительство, що воно згодило ся відступити Польщі правобічну Україну, укладаючи перемирє 1667 року: поділило ся Україною з Польщею, не додержало того, що обіцяло приймаючи Україну під царську руку»(Citation: 250).

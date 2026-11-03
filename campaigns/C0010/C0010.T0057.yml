@@ -1,0 +1,14 @@
+type: procedure
+id: C0010.T0057
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0057
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: 'Принудительное использование казаков для строительства имперской инфраструктуры в тяжелых условиях: «в делании около киево-печерскаго монастыря фортификаций»(Citation: 4)(Citation: 3).'
+  en: 'The forced use of Cossacks to build imperial infrastructure under harsh conditions: "in the making of fortifications around the Kyiv-Pechersk Monastery"(Citation: 4)(Citation: 3).'
+  uk: 'Примусове використання козаків для будівництва імперської інфраструктури у важких умовах: «у зведенні фортифікацій довкола Києво-Печерського монастиря»(Citation: 4)(Citation: 3).'

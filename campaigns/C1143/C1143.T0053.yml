@@ -1,0 +1,23 @@
+type: procedure
+id: C1143.T0053
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0053
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя уводила уцелевших после уничтожения аула нохчи пленными в свои пределы.
+    Сам генерал Ермолов в своих «Записках» пишет, что женщин и детей «взято в плен до ста сорока»(Citation: 96), и имперский историк Потто это подтверждает(Citation: 75).
+    Историк Д. А. Хожаев пишет, что во время переправы пленных через Терек 46 захваченных девушек, «не желая переносить надругательства в плену», погибли, «хватая с собой конвоиров в бурную реку»(Citation: 95).
+  en: |-
+    The Russian Empire led the Nokhchi who survived the destruction of an aul away as captives into its own territory.
+    General Yermolov himself writes in his “Notes” that women and children “were taken prisoner numbering up to one hundred and forty”(Citation: 96), and the imperial historian Potto confirms this(Citation: 75).
+    Historian D. A. Khozhaev writes that during the crossing of the captives over the Terek, 46 captured girls, “not wishing to endure abuse in captivity,” perished, “dragging their guards with them into the turbulent river”(Citation: 95).
+  uk: |-
+    Російська імперія забирала вцілілих після знищення аулу Нохчі полоненими у свої межі.
+    Сам генерал Єрмолов у своїх «Записках» пише, що жінок і дітей «взято в полон до ста сорока»(Citation: 96), а імперський історик Потто це підтверджує(Citation: 75).
+    Історик Д. А. Хожаєв пише, що під час переправи полонених через Терек 46 захоплених дівчат, «не бажаючи терпіти наругу в полоні», загинули, «тягнучи за собою конвоїрів у бурхливу річку»(Citation: 95).

@@ -1,0 +1,98 @@
+type: procedure
+id: C1193.T0036
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0036
+people: nokhchi
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты ставили на захваченной земле Ичкерии свои органы управления вместо избранного руководства республики.
+
+    30 ноября 1994 года, за одиннадцать дней до открытого вторжения, президент России Ельцин секретным указом № 2137 велел создать для Ичкерии особое управление под началом российских военных.
+    Во главе этого управления стояла «группа руководства» министра обороны России Грачёва.
+    Грачёв получил право направлять работу всех российских ведомств, войск и спецслужб в Ичкерии и отстранять их чиновников(Citation: 652)(Citation: 27).
+
+    В захваченных городах и сёлах командование оккупационными войсками ставило военные комендатуры с широкими полномочиями над чеченцами(Citation: 27).
+
+    17 декабря 1994 года президент России Ельцин указом № 2200 велел правительству России за пять дней создать в Ичкерии оккупационную гражданскую администрацию из местных отделений российских министерств и ведомств(Citation: 985).
+    Во главе администрации Ельцин поставил своего полномочного представителя в Ичкерии, министра по делам национальностей Егорова. 20 декабря правительство России постановлением № 1411 обязало все предприятия, организации и учреждения Ичкерии исполнять решения Егорова, пока в республике в полном объёме не заработают Конституция и законы России(Citation: 27).
+
+    Прокуратура и милиция марионеточного правительства входили в российские прокуратуру и МВД (подробнее: «Марионеточное правительство»)(Citation: 27).
+
+    В январе 1995 года Россия поставила во главе оккупационной администрации вместо Егорова Семёнова, при советской власти одного из руководителей Чечено-Ингушетии.
+    Заместителями Семёнова стали трое ставленников из марионеточной оппозиции(Citation: 27). 29 декабря 1995 года президент России Ельцин указом № 1430 отдал министру внутренних дел России Куликову руководство в Ичкерии охраной порядка, борьбой с преступностью и разоружением армии республики(Citation: 27).
+
+    19 февраля 1996 года президент России указом № 214 отменил указ № 2200, по которому создал оккупационную администрацию(Citation: 985).
+    В марте 1996 года глава администрации Семёнов ушёл с поста(Citation: 27). 5 июня 1996 года МВД России создало в Грозном, столице Ичкерии, Координационный центр во главе с первым заместителем министра внутренних дел России Голубцом(Citation: 27).
+
+    29 марта 1995 года Иштван Дьярмати, личный представитель председателя Организации по безопасности и сотрудничеству в Европе (ОБСЕ), доложил Постоянному совету ОБСЕ в Вене о поездке в Ичкерию.
+    В пресс-релизе ОБСЕ о докладе сказано: «Многие чеченцы считают недавно созданные местные органы власти в Чеченской Республике чуждыми себе, а чеченских политиков, которые поддерживают федеральные [российские] власти, население не поддерживает»(Citation: 1142).
+
+    23 ноября 1996 года президент России Ельцин указом № 1590 приказал вывести из Чеченской Республики 101-ю бригаду внутренних войск (предшественников современной Росгвардии) и 205-ю бригаду российской армии, а МВД России разрешил охранять людей и важные объекты только по согласованию с руководством Чеченской Республики(Citation: 1164)(Citation: 1127).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27). 27 января 1997 года граждане Ичкерии избрали парламент и президента - Аслана Масхадова(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    On the seized land of Ichkeria, the occupiers installed their own organs of governance in place of the elected leadership of the republic.
+
+    On 30 November 1994, eleven days before the open invasion, Russian President Yeltsin, by secret Decree No. 2137, ordered the creation of a special administration for Ichkeria under the command of the Russian military.
+    At the head of this administration stood the "leadership group" of Russian Defense Minister Grachev.
+    Grachev received the right to direct the work of all Russian agencies, troops and special services in Ichkeria and to remove their officials(Citation: 652)(Citation: 27).
+
+    In the seized towns and villages, the command of the occupation troops set up military commandant's offices with broad powers over Chechens(Citation: 27).
+
+    On 17 December 1994, Russian President Yeltsin, by Decree No. 2200, ordered the Russian government to create within five days in Ichkeria an occupation civil administration made up of local branches of Russian ministries and agencies(Citation: 985).
+    At the head of the administration Yeltsin placed his plenipotentiary representative in Ichkeria, Minister for Nationalities Yegorov.
+    On 20 December, the Russian government, by Resolution No. 1411, obliged all enterprises, organizations and institutions of Ichkeria to carry out Yegorov's decisions until the Constitution and laws of Russia were in full operation in the republic(Citation: 27).
+
+    The prosecutor's office and police of the puppet government were part of the Russian prosecutor's office and Ministry of Internal Affairs (see: "Puppet Government")(Citation: 27).
+
+    In January 1995, Russia replaced Yegorov at the head of the occupation administration with Semyonov, one of the leaders of Chechen-Ingushetia under Soviet rule.
+    Semyonov's deputies were three appointees from the puppet opposition(Citation: 27).
+    On 29 December 1995, Russian President Yeltsin, by Decree No. 1430, gave Russian Interior Minister Kulikov charge in Ichkeria of maintaining order, fighting crime and disarming the army of the republic(Citation: 27).
+
+    On 19 February 1996, the Russian president, by Decree No. 214, repealed Decree No. 2200, by which he had created the occupation administration(Citation: 985).
+    In March 1996, Semyonov, head of the administration, left his post(Citation: 27).
+    On 5 June 1996, the Russian Ministry of Internal Affairs created in Grozny, the capital of Ichkeria, a Coordination Center headed by Golubets, first deputy interior minister of Russia(Citation: 27).
+
+    On 29 March 1995, István Gyarmati, personal representative of the Chairman of the Organization for Security and Co-operation in Europe (OSCE), reported to the OSCE Permanent Council in Vienna on his trip to Ichkeria.
+    The OSCE press release on the report says: "The report expressed worry that the newly established local authorities in the Chechen Republic are viewed by many Chechens as alien to them and that Chechen politicians who support the federal [Russian] authorities are not supported by the population"(Citation: 1142).
+
+    On 23 November 1996, Russian President Yeltsin, by Decree No. 1590, ordered the withdrawal from the Chechen Republic of the 101st Brigade of the Internal Troops (predecessors of today's Rosgvardia) and the 205th Brigade of the Russian army, and allowed the Russian Ministry of Internal Affairs to guard people and important facilities only in agreement with the leadership of the Chechen Republic(Citation: 1164)(Citation: 1127).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+    On 27 January 1997, the citizens of Ichkeria elected a parliament and a president - Aslan Maskhadov(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти ставили на захопленій землі Ічкерії свої органи управління замість обраного керівництва республіки.
+
+    30 листопада 1994 року, за одинадцять днів до відкритого вторгнення, президент Росії Єльцин секретним указом № 2137 звелів створити для Ічкерії особливе управління під началом російських військових.
+    На чолі цього управління стояла «група керівництва» міністра оборони Росії Грачова.
+    Грачов отримав право спрямовувати роботу всіх російських відомств, військ і спецслужб в Ічкерії та усувати їхніх чиновників(Citation: 652)(Citation: 27).
+
+    У захоплених містах і селах командування окупаційними військами ставило військові комендатури з широкими повноваженнями над чеченцями(Citation: 27).
+
+    17 грудня 1994 року президент Росії Єльцин указом № 2200 звелів уряду Росії за п'ять днів створити в Ічкерії окупаційну цивільну адміністрацію з місцевих відділень російських міністерств і відомств(Citation: 985).
+    На чолі адміністрації Єльцин поставив свого повноважного представника в Ічкерії, міністра у справах національностей Єгорова. 20 грудня уряд Росії постановою № 1411 зобов'язав усі підприємства, організації та установи Ічкерії виконувати рішення Єгорова, поки в республіці в повному обсязі не запрацюють Конституція і закони Росії(Citation: 27).
+
+    Прокуратура та міліція маріонеткового уряду входили до російських прокуратури та МВС (докладніше: «Маріонетковий уряд»)(Citation: 27).
+
+    У січні 1995 року Росія поставила на чолі окупаційної адміністрації замість Єгорова Семенова, за радянської влади одного з керівників Чечено-Інгушетії.
+    Заступниками Семенова стали троє ставлеників із маріонеткової опозиції(Citation: 27). 29 грудня 1995 року президент Росії Єльцин указом № 1430 віддав міністрові внутрішніх справ Росії Кулікову керівництво в Ічкерії охороною порядку, боротьбою зі злочинністю та роззброєнням армії республіки(Citation: 27).
+
+    19 лютого 1996 року президент Росії указом № 214 скасував указ № 2200, яким створив окупаційну адміністрацію(Citation: 985).
+    У березні 1996 року глава адміністрації Семенов пішов з посади(Citation: 27). 5 червня 1996 року МВС Росії створило в Грозному, столиці Ічкерії, Координаційний центр на чолі з першим заступником міністра внутрішніх справ Росії Голубцем(Citation: 27).
+
+    29 березня 1995 року Іштван Дьярматі, особистий представник голови Організації з безпеки і співробітництва в Європі (ОБСЄ), доповів Постійній раді ОБСЄ у Відні про поїздку в Ічкерію.
+    У пресрелізі ОБСЄ про доповідь сказано: «Багато чеченців вважають нещодавно створені місцеві органи влади в Чеченській Республіці чужими собі, а чеченських політиків, які підтримують федеральну [російську] владу, населення не підтримує»(Citation: 1142).
+
+    23 листопада 1996 року президент Росії Єльцин указом № 1590 наказав вивести з Чеченської Республіки 101-шу бригаду внутрішніх військ (попередників сучасної Росгвардії) та 205-ту бригаду російської армії, а МВС Росії дозволив охороняти людей і важливі об'єкти лише за погодженням із керівництвом Чеченської Республіки(Citation: 1164)(Citation: 1127).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27). 27 січня 1997 року громадяни Ічкерії обрали парламент і президента - Аслана Масхадова(Citation: 27).

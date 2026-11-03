@@ -1,0 +1,22 @@
+type: technique
+id: T0021
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0004
+name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять системное физическое или политическое устранение лидеров, интеллигенции и представителей местных элит, выступающих против колонизации.
+    Через массовые аресты, внесудебные казни, ссылки и фабрикацию уголовных дел колонизатор ликвидирует политическое руководство коренного народа, парализуя его способность к координации, организованной борьбе и системному сопротивлению.
+  en: |-
+    Aggressors may carry out the systematic physical or political elimination of leaders, intelligentsia, and members of local elites who oppose colonization.
+    Through mass arrests, extrajudicial executions, exile, and fabricated criminal cases, the colonizer liquidates the political leadership of an Indigenous people, paralyzing its capacity for coordination, organized struggle, and systemic resistance.
+  uk: |-
+    Агресори можуть здійснювати системне фізичне чи політичне усунення лідерів, інтелігенції та представників місцевих еліт, які виступають проти колонізації.
+    Через масові арешти, позасудові страти, заслання та фабрикацію кримінальних справ колонізатор ліквідує політичне керівництво корінного народу, паралізуючи його здатність до координації, організованої боротьби та системного опору.

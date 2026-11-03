@@ -1,0 +1,14 @@
+type: procedure
+id: C1175.T0160
+created: 2026-08-06
+modified: 2026-08-06
+version: '1.0'
+technique: T0160
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: 'Российская империя с 10 января 1906 года ввела в Терской области военно-полевые суды - им предавались «...лица, учинившие убийство, разбой, грабеж и нападение на часового или военный караул, а также вооруженное сопротивление властям и нападение на чинов войск и полиции и на всех вообще должностных лиц...»; за время работы этих судов, до 19 апреля 1907 года, на Кавказе к смертной казни приговорены 195 человек и ещё 47 осуждены на каторгу(Citation: 125).'
+  en: 'From 10 January 1906 the Russian Empire introduced field courts-martial in the Terek oblast - to them were handed over "...persons who have committed murder, brigandage, robbery and attack on a sentry or military guard, as well as armed resistance to the authorities and attack on the ranks of the troops and the police and on all officials in general..."; during the work of these courts, until 19 April 1907, 195 people in the Caucasus were sentenced to death and another 47 condemned to katorga(Citation: 125).'
+  uk: 'Російська імперія з 10 січня 1906 року ввела в Терській області військово-польові суди - їм передавалися «...особи, які вчинили вбивство, розбій, грабіж і напад на вартового або військовий караул, а також збройний опір владі і напад на чинів військ і поліції і на всіх взагалі посадових осіб...»; за час роботи цих судів, до 19 квітня 1907 року, на Кавказі до смертної кари засуджено 195 осіб, ще 47 - до каторги(Citation: 125).'

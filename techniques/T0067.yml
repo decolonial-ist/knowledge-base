@@ -1,0 +1,25 @@
+type: technique
+id: T0067
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0006
+name:
+  ru: Использование в качестве буферной зоны
+  en: Use as a Buffer Zone
+  uk: Використання як буферної зони
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут целенаправленно использовать захваченные территории в качестве прослойки между собой и внешними угрозами.
+    Данная техника служит извлечению выгоды посредством обеспечения долгосрочной военной и геополитической безопасности колонизатора.
+    Подобная практика позволяет создать защитную серую зону, которая амортизирует внешние удары и переносит издержки любых конфликтов исключительно на колонизируемые народы, оберегая при этом центральные регионы агрессора.
+  en: |-
+    Aggressors may deliberately use captured territories as a buffer between themselves and external threats.
+    This technique serves the extraction of benefits by ensuring the long-term military and geopolitical security of the colonizer.
+    Such a practice makes it possible to create a protective gray zone that absorbs external strikes and shifts the costs of any conflicts exclusively onto the colonized peoples, while shielding the aggressor's central regions.
+  uk: |-
+    Агресори можуть цілеспрямовано використовувати захоплені території як прошарок між собою та зовнішніми загрозами.
+    Ця техніка слугує отриманню вигоди шляхом забезпечення довгострокової військової та геополітичної безпеки колонізатора.
+    Така практика дозволяє створити захисну сіру зону, яка амортизує зовнішні удари та переносить витрати будь-яких конфліктів виключно на колонізовані народи, оберігаючи при цьому центральні регіони агресора.

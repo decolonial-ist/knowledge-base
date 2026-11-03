@@ -1,0 +1,14 @@
+type: procedure
+id: C1115.T0056
+created: 2026-06-14
+modified: 2026-06-14
+version: '1.0'
+technique: T0056
+people: nokhchi
+actor: G0008
+tool: S0012
+contributors: []
+description:
+  ru: 'Оккупационная администрация использовала физическую утрату документов для искусственного понижения социального статуса местных жителей ради их экономического обложения: в выписке Посольского приказа по челобитной царю Михаилу Федоровичу констатируется, что после того как «государева жаловальная грамота пропала», наследники погибшего делегата нохчи были лишены привилегий и «сверстаны во всем с окочаны, с пахотными людьми, и подводы и телеги с них емлют», тогда как ранее с них «никаких податей не имывано»(Citation: 82).'
+  en: 'The occupation administration used the physical loss of documents to artificially lower the social status of local residents for the purpose of taxing them economically: an extract of the Posolsky Prikaz concerning a petition to Tsar Mikhail Fyodorovich states that after «the sovereign''s charter of grant was lost», the heirs of the deceased Nokhchi delegate were stripped of their privileges and «made equal in everything with the Okochans, with the plowing people, and carts and wagons are exacted from them», whereas previously «no taxes whatsoever had been taken» from them(Citation: 82).'
+  uk: 'Окупаційна адміністрація використовувала фізичну втрату документів для штучного пониження соціального статусу місцевих жителів заради їх економічного оподаткування: у виписці Посольського приказу за чолобитною цареві Михайлу Федоровичу констатується, що після того як «государева жалувана грамота пропала», спадкоємці загиблого делегата Нохчі були позбавлені привілеїв і «зверстані в усьому з Окочанами, з орними людьми, і підводи й вози з них беруть», тоді як раніше з них «ніяких податей не бралося»(Citation: 82).'

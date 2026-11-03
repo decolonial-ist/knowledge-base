@@ -1,0 +1,23 @@
+type: procedure
+id: C1177.T0001
+created: 2026-08-13
+modified: 2026-08-13
+version: '1.0'
+technique: T0001
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    31 июля 1925 года Реввоенсовет СССР приказом, обосновывавшим операцию по разоружению Чечни, объявил чеченцев неспособными к правильному хозяйству: «Предоставленные после революции на плоскости богатые земельные угодья чеченцы полностью не используют, ведут отсталыми формами свое сельское хозяйство, не трудолюбивы»(Citation: 259).
+    Обвинение стоит в военном приказе как одно из оснований для ввода войск: земельные угодья народу «предоставила» сама власть, его способ хозяйствовать она же объявила отсталым, а вывод из этой оценки - войсковая операция.
+    Историк Т. У. Эльбуздукаева, публикующая приказ, приводит и его продолжение: назрели «политические признаки» - усталость населения от войны и требование борьбы с «бандитизмом»(Citation: 259) - то есть даже по логике документа воевать предстояло не с хозяйственной отсталостью, но именно она поставлена в обоснование.
+  en: |-
+    On 31 July 1925 the Revolutionary Military Council of the USSR, in the order justifying the operation to disarm Chechnya, declared the Chechens incapable of proper farming: "The rich lands granted to the Chechens on the plain after the revolution are not used by them in full; they run their agriculture in backward forms, are not industrious"(Citation: 259).
+    The accusation stands in a military order as one of the grounds for sending in troops: the lands were "granted" to the people by the authorities themselves, their way of farming was declared backward by the same authorities, and the conclusion drawn from this assessment was a military operation.
+    Historian T. U. Elbuzdukayeva, who publishes the order, also cites its continuation: "political indications" had ripened - the population's weariness of war and the demand to fight "banditry"(Citation: 259) - that is, even by the document's own logic the war was to be waged not on economic backwardness, yet it is backwardness that is set down as a justification.
+  uk: |-
+    31 липня 1925 року Реввійськрада СРСР наказом, що обґрунтовував операцію з роззброєння Чечні, оголосила чеченців нездатними до правильного господарювання: «Надані після революції на рівнині багаті земельні угіддя чеченці повністю не використовують, ведуть відсталими формами своє сільське господарство, не працелюбні»(Citation: 259).
+    Звинувачення стоїть у військовому наказі як одна з підстав для введення військ: земельні угіддя народу «надала» сама влада, його спосіб господарювати вона ж оголосила відсталим, а висновок з цієї оцінки - військова операція.
+    Історик Т. У. Ельбуздукаєва, що публікує наказ, наводить і його продовження: назріли «політичні ознаки» - втома населення від війни і вимога боротьби з «бандитизмом»(Citation: 259) - тобто навіть за логікою документа воювати належало не з господарською відсталістю, але саме її поставлено в обґрунтування.

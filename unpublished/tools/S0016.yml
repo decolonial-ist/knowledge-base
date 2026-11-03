@@ -1,0 +1,41 @@
+type: tool
+id: S0016
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Имперские Коллегии (DEPRECATED)
+  en: Imperial Collegia (DEPRECATED)
+  uk: Імперські колегії (DEPRECATED)
+contributors: []
+aliases:
+- '1.1'
+description:
+  ru: |-
+    Созданы в 1717–1720 гг.
+    Отраслевые ведомства, которые начали дробить управление, отбирая контроль над финансами, судами и армией у гетмана.
+
+    - Военная коллегия забирала управление казацкими полками.
+
+    - Коллегия иностранных дел обрезала любые международные контакты Гетманщины.
+
+    - Камер-коллегия устанавливала общеимперские стандарты сборов и пошлин.
+  en: |-
+    Created in 1717–1720.
+    Sectoral departments that began to fragment governance, stripping the hetman of control over finances, courts, and the army.
+
+    - The Military Collegium took over the administration of the Cossack regiments.
+
+    - The Collegium of Foreign Affairs cut off any international contacts of the Hetmanate.
+
+    - The Kamer-Collegium imposed empire-wide standards for levies and duties.
+  uk: |-
+    Створені у 1717–1720 рр.
+    Галузеві відомства, які почали дробити управління, відбираючи в гетьмана контроль над фінансами, судами та армією.
+
+    - Військова колегія перебирала управління козацькими полками.
+
+    - Колегія закордонних справ обрізала будь-які міжнародні контакти Гетьманщини.
+
+    - Камер-колегія встановлювала загальноімперські стандарти зборів і мит.

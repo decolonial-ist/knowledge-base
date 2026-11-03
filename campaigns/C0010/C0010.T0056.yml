@@ -1,0 +1,14 @@
+type: procedure
+id: C0010.T0056
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0056
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: 'Перекладывание финансового и логистического бремени имперских войн на плечи автономии: «Корм охочим войскам поставляли посполитые, они же заготавливали на зиму сено для войсковой артиллерии»(Citation: 4)(Citation: 3).'
+  en: 'Shifting the financial and logistical burden of imperial wars onto the autonomy''s shoulders: "The commoners supplied provisions for the volunteer troops, and they also stocked hay for the winter for the host''s artillery"(Citation: 4)(Citation: 3).'
+  uk: 'Перекладання фінансового та логістичного тягаря імперських воєн на плечі автономії: «Корм охочим військам постачали посполиті, вони ж заготовляли на зиму сіно для військової артилерії»(Citation: 4)(Citation: 3).'

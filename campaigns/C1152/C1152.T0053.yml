@@ -1,0 +1,23 @@
+type: procedure
+id: C1152.T0053
+created: 2026-07-03
+modified: 2026-07-03
+version: '1.0'
+technique: T0053
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    На рассвете 19 декабря 1830 при захвате села Дзулгай-Юрт казаки отряда генерала Вельяминова захватили в плен семью лидера сопротивления - карабулакского предводителя Астемира, которому самому удалось уйти в лес.
+    Имперский историк Потто писал: «его семья - малолетний сын, дочь, внук и двоюродная сестра попали в руки казаков.
+    Кроме их взято было в плен тридцать девять человек»(Citation: 78).
+  en: |-
+    At dawn on December 19, 1830, during the seizure of the village of Dzulgai-Yurt, Cossacks of General Velyaminov's detachment captured the family of a resistance leader — the Karabulak chieftain Astemir, who himself managed to escape into the forest.
+    The imperial historian Potto wrote: “his family — a young son, a daughter, a grandson, and a cousin — fell into the hands of the Cossacks.
+    Besides them, thirty-nine people were taken prisoner”(Citation: 78).
+  uk: |-
+    На світанку 19 грудня 1830 під час захоплення села Дзулгай-Юрт козаки загону генерала Вельямінова захопили в полон сім'ю лідера опору — карабулацького ватажка Астемира, якому самому вдалося піти в ліс.
+    Імперський історик Потто писав: «його сім'я — малолітній син, дочка, онук і двоюрідна сестра — потрапили до рук козаків.
+    Крім них узято було в полон тридцять дев'ять осіб»(Citation: 78).

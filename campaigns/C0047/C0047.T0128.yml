@@ -1,0 +1,26 @@
+type: procedure
+id: C0047.T0128
+created: 2026-08-04
+modified: 2026-08-04
+version: '1.0'
+technique: T0128
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Театр запрещён не как репертуар, а как институция: третьим пунктом пересмотра 1881 года предписано «совершенно воспретить устройство специально малорусского театра и формирование трупп для исполнения пьес и сцен исключительно на малорусском наречии»(Citation: 386).
+    Отдельные пьесы при этом разрешались - с разрешения администрации на каждую постановку.
+    Запрет бил не по тексту, а по возможности существования постоянного коллектива: играть иногда можно, быть украинским театром нельзя.
+    Доклад с этим пунктом подал министр внутренних дел Игнатьев, соизволение императора последовало 8 октября 1881 года(Citation: 386).
+  en: |-
+    The theater was banned not as repertoire but as an institution: the third point of the 1881 revision prescribed "to completely forbid the establishment of a specifically Little Russian theater and the formation of troupes for performing plays and scenes exclusively in the Little Russian dialect"(Citation: 386).
+    Individual plays remained permissible - with administrative permission for each staging.
+    The ban struck not at the text but at the very possibility of a permanent company existing: performing occasionally was allowed, being a Ukrainian theater was not.
+    The report with this point was submitted by the minister of internal affairs Ignatiev; the emperor's assent followed on 8 October 1881(Citation: 386).
+  uk: |-
+    Театр заборонено не як репертуар, а як інституцію: третім пунктом перегляду 1881 року приписано «цілковито заборонити влаштування спеціально малоруського театру і формування труп для виконання п'єс і сцен виключно малоруським наріччям»(Citation: 386).
+    Окремі п'єси при цьому дозволялися - з дозволу адміністрації на кожну постановку.
+    Заборона била не по тексту, а по можливості існування постійного колективу: грати іноді можна, бути українським театром не можна.
+    Доповідь із цим пунктом подав міністр внутрішніх справ Ігнатьєв, соізволення імператора надійшло 8 жовтня 1881 року(Citation: 386).

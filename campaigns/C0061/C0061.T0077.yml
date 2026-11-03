@@ -1,0 +1,20 @@
+type: procedure
+id: C0061.T0077
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0077
+people: ukrainians
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Вооруженное подавление антикрепостнического движения крестьян («Киевская козаччина»): «На подавление «козаччины» правительство бросило регулярные войска и полицию.
+    В нескольких сёлах и местечках произошли кровавые столкновения»(Citation: 192).
+  en: |-
+    The armed suppression of the peasants' anti-serfdom movement (the "Kyiv Cossack movement"): "To suppress the 'Cossack movement' the government threw in regular troops and police.
+    Bloody clashes occurred in several villages and towns"(Citation: 192).
+  uk: |-
+    Збройне придушення антикріпосницького руху селян («Київська козаччина»): «На придушення «козаччини» уряд кинув регулярні війська і поліцію.
+    У кількох селах і містечках сталися криваві сутички»(Citation: 192).

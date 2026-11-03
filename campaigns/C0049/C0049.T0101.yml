@@ -1,0 +1,14 @@
+type: procedure
+id: C0049.T0101
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.0'
+technique: T0101
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Тотальная цензура переводов и ввоза литературы: в 1892 году Главное управление по делам печати предписало цензурному комитету пресекать переводы на украинский, «сокращая число таких бездарных произведений в целях чисто государственных»(Citation: 159); «Запрет ввозить украинские книги из-за границы в самой резкой форме подтверждён в 1894 году»(Citation: 181).'
+  en: 'Total censorship of translations and book imports: in 1892 the Main Administration for Press Affairs directed the censorship committee to suppress translations into Ukrainian, "reducing the number of such talentless works for purely state purposes"(Citation: 159); "The ban on importing Ukrainian books from abroad was confirmed in the harshest form in 1894"(Citation: 181).'
+  uk: 'Тотальна цензура перекладів і ввезення літератури: 1892 року Головне управління у справах друку приписало цензурному комітету припиняти переклади українською, «скорочуючи число таких бездарних творів у цілях чисто державних»(Citation: 159); «Заборону ввозити українські книжки з-за кордону у найрізкішій формі підтверджено 1894 року»(Citation: 181).'

@@ -1,0 +1,59 @@
+type: procedure
+id: C1178.T0044
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0044
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Запретительными актами 1925-1929 годов российский колонизатор уничтожал детские школы чеченского народа.
+    Хьуьжар - начальная школа при мечети: мулла (священнослужитель) или кадий (судья по исламскому праву) учил детей читать Коран, писать по-арабски и считать; разрешения на открытие не требовалось, школа жила на деньги родителей и пожертвования верующих(Citation: 66).
+    Такая школа стояла почти в каждом селении, и другой у народа не было.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Буквально при каждой мечети действовали школы, обучавшие арабскому языку и письменности, а также основам арифметики»(Citation: 125); о первых советских годах: «если духовные школы при мечетях существовали в подавляющем большинстве селений, то светскую школу еще предстояло создать заново, так как немногочисленные «горские» школы, существовавшие в Терской области до революции, закрылись»(Citation: 125).
+    Министерства внутренних дел и просвещения РСФСР секретной инструкцией о преподавании мусульманского вероучения от 21 августа 1925 года разрешили преподавать мусульманское вероучение «только в мечетях» и «исключительно лицам, достигшим 14-ти летнего возраста», с отдельным разрешением местного имперского органа на каждый случай и со сведениями о каждом учителе - вплоть до сословия до революции; за преподаванием общеобразовательных предметов под видом вероучения министерства велели следить и не допускать его(Citation: 536).
+    Для школы, которая брала детей и учила их письму и счёту, это был запрет работать.
+    Чеченцы не подчинились и строили школы дальше.
+    Председатель краевой комиссии, обследовавшей Чеченскую область, Нагаев в секретной докладной записке в президиум Северо-Кавказского краевого исполнительного комитета от 4 августа 1928 года привёл учёт: на 1 января 1927 года в Чечне было 138 арабских школ с 2068 учениками, на 1 января 1928 года - 180 школ с тремя тысячами учеников, при 105 советских школах; рост арабских школ Нагаев назвал «самым серьезным политическим вопросом»(Citation: 533).
+    Чеченцы срывали и силовые закрытия - Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «попытки силой закрывать школы при мечетях вызывали протесты населения, сопровождавшиеся часто отказом строить советские школы, как это имело место в аулах Гудермес и Ачхой-Мартан»(Citation: 125).
+    Высший орган оккупационной власти и правительство РСФСР постановлением «О религиозных объединениях» от 8 апреля 1929 года запретили религиозным объединениям детские собрания, группы и кружки «по обучению религии» и постановили: «Не допускается преподавание каких бы то ни было религиозных вероучений в государственных, общественных и частных учебных и воспитательных заведениях»(Citation: 540).
+    Вытеснить хьуьжар сразу не удалось: к маю 1930 года в Чечне и Ингушетии ещё действовали 168 религиозных школ(Citation: 125).
+    На место хьуьжар СССР ставил свою школу и переводил её на русский язык - Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Если в 1928/29 учебном году на родном языке в Чечне обучалось 79,8% всех учащихся детей, то в 1930/31-м уже только половина»(Citation: 125).
+    Историк К. Г. Дендиев ставит закрытие духовных школ в один ряд с обложением мулл подоходным налогом, отменой шариатских судов и передачей мечетей «под хозяйственные нужды»(Citation: 544); колонизатор передал и закят - пожертвования мусульман, на которые школа жила, - от мулл своим комитетам в 1929 году.
+  en: |-
+    By prohibitive acts of 1925-1929 the Russian colonizer destroyed the children's schools of the Chechen people.
+    The khyuzhar is the elementary school at the mosque: a mullah (clergyman) or a qadi (judge of Islamic law) taught children to read the Quran, to write in Arabic and to count; no permit was needed to open one, and the school lived on parents' money and believers' donations(Citation: 66).
+    Such a school stood in nearly every settlement, and the people had no other.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "Literally at every mosque there operated schools teaching the Arabic language and script, as well as the basics of arithmetic"(Citation: 125); and of the first Soviet years: "while religious schools at the mosques existed in the overwhelming majority of settlements, the secular school had yet to be created anew, since the few 'highlander' schools that had existed in the Terek oblast before the revolution had closed"(Citation: 125).
+    The ministries of internal affairs and of education of the RSFSR, by a secret instruction on the teaching of the Muslim creed of 21 August 1925, permitted the Muslim creed to be taught "only in mosques" and "exclusively to persons who have reached the age of 14", with a separate permit from the local imperial organ for each case and with particulars on every teacher - down to his social estate before the revolution; as for the teaching of general subjects under the guise of the creed, the ministries ordered it watched for and prevented(Citation: 536).
+    For a school that took children and taught them writing and counting, this was a ban on working.
+    The Chechens did not submit and went on building schools.
+    Nagayev, chairman of the krai commission that inspected the Chechen oblast, in a secret memorandum to the presidium of the North Caucasus krai executive committee of 4 August 1928 cited the tally: on 1 January 1927 Chechnya had 138 Arabic schools with 2,068 pupils, on 1 January 1928 - 180 schools with three thousand pupils, against 105 Soviet schools; the growth of the Arabic schools Nagayev called "the most serious political question"(Citation: 533).
+    The Chechens also thwarted closures by force - Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "attempts to close the schools at the mosques by force provoked protests of the population, often accompanied by a refusal to build Soviet schools, as happened in the auls of Gudermes and Achkhoy-Martan"(Citation: 125).
+    The supreme organ of the occupation power and the government of the RSFSR, by the resolution "On religious associations" of 8 April 1929, forbade religious associations to hold children's gatherings, groups and circles "for the teaching of religion" and resolved: "The teaching of any religious creeds whatsoever in state, public and private educational and upbringing institutions is not permitted"(Citation: 540).
+    Displacing the khyuzhar at once did not succeed: by May 1930, 168 religious schools were still operating in Chechnya and Ingushetia(Citation: 125).
+    In the khyuzhar's place the USSR installed its own school and shifted it to the Russian language - Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "If in the 1928/29 school year 79.8% of all schoolchildren in Chechnya were taught in their native language, in 1930/31 it was already only half"(Citation: 125).
+    Historian K. G. Dendiev places the closing of the religious schools in one row with the imposition of income tax on the mullahs, the abolition of the sharia courts and the handover of mosques "for economic needs"(Citation: 544); the colonizer also handed over the zakat - the Muslims' donations on which the school lived - from the mullahs to its own committees in 1929.
+  uk: |-
+    Заборонними актами 1925-1929 років російський колонізатор знищував дитячі школи чеченського народу.
+    Хьуьжар - початкова школа при мечеті: мулла (священнослужитель) або каді (суддя за ісламським правом) навчав дітей читати Коран, писати арабською і рахувати; дозволу на відкриття не вимагалося, школа жила на гроші батьків і пожертви вірян(Citation: 66).
+    Така школа стояла майже в кожному селищі, й іншої в народу не було.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Буквально при кожній мечеті діяли школи, що навчали арабської мови та письма, а також основ арифметики»(Citation: 125); про перші радянські роки: «якщо духовні школи при мечетях існували в переважній більшості селищ, то світську школу ще належало створити заново, оскільки нечисленні «горські» школи, що існували в Терській області до революції, закрилися»(Citation: 125).
+    Міністерства внутрішніх справ і освіти РРФСР секретною інструкцією про викладання мусульманського віровчення від 21 серпня 1925 року дозволили викладати мусульманське віровчення «лише в мечетях» і «виключно особам, які досягли 14-літнього віку», з окремим дозволом місцевого імперського органу на кожен випадок і з відомостями про кожного вчителя - аж до стану до революції; за викладанням загальноосвітніх предметів під виглядом віровчення міністерства веліли стежити і не допускати його(Citation: 536).
+    Для школи, яка брала дітей і вчила їх письма й лічби, це була заборона працювати.
+    Чеченці не скорилися і будували школи далі.
+    Голова крайової комісії, що обстежувала Чеченську область, Нагаєв у секретній доповідній записці до президії Північно-Кавказького крайового виконавчого комітету від 4 серпня 1928 року навів облік: на 1 січня 1927 року в Чечні було 138 арабських шкіл з 2068 учнями, на 1 січня 1928 року - 180 шкіл з трьома тисячами учнів, при 105 радянських школах; зростання арабських шкіл Нагаєв назвав «найсерйознішим політичним питанням»(Citation: 533).
+    Чеченці зривали і силові закриття - Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «спроби силою закривати школи при мечетях викликали протести населення, що часто супроводжувалися відмовою будувати радянські школи, як це мало місце в аулах Гудермес і Ачхой-Мартан»(Citation: 125).
+    Найвищий орган окупаційної влади та уряд РРФСР постановою «Про релігійні об'єднання» від 8 квітня 1929 року заборонили релігійним об'єднанням дитячі збори, групи і гуртки «з навчання релігії» і постановили: «Не допускається викладання будь-яких релігійних віровчень у державних, громадських і приватних навчальних та виховних закладах»(Citation: 540).
+    Витіснити хьуьжар одразу не вдалося: до травня 1930 року в Чечні та Інгушетії ще діяли 168 релігійних шкіл(Citation: 125).
+    На місце хьуьжар СРСР ставив свою школу і переводив її на російську мову - Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Якщо у 1928/29 навчальному році рідною мовою в Чечні навчалося 79,8% усіх дітей-учнів, то в 1930/31-му вже тільки половина»(Citation: 125).
+    Історик К. Г. Дендієв ставить закриття духовних шкіл в один ряд з обкладенням мулл прибутковим податком, скасуванням шаріатських судів і передачею мечетей «під господарські потреби»(Citation: 544); колонізатор передав і закят - пожертви мусульман, на які школа жила, - від мулл своїм комітетам у 1929 році.

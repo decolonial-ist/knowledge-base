@@ -1,0 +1,21 @@
+type: tool
+id: S0017
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Тайная полиция и Спецслужбы
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+contributors: []
+description:
+  ru: |-
+    Инструменты скрытого вмешательства, подкупа элит, организации прокси-войн, дознания и институционального террора против несогласных.
+    Исторические инкарнации: Преображенский приказ, Секретная канцелярия, ФСК и ФСБ России.
+  en: |-
+    Instruments of covert interference, bribery of elites, orchestration of proxy wars, interrogation, and institutional terror against dissenters.
+    Historical incarnations: the Preobrazhensky Prikaz, the Secret Chancellery, the FSK and the FSB of Russia.
+  uk: |-
+    Інструменти прихованого втручання, підкупу еліт, організації проксі-воєн, дізнання та інституційного терору проти незгодних.
+    Історичні інкарнації: Преображенський приказ, Таємна канцелярія, ФСК та ФСБ Росії.

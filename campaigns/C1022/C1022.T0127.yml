@@ -1,0 +1,35 @@
+type: procedure
+id: C1022.T0127
+created: 2026-05-12
+modified: 2026-08-04
+version: '1.0'
+technique: T0127
+people: nokhchi
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Летом 1865 года Чечню покинула пятая часть чеченского народа - и почти половина ушедших погибла.
+    Первые семьи вышли из Владикавказа 28 мая 1865 года, последние пересекли границу 10 сентября(Citation: 251); историк Д. А. Хожаев подводит счёт: «в Турцию уходят с родной земли 23057 человек (5 тысяч семей) чеченцев, карабулаков и ингушей»(Citation: 95); историки Я. З. Ахмадов и Э. Х. Хасмагомадов считают «до 23 тысяч чеченцев», из них более 4,5 тысяч семей - жители Малой Чечни и Ичкеринского округа, а всего в 1860-е годы выселено «до 20% от общего числа чеченцев»(Citation: 125).
+    Гибель началась сразу: историк З. Х. Ибрагимова пишет - «В ходе переселения погибло около 40000 горцев Терской области, что составляло чуть менее половины всего выселившегося их состава»; по донесениям российского консула, в Трапезунде в 1864 году умирало 180-250 человек в день, в Самсуне - 200(Citation: 251).
+    Земли для поселения «были непригодны для земледелия – каменисты и бесплодны»(Citation: 251); колония Рас-Эль-Айн, где поселили в основном чеченцев, сократилась к 1878 году с 4-5 тысяч семей до 500(Citation: 251).
+    Сами мухаджиры - так называли ушедших, от арабского «мухаджир», переселенец - писали начальнику Терской области: «Мы узнали, что Мусса нас обманул...
+    Из нас и так погибла уже одна треть» (Мусса - это генерал Кундухов, они звали его по имени)(Citation: 251).
+  en: |-
+    In the summer of 1865 a fifth of the Chechen people left Chechnya - and almost half of those who left perished.
+    The first families set out from Vladikavkaz on 28 May 1865; the last crossed the border on 10 September(Citation: 251); the historian D. A. Khozhayev draws up the tally: "23,057 people (5 thousand families) of Chechens, Karabulaks and Ingush leave their native land for Turkey"(Citation: 95); historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov reckon "up to 23 thousand Chechens," of whom more than 4.5 thousand families were inhabitants of Lesser Chechnya and the Ichkerinsky okrug, and in all in the 1860s "up to 20% of the total number of Chechens" were expelled(Citation: 125).
+    The dying began at once: the historian Z. Kh.
+    Ibragimova writes - "In the course of the resettlement about 40,000 highlanders of the Terek oblast perished, which was slightly less than half of all those who had left"; according to the dispatches of the Russian consul, in Trebizond in 1864 some 180-250 people were dying each day, in Samsun - 200(Citation: 251).
+    The lands allotted for settlement "were unfit for agriculture – stony and barren"(Citation: 251); the colony of Ras al-Ayn, where mainly Chechens had been settled, shrank by 1878 from 4-5 thousand families to 500(Citation: 251).
+    The muhajirs themselves - as those who left were called, from the Arabic "muhajir," a migrant - wrote to the head of the Terek oblast: "We have learned that Mussa deceived us...
+    A third of us have already perished as it is" (Mussa is General Kundukhov; they called him by his first name)(Citation: 251).
+  uk: |-
+    Влітку 1865 року Чечню покинула п'ята частина чеченського народу - і майже половина тих, хто пішов, загинула.
+    Перші родини вийшли з Владикавказа 28 травня 1865 року, останні перетнули кордон 10 вересня(Citation: 251); історик Д. А. Хожаєв підбиває рахунок: «до Туреччини йдуть з рідної землі 23057 осіб (5 тисяч родин) чеченців, карабулаків та інгушів»(Citation: 95); історики Я. З. Ахмадов і Е. Х. Хасмагомадов рахують «до 23 тисяч чеченців», з них понад 4,5 тисячі родин - жителі Малої Чечні та Ічкеринського округу, а загалом у 1860-ті роки виселено «до 20% від загального числа чеченців»(Citation: 125).
+    Загибель почалася одразу: історик З. Х. Ібрагімова пише - «У ході переселення загинуло близько 40000 горців Терської області, що становило трохи менше половини всього складу тих, хто виселився»; за донесеннями російського консула, в Трапезунді 1864 року помирало 180-250 осіб на день, у Самсуні - 200(Citation: 251).
+    Землі для поселення «були непридатні для землеробства – кам'янисті та безплідні»(Citation: 251); колонія Рас-ель-Айн, де поселили переважно чеченців, скоротилася до 1878 року з 4-5 тисяч родин до 500(Citation: 251).
+    Самі мухаджири - так називали тих, хто пішов, від арабського «мухаджир», переселенець - писали начальникові Терської області: «Ми дізналися, що Мусса нас обманув...
+    З нас і так загинула вже одна третина» (Мусса - це генерал Кундухов, вони звали його на ім'я)(Citation: 251).

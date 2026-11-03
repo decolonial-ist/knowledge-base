@@ -1,0 +1,37 @@
+type: procedure
+id: C1022.T0141
+created: 2026-05-12
+modified: 2026-08-04
+version: '1.0'
+technique: T0141
+people: nokhchi
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Главным же средством для изгнания горцев стало лишение их основного источника существования – земли.
+    Передача обширных земель на равнинах под казачьи станицы оставляла без средств к существованию тысячи горцев»(Citation: 125).
+    Имперская статистика фиксировала итог: «на каждое семейство в аулах приходится 0,5 – 10 десятин...
+    При такой тесноте не только развитие хозяйств, но даже существование народа не может считаться обеспеченным» (десятина - чуть больше гектара)(Citation: 255).
+    При этом собственные исполнители операции доносили обратное.
+    Начальник Аргунского округа майор А. Ипполитов писал начальнику Терской области генералу Лорис-Меликову: «Я могу положительно сказать Вашему Сиятельству, что о добровольном переселении в Турцию народ даже не думает, при общем сборе они объявили мне, что пойдут только тогда, когда вся Чечня поголовно уйдёт, или же тогда, когда им прикажут идти»(Citation: 251).
+    Полковник Беллик 25 марта 1865 года доносил тому же Лорис-Меликову слова чеченца: «не пойдём мы в Турцию и не пустим тех, кто собирается туда; в Турции ждёт нас смерть, ждёт она нас и здесь, но здесь она приятней, потому что здесь наша родина и здесь лежат отцы наши, побитые русскими»(Citation: 251).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "The principal means of driving out the highlanders became depriving them of their main source of existence – the land.
+    The transfer of vast lands on the plains to Cossack stanitsas left thousands of highlanders without means of subsistence"(Citation: 125).
+    Imperial statistics recorded the result: "each family in the auls has 0.5 – 10 desiatinas...
+    With such crowding not only the development of farms, but even the existence of the people cannot be considered secured" (a desiatina is slightly more than a hectare)(Citation: 255).
+    Meanwhile the operation's own executors were reporting the opposite.
+    The head of the Argun okrug, Major A. Ippolitov, wrote to the head of the Terek oblast, General Loris-Melikov: "I can positively tell Your Excellency that the people are not even thinking of voluntary resettlement to Turkey; at a general assembly they declared to me that they would go only when the whole of Chechnya leaves to the last man, or when they are ordered to go"(Citation: 251).
+    Colonel Bellik on 25 March 1865 reported to the same Loris-Melikov the words of a Chechen: "we will not go to Turkey and will not let those go who are preparing to; in Turkey death awaits us, and it awaits us here too, but here it is more pleasant, because here is our homeland and here lie our fathers, slain by the Russians"(Citation: 251).
+  uk: |-
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Головним же засобом для вигнання горців стало позбавлення їх основного джерела існування – землі.
+    Передача великих земель на рівнинах під козачі станиці залишала без засобів до існування тисячі горців»(Citation: 125).
+    Імперська статистика фіксувала підсумок: «на кожну родину в аулах припадає 0,5 – 10 десятин...
+    За такої тісноти не тільки розвиток господарств, а навіть існування народу не може вважатися забезпеченим» (десятина - трохи більше гектара)(Citation: 255).
+    При цьому власні виконавці операції доносили протилежне.
+    Начальник Аргунського округу майор А. Іпполітов писав начальникові Терської області генералові Лорис-Мелікову: «Я можу позитивно сказати Вашій Світлості, що про добровільне переселення до Туреччини народ навіть не думає; на загальному зборі вони оголосили мені, що підуть лише тоді, коли вся Чечня поголовно піде, або ж тоді, коли їм накажуть іти»(Citation: 251).
+    Полковник Беллік 25 березня 1865 року доносив тому ж Лорис-Мелікову слова чеченця: «не підемо ми до Туреччини і не пустимо тих, хто збирається туди; в Туреччині чекає нас смерть, чекає вона нас і тут, але тут вона приємніша, бо тут наша батьківщина і тут лежать батьки наші, побиті росіянами»(Citation: 251).

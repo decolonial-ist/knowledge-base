@@ -1,0 +1,45 @@
+type: procedure
+id: C0072.T0104
+created: 2026-04-27
+modified: 2026-09-05
+version: '1.0'
+technique: T0104
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    22 января (4 февраля) 1918 года, за пять дней до захвата Киева, Муравьёв (командующий советскими войсками, действующими против Центральной Рады Украины) на станции Дарница под Киевом подписал приказ № 9: «Войскам обеих армий приказываю беспощадно уничтожить в Киеве всех офицеров и юнкеров, гайдамаков, монархистов и всех врагов революции.
+    Части, которые держали нейтралитет, должны быть немедленно расформированы, их имущество передать в Военно-революционный комитет г. Киева»(Citation: 614).
+    Антонов-Овсеенко (командовал всем походом в Украину) напечатал этот приказ в своих записках вместе со снимком рукописи Муравьёва и написал, что приказ «сразу своим тоном и распоряжением о бессудной расправе со всеми подозрительными личностями взволновал нашу партийную организацию и советские власти»(Citation: 611). 28 января (10 февраля) Киевский совет рабочих и солдатских депутатов (орган той самой советской власти, которую привели войска) постановил: «Совет выражает решительное осуждение непрекращающимся самосудам над пленными, которые пятнают славную победу пролетариата.
+    Опозорившие себя убийством безоружных должны быть исключены из рядов социалистической армии и преданы революционному суду.
+    Довольно насилий!»(Citation: 617). 19 марта 1918 года члены комитета 1-й революционной армии пришли с жалобой на Муравьёва к Дзержинскому, главе ВЧК, тайной полиции большевиков(Citation: 496). 5 мая Дзержинский показал следственной комиссии: «худший враг наш не мог бы нам столько вреда принести, сколько он принес своими кошмарными расправами, расстрелами, самодурством, предоставлением солдатам права грабежа городов и сел.
+    Все это он проделывал от имени нашей советской власти, восстанавливая против нас все население.
+    Грабежи и насилия — это была его сознательная военная тактика»(Citation: 496).
+    Сам Муравьёв из тюрьмы в тот же день, 5 мая, передал обвинение так: «мне не предъявлено обвинения, кроме устного „за грабежи, пьянство и убийства“»(Citation: 618). 9 июня 1918 года президиум ВЦИК, высшего органа советской власти, по докладу Крыленко от следственной комиссии прекратил дело за отсутствием состава преступления(Citation: 496).
+    Михаил Грушевский, глава Центральной Рады, писал о командующем в 1921 году: «главный комендант, бывший жандарм Муравьёв, ещё в феврале хвалился расстрелами украинцев и разорением их добра»(Citation: 250).
+  en: |-
+    On 22 January (4 February) 1918, five days before the seizure of Kyiv, Muravyov (commander of the Soviet troops acting against the Central Rada of Ukraine) signed order No. 9 at Darnytsia station near Kyiv: "I order the troops of both armies to mercilessly destroy in Kyiv all officers and cadets, Haidamaks, monarchists and all enemies of the revolution.
+    Units that kept neutrality must be immediately disbanded, their property handed over to the Military Revolutionary Committee of the city of Kyiv"(Citation: 614).
+    Antonov-Ovseyenko (who commanded the whole expedition into Ukraine) printed this order in his notes together with a reproduction of Muravyov's handwritten original and wrote that the order "at once, by its tone and by its instruction on summary reprisal against all suspicious persons, alarmed our party organization and the Soviet authorities"(Citation: 611).
+    On 28 January (10 February) the Kyiv Soviet of Workers' and Soldiers' Deputies (the organ of that very Soviet power which the troops had brought) resolved: "The Soviet expresses its resolute condemnation of the unceasing lynchings of prisoners, which stain the glorious victory of the proletariat.
+    Those who have disgraced themselves by the murder of the unarmed must be expelled from the ranks of the socialist army and handed over to a revolutionary court.
+    Enough violence!"(Citation: 617).
+    On 19 March 1918 members of the committee of the 1st revolutionary army came with a complaint against Muravyov to Dzerzhinsky, head of the Cheka, the Bolsheviks' secret police(Citation: 496).
+    On 5 May Dzerzhinsky testified to the investigative commission: "our worst enemy could not have done us as much harm as he did with his nightmarish reprisals, executions, tyranny, and by granting the soldiers the right to plunder towns and villages.
+    All this he did in the name of our Soviet power, turning the whole population against us.
+    Plunder and violence — that was his deliberate military tactic"(Citation: 496).
+    Muravyov himself, from prison on the same day, 5 May, conveyed the accusation this way: "no charge has been brought against me, apart from a verbal one 'for plunder, drunkenness and murders'"(Citation: 618).
+    On 9 June 1918 the presidium of the All-Russian Central Executive Committee, the highest organ of Soviet power, on the report of Krylenko from the investigative commission, closed the case for absence of a crime(Citation: 496).
+    Mykhailo Hrushevsky, head of the Central Rada, wrote about the commander in 1921: "the chief commandant, the former gendarme Muravyov, back in February boasted of shooting Ukrainians and of ruining their property"(Citation: 250).
+  uk: |-
+    22 січня (4 лютого) 1918 року, за п'ять днів до захоплення Києва, Муравйов (командувач радянських військ, що діяли проти Центральної Ради України) на станції Дарниця під Києвом підписав наказ № 9: «Військам обох армій наказую нещадно знищити в Києві всіх офіцерів і юнкерів, гайдамаків, монархістів і всіх ворогів революції.
+    Частини, які тримали нейтралітет, мають бути негайно розформовані, їхнє майно передати до Військово-революційного комітету м. Києва»(Citation: 614).
+    Антонов-Овсієнко (командував усім походом в Україну) надрукував цей наказ у своїх записках разом зі знімком рукопису Муравйова й написав, що наказ «одразу своїм тоном і розпорядженням про безсудну розправу над усіма підозрілими особами схвилював нашу партійну організацію та радянську владу»(Citation: 611). 28 січня (10 лютого) Київська рада робітничих і солдатських депутатів (орган тієї самої радянської влади, яку привели війська) постановила: «Рада висловлює рішучий осуд самосудам над полоненими, що не припиняються і плямують славну перемогу пролетаріату.
+    Ті, хто зганьбив себе вбивством беззбройних, мають бути виключені з лав соціалістичної армії й віддані революційному судові.
+    Досить насильства!»(Citation: 617). 19 березня 1918 року члени комітету 1-ї революційної армії прийшли зі скаргою на Муравйова до Дзержинського, голови ВЧК, таємної поліції більшовиків(Citation: 496). 5 травня Дзержинський свідчив слідчій комісії: «найгірший ворог наш не міг би нам стільки шкоди завдати, скільки він завдав своїми кошмарними розправами, розстрілами, самодурством, наданням солдатам права грабунку міст і сіл.
+    Усе це він робив від імені нашої радянської влади, налаштовуючи проти нас усе населення.
+    Грабунки й насильства — це була його свідома воєнна тактика»(Citation: 496).
+    Сам Муравйов із в'язниці того ж дня, 5 травня, передав обвинувачення так: «мені не пред'явлено обвинувачення, крім усного „за грабунки, пияцтво і вбивства“»(Citation: 618). 9 червня 1918 року президія ВЦВК, вищого органу радянської влади, за доповіддю Криленка від слідчої комісії закрила справу за відсутністю складу злочину(Citation: 496).
+    Михайло Грушевський, голова Центральної Ради, писав про командувача 1921 року: «головний комендант, колишній жандарм Муравйов, ще в лютому хвалився розстрілами українців і руйнуванням їхнього добра»(Citation: 250).

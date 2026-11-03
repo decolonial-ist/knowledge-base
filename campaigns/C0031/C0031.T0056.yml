@@ -1,0 +1,14 @@
+type: procedure
+id: C0031.T0056
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.0'
+technique: T0056
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Понижение социального статуса коренного населения с целью экономического изъятия: «Казаков и подпомощников перевели в военные обыватели и обложили подушным», а имевшие право курить горилку «должны были теперь платить… в казну по 95 коп. с души»(Citation: 161).'
+  en: 'Lowering the social status of the indigenous population for the purpose of economic extraction: "The Cossacks and their helpers were turned into military settlers and taxed with the poll tax," and those with the right to distill horilka "now had to pay… 95 kopecks per soul to the treasury"(Citation: 161).'
+  uk: 'Пониження соціального статусу корінного населення з метою економічного вилучення: «Козаків і підпомошників повернули у військових обивателів і обложили подушним», а ті, хто мав право курити горілку, «мусили тепер платити… у казну по 95 коп. з душі»(Citation: 161).'

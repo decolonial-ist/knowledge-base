@@ -1,0 +1,23 @@
+type: technique
+id: T0100
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0003
+- TA0005
+name:
+  ru: Захват религиозных институтов
+  en: Seizure of Religious Institutions
+  uk: Захоплення релігійних інститутів
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут устанавливать прямой силовой и административный контроль над местными религиозными институтами, лишая их канонической независимости и подчиняя своим духовным центрам.
+    Ликвидация независимой юрисдикции позволяет устранить авторитетные национальные институты (захват управления) и использовать религиозный аппарат для долгосрочного навязывания лояльности и идеологического закрепления оккупации.
+  en: |-
+    Aggressors may establish direct forcible and administrative control over local religious institutions, depriving them of canonical independence and subordinating them to their own spiritual centers.
+    The elimination of independent jurisdiction makes it possible to remove authoritative national institutions (seizure of governance) and to use the religious apparatus for the long-term imposition of loyalty and the ideological consolidation of the occupation.
+  uk: |-
+    Агресори можуть встановлювати прямий силовий та адміністративний контроль над місцевими релігійними інституціями, позбавляючи їх канонічної незалежності та підпорядковуючи своїм духовним центрам.
+    Ліквідація незалежної юрисдикції дозволяє усунути авторитетні національні інституції (захоплення управління) та використовувати релігійний апарат для довгострокового нав'язування лояльності й ідеологічного закріплення окупації.

@@ -1,0 +1,16 @@
+type: procedure
+id: C0061.T0049
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.0'
+technique: T0049
+people: ukrainians
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Массовый набор крестьян в ополчение: «Поводом к ним стало опубликование во время Крымской войны 1853—1856 манифеста императора Николая I, предусматривавшего создание подвижного государственного ополчения»(Citation: 192) - манифест и указы о наборе от 29 января 1855 года (№ 28.991–28.993); Киевской губернии в перечне призываемых губерний не было, крестьяне восприняли общеимперский призыв как обращённый к себе(Citation: 449).'
+  en: 'The mass enrollment of peasants into the militia: "The trigger was the publication, during the Crimean War of 1853–1856, of Emperor Nicholas I''s manifesto providing for the creation of a mobile state militia"(Citation: 192) - the manifesto and levy decrees of 29 January 1855 (Nos. 28.991–28.993); the Kyiv governorate was not on the list of governorates called up, and the peasants took the empire-wide summons as addressed to themselves(Citation: 449).'
+  uk: |-
+    Масовий набір селян до ополчення: «Приводом до них стало опублікування під час Кримської війни 1853—1856 маніфесту імп.
+    Миколи I, що передбачав створення рухомого держ. ополчення»(Citation: 192) - маніфест та укази про набір від 29 січня 1855 року (№ 28.991–28.993); Київської губернії в переліку призваних губерній не було, селяни сприйняли загальноімперський заклик як звернений до себе(Citation: 449).

@@ -1,0 +1,200 @@
+type: procedure
+id: C1193.T0167.004
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0167.004
+people: nokhchi
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Президент России Ельцин, российские министры и генералы назначали Ичкерии переговоры, встречи и подписания мира, уже решив напасть, а российские войска атаковали во время переговоров или сразу после них.
+
+    Министры России и командующие оккупационными войсками назначали Ичкерии встречи в подконтрольных России Ингушетии и Северной Осетии.
+    Позже переговоры шли в Грозном при посредничестве Организации по безопасности и сотрудничеству в Европе (ОБСЕ)(Citation: 27)(Citation: 1347).
+    Российские делегации требовали, чтобы Вооружённые силы Ичкерии сдали оружие, а республика признала себя частью России (подробнее: «Лишение субъектности»)(Citation: 27).
+
+    29 ноября 1994 года Совет безопасности России решил начать войну против Ичкерии.
+    В секретном докладе «Военные аспекты операции в Чечне.
+    Цели, средства и результаты» министерство обороны России назначило армейским частям и внутренним войскам МВД России (предшественникам современной Росгвардии) собраться к 6 декабря, окружить Грозный 7-9 декабря и захватить город 10-13 декабря(Citation: 27). 6 декабря два члена Совета безопасности, министр обороны России Грачёв и министр внутренних дел России Ерин, встретились с Джохаром Дудаевым, президентом Ичкерии, в станице Орджоникидзевской в подконтрольной России Ингушетии(Citation: 1078)(Citation: 27).
+    После встречи Джохар Дудаев на вопрос журналистов, не будет ли войны, ответил: «Конечно не будет войны.
+    Зачем война?
+    Мы пока договорились на мирном решении…»(Citation: 1063).
+
+    Россия назначила следующие переговоры на 12 декабря во Владикавказе, столице подконтрольной России Северной Осетии, а за день до них российская армия открыто вторглась в Ичкерию(Citation: 27).
+    В день вторжения президент России Ельцин сказал в обращении к гражданам России: «На 12 декабря 1994 г. намечены переговоры между представителями России и Чечни.
+    Мы должны предотвратить их срыв»(Citation: 1380).
+    Правозащитники «Мемориала» пишут о вторжении накануне переговоров: «Действия, заведомо ведущие к срыву переговоров, объявлялись направленными на предотвращение их срыва»(Citation: 27). 12 декабря российские военные задержали делегацию Ичкерии во главе с министром экономики и финансов Таймазом Абубакаровым на границе Северной Осетии и Ингушетии, чтобы пропустить в Ичкерию колонну своих войск(Citation: 27)(Citation: 26).
+    Все три дня переговоров, 12-14 декабря, российские войска наступали на Грозный(Citation: 1320)(Citation: 27), а в первый день оккупанты обстреляли из артиллерии и бомбили станицу Ассиновскую на западе Ичкерии(Citation: 26). 14 декабря делегация Ичкерии прервала переговоры из-за требования признать республику частью России и уехала.
+    Больше делегации во Владикавказе не встречались(Citation: 1425)(Citation: 27)(Citation: 26).
+
+    Президент России Ельцин и председатель правительства России Черномырдин с декабря 1994 года по апрель 1996 года объявляли Ичкерии переговоры, командующие оккупационными войсками Куликов, Тихомиров, Квашнин и Пуликовский в 1995-1996 годах назначали встречи армии Ичкерии, а российские войска наступали в дни встреч.
+
+    27 декабря 1994 года Ельцин поручил вести переговоры министру по делам национальностей Егорову, директору ФСК (предшественницы современной ФСБ) Степашину и командующему оккупационными войсками Квашнину(Citation: 747).
+    На следующий день директор ФСК Степашин сказал руководителям Краснодарского края, что говорить надо не о переговорах, а об ультиматуме Ичкерии, а 31 декабря российская армия начала штурмовать Грозный(Citation: 1344)(Citation: 27).
+
+    18 января 1995 года министры Ичкерии Таймаз Абубакаров и Усман Имаев ждали в Назрани, городе в подконтрольной России Ингушетии, двух российских генералов, которым Черномырдин поручил переговоры о прекращении огня.
+    Генералы не приехали, а в ночь на 19 января российские лётчики сбросили на президентский дворец в Грозном бомбы, которые пробивают бетон(Citation: 27). 21 февраля 1995 года российские военные у Самашек, села на западе Ичкерии, не пропустили делегацию Ичкерии на встречу с генералом Куликовым в Слепцовскую, станицу в подконтрольной России Ингушетии.
+    Экипажи российских вертолётов обстреляли ракетами и из пулемётов дорогу перед машинами делегации, а Куликов отказал Ичкерии во встрече(Citation: 27). 22 мая 1995 года представитель российского правительства в Ичкерии Семёнов объявил журналистам, что через три дня начнутся переговоры при посредничестве ОБСЕ(Citation: 1347), а 24 мая оккупационные войска начали наступление в горах на юге Ичкерии. 25 мая делегации России и Ичкерии сели за стол переговоров в Грозном, а к 12 июня оккупанты захватили горные районные центры Ведено, Шатой и Ножай-Юрт (подробнее: «Военная интервенция»)(Citation: 27).
+
+    С 30 сентября 1995 года внутренние войска МВД России и российская милиция держали в кольце Серноводск, село на западе Ичкерии у границы с подконтрольной России Ингушетией (подробнее: «Транспортная блокада»)(Citation: 27).
+    Виктор Курочкин, депутат российского парламента, в апреле 1996 года рассказал в Москве общественному трибуналу российского фонда «Гласность»: «Приказ о начале широкомасштабных действий федеральных [российских] войск поступил в феврале именно тогда, когда мы договаривались, что будут сняты блокпосты у Серноводска...
+    Но когда мы приехали, чтобы конкретно решить эту проблему, нам сообщили, что поступил приказ начинать боевые действия и до 1 апреля уничтожить все бандформирования» (так россияне называли Вооружённые силы Ичкерии)(Citation: 988).
+    Вечером 2 марта 1996 года руководители Серноводска договорились о мире для села с марионеточным правительством в Грозном и с командованием оккупационных войск на юго-западе Ичкерии и назначили подписание на утро 3 марта.
+    После договорённости большая часть защитников ушла из села(Citation: 27).
+    Садыт Гисатова, чеченка из Серноводска, в мае 1996 года в Праге рассказала трибуналу «Гласности» о ночи на 3 марта: «В эту ночь первый раз за долгое время мои дети легли спать, раздевшись.
+    Мы поверили российскому правительству и своему вновь созданному [марионеточному правительству в Грозном] — они обещали нам мир»(Citation: 988).
+
+    В 5:45 утра 3 марта 1996 года, больше чем за четыре часа до подписания, оккупанты тремя колоннами начали штурмовать Серноводск(Citation: 27).
+    Защитники села убили в бою российского полковника и захватили у него подробную карту нападения(Citation: 988).
+    В 7:30 защитники отбили нападение.
+    После этого оккупанты обстреливали село из артиллерии, а российские лётчики стреляли по нему ракетами с вертолётов (подробнее: «Неизбирательные нападения»). 9 марта, через шесть дней после начала штурма, российские войска захватили Серноводск.
+    С 3 по 9 марта оккупанты убили в селе не меньше 45 мирных чеченцев и ранили 68 (подробнее: «Массовые убийства гражданских»)(Citation: 27).
+
+    21 апреля 1996 года, когда президент Ичкерии Джохар Дудаев говорил по спутниковому телефону с Константином Боровым, посредником в переговорах России и Ичкерии о мире, российские военные ударили ракетами по поляне у села Гехи-Чу к юго-западу от Грозного и убили его (подробнее: «Нейтрализация оппозиции»)(Citation: 712)(Citation: 27).
+    Через два дня председатель правительства России Черномырдин объявил, что Россия будет следовать «тактике расширения мира в сочетании с жесткими силовыми методами»(Citation: 27).
+
+    3 июля 1996 года в Новых Атагах, селе к югу от Грозного, российские участники рабочей группы России и Ичкерии по военным вопросам во главе с генералом Тихомировым заявили, что снимают блокпосты и выводят воинские части из Ичкерии(Citation: 1124). 9 июля, когда глава российской делегации Михайлов заверял Тима Гульдимана, главу миссии ОБСЕ в Ичкерии, что Россия хочет продолжать переговоры, войска Тихомирова окружили Гехи, село к юго-западу от Грозного, и до 12 июля убили там 19 мирных чеченцев (подробнее: «Неизбирательные нападения»)(Citation: 27)(Citation: 1364). 19 июля командующий российскими войсками на Северном Кавказе Квашнин объявил, что готов встретиться с Асланом Масхадовым, начальником Главного штаба Вооружённых сил Ичкерии, и обсудить его «личную судьбу», а на следующий день оккупанты начали наступление в горах к юго-западу от Шатоя, районного центра на юге Ичкерии (подробнее: «Неизбирательные нападения»)(Citation: 1365)(Citation: 27). 31 июля Ичкерия отказалась от встречи(Citation: 1259).
+    С 13 по 17 августа 1996 года генерал Пуликовский, исполнявший обязанности командующего оккупационными войсками, трижды встречался с Асланом Масхадовым, начальником Главного штаба Вооружённых сил Ичкерии, на переговорах о прекращении огня (подробнее: «Ложное перемирие»)(Citation: 1127).
+    Вечером 19 августа Пуликовский дал горожанам Грозного 48 часов на выход, а в ночь на 20 августа, до конца срока, российские артиллеристы и лётчики начали обстреливать и бомбить город (подробнее: «Коллективные наказания»)(Citation: 1260)(Citation: 27).
+    По оценке журналистов, с 6 по 22 августа оккупанты убили в Грозном около 2000 мирных горожан.
+    Правозащитники «Мемориала» пишут, что никто не вёл точного подсчёта(Citation: 27).
+
+    1 мая 1995 года Сергей Ковалёв, депутат российского парламента, написал в показаниях Хельсинкской комиссии Конгресса США, что военное командование России и другие члены правительства в Москве раз за разом намеренно срывали все попытки решить вопрос о независимости Ичкерии миром, до войны и после её начала(Citation: 1038).
+
+    22 августа 1996 года секретарь Совета безопасности России Лебедь и Аслан Масхадов, начальник Главного штаба Вооружённых сил Ичкерии, договорились о прекращении огня и отводе российских войск(Citation: 27).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Russian president Yeltsin, Russian ministers and generals scheduled negotiations, meetings and peace signings with Ichkeria having already decided to attack, and Russian troops attacked during the negotiations or immediately after them.
+
+    Russian ministers and commanders of the occupation forces scheduled meetings with Ichkeria in Russian-controlled Ingushetia and North Ossetia.
+    Later the negotiations took place in Grozny through the mediation of the Organization for Security and Co-operation in Europe (OSCE)(Citation: 27)(Citation: 1347).
+    Russian delegations demanded that the Armed Forces of Ichkeria hand over their weapons and that the republic recognize itself as part of Russia (see: "Deprivation of Agency")(Citation: 27).
+
+    On 29 November 1994, Russia's Security Council decided to start a war against Ichkeria.
+    In the secret report "Military Aspects of the Operation in Chechnya.
+    Aims, Means and Results", the Russian defense ministry ordered army units and the Internal Troops of Russia's Ministry of Internal Affairs (predecessors of today's Rosgvardia) to assemble by 6 December, surround Grozny on 7-9 December and capture the city on 10-13 December(Citation: 27).
+    On 6 December, two members of the Security Council, Russian defense minister Grachev and Russian interior minister Yerin, met Dzhokhar Dudayev, president of Ichkeria, in the stanitsa of Ordzhonikidzevskaya in Russian-controlled Ingushetia(Citation: 1078)(Citation: 27).
+    After the meeting, asked by journalists whether there would be a war, Dzhokhar Dudayev replied: "Of course there won't be a war.
+    Why war?
+    For now we have agreed on a peaceful solution…"(Citation: 1063).
+
+    Russia scheduled the next negotiations for 12 December in Vladikavkaz, the capital of Russian-controlled North Ossetia, and the day before them the Russian army openly invaded Ichkeria(Citation: 27).
+    On the day of the invasion, Russian president Yeltsin said in an address to the citizens of Russia: "Negotiations between representatives of Russia and Chechnya are scheduled for 12 December 1994.
+    We must prevent their disruption"(Citation: 1380).
+    Human rights defenders of Memorial write about the invasion on the eve of the negotiations: "Actions that were bound to disrupt the negotiations were declared to be aimed at preventing their disruption"(Citation: 27).
+    On 12 December, the Russian military detained the delegation of Ichkeria headed by Taymaz Abubakarov, minister of economy and finance, on the border of North Ossetia and Ingushetia in order to let a column of their own troops through into Ichkeria(Citation: 27)(Citation: 26).
+    On all three days of the negotiations, 12-14 December, Russian troops advanced on Grozny(Citation: 1320)(Citation: 27), and on the first day the occupiers shelled with artillery and bombed the stanitsa of Assinovskaya in the west of Ichkeria(Citation: 26).
+    On 14 December, the delegation of Ichkeria broke off the negotiations over the demand to recognize the republic as part of Russia and left.
+    The delegations never met in Vladikavkaz again(Citation: 1425)(Citation: 27)(Citation: 26).
+
+    From December 1994 to April 1996, Russian president Yeltsin and Russian prime minister Chernomyrdin announced negotiations to Ichkeria, and in 1995-1996 Kulikov, Tikhomirov, Kvashnin and Pulikovsky, commanders of the occupation forces, scheduled meetings with the army of Ichkeria, while Russian troops advanced on the days of the meetings.
+
+    On 27 December 1994, Yeltsin entrusted the negotiations to Yegorov, minister for nationalities, Stepashin, director of the FSK (the predecessor of today's FSB), and Kvashnin, commander of the occupation forces(Citation: 747).
+    The next day, FSK director Stepashin told the leaders of Krasnodar krai that what should be discussed was not negotiations but an ultimatum to Ichkeria, and on 31 December the Russian army began storming Grozny(Citation: 1344)(Citation: 27).
+
+    On 18 January 1995, Taymaz Abubakarov and Usman Imayev, ministers of Ichkeria, waited in Nazran, a town in Russian-controlled Ingushetia, for two Russian generals whom Chernomyrdin had entrusted with ceasefire negotiations.
+    The generals did not come, and on the night of 19 January Russian pilots dropped concrete-piercing bombs on the presidential palace in Grozny(Citation: 27).
+    On 21 February 1995, the Russian military near Samashki, a village in the west of Ichkeria, did not let the delegation of Ichkeria through to a meeting with General Kulikov in Sleptsovskaya, a stanitsa in Russian-controlled Ingushetia.
+    The crews of Russian helicopters fired rockets and machine guns at the road in front of the delegation's cars, and Kulikov refused Ichkeria a meeting(Citation: 27).
+    On 22 May 1995, Semyonov, the Russian government's representative in Ichkeria, announced to journalists that negotiations mediated by the OSCE would begin in three days(Citation: 1347), and on 24 May the occupation forces launched an offensive in the mountains in the south of Ichkeria.
+    On 25 May, the delegations of Russia and Ichkeria sat down at the negotiating table in Grozny, and by 12 June the occupiers had captured the mountain district centers of Vedeno, Shatoy and Nozhay-Yurt (see: "Military Intervention")(Citation: 27).
+
+    From 30 September 1995, the Internal Troops of Russia's Ministry of Internal Affairs and the Russian police kept Sernovodsk, a village in the west of Ichkeria on the border with Russian-controlled Ingushetia, encircled (see: "Transport Blockade")(Citation: 27).
+    Viktor Kurochkin, a deputy of the Russian parliament, told the public tribunal of the Russian Glasnost Foundation in Moscow in April 1996: "The order to begin large-scale actions of the federal [Russian] troops came in February, precisely when we were agreeing that the checkpoints near Sernovodsk would be removed...
+    But when we arrived to resolve this problem concretely, we were told that an order had come to begin combat operations and to destroy all the bandit formations by 1 April" (this is what Russians called the Armed Forces of Ichkeria)(Citation: 988).
+    On the evening of 2 March 1996, the leaders of Sernovodsk agreed on peace for the village with the puppet government in Grozny and with the command of the occupation forces in the south-west of Ichkeria and scheduled the signing for the morning of 3 March.
+    After the agreement, most of the defenders left the village(Citation: 27).
+    Sadyt Gisatova, a Chechen woman from Sernovodsk, told the Glasnost tribunal in Prague in May 1996 about the night of 3 March: "That night, for the first time in a long while, my children went to bed undressed.
+    We believed the Russian government and our newly created [puppet government in Grozny] — they promised us peace"(Citation: 988).
+
+    At 5:45 in the morning of 3 March 1996, more than four hours before the signing, the occupiers began storming Sernovodsk in three columns(Citation: 27).
+    The defenders of the village killed a Russian colonel in the fighting and captured from him a detailed map of the attack(Citation: 988).
+    At 7:30, the defenders repelled the attack.
+    After this, the occupiers shelled the village with artillery, and Russian pilots fired rockets at it from helicopters (see: "Indiscriminate Attacks").
+    On 9 March, six days after the start of the assault, Russian troops captured Sernovodsk.
+    From 3 to 9 March, the occupiers killed at least 45 Chechen civilians in the village and wounded 68 (see: "Mass Killings of Civilians")(Citation: 27).
+
+    On 21 April 1996, while Dzhokhar Dudayev, president of Ichkeria, was talking by satellite telephone with Konstantin Borovoy, a mediator in the peace negotiations between Russia and Ichkeria, the Russian military struck a clearing near the village of Gekhi-Chu south-west of Grozny with missiles and killed him (see: "Neutralization of the Opposition")(Citation: 712)(Citation: 27).
+    Two days later, Russian prime minister Chernomyrdin announced that Russia would follow "the tactic of expanding peace combined with tough forceful methods"(Citation: 27).
+
+    On 3 July 1996, in Novye Atagi, a village south of Grozny, the Russian members of the Russia-Ichkeria working group on military questions, headed by General Tikhomirov, declared that they were removing the checkpoints and withdrawing military units from Ichkeria(Citation: 1124).
+    On 9 July, while Mikhailov, head of the Russian delegation, was assuring Tim Guldimann, head of the OSCE mission in Ichkeria, that Russia wanted to continue the negotiations, Tikhomirov's troops surrounded Gekhi, a village south-west of Grozny, and by 12 July had killed 19 Chechen civilians there (see: "Indiscriminate Attacks")(Citation: 27)(Citation: 1364).
+    On 19 July, Kvashnin, commander of the Russian troops in the North Caucasus, announced that he was ready to meet Aslan Maskhadov, chief of the Main Staff of the Armed Forces of Ichkeria, and to discuss, among other things, "the future of Aslan Maskhadov himself", and the next day the occupiers launched an offensive in the mountains south-west of Shatoy, a district center in the south of Ichkeria (see: "Indiscriminate Attacks")(Citation: 1365)(Citation: 27).
+    On 31 July, Ichkeria declined the meeting(Citation: 1259).
+    From 13 to 17 August 1996, General Pulikovsky, acting commander of the occupation forces, met three times with Aslan Maskhadov, chief of the Main Staff of the Armed Forces of Ichkeria, at ceasefire negotiations (see: "Sham Ceasefire")(Citation: 1127).
+    On the evening of 19 August, Pulikovsky gave the people of Grozny 48 hours to leave, and on the night of 20 August, before the deadline, Russian artillerymen and pilots began shelling and bombing the city (see: "Collective Punishment")(Citation: 1260)(Citation: 27).
+    According to journalists' estimates, from 6 to 22 August the occupiers killed about 2,000 civilian townspeople in Grozny.
+    Human rights defenders of Memorial write that no one kept an exact count(Citation: 27).
+
+    On 1 May 1995, Sergei Kovalyov, a deputy of the Russian parliament, wrote in his testimony to the Helsinki Commission of the US Congress that all attempts to settle the question of Ichkeria's independence by political means, before the war and after it began, were systematically and deliberately torpedoed by the military high command and by others in the government in Moscow(Citation: 1038).
+
+    On 22 August 1996, Lebed, secretary of Russia's Security Council, and Aslan Maskhadov, chief of the Main Staff of the Armed Forces of Ichkeria, agreed on a ceasefire and the withdrawal of Russian troops(Citation: 27).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Президент Росії Єльцин, російські міністри й генерали призначали Ічкерії переговори, зустрічі та підписання миру, вже вирішивши напасти, а російські війська атакували під час переговорів або одразу після них.
+
+    Міністри Росії та командувачі окупаційних військ призначали Ічкерії зустрічі в підконтрольних Росії Інгушетії та Північній Осетії.
+    Пізніше переговори йшли в Грозному за посередництва Організації з безпеки і співробітництва в Європі (ОБСЄ)(Citation: 27)(Citation: 1347).
+    Російські делегації вимагали, щоб Збройні сили Ічкерії здали зброю, а республіка визнала себе частиною Росії (докладніше: «Позбавлення суб'єктності»)(Citation: 27).
+
+    29 листопада 1994 року Рада безпеки Росії вирішила почати війну проти Ічкерії.
+    У секретній доповіді «Воєнні аспекти операції в Чечні.
+    Цілі, засоби та результати» міністерство оборони Росії призначило армійським частинам і внутрішнім військам МВС Росії (попередникам сучасної Росгвардії) зібратися до 6 грудня, оточити Грозний 7-9 грудня і захопити місто 10-13 грудня(Citation: 27). 6 грудня два члени Ради безпеки, міністр оборони Росії Грачов і міністр внутрішніх справ Росії Єрін, зустрілися з Джохаром Дудаєвим, президентом Ічкерії, у станиці Орджонікідзевській у підконтрольній Росії Інгушетії(Citation: 1078)(Citation: 27).
+    Після зустрічі Джохар Дудаєв на запитання журналістів, чи не буде війни, відповів: «Звісно, не буде війни.
+    Навіщо війна?
+    Ми поки що домовилися про мирне рішення…»(Citation: 1063).
+
+    Росія призначила наступні переговори на 12 грудня у Владикавказі, столиці підконтрольної Росії Північної Осетії, а за день до них російська армія відкрито вторглася в Ічкерію(Citation: 27).
+    У день вторгнення президент Росії Єльцин сказав у зверненні до громадян Росії: «На 12 грудня 1994 р. намічено переговори між представниками Росії та Чечні.
+    Ми повинні запобігти їх зриву»(Citation: 1380).
+    Правозахисники «Меморіалу» пишуть про вторгнення напередодні переговорів: «Дії, що свідомо вели до зриву переговорів, оголошувалися спрямованими на запобігання їх зриву»(Citation: 27). 12 грудня російські військові затримали делегацію Ічкерії на чолі з міністром економіки і фінансів Таймазом Абубакаровим на кордоні Північної Осетії та Інгушетії, щоб пропустити в Ічкерію колону своїх військ(Citation: 27)(Citation: 26).
+    Усі три дні переговорів, 12-14 грудня, російські війська наступали на Грозний(Citation: 1320)(Citation: 27), а в перший день окупанти обстріляли з артилерії та бомбили станицю Ассинівську на заході Ічкерії(Citation: 26). 14 грудня делегація Ічкерії перервала переговори через вимогу визнати республіку частиною Росії та поїхала.
+    Більше делегації у Владикавказі не зустрічалися(Citation: 1425)(Citation: 27)(Citation: 26).
+
+    Президент Росії Єльцин і голова уряду Росії Черномирдін з грудня 1994 року по квітень 1996 року оголошували Ічкерії переговори, командувачі окупаційних військ Куликов, Тихомиров, Квашнін і Пуліковський у 1995-1996 роках призначали зустрічі армії Ічкерії, а російські війська наступали в дні зустрічей.
+
+    27 грудня 1994 року Єльцин доручив вести переговори міністрові у справах національностей Єгорову, директорові ФСК (попередниці сучасної ФСБ) Степашину і командувачеві окупаційних військ Квашніну(Citation: 747).
+    Наступного дня директор ФСК Степашин сказав керівникам Краснодарського краю, що говорити треба не про переговори, а про ультиматум Ічкерії, а 31 грудня російська армія почала штурмувати Грозний(Citation: 1344)(Citation: 27).
+
+    18 січня 1995 року міністри Ічкерії Таймаз Абубакаров і Усман Імаєв чекали в Назрані, місті в підконтрольній Росії Інгушетії, двох російських генералів, яким Черномирдін доручив переговори про припинення вогню.
+    Генерали не приїхали, а в ніч на 19 січня російські льотчики скинули на президентський палац у Грозному бомби, які пробивають бетон(Citation: 27). 21 лютого 1995 року російські військові біля Самашок, села на заході Ічкерії, не пропустили делегацію Ічкерії на зустріч з генералом Куликовим у Слепцовську, станицю в підконтрольній Росії Інгушетії.
+    Екіпажі російських гелікоптерів обстріляли ракетами та з кулеметів дорогу перед машинами делегації, а Куликов відмовив Ічкерії в зустрічі(Citation: 27). 22 травня 1995 року представник російського уряду в Ічкерії Семенов оголосив журналістам, що через три дні почнуться переговори за посередництва ОБСЄ(Citation: 1347), а 24 травня окупаційні війська почали наступ у горах на півдні Ічкерії. 25 травня делегації Росії та Ічкерії сіли за стіл переговорів у Грозному, а до 12 червня окупанти захопили гірські районні центри Ведено, Шатой і Ножай-Юрт (докладніше: «Воєнна інтервенція»)(Citation: 27).
+
+    З 30 вересня 1995 року внутрішні війська МВС Росії та російська міліція тримали в кільці Серноводськ, село на заході Ічкерії біля кордону з підконтрольною Росії Інгушетією (докладніше: «Транспортна блокада»)(Citation: 27).
+    Віктор Курочкін, депутат російського парламенту, у квітні 1996 року розповів у Москві громадському трибуналу російського фонду «Гласність»: «Наказ про початок широкомасштабних дій федеральних [російських] військ надійшов у лютому саме тоді, коли ми домовлялися, що будуть зняті блокпости біля Серноводська...
+    Але коли ми приїхали, щоб конкретно вирішити цю проблему, нам повідомили, що надійшов наказ починати бойові дії і до 1 квітня знищити всі бандформування» (так росіяни називали Збройні сили Ічкерії)(Citation: 988).
+    Увечері 2 березня 1996 року керівники Серноводська домовилися про мир для села з маріонетковим урядом у Грозному і з командуванням окупаційних військ на південному заході Ічкерії та призначили підписання на ранок 3 березня.
+    Після домовленості більша частина захисників пішла з села(Citation: 27).
+    Садит Гісатова, чеченка з Серноводська, у травні 1996 року в Празі розповіла трибуналу «Гласності» про ніч на 3 березня: «Цієї ночі вперше за довгий час мої діти лягли спати, роздягнувшись.
+    Ми повірили російському урядові і своєму новоствореному [маріонетковому урядові в Грозному] — вони обіцяли нам мир»(Citation: 988).
+
+    О 5:45 ранку 3 березня 1996 року, більш ніж за чотири години до підписання, окупанти трьома колонами почали штурмувати Серноводськ(Citation: 27).
+    Захисники села вбили в бою російського полковника і захопили в нього докладну карту нападу(Citation: 988).
+    О 7:30 захисники відбили напад.
+    Після цього окупанти обстрілювали село з артилерії, а російські льотчики стріляли по ньому ракетами з гелікоптерів (докладніше: «Невибіркові напади»). 9 березня, через шість днів після початку штурму, російські війська захопили Серноводськ.
+    З 3 по 9 березня окупанти вбили в селі щонайменше 45 мирних чеченців і поранили 68 (докладніше: «Масові вбивства цивільних»)(Citation: 27).
+
+    21 квітня 1996 року, коли президент Ічкерії Джохар Дудаєв говорив супутниковим телефоном з Костянтином Боровим, посередником у переговорах Росії та Ічкерії про мир, російські військові вдарили ракетами по галявині біля села Гехі-Чу на південний захід від Грозного і вбили його (докладніше: «Нейтралізація опозиції»)(Citation: 712)(Citation: 27).
+    Через два дні голова уряду Росії Черномирдін оголосив, що Росія дотримуватиметься «тактики розширення миру в поєднанні з жорсткими силовими методами»(Citation: 27).
+
+    3 липня 1996 року в Нових Атагах, селі на південь від Грозного, російські учасники робочої групи Росії та Ічкерії з воєнних питань на чолі з генералом Тихомировим заявили, що знімають блокпости і виводять військові частини з Ічкерії(Citation: 1124). 9 липня, коли глава російської делегації Михайлов запевняв Тіма Гульдімана, главу місії ОБСЄ в Ічкерії, що Росія хоче продовжувати переговори, війська Тихомирова оточили Гехі, село на південний захід від Грозного, і до 12 липня вбили там 19 мирних чеченців (докладніше: «Невибіркові напади»)(Citation: 27)(Citation: 1364). 19 липня командувач російських військ на Північному Кавказі Квашнін оголосив, що готовий зустрітися з Асланом Масхадовим, начальником Головного штабу Збройних сил Ічкерії, і обговорити його «особисту долю», а наступного дня окупанти почали наступ у горах на південний захід від Шатоя, районного центру на півдні Ічкерії (докладніше: «Невибіркові напади»)(Citation: 1365)(Citation: 27). 31 липня Ічкерія відмовилася від зустрічі(Citation: 1259).
+    З 13 по 17 серпня 1996 року генерал Пуліковський, який виконував обов'язки командувача окупаційних військ, тричі зустрічався з Асланом Масхадовим, начальником Головного штабу Збройних сил Ічкерії, на переговорах про припинення вогню (докладніше: «Фальшиве перемир'я»)(Citation: 1127).
+    Увечері 19 серпня Пуліковський дав городянам Грозного 48 годин на вихід, а в ніч на 20 серпня, до кінця строку, російські артилеристи й льотчики почали обстрілювати і бомбити місто (докладніше: «Колективні покарання»)(Citation: 1260)(Citation: 27).
+    За оцінкою журналістів, з 6 по 22 серпня окупанти вбили в Грозному близько 2000 мирних городян.
+    Правозахисники «Меморіалу» пишуть, що ніхто не вів точного підрахунку(Citation: 27).
+
+    1 травня 1995 року Сергій Ковальов, депутат російського парламенту, написав у свідченнях Гельсінській комісії Конгресу США, що військове командування Росії та інші члени уряду в Москві раз за разом навмисно зривали всі спроби вирішити питання про незалежність Ічкерії миром, до війни і після її початку(Citation: 1038).
+
+    22 серпня 1996 року секретар Ради безпеки Росії Лебедь і Аслан Масхадов, начальник Головного штабу Збройних сил Ічкерії, домовилися про припинення вогню і відведення російських військ(Citation: 27).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

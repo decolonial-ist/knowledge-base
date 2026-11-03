@@ -1,0 +1,34 @@
+type: procedure
+id: C1165.T0140
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0140
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Зимой 1845-1846 годов империя перешла от прокладки отдельных просек к уничтожению чеченских лесов - среды жизни и защиты чеченских обществ.
+    Историк Н. И. Покровский приводит имперский обзор капитана Николаи: «С конца 1845 года начались зимние наши походы в Малой Чечне», - и описывает акты: «с 4 по 24 декабря 1845 г. экспедиционный отряд генерала Р. К. Фрейтага рубил большую просеку через Гойтинский лес, один из самых густых в Малой Чечне.
+    Просека соединила реку Гойту с Урус-Мартаном»; «В январе 1846 г., с 18 по 29, рубили уже соединенные отряды Р. К. Фрейтага и П. П. Нестерова.
+    На этот раз объектом истребления был Гехинский лес, а просека установила сообщение между реками Гехинкой и Валериком»(Citation: 129).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов фиксируют эскалацию: «с начала 1846 г. войска перешли от прокладывания отдельных просек к буквальному истреблению дремучих чеченских лесов»(Citation: 125).
+    Цель сформулировал Воронцов, наместник на Кавказе: разрушить влияние Шамиля (имама, руководителя сопротивления горцев Дагестана и Чечни российскому завоеванию) и «оторвать от него чеченцев», без которых он ничего не будет значить(Citation: 129).
+  en: |-
+    In the winter of 1845-1846 the empire moved from cutting individual clearings to the destruction of the Chechen forests - the living environment and protection of the Chechen communities.
+    Historian N. I. Pokrovsky cites the imperial survey by captain Nikolai: "From the end of 1845 our winter marches in Lesser Chechnya began", - and describes the acts: "from 4 to 24 December 1845 the expeditionary detachment of general R. K. Freitag cut a great clearing through the Goyta forest, one of the densest in Lesser Chechnya.
+    The clearing connected the river Goyta with Urus-Martan"; "In January 1846, from the 18th to the 29th, the joined detachments of R. K. Freitag and P. P. Nesterov were already cutting.
+    This time the object of annihilation was the Gekhi forest, and the clearing established communication between the rivers Gekhinka and Valerik"(Citation: 129).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov record the escalation: "from the beginning of 1846 the troops passed from the cutting of individual clearings to the literal annihilation of the dense Chechen forests"(Citation: 125).
+    The goal was formulated by Vorontsov, viceroy in the Caucasus: to destroy the influence of Shamil (the imam, leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest) and to "tear the Chechens away from him", without whom he would mean nothing(Citation: 129).
+  uk: |-
+    Узимку 1845-1846 років імперія перейшла від прокладання окремих просік до знищення чеченських лісів - середовища життя і захисту чеченських громад.
+    Історик Н. І. Покровський наводить імперський огляд капітана Ніколаї: «З кінця 1845 року почалися зимові наші походи в Малій Чечні», - і описує акти: «з 4 по 24 грудня 1845 р. експедиційний загін генерала Р. К. Фрейтага рубав велику просіку через Гойтинський ліс, один з найгустіших у Малій Чечні.
+    Просіка з'єднала річку Гойту з Урус-Мартаном»; «У січні 1846 р., з 18 по 29, рубали вже з'єднані загони Р. К. Фрейтага і П. П. Нестерова.
+    Цього разу об'єктом винищення був Гехінський ліс, а просіка встановила сполучення між річками Гехінкою і Валериком»(Citation: 129).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов фіксують ескалацію: «з початку 1846 р. війська перейшли від прокладання окремих просік до буквального винищення дрімучих чеченських лісів»(Citation: 125).
+    Мету сформулював Воронцов, намісник на Кавказі: зруйнувати вплив Шаміля (імама, керівника опору горців Дагестану і Чечні російському завоюванню) і «відірвати від нього чеченців», без яких він нічого не значитиме(Citation: 129).

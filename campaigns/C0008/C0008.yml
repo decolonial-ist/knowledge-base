@@ -1,0 +1,30 @@
+type: campaign
+id: C0008
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.3'
+people: ukrainians
+first_seen: 1685-01-01
+last_seen: 1686-12-31
+contributors: []
+name:
+  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
+  en: Annexation of the Kyiv Metropolis by the Moscow Patriarchate (1685–1690)
+  uk: Анексія Київської митрополії Московським патріархатом (1685–1690)
+description:
+  ru: |-
+    Аннексия независимой украинской церкви с использованием дипломатического давления и коррупции.
+    Иерусалимский патриарх Досифей прямо обвинял московских послов в симонии: «Что вина да оттерзаете чуждую епархію? не есть ли стыдъ отъ людей, не есть ли грѣхъ отъ Бога!
+    Да присылаете денги и изъ ума людей выводите, берете грамоты сопротивны церкви и Богу»(Citation: 152).
+    Подчинение церкви оправдывалось геополитикой: «Главным проектом Голицына… стала реформа украинской православной церкви, точнее — подчинение киевской митрополии московскому патриарху»(Citation: 3).
+  en: |-
+    The annexation of the independent Ukrainian church through diplomatic pressure and corruption.
+    Patriarch Dositheus of Jerusalem directly accused the Muscovite envoys of simony: "What fault is it to tear away another's eparchy?
+    Is it not a shame before people, is it not a sin before God!
+    You send money and lead people out of their minds, you take charters contrary to the church and to God"(Citation: 152).
+    The subordination of the church was justified by geopolitics: "Golitsyn's main project… was the reform of the Ukrainian Orthodox church, or rather – the subordination of the Kyiv metropolitanate to the Moscow patriarch"(Citation: 3).
+  uk: |-
+    Анексія незалежної української церкви з використанням дипломатичного тиску та корупції.
+    Єрусалимський патріарх Досифей прямо звинувачував московських послів у симонії: «Що [то] за вина — відривати чужу єпархію? чи не сором від людей, чи не гріх від Бога!
+    Та присилаєте гроші й з розуму людей зводите, берете грамоти супротивні церкві й Богу»(Citation: 152).
+    Підпорядкування церкви виправдовувалося геополітикою: «Головним проєктом Голіцина… стала реформа української православної церкви, точніше — підпорядкування київської митрополії московському патріархові»(Citation: 3).

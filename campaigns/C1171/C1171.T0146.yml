@@ -1,0 +1,24 @@
+type: procedure
+id: C1171.T0146
+created: 2026-08-04
+modified: 2026-08-04
+version: '1.0'
+technique: T0146
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Запрет прямой сдачи земли горцам, введённый в конце XIX века, дал посредников: «Результатом данного решения стало появление большого числа посредников, через которых земля все же попадала к горцам, но уже по более высокой цене»(Citation: 125).
+    Кто на этом зарабатывал, называет историк З. Х. Ибрагимова: «Спекулятивная аренда получила широкое распространение, ею занимались и чины правительства и администрации и офицеры, бравшие в аренду большие площади по 10-15 копеек за десятину и сдающие их в субаренду горскому населению по цене, в несколько раз превосходившей первоначальную»(Citation: 251).
+    Разницу в цене клали в карман чиновники и офицеры той же администрации, которая землю и отобрала.
+  en: |-
+    The ban on leasing land directly to the highlanders, introduced at the end of the 19th century, produced middlemen: "The result of this decision was the appearance of a large number of intermediaries through whom the land still reached the highlanders, but at a higher price"(Citation: 125).
+    Who profited from it is named by historian Z. Kh.
+    Ibragimova: "Speculative leasing became widespread; it was practiced by officials of the government and administration and by officers, who rented large areas at 10-15 kopecks per desiatina and sublet them to the highland population at a price several times the original"(Citation: 251).
+    The difference in price was pocketed by officials and officers of the very administration that had taken the land away.
+  uk: |-
+    Заборона прямої здачі землі горцям, запроваджена наприкінці XIX століття, дала посередників: «Результатом цього рішення стала поява великої кількості посередників, через яких земля все ж потрапляла до горців, але вже за вищою ціною»(Citation: 125).
+    Хто на цьому заробляв, називає історик З. Х. Ібрагімова: «Спекулятивна оренда набула широкого поширення, нею займалися і чини уряду та адміністрації, і офіцери, що брали в оренду великі площі по 10-15 копійок за десятину і здавали їх у суборенду гірському населенню за ціною, що в кілька разів перевищувала первісну»(Citation: 251).
+    Різницю в ціні клали до кишені чиновники й офіцери тієї самої адміністрації, яка землю і відібрала.

@@ -1,0 +1,16 @@
+type: procedure
+id: C1130.T0139
+created: 2026-06-18
+modified: 2026-06-18
+version: '1.0'
+technique: T0139
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Регулярная армия Российской империи заложила новую военную базу для инфраструктурного закрепления в регионе: историк Я. З. Ахмадов констатирует, что осенью 1722 года Петр I «заложил на Сулаке крепость Святой Крест»(Citation: 94).'
+  en: |-
+    The Regular Army of the Russian Empire founded a new military base for infrastructural entrenchment in the region: historian Ya.
+    Z. Akhmadov states that in the autumn of 1722 Peter I "founded the fortress of the Holy Cross on the Sulak"(Citation: 94).
+  uk: 'Регулярна армія Російської імперії заклала нову військову базу для інфраструктурного закріплення в регіоні: історик Я. З. Ахмадов констатує, що восени 1722 року Петро I «заклав на Сулаку фортецю Святий Хрест»(Citation: 94).'

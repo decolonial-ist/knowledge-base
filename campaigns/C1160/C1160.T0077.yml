@@ -1,0 +1,23 @@
+type: procedure
+id: C1160.T0077
+created: 2026-07-18
+modified: 2026-07-18
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    23-29 января 1837 года отряд генерала Фезе - 4 батальона Куринского и 2 Апшеронского полков, 257 казаков, всего 3249 человек при 12 орудиях - вышел из крепости Грозной в Малую Чечню.
+    Розен в рапорте военному министру Чернышеву от 11 февраля 1837 назвал цель прямо: «для наказания уклонившихся от повиновения Чеченцев западной части Чечни»(Citation: 105).
+    Поход продолжил зимние карательные операции после декабрьского истребления Кишкерой-Юрта (кампания C1158): за неделю, по журналу экспедиции при том же рапорте, истреблены Шалаж-юрт и жилища по обоим берегам Шалажи, сожжено более тысячи саклей (сакля - дом горца), взято 92 пленных(Citation: 105).
+  en: |-
+    On 23-29 January 1837, a detachment under General Feze - 4 battalions of the Kurinsky and 2 of the Apsheronsky regiments, 257 Cossacks, 3249 men in all with 12 guns - marched out of the Groznaya fortress into Lesser Chechnya.
+    Rozen, in a report to Minister of War Chernyshev of 11 February 1837, named the purpose plainly: "to punish the Chechens of the western part of Chechnya who have evaded obedience"(Citation: 105).
+    The campaign continued the winter punitive operations after the December extermination of Kishkeroy-Yurt (campaign C1158): within a week, according to the expedition journal appended to the same report, Shalazh-yurt and the dwellings on both banks of the Shalazha were destroyed, more than a thousand saklias (saklia - a highlander's house) were burned, and 92 captives were taken(Citation: 105).
+  uk: |-
+    23-29 січня 1837 року загін генерала Фезе - 4 батальйони Куринського і 2 Апшеронського полків, 257 козаків, разом 3249 осіб при 12 гарматах - вийшов з фортеці Грозна до Малої Чечні.
+    Розен у рапорті військовому міністру Чернишову від 11 лютого 1837 назвав мету прямо: «для покарання чеченців західної частини Чечні, що ухилилися від покори»(Citation: 105).
+    Похід продовжив зимові каральні операції після грудневого винищення Кишкерой-Юрта (кампанія C1158): за тиждень, за журналом експедиції при тому ж рапорті, винищено Шалаж-юрт і житла по обох берегах Шалажі, спалено понад тисячу сакель (сакля - дім горця), взято 92 полонених(Citation: 105).

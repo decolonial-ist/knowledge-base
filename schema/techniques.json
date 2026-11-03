@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Техника",
+  "description": "Файл techniques/T0023.yml; подтехника - T0162.004.yml с полем parent.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "type",
+    "id",
+    "created",
+    "modified",
+    "version",
+    "tactics",
+    "name",
+    "contributors",
+    "description"
+  ],
+  "properties": {
+    "type": {
+      "const": "technique"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^T\\d{4}(\\.\\d{3})?$"
+    },
+    "created": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "modified": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+$"
+    },
+    "parent": {
+      "type": "string",
+      "pattern": "^T\\d{4}$"
+    },
+    "tactics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^TA\\d{4}$"
+      }
+    },
+    "name": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ru",
+        "en",
+        "uk"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    },
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ru",
+          "en",
+          "uk"
+        ],
+        "properties": {
+          "ru": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 0
+          },
+          "uk": {
+            "type": "string",
+            "minLength": 0
+          }
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ru",
+        "en",
+        "uk"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string",
+          "minLength": 0
+        },
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    }
+  }
+}

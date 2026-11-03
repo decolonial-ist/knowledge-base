@@ -1,0 +1,18 @@
+type: procedure
+id: C0049.T0044
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.0'
+technique: T0044
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Уничтожение базы для обучения детей на родном языке: «Специальным циркуляром Главного Управления по делам печати 1895 г. было запрещено печатать какие-либо книги и сборники на украинском языке для детского чтения, „хотя бы по существу содержания они и представлялись благонамеренными“».
+    Резолюция цензора на детском сборнике: «Написано очевидно для детей, но они должны учиться по русски. — Воспретить»(Citation: 181).
+  en: 'The destruction of the basis for teaching children in their native language: "By a special circular of the Main Administration for Press Affairs in 1895, the printing of any books or collections in the Ukrainian language for children''s reading was forbidden, ''even if in the substance of their content they appeared well-intentioned.''" The censor''s resolution on a children''s collection: "Obviously written for children, but they must learn in Russian. — Forbid"(Citation: 181).'
+  uk: |-
+    Знищення бази для навчання дітей рідною мовою: «Спеціальним циркуляром Головного Управління в справах друку 1895 р. було заборонено друкувати будь-які книжки і збірники українською мовою для дитячого читання, „хоч би по суті змісту вони й видавалися благонаміреними“».
+    Резолюція цензора на дитячій збірці: «Написано вочевидь для дітей, але вони мусять учитися по-російськи. — Заборонити»(Citation: 181).

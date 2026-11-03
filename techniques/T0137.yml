@@ -1,0 +1,29 @@
+type: technique
+id: T0137
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0001
+- TA0004
+name:
+  ru: Дезинформация
+  en: Disinformation
+  uk: Дезінформація
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять целенаправленное манипулирование информационным пространством и проводят вредоносные операции влияния (IO — Influence Operations, FIMI — Foreign Information Manipulation and Interference, FMI — Foreign Malign Influence).
+    Эта техника применяется для скоординированного вброса ложных нарративов на международной арене, подрыва доверия к демократическим институтам и дестабилизации общества государства-жертвы.
+    Информационное вмешательство призвано исказить восприятие реальности, скрыть факты агрессии и парализовать способность общества к скоординированному сопротивлению.
+    Более подробно эти техники раскрываются в специализированном фреймворке: [DISARM Framework](https://www.disarm.foundation/).
+  en: |-
+    Aggressors may carry out targeted manipulation of the information space and conduct malign influence operations (IO — Influence Operations, FIMI — Foreign Information Manipulation and Interference, FMI — Foreign Malign Influence).
+    This technique is used for the coordinated injection of false narratives on the international stage, undermining trust in democratic institutions, and destabilizing the society of the victim state.
+    Information interference is intended to distort the perception of reality, conceal the facts of aggression, and paralyze society's capacity for coordinated resistance.
+    These techniques are covered in more detail in a specialized framework: [DISARM Framework](https://www.disarm.foundation/).
+  uk: |-
+    Агресори можуть здійснювати цілеспрямоване маніпулювання інформаційним простором і проводити зловмисні операції впливу (IO — Influence Operations, FIMI — Foreign Information Manipulation and Interference, FMI — Foreign Malign Influence).
+    Ця техніка застосовується для скоординованого вкидання неправдивих наративів на міжнародній арені, підриву довіри до демократичних інституцій та дестабілізації суспільства держави-жертви.
+    Інформаційне втручання покликане спотворити сприйняття реальності, приховати факти агресії та паралізувати здатність суспільства до скоординованого опору.
+    Докладніше ці техніки розкриваються у спеціалізованому фреймворку: [DISARM Framework](https://www.disarm.foundation/).

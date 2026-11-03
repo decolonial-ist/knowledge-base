@@ -1,0 +1,23 @@
+type: procedure
+id: C1161.T0147
+created: 2026-07-21
+modified: 2026-08-04
+version: '1.0'
+technique: T0147
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В феврале-марте 1837 года войска Фезе, истребляя аулы уклоняющихся, брали с чеченских обществ присяги империи одну за другой - рапорты Розена военному министру Чернышеву считают их по датам: 6 февраля Шали («принесли присягу на покорность нашему правительству и представили в залог оной аманатов»), 8 февраля Герменчук («возобновлена присяга на подданство»), 15 февраля Гельдиген («принесли присягу на верноподданство и выдали по выбору из лучших семейств аманатов»), 21 февраля шесть аулов Мичика, 25 февраля аулы по Яман-су от Балан-су до Билетли и на Аксае(Citation: 105).
+    К 24 февраля, по рапорту от 11 марта, Фезе «привел к покорности Чеченцев, обитающих по р. Мичику»; в конце марта у лагеря при Устар-хане войска взяли присягу со старшин Гойтинского леса и Мартанского ущелья - те «принесли присягу на верноподданство Г. И. (Государю Императору) и представили аманатов в обезпечение своей покорности»(Citation: 105).
+    Присяга под войсками, только что истребившими соседние аулы, закрепляла подчинение как юридический факт (аманат - человек, которого империя забирала у общины как гарантию подчинения).
+  en: |-
+    In February-March 1837, Feze's troops, annihilating the auls of those who evaded, took oaths to the empire from the Chechen communities one after another - Rozen's reports to Minister of War Chernyshev count them by date: on 6 February Shali ("brought an oath of submission to our government and presented amanats as its pledge"), on 8 February Germenchuk ("the oath of subjecthood was renewed"), on 15 February Geldigen ("brought an oath of allegiance and handed over amanats chosen from the best families"), on 21 February six auls of the Michik, on 25 February the auls along the Yaman-su from Balan-su to Biletli and on the Aksai(Citation: 105).
+    By 24 February, according to the report of 11 March, Feze "brought to submission the Chechens dwelling along the Michik river"; at the end of March, at the camp at Ustar-khan, the troops took an oath from the elders of the Goyta forest and the Martan gorge - they "brought an oath of allegiance to the Sovereign Emperor and presented amanats as security for their submission"(Citation: 105).
+    An oath taken under the guns of troops that had just annihilated the neighboring auls fixed subordination as a legal fact (amanat - a person whom the empire took from a community as a guarantee of subordination).
+  uk: |-
+    У лютому-березні 1837 року війська Фезе, винищуючи аули тих, хто ухилявся, брали з чеченських громад присяги імперії одну за одною - рапорти Розена військовому міністру Чернишову рахують їх за датами: 6 лютого Шалі («принесли присягу на покірність нашому уряду і представили в заставу оної аманатів»), 8 лютого Герменчук («поновлена присяга на підданство»), 15 лютого Гельдіген («принесли присягу на вірнопідданство і видали за вибором з кращих сімейств аманатів»), 21 лютого шість аулів Мічика, 25 лютого аули по Яман-су від Балан-су до Білетлі і на Аксаї(Citation: 105).
+    До 24 лютого, за рапортом від 11 березня, Фезе «привів до покірності чеченців, що мешкають по р. Мічику»; наприкінці березня біля табору при Устар-хані війська взяли присягу зі старшин Гойтинського лісу і Мартанського міжгір'я - ті «принесли присягу на вірнопідданство Г. І. (Государю Імператору) і представили аманатів у забезпечення своєї покірності»(Citation: 105).
+    Присяга під військами, що щойно винищили сусідні аули, закріплювала підпорядкування як юридичний факт (аманат - людина, яку імперія забирала в громади як гарантію підпорядкування).

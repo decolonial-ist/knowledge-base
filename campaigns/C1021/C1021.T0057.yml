@@ -1,0 +1,20 @@
+type: procedure
+id: C1021.T0057
+created: 2026-06-25
+modified: 2026-06-25
+version: '1.0'
+technique: T0057
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Регулярная армия Российской империи принуждала чеченские селения к поставкам и работам для строительства крепости.
+    Имперский генерал Ермолов в своих «Записках» свидетельствует: «приказано было селениям, от коих были у нас аманаты, доставлять лес на стройку»; ближайшие селения «не смели оказать непослушания»(Citation: 96).
+  en: |-
+    The Regular Army of the Russian Empire forced Chechen villages to make deliveries and perform labor for the construction of the fortress.
+    Imperial general Yermolov testifies in his “Notes”: “the villages from which we held amanats were ordered to deliver timber for the construction”; the nearest villages “dared not show disobedience”(Citation: 96).
+  uk: |-
+    Регулярна армія Російської імперії примушувала чеченські селища до постачань і робіт для будівництва фортеці.
+    Імперський генерал Єрмолов у своїх «Записках» свідчить: «наказано було селищам, від яких були в нас аманати, доставляти ліс на будівництво»; найближчі селища «не сміли виявити непослуху»(Citation: 96).

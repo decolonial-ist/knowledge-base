@@ -1,0 +1,69 @@
+type: procedure
+id: C1178.T0032
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0032
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    «Кулаком» колонизаторы называли крестьянина, которого посчитали «зажиточным».
+    В Чечне чиновники записывали человека в «кулаки» без суда, а следом колонизатор отбирал у него права.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Для ограничения политического влияния кулачества применялась такая мера, как лишение (временное или постоянное) избирательных прав.
+    В 1926 г. от участия в выборах, таким образом, было отстранено 1,3% избирателей, а в 1927 г. — уже 4,5%»(Citation: 125).
+    В докладе об обследовании партийной организации Чеченской автономной области, отправленном 7-9 марта 1931 года во Всероссийский центральный исполнительный комитет - высший орган оккупационной власти РСФСР, сказано: «Лишенцев [лишенных избирательного права] в перевыборную кампанию 1928/29 г. было 11 279 чел., в среднем 6,8 % по области, по некоторым селениям округов процент доходил до 30, а в Галанчожском округе до 40 %»(Citation: 533).
+    Руководство краевого комитета партии («Северо-Кавказский крайком ВКП(б)») в январе 1930 года готовило постановление о выселении крестьянских семей и записало в проекте: «выселению подлежат исключительно лишенные избирательных прав, а также и кулаки, случайно не лишенные избирательных прав»(Citation: 543).
+    Чиновники составляли списки «кулаков» наугад, и партийный надзор это признавал.
+    Председатель Северо-Кавказской краевой контрольной комиссии Ларин докладывал в феврале 1930 года: в Автурах и Шали «из 18 хозяйств, числившихся по списку индивидуального обложения [повышенного налога], 4 хозяйства оказались совершенно не кулацкими: одно бедняцкое и три середняцких»; в Курчалое в «кулацкий список» внесли 12 бедняцких и 7 середняцких хозяйств, а 89 хозяйств, которые колонизатор сам же числил зажиточными в своих налоговых списках, в «кулацкий список» не попали(Citation: 537).
+    Ларин назвал и цель «хлебных заданий» - норм зерна, которые колонизатор приказывал аулам сдать ему: «Цель была благая: внести этими заданиями расслоение в горные аулы, а получилось как раз обратное»(Citation: 537).
+    Крестьян, записанных в «кулаки» и середняки, колонизатор судил за несдачу зерна и неуплату налогов - и даже имперские суды в этих делах вины не находили: по подсчёту Ларина, 40% закончились по сути оправданием.
+    До ноября 1929 года «рассмотрено было дел на кулаков 265, а на середняков 132»; из 265 дел на «кулаков» «оправдано было 30 и условно осуждено 26», ещё 58 человек получили принудительные работы, и такие приговоры Ларин тоже причислил к оправданиям: «было оправдано 40%»(Citation: 537).
+    Империя проверяла даже свои сельские советы - органы, которые она насадила в аулах вместо чеченского самоуправления, - и исключала из них чеченцев с «неправильным» прошлым.
+    Ларин докладывал: «В 5-ти горных округах установлено в составе сельсоветов 215 человек явно чуждого элемента.
+    Там и кулаки, и торговцы, и бывшие старшины, и бывшие полицейские, и бывшие бандиты, и духовенство»; резолюцию областной конференции партии, объявившую «полное очищение от чуждых и кулацких элементов состава сельсоветов», он поправлял: «Мягко выражаясь, это было сказано неосторожно»(Citation: 537).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Если в 1928 г. по всей Чечне было репрессировано 62 кулака, то через год число репрессированных достигло 356 человек...
+    В результате этих репрессий на конец 1931 г. в Чечне количество кулацких хозяйств сократилось по сравнению с 1929 г. в три раза»(Citation: 125).
+    Командующий оккупационными войсками Северо-Кавказского военного округа Белов, воевавший против восставших чеченцев, в докладе краевому комитету партии называл среди причин восстания «неправильное лишение избирательных прав середняков, а в ряде случаев и бедняков», в Итум-Калинском округе ставшее массовым(Citation: 533).
+  en: |-
+    A "kulak" was what the colonizers called a peasant they deemed "well-off".
+    In Chechnya officials entered a person into the "kulaks" without any trial, and the colonizer then stripped him of his rights.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "To limit the political influence of the kulaks such a measure was applied as deprivation (temporary or permanent) of voting rights.
+    In 1926, 1.3% of the voters were thus barred from taking part in the elections, and in 1927 - already 4.5%"(Citation: 125).
+    The report on the inspection of the party organization of the Chechen Autonomous Oblast, sent on 7-9 March 1931 to the All-Russian Central Executive Committee - the supreme organ of the occupation power of the RSFSR, states: "The lishentsy [people stripped of the vote] in the re-election campaign of 1928/29 numbered 11,279 people, on average 6.8% across the oblast; in some settlements of the okrugs the percentage reached 30, and in the Galanchozh okrug up to 40%"(Citation: 533).
+    In January 1930 the leadership of the krai committee of the party (the "North Caucasus kraikom VKP(b)"), preparing a resolution on the expulsion of peasant families, wrote into the draft: "subject to expulsion are exclusively those deprived of voting rights, and also kulaks who by chance have not been deprived of voting rights"(Citation: 543).
+    Officials drew up the lists of "kulaks" at random, and the party's own oversight admitted it.
+    Larin, chairman of the North Caucasus krai control commission, reported in February 1930: in Avtury and Shali, "of the 18 households listed for individual taxation [a punitive higher tax], 4 households turned out to be not kulak at all: one poor-peasant and three middle-peasant"; in Kurchaloy 12 poor-peasant and 7 middle-peasant households were entered into the "kulak list", while 89 households that the colonizer himself counted as well-off in his own tax rolls did not make it into the "kulak list"(Citation: 537).
+    Larin also named the purpose of the "grain assignments" - the quotas of grain the colonizer ordered the auls to hand over: "The aim was benign: to introduce stratification into the mountain auls by these assignments, but what came of it was exactly the opposite"(Citation: 537).
+    Peasants entered as "kulaks" and middle peasants were put on trial by the colonizer for failure to deliver grain and pay taxes - and even the imperial courts found no guilt in those cases: by Larin's count, 40% ended in what amounted to acquittal.
+    Up to November 1929 "265 cases against kulaks were heard, and 132 against middle peasants"; of the 265 cases against "kulaks", "30 were acquitted and 26 sentenced conditionally", another 58 people received forced labor, and such verdicts Larin also counted among the acquittals: "40% were acquitted"(Citation: 537).
+    The empire vetted even its own village soviets - the organs it had planted in the auls in place of Chechen self-government - and expelled from them Chechens with the "wrong" past.
+    Larin reported: "In 5 mountain okrugs, 215 persons of clearly alien element have been found in the composition of the village soviets.
+    There are kulaks, and traders, and former elders, and former policemen, and former bandits, and clergy"; the resolution of the oblast party conference, which had proclaimed "the complete cleansing of the composition of the village soviets from alien and kulak elements", he corrected: "To put it mildly, that was said incautiously"(Citation: 537).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "If in 1928 62 kulaks were repressed across the whole of Chechnya, a year later the number of the repressed reached 356 people...
+    As a result of these repressions, by the end of 1931 the number of kulak households in Chechnya had shrunk threefold compared to 1929"(Citation: 125).
+    Belov, commander of the occupation troops of the North Caucasus Military District, who fought against the insurgent Chechens, in his report to the krai committee of the party named among the causes of the uprising "the incorrect disenfranchisement of middle peasants, and in a number of cases of poor peasants as well", which in the Itum-Kali okrug had become mass practice(Citation: 533).
+  uk: |-
+    «Куркулем» колонізатори називали селянина, якого вважали «заможним».
+    У Чечні чиновники записували людину в «куркулі» без суду, а слідом колонізатор відбирав у неї права.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Для обмеження політичного впливу куркульства застосовувався такий захід, як позбавлення (тимчасове чи постійне) виборчих прав.
+    У 1926 р. від участі у виборах у такий спосіб було відсторонено 1,3% виборців, а в 1927 р. — уже 4,5%»(Citation: 125).
+    У доповіді про обстеження партійної організації Чеченської автономної області, надісланій 7-9 березня 1931 року до Всеросійського центрального виконавчого комітету - найвищого органу окупаційної влади РРФСР, сказано: «Лишенців [позбавлених виборчого права] у перевиборну кампанію 1928/29 р. було 11 279 осіб, у середньому 6,8% по області, по деяких селищах округів відсоток сягав 30, а в Галанчозькому окрузі до 40%»(Citation: 533).
+    Керівництво крайового комітету партії («Північно-Кавказький крайком ВКП(б)») у січні 1930 року готувало постанову про виселення селянських родин і записало в проєкті: «виселенню підлягають виключно позбавлені виборчих прав, а також і куркулі, випадково не позбавлені виборчих прав»(Citation: 543).
+    Чиновники складали списки «куркулів» навмання, і партійний нагляд це визнавав.
+    Голова Північно-Кавказької крайової контрольної комісії Ларін доповідав у лютому 1930 року: в Автурах і Шалі «з 18 господарств, що значилися за списком індивідуального оподаткування [підвищеного податку], 4 господарства виявилися зовсім не куркульськими: одне бідняцьке і три середняцькі»; у Курчалої до «куркульського списку» внесли 12 бідняцьких і 7 середняцьких господарств, а 89 господарств, які колонізатор сам же числив заможними у своїх податкових списках, до «куркульського списку» не потрапили(Citation: 537).
+    Ларін назвав і мету «хлібних завдань» - норм зерна, які колонізатор наказував аулам здати йому: «Мета була блага: внести цими завданнями розшарування в гірські аули, а вийшло якраз навпаки»(Citation: 537).
+    Селян, записаних у «куркулі» й середняки, колонізатор судив за нездачу зерна і несплату податків - і навіть імперські суди в цих справах вини не знаходили: за підрахунком Ларіна, 40% закінчилися по суті виправданням.
+    До листопада 1929 року, доповідав він, «розглянуто було справ на куркулів 265, а на середняків 132»; з 265 справ на «куркулів» «виправдано було 30 і умовно засуджено 26», ще 58 людей дістали примусові роботи, і такі вироки Ларін теж зарахував до виправдань: «було виправдано 40%»(Citation: 537).
+    Імперія перевіряла навіть свої сільради - органи, які вона насадила в аулах замість чеченського самоврядування, - і виключала з них чеченців із «неправильним» минулим.
+    Ларін доповідав: «У 5-ти гірських округах установлено у складі сільрад 215 осіб явно чужого елементу.
+    Там і куркулі, і торговці, і колишні старшини, і колишні поліцейські, і колишні бандити, і духовенство»; резолюцію обласної конференції партії, що оголосила «повне очищення від чужих і куркульських елементів складу сільрад», він поправляв: «М'яко кажучи, це було сказано необережно»(Citation: 537).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Якщо в 1928 р. по всій Чечні було репресовано 62 куркулі, то через рік число репресованих сягнуло 356 осіб...
+    Унаслідок цих репресій на кінець 1931 р. в Чечні кількість куркульських господарств скоротилася порівняно з 1929 р. утричі»(Citation: 125).
+    Бєлов, командувач окупаційних військ Північно-Кавказького військового округу, який воював проти повсталих чеченців, у доповіді крайовому комітетові партії називав серед причин повстання «неправильне позбавлення виборчих прав середняків, а в низці випадків і бідняків», що в Ітум-Калінському окрузі стало масовим(Citation: 533).

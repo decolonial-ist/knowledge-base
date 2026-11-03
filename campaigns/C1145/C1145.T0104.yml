@@ -1,0 +1,14 @@
+type: procedure
+id: C1145.T0104
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Имперский историк Потто описывает, как в ночь на 6 марта 1820 года гребенский казачий полк «без сопротивления ворвался в аул [Топли], погруженный еще в глубокий сон», казаки «кинулись по саклям с кинжалами», и «часть жителей была перерезана прежде, чем успела подняться с постелей»(Citation: 75).'
+  en: 'The imperial historian Potto describes how, on the night of March 6, 1820, the Greben Cossack regiment “burst without resistance into the aul [Topli], still sunk in deep sleep,” the Cossacks “rushed through the saklias with daggers,” and “part of the inhabitants were slaughtered before they could rise from their beds”(Citation: 75).'
+  uk: 'Імперський історик Потто описує, як у ніч на 6 березня 1820 року гребінський козачий полк «без опору увірвався в аул [Топлі], ще занурений у глибокий сон», козаки «кинулися по саклях із кинджалами», і «частину жителів було вирізано раніше, ніж вони встигли піднятися з ліжок»(Citation: 75).'

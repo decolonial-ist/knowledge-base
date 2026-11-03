@@ -1,0 +1,25 @@
+type: technique
+id: T0129
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Запрет национальных имен
+  en: Ban on National Names
+  uk: Заборона національних імен
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут использовать институты регистрации актов гражданского состояния и религиозные учреждения для принудительного изменения, адаптации или запрета традиционных имен и фамилий местного населения.
+    Данная техника служит глубокому закреплению ассимиляционных процессов.
+    Навязывание антропонимических стандартов метрополии при рождении или выдаче документов лишает человека его первичного национального маркера и ускоряет растворение коренного народа в демографическом массиве колонизатора.
+  en: |-
+    Aggressors may use civil registration institutions and religious establishments to forcibly change, adapt, or prohibit the traditional given names and surnames of the local population.
+    This technique serves the deep consolidation of assimilation processes.
+    Imposing the metropole's anthroponymic standards at birth or upon the issuance of documents deprives a person of their primary national marker and accelerates the dissolution of the indigenous people in the colonizer's demographic mass.
+  uk: |-
+    Агресори можуть використовувати інститути реєстрації актів цивільного стану та релігійні установи для примусової зміни, адаптації або заборони традиційних імен і прізвищ місцевого населення.
+    Ця техніка слугує глибокому закріпленню асиміляційних процесів.
+    Нав'язування антропонімічних стандартів метрополії при народженні чи видачі документів позбавляє людину її первинного національного маркера та пришвидшує розчинення корінного народу в демографічному масиві колонізатора.

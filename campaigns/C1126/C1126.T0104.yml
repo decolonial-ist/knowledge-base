@@ -1,0 +1,16 @@
+type: procedure
+id: C1126.T0104
+created: 2026-06-18
+modified: 2026-06-18
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: 'Регулярная армия Московского Царства физически истребляла жителей, отказывающихся подчиниться оккупации: историк Я. З. Ахмадов констатирует, что в 1708 году «на Терек были отправлены военные команды, физически уничтожавшие население, проявлявшее малейшее неповиновение»(Citation: 94).'
+  en: |-
+    The regular army of the Tsardom of Muscovy physically exterminated inhabitants who refused to submit to the occupation: the historian Ya.
+    Z. Akhmadov states that in 1708 «military detachments were sent to the Terek that physically annihilated any population showing the slightest disobedience»(Citation: 94).
+  uk: 'Регулярна армія Московського царства фізично винищувала жителів, які відмовлялися підкоритися окупації: історик Я. З. Ахмадов констатує, що в 1708 році «на Терек було відправлено військові команди, які фізично знищували населення, що виявляло найменшу непокору»(Citation: 94).'

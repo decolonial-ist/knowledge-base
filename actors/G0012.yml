@@ -1,0 +1,28 @@
+type: actor
+id: G0012
+created: 2026-04-27
+modified: 2026-08-09
+version: '1.1'
+name:
+  ru: Российская республика (РС)
+  en: Russian Republic
+  uk: Російська республіка
+contributors: []
+associated_groups:
+- Российская империя
+- СССР
+- Российская Федерация
+- Советская Россия (РСФСР)
+description:
+  ru: |-
+    Государственное образование на территории бывшей Российской империи, провозглашенное после Февральской революции.
+    Находилось под управлением Временного правительства.
+    Существовало с марта по ноябрь 1917 года, после чего было свергнуто в результате большевистского переворота.
+  en: |-
+    A state formation on the territory of the former Russian Empire, proclaimed after the February Revolution.
+    It was governed by the Provisional Government.
+    It existed from March to November 1917, after which it was overthrown as a result of the Bolshevik coup.
+  uk: |-
+    Державне утворення на території колишньої Російської імперії, проголошене після Лютневої революції.
+    Перебувало під управлінням Тимчасового уряду.
+    Існувало з березня по листопад 1917 року, після чого було повалене внаслідок більшовицького перевороту.

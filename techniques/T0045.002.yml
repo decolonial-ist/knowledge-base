@@ -1,0 +1,26 @@
+type: technique
+id: T0045.002
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+parent: T0045
+tactics:
+- TA0005
+name:
+  ru: Сожжение книг и архивов
+  en: Burning of Books and Archives
+  uk: Спалення книг та архівів
+contributors: []
+description:
+  ru: |-
+    В рамках уничтожения исторической памяти агрессоры могут физически уничтожать письменное наследие коренного народа: жечь библиотеки, книги и рукописи, изымать и уничтожать литературу на его языке.
+    Уничтожение письменного корпуса отрезает народ от собственной истории и словесности и оставляет будущим поколениям только тексты, написанные метрополией.
+    Книги, рукописи и архивы - культурные ценности под защитой Гаагской конвенции 1954 года (статья 1(а)).
+  en: |-
+    As part of the destruction of historical memory, aggressors may physically destroy the written heritage of the indigenous people: burn libraries, books and manuscripts, seize and destroy literature in its language.
+    The destruction of the written corpus cuts the people off from their own history and letters, leaving future generations only the texts written by the metropole.
+    Books, manuscripts and archives are cultural property protected by the 1954 Hague Convention (Article 1(a)).
+  uk: |-
+    У межах знищення історичної пам'яті агресори можуть фізично знищувати писемну спадщину корінного народу: палити бібліотеки, книги й рукописи, вилучати та знищувати літературу його мовою.
+    Знищення писемного корпусу відрізає народ від власної історії та словесності й залишає майбутнім поколінням лише тексти, написані метрополією.
+    Книги, рукописи та архіви - культурні цінності під захистом Гаазької конвенції 1954 року (стаття 1(а)).

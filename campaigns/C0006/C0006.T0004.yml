@@ -1,0 +1,14 @@
+type: procedure
+id: C0006.T0004
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0004
+people: ukrainians
+actor: G0008
+tool: S0011
+contributors: []
+description:
+  ru: 'Для идеологического обоснования захвата московские власти получили готовый исторический канон: «„СИНОПСИС“, «Синопсис или краткое собрание от различных летописцев о начале славенороссийского народа» — исторический труд, впервые изданный типографией Киево-Печерской лавры (1674)»(Citation: 196) – книга конструировала общее «славенороссийское» прошлое, легитимизируя власть Москвы над Киевом задним числом.'
+  en: 'For the ideological justification of the seizure, the Muscovite authorities received a ready-made historical canon: "the ''SYNOPSIS,'' ''Synopsis, or a Brief Collection from Various Chroniclers on the Origin of the Slaveno-Rossian People'' – a historical work first published by the printing house of the Kyiv-Pechersk Lavra (1674)"(Citation: 196) – the book constructed a shared "Slaveno-Rossian" past, legitimizing Moscow''s rule over Kyiv retroactively.'
+  uk: 'Для ідеологічного обґрунтування захоплення московська влада отримала готовий історичний канон: «„СИНОПСИС“, «Синопсис, або коротке зібрання від різних літописців про початок славеноросійського народу» — істор. твір, вперше виданий друкарнею Києво-Печерської лаври (1674)»(Citation: 196) – книга конструювала спільне «славеноросійське» минуле, легітимізуючи владу Москви над Києвом заднім числом.'

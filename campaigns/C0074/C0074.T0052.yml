@@ -1,0 +1,56 @@
+type: procedure
+id: C0074.T0052
+created: 2026-04-27
+modified: 2026-08-30
+version: '1.0'
+technique: T0052
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Заместитель военного министра советской колониальной администрации Украины (УСРР) Межлаук 5 апреля 1919 года телеграфировал Ленину: нельзя смотреть на Украину «как на обетованную страну» с неисчерпаемыми запасами - её ресурсы надо в кратчайший срок причислить к общероссийским и использовать по единому плану(Citation: 592).
+    Ленин во второй половине апреля 1919 года предлагал петроградским организациям вывезти рабочих в Украину для пополнения запасов продовольствия и топлива: «Мобилизацию рабочих в Питере продолжить и на Украину и на Дон…
+    Советую двинуть этих рабочих поголовно на Украину, на Дон, на Восток на 3 месяца.
+    Глупо голодать, гибнуть в Питере, когда можно отвоевать хлеб и уголь»(Citation: 576).
+    Эта администрация указом от 12 апреля 1919 года обязала каждое село отдавать государству назначенный ему объём хлеба(Citation: 196).
+    Хлеб у украинцев отбирало продовольственное ведомство этой администрации: оно посылало в сёла вооружённые отряды рабочих, а вместе с ними хлеб отбирали отряды тайной полиции большевиков - чрезвычайных комиссий (ЧК) - и части российской армии(Citation: 196).
+    Эти отряды конфисковывали у крестьян имущество и инвентарь, брали заложников, а за одного жителя заставляли отвечать всё село.
+    Отряды того же ведомства и ЧК перехватывали на дорогах и железнодорожных станциях украинцев, везших хлеб на обмен или продажу в обход государственной монополии: продовольствие отбирали, а перевозку хлеба карали вплоть до расстрела(Citation: 196).
+    Отказ отдать имущество стоил жизни: в июне 1919 года агенты херсонской уездной чрезвычайной комиссии задержали крестьянина деревни Роксандровки Херсонского уезда Никифора Потаченко, 24 лет, «за нежелание предоставить лошадей»; по постановлению комиссии его расстреляли в ночь на 15 июня (краеведческая публикация даёт 15 июля) в подвале дома Тюльпанова - дважды он выбирался из засыпанной могилы живым, и убили его только третьим расстрелом(Citation: 574).
+
+    14 июня 1919 года Ленин телеграфировал в Киев по трём адресам сразу - главе колониальной администрации Раковскому, её министру продовольствия Шлихтеру и военному министру Подвойскому - и переложил снабжение российских фронтов на украинский хлеб: «Ввиду полной невозможности обеспечить продовольствием Западный и Северный фронты за счет истощенных запасов Центра, вся тяжесть этой общегосударственной задачи естественно переходит на делегацию Цекомпродарма, руководимую Орловым и работающую согласно приказа Троцкого для всей российской армии в целом»; той же телеграммой он требовал от военного ведомства администрации помощи этой делегации, «чтобы она могла немедленно двинуть продгрузы армиям Запада и Севера»(Citation: 595).
+    Через неделю, 21 июня, Ленин послал Раковскому телеграмму с пометками «вне всякой очереди» и «с проверкой, когда именно доставлена», и назначил срок: «Западной армии абсолютно необходимы в ближайшие дни три эшелона хлеба.
+    Настоятельно прошу принять самые энергичные меры для удовлетворения нужды.
+    Крайность последняя»(Citation: 594).
+  en: |-
+    Mezhlauk, deputy war minister of the Soviet colonial administration of Ukraine (the UkrSSR), telegraphed Lenin on 5 April 1919: Ukraine must not be looked upon "as a promised land" of inexhaustible reserves - its resources had to be counted among the all-Russian ones as soon as possible and used under a single plan(Citation: 592).
+    In the second half of April 1919 Lenin, head of the RSFSR government, proposed that the Petrograd organizations ship workers to Ukraine to replenish stocks of food and fuel: "Continue the mobilization of workers in Piter, extending it to Ukraine and the Don...
+    I advise sending these workers en masse to Ukraine, the Don, the East for 3 months.
+    It is foolish to starve and perish in Piter when bread and coal can be won back"(Citation: 576).
+    By a decree of 12 April 1919 this administration obliged every village to hand over to the state the amount of grain assigned to it(Citation: 196).
+    The grain was taken from Ukrainians by the administration's food ministry: it sent armed workers' detachments into the villages, and alongside them the grain was seized by detachments of the Bolsheviks' secret police - the extraordinary commissions (Cheka) - and by units of the Russian army(Citation: 196).
+    These detachments confiscated peasants' property and implements, took hostages, and made a whole village answer for a single inhabitant.
+    Detachments of the same ministry and of the Cheka intercepted, on roads and at railway stations, Ukrainians carrying grain for barter or sale outside the state monopoly: the food was seized, and carrying grain was punished up to and including execution(Citation: 196).
+    Refusing to hand over property cost lives: in June 1919 agents of the Kherson district extraordinary commission detained Nykyfor Potachenko, a 24-year-old peasant of the village of Roksandrivka in Kherson district, "for unwillingness to provide horses"; by the commission's resolution he was shot on the night of 15 June (a local history publication gives 15 July) in the basement of the Tyulpanov house - twice he climbed out of the filled-in grave alive, and only the third execution killed him(Citation: 574).
+
+    On 14 June 1919 Lenin telegraphed Kyiv at three addresses at once - Rakovsky, head of the colonial administration, Shlikhter, its food minister, and Podvoisky, its war minister - shifting the supply of the Russian fronts onto Ukrainian grain: "In view of the utter impossibility of provisioning the Western and Northern fronts from the exhausted stocks of the Centre, the whole weight of this state task naturally passes to the delegation of Tsekomprodarm, led by Orlov and working under Trotsky's order for the entire Russian army as a whole"; in the same telegram he demanded that the administration's war ministry assist this delegation "so that it can immediately move food freight to the armies of the West and North"(Citation: 595).
+    A week later, on 21 June, Lenin sent Rakovsky a telegram marked "out of all turn" and "with verification of the exact time of delivery," setting a deadline: "The Western army absolutely needs three trainloads of bread within the coming days.
+    I urgently request the most energetic measures to meet this need.
+    The extremity is utmost"(Citation: 594).
+  uk: |-
+    Заступник військового міністра радянської колоніальної адміністрації України (УСРР) Межлаук 5 квітня 1919 року телеграфував Леніну: не можна дивитися на Україну «як на обітовану землю» з невичерпними запасами - її ресурси треба якнайшвидше зарахувати до загальноросійських і використовувати за єдиним планом(Citation: 592).
+    Ленін у другій половині квітня 1919 року пропонував петроградським організаціям вивезти робітників в Україну для поповнення запасів продовольства й палива: «Мобілізацію робітників у Пітері продовжити і на Україну, і на Дон…
+    Раджу рушити цих робітників поголовно на Україну, на Дон, на Схід на 3 місяці.
+    Нерозумно голодувати, гинути в Пітері, коли можна відвоювати хліб і вугілля»(Citation: 576).
+    Указом від 12 квітня 1919 року ця адміністрація зобов'язала кожне село віддавати державі призначений йому обсяг хліба(Citation: 196).
+    Хліб в українців відбирало продовольче відомство цієї адміністрації: воно посилало в села озброєні загони робітників, а разом із ними хліб відбирали загони таємної поліції більшовиків - надзвичайних комісій (ЧК) - і частини російської армії(Citation: 196).
+    Ці загони конфісковували в селян майно та реманент, брали заручників, а за одного мешканця змушували відповідати все село.
+    Загони того ж відомства і ЧК перехоплювали на дорогах та залізничних станціях українців, які везли хліб на обмін чи продаж в обхід державної монополії: продовольство відбирали, а перевезення хліба карали аж до розстрілу(Citation: 196).
+    Відмова віддати майно коштувала життя: у червні 1919 року агенти херсонської повітової надзвичайної комісії затримали селянина села Роксандрівки Херсонського повіту Никифора Потаченка, 24 років, «за небажання надати коней»; за постановою комісії його розстріляли в ніч на 15 червня (краєзнавча публікація дає 15 липня) у підвалі будинку Тюльпанова - двічі він вибирався із засипаної могили живим, і вбили його лише третім розстрілом(Citation: 574).
+
+    14 червня 1919 року Ленін телеграфував до Києва на три адреси одразу - голові колоніальної адміністрації Раковському, її міністрові продовольства Шліхтеру та військовому міністрові Подвойському - і переклав постачання російських фронтів на український хліб: «З огляду на цілковиту неможливість забезпечити продовольством Західний і Північний фронти за рахунок виснажених запасів Центру, увесь тягар цього загальнодержавного завдання природно переходить на делегацію Цекомпродарму, керовану Орловим і працюючу згідно з наказом Троцького для всієї російської армії в цілому»; тією ж телеграмою він вимагав від військового відомства адміністрації допомоги цій делегації, «щоб вона могла негайно рушити продвантажі арміям Заходу і Півночі»(Citation: 595).
+    Через тиждень, 21 червня, Ленін надіслав Раковському телеграму з позначками «поза всякою чергою» і «з перевіркою, коли саме доставлено», і призначив строк: «Західній армії абсолютно необхідні найближчими днями три ешелони хліба.
+    Наполегливо прошу вжити найенергійніших заходів для задоволення потреби.
+    Крайність остання»(Citation: 594).

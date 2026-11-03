@@ -1,0 +1,29 @@
+type: procedure
+id: C1168.T0147
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0147
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    7 декабря 1857 года, по журналу генерала Евдокимова, командовавшего Чеченским отрядом, «явились депутаты от всего народонаселения долины Хулхулау с предложением принести покорность и переселиться в наши пределы» - запись приводит историк Н. И. Покровский(Citation: 129).
+    «В апреле 1858 г. сдаются гойтинцы и вслед за ними гехинцы.
+    К середине апреля русское командование может окончательно заявить, что завоевание Малой Чечни им закончено»(Citation: 129).
+    «В августе 1858 года шатоевцы сложили оружие»(Citation: 95) - тот же журнал Евдокимова датирует это 7 августа и объясняет причину: «Лишь только Шатоевцы увидѣли, что Тавлинцы оставляютъ ихъ и что мы намѣрены твердо упрочиться въ занятомъ нами краѣ, то тотчасъ прислали ко мнѣ депутатовъ съ предложеніемъ покорности и съ просьбою о дозволеніи поселиться на мѣстахъ бывшихъ своихъ ауловъ»(Citation: 109); «5 апреля чеберлоевцы изгнали наиба и покорились», а «12 апреля свое бессилие перед русской армией признали ауховские чеченцы»(Citation: 95).
+    Капитуляцию оформляла и бумага с обещаниями: в январе 1859 года, при наступлении на Ведено, распространена прокламация главнокомандующего Барятинского к чеченскому народу - полный текст приводит историк Д. А. Хожаев: «правительство Русское предоставляет вам совершенно свободно исполнять навсегда веру ваших отцов», «вас никогда не будут требовать в солдаты и не обратят вас в казаков», «даруется вам льгота на три года... по истечении сего срока вы должны будете для содержания ваших народных управлений вносить по три рубля с дома», «поставленные над вами правители будут управлять по шариату и адату» (шариат - исламское право; адат - обычное право горцев)(Citation: 95).
+  en: |-
+    On 7 December 1857, according to the journal of General Yevdokimov, who commanded the Chechen Detachment, "deputies appeared from the entire population of the Khulkhulau valley with an offer to bring submission and to resettle within our bounds" - the entry is cited by historian N. I. Pokrovsky(Citation: 129).
+    "In April 1858 the Goyta people surrender, followed by the Gekhi people.
+    By mid-April the Russian command can definitively declare the conquest of Lesser Chechnya completed"(Citation: 129).
+    "In August 1858 the Shatoy people laid down their arms"(Citation: 95) - the same journal of Yevdokimov dates this to 7 August and explains the cause: "As soon as the Shatoy people saw that the Tavlintsy were abandoning them and that we intended to entrench ourselves firmly in the territory we had occupied, they at once sent deputies to me with an offer of submission and a request for permission to settle at the sites of their former auls"(Citation: 109); "on 5 April the Cheberloy people expelled the naib and submitted", while "on 12 April the Aukh Chechens acknowledged their powerlessness before the Russian army"(Citation: 95).
+    Capitulation was also formalized by paper bearing promises: in January 1859, during the advance on Vedeno, a proclamation by commander-in-chief Baryatinsky to the Chechen people was circulated - the full text is given by historian D. A. Khozhayev: "the Russian government grants you complete freedom to practice forever the faith of your fathers", "you will never be called up as soldiers and will not be turned into Cossacks", "you are granted an exemption for three years... upon expiry of this term you will have to contribute three rubles per household for the upkeep of your popular administrations", "the governors set over you will rule according to sharia and adat" (sharia - Islamic law; adat - customary law of the highlanders)(Citation: 95).
+  uk: |-
+    7 грудня 1857 року, за журналом генерала Євдокимова, який командував Чеченським загоном, «з'явилися депутати від усього народонаселення долини Хулхулау з пропозицією принести покірність і переселитися в наші межі» - запис наводить історик М. І. Покровський(Citation: 129).
+    «У квітні 1858 р. здаються гойтинці, а слідом за ними гехінці.
+    До середини квітня російське командування може остаточно заявити, що завоювання Малої Чечні ним закінчено»(Citation: 129).
+    «У серпні 1858 року шатоєвці склали зброю»(Citation: 95) - той самий журнал Євдокимова датує це 7 серпня і пояснює причину: «Щойно шатоєвці побачили, що тавлінці залишають їх і що ми маємо намір твердо утвердитися в зайнятому нами краї, то одразу прислали до мене депутатів із пропозицією покірності і з проханням про дозвіл поселитися на місцях колишніх своїх аулів»(Citation: 109); «5 квітня чеберлоєвці вигнали наїба і покорилися», а «12 квітня своє безсилля перед російською армією визнали ауховські чеченці»(Citation: 95).
+    Капітуляцію оформлював і папір з обіцянками: у січні 1859 року, під час наступу на Ведено, поширено прокламацію головнокомандувача Барятинського до чеченського народу - повний текст наводить історик Д. А. Хожаєв: «уряд Російський надає вам цілком вільно виконувати назавжди віру ваших батьків», «вас ніколи не вимагатимуть у солдати і не обернуть вас на козаків», «дарується вам пільга на три роки... після закінчення цього строку ви повинні будете для утримання ваших народних управлінь вносити по три рублі з дому», «поставлені над вами правителі будуть управляти за шаріатом і адатом» (шаріат - ісламське право; адат - звичаєве право горців)(Citation: 95).

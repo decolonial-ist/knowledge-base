@@ -1,0 +1,37 @@
+type: procedure
+id: C1170.T0151
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0151
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «в 1867 г. начальником Среднего военного отдела был назначен генерал-майор князь Туманов, а из восьми начальников горских округов шестеро являлись полковниками и двое - майорами»(Citation: 125).
+    Начальник Терской области соединял в одних руках гражданскую, военную и казачью власть и в отношении горцев мог, по тем же историкам, «по своей воле применить... оружие и поднять против них подчиненные ему войска и казаков, предавать горцев военному суду и в административном порядке высылать из области «нежелательные элементы»»(Citation: 125).
+    С сентября 1866 года наместник получил право замещать горцев на постах приставов (назначенных империей надзирателей) пришлыми офицерами - историк З. Х. Ибрагимова фиксирует итог: горцы в системе управления Терской области долгое время не могли подняться выше должности сельских старшин(Citation: 252).
+    Самих старшин власть подбирала и приводила к присяге на «беспрекословное исполнение... всех поручений и требований администрации»; выбора населению не оставляли - «Местное начальство не считало возможным предоставить даже право выбора аульных старшин, так как «не находило достаточных ручательств, чтобы оно не повлекло за собой важных неудобств в деле управления горцами»»(Citation: 252).
+    Судебную систему венчали те же офицеры: в 1862 году создан областной Главный народный суд, все члены которого назначались начальником области, а в 1870 году - окружные «Горские словесные суды» под председательством офицеров администрации; историки Я. З. Ахмадов и Э. Х. Хасмагомадов заключают: «Таким образом, созданная для горцев Терской области судебная система не только не выводилась из-под контроля военных властей, но, наоборот, прямо им подчинялась»(Citation: 125).
+    Положением 1895 года о сельских обществах право схода передано ограниченному числу «выборных», причём окружной начальник мог лишить «выборного» должности и распустить весь сельский сбор(Citation: 125).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "in 1867 Major General Prince Tumanov was appointed head of the Middle military otdel, while of the eight heads of the mountain okrugs six were colonels and two were majors"(Citation: 125).
+    The head of the Terek oblast united civil, military and Cossack authority in one pair of hands and, in the words of the same historians, could against the highlanders "at his own will use... arms and raise against them the troops and Cossacks subordinate to him, hand highlanders over to a military court and administratively expel 'undesirable elements' from the oblast"(Citation: 125).
+    From September 1866 the viceroy received the right to replace highlanders in the posts of pristavs (superintendents appointed by the empire) with incomer officers - historian Z. Kh.
+    Ibragimova records the result: for a long time highlanders could rise no higher in the administrative system of the Terek oblast than the office of village elder(Citation: 252).
+    The elders themselves were hand-picked by the authorities and sworn to "unquestioning execution... of all instructions and demands of the administration"; the population was left no choice - "The local authorities did not consider it possible to grant even the right to elect aul elders, since they 'found no sufficient guarantees that this would not entail serious inconveniences in the matter of governing the highlanders'"(Citation: 252).
+    The court system was crowned by the same officers: in 1862 an oblast Main People's Court was created, all of whose members were appointed by the head of the oblast, and in 1870 - okrug "Mountain verbal courts" chaired by officers of the administration; historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov conclude: "Thus the court system created for the highlanders of the Terek oblast was not merely not removed from the control of the military authorities but, on the contrary, directly subordinated to them"(Citation: 125).
+    The 1895 regulation on village communities handed the right of assembly to a limited number of "elected representatives", and the okrug head could strip an "elected representative" of his office and dissolve the entire village assembly(Citation: 125).
+  uk: |-
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «у 1867 р. начальником Середнього військового відділу було призначено генерал-майора князя Туманова, а з восьми начальників горських округів шестеро були полковниками і двоє - майорами»(Citation: 125).
+    Начальник Терської області з'єднував в одних руках цивільну, військову та козачу владу і щодо горців міг, за тими ж істориками, «за своєю волею застосувати... зброю і підняти проти них підпорядковані йому війська та козаків, віддавати горців військовому суду і в адміністративному порядку висилати з області «небажані елементи»»(Citation: 125).
+    З вересня 1866 року намісник отримав право заміщувати горців на посадах приставів (призначених імперією наглядачів) прийшлими офіцерами - історик З. Х. Ібрагімова фіксує підсумок: горці в системі управління Терської області довгий час не могли піднятися вище посади сільських старшин(Citation: 252).
+    Самих старшин влада добирала і приводила до присяги на «беззаперечне виконання... всіх доручень і вимог адміністрації»; вибору населенню не залишали - «Місцеве начальство не вважало за можливе надати навіть право вибору аульних старшин, оскільки «не знаходило достатніх ручательств, щоб це не потягло за собою важливих незручностей у справі управління горцями»»(Citation: 252).
+    Судову систему вінчали ті самі офіцери: у 1862 році створено обласний Головний народний суд, усі члени якого призначалися начальником області, а в 1870 році - окружні «Горські словесні суди» під головуванням офіцерів адміністрації; історики Я. З. Ахмадов і Е. Х. Хасмагомадов роблять висновок: «Таким чином, створена для горців Терської області судова система не тільки не виводилася з-під контролю військової влади, але, навпаки, прямо їй підпорядковувалася»(Citation: 125).
+    Положенням 1895 року про сільські громади право сходу передано обмеженому числу «виборних», причому окружний начальник міг позбавити «виборного» посади і розпустити весь сільський збір(Citation: 125).

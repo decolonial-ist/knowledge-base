@@ -1,0 +1,14 @@
+type: procedure
+id: C0059.T0116.001
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0116.001
+people: ukrainians
+actor: G0009
+tool: S0011
+contributors: []
+description:
+  ru: 'Принудительный перевод униатских верующих Правобережья в государственную церковь империи (Святейший Синод; патриаршество в России было упразднено до 1917 года) для духовной ассимиляции населения: базилианские монастыри – опора унии – были ликвидированы по всей империи к середине XIX века(Citation: 206).'
+  en: 'The forced transfer of the Uniate faithful of the Right Bank into the empire''s state church (the Holy Synod; the patriarchate in Russia was abolished until 1917) for the spiritual assimilation of the population: the Basilian monasteries – the mainstay of the Union – were liquidated throughout the empire by the mid-19th century(Citation: 206).'
+  uk: 'Примусове переведення унійних вірян Правобережжя до державної церкви імперії (Святійший Синод; патріаршество в Росії було скасоване до 1917 року) для духовної асиміляції населення: василіанські монастирі – опору унії – було ліквідовано по всій імперії до середини XIX століття(Citation: 206).'

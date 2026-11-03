@@ -1,0 +1,28 @@
+type: procedure
+id: C1189.T0049
+created: 2026-08-09
+modified: 2026-08-09
+version: '1.0'
+technique: T0049
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    В мае 1916 года Российская империя мобилизовала в армию бастующих рабочих грозненских нефтепромыслов - тех, кто имел отсрочку от военной службы и участвовал в стачке.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «было издано распоряжение о немедленной мобилизации всех грозненских рабочих, имеющих отсрочку от военной службы и участвующих в стачке»(Citation: 125).
+    Стачка началась со спора о заработной плате: 12 мая рабочие вручили Совету съезда Терских нефтепромышленников письменные требования о её повышении в среднем на 50%, 21 мая в два часа дня по тревожным заводским гудкам промыслы встали, а 31 мая, пишут те же историки, «рабочие повсеместно начали возвращаться на работу»(Citation: 125).
+    Не хотели воевать и те, кого уже набрали: из полутора тысяч человек четвёртого набора «Дикой дивизии», проходивших подготовку в запасном полку, в боевые части прибыли только 553 - остальных военное командование вернуло на Кавказ «ввиду их «ненадежности»»(Citation: 125).
+  en: |-
+    In May 1916 the Russian Empire mobilized into the army the striking workers of the Grozny oil fields - those who held a deferral from military service and took part in the strike.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "an order was issued on the immediate mobilization of all Grozny workers holding a deferral from military service and taking part in the strike"(Citation: 125).
+    The strike began with a wage dispute: on 12 May the workers handed the Council of the Congress of Terek Oil Industrialists written demands for a wage rise of 50% on average, on 21 May at two in the afternoon the oil fields stopped at the alarm whistles of the plants, and on 31 May, the same historians write, "the workers everywhere began to return to work"(Citation: 125).
+    Those already recruited did not want to fight either: of the one and a half thousand men of the fourth draft of the "Savage Division" training in the reserve regiment, only 553 reached the combat units - the rest the military command returned to the Caucasus "in view of their 'unreliability'"(Citation: 125).
+  uk: |-
+    У травні 1916 року Російська імперія мобілізувала в армію страйкуючих робітників грозненських нафтопромислів - тих, хто мав відстрочку від військової служби і брав участь у страйку.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «було видано розпорядження про негайну мобілізацію всіх грозненських робітників, які мають відстрочку від військової служби і беруть участь у страйку»(Citation: 125).
+    Страйк почався зі спору про заробітну плату: 12 травня робітники вручили Раді з'їзду Терських нафтопромисловців письмові вимоги про її підвищення в середньому на 50%, 21 травня о другій годині дня по тривожних заводських гудках промисли стали, а 31 травня, пишуть ті ж історики, «робітники повсюдно почали повертатися на роботу»(Citation: 125).
+    Не хотіли воювати й ті, кого вже набрали: з півтори тисячі осіб четвертого набору «Дикої дивізії», які проходили підготовку в запасному полку, до бойових частин прибули лише 553 - решту військове командування повернуло на Кавказ «з огляду на їхню «ненадійність»»(Citation: 125).

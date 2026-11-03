@@ -1,0 +1,23 @@
+type: procedure
+id: C1165.T0162.004
+created: 2026-07-24
+modified: 2026-08-29
+version: '1.0'
+technique: T0162.004
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В октябрьской экспедиции 1841 года по Чечне войска генерала Граббе, командующего войсками Кавказской линии (цепи имперских укреплений на земле нохчи), запытали пленного до смерти.
+    Историк Н. И. Покровский приводит эпизод по рукописи очевидца - офицера Чайковского «Кавказ в 1841 году»: обезоруженного пленного чеченца, отказавшегося идти, «волокли переход на веревке, привязанной к пушке.
+    Истерзанный волоком по каменистой дороге, он умер на другой день»; второго пленного закололи штыками(Citation: 129).
+  en: |-
+    In the October 1841 expedition through Chechnya the troops of general Grabbe, commander of the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), tortured a captive to death.
+    Historian N. I. Pokrovsky cites the episode from the manuscript of an eyewitness - officer Chaikovsky, "The Caucasus in 1841": a disarmed Chechen captive who refused to walk "was dragged for a whole march on a rope tied to a cannon.
+    Mangled by being dragged along the stony road, he died the next day"; a second captive was bayoneted(Citation: 129).
+  uk: |-
+    У жовтневій експедиції 1841 року Чечнею війська генерала Граббе, командувача військ Кавказької лінії (ланцюга імперських укріплень на землі нохчі), закатували полоненого до смерті.
+    Історик Н. І. Покровський наводить епізод за рукописом очевидця - офіцера Чайковського «Кавказ у 1841 році»: обеззброєного полоненого чеченця, який відмовився йти, «волокли перехід на мотузці, прив'язаній до гармати.
+    Понівечений волоком кам'янистою дорогою, він помер наступного дня»; другого полоненого закололи багнетами(Citation: 129).

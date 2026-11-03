@@ -1,0 +1,23 @@
+type: procedure
+id: C1143.T0022
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя уничтожала отдельное селение показательно, чтобы ужасом принудить остальных нохчи покинуть свои земли.
+    Имперский историк Потто пишет, что генерал Ермолов решил очистить кумыкскую плоскость, «заставив чеченцев уйти… за горный Качкалыковский хребет», а понудить их к этому «можно было только примером ужаса», и «искупительной жертвой был избран» аул Дади-юрт(Citation: 75).
+    Сам Ермолов в своих «Записках» признаёт этот расчёт: «понудить их к удалению жён может один только пример ужаса», и после уничтожения аула «пример Дадан-юрта распространил повсюду ужас»(Citation: 96).
+  en: |-
+    The Russian Empire destroyed a single village demonstratively, in order to terrorize the rest of the Nokhchi into abandoning their lands.
+    Imperial historian Potto writes that general Yermolov decided to clear the Kumyk plain, “forcing the Chechens to withdraw… beyond the Kachkalyk mountain ridge,” and they could be compelled to do so “only by an example of terror,” and the aul of Dadi-Yurt “was chosen as the expiatory sacrifice”(Citation: 75).
+    Yermolov himself admits this calculation in his “Notes”: “only an example of terror can compel them to remove their wives,” and after the destruction of the aul “the example of Dadan-Yurt spread terror everywhere”(Citation: 96).
+  uk: |-
+    Російська імперія знищувала окреме селище показово, щоб жахом примусити решту Нохчі покинути свої землі.
+    Імперський історик Потто пише, що генерал Єрмолов вирішив очистити кумицьку рівнину, «змусивши Чеченців піти… за гірський Качкаликівський хребет», а спонукати їх до цього «можна було тільки прикладом жаху», і «спокутною жертвою було обрано» аул Даді-юрт(Citation: 75).
+    Сам Єрмолов у своїх «Записках» визнає цей розрахунок: «спонукати їх до віддалення дружин може лише приклад жаху», а після знищення аулу «приклад Дадан-юрта поширив повсюди жах»(Citation: 96).

@@ -1,0 +1,22 @@
+type: technique
+id: T0112
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0006
+name:
+  ru: Кража культурных ценностей
+  en: Theft of Cultural Property
+  uk: Крадіжка культурних цінностей
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять систематическое разграбление, незаконное изъятие и вывоз исторических артефактов, произведений искусства, архивов и реликвий с захваченных территорий.
+    Эта техника применяется для прямого извлечения выгоды за счет обогащения фондов метрополии, одновременно лишая колонизируемое общество его материальной исторической базы.
+  en: |-
+    Aggressors may carry out the systematic looting, unlawful confiscation, and removal of historical artifacts, works of art, archives, and relics from seized territories.
+    This technique is used for the direct extraction of benefits by enriching the metropole's collections while simultaneously depriving the colonized society of its material historical foundation.
+  uk: |-
+    Агресори можуть здійснювати систематичне розграбування, незаконне вилучення та вивезення історичних артефактів, творів мистецтва, архівів і реліквій із захоплених територій.
+    Ця техніка застосовується для прямого отримання вигоди шляхом збагачення фондів метрополії, водночас позбавляючи колонізоване суспільство його матеріальної історичної бази.

@@ -1,0 +1,23 @@
+type: procedure
+id: C1110.T0139
+created: 2026-06-12
+modified: 2026-08-31
+version: '1.0'
+technique: T0139
+people: nokhchi
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Военные силы Московского Царства возвели новую укрепленную базу: историк Е. Н. Кушева пишет, что они «ставили ее в 1588-1589 гг...
+    Михайло Бурцев и Келарь Протасьев... в его гарнизоне основную силу составляли стрельцы, вооруженные «огненным боем», пищалями»(Citation: 83), а историки А. С. Куликов и В. А. Рунов дополняют, что в начале XVII века «Терский городок превратился в достаточно мощную крепость.
+    Ее артиллерия насчитывала 40 крупных орудий»(Citation: 65).
+  en: |-
+    The military forces of the Tsardom of Muscovy built a new fortified base: historian E. N. Kusheva writes that they «were building it in 1588-1589...
+    Mikhailo Burtsev and Kelar Protasyev... the main force of its garrison consisted of streltsy armed with «fire weaponry», with pishchal arquebuses»(Citation: 83), while historians A. S. Kulikov and V. A. Runov add that in the early 17th century «the Terek fort had turned into a rather powerful fortress.
+    Its artillery numbered 40 large guns»(Citation: 65).
+  uk: |-
+    Військові сили Московського царства звели нову укріплену базу: історик Е. Н. Кушева пише, що вони «ставили її у 1588-1589 рр...
+    Михайло Бурцев і Келар Протасьєв... у його гарнізоні основну силу становили стрільці, озброєні «вогненним боєм», пищалями»(Citation: 83), а історики А. С. Куліков і В. А. Рунов додають, що на початку XVII століття «Терське містечко перетворилося на досить потужну фортецю.
+    Її артилерія налічувала 40 великих гармат»(Citation: 65).

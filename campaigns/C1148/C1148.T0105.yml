@@ -1,0 +1,23 @@
+type: procedure
+id: C1148.T0105
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историк Д. А. Хожаев пишет, что после 17 февраля 1826 года войска Ермолова «разорили и уничтожили аулы Малой Чечни - Урус-Мартан, Рошни, Гехи, Белакай, Даут-Мартан и Шельчихи», а к завершению похода «были уничтожены цветущие селения»(Citation: 95).
+    Сам генерал Ермолов в рапорте императору Николаю I от 28 мая 1826 года подтверждал: при штурме Урус-Мартана «деревня сожжена», Большая Рошни «предано огню», а селение Шали, чьи жители «дают аманата, просили срок и обманули», он «приказал истребить»(Citation: 103).
+    Имперский историк Волконский уточняет, что Шали к приходу войск стояло пустым: Ермолов «не застал там ни одного жителя: все рассеялись по лесам», после чего «сжег их жилища»(Citation: 116).
+  en: |-
+    Historian D. A. Khozhaev writes that after February 17, 1826, Yermolov's troops «ravaged and destroyed the auls of Lesser Chechnya - Urus-Martan, Roshni, Gekhi, Belakai, Daut-Martan, and Shelchikhi», and by the end of the campaign «flourishing villages had been destroyed»(Citation: 95).
+    General Yermolov himself, in a report to Emperor Nicholas I dated May 28, 1826, confirmed: during the storming of Urus-Martan «the village was burned», Bolshaya Roshni was «put to the torch», and the village of Shali, whose inhabitants «give an amanat, asked for time, and deceived», he «ordered to be destroyed»(Citation: 103).
+    The imperial historian Volkonsky specifies that Shali stood empty by the time the troops arrived: Yermolov «did not find a single inhabitant there: all had scattered through the forests», after which he «burned their dwellings»(Citation: 116).
+  uk: |-
+    Історик Д. А. Хожаєв пише, що після 17 лютого 1826 року війська Єрмолова «розорили і знищили аули Малої Чечні - Урус-Мартан, Рошні, Гехі, Белакай, Даут-Мартан і Шельчихи», а до завершення походу «було знищено квітучі селища»(Citation: 95).
+    Сам генерал Єрмолов у рапорті імператору Миколі I від 28 травня 1826 року підтверджував: під час штурму Урус-Мартана «село спалено», Велику Рошні «віддано вогню», а селище Шалі, чиї жителі «дають аманата, просили строку й обманули», він «наказав винищити»(Citation: 103).
+    Імперський історик Волконський уточнює, що Шалі на прихід військ стояло порожнім: Єрмолов «не застав там жодного жителя: всі розсіялися лісами», після чого «спалив їхні житла»(Citation: 116).

@@ -1,0 +1,30 @@
+type: procedure
+id: C1165.T0099
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Заложников брали не в наказание за восстание, а по подозрению - до того, как аул что-либо сделал. 9 января 1842 года начальник Сунженской линии рапортом генералу Ольшевскому, начальнику левого фланга Кавказской линии (цепи имперских укреплений на земле нохчи), доложил о распоряжении по Кумыкской плоскости (равнине к северо-востоку от Чечни): «я предписал полк.
+    Фрейтагу... ежели будет подозрение, что которая либо деревня хочет бежать, то тотчас взять из нее большое число аманатов, с тем, чтобы сами жители их кормили» (аманат - человек, которого империя забирала из общины как заложника; угроза расправы над взятым держала родных и весь аул в подчинении)(Citation: 126).
+    Тот же рапорт признаёт, чем империя держит людей: «Зима и аманаты удерживают их, в настоящее время от побега в Чечню»(Citation: 126).
+    Заложников из вайнахских обществ брала и гражданская администрация империи в Грузии - по одному лишь известию о переходе к сопротивлению. 26 мая 1841 года грузино-имеретинский гражданский губернатор доложил Брайко, управляющему гражданской частью в Закавказском крае, что по вести о переходе кистинцев (вайнахского общества на границе с Грузией) на сторону Шамиля (имама, руководителя сопротивления горцев Дагестана и Чечни российскому завоеванию) губернский секретарь Лиммерман предписал уездным заседателям (чиновникам уездного управления) «задержать здесь под благовидным предлогом всех кистин, зимовавших в Тушетии и на Алванском поле» (Тушетия и Алванское поле - горная область и равнина на северо-востоке Грузии)(Citation: 126).
+    Задерживали не участников перехода, а тех, кто пришёл на зимовку; предлог для задержания сам документ называет «благовидным».
+  en: |-
+    Hostages were taken not as punishment for a rising but on suspicion - before an aul had done anything.
+    On 9 January 1842 the commander of the Sunzha Line, in a report to general Olshevsky, commander of the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), described his order for the Kumyk plain (the lowland to the north-east of Chechnya): ""I instructed Colonel Freitag... if there is a suspicion that some village wants to flee, then at once to take from it a large number of amanats, so that the inhabitants themselves should feed them"" (an amanat is a person whom the empire took from a community as a hostage; the threat of reprisal against the one taken held the family and the whole aul in submission)(Citation: 126).
+    The same report admits what the empire holds the people with: ""Winter and the amanats restrain them, at the present time, from fleeing to Chechnya""(Citation: 126).
+    Hostages from Vainakh communities were also taken by the empire's civil administration in Georgia - on the mere news of a defection to the resistance.
+    On 26 May 1841 the civil governor of Georgia-Imereti reported to Brayko, administrator of the civil department of the Transcaucasian region, that on news of the defection of the Kistins (a Vainakh community on the border with Georgia) to the side of Shamil (the imam, leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest), provincial secretary Limmerman instructed the district assessors (officials of the district administration) ""to detain here, under a plausible pretext, all the Kistins who wintered in Tusheti and on the Alvani field"" (Tusheti and the Alvani field are a mountain region and a plain in north-eastern Georgia)(Citation: 126).
+    Those detained were not the ones who had defected but those who had come for the winter; the pretext for the detention is called ""plausible"" by the document itself.
+  uk: |-
+    Заручників брали не в покарання за повстання, а за підозрою - до того, як аул щось зробив. 9 січня 1842 року начальник Сунженської лінії рапортом генералу Ольшевському, начальнику лівого флангу Кавказької лінії (ланцюга імперських укріплень на землі нохчі), доповів про розпорядження по Кумицькій площині (рівнині на північний схід від Чечні): «я предписал полк.
+    Фрейтагу... ежели будет подозрение, что которая либо деревня хочет бежать, то тотчас взять из нее большое число аманатов, с тем, чтобы сами жители их кормили» (аманат - людина, яку імперія забирала з громади як заручника; загроза розправи над узятим тримала рідних і весь аул у підпорядкуванні)(Citation: 126).
+    Той самий рапорт визнає, чим імперія тримає людей: «Зима и аманаты удерживают их, в настоящее время от побега в Чечню»(Citation: 126).
+    Заручників з вайнахських громад брала і цивільна адміністрація імперії в Грузії - за самою лише звісткою про перехід до опору. 26 травня 1841 року грузино-імеретинський цивільний губернатор доповів Брайку, керуючому цивільною частиною в Закавказькому краї, що за звісткою про перехід кистинців (вайнахської громади на межі з Грузією) на бік Шаміля (імама, керівника опору горців Дагестану і Чечні російському завоюванню) губернський секретар Ліммерман приписав повітовим засідателям (чиновникам повітового управління) «задержать здесь под благовидным предлогом всех кистин, зимовавших в Тушетии и на Алванском поле» (Тушетія й Алванське поле - гірська область і рівнина на північному сході Грузії)(Citation: 126).
+    Затримували не учасників переходу, а тих, хто прийшов на зимівлю; привід для затримання сам документ називає «благовидным».

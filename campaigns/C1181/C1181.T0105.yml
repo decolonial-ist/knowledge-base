@@ -1,0 +1,28 @@
+type: procedure
+id: C1181.T0105
+created: 2026-09-05
+modified: 2026-09-05
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Колонизатор уничтожал горные сёла чеченцев, чтобы народу было некуда возвращаться.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Политика обезлюдения Горной Чечни, начатая в феврале 1944 г., нашла свое продолжение в 1957-1960 гг.» - и объясняют, как это делалось: «Остатки домов взрывались и сжигались, рушились мосты и тропы.
+    Органы КГБ и МВД силой оружия изгоняли на равнину семьи горцев, правдами и неправдами проникших заоблачными тропами в свои родные аулы»(Citation: 125).
+    Историк А. Б. Кузнецова подводит итог: «Отдаленные от коммуникаций поселки и населенные пункты (высокогорные) были уничтожены», а с заселением сельских районов приезжими «были утеряны навыки отгонного животноводства, обработки высокогорных участков земли, террасного земледелия»(Citation: 265).
+  en: |-
+    The colonizer destroyed the mountain villages of the Chechens so that the people would have nowhere to return to.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "The policy of depopulating Mountain Chechnya, begun in February 1944, found its continuation in 1957-1960" - and explain how it was done: "The remains of houses were blown up and burned, bridges and paths were demolished.
+    The organs of the KGB and MVD drove out onto the plain by force of arms the families of highlanders who by hook or by crook had made their way along paths above the clouds into their native auls"(Citation: 125).
+    Historian A. B. Kuznetsova sums up: "Settlements and populated places remote from communications (high-mountain ones) were destroyed," and with the settlement of the rural districts by newcomers "the skills of transhumant animal husbandry, of working high-mountain plots of land, of terrace farming were lost"(Citation: 265).
+  uk: |-
+    Колонізатор знищував гірські села чеченців, щоб народові не було куди повертатися.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Політика обезлюднення Гірської Чечні, розпочата в лютому 1944 р., знайшла своє продовження в 1957-1960 рр.» - і пояснюють, як це робилося: «Залишки будинків підривали і спалювали, руйнували мости і стежки.
+    Органи КДБ і МВС силою зброї виганяли на рівнину сім'ї горян, які правдами і неправдами проникли захмарними стежками у свої рідні аули»(Citation: 125).
+    Історикиня А. Б. Кузнецова підбиває підсумок: «Віддалені від комунікацій селища та населені пункти (високогірні) були знищені», а із заселенням сільських районів приїжджими «були втрачені навички відгінного тваринництва, обробітку високогірних ділянок землі, терасного землеробства»(Citation: 265).

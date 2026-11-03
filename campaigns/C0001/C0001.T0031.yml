@@ -1,0 +1,20 @@
+type: procedure
+id: C0001.T0031
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0031
+people: ukrainians
+actor: G0008
+tool: S0009
+contributors: []
+description:
+  ru: |-
+    Москва с самого начала заложила асимметричный фундамент отношений, жестко обрезав международную субъектность автономии.
+    Жалованная грамота царя Алексея (27 марта 1654) прямо ограничила внешние сношения гетмана: «А с турским салтаном и с польским королем без нашего царского величества указу ссылки не держать»(Citation: 142).
+  en: |-
+    From the very beginning, Moscow laid an asymmetric foundation for the relationship, harshly cutting off the autonomy's international agency.
+    Tsar Aleksei's charter (27 March 1654) directly restricted the hetman's foreign relations: "And with the Turkish sultan and the Polish king, without our tsarist majesty's decree, no relations are to be maintained"(Citation: 142).
+  uk: |-
+    Москва від самого початку заклала асиметричний фундамент відносин, жорстко обрізавши міжнародну суб'єктність автономії.
+    Жалувана грамота царя Олексія (27 березня 1654) прямо обмежила зовнішні зносини гетьмана: «А з турським султаном і з польським королем без нашого царського величества указу зносин не тримати»(Citation: 142).

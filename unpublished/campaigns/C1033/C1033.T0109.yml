@@ -1,0 +1,14 @@
+type: procedure
+id: C1033.T0109
+created: 2026-04-20
+modified: 2026-04-20
+version: '1.0'
+technique: T0109
+people: nokhchi
+actor: G0011
+tool: S0012
+contributors: []
+description:
+  ru: 'Проведение псевдовыборов главы республики в условиях оккупации, отсутствия списков избирателей, массовых фальсификаций и возможности многократного голосования(Citation: 27).'
+  en: 'Holding of pseudo-elections for the head of the republic under conditions of occupation, absence of voter rolls, mass falsifications, and the possibility of voting multiple times(Citation: 27).'
+  uk: 'Проведення псевдовиборів глави республіки в умовах окупації, відсутності списків виборців, масових фальсифікацій та можливості багаторазового голосування(Citation: 27).'

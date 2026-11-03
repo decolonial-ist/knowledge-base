@@ -1,0 +1,37 @@
+type: campaign
+id: C1173
+created: 2026-08-05
+modified: 2026-09-05
+version: '1.2'
+people: nokhchi
+first_seen: 1845-02-16
+last_seen: 1917-03-01
+contributors: []
+name:
+  ru: 'Колониальная нефть: изъятие грозненских недр и рента казачьего войска (1845-1917)'
+  en: 'Colonial oil: the seizure of the Grozny subsoil and the rent of the Cossack host (1845-1917)'
+  uk: 'Колоніальна нафта: вилучення грозненських надр і рента козацького війська (1845-1917)'
+description:
+  ru: |-
+    Российская империя в 1845-1917 годах отобрала у чеченцев грозненскую нефть: доход с недр она законом закрепила за казачьим войском, а чеченские общины к промыслу не допустила - ни как собственников, ни как получателей ренты. 16 февраля 1845 года параграф 154 «Положения о Кавказском линейном войске» отдал казачьему войску доход с нефтяных источников у крепости Грозной: «в знак особого благоволения…в пользу войска предоставляется всемилостивейше пожалованный ему доход от нефтяных источников близ крепости Грозной»(Citation: 251).
+    Колодцы, с которых чеченские владельцы прежде торговали нефтью, стали статьёй войскового бюджета, а когда 6 октября 1893 года из скважины компании нефтепромышленника Ахвердова ударил первый промышленный фонтан - «только за первые две недели дал 150 тысяч пудов нефти»(Citation: 125), - выяснилось, что богатейший промысел лежит под землёй, отнятой у чеченских аулов.
+    Правовую рамку сформулировал в 1894 году начальник Терской области генерал Каханов (стоял во главе области с 1889 по 1900 год(Citation: 251)), отказавшись распространить на чеченские земли правила о крестьянской аренде недр: «...казенные земли, населенные горскими жителями, отданы были им не во владение на праве собственности, но лишь в пользование...»(Citation: 125).
+    Историк З. Х. Ибрагимова подводит распределение: «Если общий доход с нефтяной промышленности взять за 100%, то промышленники получали 35%, казна 32%, собственники земли 24% и посредники 9%» - собственником земли считалось казачье войско, чеченской общине доли не было(Citation: 251).
+    Только двум сёлам - Алдам и Новым Алдам - удалось договориться с промышленниками напрямую, и на этих сделках видна настоящая цена недр: 18 апреля 1915 года сход Новых Алдов - села в 520 дворов - сдал нефтепромышленнику Степану Лианозову 20 десятин на 24 года по 5 тысяч рублей за десятину и ещё по 2 копейки с каждого пуда добытой нефти в пользу общества(Citation: 251), а нефтепромышленник Тапа Чермоев за участки у Алдов заплатил обществу 30 тысяч рублей единовременно и договором гарантировал ему четверть доходов с добытой нефти(Citation: 251).
+    Всем остальным чеченским общинам закон не оставил ничего - их долю собирало казачье войско.
+  en: |-
+    In 1845-1917 the Russian Empire took Grozny's oil away from the Chechens: it assigned the income from the subsoil to the Cossack host by law and barred the Chechen communities from the industry - neither as owners nor as recipients of rent.
+    On 16 February 1845 paragraph 154 of the "Regulations on the Caucasus Line Host" gave the Cossack host the income from the oil springs near the Groznaya fortress: "as a mark of special favor…the host is granted the income most graciously bestowed upon it from the oil springs near the Groznaya fortress"(Citation: 251).
+    The wells from which Chechen owners had once sold oil became a line in the host's budget, and when on 6 October 1893 the first industrial gusher burst from a well of the company of oil industrialist Akhverdov - "in the first two weeks alone it yielded 150 thousand puds of oil"(Citation: 125) - it turned out that the richest field lay beneath land taken from the Chechen auls.
+    The legal frame was formulated in 1894 by the head of the Terek oblast, General Kakhanov (he headed the oblast from 1889 to 1900(Citation: 251)), when he refused to extend to the Chechen lands the rules on peasant leasing of the subsoil: "...the state lands populated by the mountain inhabitants were given to them not into ownership by right of property, but only into use..."(Citation: 125).
+    Historian Z. Kh.
+    Ibragimova sums up the distribution: "If the total income from the oil industry is taken as 100%, the industrialists received 35%, the treasury 32%, the owners of the land 24% and the middlemen 9%" - the owner of the land was deemed to be the Cossack host, and the Chechen community had no share(Citation: 251).
+    Only two villages - Aldy and Novye Aldy - managed to strike deals with the industrialists directly, and these deals show the real price of the subsoil: on 18 April 1915 the assembly of Novye Aldy - a village of 520 households - leased 20 desiatinas to the oil industrialist Stepan Lianozov for 24 years at 5 thousand rubles per desiatina plus 2 kopecks to the community for every pud of oil extracted(Citation: 251), while the oil industrialist Tapa Chermoyev paid the community 30 thousand rubles up front for the plots near Aldy and by contract guaranteed it a quarter of the income from the extracted oil(Citation: 251).
+    To all the other Chechen communities the law left nothing - their share was collected by the Cossack host.
+  uk: |-
+    Російська імперія у 1845-1917 роках відібрала в чеченців грозненську нафту: дохід з надр вона законом закріпила за козацьким військом, а чеченські громади до промислу не допустила - ні як власників, ні як отримувачів ренти. 16 лютого 1845 року параграф 154 «Положення про Кавказьке лінійне військо» віддав козацькому війську дохід з нафтових джерел біля фортеці Грозної: «на знак особливого благовоління…на користь війська надається всемилостивіше пожалуваний йому дохід від нафтових джерел поблизу фортеці Грозної»(Citation: 251).
+    Колодязі, з яких чеченські власники раніше торгували нафтою, стали статтею військового бюджету, а коли 6 жовтня 1893 року зі свердловини компанії нафтопромисловця Ахвердова вдарив перший промисловий фонтан - «тільки за перші два тижні дав 150 тисяч пудів нафти»(Citation: 125), - з'ясувалося, що найбагатший промисел лежить під землею, відібраною в чеченських аулів.
+    Правову рамку сформулював у 1894 році начальник Терської області генерал Каханов (стояв на чолі області з 1889 по 1900 рік(Citation: 251)), відмовившись поширити на чеченські землі правила про селянську оренду надр: «...казенні землі, населені горськими жителями, віддані були їм не у володіння на праві власності, а лише в користування...»(Citation: 125).
+    Історик З. Х. Ібрагімова підводить розподіл: «Якщо загальний дохід з нафтової промисловості взяти за 100%, то промисловці отримували 35%, скарбниця 32%, власники землі 24% і посередники 9%» - власником землі вважалося козацьке військо, чеченській громаді частки не було(Citation: 251).
+    Тільки двом селам - Алдам і Новим Алдам - вдалося домовитися з промисловцями напряму, і на цих угодах видно справжню ціну надр: 18 квітня 1915 року схід Нових Алдів - села на 520 дворів - здав нафтопромисловцю Степанові Ліанозову 20 десятин на 24 роки по 5 тисяч рублів за десятину і ще по 2 копійки з кожного пуда видобутої нафти на користь громади(Citation: 251), а нафтопромисловець Тапа Чермоєв за ділянки біля Алдів заплатив громаді 30 тисяч рублів одноразово і договором гарантував їй чверть доходів з видобутої нафти(Citation: 251).
+    Усім іншим чеченським громадам закон не залишив нічого - їхню частку збирало козацьке військо.

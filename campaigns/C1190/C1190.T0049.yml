@@ -1,0 +1,40 @@
+type: procedure
+id: C1190.T0049
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0049
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    СССР в 1941 году силой согнал до 13 тысяч чеченцев, признанных негодными к военной службе, в «трудармию» - строительные батальоны, посланные возводить оборонительные рубежи: людей повезли к фронту без оружия и без статуса солдат.
+    Мобилизацию, как пишут историки Я. З. Ахмадов и Э. Х. Хасмагомадов, местные военкоматы провели «практически силовыми методами»(Citation: 125); историк М. К. Осмаев пишет: «Людей забирали прямо на улицах без вручения повесток и предварительного разъяснения цели мобилизации», а среди мобилизованных «имелось немало стариков и больных»(Citation: 549).
+    Историки пишут о положении мобилизованных: они «находились на положении военнослужащих, но не числились красноармейцами»(Citation: 125).
+    Историки описывают итог: «Мобилизованные массы были погружены в эшелоны и в сентябре 1941 г. оказались в прифронтовой зоне, где в их трудовых усилиях никто не нуждался.
+    Армия спешно отступала.
+    Свыше 10 тысяч несчастных граждан Чечено-Ингушетии погибли от холода, голода, бомбардировок, вследствие преступной безалаберности военного чиновничества»(Citation: 125).
+    М. К. Осмаев приводит и другую версию судьбы мобилизованных: ещё не дойдя до места назначения, «они были рассеяны немецкой авиацией», а до Ростова-на-Дону добрались, по разным источникам, от 1200 до 2 тысяч человек, которых вывезла в Грозный специальная комиссия колониальной администрации Чечено-Ингушетии(Citation: 549).
+    Выживших колонизатор объявил «дезертирами трудового фронта»; историки пишут: «Их еле спасла от расстрела правительственная комиссия из Чечено-Ингушетии, выехавшая по жалобам в Ростов-на-Дону»(Citation: 125).
+  en: |-
+    In 1941 the USSR forcibly herded up to 13 thousand Chechens deemed unfit for military service into the "labor army" - construction battalions sent to build defensive lines: the people were carried toward the front without weapons and without soldier status.
+    The mobilization, as the historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write, was carried out by the local military commissariats "by practically forcible methods"(Citation: 125); the historian M. K. Osmayev writes: "People were seized right on the streets without being served call-up papers and without preliminary explanation of the purpose of the mobilization," and among the mobilized "there were not a few old and sick men"(Citation: 549).
+    The historians write about the position of the mobilized: they "were on the footing of servicemen but were not counted as Red Army soldiers"(Citation: 125).
+    The historians describe the outcome: "The mobilized masses were loaded into trains and in September 1941 found themselves in the frontline zone, where no one needed their labor.
+    The army was retreating in haste.
+    Over 10 thousand unfortunate citizens of Checheno-Ingushetia died of cold, hunger and bombing, owing to the criminal negligence of the military officialdom"(Citation: 125).
+    M. K. Osmayev cites another version of the fate of the mobilized: before even reaching their destination, "they were scattered by German aviation," and, by different sources, from 1,200 to 2 thousand people made it to Rostov-on-Don, whom a special commission of the colonial administration of Checheno-Ingushetia took back to Grozny(Citation: 549).
+    The survivors the colonizer declared "deserters of the labor front"; the historians write: "They were barely saved from execution by a government commission from Checheno-Ingushetia that traveled to Rostov-on-Don in response to complaints"(Citation: 125).
+  uk: |-
+    СРСР 1941 року силоміць зігнав до 13 тисяч чеченців, визнаних непридатними до військової служби, у «трудармію» - будівельні батальйони, послані зводити оборонні рубежі: людей повезли до фронту без зброї та без статусу солдатів.
+    Мобілізацію, як пишуть історики Я. З. Ахмадов і Е. Х. Хасмагомадов, місцеві військкомати провели «практично силовими методами»(Citation: 125); історик М. К. Осмаєв пише: «Людей забирали просто на вулицях без вручення повісток і попереднього роз'яснення мети мобілізації», а серед мобілізованих «було чимало старих і хворих»(Citation: 549).
+    Історики пишуть про становище мобілізованих: вони «перебували на становищі військовослужбовців, але не рахувалися червоноармійцями»(Citation: 125).
+    Історики описують підсумок: «Мобілізовані маси були завантажені в ешелони й у вересні 1941 р. опинилися у прифронтовій зоні, де їхніх трудових зусиль ніхто не потребував.
+    Армія поспіхом відступала.
+    Понад 10 тисяч нещасних громадян Чечено-Інгушетії загинули від холоду, голоду, бомбардувань, унаслідок злочинної недбалості військового чиновництва»(Citation: 125).
+    М. К. Осмаєв наводить й іншу версію долі мобілізованих: ще не дійшовши до місця призначення, «вони були розсіяні німецькою авіацією», а до Ростова-на-Дону дісталися, за різними джерелами, від 1200 до 2 тисяч людей, яких вивезла до Грозного спеціальна комісія колоніальної адміністрації Чечено-Інгушетії(Citation: 549).
+    Тих, хто вижив, колонізатор оголосив «дезертирами трудового фронту»; історики пишуть: «Їх ледве врятувала від розстрілу урядова комісія з Чечено-Інгушетії, що виїхала за скаргами до Ростова-на-Дону»(Citation: 125).

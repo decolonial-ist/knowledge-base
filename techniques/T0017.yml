@@ -1,0 +1,22 @@
+type: technique
+id: T0017
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Аннексия территорий
+  en: Annexation of Territories
+  uk: Анексія територій
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять насильственное и одностороннее присоединение территории другого государства.
+    Подобные действия сопровождаются полной отменой суверенитета захваченного образования и окончательной интеграцией его земель в правовое и экономическое поле оккупанта посредством издания соответствующих манифестов или проведения фиктивных электоральных процедур.
+  en: |-
+    Aggressors may carry out the forcible and unilateral annexation of another state's territory.
+    Such actions are accompanied by the complete abolition of the sovereignty of the captured entity and the final integration of its lands into the occupier's legal and economic space through the issuance of corresponding manifestos or the staging of sham electoral procedures.
+  uk: |-
+    Агресори можуть здійснювати насильницьке та одностороннє приєднання території іншої держави.
+    Такі дії супроводжуються повним скасуванням суверенітету захопленого утворення та остаточною інтеграцією його земель у правове та економічне поле окупанта шляхом видання відповідних маніфестів або проведення фіктивних електоральних процедур.

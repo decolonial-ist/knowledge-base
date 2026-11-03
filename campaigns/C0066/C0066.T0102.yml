@@ -1,0 +1,23 @@
+type: procedure
+id: C0066.T0102
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0102
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Украинские регионы стали главным сырьевым донором империи: «в 1910 угледобыча составляла 1 млрд пудов, а в 1913 — 1,5 млрд пудов.
+    За это время удельный вес Донбасса в каменноугольной промышленности империи вырос с 67% до 74%…
+    Перед I мировой войной украинская металлургия давала 2/3 чугуна, выплавлявшегося в империи»(Citation: 189).
+  en: |-
+    The Ukrainian regions became the empire's main raw-materials donor: "In 1910 coal extraction amounted to 1 billion poods, and in 1913 – 1.5 billion poods.
+    Over this time the Donbas's share in the empire's coal industry grew from 67% to 74%…
+    Before World War I, Ukrainian metallurgy produced 2/3 of the pig iron smelted in the empire"(Citation: 189).
+  uk: |-
+    Українські регіони стали головним сировинним донором імперії: «1910 вуглевидобуток складав 1 млрд пудів, а 1913 — 1,5 млрд пудів.
+    За цей час питома вага Донбасу в кам'яновугільній промисловості імперії зросла з 67% до 74%…
+    Перед I світ. війною укр. металургія давала 2/3 чавуну, що виплавлявся в імперії»(Citation: 189).

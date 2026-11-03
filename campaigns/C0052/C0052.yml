@@ -1,0 +1,17 @@
+type: campaign
+id: C0052
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.2'
+people: ukrainians
+first_seen: 1922-01-01
+last_seen: 1939-12-31
+contributors: []
+name:
+  ru: Сталинский террор и конец украинизации (1922–1939)
+  en: Stalinist Terror and the End of Ukrainization (1922–1939)
+  uk: Сталінський терор і кінець українізації (1922–1939)
+description:
+  ru: 'Подавление национального возрождения в СССР: постановление ЦК ВКП(б) и Совнаркома от 14 декабря 1932 года за подписями Сталина и Молотова объявило, что «украинизация проводилась механически», и предписало «немедленно перевести на Северном Кавказе делопроизводство советских и кооперативных органов «украинизированных» районов, а также все издающиеся газеты и журналы с украинского языка на русский язык»(Citation: 461); уничтожение большинства украинских писателей 1920–1930-х годов вошло в историю как «расстрелянное возрождение»(Citation: 196); постановление СНК СССР и ЦК ВКП(б) от 13 марта 1938 года № 324 предписало «ввести преподавание русского языка, как предмета изучения в школах национальных республик и областей, с 1-го сентября 1938 г.»(Citation: 423).'
+  en: 'The suppression of the national revival in the USSR: the resolution of the Central Committee of the VKP(b) and the Council of People''s Commissars of 14 December 1932, signed by Stalin and Molotov, declared that "Ukrainization was carried out mechanically" and ordered "to immediately transfer in the North Caucasus the record-keeping of the soviet and cooperative bodies of the ''Ukrainized'' districts, as well as all published newspapers and journals, from the Ukrainian language to Russian"(Citation: 461); the annihilation of most Ukrainian writers of the 1920s-1930s went down in history as the "Executed Renaissance"(Citation: 196); the resolution of the USSR Council of People''s Commissars and the Central Committee of the VKP(b) of 13 March 1938 No. 324 ordered "to introduce the teaching of the Russian language as a subject of study in the schools of the national republics and regions from September 1, 1938"(Citation: 423).'
+  uk: 'Придушення національного відродження в СРСР: постанова ЦК ВКП(б) і Раднаркому від 14 грудня 1932 року за підписами Сталіна й Молотова оголосила, що «українізація проводилася механічно», і приписала «негайно перевести на Північному Кавказі діловодство радянських і кооперативних органів «українізованих» районів, а також усі газети й журнали, що видаються, з української мови на російську мову»(Citation: 461); знищення більшості українських письменників 1920–1930-х років увійшло в історію як «розстріляне відродження»(Citation: 196); постанова РНК СРСР і ЦК ВКП(б) від 13 березня 1938 року № 324 приписала «ввести викладання російської мови як предмета вивчення в школах національних республік і областей з 1 вересня 1938 р.»(Citation: 423).'

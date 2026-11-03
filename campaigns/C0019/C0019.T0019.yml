@@ -1,0 +1,42 @@
+type: procedure
+id: C0019.T0019
+created: 2026-08-14
+modified: 2026-08-14
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В январе 1918 года войска большевистской России наступали на Киев.
+    У станции Круты украинская оборона преградила им путь.
+    С конца декабря 1917 года юнкера - курсанты 1-й Киевской юношеской военной школы имени Богдана Хмельницкого, четыре сотни по 150 курсантов при 20 старшинах и 18 пулемётах - под командованием сотника Аверкия Гончаренко удерживали Бахмач, железнодорожный узел на границе УНР и РСФСР(Citation: 193). 27 января к ним из Киева прибыла первая сотня студенческого добровольческого батальона под командованием сотника Омельченко - 115-130 добровольцев: студенты и гимназисты старших классов, подростки, многим из которых было по 17 лет(Citation: 193)(Citation: 496).
+    Украинское командование выслало вместе с сотней и подрывную команду; добровольцы окопались по обе стороны железнодорожного пути между станциями Круты и Плиски(Citation: 497).
+    Бой начался утром 29 января 1918 года.
+    Историки Института истории Украины Национальной академии наук пишут: он шёл «во время наступления на г. Киев войск большевистской России», наступал «6-тысячный большевистский отряд петроградских и московских красногвардейцев» во главе с Егоровым(Citation: 193).
+    Сражение продолжалось до вечера, оборонявшиеся отбили несколько атак; историки оценивают потери защитников: «до 300 убитых, раненых, пленных»(Citation: 193).
+    К вечеру сотник Аверкий Гончаренко приказал отойти к своему эшелону - поезду отряда, ожидавшему в двух километрах; отступая, часть студенческой сотни попала в окружение, а один взвод в сумерках потерял ориентир и вышел на станцию, уже занятую красногвардейцами, - 27 пленных подростков и студентов были расстреляны(Citation: 193).
+    Защитники задержали продвижение красногвардейцев на Киев: объясняя значительные потери и задержку, Муравьёв в отчёте утверждал, будто украинскими силами командовал «сам С. Петлюра», - это отмечают составители сборника Украинского института национальной памяти(Citation: 497).
+  en: |-
+    In January 1918 the troops of Bolshevik Russia were advancing on Kyiv.
+    At Kruty station the Ukrainian defense barred their way.
+    From late December 1917 the yunkers - cadets of the 1st Kyiv Youth Military School named after Bohdan Khmelnytsky, four companies of 150 cadets each with 20 officers and 18 machine guns - under the command of Sotnyk Averkii Honcharenko held Bakhmach, a railway junction on the border of the UNR and the RSFSR(Citation: 193).
+    On January 27 the first company of the student volunteer battalion under Sotnyk Omelchenko arrived from Kyiv to join them - 115-130 volunteers: students and senior-grade gymnasium pupils, teenagers, many of them 17 years old(Citation: 193)(Citation: 496).
+    Together with the company the Ukrainian command also sent out a demolition team; the volunteers dug in on both sides of the railway line between the stations of Kruty and Plisky(Citation: 497).
+    The battle began on the morning of January 29, 1918.
+    Historians of the Institute of History of Ukraine of the National Academy of Sciences write: it took place "during the offensive on the city of Kyiv by the troops of Bolshevik Russia", with the positions attacked by the forces of "a 6-thousand-strong Bolshevik detachment of Petrograd and Moscow Red Guards" led by Yegorov(Citation: 193).
+    The fighting lasted until evening, the defenders repelled several attacks; historians put the defenders' losses at "up to 300 killed, wounded, captured"(Citation: 193).
+    Toward evening Sotnyk Averkii Honcharenko ordered a withdrawal to their echelon - the detachment's train waiting two kilometers away; during the retreat part of the student company was encircled, and one platoon lost its bearings at dusk and came out at the station already held by the Red Guards - 27 captured teenagers and students were shot(Citation: 193).
+    The defenders delayed the Red Guards' advance on Kyiv: explaining the heavy losses and the delay, Muravyov claimed in his report that the Ukrainian forces had been commanded by "S. Petliura himself" - as the compilers of the collection of the Ukrainian Institute of National Memory note(Citation: 497).
+  uk: |-
+    У січні 1918 року війська більшовицької Росії наступали на Київ.
+    Біля станції Крути українська оборона заступила їм шлях.
+    З кінця грудня 1917 року юнкери - курсанти 1-ї Київської юнацької військової школи імені Богдана Хмельницького, чотири сотні по 150 курсантів при 20 старшинах і 18 кулеметах - під командуванням сотника Аверкія Гончаренка утримували Бахмач, залізничний вузол на кордоні УНР і РСФРР(Citation: 193). 27 січня до них з Києва прибула перша сотня студентського добровольчого батальйону під командуванням сотника Омельченка - 115-130 добровольців: студенти й гімназисти старших класів, підлітки, багатьом з яких було по 17 років(Citation: 193)(Citation: 496).
+    Українське командування вислало разом із сотнею і підривну команду; добровольці окопалися по обидва боки залізничної колії між станціями Крути і Пліски(Citation: 497).
+    Бій почався вранці 29 січня 1918 року.
+    Історики Інституту історії України Національної академії наук пишуть: він відбувся «під час наступу на м. Київ військ більшовицької Росії»; на позиції, зазначають вони, наступали сили «6-тис. більшовицького загону петрогр. і моск. червоногвардійців» на чолі з Єгоровим(Citation: 193).
+    Бій тривав до вечора, оборонці відбили кілька атак; історики оцінюють втрати захисників: «до 300 вбитих, поранених, полонених»(Citation: 193).
+    Надвечір сотник Аверкій Гончаренко наказав відійти до свого ешелону - потяга загону, що чекав за два кілометри; відступаючи, частина студентської сотні потрапила в оточення, а одна чота (взвод) у сутінках втратила орієнтир і вийшла на станцію, вже зайняту червоногвардійцями, - 27 полонених підлітків і студентів було розстріляно(Citation: 193).
+    Захисники затримали просування червоногвардійців на Київ: пояснюючи значні втрати й затримку, Муравйов у звіті стверджував, ніби українськими силами командував «сам С. Петлюра», - це відзначають упорядники збірника Українського інституту національної пам'яті(Citation: 497).

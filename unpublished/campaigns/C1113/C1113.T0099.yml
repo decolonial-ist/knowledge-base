@@ -1,0 +1,20 @@
+type: procedure
+id: C1113.T0099
+created: 2026-06-13
+modified: 2026-08-30
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Систематическое похищение людей во время набегов.
+    Военная инфраструктура стала опорной базой для «захвата в плен местного населения»
+  en: |-
+    Systematic abduction of people during raids.
+    The military infrastructure became a staging base for «taking the local population captive».
+  uk: |-
+    Систематичне викрадення людей під час набігів.
+    Військова інфраструктура стала опорною базою для «захоплення в полон місцевого населення».

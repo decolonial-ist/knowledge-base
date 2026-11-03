@@ -1,0 +1,14 @@
+type: procedure
+id: C0081.T0019
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: 'Прямое вооруженное вторжение Красной армии 17 сентября 1939 года на территорию Польши для военной оккупации западноукраинских земель; захват был закреплен «договором СССР с Германией (28 сентября 1939)», которым «было подтверждено включение западноукраинских земель в состав СССР»(Citation: 194).'
+  en: 'The direct armed invasion of Polish territory by the Red Army on September 17, 1939 for the military occupation of the western Ukrainian lands; the seizure was consolidated by "the treaty of the USSR with Germany (September 28, 1939)," which "confirmed the incorporation of the western Ukrainian lands into the USSR"(Citation: 194).'
+  uk: 'Пряме збройне вторгнення Червоної армії 17 вересня 1939 року на територію Польщі для воєнної окупації західноукраїнських земель; захоплення було закріплене «договором СРСР з Німеччиною (28 вересня 1939)», яким «було підтверджене включення західноукр. земель до складу СРСР»(Citation: 194).'

@@ -1,0 +1,25 @@
+type: technique
+id: T0130
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Финансовое стимулирование ассимиляторов
+  en: Financial Incentives for Assimilators
+  uk: Фінансове стимулювання асиміляторів
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут на государственном уровне вводить систему специальных надбавок, повышенных окладов и премий для военного и бюрократического аппарата за успешную реализацию политики денационализации в колонизируемых регионах.
+    Данная техника применяется для закрепления власти.
+    Использование прямого экономического подкупа собственного чиновничества позволяет колонизатору мотивировать низовой аппарат к более агрессивному и инициативному вытеснению языка, культуры и институтов коренного народа.
+  en: |-
+    Aggressors may institute, at the state level, a system of special allowances, increased salaries, and bonuses for the military and bureaucratic apparatus for the successful implementation of denationalization policy in colonized regions.
+    This technique is used to consolidate power.
+    Direct economic bribery of its own officialdom allows the colonizer to motivate the lower-level apparatus toward a more aggressive and proactive displacement of the language, culture, and institutions of the indigenous people.
+  uk: |-
+    Агресори можуть на державному рівні запроваджувати систему спеціальних надбавок, підвищених окладів і премій для військового та бюрократичного апарату за успішну реалізацію політики денаціоналізації в колонізованих регіонах.
+    Ця техніка застосовується для закріплення влади.
+    Використання прямого економічного підкупу власного чиновництва дозволяє колонізатору мотивувати низовий апарат до агресивнішого та ініціативнішого витіснення мови, культури та інституцій корінного народу.

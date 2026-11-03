@@ -1,0 +1,14 @@
+type: procedure
+id: C0034.T0032
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0032
+people: ukrainians
+actor: G0009
+tool: S0024
+contributors: []
+description:
+  ru: 'Юридическое закрепощение украинских крестьян указом Екатерины II от 3 мая 1783 года, лишившее их права на свободное перемещение: «Для известного и верного получения казённых доходов в наместничествах Киевском, Черниговском и Новгород-Северском и отвращения всяких побегов… каждому из поселян остаться в своем месте и звании, где он по нынешней последней ревизии написан»(Citation: 149).'
+  en: 'The legal enserfment of Ukrainian peasants by Catherine II''s decree of May 3, 1783, depriving them of the right of free movement: "For the certain and reliable collection of treasury revenues in the viceroyalties of Kyiv, Chernihiv, and Novhorod-Siverskyi and for the prevention of any flights… each of the villagers is to remain in the place and station where he is registered by the current last revision"(Citation: 149).'
+  uk: 'Юридичне закріпачення українських селян указом Катерини II від 3 травня 1783 року, що позбавило їх права на вільне пересування: «Для відомого і певного отримання казенних доходів у намісництвах Київському, Чернігівському і Новгород-Сіверському та відвернення всяких утеч… кожному з поселян залишитися на своєму місці й у званні, де він за нинішньою останньою ревізією записаний»(Citation: 149).'

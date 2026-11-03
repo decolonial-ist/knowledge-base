@@ -1,0 +1,26 @@
+type: technique
+id: T0158
+created: 2026-08-01
+modified: 2026-08-01
+version: '1.0'
+tactics:
+- TA0005
+- TA0001
+name:
+  ru: Маркировка территории имперскими символами
+  en: Territorial Marking with Imperial Symbols
+  uk: Маркування території імперськими символами
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут закреплять захват земли материальными знаками собственной власти: крестами и закладными камнями в момент занятия территории, памятниками завоевателям, мемориальными досками и стелами, гербами, культовыми зданиями на местах чужих святынь.
+    В отличие от переименования топонимов, которое действует в речи и на карте, знак занимает физическое место и снимается только руками.
+    Он объявляет захват необратимым и отсчитывает историю места от прихода метрополии: постамент памятника Богдану Хмельницкому в Киеве (1888) нёс надпись «Богдану Хмельницкому единая неделимая Россия», а доски памятника Муравьёву-Амурскому в Хабаровске (1891) перечисляли лиц, «принявших активное участие в присоединении к России Приамурья».
+  en: |-
+    Aggressors may consolidate the seizure of land with material signs of their own power: crosses and foundation stones at the moment of occupation, monuments to conquerors, memorial plaques and stelae, coats of arms, places of worship raised on the sites of other peoples' sanctuaries.
+    Unlike the renaming of place names, which operates in speech and on the map, a sign occupies physical space and can be removed only by hand.
+    It declares the seizure irreversible and dates the history of the place from the arrival of the metropole: the pedestal of the monument to Bohdan Khmelnytsky in Kyiv (1888) bore the inscription "To Bohdan Khmelnytsky, one and indivisible Russia", while the plaques on the monument to Muravyov-Amursky in Khabarovsk (1891) listed those "who took an active part in the annexation of the Amur region to Russia".
+  uk: |-
+    Агресори можуть закріплювати захоплення землі матеріальними знаками власної влади: хрестами й закладними каменями в момент зайняття території, пам'ятниками завойовникам, меморіальними дошками та стелами, гербами, культовими спорудами на місцях чужих святинь.
+    На відміну від перейменування топонімів, яке діє в мовленні та на карті, знак посідає фізичне місце і знімається лише руками.
+    Він оголошує захоплення незворотним і відлічує історію місця від приходу метрополії: постамент пам'ятника Богданові Хмельницькому в Києві (1888) ніс напис «Богдану Хмельницькому єдина неподільна Росія», а дошки пам'ятника Муравйову-Амурському в Хабаровську (1891) перелічували осіб, «які взяли активну участь у приєднанні до Росії Приамур'я».

@@ -1,0 +1,22 @@
+type: technique
+id: T0077
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0004
+name:
+  ru: Карательные экспедиции
+  en: Punitive Expeditions
+  uk: Каральні експедиції
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут проводить целенаправленные вооруженные рейды против местного населения населенных пунктов, оказывающих сопротивление.
+    В ходе карательных экспедиций осуществляются массовые аресты, разрушение жилой инфраструктуры и показательный террор, что служит немедленной нейтрализации защиты, физически подавляя очаги сопротивления и запугивая общество.
+  en: |-
+    Aggressors may conduct targeted armed raids against the local population of settlements that offer resistance.
+    During punitive expeditions, mass arrests, destruction of residential infrastructure, and demonstrative terror are carried out, which serves the immediate neutralization of defenses by physically suppressing pockets of resistance and intimidating the society.
+  uk: |-
+    Агресори можуть проводити цілеспрямовані збройні рейди проти місцевого населення населених пунктів, які чинять опір.
+    Під час каральних експедицій здійснюються масові арешти, руйнування житлової інфраструктури та показовий терор, що слугує негайній нейтралізації захисту, фізично придушуючи осередки опору та залякуючи суспільство.

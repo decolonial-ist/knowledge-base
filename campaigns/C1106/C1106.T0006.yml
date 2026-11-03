@@ -1,0 +1,24 @@
+type: procedure
+id: C1106.T0006
+created: 2026-06-22
+modified: 2026-06-22
+version: '1.0'
+technique: T0006
+people: nokhchi
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Аппарат Российской империи конструировал образ коренного населения как дикарей: историк Я. З. Ахмадов указывает, что дореволюционная историография описывала борьбу горцев «действиями варваров, лишенных 'цивилизованных' представлений о независимости и свободе»(Citation: 66), а имперский историк и участник событий В. А. Потто приводит слова генерала А. П. Ермолова, заявлявшего, что «жестокость здешних нравов не может укротить милосердием»(Citation: 75).
+    Генерал Ермолов в своих «Записках» писал о нохчи: «чеченцы, самые злейшие из разбойников, нападающие на линию», их земля — прибежище, где «принимались дружественно злодеи всех прочих народов, оставляющие землю свою по каким-либо преступлениям», а саму Чечню «можно справедливо назвать гнездом всех разбойников», «менее прочих наполнены были разбойниками, которые участвовали прежде во всех набегах чеченцев на линию.
+    В них собирались хищники и укрывались…»(Citation: 96).
+  en: |-
+    The apparatus of the Russian Empire constructed an image of the Indigenous population as savages: historian Ya.
+    Z. Akhmadov points out that pre-revolutionary historiography described the highlanders' struggle as «the actions of barbarians devoid of 'civilized' notions of independence and freedom»(Citation: 66), while the imperial historian and participant in the events V. A. Potto cites the words of General A. P. Yermolov, who declared that «the cruelty of the local mores cannot be tamed by mercy»(Citation: 75).
+    In his «Notes», General Yermolov wrote of the Nokhchi: «the Chechens, the most vicious of the brigands, attacking the line», their land a refuge where «the villains of all other peoples, abandoning their own land on account of some crimes, were received amicably», while Chechnya itself «may justly be called the nest of all brigands», «were less filled than others with brigands who had previously taken part in all the raids of the Chechens on the line.
+    In them predators gathered and took cover…»(Citation: 96).
+  uk: |-
+    Апарат Російської імперії конструював образ корінного населення як дикунів: історик Я. З. Ахмадов вказує, що дореволюційна історіографія описувала боротьбу горців «діями варварів, позбавлених 'цивілізованих' уявлень про незалежність і свободу»(Citation: 66), а імперський історик і учасник подій В. О. Потто наводить слова генерала О. П. Єрмолова, який заявляв, що «жорстокість тутешніх звичаїв не можна приборкати милосердям»(Citation: 75).
+    Генерал Єрмолов у своїх «Записках» характеризував Нохчі як природжену розбійницьку породу: «Чеченці, найзліші з розбійників, що нападають на лінію», їхня земля — прихисток, де «дружньо приймалися лиходії всіх інших народів, які залишали свою землю через якісь злочини», а саму Чечню «можна справедливо назвати гніздом усіх розбійників», «менше за інших наповнені були розбійниками, які брали участь раніше в усіх набігах Чеченців на лінію.
+    У них збиралися хижаки й переховувалися…»(Citation: 96).

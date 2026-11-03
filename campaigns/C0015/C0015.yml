@@ -1,0 +1,23 @@
+type: campaign
+id: C0015
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.1'
+people: ukrainians
+first_seen: 1709-06-01
+last_seen: 1709-07-01
+contributors: []
+name:
+  ru: Полтавская битва и окончательный разгром Гетманщины (1709)
+  en: The Battle of Poltava and the Final Defeat of the Hetmanate (1709)
+  uk: Полтавська битва та остаточний розгром Гетьманщини (1709)
+description:
+  ru: |-
+    Решающее сражение Северной войны, в ходе которого была окончательно ликвидирована военная опора украинской автономии.
+    Поражение шведско-казацкого союза позволило Москве перейти от подавления восстаний к системному демонтажу субъектности Гетманщины(Citation: 4).
+  en: |-
+    The decisive battle of the Great Northern War, in the course of which the military backbone of Ukrainian autonomy was finally eliminated.
+    The defeat of the Swedish-Cossack alliance allowed Moscow to move from suppressing uprisings to the systematic dismantling of the Hetmanate's political agency(Citation: 4).
+  uk: |-
+    Вирішальна битва Північної війни, у ході якої було остаточно ліквідовано військову опору української автономії.
+    Поразка шведсько-козацького союзу дала змогу Москві перейти від придушення повстань до системного демонтажу суб'єктності Гетьманщини(Citation: 4).

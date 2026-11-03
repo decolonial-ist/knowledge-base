@@ -1,0 +1,26 @@
+type: procedure
+id: C1161.T0022
+created: 2026-07-21
+modified: 2026-07-21
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Весенний тур Фезе по Чечне (февраль-апрель 1837) строился на демонстративном насилии, конвертируемом в присягу.
+    Рапорт Розена военному министру Чернышеву от 4 марта 1837 фиксирует результат уничтожения аулов: «Чеченцы, объятые страхом от предшествовавших действий... пришли в большое уныние»(Citation: 105) - после чего присяги пошли одна за другой.
+    Сам Фезе доложил расчёт генералу Вельяминову 15 марта 1837: он действовал «в намерении пользоваться по возможности паническим страхом», которым после боя при Автурах «объяты были тавлинцы и андийцы»(Citation: 126); тем же словом рапорт Розена от 11 марта описывает требование подчинения от андийцев - «желая воспользоваться страхом»(Citation: 105).
+    Страх гнал людей с земли: после мартовских облав по лесам жители, по рапорту от 12 апреля, «сими поисками принуждены были уйти в отдаленные горы»(Citation: 105).
+  en: |-
+    Feze's spring tour across Chechnya (February-April 1837) was built on demonstrative violence converted into submission.
+    Rozen's report to Minister of War Chernyshev of 4 March 1837 records the result of the annihilation of the auls: "the Chechens, gripped by fear from the preceding actions... fell into great despondency"(Citation: 105) - after which the oaths followed one after another.
+    Feze himself reported the calculation to General Velyaminov on 15 March 1837: he acted "with the intention of making use, as far as possible, of the panic fear" that had gripped "the Tavlins and the Andians" after the battle at Avtury(Citation: 126); Rozen's report of 11 March uses the same word for the demand of submission from the Andians - "wishing to make use of the fear"(Citation: 105).
+    Fear drove people off their land: after the March sweeps through the forests the inhabitants, according to the report of 12 April, "were compelled by these searches to withdraw into the distant mountains"(Citation: 105).
+  uk: |-
+    Весняний тур Фезе по Чечні (лютий-квітень 1837) будувався на демонстративному насильстві, що конвертувалося в покірність.
+    Рапорт Розена військовому міністру Чернишову від 4 березня 1837 фіксує результат винищення аулів: «чеченці, охоплені страхом від попередніх дій... прийшли у велике зневір'я»(Citation: 105) - після чого присяги пішли одна за одною.
+    Сам Фезе доповів розрахунок генералу Вельямінову 15 березня 1837: він діяв «у намірі користуватися по можливості панічним страхом», яким після бою при Автурах «охоплені були тавлінці й андійці»(Citation: 126); тим же словом рапорт Розена від 11 березня описує вимогу покірності з андійців - «бажаючи скористатися страхом»(Citation: 105).
+    Страх гнав людей із землі: після березневих облав по лісах жителі, за рапортом від 12 квітня, «цими пошуками примушені були піти у віддалені гори»(Citation: 105).

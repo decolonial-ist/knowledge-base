@@ -1,0 +1,28 @@
+type: procedure
+id: C1178.T0099
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Заложники значились отдельной учётной графой в итоговом докладе о карательной операции 1930 года: командующий оккупационными войсками Северо-Кавказского военного округа Белов доложил краевому комитету партии («крайком ВКП(б)») дословно: «Изъято по Чечне: активного контрреволюционного и бандитского элемента 122 чел., из них главарей — руководителей движения — 9, добровольно явилось главарей — 7, заложников — 35.
+    Добровольно явившиеся рядовые участники не учтены, их сотни»(Citation: 533).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов цитируют эту строку доклада: среди арестованных в ходе операции - «руководителей повстанческого движения — 9, заложников — 35»(Citation: 125).
+    Чеченский историк А. Г. Авторханов, работавший в те годы в Чечне и писавший об этом в эмиграции, описал, зачем чекисты брали заложников и что их ждало: «К старой царской системе брать «аманатов» (заложников) для принуждения «бандитов» к сдаче чекисты прибегали постоянно, и в более широком масштабе», но «в истории советской Чечено-Ингушетии не было ни одного случая, чтобы при явке «бандита» были бы освобождены «аманаты»»; о судьбе тех и других Авторханов пишет: добровольно явившийся, «вопреки торжественному обещанию сохранить ему жизнь, – расстреливался, а «аманаты» ссылались в Сибирь, в том числе женщины и дети»(Citation: 369).
+  en: |-
+    Hostages figured as a separate accounting line in the final report on the punitive operation of 1930: Belov, commander of the occupation troops of the North Caucasus Military District, reported to the krai committee of the party (the "kraikom VKP(b)") verbatim: "Seized across Chechnya: of active counter-revolutionary and bandit element, 122 people, of them ringleaders - leaders of the movement - 9; ringleaders who appeared voluntarily - 7; hostages - 35.
+    Rank-and-file participants who appeared voluntarily are not counted, they number hundreds"(Citation: 533).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov quote this line of the report: among those arrested in the course of the operation - "leaders of the insurgent movement - 9, hostages - 35"(Citation: 125).
+    The Chechen historian A. G. Avtorkhanov, who worked in Chechnya in those years and later wrote about it in emigration, described why the Chekists took hostages and what awaited them: "To the old tsarist system of taking 'amanats' (hostages) to force 'bandits' to surrender the Chekists resorted constantly, and on a wider scale", but "in the history of Soviet Checheno-Ingushetia there was not a single case of the 'amanats' being released when the 'bandit' appeared"; of the fate of both Avtorkhanov writes: the man who appeared voluntarily, "contrary to the solemn promise to spare his life, - was shot, while the 'amanats' were exiled to Siberia, including women and children"(Citation: 369).
+  uk: |-
+    Заручники значилися окремою обліковою графою в підсумковій доповіді про каральну операцію 1930 року: командувач окупаційних військ Північно-Кавказького військового округу Бєлов доповів крайовому комітетові партії («крайком ВКП(б)») дослівно: «Вилучено по Чечні: активного контрреволюційного і бандитського елементу 122 чол., з них ватажків — керівників руху — 9, добровільно з'явилося ватажків — 7, заручників — 35.
+    Добровільно з'явлені рядові учасники не обліковані, їх сотні»(Citation: 533).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов цитують цей рядок доповіді: серед заарештованих у ході операції - «керівників повстанського руху — 9, заручників — 35»(Citation: 125).
+    Чеченський історик А. Г. Авторханов, який працював у ті роки в Чечні і писав про це в еміграції, описав, навіщо чекісти брали заручників і що на них чекало: «До старої царської системи брати «аманатів» (заручників) для примушення «бандитів» до здачі чекісти вдавалися постійно, і в ширшому масштабі», але «в історії радянської Чечено-Інгушетії не було жодного випадку, щоб при явці «бандита» було б звільнено «аманатів»»; про долю тих і других Авторханов пише: той, хто добровільно з'явився, «всупереч урочистій обіцянці зберегти йому життя, – розстрілювався, а «аманати» засилалися до Сибіру, зокрема жінки і діти»(Citation: 369).

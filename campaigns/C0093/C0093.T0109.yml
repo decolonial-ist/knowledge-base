@@ -1,0 +1,14 @@
+type: procedure
+id: C0093.T0109
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.0'
+technique: T0109
+people: ukrainians
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: 'Референдум с неопределенной формулировкой для легитимизации союзного контроля: бюллетень референдума 17 марта 1991 года предлагал голосовать за «сохранение Союза Советских Социалистических Республик как обновленной федерации равноправных суверенных республик»(Citation: 178) – при том, что содержание «обновленной федерации» нигде не определялось, а результат затем использовался как мандат на новый союзный договор.'
+  en: 'A referendum with a vague formulation to legitimize union control: the ballot of the 17 March 1991 referendum asked voters to endorse "the preservation of the Union of Soviet Socialist Republics as a renewed federation of equal sovereign republics"(Citation: 178) – even though the content of the "renewed federation" was nowhere defined, while the result was then used as a mandate for a new union treaty.'
+  uk: 'Референдум із невизначеним формулюванням для легітимізації союзного контролю: бюлетень референдуму 17 березня 1991 року пропонував голосувати за «збереження Союзу Радянських Соціалістичних Республік як оновленої федерації рівноправних суверенних республік»(Citation: 178) – при тому, що зміст «оновленої федерації» ніде не визначався, а результат потім використовувався як мандат на новий союзний договір.'

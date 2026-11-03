@@ -1,0 +1,23 @@
+type: technique
+id: T0166
+created: 2026-08-18
+modified: 2026-08-29
+version: '46023.1'
+tactics:
+- TA0001
+- TA0004
+name:
+  ru: Фабрикация преступников
+  en: Manufacturing Criminals
+  uk: Фабрикація злочинців
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут фабриковать из неугодных людей «преступников»: принимать законы с составами, под которые можно подвести любого («контрреволюционная деятельность», «экстремизм», «дискредитация»), выдумывать заговоры и подпольные организации, изготавливать «улики», наполнять дела арестованными по спискам, а следствие и процессы вести в секрете или превращать в публичный спектакль.
+    Посадка становится вопросом решения, а не факта; каждый приговор задним числом «доказывает» вину колонизируемых и оправдывает репрессии как борьбу с «преступностью».
+  en: |-
+    Aggressors may manufacture "criminals" out of unwanted people: passing laws with offenses elastic enough to charge anyone ("counter-revolutionary activity", "extremism", "discreditation"), inventing conspiracies and underground organizations, forging "evidence", filling cases with people arrested by list, and keeping investigations and trials secret or turning them into public spectacle.
+    Imprisonment becomes a matter of decision rather than fact, and every verdict retroactively "proves" the guilt of the colonized, justifying repression as a fight against "crime".
+  uk: |-
+    Агресори можуть фабрикувати з неугодних людей «злочинців»: ухвалювати закони зі складами, під які можна підвести будь-кого («контрреволюційна діяльність», «екстремізм», «дискредитація»), вигадувати змови й підпільні організації, виготовляти «докази», наповнювати справи заарештованими за списками, а слідство і процеси вести таємно або перетворювати на публічну виставу.
+    Ув'язнення стає питанням рішення, а не факту; кожен вирок заднім числом «доводить» провину колонізованих і виправдовує репресії як боротьбу зі «злочинністю».

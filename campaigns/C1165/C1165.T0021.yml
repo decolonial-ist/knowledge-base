@@ -1,0 +1,43 @@
+type: procedure
+id: C1165.T0021
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0021
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    29 января 1841 года генерал Головин, командир Отдельного Кавказского корпуса (глава имперских войск и администрации на Кавказе), предписал генералу Граббе, командующему войсками Кавказской линии (цепи имперских укреплений на земле нохчи), организовать убийство Ахверды-Магомы, наиба Шамиля в Малой Чечне (наместника имама, руководителя сопротивления горцев Дагестана и Чечни российскому завоеванию): «можно полагать, что за хорошую плату найдутся люди, которые решатся на истребление Ахверды-Магомы.
+    Нет сомнения, что через уничтожение этого предприимчивого сподвижника Шамиля, мы избавились бы от одного из самых опаснейших его орудий, и успокоение Чечни было бы тогда делом гораздо менее затруднительным»(Citation: 126).
+    Головин выделил бюджет и исполнителя: Граббе предоставлено «право употребить по вашим соображениям до двух тысяч рублей сер. из сумм экстроординарных», а «исполнение дела сего ближе всего возложить на ген.-м.
+    Ольшевского», начальника левого фланга линии(Citation: 126).
+    Смерть Ахверды-Магомы с этим заказом не связана: летом 1843 года он погиб в бою у селения Шатили на границе с Грузией - историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «К удовлетворению российского командования Ахверды-Магома погиб летом 1843 г. в столкновении под хевсурским селением Шатили»(Citation: 125).
+    Участников сопротивления империя предала военным судам с ускоренной расправой.
+    Повеления императора Николая I от 29 декабря 1843 года и 14 февраля 1844 года, переданные войскам 24 мая 1844 года, предписали: «Офицеров из горцев, участвовавших в возмущении, равно кадиев и прочих главных зачинщиков предать военному суду по полевому уголовному уложению...
+    Приговоры суда, по окончательном утверждении мною, безотлагательно приводить в исполнение» (кадий - мусульманский судья)(Citation: 126).
+    Под военно-полевой суд по этой норме шли не солдаты противника, а духовные и общинные лидеры - «кадии и прочие главные зачинщики».
+  en: |-
+    On 29 January 1841 general Golovin, commander of the Separate Caucasus Corps (head of the empire's troops and administration in the Caucasus), instructed general Grabbe, commander of the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), to organise the assassination of Akhverdy-Magoma, Shamil's naib in Lesser Chechnya (the deputy of the imam, leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest): "it may be supposed that for good pay men will be found who will resolve on the destruction of Akhverdy-Magoma.
+    There is no doubt that through the elimination of this enterprising associate of Shamil we would rid ourselves of one of his most dangerous instruments, and the pacification of Chechnya would then be a far less difficult matter"(Citation: 126).
+    Golovin allotted a budget and an executor: Grabbe was granted "the right to employ at your discretion up to two thousand rubles in silver from the extraordinary sums", and "the execution of this affair is most fittingly to be laid upon maj.-gen.
+    Olshevsky", commander of the left flank of the line(Citation: 126).
+    The death of Akhverdy-Magoma is not connected with this order: in the summer of 1843 he died in a fight near the village of Shatili on the border with Georgia - historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "To the satisfaction of the Russian command, Akhverdy-Magoma perished in the summer of 1843 in a clash near the Khevsur village of Shatili"(Citation: 125).
+    Participants of the resistance the empire handed over to military courts with expedited punishment.
+    The commands of emperor Nicholas I of 29 December 1843 and 14 February 1844, conveyed to the troops on 24 May 1844, prescribed: "Officers from among the highlanders who took part in the revolt, as well as qadis and other chief instigators, are to be handed over to a military court under the field criminal code...
+    The sentences of the court, upon final confirmation by me, are to be carried out without delay" (qadi - a Muslim judge)(Citation: 126).
+    Under this norm it was not enemy soldiers who went before the field court-martial, but spiritual and communal leaders - "qadis and other chief instigators".
+  uk: |-
+    29 січня 1841 року генерал Головін, командир Окремого Кавказького корпусу (глава імперських військ і адміністрації на Кавказі), приписав генералу Граббе, командувачу військ Кавказької лінії (ланцюга імперських укріплень на землі нохчі), організувати вбивство Ахверди-Магоми, наїба Шаміля в Малій Чечні (намісника імама, керівника опору горців Дагестану і Чечні російському завоюванню): «можна вважати, що за добру плату знайдуться люди, які зважаться на винищення Ахверди-Магоми.
+    Немає сумніву, що через знищення цього заповзятливого сподвижника Шаміля ми позбулися б одного з найнебезпечніших його знарядь, і заспокоєння Чечні було б тоді справою значно менш складною»(Citation: 126).
+    Головін виділив бюджет і виконавця: Граббе надано «право вжити за вашими міркуваннями до двох тисяч рублів ср. з сум екстраординарних», а «виконання справи цієї найближче покласти на ген.-м.
+    Ольшевського», начальника лівого флангу лінії(Citation: 126).
+    Смерть Ахверди-Магоми з цим замовленням не пов'язана: улітку 1843 року він загинув у бою біля селища Шатілі на кордоні з Грузією - історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «На вдоволення російського командування Ахверди-Магома загинув улітку 1843 р. у зіткненні під хевсурським селищем Шатілі»(Citation: 125).
+    Учасників опору імперія віддала військовим судам з прискореною розправою.
+    Повеління імператора Миколи I від 29 грудня 1843 року і 14 лютого 1844 року, передані військам 24 травня 1844 року, приписали: «Офіцерів з горців, що брали участь у повстанні, так само кадіїв та інших головних призвідників віддати військовому суду за польовим кримінальним уложенням...
+    Вироки суду, після остаточного затвердження мною, невідкладно приводити у виконання» (кадій - мусульманський суддя)(Citation: 126).
+    Під військово-польовий суд за цією нормою йшли не солдати противника, а духовні та громадські лідери - «кадії та інші головні призвідники».

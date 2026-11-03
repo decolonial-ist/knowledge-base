@@ -1,0 +1,27 @@
+type: tool
+id: S0021
+created: 2026-04-26
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Пропаганда
+  en: Propaganda
+  uk: Пропаганда
+contributors: []
+description:
+  ru: |-
+    Государственный институциональный аппарат массового идеологического воздействия, форматирования сознания и когнитивного контроля.
+    Включал в себя специализированные партийные структуры (в частности, агитационно-пропагандистские отделы ЦК), а также полностью подконтрольные власти прессу, систему массовых мероприятий, кинематограф и литературу.
+    Использовался агрессором для подмены реальной истории искусственными имперско-коммунистическими мифами, тотальной идеологической обработки населения и целенаправленного воспитания фанатичного тоталитарного типа личности, слепо преданного режиму и жестокого к инакомыслящим.
+    Пропагандистская машина выступала базовым механизмом для легитимизации государственного насилия и маскировки политики принудительной ассимиляции.
+  en: |-
+    A state institutional apparatus of mass ideological influence, formatting of consciousness, and cognitive control.
+    It included specialized party structures (in particular, the agitation and propaganda departments of the Central Committee), as well as the press, the system of mass events, cinema, and literature, all fully controlled by the authorities.
+    It was used by the aggressor to replace real history with artificial imperial-communist myths, to subject the population to total ideological indoctrination, and to deliberately cultivate a fanatical totalitarian personality type, blindly devoted to the regime and cruel toward dissenters.
+    The propaganda machine served as the basic mechanism for legitimizing state violence and masking the policy of forced assimilation.
+  uk: |-
+    Державний інституційний апарат масового ідеологічного впливу, форматування свідомості та когнітивного контролю.
+    Включав спеціалізовані партійні структури (зокрема агітаційно-пропагандистські відділи ЦК), а також повністю підконтрольні владі пресу, систему масових заходів, кінематограф і літературу.
+    Використовувався агресором для підміни реальної історії штучними імперсько-комуністичними міфами, тотальної ідеологічної обробки населення та цілеспрямованого виховання фанатичного тоталітарного типу особистості, сліпо відданого режимові й жорстокого до інакодумців.
+    Пропагандистська машина була базовим механізмом легітимізації державного насильства та маскування політики примусової асиміляції.

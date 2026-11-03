@@ -1,0 +1,14 @@
+type: procedure
+id: C0023.T0036
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0036
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: 'Создание специализированного ведомства для управления автономией: через Малороссийский приказ царское правительство «осуществлял контроль за политико-административной деятельностью гетманской администрации и царских воевод в Украине»(Citation: 194) – управление Гетманщиной было встроено в московскую приказную вертикаль.'
+  en: 'The creation of a specialized agency to govern the autonomy: through the Little Russian Prikaz the tsarist government "exercised control over the political-administrative activity of the hetman''s administration and the tsarist voivodes in Ukraine"(Citation: 194) – the governance of the Hetmanate was embedded into Moscow''s prikaz vertical.'
+  uk: 'Створення спеціалізованого відомства для управління автономією: через Малоросійський приказ царський уряд «здійснював контроль за політико-адм. діяльністю гетьман. адміністрації та царських воєвод в Україні»(Citation: 194) – управління Гетьманщиною було вбудовано в московську приказну вертикаль.'

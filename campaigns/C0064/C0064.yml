@@ -1,0 +1,23 @@
+type: campaign
+id: C0064
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1877-01-01
+last_seen: 1878-12-31
+contributors: []
+name:
+  ru: Русско-турецкая война и панславизм (1877–1878)
+  en: Russo-Turkish War and Pan-Slavism (1877–1878)
+  uk: Російсько-турецька війна та панславізм (1877–1878)
+description:
+  ru: |-
+    Использование жителей украинских губерний в очередной геополитической войне на Балканах.
+    Имперская экспансия оправдывалась религией и идеологией панславизма – Достоевский формулировал её как миссию: славяне «Долго… не в состоянии будут признать бескорыстия России и великого, святого, неслыханного в мире поднятия ею знамени величайшей идеи»(Citation: 154).
+  en: |-
+    The use of the inhabitants of the Ukrainian governorates in yet another geopolitical war in the Balkans.
+    Imperial expansion was justified by religion and the ideology of Pan-Slavism – Dostoevsky formulated it as a mission: the Slavs "for a long time… will be unable to recognize Russia's selflessness and her great, holy raising, unheard of in the world, of the banner of the greatest idea"(Citation: 154).
+  uk: |-
+    Використання мешканців українських губерній у черговій геополітичній війні на Балканах.
+    Імперська експансія виправдовувалася релігією та ідеологією панславізму – Достоєвський формулював її як місію: слов'яни «Довго… не в змозі будуть визнати безкорисливість Росії і велике, святе, нечуване у світі підняття нею прапора найвеличнішої ідеї»(Citation: 154).

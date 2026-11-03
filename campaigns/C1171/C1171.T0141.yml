@@ -1,0 +1,28 @@
+type: procedure
+id: C1171.T0141
+created: 2026-08-04
+modified: 2026-08-04
+version: '1.0'
+technique: T0141
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов приводят сводку по материалам Кавказского военного округа (РГВИА, ф. 1300, оп. 7, д. 3) и работе А. И. Хасбулатова: «По данным 1877 г., в среднем на душу населения в Нагорной Чечне, включая Ичкерию с населением почти в 100 тысяч человек, приходилось по 0,3 десятины (десятина - чуть больше гектара) пахотной земли... такого фантастического безземелья, как в Нагорной Чечне, не знала ни одна область Российской империи»(Citation: 125).
+    В 1901 году на Чеченской равнине «на семью (обычно довольно многочисленную) приходилось от 7 до 14 десятин»(Citation: 251).
+    Счёт по бюджету семьи вела сама областная статистика: «Казачья семья имела от своего земельного надела валовой доход 918 рублей... и оставался излишек 140 рублей.
+    Самая богатая чеченская семья на плоскости, по сведениям Терского областного статистического комитета (1903 г.), от земельного надела получала доход 262 рубля, расходуя на своё содержание 414 рублей, дефицит составлял 152 рубля»(Citation: 251).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov give a summary based on the materials of the Caucasus Military District (RGVIA, f. 1300, op. 7, d. 3) and the work of A. I. Khasbulatov: "According to the data of 1877, in Mountain Chechnya, including Ichkeria, with a population of almost 100 thousand people, there was on average 0.3 desiatinas (a desiatina is a little over a hectare) of arable land per capita... such fantastic landlessness as in Mountain Chechnya was known to no other region of the Russian Empire"(Citation: 125).
+    In 1901 on the Chechen plain "a family (usually quite numerous) had from 7 to 14 desiatinas"(Citation: 251).
+    The count by family budget was kept by the oblast statistics service itself: "A Cossack family had a gross income of 918 rubles from its land allotment... and was left with a surplus of 140 rubles.
+    The richest Chechen family on the plain, according to the Terek Oblast Statistical Committee (1903), received an income of 262 rubles from its land allotment while spending 414 rubles on its upkeep; the deficit came to 152 rubles"(Citation: 251).
+  uk: |-
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов наводять зведення за матеріалами Кавказького військового округу (РГВІА, ф. 1300, оп. 7, спр. 3) і працею А. І. Хасбулатова: «За даними 1877 р., у середньому на душу населення в Нагірній Чечні, включно з Ічкерією з населенням майже 100 тисяч осіб, припадало по 0,3 десятини (десятина - трохи більше гектара) орної землі... такого фантастичного безземелля, як у Нагірній Чечні, не знала жодна область Російської імперії»(Citation: 125).
+    У 1901 році на Чеченській рівнині «на сім'ю (зазвичай доволі численну) припадало від 7 до 14 десятин»(Citation: 251).
+    Рахунок за бюджетом сім'ї вела сама обласна статистика: «Козача сім'я мала від свого земельного наділу валовий дохід 918 рублів... і залишався надлишок 140 рублів.
+    Найбагатша чеченська сім'я на площині, за відомостями Терського обласного статистичного комітету (1903 р.), від земельного наділу отримувала дохід 262 рублі, витрачаючи на своє утримання 414 рублів, дефіцит становив 152 рублі»(Citation: 251).

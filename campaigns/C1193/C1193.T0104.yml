@@ -1,0 +1,229 @@
+type: procedure
+id: C1193.T0104
+created: 2026-10-24
+modified: 2026-10-27
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты убивали безоружных чеченцев на дорогах, в домах и в подвалах.
+
+    В захваченных сёлах и городах российские солдаты с милиционерами ходили по домам при «зачистках» (так россияне называли обыски домов и задержания чеченцев).
+    Оккупанты бросали гранаты в подвалы, где от обстрелов прятались семьи.
+    Российские солдаты поджигали дома вместе с людьми.
+    У стен домов оккупанты расстреливали безоружных чеченцев, среди них женщин и стариков(Citation: 27).
+    Российские снайперы стреляли по тем, кто выходил из домов и подвалов.
+    Под огнём снайперов чеченские семьи по нескольку дней не могли забрать с улиц и похоронить тела своих родственников(Citation: 656)(Citation: 659).
+
+    Российские военные 17 декабря 1994 года расстреляли из бронетранспортёров колонну беженцев из Грозного у границы с подконтрольной России Ингушетией и убили на месте десять человек(Citation: 27).
+    Российский лётчик 22 декабря 1994 года разбомбил легковые машины, которые скопились на перекрёстке в Грозном, а потом выпустил ещё две ракеты по тем, кто прибежал помогать раненым.
+    Всего на перекрёстке оккупанты убили до двадцати человек(Citation: 27)(Citation: 986).
+
+    В начале января 1995 года спецназовцы 67-й бригады российской военной разведки завалили горную дорогу, по которой из Грозного уходили от обстрелов мирные чеченцы.
+    Разведчики вызвали штурмовую авиацию, и российские лётчики разбомбили скопившиеся у завала машины беженцев(Citation: 27).
+    В Шали, городе к юго-востоку от Грозного, 3 января 1995 года российские лётчики сбросили кассетные бомбы на автомобильный рынок и бомбили второй раз тех, кто прибежал помогать раненым (подробнее: «Неизбирательные нападения»)(Citation: 27)(Citation: 986).
+    Российские военные, которые обыскивали дворы в посёлке Бутенко на окраине Грозного, 29 января и 3 февраля 1995 года расстреляли из автоматов четверых, среди них троих из семьи Гагаевых(Citation: 986)(Citation: 27).
+    Омоновцы, бойцы СОБРа (милицейский спецназ) и солдаты внутренних войск МВД России (предшественников современной Росгвардии) 3 февраля обыскивали дома в Петропавловской, станице к северо-востоку от Грозного, и убили пятерых чеченцев(Citation: 988).
+
+    В начале марта 1995 года Вооружённые силы Ичкерии по настоянию сельчан были вынуждены уйти из Самашек, села на западе Чеченской Республики. 7 апреля, после обстрела, около 250 солдат Софринской бригады внутренних войск МВД России, омоновцы и бойцы СОБРа из Москвы, Подмосковья и Оренбурга штурмовали село.
+    Оккупанты захватили Самашки после короткого боя с небольшой группой вооружённых чеченцев из села(Citation: 662)(Citation: 27).
+    Вечером российские солдаты загнали четверых мужчин, которые прятались в кладовой, в яму для ремонта машин в гараже и расстреляли их из автоматов.
+    Оккупанты убили 71-летнего Мусаита Исаева и ранили Насруддина Базуева и Салавди Умаханова, а Абдурахман Чиндигаев выжил.
+    Салавди Умаханов 4 августа 1995 года рассказал сотруднику «Мемориала» Олегу Орлову: «Муса [Мусаит Исаев] говорит: "Ребята, не стреляйте.
+    Скотину кормить надо...
+    Не стреляйте"…
+    Моментом оттуда автоматную очередь ему дали».
+    На следующий день российские военные убили раненого Насруддина Базуева и его дочь Раису Масаеву(Citation: 27).
+
+    8 апреля, когда в селе уже никто не сопротивлялся, солдаты, омоновцы и бойцы СОБРа обыскивали дома.
+    Садулла Юсупов, пожилой чеченец из Самашек, 13 апреля рассказал сотруднику «Мемориала» Олегу Орлову: «В десять часов утра тут побежали солдаты…
+    Они кричали нечеловеческим голосом матом, матюгали, кричали: "Выходите, суки!" и к каждому дому подходили, стреляли».
+    Российский солдат выстрелил из автомата в земляной подвал, где он спрятался, а второй оккупант бросил туда гранату и ранил его.
+    Выбравшись, Садулла Юсупов увидел на улице тела шестерых соседей, среди них двух стариков и женщину(Citation: 27).
+    Российские военные застрелили Лечи Арсаева с двадцати метров, не пытаясь задержать, когда он вешал белый флаг на заборе своего дома.
+    На улице Шарипова российские солдаты подожгли дом, где прятались чеченцы.
+    Оккупанты сразу застрелили Аби Ахметову, которая вышла из огня с поднятыми руками.
+    В докладе Наблюдательной миссии российских правозащитных организаций сказано, что Юки Гайтукаева, Маду Расуев и Кесирт Расуева не смогли выбраться из горящего дома и, по-видимому, сгорели заживо(Citation: 662).
+    Миссия опубликовала поимённый список 103 человек, которых оккупанты убили в Самашках 7 и 8 апреля(Citation: 662).
+    Правозащитники «Мемориала» пишут, что не меньше половины из них российские военные убили намеренно(Citation: 27).
+
+    Пьяные российские военные 23 апреля 1995 года открыли стрельбу у магазина в центре Гудермеса, второго по величине города Ичкерии, а солдаты других российских частей приняли её за нападение и три с половиной часа стреляли в городе.
+    По счёту прокуратуры, которую Россия поставила в Грозном, оккупанты убили в тот день десятерых безоружных и ранили восьмерых(Citation: 27). 7 июля 1995 года, во время переговоров России с Ичкерией, российские военные убили в Пригородном, селе у Грозного, семерых чеченцев из семьи Чапановых, среди них детей и стариков(Citation: 27).
+    С 15 декабря 1995 года экипажи российских вертолётов расстреливали чеченцев, которые уходили от обстрелов из Гудермеса.
+    На дороге к востоку от города лётчики убили или ранили около пятнадцати человек(Citation: 27)(Citation: 656). 19-20 декабря 1995 года, снова захватив Гудермес, который за пять дней до этого освободили Вооружённые силы Ичкерии, российские солдаты обходили дома и бросали гранаты в подвалы, где прятались старики, больные и раненые.
+    Командующий оккупационными войсками Шкирко назвал 267 мирных людей, убитых в Гудермесе (подробнее: «Ложь о собственных действиях»)(Citation: 27).
+
+    Российские солдаты, которые ворвались в Серноводск, село на западе Ичкерии, 3 марта 1996 года расстреляли из бронетранспортёра троих мужчин в легковой машине и ранили четвёртого(Citation: 27). 17 марта, во время второго штурма Самашек, российские солдаты вывели из подвала во дворе на улице Калинина около 40 чеченцев, среди них 10-15 детей, и поставили их к стене.
+    Выйдя за ворота, оккупанты бросили во двор три гранаты и ранили 17 человек, из них две женщины умерли от ран(Citation: 27)(Citation: 988). 19 марта российские солдаты вывели из подвалов одного из дворов Самашек прятавшихся там чеченцев и выстроили у стены.
+    Оккупанты убили очередью из автомата чеченку Захуд Жадиеву, которая не поняла приказ «встать к стене» на русском языке(Citation: 988). 25 апреля 1996 года солдаты с российского блокпоста обстреляли автобусы, в которых из окружённого Шали вывозили женщин и детей.
+    Оккупанты ранили девять человек, из них одна женщина умерла от ран(Citation: 27)(Citation: 1395).
+    Ночью 15 июля 1996 года в северо-западном пригороде Грозного солдаты внутренних войск МВД России с двух бронетранспортёров расстреляли безоружных людей в легковых машинах и убили 12 или 13 человек.
+    Оккупанты подожгли машины и у некоторых тел отрезали уши (подробнее: «Надругательство над мёртвыми»)(Citation: 1364)(Citation: 27). 1 августа омоновцы МВД России напали на посёлок Долинский к северо-западу от Грозного и застрелили двух молодых мужчин, которые спали в машине у домов (подробнее: «Похищение людей»)(Citation: 1275). 10 августа российские солдаты, которые захватывали район Абаканской улицы в Грозном, стреляли из огнемётов в подвалы домов, не проверяя, есть ли там люди.
+    В подвале дома № 40 оккупанты сожгли 12 чеченцев из двух семей, среди них двоих детей трёх и четырёх лет и 85-летнюю женщину(Citation: 27). 19 августа 1996 года командование оккупационными войсками потребовало от всех, кто оставался в Грозном, за 48 часов покинуть город (подробнее: «Коллективные наказания»).
+    На следующий день у села Гойты к югу от Грозного экипаж российского вертолёта обстрелял беженцев, которые уезжали из столицы на автобусах и легковых машинах, и убил от десяти до двенадцати человек(Citation: 27)(Citation: 1253).
+
+    По выводу «Мемориала», российские войска намеренно нападали на гражданских всю войну, а больше всего убили бомбёжками и обстрелами(Citation: 27).
+    Тим Гульдиман, глава миссии Организации по безопасности и сотрудничеству в Европе в Грозном, писал, что в марте 1996 года его сотрудники назвали действия России в докладе руководству организации войной против гражданского населения без военной необходимости(Citation: 681).
+
+    Правозащитники «Мемориала» пишут, что Россия не вела счёт убитым ею безоружным чеченцам(Citation: 27).
+    Наблюдательная миссия расспросила 265 семей беженцев из Грозного и по их рассказам оценила, что с декабря 1994 года по март 1995 года оккупанты убили в городе 25-29 тысяч человек(Citation: 27).
+    В марте 1996 года Генеральный секретарь ООН в докладе Комиссии ООН по правам человека привёл расчёт российских правозащитных организаций: с 25 ноября 1994 года по 15 апреля 1995 года в Ичкерии от войны России погибли 26 550 гражданских, среди них 2300 детей младше 15 лет и 5050 женщин(Citation: 658).
+    В ежегодном докладе за 1996 год Human Rights Watch оценила число гражданских, убитых в Ичкерии с декабря 1994 года, от 18 500 до 80 000(Citation: 1253).
+
+    За всю войну российские военные суды осудили за убийства гражданских семерых военных (подробнее: «Безнаказанность исполнителей»)(Citation: 27).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    The occupiers killed unarmed Chechens on the roads, in houses and in cellars.
+
+    In the captured villages and towns Russian soldiers together with police officers went from house to house during "zachistkas" ("sweeps", as the Russians called the house searches and detentions of Chechens).
+    The occupiers threw grenades into cellars where families were hiding from the shelling.
+    Russian soldiers set houses on fire together with the people inside.
+    Against the walls of houses the occupiers shot unarmed Chechens, among them women and old people(Citation: 27).
+    Russian snipers fired at those who came out of houses and cellars.
+    Under sniper fire Chechen families could not collect the bodies of their relatives from the streets and bury them for several days(Citation: 656)(Citation: 659).
+
+    On 17 December 1994 the Russian military fired from armored personnel carriers at a column of refugees from Grozny at the border with Russian-controlled Ingushetia and killed ten people on the spot(Citation: 27).
+    On 22 December 1994 a Russian pilot bombed the cars that had gathered at a crossroads in Grozny, and then fired two more rockets at those who ran to help the wounded.
+    In all, the occupiers killed up to twenty people at the crossroads(Citation: 27)(Citation: 986).
+
+    In early January 1995 special forces of the 67th Brigade of Russian military intelligence blocked a mountain road along which Chechen civilians were leaving Grozny to escape the shelling.
+    The intelligence troops called in attack aircraft, and Russian pilots bombed the refugees' cars that had gathered at the roadblock(Citation: 27).
+    In Shali, a town to the southeast of Grozny, on 3 January 1995 Russian pilots dropped cluster bombs on the car market and bombed a second time those who ran to help the wounded (see: "Indiscriminate Attacks")(Citation: 27)(Citation: 986).
+    Russian servicemen who were searching yards in the settlement of Butenko on the outskirts of Grozny shot four people with assault rifles on 29 January and 3 February 1995, among them three members of the Gagayev family(Citation: 986)(Citation: 27).
+    OMON officers, SOBR fighters (police special forces) and soldiers of the Internal Troops of the Russian MVD (predecessors of today's Rosgvardia) searched houses in Petropavlovskaya, a stanitsa to the northeast of Grozny, on 3 February and killed five Chechens(Citation: 988).
+
+    In early March 1995 the Armed Forces of Ichkeria, at the insistence of the villagers, were forced to leave Samashki, a village in the west of the Chechen Republic.
+    On 7 April, after shelling, about 250 soldiers of the Sofrino Brigade of the Internal Troops of the Russian MVD, OMON officers and SOBR fighters from Moscow, the Moscow region and Orenburg stormed the village.
+    The occupiers captured Samashki after a short fight with a small group of armed Chechens from the village(Citation: 662)(Citation: 27).
+    In the evening Russian soldiers drove four men who were hiding in a storeroom into a car-repair pit in a garage and shot them with assault rifles.
+    The occupiers killed 71-year-old Musait Isayev and wounded Nasruddin Bazuyev and Salavdi Umakhanov, while Abdurakhman Chindigayev survived.
+    Salavdi Umakhanov told Oleg Orlov of Memorial on 4 August 1995: "Musa [Musait Isayev] says: 'Guys, don't shoot.
+    The cattle have to be fed...
+    Don't shoot'…
+    In an instant they gave him a burst of automatic fire from there."
+    The next day the Russian military killed the wounded Nasruddin Bazuyev and his daughter Raisa Masayeva(Citation: 27).
+
+    On 8 April, when no one in the village was resisting any longer, soldiers, OMON officers and SOBR fighters searched the houses.
+    Sadulla Yusupov, an elderly Chechen from Samashki, told Oleg Orlov of Memorial on 13 April: "At ten in the morning soldiers came running here…
+    They were screaming in inhuman voices, swearing, cursing, shouting: 'Come out, you bitches!' and they went up to every house and fired."
+    A Russian soldier fired an assault rifle into the earthen cellar where he had hidden, and a second occupier threw a grenade in and wounded him.
+    When he climbed out, Sadulla Yusupov saw the bodies of six neighbors on the street, among them two old men and a woman(Citation: 27).
+    The Russian military shot Lechi Arsayev dead from twenty meters, without trying to detain him, as he was hanging a white flag on the fence of his house.
+    On Sharipov Street Russian soldiers set fire to a house where Chechens were hiding.
+    The occupiers immediately shot Abi Akhmetova, who came out of the fire with her hands raised.
+    The report of the Observer Mission of Russian human rights organizations says that Yuki Gaitukayeva, Madu Rasuyev and Kesirt Rasuyeva could not get out of the burning house and apparently burned alive(Citation: 662).
+    The mission published a list by name of 103 people whom the occupiers killed in Samashki on 7 and 8 April(Citation: 662).
+    The human rights defenders of Memorial write that at least half of them the Russian military killed deliberately(Citation: 27).
+
+    On 23 April 1995 drunken Russian servicemen opened fire near a shop in the center of Gudermes, the second-largest town of Ichkeria, and soldiers of other Russian units took it for an attack and fired in the town for three and a half hours.
+    By the count of the prosecutor's office that Russia had installed in Grozny, the occupiers killed ten unarmed people that day and wounded eight(Citation: 27).
+    On 7 July 1995, during the talks between Russia and Ichkeria, the Russian military killed seven Chechens of the Chapanov family, among them children and old people, in Prigorodnoye, a village near Grozny(Citation: 27).
+    From 15 December 1995 the crews of Russian helicopters fired at Chechens who were leaving Gudermes to escape the shelling.
+    On the road to the east of the town the pilots killed or wounded about fifteen people(Citation: 27)(Citation: 656).
+    On 19-20 December 1995, having again captured Gudermes, which the Armed Forces of Ichkeria had liberated five days earlier, Russian soldiers went around the houses and threw grenades into cellars where old, sick and wounded people were hiding.
+    Shkirko, the commander of the occupation troops, named 267 civilians killed in Gudermes (see: "Lies about Its Own Actions")(Citation: 27).
+
+    On 3 March 1996 Russian soldiers who broke into Sernovodsk, a village in the west of Ichkeria, fired from an armored personnel carrier at three men in a car, killing them and wounding a fourth(Citation: 27).
+    On 17 March, during the second storming of Samashki, Russian soldiers led about 40 Chechens, among them 10-15 children, out of a cellar in a yard on Kalinin Street and stood them against a wall.
+    After going out of the gate, the occupiers threw three grenades into the yard and wounded 17 people, two women among them dying of their wounds(Citation: 27)(Citation: 988).
+    On 19 March Russian soldiers led the Chechens hiding in the cellars of one of the yards of Samashki out and lined them up against a wall.
+    With a burst of automatic fire the occupiers killed Zakhud Zhadiyeva, a Chechen woman who did not understand the order "stand against the wall" in Russian(Citation: 988).
+    On 25 April 1996 soldiers from a Russian checkpoint fired at buses in which women and children were being taken out of the surrounded Shali.
+    The occupiers wounded nine people, one woman among them dying of her wounds(Citation: 27)(Citation: 1395).
+    On the night of 15 July 1996 in the northwestern suburb of Grozny, soldiers of the Internal Troops of the Russian MVD fired from two armored personnel carriers at unarmed people in cars and killed 12 or 13 people.
+    The occupiers set the cars on fire and cut off the ears of some of the bodies (see: "Desecration of the Dead")(Citation: 1364)(Citation: 27).
+    On 1 August OMON officers of the Russian MVD attacked the settlement of Dolinsky to the northwest of Grozny and shot dead two young men who were sleeping in a car near the houses (see: "Abduction of People")(Citation: 1275).
+    On 10 August Russian soldiers who were capturing the area of Abakanskaya Street in Grozny fired flamethrowers into the cellars of houses without checking whether there were people inside.
+    In the cellar of house No. 40 the occupiers burned 12 Chechens from two families, among them two children aged three and four and an 85-year-old woman(Citation: 27).
+    On 19 August 1996 the command of the occupation troops demanded that everyone who remained in Grozny leave the city within 48 hours (see: "Collective Punishment").
+    The next day near the village of Goity to the south of Grozny the crew of a Russian helicopter fired at refugees who were leaving the capital in buses and cars, and killed from ten to twelve people(Citation: 27)(Citation: 1253).
+
+    Memorial concluded that Russian troops deliberately attacked civilians throughout the war and killed the most of them by bombing and shelling(Citation: 27).
+    Tim Guldimann, the head of the mission of the Organization for Security and Co-operation in Europe in Grozny, wrote that in March 1996 his staff, in a report to the organization's leadership, called Russia's actions a war against the civilian population without military necessity(Citation: 681).
+
+    The human rights defenders of Memorial write that Russia kept no count of the unarmed Chechens it killed(Citation: 27).
+    The Observer Mission questioned 265 refugee families from Grozny and, based on their accounts, estimated that from December 1994 to March 1995 the occupiers killed 25,000-29,000 people in the city(Citation: 27).
+    In March 1996 the UN Secretary-General, in a report to the UN Commission on Human Rights, cited the calculation of Russian human rights organizations: from 25 November 1994 to 15 April 1995, 26,550 civilians died in Ichkeria from Russia's war, among them 2,300 children under 15 and 5,050 women(Citation: 658).
+    In its annual report for 1996 Human Rights Watch estimated the number of civilians killed in Ichkeria since December 1994 at 18,500 to 80,000(Citation: 1253).
+
+    Over the whole war Russian military courts convicted seven servicemen for the killing of civilians (see: "Impunity of Perpetrators")(Citation: 27).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти вбивали беззбройних чеченців на дорогах, у будинках і в підвалах.
+
+    У захоплених селах і містах російські солдати з міліціонерами ходили по будинках під час «зачисток» (так росіяни називали обшуки будинків і затримання чеченців).
+    Окупанти кидали гранати в підвали, де від обстрілів ховалися сім'ї.
+    Російські солдати підпалювали будинки разом із людьми.
+    Під стінами будинків окупанти розстрілювали беззбройних чеченців, серед них жінок і старих(Citation: 27).
+    Російські снайпери стріляли по тих, хто виходив із будинків і підвалів.
+    Під вогнем снайперів чеченські сім'ї по кілька днів не могли забрати з вулиць і поховати тіла своїх родичів(Citation: 656)(Citation: 659).
+
+    Російські військові 17 грудня 1994 року розстріляли з бронетранспортерів колону біженців із Грозного біля кордону з підконтрольною Росії Інгушетією і вбили на місці десятьох людей(Citation: 27).
+    Російський льотчик 22 грудня 1994 року розбомбив легкові машини, які скупчилися на перехресті в Грозному, а потім випустив ще дві ракети по тих, хто прибіг допомагати пораненим.
+    Усього на перехресті окупанти вбили до двадцяти людей(Citation: 27)(Citation: 986).
+
+    На початку січня 1995 року спецназівці 67-ї бригади російської військової розвідки завалили гірську дорогу, якою з Грозного йшли від обстрілів мирні чеченці.
+    Розвідники викликали штурмову авіацію, і російські льотчики розбомбили машини біженців, що скупчилися біля завалу(Citation: 27).
+    У Шалі, місті на південний схід від Грозного, 3 січня 1995 року російські льотчики скинули касетні бомби на автомобільний ринок і бомбили вдруге тих, хто прибіг допомагати пораненим (докладніше: «Невибіркові напади»)(Citation: 27)(Citation: 986).
+    Російські військові, які обшукували двори в селищі Бутенко на околиці Грозного, 29 січня і 3 лютого 1995 року розстріляли з автоматів чотирьох людей, серед них трьох із сім'ї Гагаєвих(Citation: 986)(Citation: 27).
+    Омонівці, бійці СОБРу (міліцейський спецназ) і солдати внутрішніх військ МВС Росії (попередників сучасної Росгвардії) 3 лютого обшукували будинки в Петропавлівській, станиці на північний схід від Грозного, і вбили п'ятьох чеченців(Citation: 988).
+
+    На початку березня 1995 року Збройні сили Ічкерії на вимогу сільчан були змушені піти із Самашок, села на заході Чеченської Республіки. 7 квітня, після обстрілу, близько 250 солдатів Софринської бригади внутрішніх військ МВС Росії, омонівці та бійці СОБРу з Москви, Підмосков'я та Оренбурга штурмували село.
+    Окупанти захопили Самашки після короткого бою з невеликою групою озброєних чеченців із села(Citation: 662)(Citation: 27).
+    Увечері російські солдати загнали чотирьох чоловіків, які ховалися в коморі, в яму для ремонту машин у гаражі й розстріляли їх з автоматів.
+    Окупанти вбили 71-річного Мусаїта Ісаєва і поранили Насруддіна Базуєва та Салавді Умаханова, а Абдурахман Чіндігаєв вижив.
+    Салавді Умаханов 4 серпня 1995 року розповів співробітникові «Меморіалу» Олегу Орлову: «Муса [Мусаїт Ісаєв] каже: "Хлопці, не стріляйте.
+    Худобу годувати треба...
+    Не стріляйте"…
+    Умить звідти автоматну чергу йому дали».
+    Наступного дня російські військові вбили пораненого Насруддіна Базуєва та його доньку Раїсу Масаєву(Citation: 27).
+
+    8 квітня, коли в селі вже ніхто не чинив опору, солдати, омонівці та бійці СОБРу обшукували будинки.
+    Садулла Юсупов, літній чеченець із Самашок, 13 квітня розповів співробітникові «Меморіалу» Олегу Орлову: «О десятій годині ранку тут побігли солдати…
+    Вони кричали нелюдським голосом матом, матюкали, кричали: "Виходьте, суки!" і до кожного будинку підходили, стріляли».
+    Російський солдат вистрілив з автомата в земляний підвал, де він сховався, а другий окупант кинув туди гранату і поранив його.
+    Вибравшись, Садулла Юсупов побачив на вулиці тіла шістьох сусідів, серед них двох старих і жінку(Citation: 27).
+    Російські військові застрелили Лечі Арсаєва з двадцяти метрів, не намагаючись затримати, коли він вішав білий прапор на паркані свого будинку.
+    На вулиці Шаріпова російські солдати підпалили будинок, де ховалися чеченці.
+    Окупанти відразу застрелили Абі Ахметову, яка вийшла з вогню з піднятими руками.
+    У доповіді Спостережної місії російських правозахисних організацій сказано, що Юкі Гайтукаєва, Маду Расуєв і Кесірт Расуєва не змогли вибратися з палаючого будинку і, очевидно, згоріли живцем(Citation: 662).
+    Місія опублікувала поіменний список 103 людей, яких окупанти вбили в Самашках 7 і 8 квітня(Citation: 662).
+    Правозахисники «Меморіалу» пишуть, що не менше ніж половину з них російські військові вбили навмисно(Citation: 27).
+
+    П'яні російські військові 23 квітня 1995 року відкрили стрілянину біля магазину в центрі Гудермеса, другого за величиною міста Ічкерії, а солдати інших російських частин сприйняли її за напад і три з половиною години стріляли в місті.
+    За рахунком прокуратури, яку Росія поставила в Грозному, окупанти вбили того дня десятьох беззбройних і поранили вісьмох(Citation: 27). 7 липня 1995 року, під час переговорів Росії з Ічкерією, російські військові вбили в Пригородному, селі біля Грозного, сімох чеченців із сім'ї Чапанових, серед них дітей і старих(Citation: 27).
+    З 15 грудня 1995 року екіпажі російських гелікоптерів розстрілювали чеченців, які йшли від обстрілів із Гудермеса.
+    На дорозі на схід від міста льотчики вбили або поранили близько п'ятнадцяти людей(Citation: 27)(Citation: 656). 19-20 грудня 1995 року, знову захопивши Гудермес, який за п'ять днів до того звільнили Збройні сили Ічкерії, російські солдати обходили будинки й кидали гранати в підвали, де ховалися старі, хворі та поранені.
+    Командувач окупаційних військ Шкірко назвав 267 мирних людей, убитих у Гудермесі (докладніше: «Брехня про власні дії»)(Citation: 27).
+
+    Російські солдати, які увірвалися в Серноводськ, село на заході Ічкерії, 3 березня 1996 року розстріляли з бронетранспортера трьох чоловіків у легковій машині й поранили четвертого(Citation: 27). 17 березня, під час другого штурму Самашок, російські солдати вивели з підвалу у дворі на вулиці Калініна близько 40 чеченців, серед них 10-15 дітей, і поставили їх до стіни.
+    Вийшовши за ворота, окупанти кинули у двір три гранати й поранили 17 людей, із них дві жінки померли від ран(Citation: 27)(Citation: 988). 19 березня російські солдати вивели з підвалів одного з дворів Самашок чеченців, які там ховалися, і вишикували під стіною.
+    Окупанти вбили чергою з автомата чеченку Захуд Жадієву, яка не зрозуміла наказу «стати до стіни» російською мовою(Citation: 988). 25 квітня 1996 року солдати з російського блокпоста обстріляли автобуси, в яких з оточеного Шалі вивозили жінок і дітей.
+    Окупанти поранили дев'ятьох людей, із них одна жінка померла від ран(Citation: 27)(Citation: 1395).
+    Уночі 15 липня 1996 року в північно-західному передмісті Грозного солдати внутрішніх військ МВС Росії з двох бронетранспортерів розстріляли беззбройних людей у легкових машинах і вбили 12 або 13 людей.
+    Окупанти підпалили машини й у деяких тіл відрізали вуха (докладніше: «Наруга над мертвими»)(Citation: 1364)(Citation: 27). 1 серпня омонівці МВС Росії напали на селище Долинський на північний захід від Грозного і застрелили двох молодих чоловіків, які спали в машині біля будинків (докладніше: «Викрадення людей»)(Citation: 1275). 10 серпня російські солдати, які захоплювали район Абаканської вулиці в Грозному, стріляли з вогнеметів у підвали будинків, не перевіряючи, чи є там люди.
+    У підвалі будинку № 40 окупанти спалили 12 чеченців із двох сімей, серед них двох дітей трьох і чотирьох років та 85-річну жінку(Citation: 27). 19 серпня 1996 року командування окупаційних військ вимагало від усіх, хто залишався в Грозному, за 48 годин покинути місто (докладніше: «Колективні покарання»).
+    Наступного дня біля села Гойти на південь від Грозного екіпаж російського гелікоптера обстріляв біженців, які виїжджали зі столиці автобусами й легковими машинами, і вбив від десяти до дванадцяти людей(Citation: 27)(Citation: 1253).
+
+    За висновком «Меморіалу», російські війська навмисно нападали на цивільних усю війну, а найбільше вбили бомбардуваннями й обстрілами(Citation: 27).
+    Тім Гульдіман, глава місії Організації з безпеки і співробітництва в Європі в Грозному, писав, що в березні 1996 року його співробітники назвали дії Росії в доповіді керівництву організації війною проти цивільного населення без воєнної необхідності(Citation: 681).
+
+    Правозахисники «Меморіалу» пишуть, що Росія не вела рахунку вбитим нею беззбройним чеченцям(Citation: 27).
+    Спостережна місія розпитала 265 сімей біженців із Грозного і за їхніми розповідями оцінила, що з грудня 1994 року по березень 1995 року окупанти вбили в місті 25-29 тисяч людей(Citation: 27).
+    У березні 1996 року Генеральний секретар ООН у доповіді Комісії ООН з прав людини навів розрахунок російських правозахисних організацій: з 25 листопада 1994 року по 15 квітня 1995 року в Ічкерії від війни Росії загинули 26 550 цивільних, серед них 2300 дітей віком до 15 років і 5050 жінок(Citation: 658).
+    У щорічній доповіді за 1996 рік Human Rights Watch оцінила число цивільних, убитих в Ічкерії з грудня 1994 року, від 18 500 до 80 000(Citation: 1253).
+
+    За всю війну російські військові суди засудили за вбивства цивільних сімох військових (докладніше: «Безкарність виконавців»)(Citation: 27).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

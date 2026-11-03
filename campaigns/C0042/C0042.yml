@@ -1,0 +1,26 @@
+type: campaign
+id: C0042
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1718-01-01
+last_seen: 1718-12-31
+contributors: []
+name:
+  ru: Уничтожение архивов Киево-Печерской лавры (1718)
+  en: Destruction of the Archives of the Kyiv-Pechersk Lavra (1718)
+  uk: Знищення архівів Києво-Печерської лаври (1718)
+description:
+  ru: |-
+    Тайная операция (диверсия) московских посланцев, переодетых монахами, направленная на физическое уничтожение исторических архивов.
+    По свидетельствам, сохраненным киевоведом Лебединцевым, «Лавру подожгли посланцы из Москвы, одетые как монахи.
+    Сгорели огромный архив и библиотека, погибли грамоты и пожалования… князей, феодалов и гетманов»; историк Гирич подытоживает: «Огонь уничтожил письменную память о независимой украинской политической и духовной жизни Лавры»(Citation: 210).
+  en: |-
+    A covert operation (sabotage) by Muscovite emissaries disguised as monks, aimed at the physical destruction of historical archives.
+    According to testimonies preserved by the Kyiv scholar Lebedyntsev, "the Lavra was set on fire by emissaries from Moscow dressed as monks.
+    The enormous archive and library burned down; the charters and grants… of princes, magnates, and hetmans perished"; historian Hyrych sums up: "The fire destroyed the written memory of the Lavra's independent Ukrainian political and spiritual life"(Citation: 210).
+  uk: |-
+    Таємна операція (диверсія) московських посланців, переодягнених ченцями, спрямована на фізичне знищення історичних архівів.
+    За свідченнями, збереженими києвознавцем Лебединцевим, «Лавру підпалили посланці з Москви, які були одягнені як ченці.
+    Згоріли величезний архів і бібліотека, загинули грамоти і пожалування… князів, феодалів і гетьманів»; історик Гирич підсумовує: «Вогонь знищив письмову пам'ять про незалежне українське політичне і духовне життя Лаври»(Citation: 210).

@@ -1,0 +1,30 @@
+type: campaign
+id: C0041
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.2'
+people: ukrainians
+first_seen: 1817-01-01
+last_seen: 1828-12-31
+contributors: []
+name:
+  ru: Введение военных поселений и ликвидация Задунайской Сечи (1817–1828)
+  en: Introduction of Military Settlements and Liquidation of the Danubian Sich (1817–1828)
+  uk: Запровадження військових поселень і ліквідація Задунайської Січі (1817–1828)
+description:
+  ru: |-
+    Кампания по превращению свободного населения в бесправных военных поселенцев.
+    «Толчком к нему стал приказ об упразднении Бугского казацкого войска и превращении казаков в военных поселенцев»(Citation: 185) – восстание бугских казаков 1817 года было жестоко подавлено.
+    Актов было два, по разные стороны восстания: именной указ от 17 апреля 1817 года передал округ Бугского войска «в непосредственное военное управление» (ПСЗРИ, т. XXXIV, № 26.802) - он и стал толчком; указ от 8 октября 1817 года (№ 27.081), уже после подавления, оформил ликвидацию: «название Бугского казачьего войска уничтожается»(Citation: 448).
+    Позднее кошевой Гладкий с частью задунайцев «30(18) мая 1828 перешли Килийское гирло Дуная, вошли в Измаильский порт и присоединились к российской армии»(Citation: 189) – это стало концом последней вольницы: Задунайская Сечь «существовала с последней четверти 18 в. по 1828»(Citation: 189).
+  en: |-
+    A campaign to turn the free population into rightless military settlers.
+    "The trigger was the order abolishing the Buh Cossack Host and turning the Cossacks into military settlers"(Citation: 185) – the Buh Cossacks' uprising of 1817 was brutally suppressed.
+    There were two acts, on opposite sides of the uprising: the nominal decree of April 17, 1817 transferred the Buh Host's district "into direct military administration" (PSZRI, vol.
+    XXXIV, no. 26,802) - this was the trigger; the decree of October 8, 1817 (no. 27,081), issued after the suppression, formalized the liquidation: "the name of the Buh Cossack Host is abolished"(Citation: 448).
+    Later, kish otaman Hladky with part of the Danubian Cossacks "on May 30 (18), 1828 crossed the Kiliya mouth of the Danube, entered the port of Izmail, and joined the Russian army"(Citation: 189) – this was the end of the last free host: the Danubian Sich "existed from the last quarter of the 18th century until 1828"(Citation: 189).
+  uk: |-
+    Кампанія з перетворення вільного населення на безправних військових поселенців.
+    «Поштовхом до нього став наказ про скасування Бузького козацького війська і перетворення козаків на військ. поселенців»(Citation: 185) – повстання бузьких козаків 1817 року було жорстоко придушене.
+    Актів було два, по різні боки повстання: іменний указ від 17 квітня 1817 року передав округ Бузького війська «в безпосереднє військове управління» (ПСЗРІ, т. XXXIV, № 26.802) - він і став поштовхом; указ від 8 жовтня 1817 року (№ 27.081), уже після придушення, оформив ліквідацію: «назва Бузького козачого війська знищується»(Citation: 448).
+    Пізніше кошовий Гладкий із частиною задунайців «30(18) трав. 1828 перейшли Кілійське гирло Дунаю, увійшли до Ізмаїльського порту й приєдналися до рос. армії»(Citation: 189) – це стало кінцем останньої вольниці: Задунайська Січ «існувала з останньої чв. 18 ст. по 1828»(Citation: 189).

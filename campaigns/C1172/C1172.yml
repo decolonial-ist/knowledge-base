@@ -1,0 +1,48 @@
+type: campaign
+id: C1172
+created: 2026-08-03
+modified: 2026-09-18
+version: '1.2'
+people: nokhchi
+first_seen: 1877-04-13
+first_seen_citation:
+- '251'
+last_seen: 1878-05-31
+contributors: []
+name:
+  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
+  en: '"Mow Down Everything, Beat and Hang Without Mercy": Suppression of the 1877 Uprising and the Executions in Grozny (1877-1878)'
+  uk: '«Косіть усе, бийте і вішайте нещадно»: придушення повстання 1877 року і страти в Грозному (1877-1878)'
+description:
+  ru: |-
+    Восстание 1877 года - историки Я. З. Ахмадов и Э. Х. Хасмагомадов называют его крестьянской войной - империя подавляла истреблением всего, что могло поддержать восставших.
+    Методы сформулировала историк А. И. Исмаилова: «Сжигание аулов, высылка населения, уничтожение посевов - вот основные методы борьбы, которые царское командование применяет с беспощадной последовательностью»(Citation: 253).
+    Характер приказов задал Свистунов, начальник Терской области, - в его распоряжениях генералу Смекалову, по историку А. И. Исмаиловой, неизменно повторялось требование: «Ради бога, только не отходите назад, а продвигайтесь хотя понемногу вперед, беспощадно уничтожая перед собой все и всех...
+    Силы наши все будут прибывать; только без сожаления косите все, бейте и вешайте беспощадно»(Citation: 253).
+    Принцип наказания сформулировал наместник докладной запиской: «чтобы наказание распространялось не на одних только ищущих подвига самопожертвования фанатиков, а и на окружающую их виновную среду, чтобы страхом неизбежного общего наказания... побудить массу противодействовать»(Citation: 251).
+    Ответ народа записала та же имперская сторона - жители Мехкетов отказали начальнику Терской области в выдаче Умы Дуева, руководителя восстания в горной Чечне, под угрозой выселения аула: «...от народа следует требовать только возможного.
+    Ты знаешь, как нам трудно расстаться с могилами отцов и родиной, но мы беспрекословно покоряемся.
+    Выдать же Уму не можем.
+    Он был наш гость»(Citation: 125).
+  en: |-
+    The uprising of 1877 - historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov call it a peasant war - was suppressed by the empire through the annihilation of everything that could sustain the insurgents.
+    The methods were summed up by historian A. I. Ismailova: "The burning of auls, the deportation of the population, the destruction of crops - these are the main methods of struggle that the tsarist command applies with merciless consistency"(Citation: 253).
+    The tone of the orders was set by Svistunov, head of the Terek oblast - in his instructions to General Smekalov, according to historian A. I. Ismailova, one demand was invariably repeated: "For God's sake, just do not fall back, but advance at least little by little, mercilessly destroying everything and everyone before you...
+    Our forces will keep arriving; just mow down everything without pity, beat and hang without mercy"(Citation: 253).
+    The principle of punishment was formulated by the viceroy in a memorandum: "so that punishment falls not only upon the fanatics seeking the feat of self-sacrifice, but also upon the guilty milieu surrounding them, so that by the fear of inevitable collective punishment... the mass is induced to counteract them"(Citation: 251).
+    The people's answer was recorded by the same imperial side - the inhabitants of Mekhkety refused the head of the Terek oblast, who threatened to deport the aul, the surrender of Uma Duev, leader of the uprising in mountain Chechnya: "...only the possible should be demanded of a people.
+    You know how hard it is for us to part with the graves of our fathers and with our homeland, yet we submit without protest.
+    But we cannot hand over Uma.
+    He was our guest"(Citation: 125).
+  uk: |-
+    Повстання 1877 року - історики Я. З. Ахмадов і Е. Х. Хасмагомадов називають його селянською війною - імперія придушувала винищенням усього, що могло підтримати повстанців.
+    Методи сформулювала історик А. І. Ісмаїлова: «Спалення аулів, виселення населення, знищення посівів - ось основні методи боротьби, які царське командування застосовує з нещадною послідовністю»(Citation: 253).
+    Характер наказів задав Свистунов, начальник Терської області, - у його розпорядженнях генералові Смєкалову, за істориком А. І. Ісмаїловою, незмінно повторювалася вимога: «Заради бога, тільки не відходьте назад, а просувайтеся хоч потроху вперед, нещадно знищуючи перед собою все і всіх...
+    Сили наші все прибуватимуть; тільки без жалю косіть усе, бийте і вішайте нещадно»(Citation: 253).
+    Принцип покарання сформулював намісник доповідною запискою: «щоб покарання поширювалося не на самих лише фанатиків, які шукають подвигу самопожертви, а й на винне середовище довкола них, щоб страхом неминучого загального покарання... спонукати масу протидіяти»(Citation: 251).
+    Відповідь народу записала та сама імперська сторона - жителі Мехкетів відмовили начальникові Терської області у видачі Уми Дуєва, керівника повстання в гірській Чечні, під загрозою виселення аулу: «...від народу слід вимагати тільки можливого.
+    Ти знаєш, як нам важко розлучитися з могилами батьків і батьківщиною, але ми беззаперечно підкоряємося.
+    Видати ж Уму не можемо.
+    Він був наш гість»(Citation: 125).

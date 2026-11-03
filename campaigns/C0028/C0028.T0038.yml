@@ -1,0 +1,14 @@
+type: procedure
+id: C0028.T0038
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.0'
+technique: T0038
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Встраивание финансов автономии в имперскую систему: доходы от индукты (пошлины с импортных товаров) «должны были передаваться в царскую казну»(Citation: 196), а войсковой казной заведовали два генеральных подскарбия – украинец и назначенный россиянин.'
+  en: 'Embedding the autonomy''s finances into the imperial system: the revenues from the indukta (duty on imported goods) "were to be transferred to the tsar''s treasury"(Citation: 196), while the host treasury was managed by two general treasurers – a Ukrainian and an appointed Russian.'
+  uk: 'Вбудовування фінансів автономії в імперську систему: доходи від індукти (мита з імпортних товарів) «мали передаватися до царської скарбниці»(Citation: 196), а військовою скарбницею завідували два генеральні підскарбії – українець і призначений росіянин.'

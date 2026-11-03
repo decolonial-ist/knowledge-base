@@ -1,0 +1,26 @@
+type: procedure
+id: C1144.T0077
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя посылала войска разорять нохчийские селения и сгонять их жителей с земли.
+    Историк Д. А. Хожаев пишет, что при Ермолове «стали правилом позорившие русское оружие жестокие карательные набеги на мирные кавказские аулы, с уничтожением населения, домов, посевов, садов и лесов, угоном скота и разграблением имущества»(Citation: 95).
+    Генерал Ермолов в своих «Записках» пишет, что тридцатого сентября 1819 года «сам пошёл с 6-ю баталионами и 16-ю орудиями артиллерии к деревням Качкалыкским» и второго октября атаковал «деревню Горячевскую, сильнейшую из них», а генерал-майор Сысоев одновременно вторгся со стороны Грозной через Хан-Кале, оттягивая на себя силы чеченцев с качкалыкской плоскости(Citation: 96).
+    Имперский историк Потто подтверждает, что апшеронцы «ворвались в аул и предали его пламени»(Citation: 75).
+  en: |-
+    The Russian Empire sent troops to lay waste to Nokhchi villages and drive their inhabitants off the land.
+    Historian D. A. Khozhaev writes that under Yermolov “cruel punitive raids on peaceful Caucasian auls, disgracing Russian arms, with the destruction of the population, houses, crops, orchards, and forests, the driving off of livestock, and the plundering of property, became the rule”(Citation: 95).
+    General Yermolov writes in his “Notes” that on September 30, 1819, he “went in person with 6 battalions and 16 artillery pieces toward the Kachkalyk villages” and on October 2 attacked “the village of Goryachevskaya, the strongest of them,” while Major General Sysoyev simultaneously invaded from the direction of Groznaya through Khan-Kale, drawing the Chechens’ forces away from the Kachkalyk plain(Citation: 96).
+    The imperial historian Potto confirms that the Apsheron men “burst into the aul and consigned it to the flames”(Citation: 75).
+  uk: |-
+    Російська імперія посилала війська розоряти нохчійські селища та зганяти їхніх жителів із землі.
+    Історик Д. А. Хожаєв пише, що за Єрмолова «стали правилом жорстокі каральні набіги на мирні кавказькі аули, що ганьбили російську зброю, зі знищенням населення, будинків, посівів, садів і лісів, викраденням худоби та розграбуванням майна»(Citation: 95).
+    Генерал Єрмолов у своїх «Записках» пише, що тридцятого вересня 1819 року «сам пішов із 6-ма батальйонами та 16-ма гарматами артилерії до селищ Качкаликських» і другого жовтня атакував «селище Горячевське, найсильніше з них», а генерал-майор Сисоєв одночасно вторгся з боку Грозної через Хан-Кале, відтягуючи на себе сили Чеченців із качкаликської рівнини(Citation: 96).
+    Імперський історик Потто підтверджує, що апшеронці «увірвалися в аул і віддали його полум’ю»(Citation: 75).

@@ -1,0 +1,22 @@
+type: technique
+id: T0138
+created: 2026-04-27
+modified: 2026-08-30
+version: '1.3'
+tactics:
+- TA0004
+name:
+  ru: Ядерный шантаж
+  en: Nuclear Blackmail
+  uk: Ядерний шантаж
+contributors: []
+description:
+  ru: |-
+    Агрессоры используют угрозу применения ядерного оружия или создают риски радиационной катастрофы (путем военного захвата атомных электростанций).
+    Это делается для запугивания мирового сообщества, сдерживания внешней помощи и принуждения государства-жертвы к капитуляции(Citation: 2).
+  en: |-
+    Aggressors use the threat of nuclear weapons or create risks of a radiation disaster (through the military seizure of nuclear power plants).
+    This is done to intimidate the international community, deter external assistance, and coerce the victim state into capitulation(Citation: 2).
+  uk: |-
+    Агресори використовують загрозу застосування ядерної зброї або створюють ризики радіаційної катастрофи (шляхом воєнного захоплення атомних електростанцій).
+    Це робиться для залякування світової спільноти, стримування зовнішньої допомоги та примушення держави-жертви до капітуляції(Citation: 2).

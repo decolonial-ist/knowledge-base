@@ -1,0 +1,23 @@
+type: procedure
+id: C1150.T0131
+created: 2026-07-02
+modified: 2026-07-02
+version: '1.0'
+technique: T0131
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Весной 1829 главнокомандующий Паскевич выстроил управление Чечнёй через намеренное поддержание раскола народа на две соперничающие партии - шамхальскую и бейбулатовскую.
+    В предписании командующему войсками на Кавказской линии Эмануэлю от 16 мая 1829 Паскевич писал: «не безполезно нам иметь в Чечне две партии, которые, оставаясь обе покорными правительству нашему, междоусобными раздорами будут воздерживаться от враждебных замыслов против Русских»(Citation: 104).
+    Для этого он разослал нарочных (гонцов со специальным поручением) к старшинам бейбулатовской партии, предписал начальнику левого фланга Кавказской линии Энгельгардту «способствовать, сколько можно» их вызову, а положением от 2 августа 1829 поставил над чеченцами комиссаром сына шамхала Тарковского(Citation: 104).
+  en: |-
+    In the spring of 1829, Commander-in-Chief Paskevich built the governance of Chechnya through the deliberate maintenance of a split of the people into two rival parties — the Shamkhal party and the Beibulat party.
+    In his instruction of May 16, 1829 to Emanuel, commander of the troops on the Caucasian Line, Paskevich wrote: "it is not without use for us to have two parties in Chechnya which, both remaining obedient to our government, will through internecine strife be restrained from hostile designs against the Russians"(Citation: 104).
+    To this end he dispatched couriers (messengers with a special commission) to the elders of the Beibulat party, instructed Engelhardt, commander of the left flank of the Caucasian Line, to "assist as far as possible" in summoning them, and by the regulation of August 2, 1829 placed the son of the Shamkhal of Tarki over the Chechens as commissar(Citation: 104).
+  uk: |-
+    Навесні 1829 року головнокомандувач Паскевич вибудував управління Чечнею через навмисне підтримування розколу народу на дві суперницькі партії — шамхальську та бейбулатівську.
+    У приписі командувачеві військ на Кавказькій лінії Емануелю від 16 травня 1829 року Паскевич писав: «не без користі нам мати в Чечні дві партії, які, залишаючись обидві покірними урядові нашому, міжусобними чварами утримуватимуться від ворожих замислів проти Росіян»(Citation: 104).
+    Для цього він розіслав нарочних (гінців зі спеціальним дорученням) до старшин бейбулатівської партії, приписав начальникові лівого флангу Кавказької лінії Енгельгардтові «сприяти, скільки можна» їхньому виклику, а положенням від 2 серпня 1829 року поставив над Чеченцями комісаром сина шамхала Тарковського(Citation: 104).

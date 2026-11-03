@@ -1,0 +1,29 @@
+type: technique
+id: T0165
+created: 2026-08-06
+modified: 2026-09-24
+version: '1.1'
+tactics:
+- TA0004
+name:
+  ru: Неизбирательные нападения
+  en: Indiscriminate Attacks
+  uk: Невибіркові напади
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут вести неизбирательные нападения на места, где живут люди: бить по городу или селу как по единой цели, обрушивать на жилые кварталы удары, не направленные на конкретный военный объект, применять оружие, которое невозможно нацелить или ограничить в последствиях, - от площадных бомбардировок до кассетных и объёмно-детонирующих боеприпасов.
+    Эта техника описывает сам удар - его цель, оружие и число убитых им; расправы над людьми как таковыми и общий итог истребления населения описывает техника «Массовые убийства гражданских».
+    Дополнительный протокол I запрещает нападения, «которые не направлены на конкретные военные объекты», методы или средства, «которые не могут быть направлены на конкретные военные объекты» либо «последствия которых не могут быть ограничены» (статья 51; обычные нормы 11-13 свода МККК); ещё Гаагское положение воспрещало «атаковать или бомбардировать каким бы то ни было способом незащищённые города, селения, жилища» (статья 25), а Римский статут криминализует нападения на незащищённые поселения и заведомо несоразмерный удар (статьи 8(2)(b)(v) и 8(2)(b)(iv)).
+    Европейский суд по правам человека признал применение тяжёлых неуправляемых бомб в населённом пункте несовместимым с должной осторожностью и нарушением права на жизнь (Исаева против России, 2005, § 191).
+  en: |-
+    Aggressors may carry out indiscriminate attacks on places where people live: strike a town or village as a single target, bring down on residential areas blows directed at no specific military objective, use weapons that cannot be aimed or whose effects cannot be limited - from area bombardment to cluster and thermobaric munitions.
+    This technique describes the strike itself - its target, its weapon and the number of people it killed; massacres of people as such and the overall toll of the extermination of a population are described by the technique "Mass Killings of Civilians".
+    Additional Protocol I prohibits attacks "which are not directed at a specific military objective" and methods or means "which cannot be directed at a specific military objective" or "the effects of which cannot be limited" (Article 51; customary Rules 11-13 of the ICRC study); the Hague Regulations already forbade "the attack or bombardment, by whatever means, of towns, villages, dwellings, or buildings which are undefended" (Article 25), and the Rome Statute criminalizes attacks on undefended settlements and knowingly disproportionate strikes (Articles 8(2)(b)(v) and 8(2)(b)(iv)).
+    The European Court of Human Rights has held that the use of heavy unguided bombs in a populated area is impossible to reconcile with the required degree of caution and violates the right to life (Isayeva v.
+    Russia, 2005, § 191).
+  uk: |-
+    Агресори можуть вести невибіркові напади на місця, де живуть люди: бити по місту чи селу як по єдиній цілі, обрушувати на житлові квартали удари, не спрямовані на конкретний воєнний об'єкт, застосовувати зброю, яку неможливо навести або обмежити в наслідках, - від площадних бомбардувань до касетних і об'ємно-детонуючих боєприпасів.
+    Ця техніка описує сам удар - його ціль, зброю і число вбитих ним; розправи над людьми як такими та загальний підсумок винищення населення описує техніка «Масові вбивства цивільних».
+    Додатковий протокол I забороняє напади, «які не спрямовані на конкретні воєнні об'єкти», методи або засоби, «які не можуть бути спрямовані на конкретні воєнні об'єкти» або «наслідки яких не можуть бути обмежені» (стаття 51; звичаєві норми 11-13 зводу МКЧХ); ще Гаазьке положення забороняло «атакувати або бомбардувати будь-яким способом незахищені міста, селища, житла» (стаття 25), а Римський статут криміналізує напади на незахищені поселення і завідомо неспівмірний удар (статті 8(2)(b)(v) і 8(2)(b)(iv)).
+    Європейський суд з прав людини визнав застосування важких некерованих бомб у населеному пункті несумісним із належною обережністю і порушенням права на життя (Ісаєва проти Росії, 2005, § 191).

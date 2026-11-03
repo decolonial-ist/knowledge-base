@@ -1,0 +1,33 @@
+type: procedure
+id: C1022.T0015
+created: 2026-08-04
+modified: 2026-08-04
+version: '1.0'
+technique: T0015
+people: nokhchi
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Генерал Кундухов, до того сам начальник Чеченского округа, получил от наместника «весьма деликатное задание – провести неофициальные переговоры с турецким правительством об осуществлении массового переселения чеченцев» и письменное предписание «приступить к возбуждению в среде чеченского населения стремления к уходу в Турцию»(Citation: 125).
+    На агитацию он получил из казны 5 тысяч рублей(Citation: 125); историк З. Х. Ибрагимова пишет о 10 тысячах «для «негласного вознаграждения» трёх или четырёх личностей, наиболее популярных среди населения, т.е. для подкупа влиятельных лиц»(Citation: 251); лично Кундухову выплачено 45 тысяч рублей «якобы за оставленное в России имущество» при общих расходах казны более 130 тысяч(Citation: 125).
+    Сам Кундухов описал в мемуарах вербовку чеченской верхушки в феврале 1865 года: пригласив наиба (поставленного властью управляющего округом) Малой Чечни Садуллу Османова (в других источниках - Саадула Осмаев) и старшину карабулакского общества Цугова, он добился того, что «Они все без малейшего возражения согласились переселиться... и поклялись готовиться к переселению»(Citation: 95).
+    Османов не был назначенцем со стороны: в сводном списке наибов имамата он стоит как «Саадулла Османов из Нихалоя (наиб Малой Чечни)»(Citation: 125) - человек, воевавший вместе с Шамилём, за имперское жалованье и землю погнал свой народ в Турцию.
+    Цена покупки видна на нём же: наибством он управлял восемь лет, за службу получил 550 десятин земли, дал клятву на Коране содействовать переселению «до конца» и обязался вести вторую волну уходящих - идти впереди первых было условием выплаты вознаграждения(Citation: 251).
+    Работал он так, что даже начальник Терской области генерал Лорис-Меликов признавал: наиб «перегибает палку», распуская превратные слухи, и хотел поскорее избавиться от слишком запальчивого агитатора(Citation: 251).
+  en: |-
+    General Kundukhov, until then himself head of the Chechen okrug, received from the Viceroy "a most delicate assignment – to conduct unofficial negotiations with the Turkish government on carrying out a mass resettlement of the Chechens" and a written instruction "to proceed to arouse among the Chechen population a striving to leave for Turkey"(Citation: 125).
+    For the agitation he received 5 thousand rubles from the treasury(Citation: 125); the historian Z. Kh.
+    Ibragimova writes of 10 thousand "for the 'discreet remuneration' of three or four persons most popular among the population, that is, for bribing influential figures"(Citation: 251); Kundukhov personally was paid 45 thousand rubles "ostensibly for property left behind in Russia," with the treasury's total expenses exceeding 130 thousand(Citation: 125).
+    Kundukhov himself described in his memoirs the recruitment of the Chechen leadership in February 1865: having invited the naib (an administrator of a district installed by the authorities) of Lesser Chechnya Sadulla Osmanov (in other sources - Saadula Osmayev) and the elder of the Karabulak society Tsugov, he achieved that "They all agreed to resettle without the slightest objection... and swore to prepare for resettlement"(Citation: 95).
+    Osmanov was no outside appointee: in the consolidated list of the Imamate's naibs he stands as "Saadulla Osmanov of Nikhaloy (naib of Lesser Chechnya)"(Citation: 125) - a man who had fought alongside Shamil, and who for an imperial salary and land drove his own people to Turkey.
+    The price of the purchase is visible on him too: he governed his naibstvo for eight years, received 550 desiatinas of land for his service, swore on the Quran to assist the resettlement "to the end" and undertook to lead the second wave of those departing - going ahead of the first was a condition of payment of the reward(Citation: 251).
+    He worked in such a way that even the head of the Terek oblast, General Loris-Melikov, admitted the naib was "overdoing it," spreading distorted rumours, and wanted to rid himself as soon as possible of the too-hotheaded agitator(Citation: 251).
+  uk: |-
+    Генерал Кундухов, до того сам начальник Чеченського округу, отримав від намісника «вельми делікатне завдання – провести неофіційні переговори з турецьким урядом про здійснення масового переселення чеченців» і письмовий припис «розпочати збудження серед чеченського населення прагнення до відходу в Туреччину»(Citation: 125).
+    На агітацію він отримав зі скарбниці 5 тисяч рублів(Citation: 125); історик З. Х. Ібрагімова пише про 10 тисяч «для «негласної винагороди» трьох чи чотирьох осіб, найпопулярніших серед населення, тобто для підкупу впливових осіб»(Citation: 251); особисто Кундухову виплачено 45 тисяч рублів «нібито за залишене в Росії майно» за загальних витрат скарбниці понад 130 тисяч(Citation: 125).
+    Сам Кундухов описав у мемуарах вербування чеченської верхівки в лютому 1865 року: запросивши наїба (поставленого владою управителя округу) Малої Чечні Садуллу Османова (в інших джерелах - Саадула Осмаєв) і старшину карабулацького товариства Цугова, він домігся того, що «Вони всі без найменшого заперечення погодилися переселитися... і поклялися готуватися до переселення»(Citation: 95).
+    Османов не був призначенцем зі сторони: у зведеному списку наїбів імамату він стоїть як «Саадулла Османов з Ніхалоя (наїб Малої Чечні)»(Citation: 125) - людина, що воювала разом із Шамілем, а за імперську платню і землю погнала свій народ до Туреччини.
+    Ціну купівлі видно на ньому ж: наїбством він управляв вісім років, за службу отримав 550 десятин землі, дав клятву на Корані сприяти переселенню «до кінця» і зобов'язався вести другу хвилю тих, хто йде, - іти попереду перших було умовою виплати винагороди(Citation: 251).
+    Працював він так, що навіть начальник Терської області генерал Лорис-Меліков визнавав: наїб «перегинає палицю», розпускаючи перекручені чутки, і хотів якнайшвидше позбутися занадто запального агітатора(Citation: 251).

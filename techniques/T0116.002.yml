@@ -1,0 +1,23 @@
+type: technique
+id: T0116.002
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+parent: T0116
+tactics:
+- TA0005
+name:
+  ru: Навязывание календаря праздников метрополии
+  en: Imposition of the Metropole's Holiday Calendar
+  uk: Нав'язування календаря свят метрополії
+contributors: []
+description:
+  ru: |-
+    В рамках религиозной ассимиляции агрессоры могут принудительно заменять традиционный духовный, памятный или сельскохозяйственный календарь коренного народа на праздничные циклы метрополии.
+    Искоренение локальных памятных дат и синхронизация времени с метрополией позволяет агрессору полностью переформатировать бытовой ритм жизни местного населения и встроить его в свою государственно-идеологическую матрицу.
+  en: |-
+    As part of religious assimilation, aggressors may forcibly replace the traditional spiritual, commemorative, or agricultural calendar of an indigenous people with the festive cycles of the metropole.
+    Eradicating local commemorative dates and synchronizing time with the metropole allows the aggressor to completely reformat the everyday rhythm of the local population's life and embed it into its own state-ideological matrix.
+  uk: |-
+    У межах релігійної асиміляції агресори можуть примусово замінювати традиційний духовний, пам'ятний чи сільськогосподарський календар корінного народу на святкові цикли метрополії.
+    Викорінення локальних пам'ятних дат і синхронізація часу з метрополією дозволяє агресору повністю переформатувати побутовий ритм життя місцевого населення та вбудувати його у власну державно-ідеологічну матрицю.

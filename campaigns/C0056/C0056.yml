@@ -1,0 +1,23 @@
+type: campaign
+id: C0056
+created: 2026-04-25
+modified: 2026-08-01
+version: '1.2'
+people: ukrainians
+first_seen: 1829-01-01
+last_seen: 1829-12-31
+contributors: []
+name:
+  ru: Подавление Шебелинского восстания (1829)
+  en: Suppression of the Shebelynka Uprising (1829)
+  uk: Придушення Шебелинського повстання (1829)
+description:
+  ru: |-
+    Силовое подавление массового антикрепостнического восстания на Слобожанщине, вспыхнувшего в системе военных поселений: «Подневольное положение жителей военных поселений вызвало восстание бугских казаков 1817, Чугуевское восстание 1819, Шебелинское восстание 1829 и др.»(Citation: 185).
+    Масштаб зафиксирован ЕИУ: «В Шебелинку собрались до 3 тыс. крестьян», а «30 мая 1829 началась кровавая расправа над непокорными, во время которой погибли 109 человек»(Citation: 334).
+  en: |-
+    The forcible suppression of a mass anti-serfdom uprising in Sloboda Ukraine that broke out within the system of military settlements: "The servile condition of the military settlements' inhabitants caused the Buh Cossacks' uprising of 1817, the Chuhuiv uprising of 1819, the Shebelynka uprising of 1829, and others"(Citation: 185).
+    The scale is recorded by the EHU: "Up to 3 thousand peasants gathered in Shebelynka," and "on May 30, 1829 a bloody reprisal against the defiant began, during which 109 people died"(Citation: 334).
+  uk: |-
+    Силове придушення масового антикріпосницького повстання на Слобожанщині, що спалахнуло в системі військових поселень: «Підневільне становище мешканців В[ійськових] п[оселень] спричинило Бузьких козаків повстання 1817, Чугуївське повстання 1819, Шебелинське повстання 1829 та ін.»(Citation: 185).
+    Масштаб зафіксовано ЕІУ: «У Шебелинку зібралися до 3 тис. селян», а «30 травня 1829 розпочалася кривава розправа над непокірними, під час якої загинули 109 осіб»(Citation: 334).

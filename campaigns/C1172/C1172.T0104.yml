@@ -1,0 +1,25 @@
+type: procedure
+id: C1172.T0104
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут о командах «охотников»: «милиционеры имели приказ убивать не только скрывающихся абреков, но и любого жителя, направлявшегося из своего селения в лес.
+    В качестве вознаграждения за каждого убитого или пойманного в лесу человека власти выплачивали 25 рублей» (абрек - имперский ярлык горца вне закона)(Citation: 125); за руководителей назначены отдельные суммы - «за Алибека-хаджи - несколько тысяч рублей»(Citation: 125).
+    Пленных полагалось убивать при попытке их отбить - и это исполнялось: «при нападении повстанцев на отряд, сопровождавший в Веденскую крепость 135 арестованных жителей селения Мехкеты, солдатами было убито до 20 мехкетинцев»(Citation: 125).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write about the teams of "hunters": "the militiamen had orders to kill not only abreks in hiding, but any inhabitant heading from his village into the forest.
+    As a reward for every person killed or caught in the forest the authorities paid 25 rubles" (abrek - the empire's label for a highlander it had outlawed)(Citation: 125); separate sums were set for the leaders - "for Alibek-Haji - several thousand rubles"(Citation: 125).
+    Captives were to be killed if an attempt was made to free them - and this was carried out: "during an attack by the insurgents on the detachment escorting 135 arrested inhabitants of the village of Mekhkety to the Vedeno fortress, the soldiers killed up to 20 Mekhkety villagers"(Citation: 125).
+  uk: |-
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть про команди «охотників»: «міліціонери мали наказ убивати не тільки абреків, що переховувалися, а й будь-якого жителя, який прямував зі свого селища до лісу.
+    Як винагороду за кожну вбиту або спійману в лісі людину влада виплачувала 25 рублів» (абрек - імперське тавро горця поза законом)(Citation: 125); за керівників призначено окремі суми - «за Алібека-Хаджі - кілька тисяч рублів»(Citation: 125).
+    Полонених належало вбивати при спробі їх відбити - і це виконувалося: «під час нападу повстанців на загін, що супроводжував до Веденської фортеці 135 заарештованих жителів селища Мехкети, солдатами було вбито до 20 мехкетинців»(Citation: 125).

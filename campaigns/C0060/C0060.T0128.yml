@@ -1,0 +1,20 @@
+type: procedure
+id: C0060.T0128
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0128
+people: ukrainians
+actor: G0009
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Уничтожение первой политической организации украинской интеллигенции по доносу студента Петрова в тайную полицию: «В марте 1847 общество было разгромлено жандармами.
+    Полиции удалось выявить 12 членов законспирированной организации»(Citation: 192).
+  en: |-
+    The destruction of the first political organization of the Ukrainian intelligentsia following student Petrov's denunciation to the secret police: "In March 1847 the society was crushed by the gendarmes.
+    The police managed to identify 12 members of the clandestine organization"(Citation: 192).
+  uk: |-
+    Знищення першої політичної організації української інтелігенції за доносом студента Петрова до таємної поліції: «В берез. 1847 т-во було розгромлене жандармами.
+    Поліції вдалося виявити 12 чл. законспірованої орг-ції»(Citation: 192).

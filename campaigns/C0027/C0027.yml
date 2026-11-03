@@ -1,0 +1,23 @@
+type: campaign
+id: C0027
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1711-01-01
+last_seen: 1711-05-31
+contributors: []
+name:
+  ru: Поход Пилипа Орлика на Правобережье (1711)
+  en: Pylyp Orlyk's Campaign in Right-Bank Ukraine (1711)
+  uk: Похід Пилипа Орлика на Правобережжя (1711)
+description:
+  ru: |-
+    Военно-дипломатическая попытка восстановить независимость Украины силами эмиграции при поддержке союзников.
+    Кампания провалилась из-за удара в спину: «татары, не слушаясь Орлика, рассыпались загонами и стали набирать яссыр по украинским селам»(Citation: 156).
+  en: |-
+    A military-diplomatic attempt to restore Ukraine's independence by the forces of the emigration with the support of allies.
+    The campaign failed because of a stab in the back: "the Tatars, disobeying Orlyk, scattered in raiding parties and began taking yasyr captives across Ukrainian villages"(Citation: 156).
+  uk: |-
+    Військово-дипломатична спроба відновити незалежність України силами еміграції за підтримки союзників.
+    Кампанія провалилася через удар у спину: «татари, не слухаючись Орлика, розсипалися загонами і стали набирати ясир по українських селах»(Citation: 156).

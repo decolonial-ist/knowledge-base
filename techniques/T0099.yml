@@ -1,0 +1,26 @@
+type: technique
+id: T0099
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+- TA0004
+name:
+  ru: Захват заложников
+  en: Hostage-Taking
+  uk: Захоплення заручників
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять насильственный захват и удержание гражданских лиц или некомбатантов.
+    Эти действия применяются для оперативной нейтрализации защиты (шантаж сил сопротивления, прикрытие войск).
+    На этапе закрепления эта техника может институционализироваться в систему изъятия представителей элит и высокопоставленных лиц (система «аманатства»), удержание которых служит государственным гарантом лояльности местного населения и предотвращения антиколониальных бунтов.
+  en: |-
+    Aggressors may carry out the forcible capture and detention of civilians or non-combatants.
+    These actions are used for the operational neutralization of defenses (blackmailing resistance forces, shielding troops).
+    At the consolidation stage, this technique may become institutionalized as a system of taking members of the elites and high-ranking figures (the “amanat” system), whose detention serves as the state's guarantee of the local population's loyalty and of the prevention of anti-colonial revolts.
+  uk: |-
+    Агресори можуть здійснювати насильницьке захоплення та утримання цивільних осіб або некомбатантів.
+    Ці дії застосовуються для оперативної нейтралізації захисту (шантаж сил опору, прикриття військ).
+    На етапі закріплення ця техніка може інституціоналізуватися в систему вилучення представників еліт і високопосадовців (система «аманатства»), утримання яких слугує державним гарантом лояльності місцевого населення та запобігання антиколоніальним бунтам.

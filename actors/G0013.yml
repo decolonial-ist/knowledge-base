@@ -1,0 +1,26 @@
+type: actor
+id: G0013
+created: 2026-04-27
+modified: 2026-08-09
+version: '1.1'
+name:
+  ru: Советская Россия (РСФСР)
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+contributors: []
+associated_groups:
+- Российская республика
+- СССР
+description:
+  ru: |-
+    Государство, образованное в результате большевистского переворота в ноябре 1917 года (официальное название с июля 1918 года — Российская Социалистическая Федеративная Советская Республика).
+    Выступало главным актором военной экспансии, гибридной войны и колониального поглощения УНР в 1917–1922 годах.
+    В декабре 1922 года стало соучредителем и основной частью СССР.
+  en: |-
+    A state formed as a result of the Bolshevik coup in November 1917 (official name from July 1918: the Russian Socialist Federative Soviet Republic).
+    It acted as the principal actor of military expansion, hybrid war, and the colonial absorption of the Ukrainian People's Republic (UNR) in 1917–1922.
+    In December 1922 it became a co-founder and the core part of the USSR.
+  uk: |-
+    Держава, утворена внаслідок більшовицького перевороту в листопаді 1917 року (офіційна назва з липня 1918 року — Російська Соціалістична Федеративна Радянська Республіка).
+    Виступала головним актором воєнної експансії, гібридної війни та колоніального поглинання УНР у 1917–1922 роках.
+    У грудні 1922 року стала співзасновницею та основною частиною СРСР.

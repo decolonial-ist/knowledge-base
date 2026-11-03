@@ -1,0 +1,24 @@
+type: procedure
+id: C1164.T0099
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Подавляя восстание 1840 года, имперские войска продолжали забирать заложников (аманат - человек, которого империя забирала из семьи или общины как заложника; угроза расправы над взятым держала родных и весь аул в подчинении). 15 марта 1840 года генерал Пулло, командовавший левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), взял заложников в ауле Алды у крепости Грозной - капитан Пушкин доносил начальнику штаба войск Кавказской линии Траскину: «ген. Пулло... вошел туда сам и взял новых пять аманатов»(Citation: 126).
+    «Условия, предписываемые покоряющимся горцам», изданные генералом Граббе, командующим войсками Кавказской линии, 15 июня 1840 года, открываются требованием заложников: «Немедленно выдать аманатов от этих аулов.
+    Командующий войсками предоставляет себе назначить, сколько и из каких фамилий означенные аманаты должны быть выданы» - и замыкаются угрозой: «аманаты непокорных аулов ссылаются в Сибирь»(Citation: 126).
+  en: |-
+    While suppressing the uprising of 1840, the imperial troops kept taking hostages (amanat - a person whom the empire took from a family or community as a hostage; the threat of reprisal against the taken kept the relatives and the whole aul in subjection).
+    On 15 March 1840 general Pullo, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), took hostages in the aul of Aldy by the Groznaya fortress - captain Pushkin reported to Traskin, chief of staff of the troops of the Caucasus Line: "gen. Pullo... entered there himself and took five new amanats"(Citation: 126).
+    The "Conditions prescribed to submitting highlanders", issued by general Grabbe, commander of the troops of the Caucasus Line, on 15 June 1840, open with a demand for hostages: "Immediately hand over amanats from these auls.
+    The commander of the troops reserves to himself to designate how many and from which families the said amanats must be handed over" - and close with a threat: "the amanats of unsubmissive auls are exiled to Siberia"(Citation: 126).
+  uk: |-
+    Придушуючи повстання 1840 року, імперські війська продовжували забирати заручників (аманат - людина, яку імперія забирала з сім'ї чи громади як заручника; загроза розправи над взятим тримала рідних і весь аул у підкоренні). 15 березня 1840 року генерал Пулло, який командував лівим флангом Кавказької лінії (ланцюга імперських укріплень на землі нохчі), взяв заручників в аулі Алди біля фортеці Грозної - капітан Пушкін доносив начальнику штабу військ Кавказької лінії Траскіну: «ген. Пулло... увійшов туди сам і взяв нових п'ять аманатів»(Citation: 126).
+    «Умови, приписувані горцям, що підкоряються», видані генералом Граббе, командувачем військ Кавказької лінії, 15 червня 1840 року, відкриваються вимогою заручників: «Негайно видати аманатів від цих аулів.
+    Командувач військ залишає за собою призначити, скільки і з яких фамілій означені аманати мають бути видані» - і замикаються погрозою: «аманати непокірних аулів засилаються до Сибіру»(Citation: 126).

@@ -1,0 +1,17 @@
+type: procedure
+id: C1170.T0164
+created: 2026-08-07
+modified: 2026-08-10
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Воинские команды и казачьи подразделения, привлечённые в начале XX века к повальным обыскам в горских аулах, грабили жителей при поощрении властей: историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут, что обыски «как правило, сопровождались грабежами и другими незаконными действиями солдат и казаков, что всячески поощрялось терским начальством»(Citation: 125).'
+  en: |-
+    The military teams and Cossack units brought in at the beginning of the 20th century for sweeping searches of the mountain auls robbed the residents with the authorities' encouragement: historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write that the searches "were as a rule accompanied by robberies and other unlawful actions of soldiers and Cossacks, which was encouraged in every way by the Terek command"(Citation: 125).
+  uk: 'Військові команди та козацькі підрозділи, залучені на початку XX століття до повальних обшуків у гірських аулах, грабували жителів при заохоченні влади: історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть, що обшуки «як правило, супроводжувалися грабежами та іншими незаконними діями солдатів і козаків, що всіляко заохочувалося терським начальством»(Citation: 125).'

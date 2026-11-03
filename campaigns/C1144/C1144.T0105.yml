@@ -1,0 +1,26 @@
+type: procedure
+id: C1144.T0105
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя стирала нохчийские селения с земли дотла.
+    Историк Д. А. Хожаев пишет, что вслед за Дади-юртом качкалыкские деревни Исти-су, Нойберды, Аллерой и другие были «взяты штурмом и уничтожены»(Citation: 95).
+    Генерал Ермолов в своих «Записках» пишет, что Ноен-берды и Аллаяр-аул были «разорены совершенно»(Citation: 96).
+    Имперский историк Потто подтверждает, что «обе деревни были совершенно разорены»(Citation: 75).
+  en: |-
+    The Russian Empire wiped Nokhchi villages off the face of the earth.
+    Historian D. A. Khozhaev writes that following Dadi-Yurt, the Kachkalyk villages of Isti-Su, Noiberdy, Alleroy, and others were “taken by storm and destroyed”(Citation: 95).
+    General Yermolov writes in his “Notes” that Noyen-Berdy and Allayar-Aul were “utterly devastated”(Citation: 96).
+    The imperial historian Potto confirms that “both villages were completely devastated”(Citation: 75).
+  uk: |-
+    Російська імперія стирала нохчійські селища з землі дощенту.
+    Історик Д. А. Хожаєв пише, що слідом за Даді-юртом качкаликські села Істі-су, Нойберди, Аллерой та інші були «взяті штурмом і знищені»(Citation: 95).
+    Генерал Єрмолов у своїх «Записках» пише, що Ноєн-берди та Аллаяр-аул були «розорені цілковито»(Citation: 96).
+    Імперський історик Потто підтверджує, що «обидва села були цілком розорені»(Citation: 75).

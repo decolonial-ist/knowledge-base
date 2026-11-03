@@ -1,0 +1,14 @@
+type: procedure
+id: C0103.T0043
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique: T0043
+people: ukrainians
+actor: G0011
+tool: S0012
+contributors: []
+description:
+  ru: Целенаправленное возвращение захваченным городам и улицам старых советских или имперских названий (в частности, переименование Бахмута в Артемовск) для стирания украинской национальной памяти и визуальной интеграции в пространство РФ.
+  en: Deliberate restoration of old Soviet or imperial names to captured cities and streets (in particular, the renaming of Bakhmut to Artemovsk) in order to erase Ukrainian national memory and visually integrate them into the space of the Russian Federation.
+  uk: Цілеспрямоване повернення захопленим містам і вулицям старих радянських чи імперських назв (зокрема, перейменування Бахмута на Артемівськ) для стирання української національної пам'яті та візуальної інтеграції в простір РФ.

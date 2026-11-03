@@ -1,0 +1,31 @@
+type: procedure
+id: C1181.T0021
+created: 2026-09-05
+modified: 2026-09-05
+version: '1.0'
+technique: T0021
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    СССР с помощью судов и тайной полиции преследовал религиозных лидеров депортированных чеченцев.
+    Верховный суд Киргизской ССР приговором 1-7 июля 1952 года отправил в лагеря десятерых руководителей и старейшин религиозных братств - Накшбанди, Кунта-Хаджи, Авды и Чимирзы - на сроки от 8 до 25 лет; лидеру общины Нуриду Джабраилову в вину поставили, что он «под прикрытием религиозных убеждений проводил резко антисоветскую агитацию» и «призывал массы спецпереселенцев не работать в колхозе», руководителю братства Кунта-Хаджи Юсупу Ахматову - что он «категорически запрещал мюридам [своим последователям] посещать культурно-просветительные учреждения» и «запрещал детям посещать школу»; итог: «к 25 годам лишения свободы с отбытием в ИТЛ [исправительно-трудовом лагере], с последующим поражением избирательных прав сроком на 3 года и конфискацией всего имущества каждый»(Citation: 533).
+    Тайная полиция «разрабатывала» духовенство - так на её языке называлась тайная слежка: на человека или группу заводили секретное дело, следили за ними через осведомителей и копили материалы для ареста.
+    Историк В. А. Козлов пишет: два «наиболее характерных» таких дела на чеченцев, заведённые в 1952 году управлениями МГБ (предшественницы современной ФСБ) областей Казахской ССР, «получили весьма красноречивые клички: «Упрямые» и «Фанатики».
+    Оба дела проходили по окраске «мусульманское духовенство»» (окраска - так тайная полиция называла тему дела)(Citation: 533).
+    Министр государственной безопасности Казахской ССР Бызов докладывал 12 августа 1950 года о таких же делах «Блок», «Мстители» и «Кавказцы» - по последнему тайная полиция так же вела дело на бывших руководящих работников Чечено-Ингушетии - и называл число арестованных: «Всего в Казахстане за антисоветскую деятельность органами МГБ арестовано за 1949 г. и 7 месяцев 1950 г. 874 выселенца»(Citation: 533).
+  en: |-
+    The USSR persecuted the religious leaders of the deported Chechens through the courts and the secret police.
+    By its verdict of 1-7 July 1952 the Supreme Court of the Kirghiz SSR sent to the camps ten leaders and elders of religious brotherhoods - Naqshbandi, Kunta-Haji, Avdy and Chimirza - for terms of 8 to 25 years; the community leader Nurid Dzhabrailov was charged with having "under the cover of religious convictions conducted sharply anti-Soviet agitation" and "called on the masses of special settlers not to work in the collective farm," the head of the Kunta-Haji brotherhood Yusup Akhmatov - with having "categorically forbidden the murids [his followers] to attend cultural and educational institutions" and "forbidden children to attend school"; the outcome: "to 25 years of deprivation of liberty to be served in an ITL [corrective labor camp], with subsequent loss of electoral rights for a term of 3 years and confiscation of all property, each"(Citation: 533).
+    The secret police "worked up" the clergy - that was its own term for covert surveillance: a secret file was opened on a person or a group, informers were set to watch them and material was gathered for an arrest.
+    Historian V. A. Kozlov writes: two "most characteristic" such files on Chechens, opened in 1952 by the MGB (predecessor of today's FSB) directorates of the regions of the Kazakh SSR, "received highly eloquent code names: 'The Stubborn' and 'The Fanatics.' Both cases were run under the coloring 'Muslim clergy'" (the coloring - what the secret police called the subject of a file)(Citation: 533).
+    The minister of state security of the Kazakh SSR Byzov reported on 12 August 1950 on the same kind of files, "Bloc," "Avengers" and "Caucasians" - under the last of them the secret police was likewise running a file on former leading officials of Chechen-Ingushetia - and gave the number of those arrested: "In all, in Kazakhstan, for anti-Soviet activity the organs of the MGB arrested in 1949 and 7 months of 1950 874 deportees"(Citation: 533).
+  uk: |-
+    СРСР за допомогою судів і таємної поліції переслідував релігійних лідерів депортованих чеченців.
+    Верховний суд Киргизької РСР вироком 1-7 липня 1952 року відправив до таборів десятьох керівників і старійшин релігійних братств - Накшбанді, Кунта-Хаджі, Авди та Чімірзи - на строки від 8 до 25 років; лідерові громади Нуріду Джабраїлову поставили за провину, що він «під прикриттям релігійних переконань проводив різко антирадянську агітацію» і «закликав маси спецпереселенців не працювати в колгоспі», керівникові братства Кунта-Хаджі Юсупу Ахматову - що він «категорично забороняв мюридам [своїм послідовникам] відвідувати культурно-освітні установи» і «забороняв дітям відвідувати школу»; підсумок: «до 25 років позбавлення волі з відбуванням у ВТТ [виправно-трудовому таборі], з подальшим позбавленням виборчих прав строком на 3 роки і конфіскацією всього майна кожен»(Citation: 533).
+    Таємна поліція «розробляла» духовенство - так її мовою називалося таємне стеження: на людину або групу заводили секретну справу, стежили за ними через інформаторів і збирали матеріали для арешту.
+    Історик В. А. Козлов пише: дві «найхарактерніші» такі справи на чеченців, заведені 1952 року управліннями МДБ (попередниці сучасної ФСБ) областей Казахської РСР, «дістали вельми промовисті клички: «Уперті» та «Фанатики».
+    Обидві справи проходили за забарвленням «мусульманське духовенство»» (забарвлення - так таємна поліція називала тему справи)(Citation: 533).
+    Міністр державної безпеки Казахської РСР Бизов доповідав 12 серпня 1950 року про такі самі справи «Блок», «Месники» та «Кавказці» - за останньою з них таємна поліція так само вела справу на колишніх керівних працівників Чечено-Інгушетії - і називав число заарештованих: «Усього в Казахстані за антирадянську діяльність органами МДБ заарештовано за 1949 р. і 7 місяців 1950 р. 874 виселенці»(Citation: 533).

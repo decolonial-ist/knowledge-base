@@ -1,0 +1,23 @@
+type: procedure
+id: C1136.T0077
+created: 2026-06-25
+modified: 2026-06-25
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Сольжу (Сунженскую) Российская империя взяла штурмом и разорила в наказание за то, что село не выдало односельчанина, выстрелившего в солдата, отнимавшего у него вола.
+    Историк Д. А. Хожаев фиксирует разорение Сольжи (Сунженской)(Citation: 95).
+    Имперский генерал Ермолов в своих «Записках» свидетельствует, что житель выстрелил в солдата, «когда не отдавали ему вола из казённой повозки, которого называл он своим», а попытка схватить стрелявшего сорвалась — офицера, у которого «лошадь схватили за повода», едва не убили, и команда отступила; на требование выдать стрелявшего жители ответили, «что стрелявшего по солдату не отдадут и будут защищаться, если войска придут», после чего начальник корпусного штаба «пошёл сам с несколькими ротами… но встречен был выстрелами», причём «жёны и дети и лучшее имущество были уже отосланы, оставались одни люди для защиты домов»; при штурме войскам велено было отрезать отход — «отхватить отступление в лесу», но защитники отошли раньше(Citation: 96).
+  en: |-
+    Solzha (Sunzhenskaya) the Russian Empire took by storm and ravaged as punishment for the village’s refusal to hand over a fellow villager who had shot at a soldier who was taking his ox.
+    Historian D. A. Khozhayev records the ravaging of Solzha (Sunzhenskaya)(Citation: 95).
+    Imperial general Yermolov testifies in his “Notes” that a villager shot at a soldier “when they would not give him back an ox from a state wagon, which he called his own,” and the attempt to seize the shooter failed — the officer whose “horse was seized by the bridle” was nearly killed, and the detachment retreated; to the demand to hand over the shooter the villagers replied “that they would not surrender the man who shot at the soldier and would defend themselves if the troops came,” after which the chief of the corps staff “went himself with several companies… but was met with gunfire,” while “the wives and children and the best property had already been sent away; only men remained to defend the houses”; during the storming the troops were ordered to cut off the withdrawal — “to intercept the retreat in the forest” — but the defenders had withdrawn earlier(Citation: 96).
+  uk: |-
+    Сольжу (Сунженську) Російська імперія взяла штурмом і розорила на покарання за те, що село не видало односельця, який вистрелив у солдата, що відбирав у нього вола.
+    Історик Д. А. Хожаєв фіксує розорення Сольжі (Сунженської)(Citation: 95).
+    Імперський генерал Єрмолов у своїх «Записках» свідчить, що мешканець вистрелив у солдата, «коли не віддавали йому вола з казенного воза, якого він називав своїм», а спроба схопити стрільця зірвалася — офіцера, у якого «коня схопили за поводи», ледь не вбили, і команда відступила; на вимогу видати стрільця мешканці відповіли, «що того, хто стріляв у солдата, не віддадуть і боронитимуться, якщо війська прийдуть», після чого начальник корпусного штабу «пішов сам з кількома ротами… але був зустрінутий пострілами», причому «дружини й діти та найкраще майно були вже відіслані, залишалися самі люди для захисту домів»; під час штурму військам було велено відрізати відхід — «відхопити відступ у лісі», — але захисники відійшли раніше(Citation: 96).

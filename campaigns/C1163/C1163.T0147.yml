@@ -1,0 +1,26 @@
+type: procedure
+id: C1163.T0147
+created: 2026-07-23
+modified: 2026-08-04
+version: '1.0'
+technique: T0147
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Аманатско-податная система Пулло, командующего левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), оформляла подчинение чеченских обществ как «покорность» с обязательствами перед империей.
+    Ведомость горским народам 1840 года, опубликованная в сборнике документов «Движение горцев северо-восточного Кавказа в 20-50 гг.
+    XIX века», фиксирует итог по обществу Ако (акинцы - чеченское общество в верховьях реки Гехи): «Изъявили покорность в 1839 году, выдали аманатов и обязались платить подать по руб. серебром с дома» (аманаты - заложники, которых империя забирала у аулов для контроля над ними)(Citation: 126).
+    Оформление шло под системой страха, которую Пулло описал в докладной записке 1840 года: «угрожая всем непокорным обществам и истреблением их имущества, я навел на них такой страх... что одни за другими начали покоряться»(Citation: 126).
+  en: |-
+    The amanat-and-tribute system of Pullo, commander of the left flank of the Caucasus Line (a chain of imperial fortifications on the land of the Nokhchi), formalized the subordination of Chechen communities as "submission" with obligations to the empire.
+    The 1840 register of the highland peoples, published in the documentary collection «Движение горцев северо-восточного Кавказа в 20-50 гг.
+    XIX века», records the outcome for the Ako community (the Akintsy - a Chechen community in the upper reaches of the Gekhi river): "Declared submission in 1839, handed over amanats and pledged to pay a tribute of one silver ruble per house" (amanats - hostages whom the empire took away from the auls to control them)(Citation: 126).
+    The formalization proceeded under the system of fear that Pullo described in a memorandum of 1840: "by threatening all the unsubmissive communities with the annihilation of their property, I instilled in them such fear... that one after another they began to submit"(Citation: 126).
+  uk: |-
+    Аманатсько-податна система Пулло, командувача лівого флангу Кавказької лінії (ланцюга імперських укріплень на землі нохчі), оформляла підпорядкування чеченських товариств як «покірність» із зобов'язаннями перед імперією.
+    Відомість горським народам 1840 року, опублікована у збірнику документів «Движение горцев северо-восточного Кавказа в 20-50 гг.
+    XIX века», фіксує підсумок по товариству Ако (акінці - чеченське товариство у верхів'ях річки Гехі): «Виявили покірність у 1839 році, видали аманатів і зобов'язалися платити подать по руб. сріблом з дому» (аманати - заручники, яких імперія забирала в аулів для контролю над ними)(Citation: 126).
+    Оформлення йшло під системою страху, яку Пулло описав у доповідній записці 1840 року: «погрожуючи всім непокірним товариствам і винищенням їхнього майна, я навів на них такий страх... що одні за одними почали підкорятися»(Citation: 126).

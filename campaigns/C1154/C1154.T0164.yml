@@ -1,0 +1,23 @@
+type: procedure
+id: C1154.T0164
+created: 2026-07-03
+modified: 2026-08-10
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    23 декабря 1831 отряд подполковника Засса, командира Моздокского казачьего полка, направленный генералом Вельяминовым, угнал скот жителей разорённых хуторов у села Чертугай.
+    Имперский историк Волконский писал: Засс «доставил в лагерь... до 250 голов скота»(Citation: 116).
+    Угон 250 голов скота посреди зимы лишал жителей разорённых хуторов основы пропитания.
+  en: |-
+    On December 23, 1831, the detachment of Lieutenant Colonel Zass, commander of the Mozdok Cossack Regiment, dispatched by General Velyaminov, drove off the livestock of the inhabitants of the devastated hamlets near the village of Chertugai.
+    The imperial historian Volkonsky wrote: Zass “delivered to the camp... up to 250 head of cattle”(Citation: 116).
+    Driving off 250 head of livestock in the middle of winter deprived the inhabitants of the devastated hamlets of their basic means of subsistence.
+  uk: |-
+    23 грудня 1831 загін підполковника Засса, командира Моздокського козачого полку, спрямований генералом Вельяміновим, викрав худобу жителів розорених хуторів біля села Чертугай.
+    Імперський історик Волконський писав: Засс «доставив у табір... до 250 голів худоби»(Citation: 116).
+    Викрадення 250 голів худоби посеред зими позбавляло жителів розорених хуторів основи прожитку.

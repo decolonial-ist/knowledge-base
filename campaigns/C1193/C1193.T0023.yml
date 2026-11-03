@@ -1,0 +1,188 @@
+type: procedure
+id: C1193.T0023
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0023
+people: nokhchi
+actor: G0011
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты незаконно задерживали чеченцев и без обвинений держали их в фильтрационных лагерях и ямах при воинских частях.
+
+    12 декабря 1994 года МВД России указанием № 247 создало фильтрационные лагеря.
+    Министерство устроило их в тюремных вагонах в Моздоке, городе в подконтрольной России Северной Осетии, в тюрьмах Ставрополя и Пятигорска, городов на юге России, и в здании автобазы в Грозном(Citation: 27)(Citation: 922).
+
+    Российские военные с милиционерами задерживали чеченцев на блокпостах и при «зачистках» (так россияне называли обыски домов и задержания чеченцев).
+    В постановлениях о задержании МВД России чаще всего ссылалось на указ президента России от 2 ноября 1993 года № 1815 «О мерах по предупреждению бродяжничества и попрошайничества»(Citation: 1256).
+    Указ касался бродяг, а у большинства задержанных чеченцев были при себе документы(Citation: 27).
+
+    Перед отправкой в лагеря оккупанты по нескольку суток держали чеченцев в ямах и тюремных машинах у блокпостов и на своих базах, в местах без официального статуса(Citation: 27).
+    Такие ямы были в 503-м и 506-м полках российской армии у Шали, города к юго-востоку от Грозного(Citation: 988)(Citation: 27).
+    С февраля 1995 года оккупанты свозили чеченцев к Ассиновской, станице на западе Ичкерии, а оттуда отправляли в Моздок(Citation: 27).
+
+    В лагерях российские охранники били и пытали задержанных чеченцев на допросах, в том числе током (подробнее: «Пытки и истязания»).
+    Охрана не лечила раненых(Citation: 922).
+    Оккупанты не давали задержанным чеченцам сообщить родным, где они.
+    Для семей люди пропадали без вести (подробнее: «Похищение людей»)(Citation: 27).
+
+    Из лагерей МВД России отпускало большинство задержанных чеченцев как невиновных.
+    С каждого министерство брало подпись, что претензий нет(Citation: 27).
+
+    По справке заместителя начальника тюремного ведомства России Злыденко, с 11 декабря 1994 года по 22 июля 1995 года через лагеря в Моздоке и Грозном прошли 1325 человек.
+    МВД передало следователям сто из них (подробнее: «Фабрикация преступников»).
+    Министерство отдало ещё 141 человека на обмен за пленных российских военных (подробнее: «Захват заложников»)(Citation: 27).
+
+    Российские войска генерала Рохлина при штурме Грозного в начале января 1995 года задерживали в бомбоубежищах у консервного завода мужчин, которые прятались там от обстрелов, и увозили их в Моздок(Citation: 922). 3 января охрана везла больше 60 из них в кузове одного грузовика и убила в пути не меньше восьми (подробнее: «Убийство пленных и задержанных»)(Citation: 27). 10 января в тюрьме Пятигорска умер чеченец Умар Касаев: МВД не оказало ему нужной медицинской помощи(Citation: 922).
+
+    7 апреля 1995 года внутренние войска МВД России (предшественники современной Росгвардии) штурмовали Самашки, село на западе Ичкерии.
+    Сотрудники ФСК (предшественницы современной ФСБ) прилетели к российскому блокпосту у села со списками чеченцев, «подлежащих фильтрации»(Citation: 1136)(Citation: 662). 8 апреля бойцы внутренних войск и милицейского спецназа из Оренбурга и Москвы обыскивали дома Самашек.
+    К 10 апреля оккупанты незаконно задержали и увели из села больше 200 чеченских мужчин от 15 до 70 лет, троих из них конвой застрелил по дороге (подробнее: «Убийство пленных и задержанных»)(Citation: 1136)(Citation: 27).
+    Азман Ансарова из Самашек рассказала наблюдателям «Мемориала»: когда один из задержанных показал солдату паспорт, «тот взял на клочки разорвал документ.
+    „Мне, говорит, ваши документы не нужны.
+    Вы чеченцы — мы вас будем убивать“…
+    Потом наших сыновей забрали и увезли»(Citation: 662).
+    Оккупанты отправляли одних мужчин вертолётами в Моздок, других держали в ямах и тюремных машинах у Ассиновской.
+    Хасан Расуев из Самашек 5 августа 1995 года рассказал «Мемориалу», как охрана грузила задержанных в кузов: «И штабелями — в кузов.
+    В четыре яруса, по-моему, друг на друга»(Citation: 27)(Citation: 662).
+    У Ассиновской российские военные отпустили большинство мужчин без справок о задержании, а из Моздока к 18 апреля МВД выпустило 65 чеченцев из Самашек как невиновных и 12 отдало на обмен(Citation: 27)(Citation: 662).
+
+    В апреле 1995 года российские военные ночью забрали из дома в Грозном брата чеченки Хазы Арсанукаевой, сославшись на его прописку в Калмыкии, подконтрольной России республике у Каспийского моря.
+    Солдаты избили его в штабе оккупационных войск и увезли в фильтрационный лагерь на северо-восточной окраине города, а через неделю охрана выпустила его: ходить он не мог(Citation: 986).
+
+    15 марта 1996 года на блокпосту у Самашек оккупанты отобрали 91 чеченца из тех, кто уходил из села перед штурмом, и увезли в тюрьмы Пятигорска и Ставрополя.
+    Через пять недель МВД отпустило их без обвинений(Citation: 27).
+    В марте 1996 года солдаты МВД России задержали троих чеченцев на блокпосту между Гойты и Старыми Атагами, сёлами к югу от Грозного, а 7 апреля российские военные увезли из Гикалово, села под Грозным, чеченца Саидаша Шамахурова.
+    Россияне держали всех четверых в Ханкале, главной базе оккупационных войск на восточной окраине Грозного, и обменяли на своих пленных солдат (подробнее: «Захват заложников»)(Citation: 657).
+
+    Комитет ООН по правам человека в замечаниях 1995 года выразил озабоченность сообщениями о пытках, жестоком обращении и произвольных задержаниях в фильтрационных лагерях(Citation: 736).
+    В начале 1997 года правозащитники «Мемориала» писали, что российские ведомства «не предпринимают существенных усилий к поиску чеченцев, задержанных и пропавших без вести»(Citation: 987).
+    «Мемориал» опубликовал рассказы задержанных и списки чеченцев, которых МВД держало в тюрьмах Пятигорска и Ставрополя с января по февраль 1995 года(Citation: 922).
+
+    10 июня 1996 года в Назрани, городе в подконтрольной России Ингушетии, Россия обязалась перед Ичкерией закрыть фильтрационные лагеря и другие места, где незаконно держала чеченцев(Citation: 1300).
+    В июне МВД закрыло последние лагеря(Citation: 27).
+    Российские суды не осудили никого за создание лагерей и незаконные задержания (подробнее: «Безнаказанность исполнителей»)(Citation: 27).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    The occupiers unlawfully detained Chechens and held them without charges in filtration camps and in pits at military units.
+
+    On 12 December 1994, the Russian Ministry of Internal Affairs created filtration camps by directive No. 247.
+    The ministry set them up in prison railcars in Mozdok, a town in Russian-controlled North Ossetia, in the prisons of Stavropol and Pyatigorsk, cities in the south of Russia, and in the building of a motor depot in Grozny(Citation: 27)(Citation: 922).
+
+    Russian servicemen together with police officers detained Chechens at checkpoints and during "zachistki" ("sweeps", as Russians called house searches and detentions of Chechens).
+    In its detention orders, the Russian Ministry of Internal Affairs most often referred to the decree of the president of Russia of 2 November 1993 No. 1815 "On Measures to Prevent Vagrancy and Begging"(Citation: 1256).
+    The decree concerned vagrants, while most of the detained Chechens had their documents on them(Citation: 27).
+
+    Before sending them to the camps, the occupiers held Chechens for several days in pits and prison vans at checkpoints and at their bases, in places with no official status(Citation: 27).
+    There were such pits in the 503rd and 506th regiments of the Russian army near Shali, a town southeast of Grozny(Citation: 988)(Citation: 27).
+    From February 1995, the occupiers brought Chechens to Assinovskaya, a stanitsa in the west of Ichkeria, and from there sent them to Mozdok(Citation: 27).
+
+    In the camps, Russian guards beat and tortured detained Chechens during interrogations, including with electric current (see: "Torture and Abuse").
+    The guards did not treat the wounded(Citation: 922).
+    The occupiers did not let detained Chechens tell their relatives where they were.
+    For their families, the people went missing (see: "Abduction of People")(Citation: 27).
+
+    The Russian Ministry of Internal Affairs released most of the detained Chechens from the camps as innocent.
+    From each of them the ministry took a signature saying they had no complaints(Citation: 27).
+
+    According to a certificate by Zlydenko, deputy head of Russia's prison service, from 11 December 1994 to 22 July 1995, 1,325 people passed through the camps in Mozdok and Grozny.
+    The Ministry of Internal Affairs handed a hundred of them over to investigators (see: "Manufacturing Criminals").
+    The ministry gave another 141 people up for exchange for captured Russian servicemen (see: "Hostage-Taking")(Citation: 27).
+
+    During the storming of Grozny in early January 1995, the Russian troops of General Rokhlin detained men in the bomb shelters near the cannery, where they were hiding from the shelling, and took them to Mozdok(Citation: 922).
+    On 3 January, the guards carried more than 60 of them in the back of a single truck and killed at least eight on the way (see: "Killing of Prisoners and Detainees")(Citation: 27).
+    On 10 January, the Chechen Umar Kasayev died in the Pyatigorsk prison: the Ministry of Internal Affairs did not give him the medical care he needed(Citation: 922).
+
+    On 7 April 1995, the Internal Troops of the Russian Ministry of Internal Affairs (predecessors of today's Rosgvardia) stormed Samashki, a village in the west of Ichkeria.
+    Officers of the FSK (the predecessor of today's FSB) flew in to the Russian checkpoint near the village with lists of Chechens "subject to filtration"(Citation: 1136)(Citation: 662).
+    On 8 April, soldiers of the Internal Troops and of police special units from Orenburg and Moscow searched the houses of Samashki.
+    By 10 April, the occupiers had unlawfully detained and taken out of the village more than 200 Chechen men aged 15 to 70, and the escort shot three of them dead on the way (see: "Killing of Prisoners and Detainees")(Citation: 1136)(Citation: 27).
+    Azman Ansarova from Samashki told the "Memorial" observers that when one of the detained men showed a soldier his passport, "he took the document and tore it to shreds. 'I don't need your documents,' he says. 'You are Chechens — we are going to kill you'…
+    Then they took our sons and drove them away"(Citation: 662).
+    The occupiers sent some of the men by helicopter to Mozdok and held others in pits and prison vans near Assinovskaya.
+    On 5 August 1995, Khasan Rasuyev from Samashki told "Memorial" how the guards loaded the detainees into the back of a truck: "And in stacks — into the back.
+    In four layers, I think, one on top of another"(Citation: 27)(Citation: 662).
+    Near Assinovskaya, the Russian military released most of the men without certificates of detention, and from Mozdok, by 18 April, the Ministry of Internal Affairs had released 65 Chechens from Samashki as innocent and given 12 up for exchange(Citation: 27)(Citation: 662).
+
+    In April 1995, Russian servicemen took the brother of the Chechen woman Khaza Arsanukayeva from his home in Grozny at night, citing his residence registration in Kalmykia, a Russian-controlled republic by the Caspian Sea.
+    The soldiers beat him at the headquarters of the occupation troops and took him to the filtration camp on the northeastern outskirts of the city, and a week later the guards released him: he could not walk(Citation: 986).
+
+    On 15 March 1996, at the checkpoint near Samashki, the occupiers picked out 91 Chechens from among those leaving the village before the assault and took them to the prisons of Pyatigorsk and Stavropol.
+    Five weeks later, the Ministry of Internal Affairs released them without charges(Citation: 27).
+    In March 1996, soldiers of the Russian Ministry of Internal Affairs detained three Chechens at the checkpoint between Goity and Starye Atagi, villages south of Grozny, and on 7 April Russian servicemen took the Chechen Saidash Shamakhurov from Gikalovo, a village near Grozny.
+    The Russians held all four in Khankala, the main base of the occupation troops on the eastern outskirts of Grozny, and exchanged them for their own captured soldiers (see: "Hostage-Taking")(Citation: 657).
+
+    In its 1995 comments, the UN Human Rights Committee expressed concern at reports of torture, ill-treatment and arbitrary detention in filtration camps(Citation: 736).
+    In early 1997, the human rights defenders of "Memorial" wrote that Russian agencies "are not making substantial efforts to search for Chechens who were detained and went missing"(Citation: 987).
+    "Memorial" published the accounts of detainees and lists of Chechens whom the Ministry of Internal Affairs held in the prisons of Pyatigorsk and Stavropol from January to February 1995(Citation: 922).
+
+    On 10 June 1996, in Nazran, a town in Russian-controlled Ingushetia, Russia undertook before Ichkeria to close the filtration camps and the other places where it unlawfully held Chechens(Citation: 1300).
+    In June, the Ministry of Internal Affairs closed the last camps(Citation: 27).
+    Russian courts convicted no one for creating the camps and for the unlawful detentions (see: "Impunity of Perpetrators")(Citation: 27).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти незаконно затримували чеченців і без обвинувачень тримали їх у фільтраційних таборах та ямах при військових частинах.
+
+    12 грудня 1994 року МВС Росії вказівкою № 247 створило фільтраційні табори.
+    Міністерство влаштувало їх у тюремних вагонах у Моздоку, місті в підконтрольній Росії Північній Осетії, у в'язницях Ставрополя і П'ятигорська, міст на півдні Росії, та в будівлі автобази в Грозному(Citation: 27)(Citation: 922).
+
+    Російські військові з міліціонерами затримували чеченців на блокпостах і під час «зачисток» (так росіяни називали обшуки будинків і затримання чеченців).
+    У постановах про затримання МВС Росії найчастіше посилалося на указ президента Росії від 2 листопада 1993 року № 1815 «Про заходи щодо запобігання бродяжництву та жебрацтву»(Citation: 1256).
+    Указ стосувався бродяг, а більшість затриманих чеченців мали при собі документи(Citation: 27).
+
+    Перед відправленням до таборів окупанти по кілька діб тримали чеченців у ямах і тюремних машинах біля блокпостів та на своїх базах, у місцях без офіційного статусу(Citation: 27).
+    Такі ями були в 503-му і 506-му полках російської армії біля Шалі, міста на південний схід від Грозного(Citation: 988)(Citation: 27).
+    З лютого 1995 року окупанти звозили чеченців до Ассинівської, станиці на заході Ічкерії, а звідти відправляли до Моздока(Citation: 27).
+
+    У таборах російські охоронці били й катували затриманих чеченців на допитах, зокрема струмом (докладніше: «Катування та знущання»).
+    Охорона не лікувала поранених(Citation: 922).
+    Окупанти не давали затриманим чеченцям повідомити рідним, де вони.
+    Для сімей люди зникали безвісти (докладніше: «Викрадення людей»)(Citation: 27).
+
+    З таборів МВС Росії відпускало більшість затриманих чеченців як невинних.
+    З кожного міністерство брало підпис, що претензій немає(Citation: 27).
+
+    За довідкою заступника начальника тюремного відомства Росії Злиденка, з 11 грудня 1994 року по 22 липня 1995 року через табори в Моздоку і Грозному пройшли 1325 людей.
+    МВС передало слідчим сто з них (докладніше: «Фабрикація злочинців»).
+    Міністерство віддало ще 141 людину на обмін за полонених російських військових (докладніше: «Захоплення заручників»)(Citation: 27).
+
+    Російські війська генерала Рохліна під час штурму Грозного на початку січня 1995 року затримували в бомбосховищах біля консервного заводу чоловіків, які ховалися там від обстрілів, і вивозили їх до Моздока(Citation: 922). 3 січня охорона везла понад 60 з них у кузові однієї вантажівки і вбила дорогою щонайменше вісьмох (докладніше: «Вбивство полонених і затриманих»)(Citation: 27). 10 січня у в'язниці П'ятигорська помер чеченець Умар Касаєв: МВС не надало йому потрібної медичної допомоги(Citation: 922).
+
+    7 квітня 1995 року внутрішні війська МВС Росії (попередники сучасної Росгвардії) штурмували Самашки, село на заході Ічкерії.
+    Співробітники ФСК (попередниці сучасної ФСБ) прилетіли до російського блокпоста біля села зі списками чеченців, «які підлягають фільтрації»(Citation: 1136)(Citation: 662). 8 квітня бійці внутрішніх військ і міліцейського спецназу з Оренбурга та Москви обшукували будинки Самашок.
+    До 10 квітня окупанти незаконно затримали й вивели з села понад 200 чеченських чоловіків віком від 15 до 70 років, трьох із них конвой застрелив дорогою (докладніше: «Вбивство полонених і затриманих»)(Citation: 1136)(Citation: 27).
+    Азман Ансарова із Самашок розповіла спостерігачам «Меморіалу»: коли один із затриманих показав солдатові паспорт, «той узяв і на клапті порвав документ.
+    „Мені, каже, ваші документи не потрібні.
+    Ви чеченці — ми вас будемо вбивати“…
+    Потім наших синів забрали й повезли»(Citation: 662).
+    Окупанти відправляли одних чоловіків гелікоптерами до Моздока, інших тримали в ямах і тюремних машинах біля Ассинівської.
+    Хасан Расуєв із Самашок 5 серпня 1995 року розповів «Меморіалу», як охорона вантажила затриманих у кузов: «І штабелями — у кузов.
+    У чотири яруси, по-моєму, один на одного»(Citation: 27)(Citation: 662).
+    Біля Ассинівської російські військові відпустили більшість чоловіків без довідок про затримання, а з Моздока до 18 квітня МВС випустило 65 чеченців із Самашок як невинних і 12 віддало на обмін(Citation: 27)(Citation: 662).
+
+    У квітні 1995 року російські військові вночі забрали з дому в Грозному брата чеченки Хази Арсанукаєвої, пославшись на його прописку в Калмикії, підконтрольній Росії республіці біля Каспійського моря.
+    Солдати побили його в штабі окупаційних військ і відвезли до фільтраційного табору на північно-східній околиці міста, а через тиждень охорона випустила його: ходити він не міг(Citation: 986).
+
+    15 березня 1996 року на блокпості біля Самашок окупанти відібрали 91 чеченця з тих, хто виходив із села перед штурмом, і відвезли до в'язниць П'ятигорська і Ставрополя.
+    Через п'ять тижнів МВС відпустило їх без обвинувачень(Citation: 27).
+    У березні 1996 року солдати МВС Росії затримали трьох чеченців на блокпості між Гойтами і Старими Атагами, селами на південь від Грозного, а 7 квітня російські військові вивезли з Гікалова, села під Грозним, чеченця Саідаша Шамахурова.
+    Росіяни тримали всіх чотирьох у Ханкалі, головній базі окупаційних військ на східній околиці Грозного, і обміняли на своїх полонених солдатів (докладніше: «Захоплення заручників»)(Citation: 657).
+
+    Комітет ООН з прав людини в зауваженнях 1995 року висловив занепокоєння повідомленнями про катування, жорстоке поводження і свавільні затримання у фільтраційних таборах(Citation: 736).
+    На початку 1997 року правозахисники «Меморіалу» писали, що російські відомства «не докладають істотних зусиль до пошуку чеченців, затриманих і зниклих безвісти»(Citation: 987).
+    «Меморіал» опублікував розповіді затриманих і списки чеченців, яких МВС тримало у в'язницях П'ятигорська і Ставрополя з січня по лютий 1995 року(Citation: 922).
+
+    10 червня 1996 року в Назрані, місті в підконтрольній Росії Інгушетії, Росія зобов'язалася перед Ічкерією закрити фільтраційні табори та інші місця, де незаконно тримала чеченців(Citation: 1300).
+    У червні МВС закрило останні табори(Citation: 27).
+    Російські суди не засудили нікого за створення таборів і незаконні затримання (докладніше: «Безкарність виконавців»)(Citation: 27).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

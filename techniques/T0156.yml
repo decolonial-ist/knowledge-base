@@ -1,0 +1,29 @@
+type: technique
+id: T0156
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+tactics:
+- TA0004
+- TA0005
+name:
+  ru: Принудительная выдача беглых и повстанцев
+  en: Forced Surrender of Fugitives and Rebels
+  uk: Примусова видача втікачів і повстанців
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут возлагать на подчинившиеся сообщества обязанность отказывать в убежище участникам сопротивления и выдавать всех, кто ушёл из-под власти агрессора, - повстанцев, беглых солдат и подневольных, пленных.
+    Обязанность оформляется нормативом или договором и держится на коллективной ответственности: за укрывательство или недоносительство отвечает всё поселение - штрафами, конфискациями, разорением.
+    Так агрессор уничтожает саму функцию неподконтрольного пространства - гор, лесов, вольных окраин - как убежища, куда можно уйти от его власти: политолог и антрополог Джеймс Скотт показал, что такие зоны убежища (среди них он прямо называет Кавказ) складываются из людей, намеренно бегущих от государственных повинностей, а политический теоретик Нил Робертс описал само бегство из-под подневольности как практику свободы - принудительная выдача беглых бьёт именно по ней.
+    Руками самих подчинённых агрессор превращает каждое сдавшееся поселение в заслон против ещё сопротивляющихся.
+  en: |-
+    Aggressors may impose on subjugated communities the obligation to refuse shelter to members of the resistance and to hand over everyone who has escaped the aggressor's power - rebels, runaway soldiers and bondsmen, prisoners.
+    The obligation is formalized in a decree or a treaty and rests on collective liability: the whole settlement answers for harboring or for failure to inform - with fines, confiscations, devastation.
+    In this way the aggressor destroys the very function of uncontrolled space - mountains, forests, free borderlands - as a refuge beyond its power: political scientist and anthropologist James C. Scott showed that such zones of refuge (he explicitly names the Caucasus among them) are formed by people deliberately fleeing state exactions, and political theorist Neil Roberts described flight from bondage itself as a practice of freedom - the forced surrender of fugitives strikes precisely at it.
+    With the hands of the subjugated themselves, the aggressor turns every settlement that has yielded into a barrier against those still resisting.
+  uk: |-
+    Агресори можуть покладати на підкорені спільноти обов'язок відмовляти у притулку учасникам опору і видавати всіх, хто пішов з-під влади агресора, - повстанців, збіглих солдатів і підневільних, полонених.
+    Обов'язок оформлюється нормативом або договором і тримається на колективній відповідальності: за переховування чи недонесення відповідає все поселення - штрафами, конфіскаціями, розоренням.
+    Так агресор знищує саму функцію непідконтрольного простору - гір, лісів, вільних окраїн - як притулку, куди можна піти з-під його влади: політолог і антрополог Джеймс Скотт показав, що такі зони притулку (серед них він прямо називає Кавказ) складаються з людей, які навмисно тікають від державних повинностей, а політичний теоретик Ніл Робертс описав саму втечу з-під підневільності як практику свободи - примусова видача втікачів б'є саме по ній.
+    Руками самих підкорених агресор перетворює кожне поселення, що здалося, на заслін проти тих, хто ще чинить опір.

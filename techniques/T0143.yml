@@ -1,0 +1,34 @@
+type: technique
+id: T0143
+created: 2026-05-24
+modified: 2026-09-18
+version: '1.0'
+tactics:
+- TA0002
+name:
+  ru: Культивирование имперской диаспоры
+  en: Cultivation of an Imperial Diaspora
+  uk: Культивування імперської діаспори
+contributors: []
+description:
+  ru: |-
+    Культивированием имперской диаспоры – целенаправленная политика бывшей метрополии по поддержанию и воспроизводству особой идентичности у потомков колонистов и поселенцев, оставшихся на территориях, вышедших из-под её контроля.
+    Эта политика реализуется через инфраструктуру языкового, образовательного и медийного воспроизводства: финансирование школ и культурных центров, телевещание на языке метрополии, упрощённое предоставление гражданства и статуса соотечественника, государственные и квазигосударственные фонды поддержки диаспоры (Citation: 62)(Citation: 63).
+    Параллельно с институциональным каркасом метрополия культивирует аффективную инфраструктуру: ностальгию по имперскому прошлому, нарратив культурного превосходства и одновременно нарратив о виктимизации диаспоры в новом государстве.
+    Эта работа направлена на удержание идентификации с метрополией у второго, третьего и последующих поколений, давно не имеющих личного опыта имперской жизни, и предотвращение их социальной и политической интеграции с государства, в которых они живут.
+    Конечная цель этой деятельности – реваншистская: культивируемая диаспора рассматривается метрополией как ресурс, на который можно будет опереться в момент, когда она предпримет попытку пересмотра постимперских границ, будь то прямая аннексия территорий компактного проживания диаспоры, инструментализация её протестов как casus belli или дестабилизация новых государств изнутри.
+    Исторические примеры обнажают этот механизм: судетские немцы в межвоенной Чехословакии, послужившие предлогом для Мюнхенского сговора 1938 года и последующей ликвидации чехословацкой государственности; русскоязычные сообщества в Молдове и в Крыму, ставшие риторическим основанием для российских интервенций 1992 и 2014 годов; русскоязычное население в Эстонии, Латвии и Литве как длящийся объект аналогичной политики.
+  en: |-
+    Cultivation of an imperial diaspora is a deliberate policy of the former metropole aimed at maintaining and reproducing a distinct identity among the descendants of colonists and settlers who remained in territories that have left its control.
+    This policy is implemented through an infrastructure of linguistic, educational, and media reproduction: funding of schools and cultural centers, television broadcasting in the metropole's language, simplified granting of citizenship and 'compatriot' status, and state and quasi-state diaspora support funds (Citation: 62)(Citation: 63).
+    Alongside this institutional framework, the metropole cultivates an affective infrastructure: nostalgia for the imperial past, a narrative of cultural superiority, and, simultaneously, a narrative of the diaspora's victimization in the new state.
+    This work aims to sustain identification with the metropole among the second, third, and subsequent generations, who have long had no personal experience of imperial life, and to prevent their social and political integration into the states in which they live.
+    The ultimate goal of this activity is revanchist: the metropole regards the cultivated diaspora as a resource it can rely on at the moment it attempts to revise post-imperial borders, whether through the outright annexation of territories where the diaspora lives compactly, the instrumentalization of its protests as a casus belli, or the destabilization of the new states from within.
+    Historical examples lay this mechanism bare: the Sudeten Germans in interwar Czechoslovakia, who served as the pretext for the 1938 Munich Agreement and the subsequent liquidation of Czechoslovak statehood; the Russian-speaking communities in Moldova and in Crimea, which became the rhetorical grounds for the Russian interventions of 1992 and 2014; and the Russian-speaking population in Estonia, Latvia, and Lithuania as an ongoing object of the same policy.
+  uk: |-
+    Культивування імперської діаспори — цілеспрямована політика колишньої метрополії з підтримання та відтворення особливої ідентичності в нащадків колоністів і поселенців, які залишилися на територіях, що вийшли з-під її контролю.
+    Ця політика реалізується через інфраструктуру мовного, освітнього та медійного відтворення: фінансування шкіл і культурних центрів, телемовлення мовою метрополії, спрощене надання громадянства та статусу співвітчизника, державні та квазідержавні фонди підтримки діаспори (Citation: 62)(Citation: 63).
+    Паралельно з інституційним каркасом метрополія культивує афективну інфраструктуру: ностальгію за імперським минулим, наратив культурної вищості й водночас наратив про віктимізацію діаспори в новій державі.
+    Ця робота спрямована на утримання ідентифікації з метрополією у другого, третього та наступних поколінь, які давно не мають особистого досвіду імперського життя, та на запобігання їхній соціальній і політичній інтеграції з державами, в яких вони живуть.
+    Кінцева мета цієї діяльності — реваншистська: культивована діаспора розглядається метрополією як ресурс, на який можна буде спертися в момент, коли вона спробує переглянути постімперські кордони, — чи то шляхом прямої анексії територій компактного проживання діаспори, чи інструменталізації її протестів як casus belli, чи дестабілізації нових держав зсередини.
+    Історичні приклади оголюють цей механізм: судетські Німці в міжвоєнній Чехословаччині, які послугували приводом для Мюнхенської змови 1938 року та подальшої ліквідації чехословацької державності; російськомовні спільноти в Молдові та в Криму, що стали риторичною підставою для російських інтервенцій 1992 та 2014 років; російськомовне населення в Естонії, Латвії та Литві як триваючий об'єкт аналогічної політики.

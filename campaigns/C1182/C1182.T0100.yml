@@ -1,0 +1,49 @@
+type: procedure
+id: C1182.T0100
+created: 2026-09-06
+modified: 2026-09-06
+version: '1.0'
+technique: T0100
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    После возвращения чеченцев из ссылки колонизатор не разрешил открыть ни одной мечети и через своих чиновников решал, кому и где молиться.
+    Чиновник по надзору за религией Музаров писал в отчёте 25 августа 1983 года: «В Чечено-Ингушетии в дооктябрьский период [до 1917 года] безраздельно господствовала мусульманская идеология.
+    Здесь насчитывалось 2675 мечетей, 60 тыс. мюридов [членов религиозных братств], 38 шейхов [религиозных наставников, глав братств], 2850 мулл [исламских священников] и 140 духовных школ.
+    После восстановления автономии республики в 1957 г. сложилось так, что на территории Чечено-Ингушской АССР не было ни одной мечети»(Citation: 643).
+    Мечети исчезли не сами.
+    Колонизатор закрыл большинство из них ещё до войны: историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут, что религиозные школы «после закрытия большинства мечетей… перешли в дома мулл и знатоков ислама»(Citation: 125).
+    Историк Далхан Хожаев пишет, что в годы ссылки «взрывались… средневековые склепы и дореволюционные мечети, гробницы и святилища»(Citation: 553); историки Ахмадов и Хасмагомадов добавляют, что в Грозном была «уничтожена городская мечеть»(Citation: 125).
+    Уцелевшие здания колонизатор занял под клубы и склады. 21 января 1967 года 277 верующих Назрановского района подали заявление об открытии мечети в селе Барсуки; чиновник по надзору за религией Асаулка сообщил в Москву, что районная администрация решением от 10 июня 1967 года отказала «в рассмотрении заявления по мотивам того, что, как установлено проверкой, «многие подписи под заявлением учинены не лицами, указанными в заявлении, а подделаны, фамилии некоторых лиц вымышлены»»(Citation: 646). 11 ноября 1969 года правительство региона, подчинённое Москве, постановлением «О мерах по усилению контроля за соблюдением законодательства о религиозных культах» записало, что в районах «служители культа в ряде случаев самовольно занимаются строительством и открытием молитвенных домов, устраивают отправление коллективных обрядов в общественных местах, организовывают паломничество верующих к так называемым «святым местам»», а «действенные меры, направленные на постепенное прекращение их деятельности, не принимаются»(Citation: 640). 18 мая 1977 года чиновник по надзору за религией Бобов докладывал главе этого правительства Керимову: «в республике нет зарегистрированных в органах власти мусульманских религиозных объединений и служителей культа, в то же время, вопреки закону, неофициально действует 263 мусульманских религиозных обществ и групп»(Citation: 644). 19 августа 1980 года Бобов сообщил в Москву: в республике «имеется 62 здания бывших мечетей… 17 под клубы и школы, 25 как складские помещения, 8 как цеха заводов, почтовые отделения, магазины, 2 переданы в пользование верующих»(Citation: 645).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут, что оккупационные власти региона «прямо запрещали открывать в чеченских и ингушских селениях мечети, но и не позволяли многочисленным мюридским [религиозным] общинам открыто проводить религиозные обряды»(Citation: 125).
+  en: |-
+    After the return of the Chechens from exile the coloniser did not allow a single mosque to be opened and, through its officials, decided who could pray and where.
+    Muzarov, an official supervising religion, wrote in a report of 25 August 1983: "In Chechen-Ingushetia in the pre-October period [before 1917] Muslim ideology reigned supreme.
+    There were 2,675 mosques, 60 thousand murids [members of religious brotherhoods], 38 sheikhs [religious mentors, heads of brotherhoods], 2,850 mullahs [Islamic clergymen] and 140 religious schools.
+    After the restoration of the republic's autonomy in 1957 it so happened that on the territory of the Chechen-Ingush ASSR there was not a single mosque"(Citation: 643).
+    The mosques did not vanish by themselves.
+    Most of them the coloniser had closed before the war: historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write that religious schools "after the closure of most mosques… moved into the homes of mullahs and Islamic scholars"(Citation: 125).
+    Historian Dalkhan Khozhaev writes that during the exile "medieval crypts and pre-revolutionary mosques, tombs and shrines… were blown up"(Citation: 553); historians Akhmadov and Khasmagomadov add that in Grozny "the city mosque was destroyed"(Citation: 125).
+    The surviving buildings the coloniser took over as clubs and warehouses.
+    On 21 January 1967 277 believers of the Nazran district submitted an application to open a mosque in the village of Barsuki; Asaulka, an official supervising religion, reported to Moscow that the district administration, by its decision of 10 June 1967, had refused "to consider the application on the grounds that, as established by an inspection, 'many signatures under the application were made not by the persons indicated in the application but forged, and the surnames of some persons are fictitious'"(Citation: 646).
+    On 11 November 1969 the government of the region, subordinate to Moscow, in a resolution "On Measures to Strengthen Control over Observance of the Legislation on Religious Cults", recorded that in the districts "ministers of the cult in a number of cases arbitrarily engage in building and opening prayer houses, hold collective rites in public places, organise pilgrimages of believers to so-called 'holy places'", while "effective measures aimed at the gradual cessation of their activity are not being taken"(Citation: 640).
+    On 18 May 1977 Bobov, an official supervising religion, reported to Kerimov, the head of that government: "in the republic there are no Muslim religious associations or ministers of the cult registered with the authorities, while at the same time, contrary to the law, 263 Muslim religious societies and groups operate unofficially"(Citation: 644).
+    On 19 August 1980 Bobov reported to Moscow: in the republic "there are 62 buildings of former mosques… 17 used as clubs and schools, 25 as storage premises, 8 as factory workshops, post offices, shops, 2 handed over to the use of believers"(Citation: 645).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write that the region's occupation authorities "directly forbade the opening of mosques in Chechen and Ingush villages, and did not allow the numerous murid [religious] communities to perform religious rites openly either"(Citation: 125).
+  uk: |-
+    Після повернення чеченців із заслання колонізатор не дозволив відкрити жодної мечеті і через своїх чиновників вирішував, кому і де молитися.
+    Чиновник з нагляду за релігією Музаров писав у звіті 25 серпня 1983 року: «У Чечено-Інгушетії в дожовтневий період [до 1917 року] неподільно панувала мусульманська ідеологія.
+    Тут налічувалося 2675 мечетей, 60 тис. мюридів [членів релігійних братств], 38 шейхів [релігійних наставників, глав братств], 2850 мулл [ісламських священнослужителів] і 140 духовних шкіл.
+    Після відновлення автономії республіки в 1957 р. склалося так, що на території Чечено-Інгуської АРСР не було жодної мечеті»(Citation: 643).
+    Мечеті зникли не самі.
+    Колонізатор закрив більшість із них ще до війни: історики Я. З. Ахмадов та Е. Х. Хасмагомадов пишуть, що релігійні школи «після закриття більшості мечетей… перейшли в оселі мулл і знавців ісламу»(Citation: 125).
+    Історик Далхан Хожаєв пише, що в роки заслання «висаджувалися в повітря… середньовічні склепи й дореволюційні мечеті, гробниці та святилища»(Citation: 553); історики Ахмадов і Хасмагомадов додають, що в Грозному було «знищено міську мечеть»(Citation: 125).
+    Уцілілі будівлі колонізатор зайняв під клуби та склади. 21 січня 1967 року 277 вірян Назранівського району подали заяву про відкриття мечеті в селі Барсуки; чиновник з нагляду за релігією Асаулка повідомив до Москви, що районна адміністрація рішенням від 10 червня 1967 року відмовила «в розгляді заяви з тих мотивів, що, як встановлено перевіркою, «багато підписів під заявою вчинено не особами, зазначеними в заяві, а підроблено, прізвища деяких осіб вигадано»»(Citation: 646). 11 листопада 1969 року уряд регіону, підпорядкований Москві, постановою «Про заходи з посилення контролю за дотриманням законодавства про релігійні культи» записав, що в районах «служителі культу в ряді випадків самовільно займаються будівництвом і відкриттям молитовних будинків, влаштовують відправлення колективних обрядів у громадських місцях, організовують паломництво вірян до так званих «святих місць»», а «дієвих заходів, спрямованих на поступове припинення їхньої діяльності, не вживається»(Citation: 640). 18 травня 1977 року чиновник з нагляду за релігією Бобов доповідав главі цього уряду Керімову: «в республіці немає зареєстрованих в органах влади мусульманських релігійних об'єднань і служителів культу, водночас, усупереч закону, неофіційно діє 263 мусульманських релігійних товариств і груп»(Citation: 644). 19 серпня 1980 року Бобов повідомив до Москви: в республіці «є 62 будівлі колишніх мечетей… 17 під клуби та школи, 25 як складські приміщення, 8 як цехи заводів, поштові відділення, магазини, 2 передано в користування вірянам»(Citation: 645).
+    Історики Я. З. Ахмадов та Е. Х. Хасмагомадов пишуть, що окупаційна влада регіону «прямо забороняла відкривати в чеченських та інгуських селищах мечеті, але й не дозволяла численним мюридським [релігійним] громадам відкрито проводити релігійні обряди»(Citation: 125).

@@ -1,0 +1,14 @@
+type: procedure
+id: C0043.T0113.001
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0113.001
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: 'Прямой указ правителя против самого языка местного населения в печати: тем же указом Петра I книги предписано сверять с московскими, «дабы никакой розни и особливаго наречия в оных не было»(Citation: 143).'
+  en: 'The ruler''s direct decree against the very language of the local population in print: the same decree of Peter I ordered books to be checked against Muscovite ones, "so that there be no discord or distinct dialect in them"(Citation: 143).'
+  uk: 'Прямий указ правителя проти самої мови місцевого населення у друці: тим самим указом Петра I книги приписано звіряти з московськими, «аби ніякої різниці й осібного наріччя в них не було»(Citation: 143).'

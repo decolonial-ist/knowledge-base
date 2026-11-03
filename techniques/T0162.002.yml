@@ -1,0 +1,23 @@
+type: technique
+id: T0162.002
+created: 2026-08-06
+modified: 2026-08-06
+version: '1.0'
+parent: T0162
+tactics:
+- TA0004
+name:
+  ru: Убийство сдающихся
+  en: Killing of Those Who Surrender
+  uk: Вбивство тих, хто здається
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут убивать тех, кто складывает оружие и сдаётся.
+    Это запрещено статьёй 23(в) Гаагского положения - «убивать или ранить неприятеля, который, положив оружие... сдался» - и Римским статутом (статья 8(2)(b)(vi)).
+  en: |-
+    Aggressors may kill those who lay down their arms and surrender.
+    This is prohibited by Article 23(c) of the Hague Regulations - "to kill or wound an enemy who, having laid down his arms... has surrendered" - and by the Rome Statute (Article 8(2)(b)(vi)).
+  uk: |-
+    Агресори можуть вбивати тих, хто складає зброю і здається.
+    Це заборонено статтею 23(в) Гаазького положення - «вбивати або ранити неприятеля, який, поклавши зброю... здався» - і Римським статутом (стаття 8(2)(b)(vi)).

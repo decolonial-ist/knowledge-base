@@ -1,0 +1,21 @@
+type: tactic
+id: TA0002
+created: 2026-05-23
+modified: 2026-07-12
+version: '1.0'
+shortname: preparation
+order: 2
+name:
+  ru: Подготовка к захвату
+  en: Preparation for Seizure
+  uk: Підготовка до захоплення
+description:
+  ru: |-
+    Действия, создающие условия для будущего захвата: разведка, скупка элит, медиа и активов, создание экономических и военных зависимостей, договоры с двойным дном, инфильтрация институтов.
+    На этом этапе агрессор ещё не контролирует территорию, но уже подтачивает её способность к самостоятельному существованию и защите.
+  en: |-
+    Actions that create the conditions for a future seizure: reconnaissance, buying up elites, media, and assets, creating economic and military dependencies, treaties with hidden agendas, infiltration of institutions.
+    At this stage the aggressor does not yet control the territory, but is already undermining its capacity for independent existence and self-defense.
+  uk: |-
+    Дії, що створюють умови для майбутнього захоплення: розвідка, скуповування еліт, медіа та активів, створення економічних і військових залежностей, договори з подвійним дном, інфільтрація інституцій.
+    На цьому етапі агресор ще не контролює територію, але вже підточує її здатність до самостійного існування та захисту.

@@ -1,0 +1,47 @@
+type: procedure
+id: C0074.T0077
+created: 2026-04-27
+modified: 2026-08-30
+version: '1.0'
+technique: T0077
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Сопротивление сёл захваченной Украины связало войска на весь 1919 год.
+    Командующий Украинским фронтом РСФСР Антонов-Овсеенко 18 апреля 1919 года докладывал главнокомандующему вооружёнными силами РСФСР Вацетису, что войск для Южного фронта не даст: «Сейчас идет упорный бой у Шепетовки и Тирасполя и упорная борьба с кулацкими восстаниями повсеместно».
+    Вацетис написал на докладе: «Приказ выполнить и донести»(Citation: 571).
+    Через две недели, 3 мая 1919 года, Антонов-Овсеенко повторил отказ и назвал масштаб: «в 30 верстах от Киева кулацкое восстание, до трех тысяч хорошо вооруженных с 8-ю орудиями».
+    Вацетис ответил прежним: «Повторяю, что приказ должен быть выполнен»(Citation: 572).
+
+    Для командования украинские крестьяне, поднявшиеся против изъятия, были не противником, а помехой снабжению фронта: украинское село оно считало тылом, который следует держать в порядке, пока основные силы решают задачи Москвы.
+
+    Против поднявшихся сёл шла и корабельная артиллерия: 2-5 мая 1919 года вооружённые пароходы Днепровской речной флотилии обстреливали занятые повстанцами Чернобыль, Плюты и Триполье - суда «Арнольд», «Верный» и «Адмирал» названы в оперативной сводке поимённо(Citation: 565).
+
+    25 мая 1919 года, подводя армиям фронта итоги боёв с украинскими частями командира Григорьева, поднявшимися против советской власти, Антонов-Овсеенко расписал армиям порядок зачистки: сдавшихся передавать военным трибуналам советской власти, «главарей и начальников» выделять отдельно, а сёла в местах действий армий разоружать, взяв заложников; подписали приказ вместе с ним комиссар Савицкий и начальник штаба Бабин(Citation: 580).
+  en: |-
+    The resistance of the villages of captured Ukraine tied down troops for the whole of 1919.
+    On 18 April 1919 Antonov-Ovseenko, commander of the RSFSR's Ukrainian Front, reported to Vatsetis, commander-in-chief of the RSFSR armed forces, that he would give no troops for the Southern Front: "Right now there is hard fighting at Shepetivka and Tiraspol and a hard struggle with kulak uprisings everywhere."
+    Vatsetis wrote on the report: "Carry out the order and report back"(Citation: 571).
+    Two weeks later, on 3 May 1919, Antonov-Ovseenko repeated his refusal and named the scale: "30 versts from Kyiv there is a kulak uprising, up to three thousand well-armed men with 8 guns."
+    Vatsetis answered as before: "I repeat that the order must be carried out"(Citation: 572).
+
+    For the command, the Ukrainian peasants who had risen against the seizures were not an adversary but a hindrance to supplying the front: it regarded the Ukrainian village as a rear area to be kept in order while the main forces carried out Moscow's tasks.
+
+    Naval artillery was turned on the risen villages too: on 2-5 May 1919 the armed steamers of the Dnipro river flotilla shelled Chornobyl, Pliuty and Trypillia, held by the insurgents - the vessels "Arnold," "Verny" and "Admiral" are named in the operational summary one by one(Citation: 565).
+
+    On 25 May 1919, summing up for the armies of the front the fighting against the Ukrainian units of commander Hryhoriv, who had risen against the Soviet authority, Antonov-Ovseenko laid down the order of the mopping-up: those who surrendered were to be handed to the military tribunals of the Soviet authority, "ringleaders and chiefs" singled out separately, and the villages in the armies' areas of operation disarmed with the taking of hostages; the order was signed with him by commissar Savitsky and chief of staff Babin(Citation: 580).
+  uk: |-
+    Опір сіл захопленої України зв'язав війська на весь 1919 рік.
+    Командувач Українського фронту РСФРР Антонов-Овсєєнко 18 квітня 1919 року доповідав головнокомандувачу збройних сил РСФРР Вацетісу, що військ для Південного фронту не дасть: «Зараз іде впертий бій біля Шепетівки й Тирасполя і вперта боротьба з куркульськими повстаннями повсюдно».
+    Вацетіс написав на доповіді: «Наказ виконати і донести»(Citation: 571).
+    Через два тижні, 3 травня 1919 року, Антонов-Овсєєнко повторив відмову і назвав масштаб: «за 30 верст від Києва куркульське повстання, до трьох тисяч добре озброєних із 8-ма гарматами».
+    Вацетіс відповів тим самим: «Повторюю, що наказ має бути виконаний»(Citation: 572).
+
+    Для командування українські селяни, що піднялися проти вилучення, були не противником, а перешкодою постачанню фронту: українське село воно вважало тилом, який слід тримати в порядку, поки основні сили виконують завдання Москви.
+
+    Проти сіл, що піднялися, йшла й корабельна артилерія: 2-5 травня 1919 року озброєні пароплави Дніпровської річкової флотилії обстрілювали зайняті повстанцями Чорнобиль, Плюти і Трипілля - судна «Арнольд», «Вєрний» і «Адмірал» названі в оперативному зведенні поіменно(Citation: 565).
+
+    25 травня 1919 року, підбиваючи арміям фронту підсумки боїв з українськими частинами командира Григор'єва, що піднялися проти радянської влади, Антонов-Овсєєнко розписав арміям порядок зачистки: тих, хто здався, передавати військовим трибуналам радянської влади, «ватажків і начальників» виділяти окремо, а села в місцях дій армій роззброювати, взявши заручників; підписали наказ разом із ним комісар Савицький і начальник штабу Бабін(Citation: 580).

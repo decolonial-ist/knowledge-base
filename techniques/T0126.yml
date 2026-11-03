@@ -1,0 +1,28 @@
+type: technique
+id: T0126
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Предотвращение деторождения
+  en: Prevention of Births
+  uk: Запобігання дітонародженню
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут целенаправленно блокировать биологическое воспроизводство колонизируемой группы для постепенного снижения её демографического потенциала.
+    Метод заключается в лишении людей физической возможности зачать или выносить ребенка.
+    Это реализуется через прямое медицинское насилие, такое как недобровольная стерилизация, либо через системное создание среды, непригодной для беременности и родов.
+    Применение этой техники позволяет ослабить сообщество в долгосрочной перспективе, избегая массового физического устранения текущего поколения.
+  en: |-
+    Aggressors may deliberately block the biological reproduction of the colonized group in order to gradually reduce its demographic potential.
+    The method consists of depriving people of the physical ability to conceive or carry a child.
+    This is implemented through direct medical violence, such as involuntary sterilization, or through the systematic creation of an environment unsuitable for pregnancy and childbirth.
+    The use of this technique makes it possible to weaken the community in the long term while avoiding the mass physical elimination of the current generation.
+  uk: |-
+    Агресори можуть цілеспрямовано блокувати біологічне відтворення колонізованої групи для поступового зниження її демографічного потенціалу.
+    Метод полягає в позбавленні людей фізичної можливості зачати або виносити дитину.
+    Це реалізується через пряме медичне насильство, як-от недобровільна стерилізація, або через системне створення середовища, непридатного для вагітності та пологів.
+    Застосування цієї техніки дозволяє послабити спільноту в довгостроковій перспективі, уникаючи масового фізичного усунення нинішнього покоління.

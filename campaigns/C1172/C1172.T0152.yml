@@ -1,0 +1,26 @@
+type: procedure
+id: C1172.T0152
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0152
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Наместник на Кавказе Михаил Романов высказал пожелание привлечь к военным действиям в Чечне дагестанскую милицию (милиция - вооружённые отряды горцев на службе империи), а со стороны Дагестана, близ селения Ботлих, был сосредоточен отряд из регулярной пехоты и 12 сотен конной и пешей дагестанской милиции(Citation: 125).
+    В начале мая в соседнем Дагестане был собран отряд полковника Накашидзе - два батальона Апшеронского и Самурского полков, 6 дружин и 3 сотни милиции при орудиях(Citation: 125).
+    Разгром завершился тем же способом: селение Согратль в Дагестане, где укрылись руководители восстания, было окружено русскими войсками и дагестанской милицией(Citation: 95).
+    Часть подавления империя перекладывала на самих колонизированных, оставляя за собой роль арбитра и закрепляя вражду между соседями.
+  en: |-
+    The viceroy in the Caucasus, Mikhail Romanov, expressed the wish to bring the Dagestani militia (militia - armed detachments of highlanders in the empire's service) into the military operations in Chechnya, and on the Dagestan side, near the village of Botlikh, a detachment of regular infantry and 12 sotnias of mounted and foot Dagestani militia was concentrated(Citation: 125).
+    At the beginning of May a detachment under Colonel Nakashidze was assembled in neighboring Dagestan - two battalions of the Apsheronsky and Samursky regiments, 6 druzhinas and 3 sotnias of militia with guns(Citation: 125).
+    The rout was completed in the same manner: the village of Sogratl in Dagestan, where the leaders of the uprising had taken refuge, was surrounded by Russian troops and the Dagestani militia(Citation: 95).
+    Part of the suppression the empire shifted onto the colonized themselves, keeping for itself the role of arbiter and entrenching enmity between neighbors.
+  uk: |-
+    Намісник на Кавказі Михайло Романов висловив побажання залучити до воєнних дій у Чечні дагестанську міліцію (міліція - озброєні загони горців на службі імперії), а з боку Дагестану, поблизу селища Ботліх, було зосереджено загін із регулярної піхоти і 12 сотень кінної та пішої дагестанської міліції(Citation: 125).
+    На початку травня в сусідньому Дагестані було зібрано загін полковника Накашідзе - два батальйони Апшеронського і Самурського полків, 6 дружин і 3 сотні міліції при гарматах(Citation: 125).
+    Розгром завершився тим самим способом: селище Согратль у Дагестані, де сховалися керівники повстання, було оточене російськими військами і дагестанською міліцією(Citation: 95).
+    Частину придушення імперія перекладала на самих колонізованих, залишаючи за собою роль арбітра і закріплюючи ворожнечу між сусідами.

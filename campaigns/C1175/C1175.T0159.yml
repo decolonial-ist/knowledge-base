@@ -1,0 +1,26 @@
+type: procedure
+id: C1175.T0159
+created: 2026-08-06
+modified: 2026-08-06
+version: '1.0'
+technique: T0159
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Российская империя по итогам «червленских совещаний» 1905-1906 годов установила механизм круговой денежной ответственности: штрафы с виновных, «а в случае их материальной несостоятельности - штрафные санкции переходили на сельское общество, к которому принадлежал виновный»(Citation: 125).
+    Старые Атаги за укрывательство земляка-абрека оштрафованы дважды - на 3, затем на 6 тысяч рублей; им же предписано в трёхдневный срок сдать «100 винтовок, две тысячи патронов и 500 кинжалов», выдать укрывавшихся в селе абреков Томаева и Хорсиева и «собрать средства на оборудование сельского полицейского участка телефонной связью»(Citation: 125).
+    Цацан-Юрт в 1908 году выплатил «контрибуцию» за несданное оружие - 7 тысяч рублей(Citation: 125).
+    В 1911 году приказом наместника со всего чеченского населения Грозненского и Веденского округов «взыскано 100 тысяч рублей» в возмещение пострадавшим «...во время нападения шайки Зелимхана»(Citation: 125).
+  en: |-
+    Following the Chervlyonnaya conferences of 1905-1906 the Russian Empire established a mechanism of circular monetary responsibility: fines on the guilty, "and in the event of their financial insolvency - the penal sanctions passed to the village community to which the guilty party belonged"(Citation: 125).
+    Starye Atagi was fined twice for sheltering its fellow villager, an abrek - 3, then 6 thousand rubles; the same village was ordered, within three days, to hand over "100 rifles, two thousand cartridges and 500 daggers", to give up the abreks Tomayev and Khorsiev who were sheltering in the village, and "to collect funds for equipping the village police station with telephone communication"(Citation: 125).
+    Tsatsan-Yurt in 1908 paid a "contribution" for undelivered weapons - 7 thousand rubles(Citation: 125).
+    In 1911, by order of the Viceroy, "100 thousand rubles were exacted" from the entire Chechen population of the Grozny and Vedeno okrugs in compensation to those who had suffered "...during the attack of Zelimkhan's band"(Citation: 125).
+  uk: |-
+    За підсумками «червленських нарад» 1905-1906 років Російська імперія встановила механізм кругової грошової відповідальності: штрафи з винних, «а в разі їхньої матеріальної неспроможності - штрафні санкції переходили на сільську громаду, до якої належав винний»(Citation: 125).
+    Старі Атаги за переховування земляка-абрека оштрафовано двічі - на 3, потім на 6 тисяч рублів; їм же приписано у триденний строк здати «100 гвинтівок, дві тисячі патронів і 500 кинджалів», видати абреків Томаєва і Хорсієва, які переховувалися в селі, і «зібрати кошти на обладнання сільської поліцейської дільниці телефонним зв'язком»(Citation: 125).
+    Цацан-Юрт у 1908 році виплатив «контрибуцію» за нездану зброю - 7 тисяч рублів(Citation: 125).
+    У 1911 році наказом намісника з усього чеченського населення Грозненського і Веденського округів «стягнуто 100 тисяч рублів» у відшкодування постраждалим «...під час нападу зграї Зелімхана»(Citation: 125).

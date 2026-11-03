@@ -1,0 +1,14 @@
+type: procedure
+id: C1033.T0101
+created: 2026-04-20
+modified: 2026-04-20
+version: '1.0'
+technique: T0101
+people: nokhchi
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: 'Создание Временного информационного центра для цензуры и физическое выдворение независимых репортеров из зоны боевых действий(Citation: 27).'
+  en: 'Creation of a Provisional Information Center for censorship and the physical expulsion of independent reporters from the combat zone(Citation: 27).'
+  uk: 'Створення Тимчасового інформаційного центру для цензури та фізичне видворення незалежних репортерів із зони бойових дій(Citation: 27).'

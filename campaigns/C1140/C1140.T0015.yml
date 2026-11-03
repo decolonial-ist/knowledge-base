@@ -1,0 +1,23 @@
+type: procedure
+id: C1140.T0015
+created: 2026-06-26
+modified: 2026-08-07
+version: '1.0'
+technique: T0015
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя покупала лояльность старшин нохчи, чтобы их руками привести не подчинившиеся селения к подданству.
+    Главнокомандующий на Кавказе генерал Гудович поручил андреевскому старшине Хаджи-Реджебу склонять деревни «в покорность и подданство», а чеченскому узденю Бик-Булату назначил жалованье — «уговорил Чеченского узденя Бик-булата… которому сказал я… в год по 300 р. с. жалованья»; на привлечение остальных деревень выделялось «для приведения в верноподданство денег серебром около 3,000 р.»(Citation: 99).
+    Тот же подкуп со стороны нохчи фиксирует историк Д. А. Хожаев: через посредника Хаджи-Реджеба именем главнокомандующего на Кавказе генерала Гудовича был уговорен сам глава чеченского сопротивления Бейбулат Таймиев, учинивший «на верность подданству России присягу», а Хаджи-Реджеб просил у генералов еще 3000 рублей серебром «для приведения в верноподданство остальных немирных чеченских деревень»(Citation: 95).
+  en: |-
+    The Russian Empire bought the loyalty of Nokhchi elders in order to use them to bring recalcitrant villages into subjecthood.
+    The commander-in-chief in the Caucasus, General Gudovich, instructed the Andreyevo elder Hadji-Redjeb to incline the villages “into submission and subjecthood,” and assigned a salary to the Chechen uzden Bik-Bulat — “I persuaded the Chechen uzden Bik-Bulat… to whom I said… a salary of 300 r. in silver per year”; for winning over the remaining villages, “about 3,000 r. in silver for bringing them into loyal subjecthood” was allocated(Citation: 99).
+    The same bribery, from the Nokhchi side, is recorded by the historian D. A. Khozhaev: through the intermediary Hadji-Redjeb, in the name of the commander-in-chief in the Caucasus, General Gudovich, the very head of the Chechen resistance, Beibulat Taimiev, was won over and took “an oath of fidelity of subjecthood to Russia,” while Hadji-Redjeb asked the generals for another 3000 rubles in silver “for bringing the remaining unpacified Chechen villages into loyal subjecthood”(Citation: 95).
+  uk: |-
+    Російська імперія купувала лояльність старшин Нохчі, щоб їхніми руками привести до підданства селища, що не підкорилися.
+    Головнокомандувач на Кавказі генерал Гудович доручив андріївському старшині Хаджі-Реджебу схиляти села «до покірності й підданства», а чеченському узденю Бік-Булату призначив платню — «умовив чеченського узденя Бік-Булата… якому сказав я… по 300 р. с. платні на рік»; на залучення решти сіл виділялося «для приведення у вірнопідданство грошей сріблом близько 3,000 р.»(Citation: 99).
+    Той самий підкуп з боку Нохчі фіксує історик Д. А. Хожаєв: через посередника Хаджі-Реджеба іменем головнокомандувача на Кавказі генерала Гудовича було умовлено самого очільника чеченського опору Бейбулата Таймієва, який учинив «присягу на вірність підданству Росії», а Хаджі-Реджеб просив у генералів ще 3000 рублів сріблом «для приведення у вірнопідданство решти немирних чеченських сіл»(Citation: 95).

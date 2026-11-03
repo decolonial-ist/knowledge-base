@@ -1,0 +1,21 @@
+type: tactic
+id: TA0003
+created: 2026-05-23
+modified: 2026-07-12
+version: '1.0'
+shortname: seizure
+order: 3
+name:
+  ru: Захват управления
+  en: Seizure of Governance
+  uk: Захоплення управління
+description:
+  ru: |-
+    Установление контроля над политическими институтами колонизируемого народа: от военной интервенции и аннексии до марионеточных администраций и фиктивных договоров.
+    Цель – заменить субъектность народа управлением извне, при необходимости сохранив декоративные местные формы.
+  en: |-
+    Establishing control over the political institutions of the colonized people: from military intervention and annexation to puppet administrations and sham treaties.
+    The goal is to replace the people's agency with external rule, retaining decorative local forms where convenient.
+  uk: |-
+    Встановлення контролю над політичними інституціями колонізованого народу: від воєнної інтервенції та анексії до маріонеткових адміністрацій і фіктивних договорів.
+    Мета – замінити суб'єктність народу управлінням ззовні, за потреби зберігши декоративні місцеві форми.

@@ -1,0 +1,166 @@
+type: procedure
+id: C1193.T0109
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0109
+people: nokhchi
+actor: G0011
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Россия дважды провела на захваченной земле Ичкерии «выборы», чтобы выдать марионеточное правительство за выбранное народом(Citation: 27).
+
+    К осени 1995 года российская армия захватила Грозный, столицу Ичкерии, и равнину на севере республики. 24 октября 1995 года Россия поставила Завгаева во главе марионеточного правительства в Грозном (подробнее: «Марионеточное правительство»)(Citation: 27).
+
+    1 ноября 1995 года марионеточный парламент, собранный из депутатов советского времени, ввёл должность главы республики. 5 ноября депутаты назначили выборы на эту должность на 16 декабря, день выборов в российский парламент. 12 мая 1996 года марионеточные депутаты назначили выборы нового парламента на 16 июня, день выборов президента России(Citation: 27).
+
+    С 16 ноября 1995 года до дня голосования российские военные на блокпостах пускали в станицу Ассиновскую и село Серноводск на западе Ичкерии только прописанных там людей, а кандидатов и агитаторов не пускали (подробнее: «Транспортная блокада»).
+    С 11 по 20 декабря командующий оккупационными войсками Шкирко запретил въезжать в Грозный без особого пропуска.
+    Оккупанты на блокпостах не пускали в город журналистов с аккредитацией(Citation: 27).
+
+    12 декабря 1995 года марионеточный парламент разрешил голосовать на любом участке по любому документу(Citation: 27).
+    Подконтрольные России избирательные комиссии республики и Грозного назвали числа избирателей города, которые различались в два раза: 120 и 250 тысяч(Citation: 27)(Citation: 1352).
+    Обе комиссии отказались показать списки избирателей(Citation: 27).
+
+    Сотрудники Группы содействия, миссии Организации по безопасности и сотрудничеству в Европе (ОБСЕ), на дни голосования в декабре 1995 года уехали из Ичкерии.
+    Международных наблюдателей на выборах не было. 9 июня 1996 года, за неделю до новых выборов, марионеточное правительство объявило Группу содействия нежелательной (подробнее: «Выдворение внешних миссий»)(Citation: 27).
+
+    6 декабря 1995 года российские солдаты на блокпостах не пропустили в Грозный делегатов с юга Ичкерии, и съезд сторонников Хасбулатова, бывшего главы парламента в Москве, не состоялся. 9 декабря Хасбулатов, главный соперник Завгаева, отказался от участия в выборах(Citation: 27).
+
+    С 14 по 17 декабря 1995 года оккупанты проводили голосование за главу республики.
+    Российские войска не контролировали Шалинский район к юго-востоку от Грозного и горные районы на юге, и голосования там не было.
+    Сотни тысяч граждан Ичкерии уехали от войны из республики и голосовать не могли(Citation: 27). 18 декабря подконтрольная России избирательная комиссия в Грозном объявила, что проголосовали больше 60% населения и около 90% из них выбрали Завгаева(Citation: 27).
+    Руслан Ахтаханов, советник президента Ичкерии Джохара Дудаева, 21 апреля 1996 года рассказал общественному трибуналу российского фонда «Гласность» в Москве о голосовании в Самашках, селе на западе Ичкерии: «Жители Самашек говорили, что у них в селе выборов не было. <...> через неделю после назначенных выборов господин Завгаев, сидя в телестудии, благодарил население республики, которое так бурно его поддержало.
+    И сказал, что больше всего поддержало — 70-80 процентов населения — это село Самашки».
+    По словам Руслана Ахтаханова, перед выборами члены подконтрольной России сельской администрации обошли село и переписали в списки паспорта и подписи чеченцев. 99 процентов голосовавших 17 декабря, по его словам, были из этих списков(Citation: 988).
+
+    14 декабря 1995 года подконтрольная России администрация Гудермеса, второго по величине города республики, передала по радио, что выборы всё равно состоятся и стрелять в людей никто не будет, а Вооружённые силы Ичкерии в этот день освободили город от оккупантов. 17 декабря в девять вечера, как только закрылись участки, российские лётчики начали бомбить Гудермес (подробнее: «Неизбирательные нападения»)(Citation: 656).
+
+    10 июня 1996 года в Назрани, городе в подконтрольной России Ингушетии, делегации России и Ичкерии записали в протоколе о прекращении огня, что выборы пройдут после вывода российских войск и разоружения армии Ичкерии(Citation: 1124).
+    После подписания протокола представитель президента России в Ичкерии Лобов сказал по грозненскому телевидению: «Я не вижу серьезных причин для их [выборов] отмены или переноса, как того требуют сепаратисты» (так россияне называли правительство и Вооружённые силы Ичкерии)(Citation: 27). 14-16 июня колонизатор провёл выборы нового парламента республики и президента России, хотя его армия оставалась в Ичкерии.
+    Ирина Дементьева, корреспондент московской газеты «Известия», написала 20 июня: «Еще утром шестнадцатого… глава республики [Завгаев] назвал процент проголосовавших — 50.
+    Полутора часами позже председатель республиканского избиркома [избирательной комиссии]… сообщил тем же журналистам: на 12 часов дня проголосовало 23 процента избирателей».
+    Подконтрольная России избирательная комиссия в Грозном объявила, что проголосовали больше 60% избирателей и что президент России Ельцин набрал в Чеченской Республике больше половины голосов(Citation: 27). 17 и 18 июня ОБСЕ заявила, что выборы не были свободными и справедливыми, а решение их провести нарушило протоколы 10 июня о выводе войск(Citation: 27)(Citation: 1330)(Citation: 1331).
+
+    16 июня 1996 года не голосовали Гудермес и сёла Бачи-Юрт, Аллерой и Центорой на востоке Ичкерии.
+    Не голосовали станица Шелковская на севере республики, город Шали и сёла Курчалой и Ведено к юго-востоку от Грозного(Citation: 1127).
+    После 16 июня должностные лица и общественные деятели республики письменно подтвердили, что выборов не было в Гудермесе, а также в 64 сёлах, станицах и посёлках шести районов Ичкерии, в том числе там, где, по официальным данным, стояли российские войска.
+    Подчинённые России главы администраций подписали часть этих бумаг и заверили их печатями с гербом России, а одну бумагу - председатель и секретарь избирательной комиссии Гудермесского района(Citation: 27). 3 июля, во втором туре выборов, голосования не было в Шали, Новых Атагах, Гехи и Гехи-Чу к югу от Грозного.
+    Избирательная комиссия закрыла участок в Урус-Мартане, городе к юго-западу от Грозного, в четыре часа дня, объявив, что там уже проголосовали 98% избирателей.
+    По протоколам комиссий, во втором туре в Чеченской Республике проголосовали 74% избирателей и 73% из них выбрали Ельцина, а Центральная избирательная комиссия России сообщила, что сведений о нарушениях к ней не поступало(Citation: 27).
+
+    Правозащитники «Мемориала» пишут, что оба раза выборы не были подлинными и избиратели не могли свободно выразить свою волю(Citation: 27).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики. 27 января 1997 года граждане Ичкерии выбрали президента и парламент республики.
+    Президентом стал Аслан Масхадов(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Russia twice held "elections" on the seized land of Ichkeria to pass off the puppet government as chosen by the people(Citation: 27).
+
+    By the autumn of 1995, the Russian army had seized Grozny, the capital of Ichkeria, and the plain in the north of the republic.
+    On 24 October 1995, Russia put Zavgayev at the head of the puppet government in Grozny (see: "Puppet Government")(Citation: 27).
+
+    On 1 November 1995, the puppet parliament, assembled from deputies of the Soviet era, introduced the post of head of the republic.
+    On 5 November, the deputies scheduled the election for this post for 16 December, the day of the elections to the Russian parliament.
+    On 12 May 1996, the puppet deputies scheduled the election of a new parliament for 16 June, the day of the Russian presidential election(Citation: 27).
+
+    From 16 November 1995 until voting day, Russian servicemen at checkpoints let only people registered there into the stanitsa of Assinovskaya and the village of Sernovodsk in the west of Ichkeria, and did not let candidates and campaigners through (see: "Transport Blockade").
+    From 11 to 20 December, Shkirko, commander of the occupation troops, forbade entry into Grozny without a special pass.
+    The occupiers at checkpoints did not let accredited journalists into the city(Citation: 27).
+
+    On 12 December 1995, the puppet parliament allowed voting at any polling station with any document(Citation: 27).
+    The Russian-controlled election commissions of the republic and of Grozny gave numbers of the city's voters that differed twofold: 120 and 250 thousand(Citation: 27)(Citation: 1352).
+    Both commissions refused to show the voter lists(Citation: 27).
+
+    The staff of the Assistance Group, the mission of the Organization for Security and Co-operation in Europe (OSCE), left Ichkeria for the voting days in December 1995.
+    There were no international observers at the elections.
+    On 9 June 1996, a week before the new elections, the puppet government declared the Assistance Group undesirable (see: "Expulsion of Foreign Missions")(Citation: 27).
+
+    On 6 December 1995, Russian soldiers at checkpoints did not let delegates from the south of Ichkeria into Grozny, and the congress of supporters of Khasbulatov, the former head of the parliament in Moscow, did not take place.
+    On 9 December, Khasbulatov, Zavgayev's main rival, withdrew from the election(Citation: 27).
+
+    From 14 to 17 December 1995, the occupiers held the vote for head of the republic.
+    Russian troops did not control the Shali district southeast of Grozny or the mountain districts in the south, and there was no voting there.
+    Hundreds of thousands of citizens of Ichkeria had fled the war out of the republic and could not vote(Citation: 27).
+    On 18 December, the Russian-controlled election commission in Grozny announced that more than 60% of the population had voted and about 90% of them had chosen Zavgayev(Citation: 27).
+    On 21 April 1996, Ruslan Akhtakhanov, adviser to Dzhokhar Dudayev, the president of Ichkeria, told the public tribunal of the Russian Glasnost Foundation in Moscow about the voting in Samashki, a village in the west of Ichkeria: "The residents of Samashki said that there had been no elections in their village. <...> a week after the scheduled elections Mr. Zavgayev, sitting in a television studio, thanked the population of the republic that had supported him so vigorously.
+    And he said that the strongest support — 70-80 percent of the population — came from the village of Samashki."
+    According to Ruslan Akhtakhanov, before the elections members of the Russian-controlled village administration went around the village and copied the Chechens' passports and signatures into lists.
+    Ninety-nine percent of those who voted on 17 December, he said, were from these lists(Citation: 988).
+
+    On 14 December 1995, the Russian-controlled administration of Gudermes, the second-largest town of the republic, broadcast by radio that the elections would be held anyway and that no one would shoot at people, while the Armed Forces of Ichkeria liberated the town from the occupiers that day.
+    On 17 December at nine in the evening, as soon as the polling stations closed, Russian pilots began bombing Gudermes (see: "Indiscriminate Attacks")(Citation: 656).
+
+    On 10 June 1996, in Nazran, a town in Russian-controlled Ingushetia, the delegations of Russia and Ichkeria recorded in the ceasefire protocol that elections would be held after the withdrawal of Russian troops and the disarmament of the army of Ichkeria(Citation: 1124).
+    After the signing of the protocol, Lobov, the representative of the president of Russia in Ichkeria, said on Grozny television: "I see no serious reasons for their [the elections'] cancellation or postponement, as the separatists demand" (that is what the Russians called the government and the Armed Forces of Ichkeria)(Citation: 27).
+    On 14-16 June, the colonizer held the election of a new parliament of the republic and of the president of Russia, although its army remained in Ichkeria.
+    Irina Dementyeva, correspondent of the Moscow newspaper Izvestia, wrote on 20 June: "As early as the morning of the sixteenth… the head of the republic [Zavgayev] named the percentage of those who had voted — 50.
+    An hour and a half later the chairman of the republican izbirkom [election commission]… told the same journalists: as of 12 noon, 23 percent of the voters had voted".
+    The Russian-controlled election commission in Grozny announced that more than 60% of the voters had voted and that Russian president Yeltsin had received more than half the votes in the Chechen Republic(Citation: 27).
+    On 17 and 18 June, the OSCE stated that the elections had not been free and fair and that the decision to hold them had violated the protocols of 10 June on the withdrawal of troops(Citation: 27)(Citation: 1330)(Citation: 1331).
+
+    On 16 June 1996, Gudermes and the villages of Bachi-Yurt, Alleroy and Tsentoroy in the east of Ichkeria did not vote.
+    The stanitsa of Shelkovskaya in the north of the republic, the town of Shali and the villages of Kurchaloy and Vedeno southeast of Grozny did not vote(Citation: 1127).
+    After 16 June, officials and public figures of the republic confirmed in writing that there had been no elections in Gudermes, or in 64 villages, stanitsas and settlements of six districts of Ichkeria, including places where, according to official data, Russian troops were stationed.
+    Heads of administrations subordinate to Russia signed some of these papers and certified them with seals bearing the coat of arms of Russia, and one paper was signed by the chairman and secretary of the election commission of the Gudermes district(Citation: 27).
+    On 3 July, in the second round of the election, there was no voting in Shali, Novye Atagi, Gekhi and Gekhi-Chu south of Grozny.
+    The election commission closed the polling station in Urus-Martan, a town southwest of Grozny, at four in the afternoon, announcing that 98% of the voters there had already voted.
+    According to the commissions' protocols, in the second round 74% of the voters in the Chechen Republic voted and 73% of them chose Yeltsin, and the Central Election Commission of Russia reported that it had received no information about violations(Citation: 27).
+
+    Human rights defenders of Memorial write that both times the elections were not genuine and the voters could not freely express their will(Citation: 27).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic.
+    On 27 January 1997, the citizens of Ichkeria elected the president and parliament of the republic.
+    Aslan Maskhadov became president(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Росія двічі провела на захопленій землі Ічкерії «вибори», щоб видати маріонетковий уряд за обраний народом(Citation: 27).
+
+    До осені 1995 року російська армія захопила Грозний, столицю Ічкерії, і рівнину на півночі республіки. 24 жовтня 1995 року Росія поставила Завгаєва на чолі маріонеткового уряду в Грозному (докладніше: «Маріонетковий уряд»)(Citation: 27).
+
+    1 листопада 1995 року маріонетковий парламент, зібраний із депутатів радянського часу, запровадив посаду глави республіки. 5 листопада депутати призначили вибори на цю посаду на 16 грудня, день виборів до російського парламенту. 12 травня 1996 року маріонеткові депутати призначили вибори нового парламенту на 16 червня, день виборів президента Росії(Citation: 27).
+
+    З 16 листопада 1995 року до дня голосування російські військові на блокпостах пускали в станицю Ассинівську і село Серноводськ на заході Ічкерії лише прописаних там людей, а кандидатів і агітаторів не пускали (докладніше: «Транспортна блокада»).
+    З 11 по 20 грудня командувач окупаційними військами Шкірко заборонив в'їжджати до Грозного без особливої перепустки.
+    Окупанти на блокпостах не пускали до міста журналістів з акредитацією(Citation: 27).
+
+    12 грудня 1995 року маріонетковий парламент дозволив голосувати на будь-якій дільниці за будь-яким документом(Citation: 27).
+    Підконтрольні Росії виборчі комісії республіки та Грозного назвали числа виборців міста, які різнилися вдвічі: 120 і 250 тисяч(Citation: 27)(Citation: 1352).
+    Обидві комісії відмовилися показати списки виборців(Citation: 27).
+
+    Співробітники Групи сприяння, місії Організації з безпеки і співробітництва в Європі (ОБСЄ), на дні голосування в грудні 1995 року виїхали з Ічкерії.
+    Міжнародних спостерігачів на виборах не було. 9 червня 1996 року, за тиждень до нових виборів, маріонетковий уряд оголосив Групу сприяння небажаною (докладніше: «Видворення зовнішніх місій»)(Citation: 27).
+
+    6 грудня 1995 року російські солдати на блокпостах не пропустили до Грозного делегатів з півдня Ічкерії, і з'їзд прихильників Хасбулатова, колишнього глави парламенту в Москві, не відбувся. 9 грудня Хасбулатов, головний суперник Завгаєва, відмовився від участі у виборах(Citation: 27).
+
+    З 14 по 17 грудня 1995 року окупанти проводили голосування за главу республіки.
+    Російські війська не контролювали Шалінський район на південний схід від Грозного і гірські райони на півдні, і голосування там не було.
+    Сотні тисяч громадян Ічкерії виїхали від війни з республіки і голосувати не могли(Citation: 27). 18 грудня підконтрольна Росії виборча комісія в Грозному оголосила, що проголосували понад 60% населення і близько 90% з них обрали Завгаєва(Citation: 27).
+    Руслан Ахтаханов, радник президента Ічкерії Джохара Дудаєва, 21 квітня 1996 року розповів громадському трибуналу російського фонду «Гласність» у Москві про голосування в Самашках, селі на заході Ічкерії: «Жителі Самашок казали, що в них у селі виборів не було. <...> через тиждень після призначених виборів пан Завгаєв, сидячи в телестудії, дякував населенню республіки, яке так бурхливо його підтримало.
+    І сказав, що найбільше підтримало — 70-80 відсотків населення — це село Самашки».
+    За словами Руслана Ахтаханова, перед виборами члени підконтрольної Росії сільської адміністрації обійшли село і переписали в списки паспорти та підписи чеченців. 99 відсотків тих, хто голосував 17 грудня, за його словами, були з цих списків(Citation: 988).
+
+    14 грудня 1995 року підконтрольна Росії адміністрація Гудермеса, другого за величиною міста республіки, передала по радіо, що вибори все одно відбудуться і стріляти в людей ніхто не буде, а Збройні сили Ічкерії того дня звільнили місто від окупантів. 17 грудня о дев'ятій вечора, як тільки закрилися дільниці, російські льотчики почали бомбити Гудермес (докладніше: «Невибіркові напади»)(Citation: 656).
+
+    10 червня 1996 року в Назрані, місті в підконтрольній Росії Інгушетії, делегації Росії та Ічкерії записали в протоколі про припинення вогню, що вибори пройдуть після виведення російських військ і роззброєння армії Ічкерії(Citation: 1124).
+    Після підписання протоколу представник президента Росії в Ічкерії Лобов сказав по грозненському телебаченню: «Я не бачу серйозних причин для їх [виборів] скасування чи перенесення, як того вимагають сепаратисти» (так росіяни називали уряд і Збройні сили Ічкерії)(Citation: 27). 14-16 червня колонізатор провів вибори нового парламенту республіки та президента Росії, хоча його армія залишалася в Ічкерії.
+    Ірина Дементьєва, кореспондентка московської газети «Ізвєстія», написала 20 червня: «Ще вранці шістнадцятого… глава республіки [Завгаєв] назвав відсоток тих, хто проголосував, — 50.
+    Через півтори години голова республіканського виборчкому [виборчої комісії]… повідомив тим самим журналістам: на 12 годину дня проголосувало 23 відсотки виборців».
+    Підконтрольна Росії виборча комісія в Грозному оголосила, що проголосували понад 60% виборців і що президент Росії Єльцин набрав у Чеченській Республіці більше половини голосів(Citation: 27). 17 і 18 червня ОБСЄ заявила, що вибори не були вільними і справедливими, а рішення їх провести порушило протоколи 10 червня про виведення військ(Citation: 27)(Citation: 1330)(Citation: 1331).
+
+    16 червня 1996 року не голосували Гудермес і села Бачі-Юрт, Аллерой і Центорой на сході Ічкерії.
+    Не голосували станиця Шелковська на півночі республіки, місто Шалі та села Курчалой і Ведено на південний схід від Грозного(Citation: 1127).
+    Після 16 червня посадові особи та громадські діячі республіки письмово підтвердили, що виборів не було в Гудермесі, а також у 64 селах, станицях і селищах шести районів Ічкерії, у тому числі там, де, за офіційними даними, стояли російські війська.
+    Підпорядковані Росії глави адміністрацій підписали частину цих паперів і завірили їх печатками з гербом Росії, а один папір - голова і секретар виборчої комісії Гудермеського району(Citation: 27). 3 липня, у другому турі виборів, голосування не було в Шалі, Нових Атагах, Гехі та Гехі-Чу на південь від Грозного.
+    Виборча комісія закрила дільницю в Урус-Мартані, місті на південний захід від Грозного, о четвертій годині дня, оголосивши, що там уже проголосували 98% виборців.
+    За протоколами комісій, у другому турі в Чеченській Республіці проголосували 74% виборців і 73% з них обрали Єльцина, а Центральна виборча комісія Росії повідомила, що відомостей про порушення до неї не надходило(Citation: 27).
+
+    Правозахисники «Меморіалу» пишуть, що обидва рази вибори не були справжніми і виборці не могли вільно висловити свою волю(Citation: 27).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки. 27 січня 1997 року громадяни Ічкерії обрали президента і парламент республіки.
+    Президентом став Аслан Масхадов(Citation: 27).

@@ -1,0 +1,23 @@
+type: technique
+id: T0139
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+- TA0004
+name:
+  ru: Возведение крепостей
+  en: Construction of Fortresses
+  uk: Зведення фортець
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут строить крепости, остроги и цепи оборонительных рубежей (военные линии) на территориях коренных народов.
+    Эта инфраструктура физически отрезает местное население от жизненно важных ресурсов (например, равнинных пастбищ), блокирует коммуникации и служит защищенным плацдармом для постоянного размещения оккупационных войск и последующего переселения колонистов из метрополии.
+  en: |-
+    Aggressors may build fortresses, ostrogs (stockaded forts), and chains of defensive lines (military lines) on the territories of Indigenous peoples.
+    This infrastructure physically cuts the local population off from vital resources (for example, lowland pastures), blocks communications, and serves as a protected staging ground for the permanent stationing of occupation troops and the subsequent resettlement of colonists from the metropole.
+  uk: |-
+    Агресори можуть будувати фортеці, остроги та ланцюги оборонних рубежів (військові лінії) на територіях корінних народів.
+    Ця інфраструктура фізично відрізає місцеве населення від життєво важливих ресурсів (наприклад, рівнинних пасовищ), блокує комунікації та слугує захищеним плацдармом для постійного розміщення окупаційних військ і подальшого переселення колоністів із метрополії.

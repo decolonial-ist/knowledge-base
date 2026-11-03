@@ -1,0 +1,16 @@
+type: procedure
+id: C1132.T0105
+created: 2026-06-21
+modified: 2026-06-21
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Регулярная армия Российской империи физически ликвидировала поселение горцев: историк Ш. Б. Ахмадов констатирует, что отряд под командованием полковника Коха «7 июля вступил в деревню Чечень, полностью сжег ее и стал спешно отходить назад»(Citation: 66).'
+  en: |-
+    The Regular Army of the Russian Empire physically eliminated a highlander settlement: historian Sh.
+    B. Akhmadov states that the detachment under the command of Colonel Koch «entered the village of Chechen on July 7, burned it down completely, and began hastily withdrawing»(Citation: 66).
+  uk: 'Регулярна армія Російської імперії фізично ліквідувала поселення горців: історик Ш. Б. Ахмадов констатує, що загін під командуванням полковника Коха «7 липня вступив у село Чечень, повністю спалив його і почав спішно відходити назад»(Citation: 66).'

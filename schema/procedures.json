@@ -1,0 +1,123 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Процедура",
+  "description": "Файл campaigns/C1193/C1193.T0023.yml: процедура кампании C1193 на технике T0023; имя файла = id = кампания.техника (адрес страницы сайта).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "type",
+    "id",
+    "created",
+    "modified",
+    "version",
+    "technique",
+    "people",
+    "actor",
+    "tool",
+    "contributors",
+    "description"
+  ],
+  "properties": {
+    "type": {
+      "const": "procedure"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^C\\d{4}\\.T\\d{4}(\\.\\d{3})?$"
+    },
+    "created": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "modified": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+$"
+    },
+    "technique": {
+      "type": "string",
+      "pattern": "^T\\d{4}(\\.\\d{3})?$"
+    },
+    "people": {
+      "type": "string",
+      "enum": [
+        "nokhchi",
+        "ukrainians"
+      ]
+    },
+    "actor": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^G\\d{4}$"
+    },
+    "tool": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^S\\d{4}$"
+    },
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ru",
+          "en",
+          "uk"
+        ],
+        "properties": {
+          "ru": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 0
+          },
+          "uk": {
+            "type": "string",
+            "minLength": 0
+          }
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ru",
+        "en",
+        "uk"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string",
+          "minLength": 0
+        },
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    }
+  }
+}

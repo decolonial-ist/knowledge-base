@@ -1,0 +1,22 @@
+type: technique
+id: T0131
+created: 2026-04-26
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0002
+name:
+  ru: Поддержка подконтрольной оппозиции
+  en: Support for a Controlled Opposition
+  uk: Підтримка підконтрольної опозиції
+contributors: []
+description:
+  ru: |-
+    Агрессор тайно или явно обеспечивает всестороннюю поддержку (финансовую, медийную, организационную и политическую) подконтрольным политическим силам внутри колонизируемого общества.
+    Цель - создать легальную пятую колонну, которая будет действовать в интересах метрополии, маскируя внешнее вмешательство под внутренний политический процесс.
+  en: |-
+    The aggressor covertly or overtly provides comprehensive support (financial, media, organizational, and political) to controlled political forces within the colonized society.
+    The goal is to create a legal fifth column that will act in the interests of the metropole, disguising external interference as an internal political process.
+  uk: |-
+    Агресор таємно або відкрито забезпечує всебічну підтримку (фінансову, медійну, організаційну та політичну) підконтрольним політичним силам усередині колонізованого суспільства.
+    Мета — створити легальну п'яту колону, яка діятиме в інтересах метрополії, маскуючи зовнішнє втручання під внутрішній політичний процес.

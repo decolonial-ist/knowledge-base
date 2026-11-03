@@ -1,0 +1,27 @@
+type: tool
+id: S0024
+created: 2026-05-18
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Полицейский аппарат
+  en: Police Apparatus
+  uk: Поліцейський апарат
+contributors: []
+description:
+  ru: |-
+    Полицейский аппарат обеспечивает повседневный силовой и административный контроль над обществом.
+    Этот инструмент нужен метрополии для удержания власти, поддержания нужного порядка на местах, а также для базового учета населения, в том числе через механизмы регистрации и ограничения перемещений.
+    С 1600-х годов и по сей день эта система меняла лишь вывески: воеводские избы и сыскные приказы сменились городской полицией и адрес-конторами в Российской Империи.
+    В советское время эта ветвь власти воплотилась в масштабных структурах НКВД и МВД, и сегодня эту же надзорную и административную функцию продолжает выполнять современная система МВД.
+  en: |-
+    The police apparatus provides everyday coercive and administrative control over society.
+    The metropole needs this instrument to hold on to power, to maintain the desired order on the ground, and to keep basic records of the population, including through mechanisms of registration and restrictions on movement.
+    From the 1600s to the present day, this system has changed only its signboards: voivode offices and investigative prikazes gave way to the city police and address bureaus in the Russian Empire.
+    In the Soviet era, this branch of power was embodied in the vast structures of the NKVD and the MVD, and today the same supervisory and administrative function continues to be performed by the modern MVD system.
+  uk: |-
+    Поліцейський апарат забезпечує повсякденний силовий та адміністративний контроль над суспільством.
+    Цей інструмент потрібен метрополії для утримання влади, підтримання потрібного порядку на місцях, а також для базового обліку населення, зокрема через механізми реєстрації та обмеження пересування.
+    Від 1600-х років і донині ця система змінювала лише вивіски: воєводські ізби та розшукові прикази змінилися міською поліцією й адресними конторами в Російській імперії.
+    За радянських часів ця гілка влади втілилася в масштабних структурах НКВС і МВС, а сьогодні ту саму наглядову й адміністративну функцію продовжує виконувати сучасна система МВС.

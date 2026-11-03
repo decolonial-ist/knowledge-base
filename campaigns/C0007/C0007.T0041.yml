@@ -1,0 +1,14 @@
+type: procedure
+id: C0007.T0041
+created: 2026-04-24
+modified: 2026-04-24
+version: '1.0'
+technique: T0041
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: 'Для обеспечения постоянного силового надзора за высшим руководством автономии и предотвращения восстаний, Московское царство разместило свои регулярные войска прямо в гетманской столице: «при гетмане в Батурине для охранения и целости его, быть полку московскому стрелецкому...»(Citation: 4).'
+  en: 'To ensure constant armed oversight of the autonomy''s top leadership and to prevent uprisings, the Tsardom of Muscovy stationed its regular troops directly in the hetman''s capital: "with the hetman in Baturyn, for his protection and safety, there shall be a Muscovite streltsy regiment..."(Citation: 4).'
+  uk: 'Для забезпечення постійного силового нагляду за вищим керівництвом автономії та запобігання повстанням Московське царство розмістило свої регулярні війська прямо в гетьманській столиці: «при гетьмані в Батурині для охорони й цілості його бути полку московському стрілецькому...»(Citation: 4).'

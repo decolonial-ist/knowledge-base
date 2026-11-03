@@ -1,0 +1,14 @@
+type: procedure
+id: C1030.T0162.004
+created: 2026-04-20
+modified: 2026-08-29
+version: '1.0'
+technique: T0162.004
+people: nokhchi
+actor: G0011
+tool: S0017
+contributors: []
+description:
+  ru: 'Систематическое применение пыток током, жестоких избиений на допросах, а также пыточные условия этапирования штабелями, в результате чего люди задыхались и гибли(Citation: 27).'
+  en: 'Systematic use of electric shock torture and brutal beatings during interrogations, as well as torturous conditions of transport, with people stacked in piles, as a result of which they suffocated and died(Citation: 27).'
+  uk: 'Систематичне застосування катувань струмом, жорстоких побиттів на допитах, а також катівські умови етапування штабелями, внаслідок чого люди задихалися й гинули(Citation: 27).'

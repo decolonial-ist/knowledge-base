@@ -1,0 +1,41 @@
+type: campaign
+id: C1157
+created: 2026-07-15
+modified: 2026-09-05
+version: '1.1'
+people: nokhchi
+first_seen: 1836-08-27
+last_seen: 1836-08-27
+contributors: []
+name:
+  ru: Принуждение разорённого Зандака к подчинению и подати полковником Пулло (1836)
+  en: Coercion of Devastated Zandak into Subordination and Tribute by Colonel Pullo (1836)
+  uk: Примус зруйнованого Зандака до підпорядкування й податі полковником Пулло (1836)
+description:
+  ru: |-
+    23 августа 1836 отряд полковника Пулло разорил аул Зандак на реке Яман-су, захватив в плен жителей и угнав скот (кампания C1156).
+    Подчинение села было спроектировано самим разорением: Пулло расчётливо оставил часть домов несожжённой, чтобы разгромленному селу было куда вернуться просить «покорности».
+    В рапорте генералу Петрову от 27 августа 1836 он признал: «Будучи же уверен, что жители Зандака по общим правилам чеченцев после наказания станут просить покорности, и считая таковую полезным для правительства, я не приказал жечь деревни»(Citation: 126).
+    Тем же рапортом зафиксирован механизм принуждения: разорение Зандака, считавшегося неприступным, «привело как жителей деревни, так и всех живущих в окрестности оной в страх и уныние»(Citation: 126).
+    Под этим страхом уже 27 августа 1836 старшины разорённого села явились в крепость Грозную с вынужденной просьбой о принятии в подданство; Розен доносил военному министру: «27-го августа старшины Зандаковские явились к командующему Сунженскою линиею с изъявлением покорности, которая установленным порядком и принята от них»(Citation: 105).
+    «Покорность» принималась только на условиях империи: верность, полный разрыв с руководителем чеченского сопротивления Ташу-Хаджи, запрет собраний, выдача русских пленных в обмен на жителей Зандака, захваченных войсками при разорении села, и платёж подати по норме, установленной империей для обществ, которые она считала «покорными».
+    Пулло перечислял: зандаковцы «обязуются на предбудущее время остаться нам верными, не допущая жителей и до малейшаго сношения с Ташав-Гаджи... не позволять у себя мятежных сборищ, доставить наших пленных на размен своих взятых при разорении Зандака и платить наравне с ауховцами и прочими покорными племенами установленную подать»(Citation: 126).
+    Итог Пулло оценил как выгоду завоевателя: «Все вышеизложенныя следствия, возникшия от разорения зандаковцев, произвели важные для нас выгоды»(Citation: 126).
+  en: |-
+    On 23 August 1836, the detachment of Colonel Pullo devastated the aul of Zandak on the Yaman-su river, taking inhabitants captive and driving away livestock (campaign C1156).
+    The village's subordination was engineered by the devastation itself: Pullo calculatedly left some of the houses unburned so that the crushed village would have somewhere to return to beg for "submission".
+    In a report to General Petrov dated 27 August 1836 he admitted: "Being certain that the inhabitants of Zandak, following the common custom of the Chechens, would ask for submission after punishment, and considering such submission useful for the government, I did not order the village burned"(Citation: 126).
+    The same report recorded the mechanism of coercion: the devastation of Zandak, which had been considered impregnable, "brought both the inhabitants of the village and all those living in its vicinity into fear and despondency"(Citation: 126).
+    Under this fear, as early as 27 August 1836 the elders of the devastated village came to the Groznaya fortress with a forced plea to be accepted into subjecthood; Rozen reported to the Minister of War: "On 27 August the Zandak elders appeared before the commander of the Sunzha Line declaring their submission, which was accepted from them in the established order"(Citation: 105).
+    "Submission" was accepted only on the empire's terms: loyalty, a complete break with Tashu-Hadji, the leader of the Chechen resistance, a ban on assemblies, the handover of Russian captives in exchange for the inhabitants of Zandak seized by the troops during the devastation of the village, and payment of tribute at the rate established by the empire for the societies it deemed "submissive".
+    Pullo enumerated: the people of Zandak "pledge for the time to come to remain loyal to us, allowing the inhabitants not the slightest contact with Tashav-Hadji... not to permit rebellious gatherings among themselves, to deliver our captives in exchange for their own taken during the devastation of Zandak, and to pay, on a par with the Aukhovites and other submissive tribes, the established tribute"(Citation: 126).
+    Pullo assessed the outcome as the conqueror's gain: "All the above-stated consequences arising from the devastation of the Zandak people have produced important advantages for us"(Citation: 126).
+  uk: |-
+    23 серпня 1836 загін полковника Пулло зруйнував аул Зандак на річці Яман-су, захопивши в полон жителів і викравши худобу (кампанія C1156).
+    Підпорядкування села було спроєктоване самим руйнуванням: Пулло розважливо залишив частину будинків неспаленою, щоб розгромленому селу було куди повернутися просити «покірності».
+    У рапорті генералу Петрову від 27 серпня 1836 він визнав: «Будучи ж упевнений, що жителі Зандака за загальними правилами чеченців після покарання проситимуть покірності, і вважаючи таку корисною для уряду, я не наказав палити села»(Citation: 126).
+    Тим же рапортом зафіксовано механізм примусу: руйнування Зандака, що вважався неприступним, «привело як жителів села, так і всіх, хто живе в його околицях, у страх і зневіру»(Citation: 126).
+    Під цим страхом уже 27 серпня 1836 старшини зруйнованого села з'явилися до фортеці Грозної з вимушеним проханням про прийняття в підданство; Розен доносив військовому міністру: «27-го серпня старшини Зандаківські з'явилися до командувача Сунженською лінією з виявленням покірності, яку встановленим порядком і прийнято від них»(Citation: 105).
+    «Покірність» приймалася лише на умовах імперії: вірність, повний розрив із керівником чеченського опору Ташу-Хаджі, заборона зібрань, видача російських полонених в обмін на жителів Зандака, захоплених військами під час руйнування села, і сплата податі за нормою, встановленою імперією для суспільств, які вона вважала «покірними».
+    Пулло перелічував: зандаківці «зобов'язуються на майбутнє залишитися нам вірними, не допускаючи жителів і до найменших зносин із Ташав-Гаджі... не дозволяти в себе бунтівних зборищ, доставити наших полонених на обмін своїх, узятих під час руйнування Зандака, і платити нарівні з ауховцями та іншими покірними племенами встановлену подать»(Citation: 126).
+    Підсумок Пулло оцінив як вигоду завойовника: «Всі вищевикладені наслідки, що виникли від руйнування зандаківців, справили важливі для нас вигоди»(Citation: 126).

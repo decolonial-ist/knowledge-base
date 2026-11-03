@@ -1,0 +1,23 @@
+type: procedure
+id: C0074.T0114.002
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0114.002
+people: ukrainians
+actor: G0014
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Начальник администрации белых в Екатеринославской, Харьковской, Курской и Полтавской губерниях генерал Май-Маевский приказом № 22 от 3 августа 1919 года отрезал украинскую школу от государственных денег: «Отпуск кредитов из казны на содержание учебных заведений с преподаванием на малорусском языке не допускается»; земствам - органам местного самоуправления - и городам он запретил открывать и поддерживать такие школы, а уже открытым позволил существовать лишь «при условии принятия их на содержание частными лицами и обществами».
+    Учителям приказ закрыл и казённый статус: «право государственной службы» получали только преподаватели школ, признанных «укрепляющими идею единой русской государственности»(Citation: 582).
+    В Киеве той же осенью, по сводке советской стороны, «отпуск кредита школам на преподавание украинского языка прекращается»(Citation: 589).
+  en: |-
+    General Mai-Maevsky, head of the Whites' administration in Katerynoslav, Kharkiv, Kursk and Poltava provinces, by order No. 22 of 3 August 1919 cut the Ukrainian school off from state money: "The release of credits from the treasury for the maintenance of educational institutions with instruction in the Little Russian language is not permitted"; the zemstvos - the organs of local self-government - and the towns he forbade to open or support such schools, and those already open he allowed to exist only "on condition of their being taken over for maintenance by private persons and societies."
+    To the teachers the order closed off state standing as well: "the right of state service" was granted only to the teachers of schools recognized as "strengthening the idea of a single Russian statehood"(Citation: 582).
+    In Kyiv that same autumn, by a summary of the Soviet side, "the release of credit to schools for the teaching of the Ukrainian language is discontinued"(Citation: 589).
+  uk: |-
+    Начальник адміністрації білих у Катеринославській, Харківській, Курській і Полтавській губерніях генерал Май-Маєвський наказом № 22 від 3 серпня 1919 року відрізав українську школу від державних грошей: «Відпуск кредитів із казни на утримання навчальних закладів із викладанням малоруською мовою не допускається»; земствам - органам місцевого самоврядування - і містам він заборонив відкривати й підтримувати такі школи, а вже відкритим дозволив існувати лише «за умови прийняття їх на утримання приватними особами й товариствами».
+    Учителям наказ закрив і казенний статус: «право державної служби» отримували лише викладачі шкіл, визнаних «такими, що зміцнюють ідею єдиної російської державності»(Citation: 582).
+    У Києві тієї ж осені, за зведенням радянської сторони, «відпуск кредиту школам на викладання української мови припиняється»(Citation: 589).

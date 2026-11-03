@@ -1,0 +1,26 @@
+type: procedure
+id: C0086.T0077
+created: 2026-04-27
+modified: 2026-08-03
+version: '1.0'
+technique: T0077
+people: ukrainians
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Применение регулярных войск и танков для подавления восстаний украинских политзаключенных в системе концлагерей.
+    В Кенгире танки давили безоружных: «Около 200 украинских женщин взялись за руки и двинулись против танков.
+    Но танки не остановились и один за другим переехали живую фалангу.
+    А эмвэдэшники бросились к баракам, расстреливая каждого встречного…»(Citation: 214).
+  en: |-
+    Use of regular troops and tanks to suppress revolts of Ukrainian political prisoners in the concentration camp system.
+    In Kengir, tanks crushed the unarmed: "About 200 Ukrainian women joined hands and marched against the tanks.
+    But the tanks did not stop and one by one overcame the living phalanx.
+    And the MVD men rushed to the barracks, shooting everyone they encountered"(Citation: 214).
+  uk: |-
+    Застосування регулярних військ і танків для придушення повстань українських політв'язнів у системі концтаборів.
+    У Кенгірі танки чавили беззбройних: «Близько 200 українських жінок взялися за руки і рушили проти танків.
+    Але танки не зупинилися й один за одним переїхали живу фалангу.
+    А емведисти кинулися до бараків, розстрілюючи кожного зустрічного…»(Citation: 214).

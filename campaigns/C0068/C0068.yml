@@ -1,0 +1,30 @@
+type: campaign
+id: C0068
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1905-01-01
+last_seen: 1907-12-31
+contributors: []
+name:
+  ru: Черносотенный террор и погромы (1905–1907)
+  en: Black Hundred Terror and Pogroms (1905–1907)
+  uk: Чорносотенний терор і погроми (1905–1907)
+description:
+  ru: |-
+    Имперская власть спонсирует и покрывает радикальные русские националистические организации для подавления революции и террора.
+    «Союз русского народа» – «черносотенная организация…
+    Организация получала финансовую поддержку от государства, ей протежировал российский император Николай II…
+    Произошли спровоцированные «Союзом» массовые еврейские погромы, в частности в Украине, в «черте осёдлости»»(Citation: 196); из 400 тысяч её членов почти половина приходилась на украинские города(Citation: 196).
+  en: |-
+    The imperial authorities sponsor and cover for radical Russian nationalist organizations for the suppression of the revolution and for terror.
+    The "Union of the Russian People" was "a Black-Hundred organization…
+    The organization received financial support from the state and was patronized by Russian emperor Nicholas II…
+    Mass Jewish pogroms provoked by the 'Union' took place, particularly in Ukraine, in the 'Pale of Settlement'"(Citation: 196); of its 400 thousand members, nearly half were in Ukrainian cities(Citation: 196).
+  uk: |-
+    Імперська влада спонсорує та покриває радикальні російські націоналістичні організації для придушення революції та терору.
+    «Союз російського народу» – «чорносотенна орг-ція…
+    Орг-ція одержувала фінансову підтримку від д-ви, їй протегував рос. імп.
+    Микола II…
+    Відбулися спровоковані «Союзом» масові погроми єврейські, зокрема в Україні, у «смузі осілості»»(Citation: 196); із 400 тисяч її членів майже половина припадала на українські міста(Citation: 196).

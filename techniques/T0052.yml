@@ -1,0 +1,22 @@
+type: technique
+id: T0052
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0006
+name:
+  ru: Изъятие ресурсов
+  en: Expropriation of Resources
+  uk: Вилучення ресурсів
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять масштабную и систематическую конфискацию природных, финансовых и материальных фондов на захваченной территории.
+    В ходе реализации этой техники организуется вывоз промышленного оборудования, изъятие казны, конфискация продовольствия и бесконтрольная эксплуатация полезных ископаемых исключительно для извлечения выгоды и обеспечения нужд метрополии.
+  en: |-
+    Aggressors may carry out large-scale and systematic confiscation of natural, financial, and material assets in the captured territory.
+    In the course of implementing this technique, industrial equipment is removed, the treasury is seized, food is confiscated, and mineral resources are exploited without restraint, solely for the extraction of benefits and to meet the needs of the metropole.
+  uk: |-
+    Агресори можуть здійснювати масштабну та систематичну конфіскацію природних, фінансових і матеріальних фондів на захопленій території.
+    Під час реалізації цієї техніки організовується вивезення промислового обладнання, вилучення скарбниці, конфіскація продовольства та безконтрольна експлуатація корисних копалин виключно для отримання вигоди та забезпечення потреб метрополії.

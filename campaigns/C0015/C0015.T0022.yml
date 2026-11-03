@@ -1,0 +1,14 @@
+type: procedure
+id: C0015.T0022
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0022
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: 'Массовые казни пленных казаков после капитуляции при Переволочной и Полтаве для окончательного запугивания сторонников автономии(Citation: 4).'
+  en: 'Mass executions of captured Cossacks after the capitulation at Perevolochna and Poltava for the final intimidation of the supporters of autonomy(Citation: 4).'
+  uk: 'Масові страти полонених козаків після капітуляції під Переволочною та Полтавою для остаточного залякування прихильників автономії(Citation: 4).'

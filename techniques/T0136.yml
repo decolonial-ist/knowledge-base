@@ -1,0 +1,28 @@
+type: technique
+id: T0136
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0002
+name:
+  ru: Кибероперации
+  en: Cyber Operations
+  uk: Кібероперації
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять многоэтапные атаки в цифровой среде для шпионажа, кражи данных, разрушения критической инфраструктуры и паралича государственных институтов.
+    Эти операции охватывают широкий спектр тактик: от разведки, получения первоначального доступа (например, через фишинг, компрометацию учетных записей или атаки на цепочки поставок) и закрепления в системе, до обхода защиты, кражи учетных данных и эксфильтрации информации.
+    Финальным этапом часто становится деструктивное воздействие (Impact), такое как уничтожение данных, стирание дисков или атаки типа «отказ в обслуживании» (Denial of Service).
+    Более подробно эти техники раскрываются в специализированном фреймворке [MITRE ATT&CK](https://attack.mitre.org/).
+  en: |-
+    Aggressors may conduct multi-stage attacks in the digital environment for espionage, data theft, destruction of critical infrastructure, and paralysis of state institutions.
+    These operations span a wide range of tactics: from reconnaissance, gaining initial access (for example, through phishing, account compromise, or supply chain attacks), and establishing persistence in the system, to defense evasion, credential theft, and information exfiltration.
+    The final stage is often a destructive effect (Impact), such as data destruction, disk wiping, or Denial of Service attacks.
+    These techniques are covered in more detail in the specialized [MITRE ATT&CK](https://attack.mitre.org/) framework.
+  uk: |-
+    Агресори можуть здійснювати багатоетапні атаки в цифровому середовищі для шпигунства, викрадення даних, руйнування критичної інфраструктури та паралічу державних інституцій.
+    Ці операції охоплюють широкий спектр тактик: від розвідки, отримання первинного доступу (наприклад, через фішинг, компрометацію облікових записів чи атаки на ланцюги постачання) та закріплення в системі до обходу захисту, викрадення облікових даних та ексфільтрації інформації.
+    Фінальним етапом часто стає деструктивний вплив (Impact), як-от знищення даних, стирання дисків або атаки типу «відмова в обслуговуванні» (Denial of Service).
+    Докладніше ці техніки розкриваються у спеціалізованому фреймворку [MITRE ATT&CK](https://attack.mitre.org/).

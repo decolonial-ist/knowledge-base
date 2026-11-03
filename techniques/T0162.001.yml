@@ -1,0 +1,23 @@
+type: technique
+id: T0162.001
+created: 2026-08-06
+modified: 2026-08-06
+version: '1.0'
+parent: T0162
+tactics:
+- TA0004
+name:
+  ru: Отказ в пощаде
+  en: Denial of Quarter
+  uk: Відмова в пощаді
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут заранее объявлять, что пощады не будет: приказ «пленных не брать» превращает каждое столкновение в истребление.
+    Запрет прямой: «воспрещается объявлять, что никому не будет дано пощады» (Гаагское положение, статья 23(г)); «заявление о том, что пощады не будет» - военное преступление (Римский статут, статья 8(2)(b)(xii); обычная норма 46 свода МККК).
+  en: |-
+    Aggressors may declare in advance that no quarter will be given: the order to take no prisoners turns every engagement into extermination.
+    The prohibition is explicit: "it is especially forbidden... to declare that no quarter will be given" (Hague Regulations, Article 23(d)); "declaring that no quarter will be given" is a war crime (Rome Statute, Article 8(2)(b)(xii); customary Rule 46 of the ICRC study).
+  uk: |-
+    Агресори можуть заздалегідь оголошувати, що пощади не буде: наказ «полонених не брати» перетворює кожне зіткнення на винищення.
+    Заборона пряма: «забороняється оголошувати, що нікому не буде дано пощади» (Гаазьке положення, стаття 23(г)); «заява про те, що пощади не буде» - воєнний злочин (Римський статут, стаття 8(2)(b)(xii); звичаєва норма 46 зводу МКЧХ).

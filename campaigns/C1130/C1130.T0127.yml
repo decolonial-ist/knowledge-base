@@ -1,0 +1,16 @@
+type: procedure
+id: C1130.T0127
+created: 2026-06-18
+modified: 2026-08-04
+version: '1.0'
+technique: T0127
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: 'Оккупационная администрация Российской империи принудительно переселила подчиненное коренное население: историк Я. З. Ахмадов фиксирует, что «Терский город к 1724 г. был срыт, а все его население, включая Окоцкую слободу, населенную выходцами из Чечни... было переведено в новую крепость»(Citation: 94).'
+  en: |-
+    The occupation administration of the Russian Empire forcibly resettled the subordinated Indigenous population: historian Ya.
+    Z. Akhmadov records that "by 1724 the Terek town had been razed, and all of its population, including the Okotsk sloboda, populated by natives of Chechnya... was transferred to the new fortress"(Citation: 94).
+  uk: 'Окупаційна адміністрація Російської імперії примусово переселила підкорене корінне населення: історик Я. З. Ахмадов фіксує, що «Терське місто до 1724 р. було зрите, а все його населення, включно з Окоцькою слободою, населеною вихідцями з Чечні... було переведено до нової фортеці»(Citation: 94).'

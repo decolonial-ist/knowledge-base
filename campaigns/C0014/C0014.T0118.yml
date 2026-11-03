@@ -1,0 +1,14 @@
+type: procedure
+id: C0014.T0118
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0118
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: 'Тотальное истребление защитников: при взятии Переволочной «Все запорожцы и жители были убиты (в плен живьем взяли только 12 человек), жгли и вырезали также соседние курени»(Citation: 3).'
+  en: 'Total extermination of the defenders: when Perevolochna was taken, "All the Zaporozhians and inhabitants were killed (only 12 people were taken alive), and the neighboring kurins were also burned and slaughtered"(Citation: 3).'
+  uk: 'Тотальне винищення захисників: під час взяття Переволочної «Усі запорожці й жителі були вбиті (в полон живцем узяли лише 12 осіб), палили й вирізали також сусідні курені»(Citation: 3).'

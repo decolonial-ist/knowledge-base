@@ -1,0 +1,26 @@
+type: procedure
+id: C0078.T0107
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.0'
+technique: T0107
+people: ukrainians
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Запирание голодающего региона: крестьян, пытавшихся спастись бегством из заблокированных сел, перехватывали на дорогах и железнодорожных узлах.
+    Директива запирала именно Украину и Кубань: «все крестьяне, успевшие выехать из Украины и Северного Кавказа, подлежали возвращению в места их проживания», при этом запрещалась выдача разрешений на выезд даже «в национальные районы края, где голода вообще не было»(Citation: 22).
+    За 50 дней «было задержано 219,5 тыс. крестьян, в том числе в УССР — 38 тыс., на Северном Кавказе — 47 тыс., в ЦЧО — 44 тыс., в Западной обл. — 5 тыс., на железных дорогах — 65 тыс.»; из них «186,5 тыс. были отправлены домой под конвоем, почти 3 тыс. — осуждены, а все остальные ждали суда или находились под следствием в фильтрационных лагерях»(Citation: 22).
+    Смысл операции был не в приговорах, а в конвоировании людей обратно в голодающие села: шифровка «документально свидетельствует о его намерении организовать в сельской местности Украины абсолютный голод»(Citation: 22).
+  en: |-
+    Sealing off the starving region: peasants who tried to escape from the blockaded villages were intercepted on roads and at railway junctions.
+    The directive sealed off precisely Ukraine and the Kuban: "all peasants who had managed to leave Ukraine and the North Caucasus were subject to return to their places of residence," while permits to leave were denied even "to the national districts of the krai, where there was no famine at all"(Citation: 22).
+    Within 50 days "219.5 thousand peasants were detained, including 38 thousand in the Ukrainian SSR, 47 thousand in the North Caucasus, 44 thousand in the Central Black Earth region, 5 thousand in the Western oblast, 65 thousand on the railways"; of these, "186.5 thousand were sent home under convoy, almost 3 thousand were convicted, and all the rest awaited trial or were under investigation in filtration camps"(Citation: 22).
+    The point of the operation lay not in sentences but in marching people back into the starving villages: the coded telegram "documentarily attests to his intention to organize absolute famine in the rural areas of Ukraine"(Citation: 22).
+  uk: |-
+    Замикання голодуючого регіону: селян, які намагалися врятуватися втечею із заблокованих сіл, перехоплювали на дорогах і залізничних вузлах.
+    Директива замикала саме Україну і Кубань: «всі селяни, які встигли виїхати з України і Північного Кавказу, підлягали поверненню в місця їх проживання», при цьому заборонялася видача дозволів на виїзд навіть «в національні райони краю, де голоду взагалі не було»(Citation: 22).
+    За 50 днів «було затримано 219,5 тис. селян, у тому числі в УСРР — 38 тис., на Північному Кавказі — 47 тис., в ЦЧО — 44 тис., в Західній обл. — 5 тис., на залізницях — 65 тис.»; із них «186,5 тис. були відправлені додому під конвоєм, майже 3 тис. — засуджені, а всі інші чекали суду або перебували під слідством у фільтраційних таборах»(Citation: 22).
+    Сенс операції був не у вироках, а в конвоюванні людей назад у голодуючі села: шифровка «документально засвідчує його намір організувати в сільській місцевості України абсолютний голод»(Citation: 22).

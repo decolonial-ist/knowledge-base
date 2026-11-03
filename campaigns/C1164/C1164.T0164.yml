@@ -1,0 +1,26 @@
+type: procedure
+id: C1164.T0164
+created: 2026-08-07
+modified: 2026-08-10
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В походах 1839-1840 годов войска кормились отнятым у чеченцев скотом и забирали добро разоряемых аулов.
+    О декабрьском походе 1839 года отряда генерала Пулло, командовавшего левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), имперский историк Юров писал: «на походе люди довольствовались порционным скотом, взятым у туземцев в виде штрафа»(Citation: 134) - армия снабжала себя имуществом населения, оформляя отъём как штраф.
+    Летом 1840 года войска генерала Галафеева грабили разоряемые аулы Малой Чечни: историк Д. А. Хожаев - «На поляну отряд выехал с награбленным в разоренных аулах добром»(Citation: 95).
+    В ноябре при уничтожении аула Мирти-Ирзау имперский историк Юров записал: «отбито 150-т штук рогатого скота»(Citation: 134).
+  en: |-
+    In the marches of 1839-1840 the troops fed themselves on cattle taken from the Chechens and carried off the goods of the auls they were devastating.
+    Of the December 1839 march of the detachment of general Pullo, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), the imperial historian Yurov wrote: "on the march the men subsisted on ration cattle taken from the natives by way of fine"(Citation: 134) - the army supplied itself with the population's property, framing the seizure as a fine.
+    In the summer of 1840 the troops of general Galafeyev plundered the auls of Lesser Chechnya they were devastating: historian D. A. Khozhayev - "The detachment rode out onto the clearing with the goods looted in the devastated auls"(Citation: 95).
+    In November, at the destruction of the aul of Mirti-Irzau, the imperial historian Yurov recorded: "150 head of horned cattle were seized"(Citation: 134).
+  uk: |-
+    У походах 1839-1840 років війська годувалися відібраною в чеченців худобою і забирали добро розорюваних аулів.
+    Про грудневий похід 1839 року загону генерала Пулло, який командував лівим флангом Кавказької лінії (ланцюга імперських укріплень на землі нохчі), імперський історик Юров писав: «у поході люди задовольнялися порційною худобою, взятою у тубільців у вигляді штрафу»(Citation: 134) - армія постачала себе майном населення, оформлюючи відбирання як штраф.
+    Улітку 1840 року війська генерала Галафєєва грабували розорювані аули Малої Чечні: історик Д. А. Хожаєв - «На галявину загін виїхав з награбованим у розорених аулах добром»(Citation: 95).
+    У листопаді при знищенні аулу Мірті-Ірзау імперський історик Юров записав: «відбито 150-т штук рогатої худоби»(Citation: 134).

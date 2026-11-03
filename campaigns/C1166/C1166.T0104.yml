@@ -1,0 +1,33 @@
+type: procedure
+id: C1166.T0104
+created: 2026-07-31
+modified: 2026-07-31
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Удары по Малой Чечне (равнинно-предгорной западной части Чечни) 1847-1851 годов сопровождались истреблением безоружных жителей, задокументированным самими исполнителями. 6 марта 1847 года отряд, ведомый подкупленным проводником, на рассвете ворвался в спящий хутор наиба Дубы (наместника имама Шамиля, руководителя сопротивления горцев российскому завоеванию); имперский офицер Полторацкий, участник штурма, записал: «большинство, застигнутое врасплох полунагими, стар и млад, женщины, дети и грудные младенцы, утонули в своей крови от остро наточенных штыков, никого не помиловавших, не пощадивших»(Citation: 122). 15 июня 1851 года в ущелье реки Гехи, по историку Н. И. Покровскому, отряд генерала Слепцова «истребил ряд хуторов и аулов.
+    Не успевшие уйти жители были вырезаны»(Citation: 129); собственный рапорт Слепцова от 20 июня 1851 года формулирует мягче - «рѣшившіеся защищаться были убиты, или весьма немногіе пощажены и взяты въ плѣнъ»(Citation: 107). 15 сентября 1851 года у переправы через реку Сунжу резню сдающихся признал сам командир.
+    Барятинский, командовавший на левом фланге Кавказской линии (цепи имперских укреплений на земле нохчи), рапортом генералу Завадовскому от 18 сентября 1851 года описал, как чеченцы, признавшие власть империи («мирные»), и казаки рубили бегущих: «Мирные Чеченцы и козаки наши, преслѣдуя ихъ по узкимъ тропинкамъ, рубили безпощадно.
+    Никто не думалъ защищаться...
+    Я самъ и офицеры мои старались удерживать убійства, но это почти было невозможно»; убитых он считает «болѣе 200 тѣлъ»(Citation: 107). 16 ноября 1851 года генерал Козловский рапортом от 21 ноября 1851 года отчитался об истреблении аула Дахин-Ирзау: «я рѣшился истребить этотъ аулъ, что и исполнено мною, на разсвѣтѣ 16-го ноября, съ полнымъ успѣхомъ» - убитых более 40, раненых более 100(Citation: 107).
+  en: |-
+    The strikes on Lesser Chechnya (the lowland-piedmont western part of Chechnya) in 1847-1851 were accompanied by the annihilation of unarmed inhabitants, documented by the perpetrators themselves.
+    On 6 March 1847 a detachment, led by a bribed guide, burst at dawn into the sleeping hamlet of naib Duba (a deputy of Imam Shamil, leader of the highlanders' resistance to the Russian conquest); imperial officer Poltoratsky, a participant in the assault, wrote: "the majority, caught by surprise half-naked, old and young, women, children and nursing infants, drowned in their own blood from the sharply honed bayonets that pardoned no one, spared no one"(Citation: 122).
+    On 15 June 1851 in the gorge of the Gekhi river, according to historian N. I. Pokrovsky, the detachment of General Sleptsov "annihilated a series of hamlets and auls.
+    The inhabitants who had not managed to flee were slaughtered"(Citation: 129); Sleptsov's own report of 20 June 1851 puts it more mildly - "those who resolved to defend themselves were killed, or a very few were spared and taken prisoner"(Citation: 107).
+    On 15 September 1851, at a crossing of the Sunzha river, the slaughter of those surrendering was admitted by the commander himself.
+    Baryatinsky, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), described in a report to General Zavadovsky of 18 September 1851 how Chechens who had recognized the empire's power ("pacified") and Cossacks cut down the fleeing: "The pacified Chechens and our Cossacks, pursuing them along narrow paths, slashed without mercy.
+    No one thought of defending himself...
+    I myself and my officers tried to restrain the killings, but it was almost impossible"; he counts the dead at "more than 200 bodies"(Citation: 107).
+    On 16 November 1851 General Kozlovsky reported, in a report of 21 November 1851, on the annihilation of the aul Dakhin-Irzau: "I resolved to annihilate this aul, which I carried out at dawn on 16 November with complete success" - more than 40 killed, more than 100 wounded(Citation: 107).
+  uk: |-
+    Удари по Малій Чечні (рівнинно-передгірній західній частині Чечні) 1847-1851 років супроводжувалися винищенням беззбройних жителів, задокументованим самими виконавцями. 6 березня 1847 року загін, ведений підкупленим провідником, на світанку увірвався в сплячий хутір наїба Дуби (намісника імама Шаміля, керівника опору горців російському завоюванню); імперський офіцер Полторацький, учасник штурму, записав: «більшість, захоплена зненацька напівголими, старі й малі, жінки, діти й немовлята, потонули у своїй крові від гостро наточених багнетів, що нікого не помилували, не пощадили»(Citation: 122). 15 червня 1851 року в ущелині річки Гехі, за істориком М. І. Покровським, загін генерала Слєпцова «винищив низку хуторів і аулів.
+    Жителі, що не встигли піти, були вирізані»(Citation: 129); власний рапорт Слєпцова від 20 червня 1851 року формулює м'якше - «ті, що зважилися захищатися, були вбиті, або дуже небагатьох пощадили і взяли в полон»(Citation: 107). 15 вересня 1851 року біля переправи через річку Сунжу різанину тих, хто здавався, визнав сам командир.
+    Барятинський, що командував на лівому фланзі Кавказької лінії (ланцюга імперських укріплень на землі нохчі), рапортом генералу Завадовському від 18 вересня 1851 року описав, як чеченці, що визнали владу імперії («мирні»), і козаки рубали втікачів: «Мирні чеченці й козаки наші, переслідуючи їх вузькими стежками, рубали безпощадно.
+    Ніхто не думав захищатися...
+    Я сам і офіцери мої намагалися стримувати вбивства, але це було майже неможливо»; убитих він рахує «понад 200 тіл»(Citation: 107). 16 листопада 1851 року генерал Козловський рапортом від 21 листопада 1851 року відзвітував про винищення аулу Дахін-Ірзау: «я зважився винищити цей аул, що й виконано мною, на світанку 16-го листопада, з повним успіхом» - убитих понад 40, поранених понад 100(Citation: 107).

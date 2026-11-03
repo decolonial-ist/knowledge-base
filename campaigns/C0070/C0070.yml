@@ -1,0 +1,23 @@
+type: campaign
+id: C0070
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1914-08-01
+last_seen: 1917-12-31
+contributors: []
+name:
+  ru: Первая мировая война и оккупация Галичины (1914–1917)
+  en: World War I and the Occupation of Galicia (1914–1917)
+  uk: Перша світова війна та окупація Галичини (1914–1917)
+description:
+  ru: |-
+    Империя массово мобилизует украинцев в мировой войне: «За годы войны в ряды российской армии было мобилизовано 3,5 млн украинцев (по другим данным — 4,5 млн)»(Citation: 195).
+    В ходе наступления оккупирована Галичина: «В результате операции заняты Галичина и Буковина, из которых образовано Галицкое генерал-губернаторство»(Citation: 186) – с политикой уничтожения украинских институтов.
+  en: |-
+    The empire mass-mobilizes Ukrainians in the world war: "During the war years, 3.5 million Ukrainians were mobilized into the ranks of the Russian army (by other data – 4.5 million)"(Citation: 195).
+    In the course of the offensive Galicia was occupied: "As a result of the operation, Galicia and Bukovyna were taken, out of which the Galician governorate-general was formed"(Citation: 186) – with a policy of destroying Ukrainian institutions.
+  uk: |-
+    Імперія масово мобілізує українців у світовій війні: «За роки війни до лав рос. армії було мобілізовано 3,5 млн українців (за ін. даними — 4,5 млн)»(Citation: 195).
+    У ході наступу окуповано Галичину: «В результаті операції зайнято Галичину й Буковину, з яких утворено Галицьке генерал-губернаторство»(Citation: 186) – з політикою нищення українських інституцій.

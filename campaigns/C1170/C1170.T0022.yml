@@ -1,0 +1,31 @@
+type: procedure
+id: C1170.T0022
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В начале XX века терские власти начали привлекать воинские команды и казачьи подразделения к массовым обыскам в горских аулах - формально для изъятия оружия и «задержания беглых»(Citation: 125).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут, во что это превращалось: повальные обыски в горских селениях «как правило, сопровождались грабежами и другими незаконными действиями солдат и казаков, что всячески поощрялось терским начальством, которое постоянно искало предлог для применения более жестких мер в отношении горцев»(Citation: 125).
+    Насколько буквально работало это поощрение, видно по ноябрю 1902 года: во время обыска, устроенного казаками на базаре селения Шаами-Юрт, начались массовые беспорядки, атаман станицы Самашкинской Гриднев запретил своим применять огнестрельное оружие, и столкновение обошлось без кровопролития - после чего начальник Терской области отстранил Гриднева от должности, а участвовавшим в беспорядках казакам выразил недовольство за их «пассивность»(Citation: 125).
+    Санкция на это шла с самого верха: когда начальник Терской области доложил, что столкновения между чеченцами и казаками приносят материальный ущерб и человеческие жертвы и что эти группы населения следует развести, Николай II ответил, что «именно это соседство и поддерживает в казаках их старую дедовскую удаль, а по сему принимать меры к смягчению обстановки нет никакой необходимости»(Citation: 251).
+    Кровопролитие в чеченских селениях было для власти не издержкой, а рабочим состоянием края.
+  en: |-
+    At the start of the twentieth century the Terek authorities began to bring in military detachments and Cossack units for mass searches of highland auls - formally to confiscate weapons and to "detain fugitives"(Citation: 125).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write what this turned into: sweeping searches of mountain villages "were as a rule accompanied by looting and other unlawful acts by soldiers and Cossacks, which was encouraged in every way by the Terek authorities, who constantly sought a pretext for applying harsher measures against the highlanders"(Citation: 125).
+    How literally this encouragement worked is visible in November 1902: during a search staged by Cossacks at the bazaar of the village of Shaami-Yurt mass disturbances broke out, the ataman of the Samashkinskaya stanitsa, Gridnev, forbade his men to use firearms, and the clash ended without bloodshed - after which the head of the Terek oblast removed Gridnev from his post and expressed displeasure to the Cossacks who had taken part in the disturbances for their "passivity"(Citation: 125).
+    The sanction came from the very top: when the head of the Terek oblast reported that the clashes between Chechens and Cossacks were bringing material damage and human casualties and that these groups of the population should be kept apart, Nicholas II replied that "it is precisely this neighbourhood that keeps up in the Cossacks their old ancestral daring, and therefore there is no need whatever to take measures to soften the situation"(Citation: 251).
+    Bloodshed in Chechen villages was for the authorities not an incidental cost but the working condition of the land.
+  uk: |-
+    На початку XX століття терська влада почала залучати військові команди та козачі підрозділи до масових обшуків у горських аулах - формально для вилучення зброї та «затримання втікачів»(Citation: 125).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть, на що це перетворювалося: повальні обшуки в горських селищах «як правило, супроводжувалися грабежами та іншими незаконними діями солдатів і козаків, що всіляко заохочувалося терським начальством, яке постійно шукало привід для застосування жорсткіших заходів щодо горців»(Citation: 125).
+    Наскільки буквально працювало це заохочення, видно з листопада 1902 року: під час обшуку, влаштованого козаками на базарі селища Шаамі-Юрт, почалися масові заворушення, отаман станиці Самашкінської Гріднєв заборонив своїм застосовувати вогнепальну зброю, і зіткнення обійшлося без кровопролиття - після чого начальник Терської області усунув Гріднєва з посади, а козакам, що брали участь у заворушеннях, висловив невдоволення за їхню «пасивність»(Citation: 125).
+    Санкція на це йшла з самого верху: коли начальник Терської області доповів, що зіткнення між чеченцями та козаками приносять матеріальні збитки і людські жертви і що ці групи населення слід розвести, Микола II відповів, що «саме це сусідство і підтримує в козаках їхнє старе дідівське молодецтво, а тому вживати заходів до пом'якшення обстановки немає жодної потреби»(Citation: 251).
+    Кровопролиття в чеченських селищах було для влади не витратою, а робочим станом краю.

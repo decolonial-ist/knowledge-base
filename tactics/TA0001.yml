@@ -1,0 +1,24 @@
+type: tactic
+id: TA0001
+created: 2026-05-23
+modified: 2026-07-12
+version: '1.0'
+shortname: legitimization
+order: 1
+name:
+  ru: Легитимизация доминирования
+  en: Legitimization of Domination
+  uk: Легітимізація домінування
+description:
+  ru: |-
+    Агрессор формирует идеологические, исторические и правовые обоснования своего «права» распоряжаться судьбой колонизируемого народа.
+    Техники этой тактики работают до, во время и после захвата: навязывание образа отсталости, присвоение истории, религиозные и «цивилизаторские» оправдания создают картину мира, в которой господство выглядит естественным и даже благом.
+    Успешная легитимизация снижает сопротивление – и самого народа, и внешних наблюдателей.
+  en: |-
+    The aggressor constructs ideological, historical, and legal justifications for its “right” to dispose of the fate of the colonized people.
+    The techniques of this tactic operate before, during, and after the seizure: imposing an image of backwardness, appropriating history, and deploying religious and “civilizing” pretexts build a worldview in which domination appears natural and even beneficial.
+    Successful legitimization reduces resistance – both from the people themselves and from outside observers.
+  uk: |-
+    Агресор формує ідеологічні, історичні та правові обґрунтування свого «права» розпоряджатися долею колонізованого народу.
+    Техніки цієї тактики працюють до, під час і після захоплення: нав'язування образу відсталості, привласнення історії, релігійні та «цивілізаторські» виправдання створюють картину світу, в якій панування виглядає природним і навіть благом.
+    Успішна легітимізація знижує опір – і самого народу, і зовнішніх спостерігачів.

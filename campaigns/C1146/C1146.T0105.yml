@@ -1,0 +1,20 @@
+type: procedure
+id: C1146.T0105
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историк Д. А. Хожаев пишет, что экспедиция начальника левого фланга Кавказской линии Грекова «уничтожила… два аула — Шали и Малая Атага»(Citation: 95).
+    Имперский историк Потто подтверждает: 1 марта 1821 года войска селение Ойсунгур «совершенно его разрушили», а в феврале 1822 года Греков «сжёг селения Шали и Малые Атаги»(Citation: 75).
+  en: |-
+    Historian D. A. Khozhaev writes that the expedition of Grekov, commander of the left flank of the Caucasian Line, “destroyed… two auls — Shali and Malaya Ataga”(Citation: 95).
+    The imperial historian Potto confirms: on March 1, 1821, the troops “destroyed completely” the village of Oisungur, and in February 1822 Grekov “burned the villages of Shali and Malye Atagi”(Citation: 75).
+  uk: |-
+    Історик Д. А. Хожаєв пише, що експедиція начальника лівого флангу Кавказької лінії Грекова «знищила… два аули — Шалі та Малу Атагу»(Citation: 95).
+    Імперський історик Потто підтверджує: 1 березня 1821 року війська «цілковито зруйнували» селище Ойсунгур, а в лютому 1822 року Греков «спалив селища Шалі та Малі Атаги»(Citation: 75).

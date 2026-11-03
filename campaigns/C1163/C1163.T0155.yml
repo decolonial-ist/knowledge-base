@@ -1,0 +1,33 @@
+type: procedure
+id: C1163.T0155
+created: 2026-07-23
+modified: 2026-07-23
+version: '1.0'
+technique: T0155
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Аманатско-податная система Пулло, командующего левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), включала систематическое изъятие оружия у жителей захваченных аулов Чечни.
+    Пулло в докладной записке 1840 года назвал это собственной программой: «власть приставов была упрочена и тогда же положено начало системе обезоружения горцев, взиманием со всех аулов по одному ружью с 10 сакель.
+    Всего было собрано с лишком 1900 ружей, обстоятельство важное, как по количеству собранного оружия, так и в особенности потому, что горцам внушена была в первый раз мысль, что правительство имеет право лишать оружия тех, которые его во зло употребили» (сакля - дом горца; пристав - назначенный империей надзиратель над аулами; цифра 1900 - самоотчёт Пулло; историки Я. З. Ахмадов и Э. Х. Хасмагомадов насчитывают по архивам около полутора тысяч)(Citation: 126).
+    Историк Д. А. Хожаев пишет: «Экспедиции генерала Пулло в декабре 1839 года и январе 1840-го для поддержания русского управления и начавшееся разоружение чеченских плоскостных аулов, когда Пулло потребовал выдать по одному ружью с каждых десяти домов, вызвали возмущение в широких слоях чеченского народа»(Citation: 95).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов называют разоружение спусковым крючком восстания: «Страх, что вслед за разоружением власти введут в Чечне общероссийские крепостнические порядки, позорные для людей благородного сословия, коими считали себя практически все чеченцы, заставил горцев взяться за оружие»(Citation: 125).
+  en: |-
+    The amanat-and-tribute system of Pullo, commander of the left flank of the Caucasus Line (a chain of imperial fortifications on the land of the Nokhchi), included the systematic confiscation of weapons from the inhabitants of the seized auls of Chechnya.
+    Pullo in a memorandum of 1840 called it a program of his own: "the power of the pristavs was consolidated, and at the same time a beginning was laid to the system of disarming the highlanders, by exacting from all auls one gun from every 10 saklias.
+    In all, upward of 1900 guns were collected - a circumstance important both for the quantity of weapons collected and especially because for the first time the thought was instilled in the highlanders that the government has the right to deprive of weapons those who have used them for evil" (saklia - a highlander's house; pristav - a superintendent over the auls appointed by the empire; the figure of 1900 is Pullo's self-report; the historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov count about one and a half thousand from the archives)(Citation: 126).
+    The historian D. A. Khozhaev writes: "The expeditions of general Pullo in December 1839 and January 1840 to uphold Russian administration, and the disarmament of the Chechen lowland auls that had begun, when Pullo demanded the surrender of one gun from every ten houses, aroused indignation in broad layers of the Chechen people"(Citation: 95).
+    The historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov name disarmament the trigger of the uprising: "The fear that after the disarmament the authorities would introduce in Chechnya the all-Russian serfdom order, shameful for people of noble standing, which practically all Chechens considered themselves to be, made the highlanders take up arms"(Citation: 125).
+  uk: |-
+    Аманатсько-податна система Пулло, командувача лівого флангу Кавказької лінії (ланцюга імперських укріплень на землі нохчі), включала систематичне вилучення зброї в жителів захоплених аулів Чечні.
+    Пулло в доповідній записці 1840 року назвав це власною програмою: «владу приставів було зміцнено і тоді ж покладено початок системі роззброєння горців, стягненням з усіх аулів по одній рушниці з 10 сакель.
+    Всього було зібрано понад 1900 рушниць, обставина важлива як за кількістю зібраної зброї, так і особливо тому, що горцям вперше було навіяно думку, що уряд має право позбавляти зброї тих, хто вжив її на зло» (сакля - дім горця; пристав - призначений імперією наглядач над аулами; цифра 1900 - самозвіт Пулло; історики Я. З. Ахмадов і Е. Х. Хасмагомадов налічують за архівами близько півтори тисячі)(Citation: 126).
+    Історик Д. А. Хожаєв пише: «Експедиції генерала Пулло в грудні 1839 року і січні 1840-го для підтримання російського управління і роззброєння чеченських площинних аулів, що почалося, коли Пулло зажадав видати по одній рушниці з кожних десяти домів, викликали обурення в широких верствах чеченського народу»(Citation: 95).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов називають роззброєння спусковим гачком повстання: «Страх, що слідом за роззброєнням влада запровадить у Чечні загальноросійські кріпосницькі порядки, ганебні для людей благородного стану, якими вважали себе практично всі чеченці, змусив горців узятися за зброю»(Citation: 125).

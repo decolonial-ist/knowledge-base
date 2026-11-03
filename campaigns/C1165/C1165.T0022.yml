@@ -1,0 +1,20 @@
+type: procedure
+id: C1165.T0022
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Генерал Нейдгардт, глава имперских войск на Кавказе, предписанием начальнику Назрановского отряда от 5 апреля 1844 года прописал страх целью действий войск: «чтобы одновременным появлением и действиями отрядов с разных сторон, на всем протяжении театров возмущения, распространить страх на все народонаселение, и удерживая чеченцев в домах своих, препятствовать им подать помощь лезгинским племенам» (лезгинские племена - в имперском лексиконе горцы Дагестана)(Citation: 126).
+    Страх населения здесь - не побочный эффект военных действий, а их заявленная цель, поставленная войскам письменным приказом.
+  en: |-
+    General Neidhardt, head of the imperial troops in the Caucasus, in an instruction to the commander of the Nazran detachment of 5 April 1844 prescribed fear as the goal of the troops' actions: "by the simultaneous appearance and actions of detachments from different sides, along the whole extent of the theatres of revolt, to spread fear over the entire population, and, keeping the Chechens in their homes, to prevent them from giving help to the Lezgin tribes" (Lezgin tribes - in the imperial lexicon, the highlanders of Dagestan)(Citation: 126).
+    The population's fear here is not a side effect of military operations but their declared goal, set for the troops by written order.
+  uk: |-
+    Генерал Нейдгардт, глава імперських військ на Кавказі, приписом начальнику Назрановського загону від 5 квітня 1844 року прописав страх метою дій військ: «щоб одночасною появою і діями загонів з різних боків, на всьому протязі театрів повстання, поширити страх на все народонаселення, і, утримуючи чеченців у домах своїх, перешкоджати їм подати допомогу лезгінським племенам» (лезгінські племена - в імперському лексиконі горці Дагестану)(Citation: 126).
+    Страх населення тут - не побічний ефект воєнних дій, а їхня заявлена мета, поставлена військам письмовим наказом.

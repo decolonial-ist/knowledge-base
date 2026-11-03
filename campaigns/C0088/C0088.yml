@@ -1,0 +1,26 @@
+type: campaign
+id: C0088
+created: 2026-04-27
+modified: 2026-08-09
+version: '1.2'
+people: ukrainians
+first_seen: 1965-08-01
+last_seen: 1968-12-31
+contributors: []
+name:
+  ru: Первая волна репрессий против «шестидесятников» (1965–1968)
+  en: The First Wave of Repressions Against the "Sixtiers" (1965–1968)
+  uk: Перша хвиля репресій проти «шістдесятників» (1965–1968)
+description:
+  ru: |-
+    Ответ КГБ на зарождение движения сопротивления среди новой украинской интеллигенции.
+    Включает подавление протестов 1965 года (выступление Стуса, Дзюбы и Черновола на премьере «Теней забытых предков») и давление на подписантов «Письма 139» в 1968 году, в котором видные деятели культуры выступили против незаконных политических судов(Citation: 30).
+    Сюда же относится разгром подпольного Украинского национального фронта: «1967 УНФ был раскрыт органами госбезопасности», восемь участников получили длительные сроки заключения(Citation: 190).
+  en: |-
+    The KGB's response to the emergence of a resistance movement among the new Ukrainian intelligentsia.
+    It includes the suppression of the 1965 protests (the public statement by Stus, Dziuba, and Chornovil at the premiere of "Shadows of Forgotten Ancestors") and the pressure on the signatories of the "Letter of 139" in 1968, in which prominent cultural figures spoke out against unlawful political trials(Citation: 30).
+    This also includes the crushing of the underground Ukrainian National Front: "in 1967 the UNF was uncovered by the state security organs," and eight of its members received long prison terms(Citation: 190).
+  uk: |-
+    Відповідь КДБ на зародження руху опору серед нової української інтелігенції.
+    Охоплює придушення протестів 1965 року (виступ Стуса, Дзюби та Чорновола на прем'єрі «Тіней забутих предків») і тиск на підписантів «Листа 139» 1968 року, в якому визначні діячі культури виступили проти незаконних політичних судів(Citation: 30).
+    Сюди ж належить розгром підпільного Українського національного фронту: «1967 УНФ був викритий органами держбезпеки», вісім учасників отримали тривалі терміни ув'язнення(Citation: 190).

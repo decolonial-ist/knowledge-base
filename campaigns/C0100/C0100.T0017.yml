@@ -1,0 +1,16 @@
+type: procedure
+id: C0100.T0017
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.0'
+technique: T0017
+people: ukrainians
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: 'Юридическое оформление отторжения территории: договор о «принятии» подписан 18 марта 2014 года, а закон о его ратификации «Принят Государственной Думой 20 марта 2014 года Одобрен Советом Федерации 21 марта 2014 года»(Citation: 204).'
+  en: 'The legal formalization of the territory''s severance: the treaty on "accession" was signed on March 18, 2014, and the law ratifying it was "Adopted by the State Duma on March 20, 2014, approved by the Federation Council on March 21, 2014"(Citation: 204).'
+  uk: |-
+    Юридичне оформлення відторгнення території: договір про «прийняття» підписано 18 березня 2014 року, а закон про його ратифікацію «Прийнятий Державною Думою 20 березня 2014 року.
+    Схвалений Радою Федерації 21 березня 2014 року»(Citation: 204).

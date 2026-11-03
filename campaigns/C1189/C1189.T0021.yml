@@ -1,0 +1,42 @@
+type: procedure
+id: C1189.T0021
+created: 2026-08-09
+modified: 2026-08-09
+version: '1.0'
+technique: T0021
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя с началом мировой войны в 1914 году вывезла из Чечни на фронт тех, кого считала опасными.
+    Чеченский писатель Х. Д. Ошаев, уроженец слободы Воздвиженской и свидетель событий, писал: «Как и после 1905 года, наместничество на Кавказе, во время войны, решило вывести из Чечни весь ненадежный элемент, не имевший применения своим рукам, и который мог принести царской администрации много хлопот «в минуту жизни трудную».
+    Скрывающиеся от власти, выразившие желание идти на войну, амнистировались»(Citation: 368).
+    Для этого империя в 1914 году создала Кавказскую конную дивизию, прозванную «Дикой», - шесть национальных полков из горцев по четыре конные сотни: Чеченский, Дагестанский, Ингушский, Кабардинский, Татарский и Черкесский(Citation: 125).
+    Ту же цель позже назвал генерал Деникин, в Гражданскую войну возглавивший Добровольческую армию, занявшую Чечню в 1919 году (кампания C1174): «Едва ли не стремление к изъятию с территории Кавказа наиболее беспокойных элементов было исключительной причиной этого формирования»(Citation: 125).
+    Оставшихся империя держала под усиленными гарнизонами - Х. Д. Ошаев писал: «Во время войны, гарнизоны укреплений Ведено, Шатой, Воздвиженской были увеличены, сотни возов продовольствия, оружия и боеснаряжения, в первые же дни войны переполнили склады этих укреплений»(Citation: 368).
+    В августе 1916 года солдаты Осетинского пешего дивизиона, проходившие подготовку в крепости Воздвиженской, отказались выполнять приказы и оттягивали отправку на фронт; военное командование перебросило из Грозного пехотный батальон, и 26 августа тот расстрелял выступление - историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «погибло 16 и получили ранения свыше 30 солдат дивизиона»; часть бежавших укрылась в чеченских аулах и домах(Citation: 125)(Citation: 127).
+    За подстрекательство имперская администрация арестовала двух жителей Старых Атагов - Мурду Хамидова и Джабраила Толгаева; те же историки пишут: «Оба были приговорены к смертной казни и избегли ее только благодаря Февральской революции 1917 г.»(Citation: 125).
+  en: |-
+    With the start of the world war in 1914 the Russian Empire carried off to the front from Chechnya those it considered dangerous.
+    The Chechen writer Kh.
+    D. Oshaev, a native of the Vozdvizhenskaya settlement and a witness of the events, wrote: "As after 1905, the viceroyalty in the Caucasus decided, during the war, to remove from Chechnya all the unreliable element that had no employment for its hands and that could bring the tsarist administration much trouble 'in life's hard minute'.
+    Those hiding from the authorities who expressed the wish to go to war were amnestied"(Citation: 368).
+    For this the empire in 1914 created the Caucasus Native Cavalry Division, nicknamed the "Savage Division", - six national regiments of highlanders, four mounted sotnias each: the Chechen, Dagestani, Ingush, Kabardian, Tatar and Circassian(Citation: 125).
+    The same goal was later named by General Denikin, who in the Civil War headed the Volunteer Army that occupied Chechnya in 1919 (campaign C1174): "It was all but the striving to remove the most restless elements from the territory of the Caucasus that was the sole reason for this formation"(Citation: 125).
+    Those who remained the empire kept under reinforced garrisons - Kh.
+    D. Oshaev wrote: "During the war the garrisons of the fortifications of Vedeno, Shatoy and Vozdvizhenskaya were enlarged; hundreds of cartloads of provisions, weapons and munitions filled the depots of these fortifications in the very first days of the war"(Citation: 368).
+    In August 1916 the soldiers of the Ossetian foot divizion (a battalion-sized unit) training at the Vozdvizhenskaya fortress refused to carry out orders and dragged out their dispatch to the front; the military command transferred an infantry battalion from Grozny, and on 26 August it fired on the protest - historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "16 were killed and over 30 soldiers of the divizion wounded"; some of those who fled took shelter in Chechen auls and homes(Citation: 125)(Citation: 127).
+    For instigation the imperial administration arrested two residents of Starye Atagi - Murda Khamidov and Dzhabrail Tolgaev; the same historians write: "Both were sentenced to death and escaped it only thanks to the February Revolution of 1917"(Citation: 125).
+  uk: |-
+    Російська імперія з початком світової війни в 1914 році вивезла з Чечні на фронт тих, кого вважала небезпечними.
+    Чеченський письменник Х. Д. Ошаєв, уродженець слободи Воздвиженської і свідок подій, писав: «Як і після 1905 року, намісництво на Кавказі, під час війни, вирішило вивести з Чечні весь ненадійний елемент, що не мав застосування своїм рукам і міг завдати царській адміністрації багато клопоту «у хвилину життя скрутну».
+    Ті, хто переховувався від влади і виявив бажання йти на війну, амністувалися»(Citation: 368).
+    Для цього імперія в 1914 році створила Кавказьку кінну дивізію, прозвану «Дикою», - шість національних полків з горців по чотири кінні сотні: Чеченський, Дагестанський, Інгуський, Кабардинський, Татарський і Черкеський(Citation: 125).
+    Цю ж мету пізніше назвав генерал Денікін, який у Громадянську війну очолив Добровольчу армію, що зайняла Чечню в 1919 році (кампанія C1174): «Чи не прагнення до вилучення з території Кавказу найбільш неспокійних елементів було винятковою причиною цього формування»(Citation: 125).
+    Тих, хто залишився, імперія тримала під посиленими гарнізонами - Х. Д. Ошаєв писав: «Під час війни гарнізони укріплень Ведено, Шатой, Воздвиженської були збільшені, сотні возів продовольства, зброї та бойового спорядження в перші ж дні війни переповнили склади цих укріплень»(Citation: 368).
+    У серпні 1916 року солдати Осетинського пішого дивізіону, які проходили підготовку у фортеці Воздвиженській, відмовилися виконувати накази і відтягували відправлення на фронт; військове командування перекинуло з Грозного піхотний батальйон, і 26 серпня той розстріляв виступ - історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «загинуло 16 і дістали поранення понад 30 солдатів дивізіону»; частина втікачів сховалася в чеченських аулах і будинках(Citation: 125)(Citation: 127).
+    За підбурювання імперська адміністрація заарештувала двох жителів Старих Атагів - Мурду Хамідова і Джабраїла Толгаєва; ті ж історики пишуть: «Обидва були засуджені до смертної кари й уникли її лише завдяки Лютневій революції 1917 р.»(Citation: 125).

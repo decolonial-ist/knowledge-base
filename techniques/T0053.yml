@@ -1,0 +1,26 @@
+type: technique
+id: T0053
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+- TA0004
+name:
+  ru: Похищение людей
+  en: Abduction of People
+  uk: Викрадення людей
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут осуществлять тайные или открытые насильственные похищения политических лидеров, гражданских активистов, журналистов и рядовых представителей коренного народа.
+    В активной фазе конфликта эта техника служит оперативной нейтрализации защиты, физически устраняя потенциальных организаторов сопротивления.
+    В долгосрочной перспективе насильственные исчезновения применяются для закрепления оккупационного режима, так как формируют атмосферу непредсказуемого террора и парализуют волю общества к системному протесту.
+  en: |-
+    Aggressors may carry out covert or overt violent abductions of political leaders, civic activists, journalists, and ordinary members of the Indigenous people.
+    In the active phase of a conflict, this technique serves the operational neutralization of defenses by physically eliminating potential organizers of resistance.
+    In the long term, enforced disappearances are used to consolidate the occupation regime, as they create an atmosphere of unpredictable terror and paralyze the society's will to mount systematic protest.
+  uk: |-
+    Агресори можуть здійснювати таємні або відкриті насильницькі викрадення політичних лідерів, громадських активістів, журналістів і рядових представників корінного народу.
+    В активній фазі конфлікту ця техніка слугує оперативній нейтралізації захисту, фізично усуваючи потенційних організаторів спротиву.
+    У довгостроковій перспективі насильницькі зникнення застосовуються для закріплення окупаційного режиму, оскільки формують атмосферу непередбачуваного терору і паралізують волю суспільства до системного протесту.

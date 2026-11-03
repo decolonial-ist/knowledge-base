@@ -1,0 +1,35 @@
+type: campaign
+id: C0104
+created: 2026-08-16
+modified: 2026-08-29
+version: '1.1'
+people: ukrainians
+first_seen: 1919-12-06
+last_seen: 1921-11-30
+contributors: []
+name:
+  ru: 'Советско-Украинская война: третье вторжение и окончательная советская оккупация (декабрь 1919 - ноябрь 1921)'
+  en: 'Soviet-Ukrainian War: Third Invasion and the Final Soviet Occupation (December 1919 - November 1921)'
+  uk: 'Радянсько-Українська війна: третє вторгнення і остаточна радянська окупація (грудень 1919 - листопад 1921)'
+description:
+  ru: |-
+    В декабре 1919 года, разбив белую армию генерала Деникина, войска советской России (РСФСР) вторглись в Украину в третий раз за два года Советско-Украинской войны: 16 декабря они захватили Киев - до того советские войска занимали его в феврале 1918 года (кампания C0072) и в феврале 1919 года (кампания C0074)(Citation: 22)(Citation: 504).
+    Армия Украинской Народной Республики (УНР), не в силах больше держать сплошной фронт, ушла в рейд по тылам советских и белых войск - Первый зимний поход (6 декабря 1919 - 6 мая 1920)(Citation: 195), а правительство УНР заключило союз с Польшей.
+    В мае 1920 года польские войска и Армия УНР освободили Киев, но 12 июня советские войска захватили его снова, а к осени - большую часть земель к западу от Днепра(Citation: 499).
+    В ноябре 1920 года Армия и правительство УНР были оттеснены за реку Збруч и отступили на территорию под контролем Польши(Citation: 498).
+    Последней попыткой украинцев поднять восстание против российских захватчиков стал Второй зимний поход Армии УНР: в ноябре 1921 года её отряды вернулись в Украину, были окружены, а 359 пленных расстреляны у села Базар(Citation: 186)(Citation: 500).
+    Так советская Россия, а с 1922 года СССР, закрепилась на захваченных землях Украины до 1991 года(Citation: 22)(Citation: 25).
+  en: |-
+    In December 1919, having defeated the White army of General Denikin, the troops of Soviet Russia (RSFSR) invaded Ukraine for the third time in two years of the Soviet-Ukrainian War: on 16 December they captured Kyiv - Soviet troops had previously taken it in February 1918 (campaign C0072) and in February 1919 (campaign C0074)(Citation: 22)(Citation: 504).
+    The Army of the Ukrainian People's Republic (UNR), no longer able to hold a continuous front, went on a raid behind the lines of the Soviet and White forces - the First Winter Campaign (6 December 1919 - 6 May 1920)(Citation: 195), while the UNR government concluded an alliance with Poland.
+    In May 1920 Polish troops and the UNR Army liberated Kyiv, but on 12 June Soviet troops captured it again, and by autumn - most of the lands west of the Dnipro(Citation: 499).
+    In November 1920 the UNR Army and government were pushed beyond the Zbruch River and retreated to territory under Polish control(Citation: 498).
+    The last attempt by Ukrainians to raise an uprising against the Russian invaders was the Second Winter Campaign of the UNR Army: in November 1921 its detachments returned to Ukraine, were encircled, and 359 prisoners were executed near the village of Bazar(Citation: 186)(Citation: 500).
+    Thus Soviet Russia, and from 1922 the USSR, entrenched itself on the captured lands of Ukraine until 1991(Citation: 22)(Citation: 25).
+  uk: |-
+    У грудні 1919 року, розбивши білу армію генерала Денікіна, війська радянської Росії (РСФРР) вторглися в Україну втретє за два роки Радянсько-Української війни: 16 грудня вони захопили Київ - до того радянські війська займали його в лютому 1918 року (кампанія C0072) і в лютому 1919 року (кампанія C0074)(Citation: 22)(Citation: 504).
+    Армія Української Народної Республіки (УНР), не маючи більше сил тримати суцільний фронт, пішла в рейд тилами радянських і білих військ - Перший зимовий похід (6 грудня 1919 - 6 травня 1920)(Citation: 195), а уряд УНР уклав союз із Польщею.
+    У травні 1920 року польські війська й Армія УНР визволили Київ, але 12 червня радянські війська захопили його знову, а до осені - більшу частину земель на захід від Дніпра(Citation: 499).
+    У листопаді 1920 року Армію та уряд УНР було відтіснено за річку Збруч, і вони відступили на територію під контролем Польщі(Citation: 498).
+    Останньою спробою українців підняти повстання проти російських загарбників став Другий зимовий похід Армії УНР: у листопаді 1921 року її загони повернулися в Україну, були оточені, а 359 полонених розстріляно біля села Базар(Citation: 186)(Citation: 500).
+    Так радянська Росія, а з 1922 року СРСР, закріпилася на захоплених землях України до 1991 року(Citation: 22)(Citation: 25).

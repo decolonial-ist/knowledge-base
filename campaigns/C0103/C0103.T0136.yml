@@ -1,0 +1,14 @@
+type: procedure
+id: C0103.T0136
+created: 2026-04-27
+modified: 2026-09-18
+version: '1.0'
+technique: T0136
+people: ukrainians
+actor: G0011
+tool: S0017
+contributors: []
+description:
+  ru: 'Масштабные операции спецслужб РФ по кибершпионажу, перехвату данных (в том числе через взлом публичных сетей Wi-Fi) и скрытому развертыванию деструктивного ПО против украинских организаций и граждан(Citation: 36)(Citation: 37).'
+  en: ''
+  uk: ''

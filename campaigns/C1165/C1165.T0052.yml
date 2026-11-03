@@ -1,0 +1,34 @@
+type: procedure
+id: C1165.T0052
+created: 2026-07-24
+modified: 2026-08-04
+version: '1.0'
+technique: T0052
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    После бегства жителей двенадцати надтеречных деревень (чеченских селений левого берега Терека) к восставшим в июне 1840 года империя отдала их имущество казакам.
+    «Доклад канцелярии по управлению мирными горцами», составленный не ранее июля 1841 года, перечисляет деревни - Старый Наур, Новый Наур, Эмингуловская, Мурдарова, Боян-Юрт, Качерман-Юрт, Нагай Мирза-Юрт, Мижи-Юрт, Кожахи, Калаузова, Мамакай-Юрт и Гунешки - и фиксирует режим: «оставшийся у них на корне хлеб разрешено было линейным казакам... собрать в свою пользу, оставшиеся в местах дома разобрать и перевезти в станицы» (линейные казаки - казачьи войска имперской пограничной линии)(Citation: 126).
+    Тот же доклад фиксирует раздел добычи: 800 баранов, отбитых подполковником Бековичем-Черкасским (из кабардинского владетельного рода, на российской службе) при преследовании бежавших жителей Мижи-Юрта и Кожахов, «приказано было раздать в виде вознаграждения тем жителям означенных двух деревень, кои остались нам преданными»(Citation: 126).
+    Отнятую у изгнанных землю империя передала казачьему войску.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов фиксируют: «казакам были отданы в Малой Чечне «коренные» земли жителей Карабулака и Галашек» (Малая Чечня - равнинно-предгорная западная часть Чечни; Галашки - вайнахское общество в долине Ассы)(Citation: 125).
+    Слово «коренные» - из самих имперских бумаг: отдавалась не пустошь, а земля, на которой люди жили поколениями.
+  en: |-
+    After the inhabitants of twelve Terek-side villages (Chechen settlements of the left bank of the Terek) fled to the insurgents in June 1840, the empire gave their property to the Cossacks.
+    The "Report of the chancellery for the administration of peaceable highlanders", drawn up not earlier than July 1841, lists the villages - Stary Naur, Novy Naur, Emingulovskaya, Murdarova, Boyan-Yurt, Kacherman-Yurt, Nagai Mirza-Yurt, Mizhi-Yurt, Kozhakhi, Kalauzova, Mamakai-Yurt and Guneshki - and records the regime: "the grain left standing in their fields the line Cossacks were permitted... to gather for their own benefit, the houses remaining in the localities to be dismantled and carried off to the stanitsas" (line Cossacks - the Cossack troops of the empire's border line)(Citation: 126).
+    The same report records the division of spoils: 800 rams seized by lieutenant-colonel Bekovich-Cherkassky (of a Kabardian ruling family, in Russian service) while pursuing the fleeing inhabitants of Mizhi-Yurt and Kozhakhi "were ordered to be distributed as a reward to those inhabitants of the said two villages who remained devoted to us"(Citation: 126).
+    The land taken from the expelled the empire handed over to the Cossack host.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov record: "to the Cossacks were given in Lesser Chechnya the 'ancestral' lands of the inhabitants of Karabulak and Galashki" (Lesser Chechnya - the lowland-piedmont western part of Chechnya; Galashki - a Vainakh community in the valley of the Assa)(Citation: 125).
+    The word "ancestral" comes from the imperial papers themselves: what was being given away was not wasteland but land on which people had lived for generations.
+  uk: |-
+    Після втечі жителів дванадцяти надтеречних сіл (чеченських селищ лівого берега Терека) до повсталих у червні 1840 року імперія віддала їхнє майно козакам.
+    «Доповідь канцелярії з управління мирними горцями», складена не раніше липня 1841 року, перелічує села - Старий Наур, Новий Наур, Емінгуловська, Мурдарова, Боян-Юрт, Качерман-Юрт, Нагай Мірза-Юрт, Міжі-Юрт, Кожахи, Калаузова, Мамакай-Юрт і Гунешки - і фіксує режим: «хліб, що залишився у них на корені, дозволено було лінійним козакам... зібрати на свою користь, доми, що залишилися в місцях, розібрати і перевезти в станиці» (лінійні козаки - козацькі війська імперської прикордонної лінії)(Citation: 126).
+    Та ж доповідь фіксує розподіл здобичі: 800 баранів, відбитих підполковником Бековичем-Черкаським (з кабардинського володарського роду, на російській службі) при переслідуванні жителів-утікачів Міжі-Юрта і Кожахів, «наказано було роздати як винагороду тим жителям означених двох сіл, які залишилися нам відданими»(Citation: 126).
+    Відібрану у вигнаних землю імперія передала козачому війську.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов фіксують: «козакам було віддано в Малій Чечні «корінні» землі жителів Карабулака і Галашек» (Мала Чечня - рівнинно-передгірна західна частина Чечні; Галашки - вайнахська громада в долині Асси)(Citation: 125).
+    Слово «корінні» - з самих імперських паперів: віддавалася не пустка, а земля, на якій люди жили поколіннями.

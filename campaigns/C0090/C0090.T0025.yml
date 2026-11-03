@@ -1,0 +1,14 @@
+type: procedure
+id: C0090.T0025
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique: T0025
+people: ukrainians
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: 'Сознательное сокрытие союзным руководством в Москве масштабов аварии на ЧАЭС от собственного населения и международных организаций, лишение украинцев информации об уровне радиационной угрозы(Citation: 38).'
+  en: 'Deliberate concealment by the union leadership in Moscow of the scale of the Chornobyl NPP disaster from its own population and international organizations, depriving Ukrainians of information about the level of the radiation threat(Citation: 38).'
+  uk: 'Свідоме приховування союзним керівництвом у Москві масштабів аварії на ЧАЕС від власного населення та міжнародних організацій, позбавлення Українців інформації про рівень радіаційної загрози(Citation: 38).'

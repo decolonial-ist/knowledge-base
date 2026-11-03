@@ -1,0 +1,29 @@
+type: technique
+id: T0152
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+tactics:
+- TA0002
+- TA0004
+name:
+  ru: Стравливание соседних народов
+  en: Pitting Neighboring Peoples Against Each Other
+  uk: Нацьковування сусідніх народів
+contributors: []
+description:
+  ru: |-
+    Метрополия намеренно сеет и поддерживает вражду между соседними коренными народами, чтобы они ослабляли друг друга и не объединились против неё.
+    Вместо того чтобы противостоять единому сопротивлению, колонизатор разделяет его: натравливает один народ на другой, вооружает и вознаграждает лояльных против непокорных, переводит общую враждебность к империи во взаимную рознь покоряемых.
+    Механизм опирается на уже существующие или искусственно раздуваемые различия — родовые, территориальные, конфессиональные — и закрепляет их как постоянную линию раскола, лишая коренные народы возможности выступить вместе.
+    Метрополия при этом сохраняет собственные войска, перекладывая часть подавления на стравленную сторону и выставляя себя арбитром.
+  en: |-
+    The metropole deliberately sows and sustains enmity between neighboring Indigenous peoples so that they weaken one another and do not unite against it.
+    Instead of confronting a united resistance, the colonizer divides it: it sets one people against another, arms and rewards the loyal against the defiant, and converts the shared hostility toward the empire into mutual discord among those being subjugated.
+    The mechanism relies on already existing or artificially inflamed differences — clan-based, territorial, confessional — and entrenches them as a permanent line of division, depriving Indigenous peoples of the ability to act together.
+    The metropole meanwhile preserves its own troops, shifting part of the suppression onto the incited side and presenting itself as an arbiter.
+  uk: |-
+    Метрополія навмисно сіє та підтримує ворожнечу між сусідніми корінними народами, щоб вони ослаблювали одне одного й не об'єдналися проти неї.
+    Замість того щоб протистояти єдиному опору, колонізатор розділяє його: нацьковує один народ на інший, озброює та винагороджує лояльних проти непокірних, переводить спільну ворожість до імперії у взаємний розбрат підкорюваних.
+    Механізм спирається на вже наявні або штучно роздмухувані відмінності — родові, територіальні, конфесійні — і закріплює їх як постійну лінію розколу, позбавляючи корінні народи можливості виступити разом.
+    Метрополія при цьому зберігає власні війська, перекладаючи частину придушення на нацьковану сторону та виставляючи себе арбітром.

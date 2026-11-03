@@ -1,0 +1,29 @@
+type: procedure
+id: C1172.T0167.001
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0167.001
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Историк Д. А. Хожаев пишет о сдаче Алибека-Хаджи и его наибов (наиб - поставленный властью управляющий округом) в ноябре 1877 года: «Начальник Терской области генерал князь Лорис-Меликов обманул их, дав честное слово о помиловании всех, явившихся с повинной»(Citation: 95).
+    Секретарь Алибека-Хаджи Гойтукин Расу, очевидец, записал механизм обмана: Алибеку передали, «что если он придет к властям с миром, то ему оставят свободу.
+    Поверив их словам... он явился к начальнику Веденской крепости.
+    Начальник тотчас же приказал схватить его и, заковав ноги и руки в кандалы, отправил в городскую тюрьму»(Citation: 95).
+    Сдавшихся судили военно-полевым судом и казнили.
+  en: |-
+    Historian D. A. Khozhaev writes about the surrender of Alibek-Haji and his naibs (naib - a district governor appointed by the authorities) in November 1877: "The head of the Terek oblast, General Prince Loris-Melikov, deceived them, giving his word of honor that all who turned themselves in would be pardoned"(Citation: 95).
+    Alibek-Haji's secretary Goytukin Rasu, an eyewitness, recorded the mechanism of the deception: Alibek was told "that if he came to the authorities in peace, he would keep his freedom.
+    Trusting their words... he presented himself to the commandant of the Vedeno fortress.
+    The commandant at once ordered him seized and, having shackled his legs and arms in irons, sent him to the town jail"(Citation: 95).
+    Those who surrendered were tried by a field court-martial and executed.
+  uk: |-
+    Історик Д. А. Хожаєв пише про здачу Алібека-Хаджі та його наїбів (наїб - поставлений владою управитель округу) в листопаді 1877 року: «Начальник Терської області генерал князь Лоріс-Меліков обманув їх, давши чесне слово про помилування всіх, хто з'явився з повинною»(Citation: 95).
+    Секретар Алібека-Хаджі Гойтукін Расу, очевидець, записав механізм обману: Алібекові переказали, «що якщо він прийде до влади з миром, то йому залишать свободу.
+    Повіривши їхнім словам... він з'явився до начальника Веденської фортеці.
+    Начальник негайно наказав схопити його і, закувавши ноги й руки в кайдани, відправив до міської в'язниці»(Citation: 95).
+    Тих, хто здався, судили військово-польовим судом і стратили.

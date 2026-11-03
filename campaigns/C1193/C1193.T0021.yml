@@ -1,0 +1,109 @@
+type: procedure
+id: C1193.T0021
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0021
+people: nokhchi
+actor: G0011
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Россия убивала руководителей Ичкерии, объявляла их в розыск и арестовывала представителей республики в Москве.
+
+    Президент России Ельцин указом № 1226 от 14 июня 1994 года разрешил держать без обвинения до 30 суток любого, кого подозревали в связях с преступными группами(Citation: 1293).
+    По этому указу ФСБ и милиция России задерживали представителей Ичкерии в Москве(Citation: 1432)(Citation: 651).
+
+    1 февраля 1995 года Генеральная прокуратура России объявила в розыск Джохара Дудаева, избранного президента Ичкерии, чтобы арестовать и судить (подробнее: «Фабрикация преступников»)(Citation: 27).
+
+    17 июня 1995 года сотрудники ФСБ и московской милиции арестовали Хамада Курбанова, представителя президента Ичкерии в России, а через два дня - Рамзана Музаева, секретаря чеченского информационного агентства «Чечен-пресс»(Citation: 1432).
+    Сотрудники ФСБ и милиции держали обоих без обвинения, секретаря агентства отпустили к 26 июля, а представителя президента - через месяц после ареста(Citation: 1293)(Citation: 1433)(Citation: 988). 8 октября 1995 года, во время «перемирия», российские лётчики бомбили Рошни-Чу, село к юго-западу от Грозного, и убили 28 человек, среди них Магомеда Хачуева, начальника охраны делегации Ичкерии на переговорах.
+    Правозащитники «Мемориала» пишут, что целью удара был Джохар Дудаев, президент Ичкерии, который временами жил в селе и не пострадал(Citation: 27).
+
+    21 апреля 1996 года Джохар Дудаев с женой Аллой Дудаевой, соратниками и охраной выехал из Гехи-Чу, села к юго-западу от Грозного, на поляну в горах.
+    Президент поставил спутниковый телефон на капот машины и позвонил депутату российского парламента Константину Боровому, посреднику в переговорах о мире.
+    Российские военные ударили ракетами по поляне(Citation: 1609).
+    Оккупанты убили президента Ичкерии, генерального прокурора Магомета Жаниева и Хамада Курбанова, бывшего представителя республики в Москве.
+    Алла Дудаева стояла в двадцати метрах от машины.
+    В воспоминаниях жена президента писала: «Неожиданно с левой стороны раздался резкий свист летящей ракеты.
+    Взрыв за моей спиной и вспыхнувшее желтое пламя заставили меня спрыгнуть в овраг... но вдруг опять послышался свист»(Citation: 712).
+
+    21 и 22 апреля 1996 года российские войска били ракетами и бомбами по шести или семи штабам руководства Ичкерии в горах(Citation: 27).
+    Александр Литвиненко, бывший сотрудник ФСБ, в 2002 году писал, что убийство президента готовила группа ФСБ под командованием Хохолькова, созданная «для устранения Дудаева», в Ханкале, главной базе оккупационных войск на восточной окраине Грозного.
+    По его словам, самолёты российской военной разведки навели ракету по маяку в подменённом телефоне президента(Citation: 1087).
+
+    7 мая 1996 года российские милиционеры тайно задержали Вагапа Тутакова, представителя Ичкерии в Москве, когда тот выезжал из Калуги, города к юго-западу от Москвы(Citation: 27).
+    Милиционеры заявили, что нашли в его машине оружие(Citation: 1361), и 8 июня выпустили представителя Ичкерии из-под стражи(Citation: 27). 10 июля 1996 года командующий оккупационными войсками Тихомиров приказал искать и задержать Зелимхана Яндарбиева, исполнявшего обязанности президента Ичкерии(Citation: 27)(Citation: 1127).
+    В тот же день российские лётчики и артиллеристы били по штабу Зелимхана Яндарбиева в Махкетах, горном селе на юго-востоке Ичкерии(Citation: 27). 15 июля оккупанты захватили Махкеты, но исполнявшего обязанности президента там не нашли(Citation: 1127).
+    В этот день экипажи семи российских вертолётов ракетами разрушили дом его матери в Старых Атагах, селе к югу от Грозного; мать и соседи выжили (подробнее: «Коллективные наказания»)(Citation: 1127)(Citation: 1364).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Russia killed the leaders of Ichkeria, put them on wanted lists and arrested the republic's representatives in Moscow.
+
+    Russian President Yeltsin, by Decree No. 1226 of 14 June 1994, allowed anyone suspected of ties to criminal groups to be held without charge for up to 30 days(Citation: 1293).
+    Under this decree, the FSB and the Russian police detained representatives of Ichkeria in Moscow(Citation: 1432)(Citation: 651).
+
+    On 1 February 1995, the Prosecutor General's Office of Russia put Dzhokhar Dudayev, the elected president of Ichkeria, on the wanted list in order to arrest and try him (see: "Manufacturing Criminals")(Citation: 27).
+
+    On 17 June 1995, officers of the FSB and the Moscow police arrested Khamad Kurbanov, the representative of the president of Ichkeria in Russia, and two days later Ramzan Muzaev, secretary of the Chechen news agency Chechen-Press(Citation: 1432).
+    The FSB and police officers held both without charge, released the agency's secretary by 26 July, and the president's representative a month after his arrest(Citation: 1293)(Citation: 1433)(Citation: 988).
+    On 8 October 1995, during the "ceasefire", Russian pilots bombed Roshni-Chu, a village southwest of Grozny, and killed 28 people, among them Magomed Khachuev, head of security of the delegation of Ichkeria at the talks.
+    Human rights defenders of Memorial write that the target of the strike was Dzhokhar Dudayev, the president of Ichkeria, who at times lived in the village and was unharmed(Citation: 27).
+
+    On 21 April 1996, Dzhokhar Dudayev, with his wife Alla Dudayeva, his associates and his guards, drove out of Gekhi-Chu, a village southwest of Grozny, to a clearing in the mountains.
+    The president put a satellite phone on the hood of the car and called Konstantin Borovoy, a deputy of the Russian parliament and a mediator in the peace talks.
+    Russian servicemen struck the clearing with missiles(Citation: 1609).
+    The occupiers killed the president of Ichkeria, Prosecutor General Magomet Zhaniev and Khamad Kurbanov, the republic's former representative in Moscow.
+    Alla Dudayeva was standing twenty meters from the car.
+    In her memoirs, the president's wife wrote: "Suddenly, from the left, came the sharp whistle of an incoming missile.
+    The explosion behind my back and the yellow flame that flared up made me jump down into the ravine... but suddenly the whistle came again"(Citation: 712).
+
+    On 21 and 22 April 1996, Russian troops struck six or seven headquarters of the leadership of Ichkeria in the mountains with missiles and bombs(Citation: 27).
+    Alexander Litvinenko, a former FSB officer, wrote in 2002 that the killing of the president had been prepared by an FSB group under the command of Khokholkov, created "to eliminate Dudayev", in Khankala, the main base of the occupation troops on the eastern outskirts of Grozny.
+    According to him, aircraft of Russian military intelligence guided the missile to a beacon in the president's substituted phone(Citation: 1087).
+
+    On 7 May 1996, Russian police officers secretly detained Vagap Tutakov, Ichkeria's representative in Moscow, as he was leaving Kaluga, a city southwest of Moscow(Citation: 27).
+    The police officers claimed that they had found weapons in his car(Citation: 1361), and on 8 June they released Ichkeria's representative from custody(Citation: 27).
+    On 10 July 1996, Tikhomirov, the commander of the occupation troops, ordered a search for and the detention of Zelimkhan Yandarbiyev, the acting president of Ichkeria(Citation: 27)(Citation: 1127).
+    That same day, Russian pilots and artillerymen struck Zelimkhan Yandarbiyev's headquarters in Makhkety, a mountain village in the southeast of Ichkeria(Citation: 27).
+    On 15 July, the occupiers captured Makhkety but did not find the acting president there(Citation: 1127).
+    That day, the crews of seven Russian helicopters destroyed his mother's house in Starye Atagi, a village south of Grozny, with missiles; the mother and the neighbors survived (see: "Collective Punishment")(Citation: 1127)(Citation: 1364).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Росія вбивала керівників Ічкерії, оголошувала їх у розшук і заарештовувала представників республіки в Москві.
+
+    Президент Росії Єльцин указом № 1226 від 14 червня 1994 року дозволив тримати без обвинувачення до 30 діб будь-кого, кого підозрювали у зв'язках зі злочинними групами(Citation: 1293).
+    За цим указом ФСБ і міліція Росії затримували представників Ічкерії в Москві(Citation: 1432)(Citation: 651).
+
+    1 лютого 1995 року Генеральна прокуратура Росії оголосила в розшук Джохара Дудаєва, обраного президента Ічкерії, щоб заарештувати й судити (докладніше: «Фабрикація злочинців»)(Citation: 27).
+
+    17 червня 1995 року співробітники ФСБ і московської міліції заарештували Хамада Курбанова, представника президента Ічкерії в Росії, а через два дні - Рамзана Музаєва, секретаря чеченського інформаційного агентства «Чечен-прес»(Citation: 1432).
+    Співробітники ФСБ і міліції тримали обох без обвинувачення, секретаря агентства відпустили до 26 липня, а представника президента - через місяць після арешту(Citation: 1293)(Citation: 1433)(Citation: 988). 8 жовтня 1995 року, під час «перемир'я», російські льотчики бомбили Рошні-Чу, село на південний захід від Грозного, і вбили 28 людей, серед них Магомеда Хачуєва, начальника охорони делегації Ічкерії на переговорах.
+    Правозахисники «Меморіалу» пишуть, що ціллю удару був Джохар Дудаєв, президент Ічкерії, який часом жив у селі і не постраждав(Citation: 27).
+
+    21 квітня 1996 року Джохар Дудаєв із дружиною Аллою Дудаєвою, соратниками та охороною виїхав із Гехі-Чу, села на південний захід від Грозного, на галявину в горах.
+    Президент поставив супутниковий телефон на капот машини й зателефонував депутатові російського парламенту Костянтину Боровому, посередникові в переговорах про мир.
+    Російські військові вдарили ракетами по галявині(Citation: 1609).
+    Окупанти вбили президента Ічкерії, генерального прокурора Магомета Жанієва та Хамада Курбанова, колишнього представника республіки в Москві.
+    Алла Дудаєва стояла за двадцять метрів від машини.
+    У спогадах дружина президента писала: «Несподівано з лівого боку пролунав різкий свист ракети, що летіла.
+    Вибух за моєю спиною та спалах жовтого полум'я змусили мене зістрибнути в яр... але раптом знову почувся свист»(Citation: 712).
+
+    21 і 22 квітня 1996 року російські війська били ракетами і бомбами по шести чи семи штабах керівництва Ічкерії в горах(Citation: 27).
+    Олександр Литвиненко, колишній співробітник ФСБ, у 2002 році писав, що вбивство президента готувала група ФСБ під командуванням Хохолькова, створена «для усунення Дудаєва», у Ханкалі, головній базі окупаційних військ на східній околиці Грозного.
+    За його словами, літаки російської воєнної розвідки навели ракету на маяк у підміненому телефоні президента(Citation: 1087).
+
+    7 травня 1996 року російські міліціонери таємно затримали Вагапа Тутакова, представника Ічкерії в Москві, коли той виїжджав із Калуги, міста на південний захід від Москви(Citation: 27).
+    Міліціонери заявили, що знайшли в його машині зброю(Citation: 1361), а 8 червня випустили представника Ічкерії з-під варти(Citation: 27). 10 липня 1996 року командувач окупаційних військ Тихомиров наказав шукати й затримати Зелімхана Яндарбієва, виконувача обов'язків президента Ічкерії(Citation: 27)(Citation: 1127).
+    Того ж дня російські льотчики й артилеристи били по штабу Зелімхана Яндарбієва в Махкетах, гірському селі на південному сході Ічкерії(Citation: 27). 15 липня окупанти захопили Махкети, але виконувача обов'язків президента там не знайшли(Citation: 1127).
+    Того дня екіпажі семи російських вертольотів ракетами зруйнували будинок його матері в Старих Атагах, селі на південь від Грозного; мати й сусіди вижили (докладніше: «Колективні покарання»)(Citation: 1127)(Citation: 1364).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

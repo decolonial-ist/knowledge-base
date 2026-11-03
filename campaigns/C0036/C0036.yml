@@ -1,0 +1,23 @@
+type: campaign
+id: C0036
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1791-01-01
+last_seen: 1791-12-31
+contributors: []
+name:
+  ru: Учреждение «Черты оседлости» (1791)
+  en: Establishment of the "Pale of Settlement" (1791)
+  uk: Запровадження «Смуги осілості» (1791)
+description:
+  ru: |-
+    Введение дискриминационного законодательства, ограничившего права еврейского населения территориально: указ № 17.006 от 23 декабря 1791 года подтвердил запрет евреям записываться в купечество во внутренних российских городах и портах, распространив право гражданства и мещанства лишь на Екатеринославское наместничество и Таврическую область(Citation: 150).
+    Из совокупности таких актов сложилась черта оседлости, пролегшая преимущественно по колонизированным украинским территориям.
+  en: |-
+    The introduction of discriminatory legislation that territorially restricted the rights of the Jewish population: decree No. 17,006 of December 23, 1791 confirmed the ban on Jews enrolling in the merchantry in the internal Russian cities and ports, extending the rights of citizenship and burgher status only to the Ekaterinoslav Viceroyalty and the Tauride region(Citation: 150).
+    From the totality of such acts emerged the Pale of Settlement, running predominantly through colonized Ukrainian territories.
+  uk: |-
+    Запровадження дискримінаційного законодавства, що обмежило права єврейського населення територіально: указ № 17.006 від 23 грудня 1791 року підтвердив заборону євреям записуватися в купецтво у внутрішніх російських містах і портах, поширивши право громадянства й міщанства лише на Катеринославське намісництво й Таврійську область(Citation: 150).
+    Із сукупності таких актів склалася смуга осілості, що пролягла переважно колонізованими українськими територіями.

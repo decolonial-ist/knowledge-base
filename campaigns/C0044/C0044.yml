@@ -1,0 +1,17 @@
+type: campaign
+id: C0044
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.2'
+people: ukrainians
+first_seen: 1769-01-01
+last_seen: 1786-12-31
+contributors: []
+name:
+  ru: Русификация образования и религии (1769–1786)
+  en: Russification of Education and Religion (1769–1786)
+  uk: Русифікація освіти та релігії (1769–1786)
+description:
+  ru: 'Системная кампания Российской империи по искоренению языка коренного народа из сфер образования и религии: «в 1769 г. Св. Синодъ не только не разрѣшилъ печатанія южно-русскихъ букварей, но предписалъ отобрать уже находящіеся на рукахъ»(Citation: 159); наказом от 26 октября 1784 года киевский митрополит Самуил Миславский велел ректору и префекту Киево-Могилянской академии, «дабы они неусыпное возымели попечение о непременном и неупустительном наблюдении как учителями, так и учащимися правил российскаго правописания», под угрозой исключения студентов из духовного ведомства(Citation: 415); в 1786 году Киево-Могилянской академии предписан общеимперский порядок обучения(Citation: 181).'
+  en: 'A systematic campaign of the Russian Empire to root out the indigenous people''s language from education and religion: "in 1769 the Holy Synod not only refused permission to print South Russian primers, but ordered the confiscation of those already in people''s hands"(Citation: 159); by an order of 26 October 1784, the Kyiv metropolitan Samuil Myslavsky directed the rector and prefect of the Kyiv-Mohyla Academy "to take unremitting care of the unfailing and unomitted observance, by teachers and students alike, of the rules of Russian orthography," under the threat of expelling students from the clerical estate(Citation: 415); in 1786 the Kyiv-Mohyla Academy was prescribed the empire-wide mode of instruction(Citation: 181).'
+  uk: 'Системна кампанія Російської імперії з викорінення мови корінного народу зі сфер освіти та релігії: «1769 р. Св. Синод не тільки не дозволив друкування південноруських букварів, а й приписав відібрати ті, що вже були на руках»(Citation: 159); наказом від 26 жовтня 1784 року київський митрополит Самуїл Миславський звелів ректорові й префектові Києво-Могилянської академії, «щоб вони невсипуще дбали про неодмінне й неухильне дотримання як учителями, так і учнями правил російського правопису», під загрозою виключення студентів з духовного відомства(Citation: 415); 1786 року Києво-Могилянській академії приписано загальноімперський порядок навчання(Citation: 181).'

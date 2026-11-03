@@ -1,0 +1,24 @@
+type: procedure
+id: C1143.T0142
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0142
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя сгоняла нохчи с равнинной земли, чтобы расчистить её под себя и под лояльных соседей, и закрывала возврат крепостями.
+    Историк Д. А. Хожаев приводит признание генерала Орбелиани, что такой сгон был повсеместной системой: «во всей Чечне не осталось ни одного аула, ни одного двора, которые по нескольку раз не переселялись бы с одного места на другое»(Citation: 95).
+    Сам генерал Ермолов в всеподданнейшем рапорте признаёт это применительно к качкалыкам нохчи: ради очистки аксаевского прибрежья он выгнал их оттуда и поставил на их месте крепости Амир-Аджи-юрт и Внезапную, ради «освобождения его [Аксая] от Качкалыков, которых тотчас приказал я выгнать из оного; учредил кр.
+    Внезапную»(Citation: 103).
+  en: |-
+    The Russian Empire drove the Nokhchi from the lowland to clear it for itself and for loyal neighbors, and blocked their return with fortresses.
+    Historian D. A. Khozhaev cites the admission of General Orbeliani that this expulsion was a system applied everywhere: “in all of Chechnya there remained not a single aul, not a single household, that had not been resettled from one place to another several times over”(Citation: 95).
+    General Yermolov himself, in a report to the emperor, admits this with regard to the Kachkalyk Nokhchi: to clear the Aksai riverside he drove them out of it and placed the fortresses of Amir-Adzhi-Yurt and Vnezapnaya in their place, for the sake of “freeing it [the Aksai] from the Kachkalyks, whom I immediately ordered to be driven out of it; I established the fortress of Vnezapnaya”(Citation: 103).
+  uk: |-
+    Російська імперія зганяла Нохчі з рівнинної землі, щоб розчистити її під себе та під лояльних сусідів, і закривала повернення фортецями.
+    Історик Д. А. Хожаєв наводить визнання генерала Орбеліані, що такий згін був повсюдною системою: «в усій Чечні не залишилося жодного аулу, жодного двору, які по кілька разів не переселялися б з одного місця на інше»(Citation: 95).
+    Сам генерал Єрмолов у всепідданішому рапорті визнає це щодо качкаликів Нохчі: заради очищення аксаївського прибережжя він вигнав їх звідти й поставив на їхньому місці фортеці Амір-Аджі-юрт і Внєзапну, заради «звільнення його [Аксая] від Качкаликів, яких я одразу наказав вигнати звідти; заснував фортецю Внєзапну»(Citation: 103).

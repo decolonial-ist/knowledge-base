@@ -1,0 +1,33 @@
+type: procedure
+id: C0074.T0162.002
+created: 2026-08-29
+modified: 2026-10-27
+version: '1.0'
+technique: T0162.002
+people: ukrainians
+actor: G0014
+tool: S0010
+contributors:
+- ru: Палий Светодар
+  en: Palii Svitodar
+  uk: Палій Світодар
+description:
+  ru: |-
+    Донские казаки белой армии генерала Деникина убивали украинских галицких стрельцов, взятых в плен, - командование Галицкой армии заявляло командованию белых формальный протест, а военный суд самой Галицкой армии подтвердил, что убийства пленных были фактом. 25 октября 1919 года Начальная команда - штаб Галицкой армии (УГА) - выслала, как записано в её журнале боевых действий, к командованию белых миссию - отаман Лисняк, сотники Левицкий и Курица, - «которые должны были заявить формальный протест против убийств наших пленных донскими казаками»(Citation: 495).
+    В письменном поручении делегации задача записана так: «во-первых, запротестовать против убийства наших пленных войсками Деникина, как это имело место в Гайсине, во-вторых, обсудить дело обмена пленными».
+    Отаман Лисняк показал на суде: «В Виннице получил я поручение ехать в Штаб Добровольческой армии [Деникина, «белых»], передать упомянутый протест и вести переговоры об обмене пленными»; делегацию принял генерал Слащов, пообещавший «позвонить Деникину»(Citation: 495).
+    В ноябре 1919 года на военном суде над командующим УГА генералом Тарнавским сотник Курдяк спросил: «были убийства донских казаков фактом или вымыслом»; Тарнавский ответил: «Это факт.
+    Свидетель отаман Букшованый, впрочем и 5-я Бригада»(Citation: 495).
+  en: |-
+    Don Cossacks of the White army of General Denikin killed Ukrainian Galician riflemen taken prisoner - the command of the Galician Army lodged a formal protest with the Whites' command, and the Galician Army's own military court confirmed that the killings of prisoners were fact.
+    On 25 October 1919 the Supreme Command - the staff of the Galician Army (UHA) - sent, as recorded in its war diary, a mission to the Whites' command - otaman Lysniak, sotnyks Levytsky and Kurytsia - "who were to lodge a formal protest against the killings of our prisoners by the Don Cossacks"(Citation: 495).
+    In the delegation's written commission the task was recorded thus: "first, to protest against the killing of our prisoners by Denikin's troops, as took place in Haisyn, and second, to discuss the matter of an exchange of prisoners."
+    Otaman Lysniak testified in court: "In Vinnytsia I received the commission to go to the Staff of the Volunteer Army [Denikin's, the 'Whites'], hand over the said protest and negotiate an exchange of prisoners"; the delegation was received by general Slashchov, who promised "to telephone Denikin"(Citation: 495).
+    In November 1919, at the military trial of UHA commander general Tarnavsky, sotnyk Kurdiak asked "whether the killings by the Don Cossacks were fact or fiction"; Tarnavsky replied: "It is fact.
+    Witness - otaman Bukshovany, and indeed the 5th Brigade"(Citation: 495).
+  uk: |-
+    Донські козаки білої армії генерала Денікіна вбивали українських галицьких стрільців, узятих у полон, - командування Галицької армії заявляло командуванню білих формальний протест, а військовий суд самої Галицької армії підтвердив, що вбивства полонених були фактом. 25 жовтня 1919 року Начальна команда - штаб Галицької армії (УГА) - вислала, як записано в її деннику, до командування білих місію - отаман Лисняк, сотники Левицький і Куриця, - «які мали заложити формальний протест проти убійств наших полонених донськими козаками»(Citation: 495).
+    У писемній повновласті делегації завдання записано так: «перше запротестувати проти убивання наших полонених військами Денікіна, як це мало місце в Гайсині, по друге, щоби обговорити справу виміни полонених».
+    Отаман Лисняк показав на суді: «В Винниці дістав я припоручення їхати до Штабу Добровольчеської Армії [Денікіна, «білих»], передати згаданий протест і переговорювати що до виміни полонених»; делегацію прийняв генерал Слащов, який пообіцяв, «що зателефонує до Денікіна»(Citation: 495).
+    У листопаді 1919 року на військовому суді над командувачем УГА генералом Тарнавським сотник Курдіяк спитав: «Чи убійства донських козаків були фактом чи фікцією»; Тарнавський відповів: «Це факт.
+    Свідок отаман Букшований, впрочім і 5-та Бригада»(Citation: 495).

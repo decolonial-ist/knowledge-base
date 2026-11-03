@@ -1,0 +1,21 @@
+type: procedure
+id: C0070.T0127
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0127
+people: ukrainians
+actor: G0009
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Массовые депортации гражданского населения оккупированной Галичины: «Особым преследованиям подверглось греко-католическое духовенство. 18 сентября 1914 был арестован и вывезен в Россию митрополит А.Шептицкий.
+    Всего тысячи галичан вывезены как заложники (только через Киев прошло ок. 12 тыс.)»(Citation: 195).
+  en: |-
+    The mass deportation of the civilian population of occupied Galicia: "The Greek Catholic clergy suffered particular persecution.
+    On September 18, 1914, Metropolitan A. Sheptytsky was arrested and taken away to Russia.
+    In all, thousands of Galicians were removed as hostages (through Kyiv alone about 12 thousand passed)"(Citation: 195).
+  uk: |-
+    Масові депортації цивільного населення окупованої Галичини: «Особливих переслідувань зазнало греко-катол. духовенство. 18 вересня 1914 був заарештований і вивезений у Росію митрополит А.Шептицький.
+    Загалом тисячі галичан вивезено як заручників (лише через Київ пройшло бл. 12 тис.)»(Citation: 195).

@@ -1,0 +1,14 @@
+type: procedure
+id: C0066.T0057
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0057
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Использование дешевой рабочей силы на шахтах и заводах в условиях тяжелейшей эксплуатации: «Первоначально большинство шахтёров составляли сезонные рабочие»(Citation: 213) – без прав, без оседлости, на износ.'
+  en: 'The use of cheap labor at the mines and plants under conditions of harsh exploitation: "Initially the majority of miners were seasonal workers"(Citation: 213) – without rights, without settlement, worked to exhaustion.'
+  uk: 'Використання дешевої робочої сили на шахтах і заводах в умовах найтяжчої експлуатації: «Первинно більшість шахтарів становили сезонні робітники»(Citation: 213) – без прав, без осілості, на знос.'

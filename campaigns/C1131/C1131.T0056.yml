@@ -1,0 +1,16 @@
+type: procedure
+id: C1131.T0056
+created: 2026-06-21
+modified: 2026-06-21
+version: '1.0'
+technique: T0056
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: 'Оккупационная администрация Российской империи взимала дискриминационные пошлины за перемещение товаров коренного населения: историк Я. З. Ахмадов цитирует таможенные книги, констатируя, что в 1726 году «с проезжего письма с терского жителя окоченина Курмана Богоматова... пошлин по указу 24 алтыни деньги взято»(Citation: 94).'
+  en: |-
+    The occupation administration of the Russian Empire levied discriminatory duties on the movement of goods of the Indigenous population: historian Ya.
+    Z. Akhmadov quotes the customs books, stating that in 1726 "on the travel document of the Terek resident, the Okochanin Kurman Bogomatov... duties of 24 altyns in money were collected by decree"(Citation: 94).
+  uk: 'Окупаційна адміністрація Російської імперії стягувала дискримінаційні мита за переміщення товарів корінного населення: історик Я. З. Ахмадов цитує митні книги, констатуючи, що 1726 року «з проїжджого листа з терського жителя Окоченина Курмана Богоматова... мита за указом 24 алтини грошима взято»(Citation: 94).'

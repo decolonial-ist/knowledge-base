@@ -1,0 +1,23 @@
+type: campaign
+id: C0032
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1768-01-01
+last_seen: 1774-12-31
+contributors: []
+name:
+  ru: Русско-турецкая война и Кючук-Кайнарджийский договор (1768–1774)
+  en: Russo-Turkish War and the Treaty of Küçük Kaynarca (1768–1774)
+  uk: Російсько-турецька війна та Кючук-Кайнарджійський договір (1768–1774)
+description:
+  ru: |-
+    Использование украинских ресурсов и казацких полков для победы над Османами на Дунае.
+    Дипломатическое отсечение Крыма от Османской империи через признание фиктивной «независимости»: по статье III договора «Все татарские народы: крымские, буджатские, кубанские, едисанцы, жамбуйлуки и едичкулы, без изъятия от обеих империй имеют быть признаны вольными и совершенно независимыми от всякой посторонней власти»(Citation: 146) – эта «независимость» стала прологом аннексии полуострова девять лет спустя.
+  en: |-
+    The use of Ukrainian resources and Cossack regiments for victory over the Ottomans on the Danube.
+    The diplomatic severing of Crimea from the Ottoman Empire through the recognition of a fictitious "independence": under Article III of the treaty, "All the Tatar peoples: the Crimean, Budjak, Kuban, Yedisan, Jamboyluk, and Yedichkul, without exception, are to be recognized by both empires as free and entirely independent of any outside power"(Citation: 146) – this "independence" became the prologue to the annexation of the peninsula nine years later.
+  uk: |-
+    Використання українських ресурсів і козацьких полків для перемоги над Османами на Дунаї.
+    Дипломатичне відсічення Криму від Османської імперії через визнання фіктивної «незалежності»: за статтею III договору «Усі татарські народи: кримські, буджацькі, кубанські, єдисанці, жамбуйлуки і єдичкули, без вилучення від обох імперій мають бути визнані вільними і цілком незалежними від будь-якої сторонньої влади»(Citation: 146) – ця «незалежність» стала прологом анексії півострова через дев'ять років.

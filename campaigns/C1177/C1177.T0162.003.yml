@@ -1,0 +1,31 @@
+type: procedure
+id: C1177.T0162.003
+created: 2026-08-13
+modified: 2026-08-29
+version: '1.0'
+technique: T0162.003
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    СССР расстрелял почти всех арестованных в ходе операции 1925 года - людей, уже находившихся в руках войск и ОГПУ (политической полиции, предшественницы современной ФСБ).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «Общее число арестованных превысило 300 человек.
+    Из общего числа арестованных 105 человек были расстреляны на месте, в отношении 183 человек было открыто следствие, также закончившееся внесудебным расстрелом, 21 человек выслан»(Citation: 125).
+    «Активных» среди них даже собственный счёт ОГПУ находил немного: в обзоре, поданном Сталину, названы 50 «активных бандитов и видных контрреволюционных деятелей», при том что «Всего арестовано 400 бандитов и им содействовавших элементов»(Citation: 476) - расстреливали в основном не лидеров, а рядовых задержанных, чья вина не устанавливалась никаким судом.
+    Так убили и главного пленника операции: имама Нажмуддина Гоцинского - духовного главу сопротивления в Дагестане и Чечне, задержанного 5 сентября 1925 года и приговорённого в Ростове-на-Дону, - расстреляли, по слову горца-эмигранта, писавшего в парижском журнале «Прометей» в 1930 году, «Il fut fusillé sans jugement dans les souterrains du Guépéou de Rostov» - без суда, в подвалах ГПУ в Ростове(Citation: 486).
+  en: |-
+    The USSR shot nearly all those arrested in the course of the operation of 1925 - people already in the hands of the troops and the OGPU (the political police, a predecessor of today's FSB).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "The total number of arrested exceeded 300.
+    Of the total number of arrested, 105 were shot on the spot; against 183 an investigation was opened, which also ended in extrajudicial shooting; 21 were exiled"(Citation: 125).
+    Even the OGPU's own count found few "active" ones among them: the survey submitted to Stalin names 50 "active bandits and prominent counter-revolutionary figures", while "In all, 400 bandits and elements abetting them have been arrested"(Citation: 476) - those shot were mostly not leaders but rank-and-file detainees whose guilt was established by no court.
+    So was killed the operation's chief prisoner as well: imam Nazhmuddin Gotsinsky - the spiritual head of the resistance in Dagestan and Chechnya, detained on 5 September 1925 and sentenced in Rostov-on-Don - was shot, in the words of a highlander emigre writing in the Paris journal Prométhée in 1930, "Il fut fusillé sans jugement dans les souterrains du Guépéou de Rostov" - without trial, in the cellars of the GPU in Rostov(Citation: 486).
+  uk: |-
+    СРСР розстріляв майже всіх заарештованих у ході операції 1925 року - людей, що вже перебували в руках військ і ОГПУ (політичної поліції, попередниці сучасної ФСБ).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Загальне число заарештованих перевищило 300 осіб.
+    Із загального числа заарештованих 105 осіб було розстріляно на місці, щодо 183 осіб було відкрито слідство, що також закінчилося позасудовим розстрілом, 21 особу вислано»(Citation: 125).
+    «Активних» серед них навіть власний рахунок ОГПУ знаходив небагато: в огляді, поданому Сталіну, названо 50 «активних бандитів і видних контрреволюційних діячів», при тому що «Усього заарештовано 400 бандитів і елементів, що їм сприяли»(Citation: 476) - розстрілювали здебільшого не лідерів, а рядових затриманих, чию провину не встановлював жоден суд.
+    Так убили і головного полоненого операції: імама Нажмуддіна Гоцинського - духовного главу опору в Дагестані та Чечні, затриманого 5 вересня 1925 року і засудженого в Ростові-на-Дону, - розстріляли, за словом горця-емігранта, що писав у паризькому журналі «Прометей» 1930 року, «Il fut fusillé sans jugement dans les souterrains du Guépéou de Rostov» - без суду, в підвалах ГПУ в Ростові(Citation: 486).

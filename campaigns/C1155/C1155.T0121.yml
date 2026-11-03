@@ -1,0 +1,23 @@
+type: procedure
+id: C1155.T0121
+created: 2026-07-03
+modified: 2026-08-07
+version: '1.0'
+technique: T0121
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В августе - сентябре 1832 войска корпусного командира Розена уничтожали посевы и пашни разоряемых сёл - пищевую базу народа накануне зимы.
+    Розен признал это в рапорте военному министру Чернышёву: не подчинившиеся селения «наказаны истреблением жилищ и пашень»(Citation: 105).
+    Имперский историк Волконский писал: 1 сентября жители Автуров за отказ выдать пленных «наказаны истреблением посевов и жилищ»; 3 сентября у Гельдигена отряд «истребил их пашни и дома»(Citation: 116).
+  en: |-
+    In August–September 1832, the troops of corps commander Rosen destroyed the crops and plowed fields of the villages being ravaged — the people’s food base on the eve of winter.
+    Rosen acknowledged this in a report to Minister of War Chernyshev: the villages that had not submitted were “punished by the destruction of dwellings and plowed fields”(Citation: 105).
+    The imperial historian Volkonsky wrote: on September 1, the residents of Avtury, for refusing to hand over prisoners, were “punished by the destruction of crops and dwellings”; on September 3, near Geldigen, the detachment “exterminated their plowed fields and houses”(Citation: 116).
+  uk: |-
+    У серпні – вересні 1832 року війська корпусного командира Розена знищували посіви та ріллю розорюваних сіл — харчову базу народу напередодні зими.
+    Розен визнав це в рапорті військовому міністрові Чернишову: селища, що не підкорилися, «покарані знищенням осель і ріллі»(Citation: 105).
+    Імперський історик Волконський писав: 1 вересня жителі Автурів за відмову видати полонених «покарані знищенням посівів та осель»; 3 вересня біля Гельдигена загін «знищив їхні ріллі та будинки»(Citation: 116).

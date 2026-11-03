@@ -1,0 +1,39 @@
+type: procedure
+id: C1162.T0015
+created: 2026-07-22
+modified: 2026-07-22
+version: '1.0'
+technique: T0015
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В сентябре 1837 года, готовя приезд Николая I на Кавказ, империя попыталась завербовать Шамиля (Шамиль - имам, руководитель сопротивления горцев Дагестана и Чечни российскому завоеванию), предложив ему власть и почёт в обмен на подчинение империи.
+    Волю императора генерал Адлерберг передал генералу Розену письмом от 10 августа 1837: сделать «Шамилю и главным его сообщникам Ташов-хаджи, Кибит-Магомету и карахскому кадию Абдуррахману внушения... испросить милости предстать пред лицо Самого Монарха» в Тифлисе(Citation: 133); первым в списке назван Ташу-Хаджи (шейх, в 1834-1836 годах имам Чечни, духовный и военный руководитель чеченского сопротивления).
+    Исполняя это, генерал Клюгенау добился личного свидания с Шамилём 18 сентября 1837 у родника близ аула Каранай; по записи хрониста Шамиля Мухаммед-Тахира аль-Карахи, генерал «заговорил, прося Шамиля приехать для встречи с русским Николаем.
+    Он утверждал, что император возвеличит его, Шамиля, окажет ему почет, сделает управляющим делами всех дагестанских мусульман.
+    От императора, мол, не будет никакой измены»(Citation: 128).
+    Параллельно генерал Фезе поручил Ахмед-хану Мехтулинскому «убѣдить Шамиля прибыть въ Тифлисъ, ко времени Высочайшаго туда прибытія», о чём генерал Розен доносил Чернышеву 25 сентября 1837(Citation: 105), а полковник Пулло письмом потребовал от Шамиля выслать «в кр.
+    Грозную двух депутатов для представления их Государю»(Citation: 133).
+    Подкуп был доведён до адресата и отвергнут: 28 сентября 1837 Шамиль ответил Клюгенау письмом - «я решился не отправляться в Тифлис, если и изрежут меня по кускам, потому, что я многократно видел от вас измены»(Citation: 133); в Тифлис не поехали ни Шамиль, ни Ташу-Хаджи.
+    Предложение Шамилю поста «управляющего делами всех дагестанских мусульман» повторяло линию, которой империя в те же годы создавала лояльные ей религиозные институты (кампания C1159).
+  en: |-
+    In September 1837, preparing Nicholas I's visit to the Caucasus, the empire tried to recruit Shamil (Shamil - imam, leader of the resistance of the highlanders of Dagestan and Chechnya to the Russian conquest), offering him power and honors in exchange for subordination to the empire.
+    General Adlerberg conveyed the emperor's will to general Rozen in a letter of 10 August 1837: to give "Shamil and his chief accomplices Tashav-Hadji, Kibit-Magomet and the Qarakh qadi Abdurrahman suggestions... to beg the mercy of appearing before the face of the Monarch Himself" in Tiflis(Citation: 133); Tashu-Hadji (sheikh, in 1834-1836 the imam of Chechnya, spiritual and military leader of the Chechen resistance) is named first on the list.
+    Carrying this out, general Klugenau obtained a personal meeting with Shamil on 18 September 1837 at a spring near the aul of Karanay; as recorded by Shamil's chronicler Muhammad Tahir al-Qarakhi, the general "began to speak, asking Shamil to come for a meeting with the Russian Nicholas.
+    He asserted that the emperor would exalt him, Shamil, show him honor, and make him the administrator of the affairs of all Dagestani Muslims.
+    From the emperor, he said, there would be no treachery"(Citation: 128).
+    In parallel, general Feze instructed Akhmed Khan of Mekhtuli "to persuade Shamil to arrive in Tiflis by the time of His Majesty's arrival there", as general Rozen reported to Chernyshev on 25 September 1837(Citation: 105), and colonel Pullo demanded of Shamil by letter that he send "to the Groznaya fortress two deputies to be presented to the Sovereign"(Citation: 133).
+    The bribe was delivered to its addressee and rejected: on 28 September 1837 Shamil replied to Klugenau by letter - "I have resolved not to go to Tiflis even if I am cut to pieces, because I have many times seen treachery from you"(Citation: 133); neither Shamil nor Tashu-Hadji went to Tiflis.
+    The offer to Shamil of the post of "administrator of the affairs of all Dagestani Muslims" repeated the same policy line by which the empire, in those same years, was creating loyal religious institutions (campaign C1159).
+  uk: |-
+    У вересні 1837 року, готуючи приїзд Миколи I на Кавказ, імперія спробувала завербувати Шаміля (Шаміль - імам, керівник спротиву горців Дагестану і Чечні російському завоюванню), запропонувавши йому владу і пошану в обмін на підпорядкування імперії.
+    Волю імператора генерал Адлерберг передав генералу Розену листом від 10 серпня 1837: зробити «Шамілю та головним його спільникам Ташав-Гаджі, Кібіт-Магомету і карахському кадію Абдуррахману навіювання... випросити милості постати перед лице Самого Монарха» в Тифлісі(Citation: 133); першим у списку названо Ташу-Хаджі (шейх, у 1834-1836 роках імам Чечні, духовний і військовий керівник чеченського спротиву).
+    Виконуючи це, генерал Клюгенау домігся особистого побачення з Шамілем 18 вересня 1837 біля джерела поблизу аулу Каранай; за записом хроніста Шаміля Мухаммеда-Тахіра аль-Карахі, генерал «заговорив, просячи Шаміля приїхати для зустрічі з російським Миколою.
+    Він запевняв, що імператор звеличить його, Шаміля, виявить йому пошану, зробить управителем справ усіх дагестанських мусульман.
+    Від імператора, мовляв, не буде жодної зради»(Citation: 128).
+    Паралельно генерал Фезе доручив Ахмед-хану Мехтулінському «переконати Шаміля прибути в Тифліс на час Найвищого туди прибуття», про що генерал Розен доносив Чернишову 25 вересня 1837(Citation: 105), а полковник Пулло листом зажадав від Шаміля вислати «у фортецю Грозну двох депутатів для представлення їх Государю»(Citation: 133).
+    Підкуп було доведено до адресата і відкинуто: 28 вересня 1837 Шаміль відповів Клюгенау листом - «я вирішив не їхати в Тифліс, навіть якщо поріжуть мене на шматки, бо я багато разів бачив від вас зради»(Citation: 133); у Тифліс не поїхали ні Шаміль, ні Ташу-Хаджі.
+    Пропозиція Шамілю поста «управителя справ усіх дагестанських мусульман» повторювала лінію, якою імперія в ті самі роки створювала лояльні їй релігійні інститути (кампанія C1159).

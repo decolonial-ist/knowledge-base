@@ -1,0 +1,30 @@
+type: campaign
+id: C1113
+created: 2026-06-12
+modified: 2026-09-05
+version: '1.2'
+people: nokhchi
+first_seen: 1604-01-01
+last_seen: 1605-01-01
+contributors: []
+name:
+  ru: '[НЕ ПОДТВЕРЖДЕНО — ждёт первоисточника] Военная интервенция и разгром войск Бутурлина (1604–1605) [НЕ ПОДТВЕРЖДЕНО — ждёт первоисточника]'
+  en: '[UNCONFIRMED — awaiting primary source] Military intervention and the rout of Buturlin''s forces (1604–1605) [UNCONFIRMED — awaiting primary source]'
+  uk: '[НЕ ПІДТВЕРДЖЕНО — очікує першоджерела] Воєнна інтервенція та розгром військ Бутурліна (1604–1605) [НЕ ПІДТВЕРДЖЕНО — очікує першоджерела]'
+description:
+  ru: |-
+    Оккупационная администрация Московского Царства предприняла масштабное вооруженное вторжение на земли нохчи.
+    Историк М. М. Ибрагимов указывает, что из-за внутреннего политического кризиса «Царь Борис Годунов, положение которого было шатким, для укрепления своего влияния нуждался во внешнеполитических победах», ввиду чего «в 1604 году им было направлено на Кавказ 10 000 стрельцов во главе с воеводой Ефимом Бутурлиным», силами которых «были захвачены Эндирей, Тёплые воды (вероятно село Мелчхи в Чечне)» и «сооружены укрепления, которые стали опорной базой для их набегов на... чеченские аулы, грабежа и захвата в плен местного населения»(Citation: 86).
+    Масштаб сил и финал этого вторжения констатирует историк Е. Н. Кушева: этот «поход 1604-1605 гг. был предпринят весьма значительными силами», однако удержать плацдарм не удалось, и в итоге «при отступлении русские понесли тяжелые потери - более 7 тыс. человек...
+    Сунженский... остроги были оставлены и сожжены»(Citation: 83).
+  en: |-
+    The occupation administration of the Tsardom of Muscovy undertook a large-scale armed invasion of the lands of the Nokhchi.
+    Historian M. M. Ibragimov points out that, owing to an internal political crisis, "Tsar Boris Godunov, whose position was shaky, needed foreign-policy victories to strengthen his influence," for which reason "in 1604 he dispatched 10,000 streltsy to the Caucasus led by the voivode Yefim Buturlin," whose forces "captured Endirey and Teplye Vody (probably the village of Melchkhi in Chechnya)" and "built fortifications that became a base of operations for their raids on...
+    Chechen auls, for plunder and for taking the local population captive"(Citation: 86).
+    The scale of the forces and the outcome of this invasion are stated by historian E. N. Kusheva: this "campaign of 1604–1605 was undertaken with very considerable forces," yet the foothold could not be held, and in the end "during the retreat the Russians suffered heavy losses — more than 7 thousand men... the Sunzha... forts were abandoned and burned"(Citation: 83).
+  uk: |-
+    Окупаційна адміністрація Московського царства здійснила масштабне збройне вторгнення на землі Нохчі.
+    Історик М. М. Ібрагімов вказує, що через внутрішню політичну кризу «цар Борис Годунов, становище якого було хитким, для зміцнення свого впливу потребував зовнішньополітичних перемог», через що «у 1604 році він направив на Кавказ 10 000 стрільців на чолі з воєводою Єфимом Бутурліним», силами яких «було захоплено Ендірей, Теплі Води (ймовірно, село Мелчхі в Чечні)» та «споруджено укріплення, які стали опорною базою для їхніх набігів на...
+    Чеченські аули, грабунку та захоплення в полон місцевого населення»(Citation: 86).
+    Масштаб сил і фінал цього вторгнення констатує історикиня Е. Н. Кушева: цей «похід 1604–1605 рр. було здійснено вельми значними силами», однак утримати плацдарм не вдалося, і в підсумку «під час відступу Росіяни зазнали тяжких втрат — понад 7 тис. осіб...
+    Сунженський... остроги було залишено та спалено»(Citation: 83).

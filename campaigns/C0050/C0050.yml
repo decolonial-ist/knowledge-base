@@ -1,0 +1,26 @@
+type: campaign
+id: C0050
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.2'
+people: ukrainians
+first_seen: 1906-01-01
+last_seen: 1910-12-31
+contributors: []
+name:
+  ru: Уничтожение украинских обществ и сегрегация (1906–1910)
+  en: Destruction of Ukrainian Societies and Segregation (1906–1910)
+  uk: Знищення українських товариств і сегрегація (1906–1910)
+description:
+  ru: |-
+    Кампания по подавлению легальной гражданской активности коренного народа: на Полтавщине и Харьковщине общества «Просвита» запрещали с самого основания, а в 1908–1910 годах, при Столыпине, закрыты практически все «Просвиты», кроме отделов Екатеринославской губернии(Citation: 431).
+    Оправдывая разгром, Столыпин в обращении к Сенату объявил оживление украинской культурной жизни нежелательным, ибо «три основные ветви восточного славянства и происхождением и языком не могут не составлять одного целого»(Citation: 431).
+    Столыпинский циркуляр 1910 года причислил украинцев к «инородцам» и предписал «неукоснительно отказывать в регистрации» их обществ(Citation: 160).
+  en: |-
+    A campaign to suppress the legal civic activity of the indigenous people: in the Poltava and Kharkiv regions the "Prosvita" societies were banned from their very founding, and in 1908–1910, under Stolypin, virtually all "Prosvitas" were closed, except the branches of the Katerynoslav governorate(Citation: 431).
+    Justifying the crackdown, Stolypin declared in an address to the Senate that the revival of Ukrainian cultural life was undesirable, for "the three principal branches of Eastern Slavdom, both by origin and by language, cannot but constitute one whole"(Citation: 431).
+    Stolypin's circular of 1910 classed Ukrainians among the "aliens" and prescribed "to refuse without fail the registration" of their societies(Citation: 160).
+  uk: |-
+    Кампанія з придушення легальної громадянської активності корінного народу: на Полтавщині та Харківщині товариства «Просвіта» забороняли від самого заснування, а в 1908–1910 роках, за Столипіна, закрито практично всі «Просвіти», крім відділів Катеринославської губернії(Citation: 431).
+    Виправдовуючи розгром, Столипін у зверненні до Сенату оголосив пожвавлення українського культурного життя небажаним, бо «три основні гілки східнього слов'янства і походженням і мовою не можуть не складати одного цілого»(Citation: 431).
+    Столипінський циркуляр 1910 року зарахував українців до «інородців» і приписав «неухильно відмовляти в реєстрації» їхніх товариств(Citation: 160).

@@ -1,0 +1,17 @@
+type: procedure
+id: C1132.T0019
+created: 2026-06-21
+modified: 2026-06-21
+version: '1.0'
+technique: T0019
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Регулярная армия Российской империи направила вооруженные контингенты для превентивного подавления антиколониального выступления: историк Я. З. Ахмадов цитирует рапорт генерала Дугласа, который постановил, что собравшееся войско повстанцев необходимо «недопущая к размножению посланною командою отвратить и разрушить»(Citation: 94), после чего, как констатирует историк Ш. Б. Ахмадов, «4 июля 1732 г. царские власти снарядили в Чечню военный отряд во главе с командовавшим войсками в крепости Святой Крест генералом Дугласом»(Citation: 66).'
+  en: |-
+    The Regular Army of the Russian Empire dispatched armed contingents to preemptively suppress an anti-colonial uprising: historian Ya.
+    Z. Akhmadov cites a report by General Douglas, who ordered that the assembled rebel force must, «not being allowed to multiply, be averted and destroyed by the dispatched detachment»(Citation: 94), after which, as historian Sh.
+    B. Akhmadov states, «on July 4, 1732, the tsarist authorities dispatched a military detachment to Chechnya, headed by General Douglas, who commanded the troops at the Holy Cross fortress»(Citation: 66).
+  uk: 'Регулярна армія Російської імперії направила збройні контингенти для превентивного придушення антиколоніального виступу: історик Я. З. Ахмадов цитує рапорт генерала Дугласа, який постановив, що зібране військо повстанців необхідно, «не допускаючи до примноження, надісланою командою відвернути і зруйнувати»(Citation: 94), після чого, як констатує історик Ш. Б. Ахмадов, «4 липня 1732 р. царська влада спорядила до Чечні військовий загін на чолі з генералом Дугласом, який командував військами у фортеці Святий Хрест»(Citation: 66).'

@@ -1,0 +1,26 @@
+type: technique
+id: T0134
+created: 2026-04-27
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0006
+- TA0004
+name:
+  ru: Использование в качестве пушечного мяса
+  en: Use as Cannon Fodder
+  uk: Використання як гарматного м'яса
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут использовать невооруженных, неподготовленных или намеренно плохо экипированных представителей колонизируемого народа (гражданских лиц или насильно мобилизованных) для лобовых атак.
+    Эта техника применяется для прямого физического истощения боезапаса противника, выявления его скрытых огневых точек и разминирования минных полей телами людей.
+    В отличие от использования «живого щита» (T0111), где люди служат пассивным прикрытием для защиты войск агрессора, здесь колонизируемое население активно используется как бесплатный, одноразовый расходный материал («пушечное мясо») для сохранения кадрового резерва войск метрополии.
+  en: |-
+    Aggressors may use unarmed, untrained, or deliberately poorly equipped members of the colonized people (civilians or forcibly mobilized persons) for frontal assaults.
+    This technique is used to directly and physically deplete the enemy's ammunition, reveal its concealed firing positions, and clear minefields with human bodies.
+    Unlike the use of a "human shield" (T0111), where people serve as passive cover to protect the aggressor's troops, here the colonized population is actively used as free, single-use expendable material ("cannon fodder") to preserve the personnel reserve of the metropole's troops.
+  uk: |-
+    Агресори можуть використовувати неозброєних, непідготовлених або навмисно погано екіпірованих представників колонізованого народу (цивільних осіб чи насильно мобілізованих) для лобових атак.
+    Ця техніка застосовується для прямого фізичного виснаження боєзапасу противника, виявлення його прихованих вогневих точок і розмінування мінних полів тілами людей.
+    На відміну від використання «живого щита» (T0111), де люди слугують пасивним прикриттям для захисту військ агресора, тут колонізоване населення активно використовується як безоплатний, одноразовий витратний матеріал («гарматне м'ясо») для збереження кадрового резерву військ метрополії.

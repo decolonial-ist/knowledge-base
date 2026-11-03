@@ -1,0 +1,20 @@
+type: procedure
+id: C0014.T0022
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0022
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Публичные казни пленных для устрашения: «Казаков и старшин вешали, им рубили головы, оскверняли могилы старых запорожцев»(Citation: 3).
+    Голову наказного атамана демонстративно отправили в Запорожье(Citation: 3).
+  en: |-
+    Public executions of prisoners as intimidation: "Cossacks and officers were hanged, their heads were cut off, and the graves of old Zaporozhians were desecrated"(Citation: 3).
+    The head of the acting otaman was demonstratively sent to Zaporizhzhia(Citation: 3).
+  uk: |-
+    Публічні страти полонених для залякування: «Козаків і старшин вішали, їм рубали голови, оскверняли могили старих запорожців»(Citation: 3).
+    Голову наказного отамана демонстративно відправили на Запорожжя(Citation: 3).

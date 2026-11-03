@@ -1,0 +1,38 @@
+type: procedure
+id: C1022.T0117.001
+created: 2026-05-12
+modified: 2026-08-04
+version: '1.0'
+technique: T0117.001
+people: nokhchi
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Начальник Терской области генерал Лорис-Меликов изложил план: «...чеченское население необходимо было сбить в одно место...
+    Население это, с одной стороны отрезанное от гор новыми станицами... не осмелилось бы более грозить нам восстанием и не избегало самого бдительного надзора»(Citation: 125).
+    Землю ушедших забирала казна: «многие аулы совсем опустели, неухоженные земли заросли бурьяном.
+    Эти земли конфисковывались в пользу казны»(Citation: 251), и отводились они «русским офицерам, местной знати и, главным образом, казачьим войскам»(Citation: 251).
+    Замещение шло станицами: только за 1861-1865 годы на освободившихся землях Северного Кавказа образована 81 казачья станица(Citation: 255).
+    В Чечне это видно пошагово: в 1868 году расселение чеченцев прямо подчинили размещению Сунженских казачьих полков - был вариант оставить жителей на правом берегу Сунжи, «но на эти земли претендовало казачье войско, поэтому чеченцев переселили на левый берег Терека и Сунжи, а их земли заняли 1-й и 2-й Сунженские полки»(Citation: 251).
+    С 1863 по 1885 год в Терской области основано 112 селений, в основном за счёт русских поселенцев, а Терское казачье войско занимало треть площади области, составляя пятую часть её жителей(Citation: 251).
+    Разницу видно по наделам: казачья семья получала в среднем от 57 до 90 десятин (десятина - чуть больше гектара)(Citation: 252), тогда как в чеченских аулах на семью приходилось «0,5 – 10 десятин... то есть не более 2 десятин на душу»(Citation: 255).
+  en: |-
+    The head of the Terek oblast, General Loris-Melikov, set out the plan: "...the Chechen population had to be herded into one place...
+    This population, cut off on one side from the mountains by the new stanitsas... would no longer dare to threaten us with an uprising and would not escape the most vigilant surveillance"(Citation: 125).
+    The land of those who left was taken by the treasury: "many auls emptied completely; the untended lands became overgrown with weeds.
+    These lands were confiscated for the benefit of the treasury"(Citation: 251), and it was allotted "to Russian officers, the local nobility and, chiefly, to the Cossack hosts"(Citation: 251).
+    The replacement proceeded stanitsa by stanitsa: in 1861-1865 alone, 81 Cossack stanitsas were founded on the emptied lands of the North Caucasus(Citation: 255).
+    In Chechnya this can be seen step by step: in 1868 the resettlement of the Chechens was directly subordinated to the stationing of the Sunzha Cossack regiments - there was an option of leaving the inhabitants on the right bank of the Sunzha, "but the Cossack host laid claim to these lands, so the Chechens were moved to the left bank of the Terek and the Sunzha, and their lands were taken by the 1st and 2nd Sunzha regiments"(Citation: 251).
+    From 1863 to 1885, 112 settlements were founded in the Terek oblast, mostly of Russian settlers, while the Terek Cossack Host occupied a third of the oblast's area while making up a fifth of its inhabitants(Citation: 251).
+    The difference shows in the allotments: a Cossack family received on average from 57 to 90 desiatinas (a desiatina is slightly more than a hectare)(Citation: 252), whereas in the Chechen auls a family had "0.5 – 10 desiatinas... that is, no more than 2 desiatinas per head"(Citation: 255).
+  uk: |-
+    Начальник Терської області генерал Лорис-Меліков виклав план: «...чеченське населення необхідно було збити в одне місце...
+    Населення це, з одного боку відрізане від гір новими станицями... не насмілилося б більше загрожувати нам повстанням і не уникало найпильнішого нагляду»(Citation: 125).
+    Землю тих, хто пішов, забирала скарбниця: «багато аулів зовсім спорожніли, недоглянуті землі заросли бур'яном.
+    Ці землі конфісковувалися на користь скарбниці»(Citation: 251), і відводилися вони «російським офіцерам, місцевій знаті і, головним чином, козачим військам»(Citation: 251).
+    Заміщення йшло станицями: лише за 1861-1865 роки на спорожнілих землях Північного Кавказу утворено 81 козачу станицю(Citation: 255).
+    У Чечні це видно покроково: 1868 року розселення чеченців прямо підпорядкували розміщенню Сунженських козачих полків - був варіант залишити жителів на правому березі Сунжі, «але на ці землі претендувало козаче військо, тому чеченців переселили на лівий берег Тереку і Сунжі, а їхні землі зайняли 1-й і 2-й Сунженські полки»(Citation: 251).
+    З 1863 по 1885 рік у Терській області засновано 112 селищ, переважно за рахунок російських поселенців, а Терське козацьке військо займало третину площі області, становлячи п'яту частину її жителів(Citation: 251).
+    Різницю видно по наділах: козача родина отримувала в середньому від 57 до 90 десятин (десятина - трохи більше гектара)(Citation: 252), тоді як у чеченських аулах на родину припадало «0,5 – 10 десятин... тобто не більше 2 десятин на душу»(Citation: 255).

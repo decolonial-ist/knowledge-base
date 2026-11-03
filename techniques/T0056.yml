@@ -1,0 +1,22 @@
+type: technique
+id: T0056
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0006
+name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут устанавливать прямой контроль над фискальной системой на захваченных территориях, перенаправляя сборы с местного населения непосредственно в собственную казну.
+    Введение новых податей, перекладывание финансового бремени имперских войн на плечи коренного народа и искусственное понижение социального статуса местных жителей для их максимального экономического обложения позволяют колонизатору системно выкачивать ресурсы и истощать экономику региона.
+  en: |-
+    Aggressors may establish direct control over the fiscal system in seized territories, redirecting levies collected from the local population straight into their own treasury.
+    Introducing new taxes, shifting the financial burden of imperial wars onto the shoulders of an Indigenous people, and artificially lowering the social status of local residents in order to subject them to maximum economic taxation allow the colonizer to systematically siphon off resources and exhaust the region's economy.
+  uk: |-
+    Агресори можуть встановлювати прямий контроль над фіскальною системою на захоплених територіях, перенаправляючи збори з місцевого населення безпосередньо до власної скарбниці.
+    Запровадження нових податей, перекладання фінансового тягаря імперських воєн на плечі корінного народу та штучне зниження соціального статусу місцевих жителів задля їхнього максимального економічного оподаткування дозволяють колонізатору системно викачувати ресурси та виснажувати економіку регіону.

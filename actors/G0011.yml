@@ -1,0 +1,24 @@
+type: actor
+id: G0011
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+name:
+  ru: Российская Федерация
+  en: Russian Federation
+  uk: Російська Федерація
+contributors: []
+associated_groups:
+- Московское царство
+- Российская империя
+- СССР
+description:
+  ru: |-
+    Государственное образование с 1991 года.
+    В выступает актором, применяющим как унаследованные имперские инструменты жесткой силы (военная интервенция, марионеточные правительства, массовые убийства), так и современные методы контроля (экономическая и транспортная блокада, прокси-войны через спецслужбы, кибератаки, сетевая пропаганда и индоктринация).
+  en: |-
+    A state formation since 1991.
+    It acts as an actor employing both inherited imperial instruments of hard power (military intervention, puppet governments, mass killings) and modern methods of control (economic and transport blockades, proxy wars through security services, cyberattacks, networked propaganda, and indoctrination).
+  uk: |-
+    Державне утворення з 1991 року.
+    Виступає актором, що застосовує як успадковані імперські інструменти жорсткої сили (військова інтервенція, маріонеткові уряди, масові вбивства), так і сучасні методи контролю (економічна та транспортна блокада, проксі-війни через спецслужби, кібератаки, мережева пропаганда та індоктринація).

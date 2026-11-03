@@ -1,0 +1,21 @@
+type: tactic
+id: TA0006
+created: 2026-05-23
+modified: 2026-07-12
+version: '1.0'
+shortname: extraction
+order: 6
+name:
+  ru: Извлечение выгоды
+  en: Extraction of Benefits
+  uk: Отримання вигоди
+description:
+  ru: |-
+    Систематическое использование ресурсов колонии: природных богатств, труда, человеческого и культурного капитала, территории.
+    Сюда входят принудительная мобилизация в армию агрессора, вывоз ценностей и присвоение достижений – колония существует как источник ресурсов метрополии, а не как субъект собственного развития.
+  en: |-
+    Systematic exploitation of the colony's resources: natural wealth, labor, human and cultural capital, territory.
+    This includes forced mobilization into the aggressor's army, removal of valuables, and appropriation of achievements – the colony exists as a resource base for the metropole, not as a subject of its own development.
+  uk: |-
+    Систематичне використання ресурсів колонії: природних багатств, праці, людського й культурного капіталу, території.
+    Сюди входять примусова мобілізація до армії агресора, вивезення цінностей і привласнення досягнень – колонія існує як джерело ресурсів метрополії, а не як суб'єкт власного розвитку.

@@ -1,0 +1,20 @@
+type: procedure
+id: C0014.T0045
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0045
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Издание официального манифеста о запрете на использование самого названия Сечи в любых документах(Citation: 4).
+    Физическое уничтожение памяти: «оскверняли могилы старых запорожцев»(Citation: 3).
+  en: |-
+    The issuing of an official manifesto banning the very name of the Sich in any documents(Citation: 4).
+    Physical destruction of memory: "the graves of old Zaporozhians were desecrated"(Citation: 3).
+  uk: |-
+    Видання офіційного маніфесту про заборону використовувати саму назву Січі в будь-яких документах(Citation: 4).
+    Фізичне нищення пам'яті: «оскверняли могили старих запорожців»(Citation: 3).

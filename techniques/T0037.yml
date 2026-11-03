@@ -1,0 +1,23 @@
+type: technique
+id: T0037
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0003
+- TA0005
+name:
+  ru: Марионеточное правительство
+  en: Puppet Government
+  uk: Маріонетковий уряд
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут искусственно создавать и устанавливать на оккупированных территориях полностью подконтрольные им органы власти.
+    Формирование марионеточного правительства позволяет агрессору симулировать внутренний гражданский конфликт для первоначального захвата управления, а затем управлять регионом чужими руками для долгосрочного институционального закрепления.
+  en: |-
+    Aggressors may artificially create and install fully controlled organs of power in occupied territories.
+    Forming a puppet government allows the aggressor to simulate an internal civil conflict for the initial seizure of governance, and then to rule the region by proxy for long-term institutional consolidation.
+  uk: |-
+    Агресори можуть штучно створювати та встановлювати на окупованих територіях повністю підконтрольні їм органи влади.
+    Формування маріонеткового уряду дозволяє агресору симулювати внутрішній громадянський конфлікт для початкового захоплення управління, а потім керувати регіоном чужими руками задля довгострокового інституційного закріплення.

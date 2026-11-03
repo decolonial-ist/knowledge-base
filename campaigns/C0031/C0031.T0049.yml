@@ -1,0 +1,14 @@
+type: procedure
+id: C0031.T0049
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.0'
+technique: T0049
+people: ukrainians
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'Принудительная инкорпорация автохтонных вооруженных сил в имперскую армию: «Слободские казацкие полки были упразднены и на их место велено было составить 5 гусарских полков»(Citation: 161).'
+  en: 'The forced incorporation of the autochthonous armed forces into the imperial army: "The Sloboda Cossack regiments were abolished and in their place it was ordered to form 5 hussar regiments"(Citation: 161).'
+  uk: 'Примусова інкорпорація автохтонних збройних сил до імперської армії: «Слободські козацькі полкі були скасовані і на їх місце велено і було скласти 5 гусарських полків»(Citation: 161).'

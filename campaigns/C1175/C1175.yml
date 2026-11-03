@@ -1,0 +1,52 @@
+type: campaign
+id: C1175
+created: 2026-08-06
+modified: 2026-09-05
+version: '1.2'
+people: nokhchi
+first_seen: 1905-10-10
+last_seen: 1913-12-31
+contributors: []
+name:
+  ru: 'Коллективные наказания эпохи абречества: штрафы, постой войск и высылки за Зелимхана (1905-1913)'
+  en: 'Collective punishment in the abrek era: fines, quartering of troops and exile for Zelimkhan (1905-1913)'
+  uk: 'Колективні покарання епохи абрецтва: штрафи, постій військ і висилки за Зелімхана (1905-1913)'
+description:
+  ru: |-
+    В 1905-1913 годах Российская империя расправлялась с целыми чеченскими сёлами: штрафовала их, ставила войска на постой за счёт самих жителей, высылала родственников и сотни семей, сносила хутора.
+    Поводов было два - революция 1905 года и абрек Зелимхан.
+    К началу XX века прошло сорок лет после конца Кавказской войны, но, как пишут историки Я. З. Ахмадов и Э. Х. Хасмагомадов, «управление Чечней осуществлялось мерами, характерными для состояния военного положения», в крае сохранялся «военно-оккупационный режим», и ограничительные меры только усиливались(Citation: 125).
+    На этот фон легла первая российская революция 1905-1907 годов: 24 октября 1905 года военное положение введено во всей Чечне, с января 1906 года заработали военно-полевые суды(Citation: 125).
+    Вторым поводом стало абречество - имперским словом «абрек» называли горца, объявленного вне закона и ушедшего в горы с оружием.
+    Самым известным из них был Зелимхан из села Харачой: в 1901 году, по его собственным словам, он был семейным человеком из зажиточной семьи с мельницей и пасекой, но после ссоры двух фамилий из-за сватовства власти арестовали его вместе с отцом-стариком и родственниками; Зелимхан бежал из грозненской тюрьмы и до самой гибели в 1913 году был для администрации главным врагом в крае(Citation: 125).
+    Отвечала власть не ему, а всем - вдобавок действовал запрет оружия, который «относился исключительно к горцам и иногородним и не распространялся на казаков»(Citation: 125).
+    Против отдельных селений и целых аульных участков, фиксируют те же историки, «широко практиковались коллективные наказания»(Citation: 125).
+    Такие расправы были беззаконны и по меркам самой империи: статья 50 Гаагского положения о законах и обычаях сухопутной войны - конвенции, подписанной и ратифицированной Российской империей, - запрещала налагать «общее взыскание, денежное или иное... на все население за те деяния единичных лиц, в коих не может быть усмотрено солидарной ответственности населения»(Citation: 472).
+    А военная директива конца 1907 года предписывала в случае восстания действовать, «рассеивая банды до полного уничтожения, а равно стирая с лица земли укрывавшие их селения, памятуя, что такой способ не только будет более действенен, но и более гуманен»(Citation: 125).
+    Итог сформулировал чеченский революционер Асланбек Шерипов: «Власть терроризировала мирное население, а абреки терроризировали эту власть...»(Citation: 125).
+  en: |-
+    In 1905-1913 the Russian Empire dealt reprisals to entire Chechen villages: it fined them, quartered troops at the residents' own expense, exiled relatives and hundreds of families, demolished hamlets.
+    There were two pretexts - the revolution of 1905 and the abrek Zelimkhan.
+    By the beginning of the 20th century forty years had passed since the end of the Caucasus War, but, as historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write, "Chechnya was governed by measures characteristic of a state of martial law", a "military-occupation regime" persisted in the land, and the restrictive measures only grew(Citation: 125).
+    Onto this background fell the first Russian revolution of 1905-1907: on 24 October 1905 martial law was imposed across the whole of Chechnya, and from January 1906 field courts-martial went to work(Citation: 125).
+    The second pretext was the abrek phenomenon - "abrek" was the empire's word for a highlander declared an outlaw who had gone to the mountains with a weapon.
+    The most famous of them was Zelimkhan from the village of Kharachoy: in 1901, by his own words, he was a family man from a well-off household with a mill and an apiary, but after a quarrel between two families over a betrothal the authorities arrested him together with his old father and relatives; Zelimkhan escaped from the Grozny prison and until his death in 1913 remained the administration's chief enemy in the land(Citation: 125).
+    The authorities answered not him but everyone - on top of that there was the weapons ban, which "applied exclusively to the highlanders and the out-of-town settlers and did not extend to the Cossacks"(Citation: 125).
+    Against individual villages and entire aul districts, the same historians record, "collective punishments were widely practiced"(Citation: 125).
+    Such reprisals were lawless even by the empire's own standards: Article 50 of the Hague Regulations on the Laws and Customs of War on Land - a convention signed and ratified by the Russian Empire - laid down: "No general penalty, pecuniary or otherwise, shall be inflicted upon the population on account of the acts of individuals for which they cannot be regarded as jointly and severally responsible"(Citation: 472).
+    And a military directive of late 1907 prescribed, in the event of an uprising, to act by "scattering the bands to the point of total annihilation, and likewise wiping off the face of the earth the villages that sheltered them, bearing in mind that such a method will be not only more effective but also more humane"(Citation: 125).
+    The Chechen revolutionary Aslanbek Sheripov summed up the outcome: "The authorities terrorized the peaceful population, and the abreks terrorized these authorities..."(Citation: 125).
+  uk: |-
+    У 1905-1913 роках Російська імперія розправлялася з цілими чеченськими селами: штрафувала їх, ставила війська на постій коштом самих жителів, висилала родичів і сотні сімей, зносила хутори.
+    Приводів було два - революція 1905 року і абрек Зелімхан.
+    На початок XX століття минуло сорок років після кінця Кавказької війни, але, як пишуть історики Я. З. Ахмадов і Е. Х. Хасмагомадов, «управління Чечнею здійснювалося заходами, характерними для стану воєнного положення», у краї зберігався «військово-окупаційний режим», і обмежувальні заходи тільки посилювалися(Citation: 125).
+    На це тло лягла перша російська революція 1905-1907 років: 24 жовтня 1905 року воєнне положення введено в усій Чечні, з січня 1906 року запрацювали військово-польові суди(Citation: 125).
+    Другим приводом стало абрецтво - імперським словом «абрек» називали горця, оголошеного поза законом, який пішов у гори зі зброєю.
+    Найвідомішим із них був Зелімхан із села Харачой: у 1901 році, за його власними словами, він був сімейною людиною із заможної родини з млином і пасікою, але після сварки двох фамілій через сватання влада заарештувала його разом зі старим батьком і родичами; Зелімхан утік із грозненської тюрми і до самої загибелі в 1913 році був для адміністрації головним ворогом у краї(Citation: 125).
+    Відповідала влада не йому, а всім - до того ж діяла заборона зброї, яка «стосувалася виключно горців та іногородніх і не поширювалася на козаків»(Citation: 125).
+    Проти окремих селищ і цілих аульних дільниць, фіксують ті самі історики, «широко практикувалися колективні покарання»(Citation: 125).
+    Такі розправи були беззаконними і за мірками самої імперії: стаття 50 Гаазького положення про закони і звичаї сухопутної війни - конвенції, підписаної і ратифікованої Російською імперією, - забороняла накладати «загальне стягнення, грошове або інше... на все населення за ті діяння одиничних осіб, у яких не може бути вбачена солідарна відповідальність населення»(Citation: 472).
+    А військова директива кінця 1907 року приписувала в разі повстання діяти, «розсіюючи банди до повного знищення, а так само стираючи з лиця землі селища, що їх переховували, пам'ятаючи, що такий спосіб не тільки буде дієвішим, а й гуманнішим»(Citation: 125).
+    Підсумок сформулював чеченський революціонер Асланбек Шеріпов: «Влада тероризувала мирне населення, а абреки тероризували цю владу...»(Citation: 125).

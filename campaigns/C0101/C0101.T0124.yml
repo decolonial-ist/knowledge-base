@@ -1,0 +1,14 @@
+type: procedure
+id: C0101.T0124
+created: 2026-04-27
+modified: 2026-09-18
+version: '1.0'
+technique: T0124
+people: ukrainians
+actor: G0011
+tool: S0017
+contributors: []
+description:
+  ru: 'Целенаправленные кибератаки российских спецслужб на распределительные подстанции украинской энергосети зимой 2015 и 2016 годов с целью массового отключения электроэнергии для гражданского населения(Citation: 32)(Citation: 33).'
+  en: 'Targeted cyberattacks by Russian security services on distribution substations of the Ukrainian power grid in the winters of 2015 and 2016, aimed at causing mass power outages for the civilian population(Citation: 32)(Citation: 33).'
+  uk: 'Цілеспрямовані кібератаки російських спецслужб на розподільчі підстанції української енергомережі взимку 2015 та 2016 років з метою масового відключення електроенергії для цивільного населення(Citation: 32)(Citation: 33).'

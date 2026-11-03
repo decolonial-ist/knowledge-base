@@ -1,0 +1,51 @@
+type: procedure
+id: C1178.T0052
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0052
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    СССР отбирал у чеченских крестьян скот и землю.
+    За один год принудительного сведения хозяйств в колхозы («коллективизации») Чечня потеряла 184 тысячи голов скота.
+    В докладе об обследовании партийной организации Чеченской автономной области, отправленном 7-9 марта 1931 года во Всероссийский центральный исполнительный комитет (ВЦИК) - высший орган оккупационной власти РСФСР, приведена таблица областной статистики: всего скота в области в 1929 году - 993 200 голов, в 1930-м - 809 063.
+    В докладе признано: «Наметившийся в 1929 г. прирост поголовья скота по всем видам в 1930 г. не нашел своего применения, а наоборот, произошло значительное снижение поголовья, не коснувшееся только лошадей»(Citation: 533) - и там же названа причина: снижение произошло «главным образом весной 1930 г., когда кулачество, оказывая бешеное сопротивление росту колхозного строительства, хищнически уничтожало скот»(Citation: 533).
+    Так колонизаторы описали действия крестьян: люди резали собственный скот, лишь бы не отдавать его в колхозы.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов оценивают потерю ещё выше: «Вынужденные вступать в колхоз, крестьяне стремились укрыть от обобществления хотя бы часть своего хозяйства, а если это не удавалось, просто избавлялись от него.
+    Так, коллективизация сопровождалась резким сокращением поголовья скота — за один только 1930 г. оно сократилось в Чечне почти на 300 тысяч голов»(Citation: 125).
+    Центральный комитет партии («ЦК ВКП(б)») тоже признал, что скот забирали силой: в постановлении «О принудительном обобществлении скота» от 26 марта 1932 года он записал, что «в ряде районов наблюдается практика обобществления коров и мелкого скота у отдельных колхозников фактически принудительными способами», и потребовал такие попытки «пресечь»(Citation: 539).
+    Колонизатор забирал у нохчи и землю.
+    При переделе, который россияне называли «землеустройством», пишут Я. З. Ахмадов и Э. Х. Хасмагомадов, «в Веденском, Итум-Калинском и Шатойском округах у кулаков и мечетей было изъято примерно 1,5 тысячи гектаров земли»(Citation: 125).
+    Установка «ущемлять» при изъятии земли чеченских крестьян, объявленных зажиточными, стоит в том же докладе ВЦИК(Citation: 533).
+  en: |-
+    The USSR took livestock and land from the Chechen peasants.
+    In one year of the forced merging of households into kolkhozes ("collectivization") Chechnya lost 184 thousand head of livestock.
+    The report on the inspection of the party organization of the Chechen Autonomous Oblast, sent on 7-9 March 1931 to the All-Russian Central Executive Committee (VTsIK) - the supreme organ of the occupation power of the RSFSR, carries a table of oblast statistics: total livestock in the oblast in 1929 - 993,200 head, in 1930 - 809,063.
+    The report admits: "The growth of livestock numbers in all categories that had begun in 1929 found no continuation in 1930; on the contrary, a significant decline in numbers occurred, sparing only the horses"(Citation: 533) - and the cause is named right there: the decline occurred "chiefly in the spring of 1930, when the kulaks, offering frenzied resistance to the growth of kolkhoz construction, predatorily destroyed the livestock"(Citation: 533).
+    That is how the colonizers described the peasants' actions: people slaughtered their own livestock rather than hand it over to the kolkhozes.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov put the loss higher still: "Forced to join the kolkhoz, the peasants strove to shelter at least part of their household from socialization, and if that failed, simply rid themselves of it.
+    Thus collectivization was accompanied by a sharp reduction of livestock numbers - in the single year 1930 they shrank in Chechnya by almost 300 thousand head"(Citation: 125).
+    The Central Committee of the party (the "TsK VKP(b)") likewise admitted that the livestock was being taken by force: in the resolution "On the forced socialization of livestock" of 26 March 1932 it recorded that "in a number of districts a practice is observed of socializing the cows and small livestock of individual kolkhoz members by in fact coercive methods", and demanded that such attempts be "cut short"(Citation: 539).
+    The colonizer took land from the Nokhchi as well.
+    In the redistribution the Russians called "land settlement", write Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov, "in the Vedeno, Itum-Kali and Shatoy okrugs about 1.5 thousand hectares of land were seized from the kulaks and the mosques"(Citation: 125).
+    The directive to "curtail" the Chechen peasants declared well-off when seizing land stands in the same VTsIK report(Citation: 533).
+  uk: |-
+    СРСР відбирав у чеченських селян худобу і землю.
+    За один рік примусового зведення господарств у колгоспи («колективізації») Чечня втратила 184 тисячі голів худоби.
+    У доповіді про обстеження партійної організації Чеченської автономної області, надісланій 7-9 березня 1931 року до Всеросійського центрального виконавчого комітету (ВЦВК) - найвищого органу окупаційної влади РРФСР, наведено таблицю обласної статистики: всієї худоби в області в 1929 році - 993 200 голів, у 1930-му - 809 063.
+    У доповіді визнано: «Приріст поголів'я худоби за всіма видами, що намітився в 1929 р., у 1930 р. не знайшов свого продовження, а навпаки, сталося значне зниження поголів'я, що не торкнулося лише коней»(Citation: 533) - і там же названо причину: зниження сталося «головним чином навесні 1930 р., коли куркульство, чинячи скажений опір зростанню колгоспного будівництва, хижацьки знищувало худобу»(Citation: 533).
+    Так колонізатори описали дії селян: люди різали власну худобу, аби не віддавати її в колгоспи.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов оцінюють втрату ще вище: «Змушені вступати в колгосп, селяни прагнули укрити від усуспільнення хоча б частину свого господарства, а якщо це не вдавалося, просто позбувалися його.
+    Так, колективізація супроводжувалася різким скороченням поголів'я худоби — за один лише 1930 р. воно скоротилося в Чечні майже на 300 тисяч голів»(Citation: 125).
+    Центральний комітет партії («ЦК ВКП(б)») теж визнав, що худобу забирали силою: у постанові «Про примусове усуспільнення худоби» від 26 березня 1932 року він записав, що «в низці районів спостерігається практика усуспільнення корів і дрібної худоби в окремих колгоспників фактично примусовими способами», і зажадав такі спроби «припинити»(Citation: 539).
+    Колонізатор забирав у нохчі й землю.
+    Під час переділу, який росіяни називали «землевпорядкуванням», пишуть Я. З. Ахмадов і Е. Х. Хасмагомадов, «у Веденському, Ітум-Калінському і Шатойському округах у куркулів і мечетей було вилучено приблизно 1,5 тисячі гектарів землі»(Citation: 125).
+    Настанова «утискати» при вилученні землі чеченських селян, оголошених заможними, стоїть у тій самій доповіді ВЦВК(Citation: 533).

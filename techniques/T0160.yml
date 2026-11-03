@@ -1,0 +1,26 @@
+type: technique
+id: T0160
+created: 2026-08-06
+modified: 2026-08-06
+version: '1.0'
+tactics:
+- TA0004
+- TA0001
+name:
+  ru: Фиктивные суды
+  en: Sham Trials
+  uk: Фіктивні суди
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут придавать расправе форму правосудия - создавать и использовать фиктивные суды: исход процесса предрешён, а защита отсутствует или бутафорская.
+    Формы разные - чрезвычайные и военно-полевые суды с сутками на процесс, закрытые квазисудебные органы, выносящие приговоры заочно и списками, показательные процессы-спектакли для публики.
+    Вынесение приговоров без «надлежащим образом учреждённого суда, предоставляющего судебные гарантии» - военное преступление (общая статья 3 Женевских конвенций; статья 8(2)(c)(iv) Римского статута, по которой Международный уголовный суд вынес первый обвинительный приговор в 2024 году).
+  en: |-
+    Aggressors may give reprisal the form of justice by creating and using sham trials: the outcome is predetermined and the defense is absent or ornamental.
+    The forms vary - extraordinary and field courts-martial with a day allotted to a case, closed quasi-judicial bodies passing sentences in absentia and by lists, and show trials staged for the public.
+    Passing sentences without "a regularly constituted court affording all the judicial guarantees" is a war crime (Common Article 3 of the Geneva Conventions; Article 8(2)(c)(iv) of the Rome Statute, under which the International Criminal Court delivered its first conviction in 2024).
+  uk: |-
+    Агресори можуть надавати розправі форму правосуддя - створювати й використовувати фіктивні суди: результат процесу вирішено наперед, а захисту немає або він бутафорський.
+    Форми різні - надзвичайні та військово-польові суди з добою на процес, закриті квазісудові органи, що виносять вироки заочно і списками, показові процеси-вистави для публіки.
+    Винесення вироків без «належним чином створеного суду, що надає судові гарантії» - воєнний злочин (спільна стаття 3 Женевських конвенцій; стаття 8(2)(c)(iv) Римського статуту, за якою Міжнародний кримінальний суд виніс перший обвинувальний вирок 2024 року).

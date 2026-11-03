@@ -1,0 +1,23 @@
+type: procedure
+id: C0007.T0031
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0031
+people: ukrainians
+actor: G0008
+tool: S0009
+contributors: []
+description:
+  ru: |-
+    Системный демонтаж демократических институтов автономии.
+    Москва категорически запретила казакам самостоятельно избирать лидеров и вести независимую внешнюю политику: «а без челобитья и без указу великих государей... гетмана не обирать... а от себя им... ни к кому ничего не писать»(Citation: 4).
+    Отмена исторического права на предоставление убежища: автономию принудили выполнять функции московского карательного аппарата и выдавать беглецов: «и тех беглецов и всяких чинов людей не принимать, и у себя их не держать»(Citation: 4).
+  en: |-
+    The systematic dismantling of the autonomy's democratic institutions.
+    Moscow categorically forbade the Cossacks to elect their leaders independently and to conduct an independent foreign policy: "and without a petition and without a decree of the great sovereigns... a hetman shall not be elected... nor shall they, on their own... write anything to anyone"(Citation: 4).
+    The abolition of the historical right to grant asylum: the autonomy was forced to perform the functions of the Muscovite punitive apparatus and to hand over fugitives: "and those fugitives and people of all ranks shall not be received, nor kept among them"(Citation: 4).
+  uk: |-
+    Системний демонтаж демократичних інститутів автономії.
+    Москва категорично заборонила козакам самостійно обирати лідерів і вести незалежну зовнішню політику: «а без чолобиття і без указу великих государів... гетьмана не обирати... а від себе їм... ні до кого нічого не писати»(Citation: 4).
+    Скасування історичного права на надання притулку: автономію примусили виконувати функції московського карального апарату й видавати втікачів: «і тих втікачів і всяких чинів людей не приймати, і в себе їх не тримати»(Citation: 4).

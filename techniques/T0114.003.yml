@@ -1,0 +1,23 @@
+type: technique
+id: T0114.003
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+parent: T0114
+tactics:
+- TA0005
+name:
+  ru: Перевод школ на язык метрополии
+  en: Conversion of Schools to the Metropole's Language
+  uk: Переведення шкіл на мову метрополії
+contributors: []
+description:
+  ru: |-
+    В рамках образовательной ассимиляции агрессоры могут осуществлять тотальный, принудительный перевод учебного процесса во всех образовательных учреждениях на язык колонизатора.
+    Лишение коренного народа права обучать детей на родном языке приводит к стремительному разрыву культурной преемственности и полной интеграции местного населения в информационное пространство агрессора.
+  en: |-
+    As part of educational assimilation, aggressors may carry out a total, forced conversion of the teaching process in all educational institutions to the colonizer's language.
+    Depriving the Indigenous people of the right to educate their children in their native language leads to a rapid rupture of cultural continuity and the complete integration of the local population into the aggressor's information space.
+  uk: |-
+    У межах освітньої асиміляції агресори можуть здійснювати тотальне, примусове переведення навчального процесу в усіх освітніх закладах на мову колонізатора.
+    Позбавлення корінного народу права навчати дітей рідною мовою призводить до стрімкого розриву культурної спадкоємності та повної інтеграції місцевого населення в інформаційний простір агресора.

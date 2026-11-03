@@ -1,0 +1,20 @@
+type: procedure
+id: C0005.T0008
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0008
+people: ukrainians
+actor: G0008
+tool: S0009
+contributors: []
+description:
+  ru: |-
+    При юридическом разделе украинских земель мнение самого народа или его лидеров было демонстративно проигнорировано.
+    Гетманщина рассматривалась исключительно как объект: «Интересы гетманов и Украины при этом, разумеется, не учитывались»(Citation: 3).
+  en: |-
+    In the legal partition of Ukrainian lands, the opinion of the people themselves or of their leaders was demonstratively ignored.
+    The Hetmanate was treated exclusively as an object: "The interests of the hetmans and of Ukraine were, of course, not taken into account"(Citation: 3).
+  uk: |-
+    Під час юридичного поділу українських земель думку самого народу чи його лідерів було демонстративно проігноровано.
+    Гетьманщину розглядали виключно як об'єкт: «Інтереси гетьманів та України при цьому, звісно, не враховувалися»(Citation: 3).

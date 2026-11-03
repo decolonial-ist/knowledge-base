@@ -1,0 +1,26 @@
+type: procedure
+id: C1180.T0105
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Во время депортации - операции «Чечевица» - войска советского НКВД (предшественники современной Росгвардии) сжигали горные аулы чеченцев сразу после того, как под конвоем выгоняли жителей к эшелонам в Казахстан и Киргизию (нынешний Кыргызстан) и угоняли их скот.
+    Чеченский историк А. Г. Авторханов приводит свидетельство русского студента Грозненского нефтяного института, которого в день выселения отправили в один из аулов: «В горных аулах эту акцию провели иначе.
+    Отсюда был эвакуирован весь скот, и тогда сожгли аулы, чтобы лишить "бандитов" базы для существования.
+    Днями можно было наблюдать в горах горящие аулы»(Citation: 369).
+  en: |-
+    During the deportation - Operation "Chechevitsa" - the troops of the Soviet NKVD (predecessors of today's Rosgvardia) burned the mountain auls of the Chechens as soon as they had driven the residents under convoy to the trains bound for Kazakhstan and Kirghizia (today's Kyrgyzstan) and had driven off their livestock.
+    The Chechen historian A. G. Avtorkhanov cites the testimony of a Russian student of the Grozny Petroleum Institute who was sent to one of the auls on the day of the deportation: "In the mountain auls this action was carried out differently.
+    All the livestock was evacuated from there, and then the auls were burned, to deprive the 'bandits' of a base for existence.
+    For days on end one could watch auls burning in the mountains"(Citation: 369).
+  uk: |-
+    Під час депортації - операції «Сочевиця» - війська радянського НКВД (попередники сучасної Росгвардії) спалювали гірські аули чеченців одразу після того, як під конвоєм виганяли жителів до ешелонів у Казахстан і Киргизію (нинішній Киргизстан) і забирали їхню худобу.
+    Чеченський історик А. Г. Авторханов наводить свідчення російського студента Грозненського нафтового інституту, якого в день виселення відправили в один з аулів: «У гірських аулах цю акцію провели інакше.
+    Звідси було евакуйовано всю худобу, і тоді спалили аули, щоб позбавити "бандитів" бази для існування.
+    Днями можна було спостерігати в горах палаючі аули»(Citation: 369).

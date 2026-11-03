@@ -1,0 +1,47 @@
+type: procedure
+id: C0074.T0008
+created: 2026-04-27
+modified: 2026-10-27
+version: '1.0'
+technique: T0008
+people: ukrainians
+actor: G0014
+tool: S0009
+contributors:
+- ru: Палий Светодар
+  en: Palii Svitodar
+  uk: Палій Світодар
+description:
+  ru: |-
+    Отказ белогвардейского командования признавать украинскую государственность.
+    Генерал Деникин как главнокомандующий Вооружёнными силами Юга России подписал программное обращение «К населению Малороссии» (август 1919), объявившее борьбу за украинскую державу изменой.
+    Симон Петлюра (глава Директории Украинской Народной Республики и главный атаман её армии) и его соратники, гласило обращение, «положившие начало расчленению России, продолжают и теперь совершать свое злое дело создания самостоятельной „Украинской Державы“ и борьбы против возрождения Единой России»(Citation: 248).
+    Деникин писал от первого лица: «объявляя государственным языком на всем пространстве России язык русский, считаю совершенно недопустимым и запрещаю преследование малорусского народного языка»(Citation: 248).
+    Обещанный «запрет преследования» не признавал язык, а отводил ему место говора.
+    Украинскому в обращении оставались быт, частные школы, первые годы начальной школы - Деникин пояснял: «для облегчения учащимся усвоения первых зачатков знания»; «изменническое движение» за державу он требовал «совершенно отличать» от дозволенной «любви к родному краю… и его местному народному языку»(Citation: 248).
+    Существование народа Деникин допускал, в политической субъектности отказывал: стремление к самостоятельной украинской державе объявлено изменой, язык оставлен говором.
+    В ночь на 1 сентября 1919 года после четырёхчасовых переговоров галицкий генерал Кравс и деникинский генерал Бредов (по дневнику Начальной команды Украинской галицкой армии - командир гвардейского корпуса) условились: галицкие части в тот же день выводятся из города «по меньшей мере за линию киевских железнодорожных станций», далее на линию Игнатовка - Васильков - Германовка, а галицкая армия гарантирует: «не сделает никаких выступлений против армии добровольцев [Добровольческой армии Деникина]»(Citation: 495).
+    Четвёртым пунктом галицкое командование отказывалось от политической субъектности: «Командующий киевской группой галицкой армии заявляет, что галицкая армия оперирует независимо от армии Петлюры под особым галицким командованием, без каких-либо политических целей, а лишь с целью борьбы против большевиков»(Citation: 495).
+    Днём раньше, 30 августа, на переговорах с командованием 2-й деникинской бригады её представители требовали считать «операционной полосой деникинских войск» территорию к юго-востоку и востоку от железной дороги Казатин - Фастов - Киев, а полосу между линией Фастов - Володарка - Сасков - Буки и линией Белая Церковь - Тараща - Лисовка - Звенигородка объявить нейтральной; в дневнике записано: «На это требование мы не согласились»(Citation: 495).
+  en: |-
+    The refusal of the White commanders to recognize Ukrainian statehood.
+    General Denikin, as commander-in-chief of the Armed Forces of South Russia, signed the programmatic address "To the Population of Little Russia" (August 1919), which declared the struggle for a Ukrainian state to be treason.
+    Symon Petliura (head of the Directory of the Ukrainian People's Republic and chief otaman of its army) and his associates, the address ran, "having begun the dismemberment of Russia, continue even now their evil work of creating an independent 'Ukrainian State' and of fighting against the rebirth of a United Russia"(Citation: 248).
+    Denikin wrote in the first person: "declaring Russian the state language throughout the whole expanse of Russia, I consider entirely inadmissible and prohibit the persecution of the Little Russian folk language"(Citation: 248).
+    The promised "prohibition of persecution" did not recognize the language but assigned it the place of a vernacular.
+    What remained for Ukrainian under the address were everyday life, private schools, and the first years of primary school - Denikin explained: "to ease the pupils' assimilation of the first rudiments of knowledge"; the "treasonous movement" for statehood he required to be "completely distinguished" from the permitted "love for the native region… and its local folk language"(Citation: 248).
+    Denikin allowed the people's existence and denied it political subjecthood: the striving for an independent Ukrainian state was declared treason, the language was left a vernacular.
+    On the night of September 1, 1919, after four hours of negotiations, the Galician general Kravs and Denikin's general Bredov (according to the diary of the Supreme Command of the Ukrainian Galician Army - the commander of the Guards corps) agreed: the Galician units would withdraw from the city that same day "at least beyond the line of the Kyiv railway stations", then to the line Ihnativka - Vasylkiv - Hermanivka, while the Galician army guarantees that it "will make no moves against the army of the volunteers [Denikin's Volunteer Army]"(Citation: 495).
+    In the fourth point the Galician command renounced political subjecthood: "The commander of the Kyiv group of the Galician army declares that the Galician army operates independently of Petliura's army under separate Galician command, without any political aims, and solely with the purpose of fighting the Bolsheviks"(Citation: 495).
+    A day earlier, on August 30, at negotiations with the command of Denikin's 2nd brigade, its representatives demanded that the territory southeast and east of the Koziatyn - Fastiv - Kyiv railway be treated as "the operational zone of Denikin's troops", and that the strip between the line Fastiv - Volodarka - Saskiv - Buky and the line Bila Tserkva - Tarashcha - Lysivka - Zvenyhorodka be declared neutral; the diary records: "We did not agree to this demand"(Citation: 495).
+  uk: |-
+    Відмова білогвардійського командування визнавати українську державність.
+    Генерал Денікін як головнокомандувач Збройних сил Півдня Росії підписав програмне звернення «До населення Малоросії» (серпень 1919), яке оголосило боротьбу за українську державу зрадою.
+    Симон Петлюра (голова Директорії Української Народної Республіки й головний отаман її армії) та його соратники, гласило звернення, «поклавши початок розчленуванню Росії, продовжують і тепер чинити свою злу справу створення самостійної „Української Держави“ і боротьби проти відродження Єдиної Росії»(Citation: 248).
+    Денікін писав від першої особи: «оголошуючи державною мовою на всьому просторі Росії мову російську, вважаю цілком неприпустимим і забороняю переслідування малоруської народної мови»(Citation: 248).
+    Обіцяна «заборона переслідування» не визнавала мову, а відводила їй місце говірки.
+    Українській за зверненням залишалися побут, приватні школи, перші роки початкової школи - Денікін пояснював: «для полегшення учням засвоєння перших початків знання»; «зрадницький рух» за державу він вимагав «цілком відрізняти» від дозволеної «любові до рідного краю… та його місцевої народної мови»(Citation: 248).
+    Існування народу Денікін допускав, у політичній суб'єктності відмовляв: прагнення до самостійної української держави оголошене зрадою, мова залишена говіркою.
+    У ніч на 1 вересня 1919 року після чотиригодинних переговорів галицький генерал Кравс і денікінський генерал Бредов (за денником Начальної Команди Української Галицької Армії - командир гвардійського корпусу) домовилися: галицькі частини того ж дня виводяться з міста «найменше за лінію київських залізничих стацій», далі на лінію Ігнатівка - Васильків - Германівка, а галицька армія гарантує: «не зробить ніяких виступів проти армії добровольців [Добровольчої армії Денікіна]»(Citation: 495).
+    Четвертим пунктом галицьке командування відмовлялося від політичної суб'єктності: «Командант київської групи галицької армії заявляє, що галицька армія оперує незалежно від армії Петлюри під осібною галицькою командою, без ніяких політичних цілей, а лише з метою боротьби проти большевиків»(Citation: 495).
+    Днем раніше, 30 серпня, на переговорах з командуванням 2-ї денікінської бригади її представники вимагали вважати «як операційну полосу денікінських військ» територію на південний схід і схід від залізниці Козятин - Фастів - Київ, а полосу між лінією Фастів - Володарка - Сассків - Буки та лінією Біла Церква - Тараща - Лисовка - Звенигородка оголосити «як невтральну полосу»; у деннику записано: «На це жадання ми не згодилися»(Citation: 495).

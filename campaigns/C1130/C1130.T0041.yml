@@ -1,0 +1,16 @@
+type: procedure
+id: C1130.T0041
+created: 2026-06-18
+modified: 2026-06-18
+version: '1.0'
+technique: T0041
+people: nokhchi
+actor: G0009
+tool: S0025
+contributors: []
+description:
+  ru: 'Военизированные поселенцы Российской империи использовались для массового заселения новых рубежей: историк Я. З. Ахмадов указывает, что при новой крепости «расселяют 1 тыс. семей казаков с Дона»(Citation: 94).'
+  en: |-
+    Militarized Settlers of the Russian Empire were used for the mass settlement of new frontiers: historian Ya.
+    Z. Akhmadov points out that at the new fortress "1 thousand families of Cossacks from the Don are being settled"(Citation: 94).
+  uk: 'Воєнізовані поселенці Російської імперії використовувалися для масового заселення нових рубежів: історик Я. З. Ахмадов вказує, що при новій фортеці «розселяють 1 тис. сімей козаків з Дону»(Citation: 94).'

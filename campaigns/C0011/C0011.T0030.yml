@@ -1,0 +1,20 @@
+type: procedure
+id: C0011.T0030
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0030
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Подготовка к ликвидации Гетманщины через губернскую реформу, куда искусственно вписывались казацкие города.
+    Москва планировала «городи Малороссийские в свою область отбирати»(Citation: 4)(Citation: 3).
+  en: |-
+    Preparation for the liquidation of the Hetmanate through the gubernia reform, into which Cossack towns were artificially inscribed.
+    Moscow planned "to take the Little Russian towns into its own domain"(Citation: 4)(Citation: 3).
+  uk: |-
+    Підготовка до ліквідації Гетьманщини через губернську реформу, до якої штучно вписувалися козацькі міста.
+    Москва планувала «городи Малоросійські у свою область відбирати»(Citation: 4)(Citation: 3).

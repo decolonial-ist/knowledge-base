@@ -1,0 +1,20 @@
+type: procedure
+id: C0033.T0019
+created: 2026-04-25
+modified: 2026-08-01
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Окружение и силовой захват Сечи имперскими войсками сразу после того, как казаки помогли империи выиграть войну.
+    Манифест фиксирует операцию буднично: «4 Июня Нашим Генерал-Порутчиком Текеллием со вверенными ему от нас войсками занята Сечь Запорожская»(Citation: 147).
+  en: |-
+    The encirclement and forcible seizure of the Sich by imperial troops right after the Cossacks had helped the empire win the war.
+    The manifesto records the operation matter-of-factly: "On June 4, Our Lieutenant-General Tekeli, with the troops entrusted to him by us, occupied the Zaporozhian Sich"(Citation: 147).
+  uk: |-
+    Оточення та силове захоплення Січі імперськими військами одразу після того, як козаки допомогли імперії виграти війну.
+    Маніфест фіксує операцію буденно: «4 червня Нашим Генерал-Поручиком Текелієм з довіреними йому від нас військами зайнято Січ Запорозьку»(Citation: 147).

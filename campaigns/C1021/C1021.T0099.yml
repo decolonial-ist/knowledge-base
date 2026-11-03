@@ -1,0 +1,23 @@
+type: procedure
+id: C1021.T0099
+created: 2026-06-25
+modified: 2026-06-25
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Регулярная армия Российской империи удерживала представителей присунженских селений как залог подчинения.
+    Имперский генерал Ермолов в «Записках» свидетельствует, что при выходе войск к Сунже «в лагерь взяты были от их селений аманаты»(Citation: 96).
+    Имперский историк Потто подтверждает, что Ермолов «от всех аулов, сидевших над Сунжой, взял аманатов»(Citation: 75).
+  en: |-
+    The Regular Army of the Russian Empire held representatives of the villages along the Sunzha as a pledge of submission.
+    Imperial general Yermolov testifies in his “Notes” that when the troops advanced to the Sunzha, “amanats (hostages) from their villages were taken into the camp”(Citation: 96).
+    Imperial historian Potto confirms that Yermolov “took amanats from all the auls sitting along the Sunzha”(Citation: 75).
+  uk: |-
+    Регулярна армія Російської імперії утримувала представників присунженських селищ як заставу підпорядкування.
+    Імперський генерал Єрмолов у «Записках» свідчить, що при виході військ до Сунжі «в табір були взяті від їхніх селищ аманати»(Citation: 96).
+    Імперський історик Потто підтверджує, що Єрмолов «від усіх аулів, що сиділи над Сунжею, взяв аманатів»(Citation: 75).

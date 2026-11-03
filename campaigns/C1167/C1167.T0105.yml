@@ -1,0 +1,29 @@
+type: procedure
+id: C1167.T0105
+created: 2026-07-31
+modified: 2026-07-31
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Аулы Большой Чечни (равнинной восточной части Чечни) выжигались весь период. 6 января 1852 года сожжены Автуры - имперский историк Волконский, участник погрома, записал: «Аул Автуры имел в то время до девятисот дворов и принадлежал к числу богатейших аулов», а об отступлении отряда: «все аулы и хутора, которые были на пути нашего отступления, запылали подобно своей метрополии»(Citation: 119). 27 марта 1852 года при штурме аула наиба Талгика (наиб - наместник имама Шамиля) «самый аул был обращен в груду пепла и развалин»(Citation: 119).
+    В декабре 1852 года главнокомандующий на Кавказе приказал уничтожить Хан-Калу Барятинскому, командовавшему на левом фланге Кавказской линии (цепи имперских укреплений на земле нохчи), - Волконский передаёт приказ: «главнокомандующий настоятельно приказал князю Барятинскому взять этот аул и снести его с лица земли», а исполнение: «Аул, в числе девяносто пяти домов, был предан пламени, и к вечеру того же дня от него не осталось ни одного здорового камня»(Citation: 119).
+    Итог 1853 года подвёл Воронцов, наместник и главнокомандующий на Кавказе: письмом императору от 1-20 марта 1854 года он доложил, что Барятинский «завладѣлъ Мичикомъ, сдѣлалъ огромной ширины просѣку черезъ Качкалыковскій хребетъ до равнинъ Большой Чечни и истребилъ большую часть деревень, которыя оставались еще непокорными по Мичику и другимъ рѣчкамъ по направленію къ Умахан юрту»(Citation: 107).
+    В январе 1854 года разорены аулы по рекам Джалке и Хаби-Шовдану - хроника имперских «выдающихся событий» считает переселение «418 сем.
+    Чеченцевъ»(Citation: 108).
+  en: |-
+    The auls of Greater Chechnya (the lowland eastern part of Chechnya) were burned out throughout the period.
+    On 6 January 1852 Avtury was burned - imperial historian Volkonsky, a participant in the pogrom, wrote: "The aul Avtury had at that time up to nine hundred households and belonged to the number of the richest auls," and of the detachment's withdrawal: "all the auls and hamlets that lay on the path of our retreat blazed up like their metropole"(Citation: 119).
+    On 27 March 1852, at the storming of the aul of naib Talgik (a naib is a deputy of Imam Shamil), "the aul itself was turned into a heap of ashes and ruins"(Citation: 119).
+    In December 1852 the commander-in-chief in the Caucasus ordered Baryatinsky, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), to destroy Khan-Kala - Volkonsky conveys the order: "the commander-in-chief insistently ordered Prince Baryatinsky to take this aul and raze it from the face of the earth," and the execution: "The aul, numbering ninety-five houses, was given to the flames, and by the evening of that same day not one sound stone remained of it"(Citation: 119).
+    The result of 1853 was summed up by Vorontsov, viceroy and commander-in-chief in the Caucasus: in a letter to the Emperor of 1-20 March 1854 he reported that Baryatinsky "took possession of the Michik, cut a clearing of enormous width through the Qachqalyq ridge down to the plains of Greater Chechnya and annihilated the greater part of the villages that still remained unsubdued along the Michik and other streams in the direction of Umakhan-yurt"(Citation: 107).
+    In January 1854 the auls along the rivers Dzhalka and Khabi-Shovdan were devastated - the imperial chronicle of "outstanding events" counts the resettlement of "418 families of Chechens"(Citation: 108).
+  uk: |-
+    Аули Великої Чечні (рівнинної східної частини Чечні) випалювалися весь період. 6 січня 1852 року спалено Автури - імперський історик Волконський, учасник погрому, записав: «Аул Автури мав на той час до дев'ятисот дворів і належав до числа найбагатших аулів», а про відступ загону: «всі аули й хутори, що були на шляху нашого відступу, запалали подібно до своєї метрополії»(Citation: 119). 27 березня 1852 року при штурмі аулу наїба Талгіка (наїб - намісник імама Шаміля) «сам аул було обернено на купу попелу й руїн»(Citation: 119).
+    У грудні 1852 року головнокомандувач на Кавказі наказав знищити Хан-Калу Барятинському, що командував на лівому фланзі Кавказької лінії (ланцюга імперських укріплень на землі нохчі), - Волконський передає наказ: «головнокомандувач наполегливо наказав князю Барятинському взяти цей аул і знести його з лиця землі», а виконання: «Аул, у числі дев'яноста п'яти будинків, було віддано полум'ю, і до вечора того ж дня від нього не залишилося жодного здорового каменя»(Citation: 119).
+    Підсумок 1853 року підбив Воронцов, намісник і головнокомандувач на Кавказі: листом імператору від 1-20 березня 1854 року він доповів, що Барятинський «заволодів Мічиком, зробив величезної ширини просіку через Качкаликівський хребет до рівнин Великої Чечні і винищив більшу частину сіл, які залишалися ще непокірними по Мічику та інших річках у напрямку до Умахан-юрта»(Citation: 107).
+    У січні 1854 року розорені аули по річках Джалці та Хабі-Шовдану - хроніка імперських «видатних подій» рахує переселення «418 сімей чеченців»(Citation: 108).

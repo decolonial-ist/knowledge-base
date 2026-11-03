@@ -1,0 +1,20 @@
+type: procedure
+id: C1156.T0164
+created: 2026-07-03
+modified: 2026-08-10
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    23 августа 1836 при разорении аула Зандак отряд полковника Пулло, начальника Сунженской укреплённой линии, присвоил имущество и скот жителей.
+    Корпусный командир Розен доносил военному министру: «в добычу нашим войскам досталось имущество жителей и 384 штуки рогатого скота»(Citation: 105).
+  en: |-
+    On August 23, 1836, during the destruction of the aul of Zandak, the detachment of Colonel Pullo, commander of the Sunzha fortified line, appropriated the property and livestock of the inhabitants.
+    Corps commander Rosen reported to the Minister of War: "our troops received as booty the property of the inhabitants and 384 head of cattle"(Citation: 105).
+  uk: |-
+    23 серпня 1836 року під час розорення аулу Зандак загін полковника Пулло, начальника Сунженської укріпленої лінії, привласнив майно та худобу мешканців.
+    Корпусний командир Розен доносив військовому міністрові: «у здобич нашим військам дісталося майно мешканців і 384 голови рогатої худоби»(Citation: 105).

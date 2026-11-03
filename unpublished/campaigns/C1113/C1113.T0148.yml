@@ -1,0 +1,21 @@
+type: procedure
+id: C1113.T0148
+created: 2026-06-13
+modified: 2026-08-31
+version: '1.0'
+technique: T0148
+people: nokhchi
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Использование вновь возведенных военных баз для систематического вооруженного грабежа без мотива наказания.
+    Установлено, что укрепления применялись для «набегов на... чеченские аулы, грабежа... местного населения».
+  en: |-
+    Use of newly built military bases for systematic armed plunder without any punitive motive.
+    It has been established that the fortifications were used for «raids on...
+    Chechen auls, plunder of... the local population».
+  uk: |-
+    Використання новозведених військових баз для систематичного збройного грабунку без мотиву покарання.
+    Встановлено, що укріплення застосовувалися для «набігів на... чеченські аули, грабунку... місцевого населення».

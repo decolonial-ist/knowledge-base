@@ -1,0 +1,23 @@
+type: procedure
+id: C1160.T0152
+created: 2026-07-18
+modified: 2026-07-18
+version: '1.0'
+technique: T0152
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В истребительной экспедиции Фезе по Малой Чечне в январе 1837 года империя вела горцев против горцев.
+    Журнал экспедиции, представленный Розеном военному министру Чернышеву 11 февраля 1837, называет состав колонны полковника Широкого: «сотня козаков и 800 всадников из Осетин и Ингуш» (осетинская и ингушская милиция - вспомогательные отряды из горцев на имперской службе)(Citation: 105).
+    Использование соседних народов в карательном походе перекладывало часть подавления на самих колонизируемых и закрепляло вражду между ними.
+  en: |-
+    In Feze's annihilating expedition through Lesser Chechnya in January 1837, the empire led highlanders against highlanders.
+    The expedition journal, presented by Rozen to Minister of War Chernyshev on 11 February 1837, names the composition of Colonel Shiroky's column: "a hundred Cossacks and 800 horsemen of Ossetians and Ingush" (the Ossetian and Ingush militia - auxiliary units of highlanders in the empire's service)(Citation: 105).
+    The use of neighboring peoples in a punitive campaign shifted part of the suppression onto the colonized themselves and entrenched enmity between them.
+  uk: |-
+    У винищувальній експедиції Фезе по Малій Чечні в січні 1837 року імперія вела горців проти горців.
+    Журнал експедиції, представлений Розеном військовому міністру Чернишову 11 лютого 1837, називає склад колони полковника Широкого: «сотня козаків і 800 вершників з осетинів та інгушів» (осетинська та інгуська міліція - допоміжні загони з горців на імперській службі)(Citation: 105).
+    Використання сусідніх народів у каральному поході перекладало частину придушення на самих колонізованих і закріплювало ворожнечу між ними.

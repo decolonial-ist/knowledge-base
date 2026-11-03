@@ -1,0 +1,28 @@
+type: technique
+id: T0133
+created: 2026-04-26
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0003
+name:
+  ru: Захват власти через манипуляцию выборами
+  en: Seizure of Power Through Election Manipulation
+  uk: Захоплення влади через маніпуляцію виборами
+contributors: []
+description:
+  ru: |-
+    Агрессор использует легитимные демократические механизмы (выборы, съезды, парламентские процедуры) государства-жертвы для перехвата власти изнутри.
+    В отличие от проведения фейковых референдумов на уже оккупированных территориях, эта техника применяется к еще суверенным, независимым институтам.
+    Путем инфильтрации агентуры, фальсификации квот представительства, подделки мандатов и подкупа делегатов агрессор искусственно формирует большинство.
+    Цель - заставить легитимный орган власти формально законно проголосовать за отказ от суверенитета или передачу полномочий силам, подконтрольным метрополии.
+  en: |-
+    The aggressor uses the legitimate democratic mechanisms (elections, congresses, parliamentary procedures) of the victim state to seize power from within.
+    Unlike the holding of fake referendums in already occupied territories, this technique is applied to still sovereign, independent institutions.
+    Through the infiltration of agents, falsification of representation quotas, forgery of mandates, and bribery of delegates, the aggressor artificially forms a majority.
+    The goal is to compel a legitimate body of power to vote, in a formally lawful manner, to renounce sovereignty or transfer powers to forces controlled by the metropole.
+  uk: |-
+    Агресор використовує легітимні демократичні механізми (вибори, з'їзди, парламентські процедури) держави-жертви для перехоплення влади зсередини.
+    На відміну від проведення фейкових референдумів на вже окупованих територіях, ця техніка застосовується до ще суверенних, незалежних інституцій.
+    Шляхом інфільтрації агентури, фальсифікації квот представництва, підроблення мандатів і підкупу делегатів агресор штучно формує більшість.
+    Мета — змусити легітимний орган влади формально законно проголосувати за відмову від суверенітету або передання повноважень силам, підконтрольним метрополії.

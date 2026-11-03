@@ -1,0 +1,6 @@
+# проверки (CI и локально)
+pyyaml>=6.0
+jsonschema>=4.20
+# копия из таблицы Google (scripts/copy_from_sheet.py) - только локально, читающим ключом
+# google-api-python-client
+# google-auth

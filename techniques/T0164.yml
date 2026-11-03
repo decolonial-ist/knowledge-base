@@ -1,0 +1,26 @@
+type: technique
+id: T0164
+created: 2026-08-06
+modified: 2026-08-10
+version: '1.2'
+tactics:
+- TA0006
+- TA0004
+name:
+  ru: Мародерство
+  en: Pillage
+  uk: Мародерство
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут грабить: присваивать имущество жителей при штурмах, зачистках и обысках, делить «добычу» между солдатами и командирами, вывозить скот, утварь и ценности.
+    Грабёж не ограничен боем: на занятой территории им является любое присвоение имущества жителей - солдатами или представителями администрации агрессора - в личную или ведомственную пользу без согласия владельца.
+    Гаагское положение запрещает отдавать населённый пункт на разграбление «даже взятый приступом» (статья 28) и «безусловно воспрещает» грабёж на занятой территории (статья 47); разграбление города или местности - военное преступление (Римский статут, статья 8(2)(b)(xvi)), причём грабежом признаётся и организованный захват имущества, и акты отдельных лиц ради личной выгоды (МТБЮ, дело Челебичи, 1998).
+  en: |-
+    Aggressors may loot: appropriate residents' property during assaults, sweep operations and searches, divide the "spoils" between soldiers and commanders, carry off livestock, household goods and valuables.
+    Pillage is not limited to combat: on occupied territory it is any appropriation of residents' property - by soldiers or by representatives of the aggressor's administration - for private or institutional benefit without the owner's consent.
+    The Hague Regulations forbid giving up a locality to pillage "even when taken by assault" (Article 28) and "formally forbid" pillage on occupied territory (Article 47); pillaging a town or place is a war crime (Rome Statute, Article 8(2)(b)(xvi)), and both organized seizure of property and acts of individuals for private gain qualify as pillage (ICTY, Celebici case, 1998).
+  uk: |-
+    Агресори можуть грабувати: привласнювати майно жителів під час штурмів, зачисток і обшуків, ділити «здобич» між солдатами і командирами, вивозити худобу, начиння і цінності.
+    Грабіж не обмежений боєм: на зайнятій території ним є будь-яке привласнення майна жителів - солдатами або представниками адміністрації агресора - на особисту чи відомчу користь без згоди власника.
+    Гаазьке положення забороняє віддавати населений пункт на розграбування «навіть взятий приступом» (стаття 28) і «безумовно забороняє» грабіж на зайнятій території (стаття 47); розграбування міста або місцевості - воєнний злочин (Римський статут, стаття 8(2)(b)(xvi)), причому грабежем визнається і організоване захоплення майна, і акти окремих осіб заради особистої вигоди (МТБЮ, справа Челебічі, 1998).

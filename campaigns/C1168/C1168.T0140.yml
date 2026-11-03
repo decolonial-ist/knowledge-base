@@ -1,0 +1,31 @@
+type: procedure
+id: C1168.T0140
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0140
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Просека - широкая полоса, вырубленная в лесу, чтобы лишить обороняющихся укрытия и пустить по ней войска, - была несущим инструментом завоевания 1857-1859 годов: лес, защищавший чеченские общества, вырубался планомерно.
+    «Журнал военных действий Чеченского отряда» с 15 января 1857 года фиксирует будни: «21-го числа всѣ войска... заняты были истребленіемъ ауловъ, садовъ и лѣса»; «22-го числа тѣ-же занятія.
+    Аулы окончательно уничтожены, сады вырублены и Гельдыгенская просѣка проложена шириною въ 750 саж.» - это около полутора километров (сажень - чуть больше двух метров)(Citation: 109).
+    Назначение просек генерал Евдокимов, командовавший Чеченским отрядом, доложил военному министру Сухозанету рапортом от 25 марта 1857 года: просека «отняла отъ непокорныхъ широкія поля, мѣста ихъ посѣвовъ», а население поставила перед выбором - «искать спасеніе или бѣгствомъ въ горы, или выходомъ къ намъ на поляны»(Citation: 109). 19 марта 1857 года генерал Николаи занял Гойтемировские ворота - проход в Аух и Ичкерию (чеченские области на северо-востоке и юго-востоке): рапорт объясняет задачу - «Чтобы уничтожить это гнѣздо разбойниковъ и открыть доступы въ Аухъ и Ичкерію, необходимо было овладѣть уроч.
+    Гойтемиръ-Капу и устроить тамъ просѣку»(Citation: 109); историк Д. А. Хожаев подтверждает по полковой истории: «19 марта 1857 года эти укрепления были захвачены царскими войсками и уничтожены»(Citation: 95).
+    В феврале 1859 года лес рубили уже у стен Ведено - столицы имамата, государства Шамиля: «8 февраля 1859 года, несмотря на сопротивление чеченцев и дагестанцев, многочисленные царские войска, расчистив от лесов все пространство между селениями Тевзан и Элистанжи, вышли к укреплению Ведено»(Citation: 95).
+  en: |-
+    The proseka - a wide swath cut through the forest to deprive the defenders of cover and send troops along it - was the load-bearing instrument of the conquest of 1857-1859: the forest that protected Chechen societies was felled systematically.
+    The "Journal of Military Operations of the Chechen Detachment" from 15 January 1857 records the daily routine: "on the 21st all the troops... were engaged in the annihilation of auls, orchards and forest"; "on the 22nd the same occupations.
+    The auls have been finally destroyed, the orchards felled, and the Geldygen clearing laid out 750 sazhens wide" - about one and a half kilometers (a sazhen is just over two meters)(Citation: 109).
+    The purpose of the clearings was reported by General Yevdokimov, who commanded the Chechen Detachment, to Minister of War Sukhozanet in a report of 25 March 1857: the clearing "took away from the unsubmissive their broad fields, the places of their crops", and confronted the population with a choice - "to seek salvation either by flight into the mountains or by coming out to us onto the glades"(Citation: 109).
+    On 19 March 1857 General Nikolai seized the Goytemir Gates - the passage into Aukh and Ichkeria (Chechen regions in the northeast and southeast): the report explains the task - "To destroy this nest of brigands and open the approaches into Aukh and Ichkeria, it was necessary to take possession of the Goytemir-Kapu tract and build a clearing there"(Citation: 109); historian D. A. Khozhayev confirms from the regimental history: "on 19 March 1857 these fortifications were captured by the tsarist troops and destroyed"(Citation: 95).
+    In February 1859 the forest was already being felled at the walls of Vedeno - the capital of the Imamate, Shamil's state: "on 8 February 1859, despite the resistance of the Chechens and Dagestanis, the numerous tsarist troops, having cleared of forest the whole space between the villages of Tevzan and Elistanzhi, came out to the fortification of Vedeno"(Citation: 95).
+  uk: |-
+    Просіка - широка смуга, вирубана в лісі, щоб позбавити оборонців укриття і пустити нею війська, - була несучим інструментом завоювання 1857-1859 років: ліс, що захищав чеченські товариства, вирубувався планомірно.
+    «Журнал воєнних дій Чеченського загону» з 15 січня 1857 року фіксує будні: «21-го числа всі війська... зайняті були винищенням аулів, садів і лісу»; «22-го числа ті самі заняття.
+    Аули остаточно знищені, сади вирубані, і Гельдигенська просіка прокладена завширшки 750 саж.» - це близько півтора кілометра (сажень - трохи більше двох метрів)(Citation: 109).
+    Призначення просік генерал Євдокимов, який командував Чеченським загоном, доповів військовому міністрові Сухозанету рапортом від 25 березня 1857 року: просіка «відняла в непокірних широкі поля, місця їхніх посівів», а населення поставила перед вибором - «шукати порятунку або втечею в гори, або виходом до нас на галявини»(Citation: 109). 19 березня 1857 року генерал Ніколаї зайняв Гойтемирівські ворота - прохід в Аух та Ічкерію (чеченські області на північному сході і південному сході): рапорт пояснює завдання - «Щоб знищити це гніздо розбійників і відкрити доступи в Аух та Ічкерію, необхідно було оволодіти урочищем Гойтемір-Капу і влаштувати там просіку»(Citation: 109); історик Д. А. Хожаєв підтверджує за полковою історією: «19 березня 1857 року ці укріплення були захоплені царськими військами і знищені»(Citation: 95).
+    У лютому 1859 року ліс рубали вже під стінами Ведено - столиці імамату, держави Шаміля: «8 лютого 1859 року, попри опір чеченців і дагестанців, численні царські війська, розчистивши від лісів увесь простір між селищами Тевзан і Елістанжі, вийшли до укріплення Ведено»(Citation: 95).

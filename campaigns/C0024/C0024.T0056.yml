@@ -1,0 +1,20 @@
+type: procedure
+id: C0024.T0056
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0056
+people: ukrainians
+actor: G0008
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Прямое изъятие экономических ресурсов автономии: «Сбор налогов с украинского населения (за исключением казацкого сословия) возлагался на царскую администрацию.
+    Собранные средства направлялись в царскую казну»(Citation: 24).
+  en: |-
+    Direct extraction of the autonomy's economic resources: "The collection of taxes from the Ukrainian population (except for the Cossack estate) was entrusted to the tsarist administration.
+    The collected funds were channeled into the tsar's treasury"(Citation: 24).
+  uk: |-
+    Пряме вилучення економічних ресурсів автономії: «Збирання податків з укр. населення (за винятком козац. стану) покладалося на царську адміністрацію.
+    Зібрані кошти залучалися до царської скарбниці»(Citation: 24).

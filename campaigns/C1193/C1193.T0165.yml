@@ -1,0 +1,280 @@
+type: procedure
+id: C1193.T0165
+created: 2026-10-24
+modified: 2026-10-27
+version: '1.0'
+technique: T0165
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Российские войска бомбили и обстреливали города Ичкерии, не отличая жилые дома от военных целей(Citation: 27).
+
+    Российская авиация сбрасывала на Ичкерию неуправляемые бомбы и кассетные бомбы с шариками или иглами(Citation: 27).
+    Экипажи российских вертолётов стреляли по городам и сёлам неуправляемыми ракетами(Citation: 986)(Citation: 988).
+    Оккупационные войска обстреливали жилые кварталы из ствольной артиллерии, миномётов и реактивных систем залпового огня «Град» и «Ураган», которые не могут бить прицельно(Citation: 27).
+    В Грозном, столице Ичкерии, российские военные забрасывали жилые дома с людьми глубинными бомбами, которыми топят подводные лодки.
+    Такая бомба пробивает десяток бетонных перекрытий и взрывается внутри дома(Citation: 27).
+
+    Оккупанты обстреливали рынки и больницы(Citation: 27).
+    Российские войска бомбили сёла перед штурмом, после захвата и во время «перемирий» с Ичкерией (подробнее: «Ложное перемирие»)(Citation: 27).
+
+    Российские лётчики бомбили, а артиллеристы обстреливали города и сёла Ичкерии всю войну, с сентября 1994 года по август 1996 года. 2 сентября 1994 года российские лётчики ударили ракетами по трём сёлам в двадцати километрах от Грозного(Citation: 710)(Citation: 1338). 23 ноября лётчики обстреляли птицефабрику в Шали и ранили семерых мирных чеченцев(Citation: 1339). 25 ноября лётчики ударили по аэропорту Грозного и жилым домам рядом и, по разным данным, убили троих или шестерых человек(Citation: 1087)(Citation: 1059). 26 ноября, когда российские танкисты штурмовали Грозный, лётчики обстреливали город.
+    По данным агентства «Чеченпресс», танкисты и лётчики убили от 25 до 39 мирных людей(Citation: 1158)(Citation: 1424)(Citation: 2375). 29 ноября лётчики обстреляли ракетами аэропорт и центр Грозного и, по данным Департамента государственной безопасности Ичкерии, убили 14 человек(Citation: 1340)(Citation: 1159). 30 ноября российская авиация дважды бомбила Грозный и, по словам советника президента Ичкерии, убила до 80 человек(Citation: 1087)(Citation: 1415). 3 декабря 1994 года российский лётчик сбросил бомбу на пятиэтажный жилой дом в Аргуне, городе к востоку от Грозного, но бомба пробила стену и не взорвалась(Citation: 986). 12 декабря российские лётчики с вертолётов и самолётов бомбили жилые кварталы Долинского, посёлка к северо-западу от Грозного(Citation: 26)(Citation: 27). 13 декабря лётчики обстреляли четыре машины с беженцами у села Новый Шарой на западе Ичкерии и убили троих беженцев(Citation: 27)(Citation: 986).
+
+    С 18 декабря 1994 года российская авиация бомбила Грозный, а с 19 декабря до штурма 31 декабря - каждый день(Citation: 27).
+    Командующий российской военной авиацией Дейнекин 21 марта 1995 года сказал в интервью газете «Московский комсомолец», что до 29 декабря из-за плохой погоды лётчики не могли применять над городом бомбы и ракеты с лазерным или телевизионным наведением.
+    Российские лётчики сбрасывали на город неуправляемые бомбы сквозь облака с высоты пяти-семи километров, когда, по словам командующего, «землю вообще не видно»(Citation: 27).
+    В январе и феврале 1995 года российские войска обстреливали жилые кварталы Грозного из ствольной артиллерии и реактивных систем залпового огня, а лётчики бомбили город.
+    Андрей Миронов, российский правозащитник, который прожил в Грозном три месяца, в феврале 1996 года рассказал в Москве общественному трибуналу российского фонда «Гласность»: «И вот закончился обстрел, выходишь из дома и видишь: тут трупы, там трупы.
+    Лежат старики.
+    Рядом санки, на санках фляга с водой».
+    Об иглах, которыми оккупанты набивали снаряды и бомбы, правозащитник сказал трибуналу: «Весь Грозный был ими засыпан.
+    Эти элементы годятся только для поражения незащищенных людей»(Citation: 986).
+    Правозащитники «Мемориала» пишут, что российские лётчики осознанно бомбили Грозный не целясь и такие удары неизбежно убивали много горожан.
+    По оценке Наблюдательной миссии российских правозащитных организаций, с декабря 1994 года по март 1995 года оккупанты убили в городе 25-29 тысяч мирных людей (подробнее: «Массовые убийства гражданских»)(Citation: 27).
+
+    В ночь на 21 декабря 1994 года российские артиллеристы попали снарядом в дом в Новоартёмово, селе близ Грозного, и убили пятерых детей.
+    Ещё две чеченские девочки из этого дома умерли от ран в больнице(Citation: 27). 24 декабря в морге Центральной республиканской больницы Грозного лежали 19 неопознанных тел горожан, которых убили российские лётчики(Citation: 27).
+    С 26 по 28 декабря 1994 года российская авиация бомбила около 40 сёл(Citation: 27). 29 декабря в морг Центральной республиканской больницы привезли тела двоих детей, двух женщин и ещё четверых человек, которых российские артиллеристы убили при обстреле окраин Грозного(Citation: 27).
+
+    3 января 1995 года российские лётчики обстреляли автобусную остановку у Старых Атагов, села к югу от Грозного, и убили там водителя стоявшего рядом грузовика и ещё нескольких человек(Citation: 654).
+    В этот день российская авиация сбросила кассетные бомбы на базар, больницу и автомобильный рынок Шали(Citation: 27)(Citation: 986).
+    По подсчётам правозащитника Андрея Миронова, одной бомбой на автомобильном рынке лётчики убили от 130 до 160 человек(Citation: 986). 31 января артиллеристы обстреляли Самашки и убили на улице Чапаева четверых человек. 2 февраля артиллеристы попали из миномёта в один двор на этой улице и убили утром женщину и 14-летнюю девочку, а днём - троих человек на похоронах(Citation: 662). 11 или 12 марта 1995 года лётчики бомбили улицу Моздокскую в Шали и разрушили на ней 68 домов(Citation: 27). 22-23 марта экипаж российского вертолёта обстрелял грузовик с беженцами у села Мескер-Юрт близ Шали и убил водителя и пассажира(Citation: 27). 26 марта экипажи шести российских вертолётов обстреляли ракетами Самашки и тяжело ранили четверых человек(Citation: 662). 6 апреля артиллеристы обстреляли из «Града» и ракетами Ники-Хиту, горное село на юго-востоке Ичкерии, и убили двоих чеченских детей(Citation: 27)(Citation: 739). 24 апреля 1995 года лётчики бомбили Ножай-Юрт, село на юго-востоке республики, где не было бойцов армии Ичкерии, и убили четверых чеченцев(Citation: 739)(Citation: 655).
+    По данным международной организации «Врачи без границ», за 15 дней до 27 мая 1995 года в больницу Шатоя, горного села на юге Ичкерии, привезли 74 человека, которых ранили российские лётчики(Citation: 1381). 8 октября 1995 года российские лётчики бомбили Рошни-Чу, село к юго-западу от Грозного, и, по словам сельчан, убили 28 человек - мирных чеченцев и бойцов армии Ичкерии(Citation: 1435)(Citation: 27).
+    С 14 по 20 декабря 1995 года российские войска обстреливали и бомбили жилые кварталы, больницы и мечеть Гудермеса, второго по величине города Ичкерии(Citation: 27).
+    Командующий оккупационными войсками Шкирко назвал 267 мирных людей, убитых в Гудермесе(Citation: 27)(Citation: 656).
+
+    С 11 по 20 февраля 1996 года российские войска обстреливали Новогрозненский, посёлок на востоке Ичкерии, и, по данным агентства Agence France-Presse, убили не меньше 50 мирных чеченцев(Citation: 27).
+    Яромир Штетина, корреспондент чешского агентства «Эпицентум», на пресс-конференции спросил командующего оккупационной армией Тихомирова, знает ли генерал о мирных людях в посёлке.
+    Командующий ответил журналисту: «Мы не можем установить разницу между боевиком [так россияне называли бойцов Вооружённых сил Ичкерии] и гражданским жителем»(Citation: 988).
+    До первых чисел марта 1996 года артиллеристы разрушали сёла Аллерой и Центорой, куда были вынуждены отступить защитники посёлка, и продолжали обстрелы после того, как защитники ушли оттуда.
+    Артиллеристы убили в этих сёлах мирных чеченцев(Citation: 27).
+    С 3 по 9 марта артиллеристы обстреливали Серноводск, село на западе Ичкерии, и убили не меньше 45 мирных людей(Citation: 27).
+    С 6 по 8 марта, когда Вооружённые силы Ичкерии освободили большую часть Грозного, российские войска обстреливали жилые кварталы города, а после ухода защитников ещё несколько дней - его южные районы.
+    По данным военной прокуратуры России, за 6-11 марта в Грозном погибли 250 мирных людей(Citation: 1127)(Citation: 27).
+
+    В ночь на 14 марта 1996 года российские войска окружили Самашки, село на западе Ичкерии, где жили около 12 000 человек. 15 марта российские военные дали чеченцам в селе два часа на выход перед штурмом, и около половины из них не успели уйти (подробнее: «Ложный коридор»).
+    В 10:16 российские войска начали обстреливать Самашки из бронетранспортёров, танков, ствольной артиллерии и миномётов, с вертолётов и самолётов, а оставшиеся в селе чеченцы прятались в подвалах(Citation: 27).
+    Виктор Курочкин, депутат российского парламента, 24 апреля 1996 года в Москве рассказал трибуналу «Гласности»: «Там работало восемь или десять "Ураганов" [реактивных систем залпового огня], — а это самое страшное оружие для населенных пунктов»(Citation: 988).
+    Правозащитник Андрей Миронов 17 марта был в Слепцовской, станице в подконтрольной России Ингушетии, и 20 апреля рассказал трибуналу: «Я считал взрывы.
+    Сначала это был один взрыв в секунду, потом больше.
+    Дней шесть село обстреливалось.
+    Из них примерно пять дней — один взрыв в секунду или немного чаще (1-2 взрыва в секунду), то есть не менее 70 тысяч снарядов в сутки»(Citation: 988).
+    К 19 марта, когда российские войска открыли выход из окружения, оккупанты разрушили в Самашках почти все дома(Citation: 27).
+    Источники расходятся в числе мирных чеченцев, которых оккупанты убили в селе во время штурма: 35 по списку сельчан(Citation: 27) или около 600 по словам врача, которая лечила людей в Самашках(Citation: 1127)(Citation: 988).
+
+    28 марта 1996 года российский лётчик сбросил две бомбы на Катыр-Юрт, село к юго-западу от Грозного, и убил девять человек из семьи Хажгириевых, среди них двух беременных женщин и четверых детей(Citation: 27)(Citation: 988). 3 и 4 апреля 1996 года лётчики бомбили Шалажи, село к юго-западу от Грозного, и убили троих чеченцев(Citation: 27)(Citation: 988). 25 апреля 1996 года лётчики бомбили окружённый российскими войсками Шали, где оставались около 50 тысяч мирных людей(Citation: 1395).
+    Лётчики убили мирных чеченцев, а ранили, по словам главы Шалинского района агентству «Интерфакс», 29 человек(Citation: 27).
+    В этот день российская авиация бомбила Чишки, горное село к югу от Грозного, и убила одну чеченку(Citation: 27). 7 мая экипажи пяти российских вертолётов ударили по Урус-Мартану, городу к юго-западу от Грозного, и убили на рынке пятерых чеченцев(Citation: 27)(Citation: 1278). 10 и 12 мая экипажи вертолётов снова обстреляли город и оба раза убили по одному человеку(Citation: 27)(Citation: 988).
+
+    В июле 1996 года российские войска обстреливали и бомбили Гехи, село к юго-западу от Грозного, и, по данным газеты «Известия», убили 19 мирных чеченцев(Citation: 27)(Citation: 1364).
+    Артиллеристы обстреливали из «Града» и «Урагана» Махкеты, горное село Веденского района на юго-востоке Ичкерии, и к 15 июля убили там 25 мирных чеченцев(Citation: 27)(Citation: 1127)(Citation: 1364). 15 июля экипажи семи российских вертолётов разрушили ракетами шесть домов в Старых Атагах (подробнее: «Коллективные наказания»)(Citation: 1127)(Citation: 1363).
+    В июле 1996 года, обстреливая Дарго, Белгатой, Ведено и другие сёла Веденского района, российские войска убили не меньше 30 чеченцев(Citation: 1127).
+    С 20 июля до первых чисел августа 1996 года российские лётчики непрерывно бомбили сёла пяти районов на юге республики(Citation: 27).
+
+    В августе 1996 года, когда армия Ичкерии атаковала оккупантов в Грозном, российские лётчики бомбили город, хотя низкая облачность не давала им целиться(Citation: 27).
+    По оценке журналистов, с 6 по 22 августа 1996 года оккупанты убили в Грозном около 2000 мирных горожан.
+    Правозащитники «Мемориала» пишут, что никто не вёл точного подсчёта(Citation: 27). 7 августа лётчики разрушили хирургическое отделение 4-й городской больницы и убили семерых медицинских работников(Citation: 27). 14 августа экипаж российского вертолёта в пяти километрах от Грозного обстрелял легковые машины с мирными людьми и убил не меньше четырёх человек, среди них двоих детей(Citation: 1273).
+    В этот день российские лётчики бомбили Комсомольское, село к северо-востоку от Грозного, и убили девять чеченцев(Citation: 1274). 17 августа 1996 года солдаты 101-й бригады внутренних войск МВД России (предшественники современной Росгвардии) стреляли из автоматов, пулемётов бронемашин и миномётов по жилым домам у «15-го городка», своей базы в Грозном, и убили четверых человек(Citation: 921).
+    С 19 по 21 августа российские артиллеристы обстреливали в Грозном Черноречье, южный район города(Citation: 27), улицу Грибоедова(Citation: 27) и площадь Минутка(Citation: 1127), а 20 августа выпустили по городу 60 ракет «Града»(Citation: 27)(Citation: 1127).
+    В Черноречье 19 августа артиллеристы убили пожилую женщину(Citation: 27). 21 августа лётчики сбросили с большой высоты зажигательные бомбы на пятиэтажки на улицах Сайханова и Ульянова, где не было бойцов армии Ичкерии(Citation: 1127)(Citation: 27).
+    Дома выгорели изнутри, а люди, которые прятались в подвалах, выжили(Citation: 27).
+
+    Правозащитники «Мемориала» пишут, что стрельба без разбора целей была одной из основных черт действий российских военных всю войну и что от бомбёжек и обстрелов больше всего страдали мирные люди(Citation: 27). 25 января 1996 года специальный докладчик ООН по казням без суда написал в докладе Комиссии ООН по правам человека, что российские военные убили тысячи граждан Ичкерии, в том числе когда намеренно и без разбора обстреливали жилые кварталы из тяжёлого оружия и бомбили их(Citation: 739).
+    Неизвестно, сколько таких преступлений совершили оккупационные войска с сентября 1994 года по август 1996 года.
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Russian troops bombed and shelled the towns of Ichkeria without distinguishing residential houses from military targets(Citation: 27).
+
+    Russian aircraft dropped unguided bombs and cluster bombs filled with steel balls or needles on Ichkeria(Citation: 27).
+    The crews of Russian helicopters fired unguided rockets at towns and villages(Citation: 986)(Citation: 988).
+    The occupation troops shelled residential districts with tube artillery, mortars and the Grad and Uragan multiple rocket launchers, which cannot fire with precision(Citation: 27).
+    In Grozny, the capital of Ichkeria, the Russian military hit residential houses with people inside with depth charges, the kind used to sink submarines.
+    Such a bomb pierces a dozen concrete floors and explodes inside the house(Citation: 27).
+
+    The occupiers shelled markets and hospitals(Citation: 27).
+    Russian troops bombed villages before a storming, after capture and during "ceasefires" with Ichkeria (see: "Sham Ceasefire")(Citation: 27).
+
+    Russian pilots bombed and artillerymen shelled the towns and villages of Ichkeria throughout the war, from September 1994 to August 1996.
+    On 2 September 1994 Russian pilots struck three villages twenty kilometers from Grozny with rockets(Citation: 710)(Citation: 1338).
+    On 23 November pilots fired at a poultry farm in Shali and wounded seven Chechen civilians(Citation: 1339).
+    On 25 November pilots struck the Grozny airport and the residential houses next to it and, according to different sources, killed three or six people(Citation: 1087)(Citation: 1059).
+    On 26 November, while Russian tank crews were storming Grozny, pilots fired at the city.
+    According to the Chechenpress agency, the tank crews and pilots killed from 25 to 39 civilians(Citation: 1158)(Citation: 1424)(Citation: 2375).
+    On 29 November pilots fired rockets at the airport and the center of Grozny and, according to the Department of State Security of Ichkeria, killed 14 people(Citation: 1340)(Citation: 1159).
+    On 30 November Russian aircraft bombed Grozny twice and, according to an adviser to the president of Ichkeria, killed up to 80 people(Citation: 1087)(Citation: 1415).
+    On 3 December 1994 a Russian pilot dropped a bomb on a five-story residential building in Argun, a town to the east of Grozny, but the bomb pierced the wall and did not explode(Citation: 986).
+    On 12 December Russian pilots in helicopters and aircraft bombed the residential districts of Dolinsky, a settlement to the northwest of Grozny(Citation: 26)(Citation: 27).
+    On 13 December pilots fired at four cars with refugees near the village of Novy Sharoy in the west of Ichkeria and killed three refugees(Citation: 27)(Citation: 986).
+
+    From 18 December 1994 Russian aircraft bombed Grozny, and from 19 December until the storming on 31 December they did so every day(Citation: 27).
+    Deinekin, the commander of the Russian military aviation, said in an interview with the newspaper Moskovsky Komsomolets on 21 March 1995 that until 29 December, because of bad weather, the pilots could not use laser- or television-guided bombs and missiles over the city.
+    Russian pilots dropped unguided bombs on the city through the clouds from a height of five to seven kilometers when, in the commander's words, "the ground could not be seen at all"(Citation: 27).
+    In January and February 1995 Russian troops shelled the residential districts of Grozny with tube artillery and multiple rocket launchers, and pilots bombed the city.
+    Andrei Mironov, a Russian human rights defender who lived in Grozny for three months, told the public tribunal of the Russian Glasnost foundation in Moscow in February 1996: "And then the shelling ends, you walk out of the house and see: corpses here, corpses there.
+    Old people lying.
+    Next to them a sled, on the sled a canister of water."
+    About the needles with which the occupiers filled shells and bombs, the human rights defender told the tribunal: "All of Grozny was strewn with them.
+    These elements are good only for hitting unprotected people"(Citation: 986).
+    The human rights defenders of Memorial write that Russian pilots knowingly bombed Grozny without aiming and that such strikes inevitably killed many townspeople.
+    By the estimate of the Observer Mission of Russian human rights organizations, from December 1994 to March 1995 the occupiers killed 25,000-29,000 civilians in the city (see: "Mass Killings of Civilians")(Citation: 27).
+
+    On the night of 21 December 1994 Russian artillerymen hit a house in Novoartyomovo, a village near Grozny, with a shell and killed five children.
+    Two more Chechen girls from this house died of their wounds in hospital(Citation: 27).
+    On 24 December, 19 unidentified bodies of townspeople killed by Russian pilots lay in the morgue of the Central Republican Hospital of Grozny(Citation: 27).
+    From 26 to 28 December 1994 Russian aircraft bombed about 40 villages(Citation: 27).
+    On 29 December the bodies of two children, two women and four more people, whom Russian artillerymen had killed while shelling the outskirts of Grozny, were brought to the morgue of the Central Republican Hospital(Citation: 27).
+
+    On 3 January 1995 Russian pilots fired at a bus stop near Starye Atagi, a village to the south of Grozny, and killed the driver of a truck standing nearby and several more people there(Citation: 654).
+    On that day Russian aircraft dropped cluster bombs on the bazaar, the hospital and the car market of Shali(Citation: 27)(Citation: 986).
+    By the count of the human rights defender Andrei Mironov, with one bomb at the car market the pilots killed from 130 to 160 people(Citation: 986).
+    On 31 January artillerymen shelled Samashki and killed four people on Chapayev Street.
+    On 2 February artillerymen hit one yard on this street with a mortar and killed a woman and a 14-year-old girl in the morning, and three people at a funeral in the afternoon(Citation: 662).
+    On 11 or 12 March 1995 pilots bombed Mozdokskaya Street in Shali and destroyed 68 houses on it(Citation: 27).
+    On 22-23 March the crew of a Russian helicopter fired at a truck with refugees near the village of Mesker-Yurt near Shali and killed the driver and a passenger(Citation: 27).
+    On 26 March the crews of six Russian helicopters fired rockets at Samashki and seriously wounded four people(Citation: 662).
+    On 6 April artillerymen shelled Niki-Khita, a mountain village in the southeast of Ichkeria, with Grad rockets and missiles and killed two Chechen children(Citation: 27)(Citation: 739).
+    On 24 April 1995 pilots bombed Nozhai-Yurt, a village in the southeast of the republic where there were no fighters of the army of Ichkeria, and killed four Chechens(Citation: 739)(Citation: 655).
+    According to the international organization Médecins Sans Frontières, in the 15 days before 27 May 1995, 74 people wounded by Russian pilots were brought to the hospital of Shatoy, a mountain village in the south of Ichkeria(Citation: 1381).
+    On 8 October 1995 Russian pilots bombed Roshni-Chu, a village to the southwest of Grozny, and, according to the villagers, killed 28 people - Chechen civilians and fighters of the army of Ichkeria(Citation: 1435)(Citation: 27).
+    From 14 to 20 December 1995 Russian troops shelled and bombed the residential districts, hospitals and mosque of Gudermes, the second-largest town of Ichkeria(Citation: 27).
+    Shkirko, the commander of the occupation troops, named 267 civilians killed in Gudermes(Citation: 27)(Citation: 656).
+
+    From 11 to 20 February 1996 Russian troops shelled Novogroznensky, a settlement in the east of Ichkeria, and, according to the Agence France-Presse agency, killed at least 50 Chechen civilians(Citation: 27).
+    Jaromír Štětina, a correspondent of the Czech agency Epicentrum, asked Tikhomirov, the commander of the occupation army, at a press conference whether the general knew about the civilians in the settlement.
+    The commander answered the journalist: "We cannot establish the difference between a militant [this is what the Russians called the fighters of the Armed Forces of Ichkeria] and a civilian resident"(Citation: 988).
+    Until the first days of March 1996 artillerymen destroyed the villages of Alleroy and Tsentoroy, to which the defenders of the settlement had been forced to retreat, and continued the shelling after the defenders had left them.
+    The artillerymen killed Chechen civilians in these villages(Citation: 27).
+    From 3 to 9 March artillerymen shelled Sernovodsk, a village in the west of Ichkeria, and killed at least 45 civilians(Citation: 27).
+    From 6 to 8 March, when the Armed Forces of Ichkeria liberated most of Grozny, Russian troops shelled the residential districts of the city, and after the defenders left, its southern districts for several more days.
+    According to the Russian military prosecutor's office, 250 civilians died in Grozny on 6-11 March(Citation: 1127)(Citation: 27).
+
+    On the night of 14 March 1996 Russian troops surrounded Samashki, a village in the west of Ichkeria where about 12,000 people lived.
+    On 15 March the Russian military gave the Chechens in the village two hours to leave before the storming, and about half of them did not manage to get out (see: "Sham Corridor").
+    At 10:16 Russian troops began shelling Samashki from armored personnel carriers, tanks, tube artillery and mortars, and from helicopters and aircraft, while the Chechens who remained in the village hid in cellars(Citation: 27).
+    Viktor Kurochkin, a deputy of the Russian parliament, told the Glasnost tribunal in Moscow on 24 April 1996: "Eight or ten 'Uragans' [multiple rocket launchers] were working there — and that is the most terrible weapon for populated areas"(Citation: 988).
+    The human rights defender Andrei Mironov was in Sleptsovskaya, a stanitsa in Russian-controlled Ingushetia, on 17 March, and told the tribunal on 20 April: "I counted the explosions.
+    At first it was one explosion per second, then more.
+    The village was shelled for about six days.
+    Of those, roughly five days — one explosion per second or slightly more often (1-2 explosions per second), that is, no fewer than 70 thousand shells a day"(Citation: 988).
+    By 19 March, when Russian troops opened a way out of the encirclement, the occupiers had destroyed almost all the houses in Samashki(Citation: 27).
+    Sources differ on the number of Chechen civilians the occupiers killed in the village during the storming: 35 according to the villagers' list(Citation: 27) or about 600 according to a doctor who treated people in Samashki(Citation: 1127)(Citation: 988).
+
+    On 28 March 1996 a Russian pilot dropped two bombs on Katyr-Yurt, a village to the southwest of Grozny, and killed nine people from the Khazhgiriyev family, among them two pregnant women and four children(Citation: 27)(Citation: 988).
+    On 3 and 4 April 1996 pilots bombed Shalazhi, a village to the southwest of Grozny, and killed three Chechens(Citation: 27)(Citation: 988).
+    On 25 April 1996 pilots bombed Shali, surrounded by Russian troops, where about 50 thousand civilians remained(Citation: 1395).
+    The pilots killed Chechen civilians and wounded, according to the head of the Shali district speaking to the Interfax agency, 29 people(Citation: 27).
+    On that day Russian aircraft bombed Chishki, a mountain village to the south of Grozny, and killed one Chechen woman(Citation: 27).
+    On 7 May the crews of five Russian helicopters struck Urus-Martan, a town to the southwest of Grozny, and killed five Chechens at the market(Citation: 27)(Citation: 1278).
+    On 10 and 12 May helicopter crews fired at the town again and killed one person each time(Citation: 27)(Citation: 988).
+
+    In July 1996 Russian troops shelled and bombed Gekhi, a village to the southwest of Grozny, and, according to the newspaper Izvestia, killed 19 Chechen civilians(Citation: 27)(Citation: 1364).
+    Artillerymen shelled Makhkety, a mountain village of the Vedeno district in the southeast of Ichkeria, with Grad and Uragan rockets and by 15 July had killed 25 Chechen civilians there(Citation: 27)(Citation: 1127)(Citation: 1364).
+    On 15 July the crews of seven Russian helicopters destroyed six houses in Starye Atagi with missiles (see: "Collective Punishment")(Citation: 1127)(Citation: 1363).
+    In July 1996, while shelling Dargo, Belgatoy, Vedeno and other villages of the Vedeno district, Russian troops killed at least 30 Chechens(Citation: 1127).
+    From 20 July until the first days of August 1996 Russian pilots continuously bombed the villages of five districts in the south of the republic(Citation: 27).
+
+    In August 1996, when the army of Ichkeria attacked the occupiers in Grozny, Russian pilots bombed the city although low clouds prevented them from aiming(Citation: 27).
+    According to journalists' estimates, from 6 to 22 August 1996 the occupiers killed about 2,000 civilian townspeople in Grozny.
+    Human rights defenders of Memorial write that no one kept an exact count(Citation: 27).
+    On 7 August pilots destroyed the surgical department of City Hospital No. 4 and killed seven medical workers(Citation: 27).
+    On 14 August the crew of a Russian helicopter five kilometers from Grozny fired at cars with civilians and killed at least four people, among them two children(Citation: 1273).
+    On that day Russian pilots bombed Komsomolskoye, a village to the northeast of Grozny, and killed nine Chechens(Citation: 1274).
+    On 17 August 1996 soldiers of the 101st Brigade of the Internal Troops of the Russian MVD (predecessors of today's Rosgvardia) fired with assault rifles, the machine guns of armored vehicles and mortars at the residential houses near the "15th Gorodok", their base in Grozny, and killed four people(Citation: 921).
+    From 19 to 21 August Russian artillerymen shelled Chernorechye, the southern district of the city(Citation: 27), Griboyedov Street(Citation: 27) and Minutka Square(Citation: 1127) in Grozny, and on 20 August fired 60 Grad rockets at the city(Citation: 27)(Citation: 1127).
+    In Chernorechye on 19 August artillerymen killed an elderly woman(Citation: 27).
+    On 21 August pilots dropped incendiary bombs from a great height on the five-story buildings on Saikhanov and Ulyanov Streets, where there were no fighters of the army of Ichkeria(Citation: 1127)(Citation: 27).
+    The buildings burned out from the inside, while the people who were hiding in the cellars survived(Citation: 27).
+
+    The human rights defenders of Memorial write that firing without distinguishing targets was one of the main features of the actions of the Russian military throughout the war and that civilians suffered most from the bombing and shelling(Citation: 27).
+    On 25 January 1996 the UN Special Rapporteur on extrajudicial executions wrote in a report to the UN Commission on Human Rights that the Russian military had killed thousands of citizens of Ichkeria, including when they deliberately and indiscriminately shelled residential districts with heavy weapons and bombed them(Citation: 739).
+    It is unknown how many such crimes the occupation troops committed from September 1994 to August 1996.
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Російські війська бомбили й обстрілювали міста Ічкерії, не відрізняючи житлових будинків від військових цілей(Citation: 27).
+
+    Російська авіація скидала на Ічкерію некеровані бомби й касетні бомби з кульками або голками(Citation: 27).
+    Екіпажі російських гелікоптерів стріляли по містах і селах некерованими ракетами(Citation: 986)(Citation: 988).
+    Окупаційні війська обстрілювали житлові квартали зі ствольної артилерії, мінометів і реактивних систем залпового вогню «Град» і «Ураган», які не можуть бити прицільно(Citation: 27).
+    У Грозному, столиці Ічкерії, російські військові закидали житлові будинки з людьми глибинними бомбами, якими топлять підводні човни.
+    Така бомба пробиває десяток бетонних перекриттів і вибухає всередині будинку(Citation: 27).
+
+    Окупанти обстрілювали ринки й лікарні(Citation: 27).
+    Російські війська бомбили села перед штурмом, після захоплення і під час «перемир'їв» з Ічкерією (докладніше: «Фальшиве перемир'я»)(Citation: 27).
+
+    Російські льотчики бомбили, а артилеристи обстрілювали міста й села Ічкерії всю війну, з вересня 1994 року по серпень 1996 року. 2 вересня 1994 року російські льотчики вдарили ракетами по трьох селах за двадцять кілометрів від Грозного(Citation: 710)(Citation: 1338). 23 листопада льотчики обстріляли птахофабрику в Шалі й поранили сімох мирних чеченців(Citation: 1339). 25 листопада льотчики вдарили по аеропорту Грозного і житлових будинках поруч і, за різними даними, вбили трьох або шістьох людей(Citation: 1087)(Citation: 1059). 26 листопада, коли російські танкісти штурмували Грозний, льотчики обстрілювали місто.
+    За даними агентства «Чеченпрес», танкісти й льотчики вбили від 25 до 39 мирних людей(Citation: 1158)(Citation: 1424)(Citation: 2375). 29 листопада льотчики обстріляли ракетами аеропорт і центр Грозного і, за даними Департаменту державної безпеки Ічкерії, вбили 14 людей(Citation: 1340)(Citation: 1159). 30 листопада російська авіація двічі бомбила Грозний і, за словами радника президента Ічкерії, вбила до 80 людей(Citation: 1087)(Citation: 1415). 3 грудня 1994 року російський льотчик скинув бомбу на п'ятиповерховий житловий будинок в Аргуні, місті на схід від Грозного, але бомба пробила стіну й не вибухнула(Citation: 986). 12 грудня російські льотчики з гелікоптерів і літаків бомбили житлові квартали Долинського, селища на північний захід від Грозного(Citation: 26)(Citation: 27). 13 грудня льотчики обстріляли чотири машини з біженцями біля села Новий Шарой на заході Ічкерії і вбили трьох біженців(Citation: 27)(Citation: 986).
+
+    З 18 грудня 1994 року російська авіація бомбила Грозний, а з 19 грудня до штурму 31 грудня - щодня(Citation: 27).
+    Командувач російської військової авіації Дейнекін 21 березня 1995 року сказав в інтерв'ю газеті «Московський комсомолець», що до 29 грудня через погану погоду льотчики не могли застосовувати над містом бомби й ракети з лазерним або телевізійним наведенням.
+    Російські льотчики скидали на місто некеровані бомби крізь хмари з висоти п'яти-семи кілометрів, коли, за словами командувача, «землі взагалі не видно»(Citation: 27).
+    У січні та лютому 1995 року російські війська обстрілювали житлові квартали Грозного зі ствольної артилерії та реактивних систем залпового вогню, а льотчики бомбили місто.
+    Андрій Миронов, російський правозахисник, який прожив у Грозному три місяці, у лютому 1996 року розповів у Москві громадському трибуналу російського фонду «Гласність»: «І ось закінчився обстріл, виходиш із дому і бачиш: тут трупи, там трупи.
+    Лежать старі люди.
+    Поруч санчата, на санчатах фляга з водою».
+    Про голки, якими окупанти начиняли снаряди й бомби, правозахисник сказав трибуналу: «Увесь Грозний був ними засипаний.
+    Ці елементи годяться тільки для ураження незахищених людей»(Citation: 986).
+    Правозахисники «Меморіалу» пишуть, що російські льотчики свідомо бомбили Грозний не цілячись і такі удари неминуче вбивали багато городян.
+    За оцінкою Спостережної місії російських правозахисних організацій, з грудня 1994 року по березень 1995 року окупанти вбили в місті 25-29 тисяч мирних людей (докладніше: «Масові вбивства цивільних»)(Citation: 27).
+
+    У ніч на 21 грудня 1994 року російські артилеристи влучили снарядом у будинок у Новоартемовому, селі поблизу Грозного, і вбили п'ятьох дітей.
+    Ще дві чеченські дівчинки з цього будинку померли від ран у лікарні(Citation: 27). 24 грудня в морзі Центральної республіканської лікарні Грозного лежали 19 невпізнаних тіл городян, яких убили російські льотчики(Citation: 27).
+    З 26 по 28 грудня 1994 року російська авіація бомбила близько 40 сіл(Citation: 27). 29 грудня в морг Центральної республіканської лікарні привезли тіла двох дітей, двох жінок і ще чотирьох людей, яких російські артилеристи вбили під час обстрілу околиць Грозного(Citation: 27).
+
+    3 січня 1995 року російські льотчики обстріляли автобусну зупинку біля Старих Атагів, села на південь від Грозного, і вбили там водія вантажівки, що стояла поруч, і ще кількох людей(Citation: 654).
+    Того дня російська авіація скинула касетні бомби на базар, лікарню та автомобільний ринок Шалі(Citation: 27)(Citation: 986).
+    За підрахунками правозахисника Андрія Миронова, однією бомбою на автомобільному ринку льотчики вбили від 130 до 160 людей(Citation: 986). 31 січня артилеристи обстріляли Самашки й убили на вулиці Чапаєва чотирьох людей. 2 лютого артилеристи влучили з міномета в одне подвір'я на цій вулиці й убили вранці жінку та 14-річну дівчинку, а вдень - трьох людей на похороні(Citation: 662). 11 або 12 березня 1995 року льотчики бомбили вулицю Моздоцьку в Шалі й зруйнували на ній 68 будинків(Citation: 27). 22-23 березня екіпаж російського гелікоптера обстріляв вантажівку з біженцями біля села Мескер-Юрт поблизу Шалі й убив водія та пасажира(Citation: 27). 26 березня екіпажі шести російських гелікоптерів обстріляли ракетами Самашки й важко поранили чотирьох людей(Citation: 662). 6 квітня артилеристи обстріляли з «Граду» і ракетами Нікі-Хіту, гірське село на південному сході Ічкерії, і вбили двох чеченських дітей(Citation: 27)(Citation: 739). 24 квітня 1995 року льотчики бомбили Ножай-Юрт, село на південному сході республіки, де не було бійців армії Ічкерії, і вбили чотирьох чеченців(Citation: 739)(Citation: 655).
+    За даними міжнародної організації «Лікарі без кордонів», за 15 днів до 27 травня 1995 року до лікарні Шатоя, гірського села на півдні Ічкерії, привезли 74 людини, яких поранили російські льотчики(Citation: 1381). 8 жовтня 1995 року російські льотчики бомбили Рошні-Чу, село на південний захід від Грозного, і, за словами сільчан, убили 28 людей - мирних чеченців і бійців армії Ічкерії(Citation: 1435)(Citation: 27).
+    З 14 по 20 грудня 1995 року російські війська обстрілювали й бомбили житлові квартали, лікарні та мечеть Гудермеса, другого за величиною міста Ічкерії(Citation: 27).
+    Командувач окупаційних військ Шкірко назвав 267 мирних людей, убитих у Гудермесі(Citation: 27)(Citation: 656).
+
+    З 11 по 20 лютого 1996 року російські війська обстрілювали Новогрозненський, селище на сході Ічкерії, і, за даними агентства Agence France-Presse, вбили не менше ніж 50 мирних чеченців(Citation: 27).
+    Яромир Штетіна, кореспондент чеського агентства «Епіцентрум», на пресконференції запитав командувача окупаційної армії Тихомирова, чи знає генерал про мирних людей у селищі.
+    Командувач відповів журналістові: «Ми не можемо встановити різницю між бойовиком [так росіяни називали бійців Збройних сил Ічкерії] і цивільним жителем»(Citation: 988).
+    До перших чисел березня 1996 року артилеристи руйнували села Аллерой і Центорой, куди були змушені відступити захисники селища, і продовжували обстріли після того, як захисники пішли звідти.
+    Артилеристи вбили в цих селах мирних чеченців(Citation: 27).
+    З 3 по 9 березня артилеристи обстрілювали Серноводськ, село на заході Ічкерії, і вбили не менше ніж 45 мирних людей(Citation: 27).
+    З 6 по 8 березня, коли Збройні сили Ічкерії звільнили більшу частину Грозного, російські війська обстрілювали житлові квартали міста, а після відходу захисників ще кілька днів - його південні райони.
+    За даними військової прокуратури Росії, за 6-11 березня у Грозному загинули 250 мирних людей(Citation: 1127)(Citation: 27).
+
+    У ніч на 14 березня 1996 року російські війська оточили Самашки, село на заході Ічкерії, де жили близько 12 000 людей. 15 березня російські військові дали чеченцям у селі дві години на вихід перед штурмом, і близько половини з них не встигли піти (докладніше: «Фальшивий коридор»).
+    О 10:16 російські війська почали обстрілювати Самашки з бронетранспортерів, танків, ствольної артилерії та мінометів, з гелікоптерів і літаків, а чеченці, які залишилися в селі, ховалися в підвалах(Citation: 27).
+    Віктор Курочкін, депутат російського парламенту, 24 квітня 1996 року в Москві розповів трибуналу «Гласності»: «Там працювало вісім або десять "Ураганів" [реактивних систем залпового вогню], — а це найстрашніша зброя для населених пунктів»(Citation: 988).
+    Правозахисник Андрій Миронов 17 березня був у Слєпцовській, станиці в підконтрольній Росії Інгушетії, і 20 квітня розповів трибуналу: «Я рахував вибухи.
+    Спочатку це був один вибух на секунду, потім більше.
+    Днів шість село обстрілювали.
+    З них приблизно п'ять днів — один вибух на секунду або трохи частіше (1-2 вибухи на секунду), тобто не менше ніж 70 тисяч снарядів на добу»(Citation: 988).
+    До 19 березня, коли російські війська відкрили вихід з оточення, окупанти зруйнували в Самашках майже всі будинки(Citation: 27).
+    Джерела розходяться в числі мирних чеченців, яких окупанти вбили в селі під час штурму: 35 за списком сільчан(Citation: 27) або близько 600 за словами лікарки, яка лікувала людей у Самашках(Citation: 1127)(Citation: 988).
+
+    28 березня 1996 року російський льотчик скинув дві бомби на Катир-Юрт, село на південний захід від Грозного, і вбив дев'ятьох людей із сім'ї Хажгірієвих, серед них двох вагітних жінок і чотирьох дітей(Citation: 27)(Citation: 988). 3 і 4 квітня 1996 року льотчики бомбили Шалажі, село на південний захід від Грозного, і вбили трьох чеченців(Citation: 27)(Citation: 988). 25 квітня 1996 року льотчики бомбили оточене російськими військами Шалі, де залишалися близько 50 тисяч мирних людей(Citation: 1395).
+    Льотчики вбили мирних чеченців, а поранили, за словами глави Шалінського району агентству «Інтерфакс», 29 людей(Citation: 27).
+    Того дня російська авіація бомбила Чишки, гірське село на південь від Грозного, і вбила одну чеченку(Citation: 27). 7 травня екіпажі п'яти російських гелікоптерів ударили по Урус-Мартану, місту на південний захід від Грозного, і вбили на ринку п'ятьох чеченців(Citation: 27)(Citation: 1278). 10 і 12 травня екіпажі гелікоптерів знову обстріляли місто й обидва рази вбили по одній людині(Citation: 27)(Citation: 988).
+
+    У липні 1996 року російські війська обстрілювали й бомбили Гехі, село на південний захід від Грозного, і, за даними газети «Ізвєстія», вбили 19 мирних чеченців(Citation: 27)(Citation: 1364).
+    Артилеристи обстрілювали з «Граду» та «Урагану» Махкети, гірське село Веденського району на південному сході Ічкерії, і до 15 липня вбили там 25 мирних чеченців(Citation: 27)(Citation: 1127)(Citation: 1364). 15 липня екіпажі семи російських гелікоптерів зруйнували ракетами шість будинків у Старих Атагах (докладніше: «Колективні покарання»)(Citation: 1127)(Citation: 1363).
+    У липні 1996 року, обстрілюючи Дарго, Белгатой, Ведено та інші села Веденського району, російські війська вбили не менше ніж 30 чеченців(Citation: 1127).
+    З 20 липня до перших чисел серпня 1996 року російські льотчики безперервно бомбили села п'яти районів на півдні республіки(Citation: 27).
+
+    У серпні 1996 року, коли армія Ічкерії атакувала окупантів у Грозному, російські льотчики бомбили місто, хоча низька хмарність не давала їм цілитися(Citation: 27).
+    За оцінкою журналістів, з 6 по 22 серпня 1996 року окупанти вбили в Грозному близько 2000 мирних городян.
+    Правозахисники «Меморіалу» пишуть, що ніхто не вів точного підрахунку(Citation: 27). 7 серпня льотчики зруйнували хірургічне відділення 4-ї міської лікарні й убили сімох медичних працівників(Citation: 27). 14 серпня екіпаж російського гелікоптера за п'ять кілометрів від Грозного обстріляв легкові машини з мирними людьми й убив не менше ніж чотирьох людей, серед них двох дітей(Citation: 1273).
+    Того дня російські льотчики бомбили Комсомольське, село на північний схід від Грозного, і вбили дев'ятьох чеченців(Citation: 1274). 17 серпня 1996 року солдати 101-ї бригади внутрішніх військ МВС Росії (попередники сучасної Росгвардії) стріляли з автоматів, кулеметів бронемашин і мінометів по житлових будинках біля «15-го містечка», своєї бази в Грозному, і вбили чотирьох людей(Citation: 921).
+    З 19 по 21 серпня російські артилеристи обстрілювали в Грозному Чорноріччя, південний район міста(Citation: 27), вулицю Грибоєдова(Citation: 27) і площу Мінутка(Citation: 1127), а 20 серпня випустили по місту 60 ракет «Граду»(Citation: 27)(Citation: 1127).
+    У Чорноріччі 19 серпня артилеристи вбили літню жінку(Citation: 27). 21 серпня льотчики скинули з великої висоти запалювальні бомби на п'ятиповерхівки на вулицях Сайханова та Ульянова, де не було бійців армії Ічкерії(Citation: 1127)(Citation: 27).
+    Будинки вигоріли зсередини, а люди, які ховалися в підвалах, вижили(Citation: 27).
+
+    Правозахисники «Меморіалу» пишуть, що стрілянина без розбору цілей була однією з основних рис дій російських військових усю війну і що від бомбардувань та обстрілів найбільше страждали мирні люди(Citation: 27). 25 січня 1996 року спеціальний доповідач ООН з позасудових страт написав у доповіді Комісії ООН з прав людини, що російські військові вбили тисячі громадян Ічкерії, у тому числі коли навмисно й без розбору обстрілювали житлові квартали з важкої зброї та бомбили їх(Citation: 739).
+    Невідомо, скільки таких злочинів скоїли окупаційні війська з вересня 1994 року по серпень 1996 року.
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

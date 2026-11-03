@@ -1,0 +1,66 @@
+type: procedure
+id: C1180.T0127
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0127
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    29 января 1944 года народный комиссар (министр) внутренних дел Берия утвердил главный документ операции «Чечевица» - «Инструкцию о порядке проведения выселения чеченцев и ингушей»(Citation: 533); 31 января Государственный комитет обороны СССР издал два постановления о депортации и местах назначения(Citation: 125).
+    В первом расписан приём выселенных на месте ссылки: советскому НКВД (предшественнику современной ФСБ) поручалось направить «в феврале–марте с. г. для расселения в Казахскую ССР спецпереселенцев до 400 тыс. чел., в Киргизскую ССР до 90 тыс. чел.», а в каждом районе, куда привозили людей, предписывалось «организовать тройки в составе председателя райисполкома, секретаря райкома и начальника РО [районного отдела] НКВД»(Citation: 271).
+    Вторым постановлением людей предписывалось везти «по тарифу перевозок заключенных»(Citation: 360). 7 февраля на совещании у Берии «были определены конкретные задачи по организации выселения 459 486 чеченцев и ингушей - это 97 635 семей», назначена дата - 22-23 февраля(Citation: 260).
+    Колонизатор стянул в республику, пишут историки Я. З. Ахмадов и Э. Х. Хасмагомадов, «до 19 тысяч сотрудников НКВД и НКГБ и 100 тысяч боеспособных солдат внутренних войск... свыше 15 тысяч железнодорожных вагонов и сотни паровозов, 6 тысяч грузовых автомобилей»(Citation: 125) - под легендой: «были распущены слухи о проведении крупных тактических учений в горах Чечни и Ингушетии»(Citation: 260). 23 февраля, в советский военный праздник («День Красной армии»), войска НКВД собрали мужчин - историк З. С. Исакиева пишет: «Вместо клубов мужчин повезли (и повели) на сборные пункты под усиленной вооруженной охраной»(Citation: 260).
+    Чеченский историк А. Г. Авторханов приводит свидетельство русского студента-очевидца, напечатанное в эмигрантском журнале «Прометеус» в 1949 году, - о вечере 23 февраля в аулах: «Вечером того дня красноармейцы развели огни на площадях аулов и начали пение и танцы.
+    Жители аулов, ни в чем не сомневаясь, собрались на это торжество как зрители.
+    Когда таким образом большинство жителей собралось на площади, были арестованы все мужчины.
+    Некоторые чеченцы имели оружие, и во многих местах началась стрельба...
+    Арестованные на площадях мужчины были заперты в сараи, и началась охота за теми, которых не было на площади.
+    Вся акция была проведена в два-три часа»(Citation: 369).
+    «К 11 часам первого дня выселения из различных селений вывезено более 94 тысяч человек»(Citation: 125), к утру 24 февраля - более 333 тысяч.
+    НКВД вёз людей в 180 эшелонах: по «рационализаторскому» предложению ведомство уплотнило погрузку - «уплотнение погрузки спецконтингента» в его бумагах - с 24 до 45 человек в вагоне; историки пишут: «На деле же в товарные вагоны-«теплушки» набивали и до 80 человек»(Citation: 125).
+    В пути, по официальным данным советского НКВД, умер 1361 человек(Citation: 125); очевидец Аметистов, впоследствии судья Конституционного суда России, вспоминал: «Я видел, как привезли их [чеченцев] в вагонах - и половину выгружали уже трупами.
+    Живых выбросили на 40-градусный мороз»(Citation: 125).
+    «Последний эшелон с депортированными чеченцами и ингушами встал под разгрузку в казахской степи 20 марта 1944 г.»(Citation: 125).
+    А. Г. Авторханов записал, как это выглядело для народа: «23 февраля 1944 года... в течение буквально 24 часов поголовно все население Чечено-Ингушской республики арестовывается, и начинается его погрузка в арестантские эшелоны для отправки в неизвестном направлении», а указ о ликвидации республики «был опубликован задним числом» - через два года и четыре месяца(Citation: 369).
+  en: |-
+    On 29 January 1944 People's Commissar (Minister) of Internal Affairs Beria approved the principal document of Operation "Chechevitsa" - the "Instruction on the Procedure for the Deportation of the Chechens and Ingush"(Citation: 533); on 31 January the State Defense Committee of the USSR issued two resolutions on the deportation and the destinations(Citation: 125).
+    The first laid out the reception of the deported at the places of exile: the Soviet NKVD (predecessor of today's FSB) was instructed to send "in February-March of this year, for resettlement, up to 400 thousand people to the Kazakh SSR and up to 90 thousand people to the Kirghiz SSR," and in every destination district it was prescribed "to organize troikas consisting of the chairman of the district executive committee, the secretary of the district party committee and the head of the district branch [RO] of the NKVD"(Citation: 271).
+    The second resolution prescribed that people be transported "at the tariff for the transportation of prisoners"(Citation: 360).
+    On 7 February, at a meeting with Beria, "concrete tasks were set for organizing the deportation of 459,486 Chechens and Ingush - 97,635 families," and the date was fixed: 22-23 February(Citation: 260).
+    The colonizer massed in the republic, write historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov, "up to 19 thousand officers of the NKVD and NKGB and 100 thousand combat-ready soldiers of the internal troops... over 15 thousand railway wagons and hundreds of locomotives, 6 thousand trucks"(Citation: 125) - under a cover story: "rumors were spread about large-scale tactical exercises in the mountains of Chechnya and Ingushetia"(Citation: 260).
+    On 23 February, the Soviet military holiday ("Red Army Day"), NKVD troops rounded up the men - historian Z. S. Isakieva writes: "Instead of the clubs, the men were driven (and marched) to assembly points under reinforced armed guard"(Citation: 260).
+    The Chechen historian A. G. Avtorkhanov cites the testimony of a Russian student eyewitness, printed in the émigré journal Prometheus in 1949, about the evening of 23 February in the auls: "That evening the Red Army men lit fires on the aul squares and began singing and dancing.
+    The aul residents, suspecting nothing, gathered at this festivity as spectators.
+    When in this way most of the residents had assembled on the square, all the men were arrested.
+    Some Chechens had weapons, and shooting broke out in many places...
+    The men arrested on the squares were locked in barns, and a hunt began for those who had not been on the square.
+    The whole action was carried out in two or three hours"(Citation: 369).
+    "By 11 o'clock of the first day of the deportation more than 94 thousand people had been taken out of various settlements"(Citation: 125), and by the morning of 24 February - more than 333 thousand.
+    The NKVD hauled the people in 180 trains: following a "rationalization" proposal the agency packed the loading tighter - "densification of the loading of the special contingent" in its papers - from 24 to 45 people per wagon; historians write: "In reality up to 80 people were crammed into the freight 'teplushka' wagons"(Citation: 125).
+    En route, according to the official figures of the Soviet NKVD, 1,361 people died(Citation: 125); the eyewitness Ametistov, later a judge of the Constitutional Court of Russia, recalled: "I saw them [the Chechens] brought in in wagons - and half were unloaded already as corpses.
+    The living were thrown out into 40-degree frost"(Citation: 125).
+    "The last train with deported Chechens and Ingush pulled up for unloading in the Kazakh steppe on 20 March 1944"(Citation: 125).
+    A. G. Avtorkhanov recorded how it looked to the people: "On 23 February 1944... within literally 24 hours the entire population of the Checheno-Ingush Republic was placed under arrest, and its loading into prisoner trains began, for dispatch to an unknown destination," while the decree liquidating the republic "was published backdated" - two years and four months later(Citation: 369).
+  uk: |-
+    29 січня 1944 року народний комісар (міністр) внутрішніх справ Берія затвердив головний документ операції «Сочевиця» - «Інструкцію про порядок проведення виселення чеченців та інгушів»(Citation: 533); 31 січня Державний комітет оборони СРСР видав дві постанови про депортацію та місця призначення(Citation: 125).
+    У першій розписано прийом виселених на місці заслання: радянському НКВД (попереднику сучасної ФСБ) доручалося направити «в лютому-березні ц. р. для розселення в Казахську РСР спецпереселенців до 400 тис. осіб, у Киргизьку РСР до 90 тис. осіб», а в кожному районі, куди привозили людей, приписувалося «організувати трійки у складі голови райвиконкому, секретаря райкому та начальника РВ [районного відділу] НКВД»(Citation: 271).
+    Другою постановою людей приписувалося везти «за тарифом перевезень ув'язнених»(Citation: 360). 7 лютого на нараді в Берії «були визначені конкретні завдання з організації виселення 459 486 чеченців та інгушів - це 97 635 сімей», призначено дату - 22-23 лютого(Citation: 260).
+    Колонізатор стягнув до республіки, пишуть історики Я. З. Ахмадов та Е. Х. Хасмагомадов, «до 19 тисяч співробітників НКВД і НКГБ та 100 тисяч боєздатних солдатів внутрішніх військ... понад 15 тисяч залізничних вагонів і сотні паровозів, 6 тисяч вантажівок»(Citation: 125) - під легендою: «були розпущені чутки про проведення великих тактичних навчань у горах Чечні та Інгушетії»(Citation: 260). 23 лютого, у радянське військове свято («День Червоної армії»), війська НКВД зібрали чоловіків - історик З. С. Ісакієва пише: «Замість клубів чоловіків повезли (і повели) на збірні пункти під посиленою озброєною охороною»(Citation: 260).
+    Чеченський історик А. Г. Авторханов наводить свідчення російського студента-очевидця, надруковане в еміграційному журналі «Прометеус» 1949 року, - про вечір 23 лютого в аулах: «Увечері того дня червоноармійці розвели вогні на майданах аулів і почали співи й танці.
+    Жителі аулів, ні в чому не сумніваючись, зібралися на це торжество як глядачі.
+    Коли в такий спосіб більшість жителів зібралася на майдані, були заарештовані всі чоловіки.
+    Дехто з чеченців мав зброю, і в багатьох місцях почалася стрілянина...
+    Заарештованих на майданах чоловіків замкнули в сараях, і почалося полювання на тих, кого не було на майдані.
+    Уся акція була проведена за дві-три години»(Citation: 369).
+    «До 11 години першого дня виселення з різних селищ вивезено понад 94 тисячі людей»(Citation: 125), до ранку 24 лютого - понад 333 тисячі.
+    НКВД віз людей у 180 ешелонах: за «раціоналізаторською» пропозицією відомство ущільнило завантаження - «ущільнення завантаження спецконтингенту» в його паперах - з 24 до 45 людей у вагоні; історики пишуть: «Насправді ж у товарні вагони-«теплушки» набивали й до 80 людей»(Citation: 125).
+    У дорозі, за офіційними даними радянського НКВД, померла 1361 людина(Citation: 125); очевидець Аметистов, згодом суддя Конституційного суду Росії, згадував: «Я бачив, як привезли їх [чеченців] у вагонах - і половину вивантажували вже трупами.
+    Живих викинули на 40-градусний мороз»(Citation: 125).
+    «Останній ешелон з депортованими чеченцями та інгушами став під розвантаження в казахському степу 20 березня 1944 р.»(Citation: 125).
+    А. Г. Авторханов записав, як це виглядало для народу: «23 лютого 1944 року... протягом буквально 24 годин поголовно все населення Чечено-Інгушської республіки заарештовується, і починається його завантаження в арештантські ешелони для відправлення в невідомому напрямку», а указ про ліквідацію республіки «був опублікований заднім числом» - через два роки і чотири місяці(Citation: 369).

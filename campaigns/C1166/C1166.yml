@@ -1,0 +1,36 @@
+type: campaign
+id: C1166
+created: 2026-07-31
+modified: 2026-09-05
+version: '1.1'
+people: nokhchi
+first_seen: 1847-01-05
+last_seen: 1851-11-16
+contributors: []
+name:
+  ru: '«Смертный приговор» Малой Чечне: резня хутора Дубы, просеки, крепости, истребление населения и станицы на месте сожжённых аулов (1847-1851)'
+  en: '"Death sentence" for Lesser Chechnya: the massacre of Duba''s hamlet, forest clearings, fortresses, annihilation of the population and stanitsas on the sites of burned auls (1847-1851)'
+  uk: '«Смертний вирок» Малій Чечні: різанина хутора Дуби, просіки, фортеці, винищення населення і станиці на місці спалених аулів (1847-1851)'
+description:
+  ru: |-
+    В 1847-1851 годах империя уничтожала аулы Малой Чечни (равнинно-предгорной западной части Чечни) и вытесняла её население: прорубала в лесах просеки, ставила крепости, била по аулам короткими ударами с истреблением жителей.
+    Имя политике дал её участник, имперский офицер Полторацкий, записавший о зимней экспедиции 1847-1848 годов: устройством Сунженской линии «мы очень стеснили Малую Чечню», а постройкой крепостей «окончательно приводили в исполнение ее смертный приговор» - приговор Малой Чечне(Citation: 122). 6 марта 1847 года имперский отряд вырезал хутор наиба Дубы (наместника имама Шамиля, руководителя сопротивления горцев российскому завоеванию) - Полторацкий записал: «стар и млад, женщины, дети и грудные младенцы, утонули в своей крови от остро наточенных штыков, никого не помиловавших, не пощадивших»(Citation: 122); историк Н. И. Покровский даёт рамку: «русское командование не отказывалось и от отдельных коротких ударов с целью устрашения чеченцев...
+    Произошла форменная резня»(Citation: 129).
+    Итог подвёл генерал Слепцов рапортом от 4 октября 1850 года: «богатыя земли между Сунжею и Русскою дорогою достались въ безотчетное владѣніе правительства, такъ что вся плоскость Малой Чечни нынѣ совершенно очищена отъ враждебнаго населенія»(Citation: 107).
+    Имперский историк Волконский ретроспективно записал о Слепцове: он «истребил все неприятельское население, гнездившееся в ущельях от Бумута... до Рошни»(Citation: 119).
+    На месте сожжённых аулов империя ставила казачьи станицы - семь станиц в 1847 и 1851 годах(Citation: 125).
+  en: |-
+    In 1847-1851 the empire destroyed the auls of Lesser Chechnya (the lowland-piedmont western part of Chechnya) and forced out its population: it cut forest clearings (prosekas) through the woods, built fortresses, struck the auls with short blows annihilating their inhabitants.
+    The policy was named by its participant, imperial officer Poltoratsky, who wrote of the winter expedition of 1847-1848: by the building of the Sunzha Line "we greatly constricted Lesser Chechnya," and by the construction of fortresses "we were finally carrying out her death sentence" - the sentence on Lesser Chechnya(Citation: 122).
+    On 6 March 1847 an imperial detachment slaughtered the hamlet of naib Duba (a deputy of Imam Shamil, leader of the highlanders' resistance to the Russian conquest) - Poltoratsky wrote: "old and young, women, children and nursing infants, drowned in their own blood from the sharply honed bayonets that pardoned no one, spared no one"(Citation: 122); historian N. I. Pokrovsky gives the frame: "the Russian command did not renounce separate short strikes aimed at terrifying the Chechens...
+    What took place was an outright massacre"(Citation: 129).
+    General Sleptsov summed up the result in a report of 4 October 1850: "the rich lands between the Sunzha and the Russian road have passed into the unaccountable possession of the government, so that the entire plain of Lesser Chechnya is now completely cleared of the hostile population"(Citation: 107).
+    Imperial historian Volkonsky wrote of Sleptsov in retrospect: he "annihilated the entire enemy population nesting in the gorges from Bumut... to Roshnya"(Citation: 119).
+    On the sites of the burned auls the empire planted Cossack stanitsas - seven stanitsas in 1847 and 1851(Citation: 125).
+  uk: |-
+    У 1847-1851 роках імперія знищувала аули Малої Чечні (рівнинно-передгірної західної частини Чечні) і витісняла її населення: прорубувала в лісах просіки, ставила фортеці, била по аулах короткими ударами з винищенням жителів.
+    Ім'я політиці дав її учасник, імперський офіцер Полторацький, який записав про зимову експедицію 1847-1848 років: улаштуванням Сунженської лінії «ми дуже стиснули Малу Чечню», а побудовою фортець «остаточно виконували її смертний вирок» - вирок Малій Чечні(Citation: 122). 6 березня 1847 року імперський загін вирізав хутір наїба Дуби (намісника імама Шаміля, керівника опору горців російському завоюванню) - Полторацький записав: «старі й малі, жінки, діти й немовлята потонули у своїй крові від гостро наточених багнетів, що нікого не помилували, не пощадили»(Citation: 122); історик М. І. Покровський дає рамку: «російське командування не відмовлялося і від окремих коротких ударів з метою залякування чеченців...
+    Сталася справжня різанина»(Citation: 129).
+    Підсумок підбив генерал Слєпцов рапортом від 4 жовтня 1850 року: «багаті землі між Сунжею і Російською дорогою дісталися в беззвітне володіння уряду, так що вся площина Малої Чечні нині цілком очищена від ворожого населення»(Citation: 107).
+    Імперський історик Волконський ретроспективно записав про Слєпцова: він «винищив усе вороже населення, що гніздилося в ущелинах від Бумута... до Рошні»(Citation: 119).
+    На місці спалених аулів імперія ставила козачі станиці - сім станиць у 1847 і 1851 роках(Citation: 125).

@@ -1,0 +1,29 @@
+type: campaign
+id: C0012
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.3'
+people: ukrainians
+first_seen: 1708-10-01
+last_seen: 1708-11-02
+contributors: []
+name:
+  ru: Переход Мазепы на сторону Швеции и Батуринская резня (1708)
+  en: Mazepa's Defection to Sweden and the Baturyn Massacre (1708)
+  uk: Перехід Мазепи на бік Швеції та Батуринська різанина (1708)
+description:
+  ru: |-
+    В ответ на попытку автономии разорвать вассалитет, регулярная московская армия уничтожила гетманскую столицу Батурин.
+    Петр приказал: «а Батурин в знак изменникам (понеже боронились) другим на приклад сжечь весь»(Citation: 3).
+    Расправа сопровождалась террором против мирного населения: «Функ перебил больше тысячи людей в маленьком городке Терее (Терейской слободе) и сжег этот городок»(Citation: 170), а всего «в батуринской трагедии погибло около 15 тысяч украинцев, в том числе все женщины и дети»(Citation: 3).
+    Параллельно с резнёй шла пропаганда: «Разосланы царские письма в народ, где представлялось, что Мазепа передался шведам, чтобы отдать Украину под Польшу, завести в Украине унию, а благочестивую веру искоренить; что был он богоотступник, тайный католик»(Citation: 250).
+  en: |-
+    In response to the autonomy's attempt to break vassalage, the regular Muscovite army destroyed the hetman's capital, Baturyn.
+    Peter ordered: "and Baturyn, as a sign to the traitors (since they resisted), burn down entirely as an example to others"(Citation: 3).
+    The reprisal was accompanied by terror against the civilian population: "Funck slaughtered more than a thousand people in the small town of Terey (Tereyska sloboda) and burned the town down"(Citation: 170), and in total "about 15 thousand Ukrainians died in the Baturyn tragedy, including all the women and children"(Citation: 3).
+    The massacre ran in parallel with propaganda: "Tsarist letters were circulated among the people claiming that Mazepa had gone over to the Swedes in order to hand Ukraine to Poland, to introduce the Union in Ukraine and eradicate the pious faith; that he was an apostate, a secret Catholic"(Citation: 250).
+  uk: |-
+    У відповідь на спробу автономії розірвати васалітет регулярне московське військо знищило гетьманську столицю Батурин.
+    Петро наказав: «а Батурин на знак зрадникам (позаяк боронилися) іншим на приклад спалити весь»(Citation: 3).
+    Розправа супроводжувалася терором проти мирного населення: «Функ перебив понад тисячу людей у маленькому містечку Тереї (Терейській слободі) і спалив це містечко»(Citation: 170), а загалом «у батуринській трагедії загинуло близько 15 тисяч українців, у тому числі всі жінки й діти»(Citation: 3).
+    Паралельно з різаниною йшла пропаганда: «Розіслано царські листи між народ, де представлювано, що Мазепа передав ся до Шведів на те, аби Україну віддати під Польшу, завести на Україні унїю, а благочестиву віру викорінити; що був він богоодступник, тайний католик»(Citation: 250).

@@ -1,0 +1,29 @@
+type: procedure
+id: C1181.T0146
+created: 2026-09-05
+modified: 2026-09-05
+version: '1.0'
+technique: T0146
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут, что чиновники Оргкомитета, ведавшего возвращением чеченцев в республику, «зачастую вымогали взятки за пропуска, дающие право немедленно переселиться из Казахстана и Средней Азии на Кавказ»(Citation: 125).
+    Цену назвал главный агроном Министерства сельского хозяйства Казахстана Х. У. Арсанукаев в заявлении главе правительства СССР Булганину 27 августа 1957 года: «раздача пропусков была организована с тем расчетом, что ставленники членов Оргкомитета, да и сами они, изрядно наполнили свои чемоданы деньгами - один пропуск ими продавался в среднем за 2 тыс. руб.», - и передавал слова возвращающихся: «Во время нашего выселения Берия и то не нанес такой большой материальный ущерб нашему народу, как это нынче нанес нам Оргкомитет ЧИАССР [Чечено-Ингушской республики]»(Citation: 533).
+    Чиновник правительства РСФСР Белов ответил 4 октября 1957 года, что взятки при выдаче пропусков уже разбирало руководство большевистской партии («ЦК КПСС»), членам Оргкомитета Тонгиеву и Дукузову областной комитет партии «наложил на них строгое партийное взыскание», и предложил «ограничиться принятыми мерами»(Citation: 533).
+    Дома выселенных никто не возвращал: «Как ни дико, но чаще всего чеченцам приходилось выкупать свои дома и земли у новых владельцев»(Citation: 125) - за государственный кредит дома выехавших выкупали колхозы и совхозы республики: к октябрю 1958 года у них числилось 10 413 свободных «жилых домов... у выехавшего населения осетинской, аварской и других национальностей»(Citation: 533).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write that officials of the Organizing Committee, which was in charge of the Chechens' return to the republic, "frequently extorted bribes for passes giving the right to resettle immediately from Kazakhstan and Central Asia to the Caucasus"(Citation: 125).
+    The price was named by the chief agronomist of the Ministry of Agriculture of Kazakhstan Kh.
+    U. Arsanukayev in a statement to the head of the government of the USSR Bulganin on 27 August 1957: "the distribution of passes was organized with the calculation that the placemen of the members of the Organizing Committee, and they themselves, filled their suitcases handsomely with money - one pass was sold by them for 2 thousand rubles on average," - and he relayed the words of the returnees: "During our deportation even Beria did not inflict such great material damage on our people as the Organizing Committee of the ChIASSR [the Chechen-Ingush republic] has now inflicted on us"(Citation: 533).
+    An official of the government of the RSFSR, Belov, replied on 4 October 1957 that the bribes taken for passes had already been examined by the leadership of the Bolshevik party (the "Central Committee of the CPSU"), that on the Organizing Committee members Tongiev and Dukuzov the party's oblast committee "imposed a strict party reprimand," and proposed "to confine ourselves to the measures taken"(Citation: 533).
+    No one returned the houses of the deported: "Wild as it may seem, most often the Chechens had to buy back their houses and land from the new owners"(Citation: 125) - the collective and state farms of the republic bought up the houses of those who left with state credit: by October 1958 they had on their books 10,413 vacant "residential houses... from the departed population of Ossetian, Avar and other nationalities"(Citation: 533).
+  uk: |-
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть, що чиновники Оргкомітету, який відав поверненням чеченців до республіки, «часто вимагали хабарі за перепустки, що давали право негайно переселитися з Казахстану та Середньої Азії на Кавказ»(Citation: 125).
+    Ціну назвав головний агроном Міністерства сільського господарства Казахстану Х. У. Арсанукаєв у заяві главі уряду СРСР Булганіну 27 серпня 1957 року: «роздача перепусток була організована з тим розрахунком, щоб ставленики членів Оргкомітету, та й самі вони, добряче наповнили свої валізи грошима - одна перепустка продавалася ними в середньому за 2 тис. крб.», - і передавав слова тих, хто повертався: «Під час нашого виселення Берія і то не завдав такої великої матеріальної шкоди нашому народові, як це нині завдав нам Оргкомітет ЧІАРСР [Чечено-Інгуської республіки]»(Citation: 533).
+    Чиновник уряду РРФСР Бєлов відповів 4 жовтня 1957 року, що хабарі при видачі перепусток уже розбирало керівництво більшовицької партії («ЦК КПРС»), членам Оргкомітету Тонгієву і Дукузову обласний комітет партії «наклав на них сувору партійну догану», і запропонував «обмежитися вжитими заходами»(Citation: 533).
+    Будинків виселених ніхто не повертав: «Як не дико, але найчастіше чеченцям доводилося викуповувати свої будинки та землі в нових власників»(Citation: 125) - за державний кредит будинки тих, хто виїхав, викуповували колгоспи та радгоспи республіки: до жовтня 1958 року в них налічувалося 10 413 вільних «житлових будинків... у населення осетинської, аварської та інших національностей, що виїхало»(Citation: 533).

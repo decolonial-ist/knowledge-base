@@ -1,0 +1,14 @@
+type: procedure
+id: C0071.T0132
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique: T0132
+people: ukrainians
+actor: G0013
+tool: S0020
+contributors: []
+description:
+  ru: 'Целенаправленная переброска лояльных делегатов и политических агитаторов на Всеукраинский съезд советов в Киеве для перехвата повестки изнутри(Citation: 22).'
+  en: 'Deliberate transfer of loyal delegates and political agitators to the All-Ukrainian Congress of Soviets in Kyiv in order to hijack the agenda from within(Citation: 22).'
+  uk: 'Цілеспрямоване перекидання лояльних делегатів і політичних агітаторів на Всеукраїнський з''їзд рад у Києві для перехоплення порядку денного зсередини(Citation: 22).'

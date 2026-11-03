@@ -1,0 +1,38 @@
+type: campaign
+id: C0047
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.2'
+people: ukrainians
+first_seen: 1876-01-01
+last_seen: 1887-12-31
+contributors: []
+name:
+  ru: Эмский указ и тотальная цензура (1876–1887)
+  en: The Ems Ukaz and Total Censorship (1876–1887)
+  uk: Емський указ і тотальна цензура (1876–1887)
+description:
+  ru: |-
+    Полное вытеснение языка из культурной и литературной сферы.
+    Эмский указ предписал: «Не допускать ввоза в пределы империи… каких бы то ни было книг, издаваемых за границей на малорусском наречии», «Воспретить в империи печатание, на том же наречии, каких бы то ни было оригинальных произведений или переводов» и «Воспретить равномерно всякие на том же наречии сценические представления, тексты к нотам и публичные чтения»(Citation: 153).
+    Разрешенные словари дозволялись лишь «под условием печатания их с соблюдением общерусского правописания»(Citation: 181).
+
+    Через пять лет правила пересмотрели в Особом совещании - в него вошли Сольский, Островский, обер-прокурор Синода Победоносцев и Вяземский, - и министр внутренних дел Игнатьев доложил результат императору 3 октября 1881 года; соизволение последовало 8 октября(Citation: 386).
+    Публиковать пересмотр не планировали, и Игнатьев объяснил почему: «правила об употреблении малороссийского наречия, установленные в 1876 г. не были распубликованы, а потому и проектированные разъяснения не предполагается объявлять во всеобщее сведение»(Citation: 386).
+    Циркуляр ушёл генерал-губернатору Дрентельну 16 октября с грифом «Конфиденциально»(Citation: 386) - то есть людей судили по правилам, которых им не показывали.
+  en: |-
+    The complete displacement of the language from the cultural and literary sphere.
+    The Ems ukase prescribed: "Not to permit the import into the empire… of any books whatsoever published abroad in the Little Russian dialect," "To forbid in the empire the printing, in the same dialect, of any original works or translations whatsoever," and "To forbid likewise any stage performances, texts to musical scores, and public readings in the same dialect"(Citation: 153).
+    The permitted dictionaries were allowed only "on condition of their being printed in conformity with all-Russian orthography"(Citation: 181).
+
+    Five years later the rules were revised by a Special Conference - it included Solsky, Ostrovsky, the chief procurator of the Synod Pobedonostsev, and Viazemsky, - and the minister of internal affairs Ignatiev reported the result to the emperor on 3 October 1881; assent followed on 8 October(Citation: 386).
+    There were no plans to publish the revision, and Ignatiev explained why: "the rules on the use of the Little Russian dialect established in 1876 were not promulgated, and therefore it is not intended to make the projected clarifications known to the general public"(Citation: 386).
+    The circular went out to governor-general Drenteln on 16 October stamped "Confidential"(Citation: 386) - that is, people were judged by rules they were never shown.
+  uk: |-
+    Повне витіснення мови з культурної та літературної сфери.
+    Емський указ приписав: «Не допускати ввозу в межі імперії… будь-яких книг, видаваних за кордоном малоруським наріччям», «Заборонити в імперії друкування, тим самим наріччям, будь-яких оригінальних творів або перекладів» і «Заборонити так само всілякі тим самим наріччям сценічні вистави, тексти до нот і публічні читання»(Citation: 153).
+    Дозволені словники допускалися лише «за умови друкування їх з дотриманням загальноросійського правопису»(Citation: 181).
+
+    Через п'ять років правила переглянули в Особливій нараді - до неї увійшли Сольський, Островський, обер-прокурор Синоду Побєдоносцев і Вяземський, - і міністр внутрішніх справ Ігнатьєв доповів результат імператорові 3 жовтня 1881 року; соізволення надійшло 8 жовтня(Citation: 386).
+    Публікувати перегляд не планували, і Ігнатьєв пояснив чому: «правила про вживання малоросійського наріччя, встановлені 1876 р., не були оприлюднені, а тому й проєктовані роз'яснення не передбачається оголошувати до загального відома»(Citation: 386).
+    Циркуляр пішов генерал-губернаторові Дрентельну 16 жовтня з грифом «Конфіденційно»(Citation: 386) - тобто людей судили за правилами, яких їм не показували.

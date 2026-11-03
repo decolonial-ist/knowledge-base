@@ -1,0 +1,60 @@
+type: procedure
+id: C1178.T0036
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0036
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Колонизатор законодательно запретил чеченские суды и установил свою судебную систему.
+    До 1927 года шариатские суды - суды по исламскому праву - были судебной системой чеченского народа и разбирали все его дела: уголовные, земельные, трудовые и семейные.
+    Оккупационная власть сперва признала чеченский суд: в апреле 1921 года съезд Советов Горской республики - советской автономии, в которую империя тогда включила Чечню, - постановил признать шариатское судоустройство.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов называют это «явной (и временной) уступкой мусульманскому духовенству»(Citation: 125).
+    Уже через месяц, в мае 1921 года, руководство той же республики лишило шариатские суды бюджетных денег и поддержки своих органов(Citation: 125).
+    Но суды работать продолжали.
+    В декабре 1925 года руководство партии в Чечне взялось их дискредитировать, и, как пишут историки Я. З. Ахмадов и Э. Х. Хасмагомадов, эта попытка «полностью провалилась»(Citation: 125).
+    А в 1927 году «шариатские суды были волевым усилием ограничены в своих правах по прямому требованию прокурора Верховного Суда СССР...
+    Из их компетенции были изъяты уголовные, земельные дела и трудовые споры, прекращено государственное финансирование, а советским органам прямо запрещалось обращаться в шариатские суды»(Citation: 125).
+    На их место колонизатор ставил свои органы: историк К. Г. Дендиев пишет, что в Чеченской автономной области «вводится общесоюзная судебная система с последующей отменой шариатского судопроизводства»(Citation: 544).
+    Несмотря на это, Чеченцы предпочитали решать спорные дела в своих судах.
+    Председатель Северо-Кавказской краевой контрольной комиссии Ларин докладывал в феврале 1930 года, что в Урус-Мартановском округе «земельные споры разрешаются не в судебно-земельных комиссиях», а у аульских стариков, о влиянии которых он говорил: «в более или менее значительной степени еще не подорвано»(Citation: 537).
+    В декабре 1929 года восставшие в Беное учредили свой орган власти и отправили требования в Москву.
+    Четвёртым пунктом там стояло: «Упразднить «народные» суды, введенные по приказу сверху, и восстановить шариатские органы правосудия», пятым - «Прекратить вмешательство региональных руководителей и деятелей центральных органов власти во внутренние дела «Чеченской Автономной области» и восстановить полномочия политических решений Чеченского съезда»(Citation: 544).
+  en: |-
+    The colonizer outlawed the Chechen courts by legislative acts and installed its own judicial system.
+    Until 1927 the sharia courts - courts of Islamic law - were the judicial system of the Chechen people and heard all its cases: criminal, land, labor and family.
+    The occupation power at first recognized the Chechen court: in April 1921 the congress of Soviets of the Mountain Republic - the Soviet autonomy into which the empire had then included Chechnya - resolved to recognize the sharia court system.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov call this "a manifest (and temporary) concession to the Muslim clergy"(Citation: 125).
+    Just a month later, in May 1921, the leadership of that same republic stripped the sharia courts of budget money and of the support of its organs(Citation: 125).
+    But the courts went on working.
+    In December 1925 the party leadership in Chechnya set out to discredit them, and, as historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write, that attempt "failed completely"(Citation: 125).
+    And in 1927 "the sharia courts were curtailed in their rights by an act of will, at the direct demand of the procurator of the Supreme Court of the USSR...
+    Criminal and land cases and labor disputes were removed from their competence, state financing was terminated, and Soviet organs were directly forbidden to apply to the sharia courts"(Citation: 125).
+    In their place the colonizer installed its own organs: historian K. G. Dendiev writes that in the Chechen Autonomous Oblast "the all-Union judicial system is introduced, with the subsequent abolition of sharia legal proceedings"(Citation: 544).
+    Despite this, the Chechens preferred to settle disputed cases in their own courts.
+    Larin, chairman of the North Caucasus krai control commission, reported in February 1930 that in the Urus-Martan okrug "land disputes are resolved not in the judicial-land commissions" but before the aul elders, of whose influence he said: it is "still not undermined to any more or less significant degree"(Citation: 537).
+    In December 1929 the insurgents in Benoy established their own organ of power and sent their demands to Moscow.
+    The fourth point there read: "Abolish the 'people's' courts introduced by order from above, and restore the sharia organs of justice"; the fifth - "End the interference of regional leaders and figures of the central organs of power in the internal affairs of the 'Chechen Autonomous Oblast' and restore the powers of political decision of the Chechen Congress"(Citation: 544).
+  uk: |-
+    Колонізатор законодавчо заборонив чеченські суди і встановив свою судову систему.
+    До 1927 року шаріатські суди - суди за ісламським правом - були судовою системою чеченського народу і розбирали всі його справи: кримінальні, земельні, трудові й сімейні.
+    Окупаційна влада спершу визнала чеченський суд: у квітні 1921 року з'їзд Рад Гірської республіки - радянської автономії, до якої імперія тоді включила Чечню, - постановив визнати шаріатський судоустрій.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов називають це «явною (і тимчасовою) поступкою мусульманському духовенству»(Citation: 125).
+    Уже за місяць, у травні 1921 року, керівництво тієї ж республіки позбавило шаріатські суди бюджетних грошей і підтримки своїх органів(Citation: 125).
+    Але суди працювати продовжували.
+    У грудні 1925 року керівництво партії в Чечні взялося їх дискредитувати, і, як пишуть історики Я. З. Ахмадов і Е. Х. Хасмагомадов, ця спроба «повністю провалилася»(Citation: 125).
+    А в 1927 році «шаріатські суди були вольовим зусиллям обмежені у своїх правах на пряму вимогу прокурора Верховного Суду СРСР...
+    З їхньої компетенції були вилучені кримінальні, земельні справи і трудові спори, припинено державне фінансування, а радянським органам прямо заборонялося звертатися до шаріатських судів»(Citation: 125).
+    На їхнє місце колонізатор ставив свої органи: історик К. Г. Дендієв пише, що в Чеченській автономній області «запроваджується загальносоюзна судова система з подальшим скасуванням шаріатського судочинства»(Citation: 544).
+    Попри це, чеченці воліли вирішувати спірні справи у своїх судах.
+    Голова Північно-Кавказької крайової контрольної комісії Ларін доповідав у лютому 1930 року, що в Урус-Мартанівському окрузі «земельні спори вирішуються не в судово-земельних комісіях», а в аульських старих, про вплив яких він казав: «більшою чи меншою мірою ще не підірвано»(Citation: 537).
+    У грудні 1929 року повсталі в Беної заснували свій орган влади і надіслали вимоги до Москви.
+    Четвертим пунктом там стояло: «Скасувати «народні» суди, запроваджені за наказом згори, і відновити шаріатські органи правосуддя», п'ятим - «Припинити втручання регіональних керівників і діячів центральних органів влади у внутрішні справи «Чеченської Автономної області» і відновити повноваження політичних рішень Чеченського з'їзду»(Citation: 544).

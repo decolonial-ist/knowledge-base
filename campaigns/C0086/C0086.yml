@@ -1,0 +1,35 @@
+type: campaign
+id: C0086
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1953-05-01
+last_seen: 1954-12-31
+contributors: []
+name:
+  ru: Подавление восстаний в ГУЛАГе (1953–1954)
+  en: Suppression of the GULAG Uprisings (1953–1954)
+  uk: Придушення повстань у ГУЛАГу (1953–1954)
+description:
+  ru: |-
+    После смерти Сталина амнистия не коснулась политических заключенных, среди которых огромную долю составляли украинцы.
+    Это спровоцировало масштабные восстания в системе концлагерей (Воркутинское, Норильское, Кенгирское).
+    В Кенгире восставшие создали систему самоуправления, радио и мастерские по изготовлению оружия, требуя приезда комиссии ЦК КПСС.
+    При подавлении Норильского восстания «было убито около 100 человек и ранено более 200»(Citation: 201).
+    В Кенгир власти ввели армию: «в зону двинулись 1600 солдат, 3 пожарные машины, 5 танков.
+    Это было единственное в советской истории подавление лагерных восстаний с танками»(Citation: 214).
+  en: |-
+    After Stalin's death, the amnesty did not extend to political prisoners, among whom Ukrainians made up an enormous share.
+    This provoked large-scale uprisings within the concentration camp system (Vorkuta, Norilsk, Kengir).
+    In Kengir, the insurgents created a system of self-government, a radio station, and workshops for making weapons, demanding the arrival of a commission of the CPSU Central Committee.
+    During the suppression of the Norilsk uprising, "about 100 people were killed and more than 200 wounded"(Citation: 201).
+    In Kengir, the authorities sent in the army: "1,600 soldiers, 3 fire engines, and 5 tanks moved into the zone.
+    It was the only suppression of camp uprisings with tanks in Soviet history"(Citation: 214).
+  uk: |-
+    Після смерті Сталіна амністія не торкнулася політичних в'язнів, серед яких величезну частку становили Українці.
+    Це спровокувало масштабні повстання в системі концтаборів (Воркутинське, Норильське, Кенгірське).
+    У Кенгірі повсталі створили систему самоврядування, радіо та майстерні з виготовлення зброї, вимагаючи приїзду комісії ЦК КПРС.
+    Під час придушення Норильського повстання «було вбито близько 100 осіб і поранено понад 200»(Citation: 201).
+    У Кенгір влада ввела армію: «в зону рушили 1600 солдатів, 3 пожежні машини, 5 танків.
+    Це було єдине в радянській історії придушення табірних повстань з танками»(Citation: 214).

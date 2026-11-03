@@ -1,0 +1,122 @@
+type: procedure
+id: C0104.T0162.003
+created: 2026-08-16
+modified: 2026-08-29
+version: '1.0'
+technique: T0162.003
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1921 года воины Армии Украинской Народной Республики (УНР), отступившие за реку Збруч в ноябре 1920 года, собрали отряды и вернулись в Украину, чтобы поднять восстание против советской власти.
+    Этот рейд называют Вторым зимним походом(Citation: 186). 17 ноября 1921 года оккупационные войска под командованием Котовского окружили отряд УНР у села Малые Миньки на севере Житомирской области(Citation: 186).
+
+    Пленных Украинцев отвезли в соседнее село Базар и заперли в церкви.
+    Судить их приехала из Киева выездная комиссия ЧК - тайной полиции советской России, предшественницы современной ФСБ; коммунисты называли её «чрезвычайной пятёркой».
+    Её постановление, подписанное в Базаре 22 ноября 1921 года, вошло в сборник приказов войскам Киевского военного округа под номером 2578 от 26 ноября 1921 года(Citation: 500).
+
+    Ход боя российская комиссия описала так: «Зарублено в бою свыше 400 чел. и захвачено 537 чел., в том числе и раненые…
+    Всего перед чрезвычайной комиссией (пятеркой) предстало 443 чел., остальные умерли от ран до прихода комиссии или находились в тяжелом состоянии и оставлены до излечения»(Citation: 500).
+
+    Мотив казни комиссия записала в том же документе: «Руководствуясь велением революционной совести… и дабы предупредить подобные преступления… и показать всему капиталистическому миру и его наймитам, что власть Советов безпощадно карает всякого покушающегося нарушить ее мирную работу, Чрезвычайная Пятерка постановляет: 1.
+    Лиц, перечисленных в приложенном к сему списке, в числе 359 человек, как злостных, активных бандитов — РАЗСТРЕЛЯТЬ»(Citation: 500).
+
+    Судьбу остальных украинских пленных комиссия описала в том же документе: сорок одного человека высшего командного состава и гражданского управления она распорядилась направить на дополнительный допрос к следственным органам, а сорок два бывших красноармейца, попавших в плен годом раньше, - в особый отдел Киевского военного округа на проверку(Citation: 500).
+
+    Постановление подписали председатель комиссии Гарькавый, члены Лившиц, Иванов, Котовский и Фриновский, секретарь Литвинов.
+    Котовский, поставивший подпись под приговором, командовал теми самыми войсками, которые окружили отряд под Малыми Миньками.
+    Приказ по округу подписали командующий войсками округа Якир, член Революционного военного совета округа Затонский и начальник штаба округа Паука(Citation: 500).
+
+    Советское командование предложило пленным перейти на службу в Красную армию; не согласился никто(Citation: 25)(Citation: 185).
+    Расстрел колонизаторы провели на глазах у согнанных людей: накануне они заставили местных крестьян выкопать длинный ров в балке под Базаром, а к месту казни свезли жителей окрестных сёл(Citation: 500).
+    Перед рвом один из комиссаров ещё раз спросил, кто желает вступить в Красную армию.
+    Из строя ответили: «До вас служити не підемо!..
+    Стріляйте!..
+    Народ вам того не простить!» - «К вам служить не пойдём!..
+    Стреляйте!..
+    Народ вам этого не простит!»(Citation: 500).
+    Приговорённые обнялись и запели «Ще не вмерла Україна» - песню, которая через семьдесят лет, после провозглашения независимости Украины в 1991 году, стала государственным гимном Украины и остаётся им по сегодняшний день(Citation: 334).
+    Под пение гимна советские войска расстреляли всех 359 украинских пленных у села Базар(Citation: 500)(Citation: 25).
+    Свидетельства собрала связная украинского подполья, побывавшая в Малых Миньках и Базаре сразу после казни(Citation: 500).
+
+    Точный день казни в источниках расходится между 21 и 23 ноября(Citation: 500)(Citation: 185)(Citation: 186).
+
+    Поимённый список всех 359 расстрелянных напечатал сотник О. Шпилинский в Калише в 1932 году; позже список перепечатали вместе с текстом постановления(Citation: 500).
+
+    Историк Лариса Якубова пишет: «Эта казнь стала трагическим символом Украинской революции 1917—1921 гг.
+    Вооружённая борьба регулярной Армии УНР завершилась»(Citation: 25).
+  en: |-
+    In the autumn of 1921 the soldiers of the Army of the Ukrainian People's Republic (UNR), who had retreated across the Zbruch River in November 1920, formed detachments and returned to Ukraine to raise an uprising against Soviet rule.
+    This raid is known as the Second Winter Campaign(Citation: 186).
+    On November 17, 1921, occupation troops under the command of Kotovsky encircled the UNR detachment near the village of Mali Mynky in the north of Zhytomyr Oblast(Citation: 186).
+
+    The captured Ukrainians were taken to the neighbouring village of Bazar and locked in the church.
+    A visiting commission of the Cheka - the secret police of Soviet Russia, predecessor of today's FSB - arrived from Kyiv to judge them; the Communists called it the «Extraordinary Five».
+    Its resolution, signed in Bazar on November 22, 1921, was entered into the collection of orders to the troops of the Kyiv Military District as No. 2578 of November 26, 1921(Citation: 500).
+
+    The Russian commission described the battle as follows: «Over 400 men were cut down in the battle and 537 captured, including the wounded…
+    In all, 443 men appeared before the extraordinary commission (the Five); the rest died of their wounds before the commission arrived or were in grave condition and left until recovery»(Citation: 500).
+
+    The commission recorded the motive for the execution in the same document: «Guided by the dictates of revolutionary conscience… and in order to prevent similar crimes… and to show the entire capitalist world and its hirelings that the power of the Soviets mercilessly punishes anyone who attempts to disrupt its peaceful work, the Extraordinary Five resolves: 1.
+    The persons listed in the annex hereto, numbering 359, as malicious, active bandits - TO BE SHOT»(Citation: 500).
+
+    The fate of the remaining Ukrainian prisoners the commission set out in the same document: forty-one men of the senior command and civil administration it ordered sent for further interrogation by the investigative organs, and forty-two former Red Army soldiers, captured a year earlier, to the special department of the Kyiv Military District for screening(Citation: 500).
+
+    The resolution was signed by commission chairman Garkavy, members Livshits, Ivanov, Kotovsky and Frinovsky, and secretary Litvinov.
+    Kotovsky, who put his signature under the death sentence, commanded the very troops that had encircled the detachment at Mali Mynky.
+    The order for the district was signed by district commander Yakir, member of the district Revolutionary Military Council Zatonsky, and district chief of staff Pauka(Citation: 500).
+
+    The Soviet command offered the prisoners a transfer into the Red Army; not one agreed(Citation: 25)(Citation: 185).
+    The colonizers carried out the execution in front of people herded to watch: the day before, they forced local peasants to dig a long ditch in a ravine near Bazar, and brought in the residents of the surrounding villages to the execution site(Citation: 500).
+    Before the ditch one of the commissars asked once more who wished to join the Red Army.
+    From the ranks came the answer: «We will not serve you!..
+    Shoot!..
+    The people will not forgive you for this!»(Citation: 500).
+    The condemned embraced and sang «Shche ne vmerla Ukraina» - the song that seventy years later, after Ukraine declared independence in 1991, became the national anthem of Ukraine and remains so to this day(Citation: 334).
+    To the sound of the anthem, Soviet troops shot all 359 Ukrainian prisoners near the village of Bazar(Citation: 500)(Citation: 25).
+    The testimonies were gathered by a courier of the Ukrainian underground who visited Mali Mynky and Bazar immediately after the execution(Citation: 500).
+
+    The exact day of the execution differs between sources, ranging from November 21 to 23(Citation: 500)(Citation: 185)(Citation: 186).
+
+    The list of all 359 executed men, name by name, was published by Sotnyk O. Shpilinskyi in Kalisz in 1932; the list was later reprinted together with the text of the resolution(Citation: 500).
+
+    Historian Larysa Yakubova writes: «This execution became a tragic symbol of the Ukrainian Revolution of 1917—1921.
+    The armed struggle of the regular UNR Army came to an end»(Citation: 25).
+  uk: |-
+    Восени 1921 року воїни Армії Української Народної Республіки (УНР), які відступили за річку Збруч у листопаді 1920 року, зібрали загони й повернулися в Україну, щоб підняти повстання проти радянської влади.
+    Цей рейд називають Другим зимовим походом(Citation: 186). 17 листопада 1921 року окупаційні війська під командуванням Котовського оточили загін УНР біля села Малі Миньки на півночі Житомирської області(Citation: 186).
+
+    Полонених Українців відвезли до сусіднього села Базар і замкнули в церкві.
+    Судити їх приїхала з Києва виїзна комісія ЧК - таємної поліції радянської Росії, попередниці сучасної ФСБ; комуністи називали її «надзвичайною п'ятіркою».
+    Її постанова, підписана в Базарі 22 листопада 1921 року, увійшла до збірника наказів військам Київського військового округу під номером 2578 від 26 листопада 1921 року(Citation: 500).
+
+    Перебіг бою російська комісія описала так: «Зарубано в бою понад 400 чол. і захоплено 537 чол., у тому числі й поранених…
+    Усього перед надзвичайною комісією (п'ятіркою) постало 443 чол., решта померли від ран до прибуття комісії або перебували у тяжкому стані й залишені до одужання»(Citation: 500).
+
+    Мотив страти комісія записала в тому ж документі: «Керуючись велінням революційної совісті… і щоб запобігти подібним злочинам… і показати всьому капіталістичному світові та його наймитам, що влада Рад безпощадно карає кожного, хто зазіхне порушити її мирну працю, Надзвичайна П'ятірка постановляє: 1.
+    Осіб, перелічених у доданому до цього списку, в числі 359 осіб, як злісних, активних бандитів - РОЗСТРІЛЯТИ»(Citation: 500).
+
+    Долю решти українських полонених комісія описала в тому ж документі: сорок одну особу вищого командного складу і цивільного управління вона розпорядилася направити на додатковий допит слідчим органам, а сорок два колишні червоноармійці, які потрапили в полон роком раніше, - до особливого відділу Київського військового округу на перевірку(Citation: 500).
+
+    Постанову підписали голова комісії Гарькавий, члени Лівшиць, Іванов, Котовський і Фріновський, секретар Литвинов.
+    Котовський, який поставив підпис під вироком, командував тими самими військами, що оточили загін під Малими Миньками.
+    Наказ по округу підписали командувач військ округу Якір, член Революційної військової ради округу Затонський і начальник штабу округу Паука(Citation: 500).
+
+    Радянське командування запропонувало полоненим перейти на службу до Червоної армії; не погодився ніхто(Citation: 25)(Citation: 185).
+    Розстріл колонізатори провели на очах у зігнаних людей: напередодні вони змусили місцевих селян викопати довгий рів у балці під Базаром, а до місця страти звезли мешканців навколишніх сіл(Citation: 500).
+    Перед ровом один із комісарів ще раз спитав, хто бажає вступити до Червоної армії.
+    З лав відповіли: «До вас служити не підемо!..
+    Стріляйте!..
+    Народ вам того не простить!»(Citation: 500).
+    Засуджені обнялися й заспівали «Ще не вмерла Україна» - пісню, яка через сімдесят років, після проголошення незалежності України 1991 року, стала державним гімном України і залишається ним донині(Citation: 334).
+    Під спів гімну радянські війська розстріляли всіх 359 українських полонених біля села Базар(Citation: 500)(Citation: 25).
+    Свідчення зібрала зв'язкова українського підпілля, яка побувала в Малих Миньках і Базарі одразу після страти(Citation: 500).
+
+    Точний день страти в джерелах розходиться між 21 і 23 листопада(Citation: 500)(Citation: 185)(Citation: 186).
+
+    Поіменний список усіх 359 розстріляних надрукував сотник О. Шпілінський у Каліші 1932 року; пізніше список передрукували разом із текстом постанови(Citation: 500).
+
+    Історик Лариса Якубова пише: «Ця страта стала трагічним символом Української революції 1917—1921 рр.
+    Збройна боротьба регулярної Армії УНР завершилася»(Citation: 25).

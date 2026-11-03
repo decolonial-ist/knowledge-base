@@ -1,0 +1,20 @@
+type: procedure
+id: C0074.T0101
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0101
+people: ukrainians
+actor: G0014
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    18 ноября 1919 года городская администрация белых в Николаеве распорядилась о предварительной цензуре печатных изданий(Citation: 586).
+    Так же было в Киеве: приказ начальника администрации белых генерала Май-Маевского подчинил все издания военной цензуре - выходить только с разрешения губернатора, каждый номер представлять прокурору(Citation: 588).
+  en: |-
+    On 18 November 1919 the Whites' city administration in Mykolaiv ordered preliminary censorship of printed publications(Citation: 586).
+    So it was in Kyiv as well: an order of general Mai-Maevsky, head of the Whites' administration, subjected all publications to military censorship - publishing only with the governor's permission, with every issue presented to the prosecutor(Citation: 588).
+  uk: |-
+    18 листопада 1919 року міська адміністрація білих у Миколаєві розпорядилася про попередню цензуру друкованих видань(Citation: 586).
+    Так само було в Києві: наказ начальника адміністрації білих генерала Май-Маєвського підпорядкував усі видання військовій цензурі - виходити лише з дозволу губернатора, кожне число подавати прокуророві(Citation: 588).

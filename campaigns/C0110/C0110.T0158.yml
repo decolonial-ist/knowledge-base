@@ -1,0 +1,39 @@
+type: procedure
+id: C0110.T0158
+created: 2026-08-06
+modified: 2026-08-31
+version: '1.0'
+technique: T0158
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Российская империя поставила в Киеве крупнейший во всей империи памятник Александру II.
+    Благодарность на пьедестале высказывала не Украина и не Киев, а «Юго-Западный край» - так империя официально называла украинские земли к западу от Днепра(Citation: 408).
+    Памятник работы итальянского скульптора Ксименеса открыли 30 августа 1911 года на Царской площади, между входом в Купеческий сад и зданием Купеческого собрания; открытие приурочили к пятидесятилетию отмены крепостного права и провели в присутствии императора Николая II, болгарского царя Фердинанда и премьер-министра Столыпина, которого через два дня, вечером 1 сентября, смертельно ранили в киевском театре(Citation: 411).
+    Деньги на памятник собирали всероссийской подпиской, 200 тысяч рублей(Citation: 407).
+    Центральный пьедестал нёс герб империи, двуглавого орла, и надпись «Царю-освободителю благодарный Юго-Западный край. 1911 год», на нижнем пьедестале стоял барельеф с крестьянами, благодарящими за отмену крепостного права(Citation: 407).
+    Край составляли Киевская, Волынская и Подольская губернии(Citation: 408), которые после подавления польского восстания 1830-1831 годов свели в Киевское генерал-губернаторство (1832-1914), и задача его, по Энциклопедии истории Украины, состояла «в ликвидации политических, социоэтнических и культурных отличий края и усилении русификации его элиты - шляхты»(Citation: 194).
+    Памятник встал в ряд: киевский Николай I (1896), Александр III (1909), Александр II (1911), Столыпин (1912) - историк Игорь Гирич называет это предреволюционным памятниковым бумом и добавляет, что сооружением памятника княгине Ольге и планировавшимися следующими монументами занимался киевский отдел Императорского русского военно-исторического общества, на девять десятых состоявший из офицеров Киевского военного округа, а его секретарь полковник Стелецкий запиской генерал-губернатору от 7 апреля 1910 года расписывал очередь будущих скульптур - от Ольги и Олега до Нестора-летописца(Citation: 409).
+    Итог тех же лет Гирич подводит так: украинцы заявили за это время один памятник, Шевченко, и поставить его им не дали, а их противники успели поставить «по меньшей мере полдесятка монументов, утверждавших русскость и отрицавших украинскую национальную идею»(Citation: 409).
+  en: |-
+    The Russian Empire put up in Kyiv the largest monument to Alexander II in the entire empire.
+    The gratitude on the pedestal was voiced not by Ukraine and not by Kyiv but by the "Southwestern Krai" - the empire's official name for the Ukrainian lands west of the Dnipro(Citation: 408).
+    The monument, by the Italian sculptor Ximenes, was unveiled on 30 August 1911 on Tsarskaya Square, between the entrance to the Merchants' Garden and the building of the Merchants' Assembly; the unveiling was timed to the fiftieth anniversary of the abolition of serfdom and held in the presence of emperor Nicholas II, the Bulgarian tsar Ferdinand and prime minister Stolypin, who two days later, on the evening of 1 September, was mortally wounded in the Kyiv theater(Citation: 411).
+    The money for the monument was raised by an all-Russian subscription, 200 thousand rubles(Citation: 407).
+    The central pedestal bore the coat of arms of the empire, the double-headed eagle, and the inscription "To the Tsar-Liberator, the grateful Southwestern Krai.
+    The year 1911"; on the lower pedestal was a bas-relief of peasants giving thanks for the abolition of serfdom(Citation: 407).
+    The krai comprised the Kyiv, Volyn and Podillia governorates(Citation: 408), which after the suppression of the Polish uprising of 1830-1831 were merged into the Kyiv governorate-general (1832-1914), whose task, according to the Encyclopedia of the History of Ukraine, "consisted in the liquidation of the political, socio-ethnic and cultural distinctions of the krai and the intensification of the russification of its elite - the szlachta"(Citation: 194).
+    The monument joined a row: the Kyiv Nicholas I (1896), Alexander III (1909), Alexander II (1911), Stolypin (1912) - the historian Ihor Hyrych calls this the pre-revolutionary monument boom and adds that the construction of the monument to princess Olha and the planned subsequent monuments were handled by the Kyiv section of the Imperial Russian Military-Historical Society, nine-tenths of which consisted of officers of the Kyiv military district, and its secretary, colonel Steletsky, in a memorandum to the governor-general of 7 April 1910, laid out the queue of future sculptures - from Olha and Oleh to Nestor the chronicler(Citation: 409).
+    Hyrych sums up the outcome of those same years thus: in that time the Ukrainians put forward one monument, to Shevchenko, and were not allowed to build it, while their opponents managed to put up "at least half a dozen monuments asserting Russianness and negating the Ukrainian national idea"(Citation: 409).
+  uk: |-
+    Російська імперія поставила в Києві найбільший в усій імперії пам'ятник Олександрові II.
+    Вдячність на п'єдесталі висловлювала не Україна і не Київ, а «Південно-Західний край» - так імперія офіційно називала українські землі на захід від Дніпра(Citation: 408).
+    Пам'ятник роботи італійського скульптора Ксименеса відкрили 30 серпня 1911 року на Царській площі, між входом до Купецького саду і будинком Купецького зібрання; відкриття приурочили до п'ятдесятиріччя скасування кріпацтва і провели в присутності імператора Миколи II, болгарського царя Фердинанда і прем'єр-міністра Столипіна, якого через два дні, увечері 1 вересня, смертельно поранили в київському театрі(Citation: 411).
+    Гроші на пам'ятник збирали всеросійською підпискою, 200 тисяч рублів(Citation: 407).
+    Центральний п'єдестал ніс герб імперії, двоголового орла, і напис «Царю-освободителю благодарный Юго-Западный край. 1911 год», на нижньому п'єдесталі стояв барельєф із селянами, що дякують за скасування кріпацтва(Citation: 407).
+    Край складали Київська, Волинська і Подільська губернії(Citation: 408), які після придушення польського повстання 1830-1831 років звели в Київське генерал-губернаторство (1832-1914), і завдання його, за Енциклопедією історії України, «полягало в ліквідації політ[ичних], соціоетнічних та культ[урних] відмінностей краю та посиленні русифікації його еліти — шляхти»(Citation: 194).
+    Пам'ятник став у ряд: київський Микола I (1896), Олександр III (1909), Олександр II (1911), Столипін (1912) - історик Ігор Гирич називає це передреволюційним пам'ятниковим бумом і додає, що спорудженням пам'ятника княгині Ользі й планованими наступними монументами опікувався київський відділ Імператорського російського воєнно-історичного товариства, що на дев'ять десятих складався з офіцерів Київського військового округу, а його секретар полковник Стелецький запискою генерал-губернаторові від 7 квітня 1910 року розписував чергу майбутніх скульптур - від Ольги та Олега до Нестора-літописця(Citation: 409).
+    Підсумок тих само років Гирич підводить так: українці заявили за цей час один пам'ятник, Шевченків, і поставити його їм не дали, а їхні супротивники встигли звести «принаймні півдесятка монументів, що стверджували російськість і заперечували українську національну ідею»(Citation: 409).

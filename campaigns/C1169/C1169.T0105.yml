@@ -1,0 +1,35 @@
+type: procedure
+id: C1169.T0105
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0105
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В июне 1860 года войска разорили покинутый жителями аул Джумсой: по рапорту командующего войсками Терской области наместнику от июля 1860 года, он «разоренъ до основанія и истреблена часть посѣвовъ»(Citation: 109).
+    Итог операции Кундухова зимой 1860-1861 годов подведён его собственным докладом, который приводит историк З. Х. Ибрагимова: «Все постройки, как в аулах, так и хуторах, сожжены до основания... сено не только в аулах, но даже на самых вершинах гор истреблено огнём, чему жители сами удивлялись, увидев, что в неприступных трущобах и на высотах сено горело»; генерал Баженов доложил 29 ноября 1860 года: «Нынче с термоевцами окончил.
+    Все аулы уничтожены.
+    В Эзи и места нельзя узнать, как хорошо разобрали»(Citation: 251).
+    Всего, по историкам Я. З. Ахмадову и Э. Х. Хасмагомадову, «разрушенными оказались 15 селений и множество горных хуторов»(Citation: 125); историк Д. А. Хожаев пишет: «около 15 аулов, причастных к нему [восстанию], уничтожено...
+    Беной вновь был сожжен»(Citation: 95).
+  en: |-
+    In June 1860 the troops devastated the aul of Dzhumsoy, abandoned by its inhabitants: according to a July 1860 report from the commander of the troops of the Terek oblast to the Viceroy, it was "devastated to the ground, and part of the crops annihilated"(Citation: 109).
+    The outcome of Kundukhov's operation in the winter of 1860-1861 is summed up in his own report, quoted by the historian Z. Kh.
+    Ibragimova: "All the buildings, in the auls as well as in the khutors, have been burned to the ground... the hay not only in the auls but even on the very summits of the mountains has been annihilated by fire, at which the inhabitants themselves marveled, seeing that in inaccessible thickets and on the heights the hay was burning"; General Bazhenov reported on 29 November 1860: "Today I have finished with the Termoy people.
+    All the auls are destroyed.
+    In Ezi you cannot even recognize the place, so thoroughly has it been taken apart"(Citation: 251).
+    In all, according to the historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov, "15 villages and a multitude of mountain khutors were left destroyed"(Citation: 125); the historian D. A. Khozhayev writes: "about 15 auls implicated in it [the uprising] were destroyed...
+    Benoy was burned once again"(Citation: 95).
+  uk: |-
+    У червні 1860 року війська розорили покинутий жителями аул Джумсой: за рапортом командувача військ Терської області намісникові від липня 1860 року, він «зруйнований дощенту, і винищено частину посівів»(Citation: 109).
+    Підсумок операції Кундухова взимку 1860-1861 років підбито його власною доповіддю, яку наводить історик З. Х. Ібрагімова: «Усі будівлі, як в аулах, так і на хуторах, спалені дощенту... сіно не лише в аулах, а навіть на самих вершинах гір винищено вогнем, чому жителі самі дивувалися, побачивши, що в неприступних хащах і на висотах сіно горіло»; генерал Баженов доповів 29 листопада 1860 року: «Нині з термоєвцями закінчив.
+    Усі аули знищені.
+    В Езі й місця не впізнати, як добре розібрали»(Citation: 251).
+    Загалом, за істориками Я. З. Ахмадовим і Е. Х. Хасмагомадовим, «зруйнованими виявилися 15 селищ і безліч гірських хуторів»(Citation: 125); історик Д. А. Хожаєв пише: «близько 15 аулів, причетних до нього [повстання], знищено...
+    Беной знову був спалений»(Citation: 95).

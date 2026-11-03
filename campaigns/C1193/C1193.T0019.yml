@@ -1,0 +1,208 @@
+type: procedure
+id: C1193.T0019
+created: 2026-10-24
+modified: 2026-10-31
+version: '1.0'
+technique: T0019
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты захватывали города и сёла Ичкерии.
+
+    26 ноября 1994 года защитники Грозного, столицы Ичкерии, разбили российских танкистов, которые штурмовали город под вывеской марионеточной оппозиции (подробнее: «Организация переворота»)(Citation: 1156).
+    К 29 ноября российская армия собрала для нападения на Ичкерию около 140 боевых самолётов. 29 ноября российские лётчики на шести самолётах Су-27 и четырёх вертолётах атаковали президентский дворец в Грозном(Citation: 1060). 1 декабря экипажи российских штурмовиков Су-25 уничтожили на аэродромах Ичкерии всю её авиацию(Citation: 718). 9 декабря президент России Ельцин указом № 2166 приказал правительству применить против Вооружённых сил Ичкерии все средства российского государства, в том числе армию(Citation: 650).
+
+    За день до переговоров России и Ичкерии, назначенных на 12 декабря, российская армия и внутренние войска МВД (предшественники современной Росгвардии) начали наступление тремя колоннами из подконтрольных России соседних республик (подробнее: «Переговоры как прикрытие нападения»)(Citation: 27).
+    Источники расходятся: одни называют в этих колоннах 14 972 человека, другие - почти 24 тысячи(Citation: 2380)(Citation: 2381).
+    Министерство обороны России оценивало Вооружённые силы Ичкерии в 11-12 тысяч бойцов, МВД России - до 15 тысяч, и оба ведомства насчитывали ещё 30-40 тысяч чеченских добровольцев(Citation: 2382).
+    Северная колонна наступала из Моздока, а западная - из Владикавказа через Ингушетию.
+    Восточная колонна выступила от Кизляра, города в Дагестане(Citation: 27)(Citation: 651). 11 декабря безоружные чеченцы Хасавюртовского района Дагестана окружили бронетранспортёры восточной колонны и не пропустили оккупационные войска(Citation: 921)(Citation: 27). 12 декабря у села Новый Шарой на западе Ичкерии тысячи чеченцев встали на дороге перед западной колонной и на неделю задержали её у границы с Ингушетией(Citation: 27)(Citation: 26).
+    В этот день армия Ичкерии остановила северную колонну у посёлка Долинский, примерно в десяти километрах к северо-западу от Грозного(Citation: 27).
+
+    Перед штурмом российские войска окружали города и сёла, обстреливали их из артиллерии, а российская авиация их бомбила (подробнее: «Неизбирательные нападения»)(Citation: 27).
+    Оккупанты требовали от чеченцев в окружённых сёлах выгнать защитников и сдать оружие (подробнее: «Коллективные наказания»)(Citation: 27).
+    В захваченных городах российские войска размещали комендатуры и гарнизоны.
+    В Грозном Россия поставила подконтрольное «Правительство национального возрождения» (подробнее: «Марионеточное правительство»)(Citation: 27)(Citation: 1127).
+
+    С 18 декабря 1994 года российская авиация бомбила жилые кварталы Грозного. 19 декабря части российской воздушно-десантной дивизии из Пскова под командованием генерала Бабичева вышли к западным окраинам города(Citation: 27). 31 декабря российская армия штурмовала Грозный с четырёх сторон.
+    Защитники города разгромили колонны оккупантов и захватили в плен больше ста российских военных.
+    Правозащитники «Мемориала» пишут о войсках генерала Пуликовского, которые наступали с северо-запада: «131-я (Майкопская) отдельная мотострелковая бригада и 81-й (Самарский) мотострелковый полк были практически полностью разгромлены»(Citation: 27).
+
+    7-9 января 1995 года оккупанты снова штурмовали Грозный, с севера и запада.
+    Зелимхан Яндарбиев, вице-президент Ичкерии, который вместе с Асланом Масхадовым руководил обороной президентского дворца, писал в воспоминаниях о вечере 18 января: «Решали один вопрос: остаться и умереть, что было равнозначно гибели Главного штаба, или оставить Президентский дворец и на той стороне Сунжи [реки в центре Грозного] развернуть новый штаб»(Citation: 713).
+    В ночь на 19 января российские лётчики сбросили на дворец бомбы, которые пробивают бетон, и защитники были вынуждены уйти. 19 января российские солдаты захватили развалины дворца.
+    Оккупанты штурмовали остальные районы Грозного ещё полтора месяца.
+    К началу февраля 1995 года Россия довела число своих войск в Ичкерии до 70 тысяч человек(Citation: 2382).
+    Дольше всего защитники сражались в Черноречье на юге города, и 6 марта 1995 года внутренние войска МВД России захватили этот район(Citation: 27).
+
+    23 марта 1995 года оккупанты захватили Аргун, город к востоку от Грозного(Citation: 27). 24 марта российские войска ворвались в Ачхой-Мартан, районный центр на западе Ичкерии, но бойцы армии Ичкерии контратакой освободили село(Citation: 1127). 28 и 29 марта российская армия окружила Гудермес, второй по величине город Ичкерии, и Шали, город к юго-востоку от Грозного.
+    Российские командиры требовали от горожан уговорить защитников уйти, и 30-31 марта, когда бойцы армии Ичкерии были вынуждены покинуть оба города, оккупанты захватили их без боя(Citation: 27). 12 мая российская армия начала наступление в горы на юге Ичкерии. 3 июня оккупанты захватили Ведено, районный центр к юго-востоку от Грозного, а 12 июня - Шатой к югу от столицы и Ножай-Юрт на юго-востоке(Citation: 1127)(Citation: 27). 18 июня 1995 года председатель правительства России Черномырдин договорился о прекращении боёв с Шамилем Басаевым, командиром бойцов Вооружённых сил Ичкерии, которые захватили заложников в Будённовске, подконтрольном России городе к северо-западу от республики.
+    В тот вечер оккупационные войска остановили наступление (подробнее: «Фиктивные договоры»)(Citation: 27).
+    В конце июля под оккупацией российской армии были Грозный, Аргун, Гудермес, Шали и горные районные центры, а в большинстве сёл российских войск не было(Citation: 27)(Citation: 1127). 14 декабря 1995 года Вооружённые силы Ичкерии освободили Гудермес, чтобы сорвать «голосование» за главу марионеточного правительства. 19-20 декабря, после шести дней обстрелов и бомбёжек жилых кварталов, оккупанты снова захватили город(Citation: 27)(Citation: 656).
+
+    17-20 февраля 1996 года российская армия обстреливала и штурмом захватила Новогрозненский, посёлок к востоку от Гудермеса(Citation: 27). 3 марта российские войска ворвались в Серноводск, село на западе Ичкерии, в день, на который их командиры назначили подписание мира с руководителями села, и защитники выбили нападавших.
+    К 9 марта, после шести дней обстрелов, защитники Серноводска были вынуждены уйти, и оккупанты захватили село(Citation: 27). 6 марта Вооружённые силы Ичкерии под командованием Руслана Гелаева атаковали оккупантов в Грозном и освободили большую часть города.
+    Армия Ичкерии не пыталась удержать город и 8 марта ушла из него(Citation: 27)(Citation: 1127).
+    В ночь на 14 марта российские войска окружили Самашки, село на западе Ичкерии, и 15 марта начали штурм с танками, артиллерией, вертолётами и самолётами. 19 марта бойцы армии Ичкерии под командованием Хизира Хачукаева израсходовали боеприпасы и были вынуждены уйти(Citation: 27). 4 апреля, после шести дней бомбёжки, российские солдаты ворвались в Гойское, село к юго-западу от Грозного, но защитники под командованием Ахмеда Закаева отбили штурм. 7 мая оккупанты под командованием генерала Шаманова захватили Гойское(Citation: 27). 24 мая, после трёх месяцев штурмов, обстрелов и бомбёжек, российская армия захватила Бамут, село на западе Ичкерии у границы с подконтрольной России Ингушетией, а защитники под командованием Руслана Хайхороева вышли из окружения(Citation: 27).
+
+    9 июля 1996 года, через шесть дней после выборов президента России, оккупанты нарушили договорённость о прекращении огня, подписанную с Ичкерией 27 мая, и начали новое наступление (подробнее: «Ложное перемирие»)(Citation: 27).
+    В этот день российские части под командованием генерала Тихомирова, командующего оккупационными войсками, окружили и обстреляли Гехи, село к юго-западу от Грозного, где стояло подразделение Вооружённых сил Ичкерии.
+    К 12 июля оккупанты убили командира подразделения Доку Махаева и разрушили больше трети села(Citation: 1364). 15 июля оккупанты захватили Махкеты, горное село Веденского района на юго-востоке Ичкерии, которое окружили пятью днями раньше(Citation: 27)(Citation: 1127).
+
+    Российские правозащитники из «Мемориала» пишут, что против Ичкерии воевала российская армия с авиацией, тяжёлой артиллерией и танками, хотя президент и правительство России выдавали войну за полицейское разоружение(Citation: 27). 19 января 1995 года Европейский парламент в резолюции осудил применение Россией армии против Ичкерии(Citation: 735).
+    Парламентская ассамблея Организации по безопасности и сотрудничеству в Европе в декларации 8 июля 1995 года осудила войну России в Ичкерии как грубое нарушение международного права(Citation: 1149).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов.
+    За три дня боёв армия Ичкерии отбила центр и около 80 процентов города(Citation: 1127).
+    Защитники вынудили Россию сесть за стол переговоров. 22 августа 1996 года в селе Новые Атаги на юге республики Россия и Ичкерия подписали соглашение об отводе российских войск из Грозного и совместном контроле над отдельными районами города(Citation: 27)(Citation: 1272). 31 августа 1996 года генерал Лебедь, секретарь Совета безопасности России, и Аслан Масхадов, начальник Главного штаба Вооружённых сил Ичкерии, подписали в Хасавюрте, городе в подконтрольном России Дагестане, совместное заявление.
+    Россия признала в нём недопустимым решать спорные вопросы силой или угрозой силы (подробнее: «Фиктивные договоры»)(Citation: 661).
+
+    К 31 августа 1996 года оккупационные войска ушли из Грозного на свои главные базы в Ханкале на восточной окраине города и в аэропорту «Северный» к северу от него.
+    В городе остались российские милиционеры и солдаты внутренних войск МВД.
+    Россия вывела войска из Ведено, Шатоя, Ножай-Юрта и Курчалоя, сёл на юге и востоке Ичкерии.
+    Российские части ещё стояли в Шали, у Бамута и в Наурском и Шелковском районах на севере Ичкерии(Citation: 1127).
+    В этих двух районах за рекой Терек боёв за всю войну не было. 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    The occupiers captured the towns and villages of Ichkeria.
+
+    On 26 November 1994 the defenders of Grozny, the capital of Ichkeria, routed the Russian tank crews who were storming the city under the banner of the puppet opposition (see: "Staging a Coup")(Citation: 1156).
+    By 29 November the Russian army had gathered about 140 combat aircraft for the attack on Ichkeria.
+    On 29 November Russian pilots in six Su-27 aircraft and four helicopters attacked the presidential palace in Grozny(Citation: 1060).
+    On 1 December the crews of Russian Su-25 attack aircraft destroyed all of Ichkeria's aircraft on its airfields(Citation: 718).
+    On 9 December Russian President Yeltsin, by Decree No. 2166, ordered the government to use all means of the Russian state, including the army, against the Armed Forces of Ichkeria(Citation: 650).
+
+    A day before the talks between Russia and Ichkeria scheduled for 12 December, the Russian army and the Internal Troops of the MVD (predecessors of today's Rosgvardia) began an offensive in three columns from the neighboring Russian-controlled republics (see: "Negotiations as Cover for an Attack")(Citation: 27).
+    Sources differ: some put the strength of these columns at 14,972 men, others at almost 24,000(Citation: 2380)(Citation: 2381).
+    The Russian Ministry of Defense estimated the Armed Forces of Ichkeria at 11,000-12,000 fighters, the Russian MVD at up to 15,000, and both ministries counted another 30,000-40,000 Chechen volunteers(Citation: 2382).
+    The northern column advanced from Mozdok, and the western column from Vladikavkaz through Ingushetia.
+    The eastern column set out from Kizlyar, a town in Dagestan(Citation: 27)(Citation: 651).
+    On 11 December unarmed Chechens of the Khasavyurt district of Dagestan surrounded the armored personnel carriers of the eastern column and did not let the occupation troops through(Citation: 921)(Citation: 27).
+    On 12 December near the village of Novy Sharoy in the west of Ichkeria, thousands of Chechens stood on the road in front of the western column and held it up for a week at the border with Ingushetia(Citation: 27)(Citation: 26).
+    On that day the army of Ichkeria stopped the northern column near the settlement of Dolinsky, about ten kilometers northwest of Grozny(Citation: 27).
+
+    Before a storming, Russian troops surrounded towns and villages and shelled them with artillery, while Russian aircraft bombed them (see: "Indiscriminate Attacks")(Citation: 27).
+    The occupiers demanded that the Chechens in the surrounded villages expel the defenders and hand over their weapons (see: "Collective Punishment")(Citation: 27).
+    In the captured towns Russian troops set up commandant's offices and garrisons.
+    In Grozny Russia installed the Russian-controlled "Government of National Revival" (see: "Puppet Government")(Citation: 27)(Citation: 1127).
+
+    From 18 December 1994 Russian aircraft bombed the residential districts of Grozny.
+    On 19 December units of the Russian airborne division from Pskov under the command of General Babichev reached the western outskirts of the city(Citation: 27).
+    On 31 December the Russian army stormed Grozny from four sides.
+    The defenders of the city routed the occupiers' columns and took more than a hundred Russian servicemen prisoner.
+    The human rights defenders of Memorial write about the troops of General Pulikovsky, who were advancing from the northwest: "The 131st (Maikop) Separate Motorized Rifle Brigade and the 81st (Samara) Motorized Rifle Regiment were almost completely routed"(Citation: 27).
+
+    On 7-9 January 1995 the occupiers stormed Grozny again, from the north and west.
+    Zelimkhan Yandarbiyev, the vice president of Ichkeria, who together with Aslan Maskhadov led the defense of the presidential palace, wrote in his memoirs about the evening of 18 January: "We were deciding one question: to stay and die, which was tantamount to the destruction of the Main Staff, or to leave the Presidential Palace and set up a new headquarters on the other side of the Sunzha [the river in the center of Grozny]"(Citation: 713).
+    On the night of 19 January Russian pilots dropped concrete-piercing bombs on the palace, and the defenders were forced to leave.
+    On 19 January Russian soldiers captured the ruins of the palace.
+    The occupiers stormed the remaining districts of Grozny for another month and a half.
+    By early February 1995 Russia had brought the number of its troops in Ichkeria up to 70,000 men(Citation: 2382).
+    The defenders fought longest in Chernorechye in the south of the city, and on 6 March 1995 the Internal Troops of the Russian MVD captured this district(Citation: 27).
+
+    On 23 March 1995 the occupiers captured Argun, a town to the east of Grozny(Citation: 27).
+    On 24 March Russian troops broke into Achkhoy-Martan, a district center in the west of Ichkeria, but fighters of the army of Ichkeria liberated the village with a counterattack(Citation: 1127).
+    On 28 and 29 March the Russian army surrounded Gudermes, the second-largest town of Ichkeria, and Shali, a town to the southeast of Grozny.
+    Russian commanders demanded that the townspeople persuade the defenders to leave, and on 30-31 March, when the fighters of the army of Ichkeria were forced to leave both towns, the occupiers captured them without a fight(Citation: 27).
+    On 12 May the Russian army began an offensive into the mountains in the south of Ichkeria.
+    On 3 June the occupiers captured Vedeno, a district center to the southeast of Grozny, and on 12 June Shatoy to the south of the capital and Nozhai-Yurt in the southeast(Citation: 1127)(Citation: 27).
+    On 18 June 1995 Chernomyrdin, the chairman of the Russian government, agreed on a cessation of fighting with Shamil Basayev, the commander of the fighters of the Armed Forces of Ichkeria who had taken hostages in Budyonnovsk, a Russian-controlled town to the northwest of the republic.
+    That evening the occupation troops halted their offensive (see: "Sham Treaties")(Citation: 27).
+    At the end of July, Grozny, Argun, Gudermes, Shali and the mountain district centers were under occupation by the Russian army, while in most villages there were no Russian troops(Citation: 27)(Citation: 1127).
+    On 14 December 1995 the Armed Forces of Ichkeria liberated Gudermes to disrupt the "vote" for the head of the puppet government.
+    On 19-20 December, after six days of shelling and bombing of residential districts, the occupiers captured the town again(Citation: 27)(Citation: 656).
+
+    On 17-20 February 1996 the Russian army shelled and captured by storm Novogroznensky, a settlement to the east of Gudermes(Citation: 27).
+    On 3 March Russian troops broke into Sernovodsk, a village in the west of Ichkeria, on the day their commanders had set for signing a peace with the leaders of the village, and the defenders drove the attackers out.
+    By 9 March, after six days of shelling, the defenders of Sernovodsk were forced to leave, and the occupiers captured the village(Citation: 27).
+    On 6 March the Armed Forces of Ichkeria under the command of Ruslan Gelayev attacked the occupiers in Grozny and liberated most of the city.
+    The army of Ichkeria did not try to hold the city and left it on 8 March(Citation: 27)(Citation: 1127).
+    On the night of 14 March Russian troops surrounded Samashki, a village in the west of Ichkeria, and on 15 March began a storming with tanks, artillery, helicopters and aircraft.
+    On 19 March the fighters of the army of Ichkeria under the command of Khizir Khachukayev ran out of ammunition and were forced to leave(Citation: 27).
+    On 4 April, after six days of bombing, Russian soldiers broke into Goyskoye, a village to the southwest of Grozny, but the defenders under the command of Akhmed Zakayev repelled the storming.
+    On 7 May the occupiers under the command of General Shamanov captured Goyskoye(Citation: 27).
+    On 24 May, after three months of stormings, shelling and bombing, the Russian army captured Bamut, a village in the west of Ichkeria at the border with Russian-controlled Ingushetia, while the defenders under the command of Ruslan Khaikhoroyev broke out of the encirclement(Citation: 27).
+
+    On 9 July 1996, six days after the Russian presidential election, the occupiers violated the ceasefire agreement signed with Ichkeria on 27 May and launched a new offensive (see: "Sham Ceasefire")(Citation: 27).
+    On that day Russian units under the command of General Tikhomirov, the commander of the occupation troops, surrounded and shelled Gekhi, a village to the southwest of Grozny, where a unit of the Armed Forces of Ichkeria was stationed.
+    By 12 July the occupiers had killed the unit's commander Doku Makhayev and destroyed more than a third of the village(Citation: 1364).
+    On 15 July the occupiers captured Makhkety, a mountain village of the Vedeno district in the southeast of Ichkeria, which they had surrounded five days earlier(Citation: 27)(Citation: 1127).
+
+    The Russian human rights defenders of Memorial write that the Russian army with aircraft, heavy artillery and tanks fought against Ichkeria, although the president and government of Russia passed the war off as a police disarmament(Citation: 27).
+    On 19 January 1995 the European Parliament in a resolution condemned Russia's use of the army against Ichkeria(Citation: 735).
+    The Parliamentary Assembly of the Organization for Security and Co-operation in Europe in a declaration of 8 July 1995 condemned Russia's war in Ichkeria as a gross violation of international law(Citation: 1149).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers.
+    In three days of fighting the army of Ichkeria retook the center and about 80 percent of the city(Citation: 1127).
+    The defenders forced Russia to the negotiating table.
+    On 22 August 1996 in the village of Novye Atagi in the south of the republic, Russia and Ichkeria signed an agreement on the withdrawal of Russian troops from Grozny and joint control over certain districts of the city(Citation: 27)(Citation: 1272).
+    On 31 August 1996 General Lebed, the secretary of the Russian Security Council, and Aslan Maskhadov, the chief of the Main Staff of the Armed Forces of Ichkeria, signed a joint statement in Khasavyurt, a town in Russian-controlled Dagestan.
+    In it Russia acknowledged that resolving disputed issues by force or the threat of force was inadmissible (see: "Sham Treaties")(Citation: 661).
+
+    By 31 August 1996 the occupation troops had left Grozny for their main bases in Khankala on the eastern outskirts of the city and at the Severny airport to the north of it.
+    Russian police officers and soldiers of the Internal Troops of the MVD remained in the city.
+    Russia withdrew its troops from Vedeno, Shatoy, Nozhai-Yurt and Kurchaloy, villages in the south and east of Ichkeria.
+    Russian units still stood in Shali, near Bamut and in the Naur and Shelkovskaya districts in the north of Ichkeria(Citation: 1127).
+    In these two districts beyond the Terek river there was no fighting during the whole war.
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти захоплювали міста й села Ічкерії.
+
+    26 листопада 1994 року захисники Грозного, столиці Ічкерії, розбили російських танкістів, які штурмували місто під вивіскою маріонеткової опозиції (докладніше: «Організація перевороту»)(Citation: 1156).
+    До 29 листопада російська армія зібрала для нападу на Ічкерію близько 140 бойових літаків. 29 листопада російські льотчики на шести літаках Су-27 і чотирьох гелікоптерах атакували президентський палац у Грозному(Citation: 1060). 1 грудня екіпажі російських штурмовиків Су-25 знищили на аеродромах Ічкерії всю її авіацію(Citation: 718). 9 грудня президент Росії Єльцин указом № 2166 наказав урядові застосувати проти Збройних сил Ічкерії всі засоби російської держави, у тому числі армію(Citation: 650).
+
+    За день до переговорів Росії та Ічкерії, призначених на 12 грудня, російська армія і внутрішні війська МВС (попередники сучасної Росгвардії) почали наступ трьома колонами з підконтрольних Росії сусідніх республік (докладніше: «Переговори як прикриття нападу»)(Citation: 27).
+    Джерела розходяться: одні називають у цих колонах 14 972 особи, інші - майже 24 тисячі(Citation: 2380)(Citation: 2381).
+    Міністерство оборони Росії оцінювало Збройні сили Ічкерії в 11-12 тисяч бійців, МВС Росії - до 15 тисяч, і обидва відомства нараховували ще 30-40 тисяч чеченських добровольців(Citation: 2382).
+    Північна колона наступала з Моздока, а західна - з Владикавказа через Інгушетію.
+    Східна колона виступила від Кізляра, міста в Дагестані(Citation: 27)(Citation: 651). 11 грудня беззбройні чеченці Хасав'юртівського району Дагестану оточили бронетранспортери східної колони і не пропустили окупаційні війська(Citation: 921)(Citation: 27). 12 грудня біля села Новий Шарой на заході Ічкерії тисячі чеченців стали на дорозі перед західною колоною і на тиждень затримали її біля кордону з Інгушетією(Citation: 27)(Citation: 26).
+    Того дня армія Ічкерії зупинила північну колону біля селища Долинський, приблизно за десять кілометрів на північний захід від Грозного(Citation: 27).
+
+    Перед штурмом російські війська оточували міста й села, обстрілювали їх з артилерії, а російська авіація їх бомбила (докладніше: «Невибіркові напади»)(Citation: 27).
+    Окупанти вимагали від чеченців в оточених селах вигнати захисників і здати зброю (докладніше: «Колективні покарання»)(Citation: 27).
+    У захоплених містах російські війська розміщували комендатури й гарнізони.
+    У Грозному Росія поставила підконтрольний «Уряд національного відродження» (докладніше: «Маріонетковий уряд»)(Citation: 27)(Citation: 1127).
+
+    З 18 грудня 1994 року російська авіація бомбила житлові квартали Грозного. 19 грудня частини російської повітряно-десантної дивізії з Пскова під командуванням генерала Бабичева вийшли до західних околиць міста(Citation: 27). 31 грудня російська армія штурмувала Грозний із чотирьох боків.
+    Захисники міста розгромили колони окупантів і захопили в полон понад сто російських військових.
+    Правозахисники «Меморіалу» пишуть про війська генерала Пуликовського, які наступали з північного заходу: «131-а (Майкопська) окрема мотострілецька бригада і 81-й (Самарський) мотострілецький полк були практично повністю розгромлені»(Citation: 27).
+
+    7-9 січня 1995 року окупанти знову штурмували Грозний, з півночі та заходу.
+    Зелімхан Яндарбієв, віцепрезидент Ічкерії, який разом з Асланом Масхадовим керував обороною президентського палацу, писав у спогадах про вечір 18 січня: «Вирішували одне питання: залишитися і померти, що було рівнозначно загибелі Головного штабу, або залишити Президентський палац і на тому боці Сунжі [річки в центрі Грозного] розгорнути новий штаб»(Citation: 713).
+    У ніч на 19 січня російські льотчики скинули на палац бомби, які пробивають бетон, і захисники були змушені піти. 19 січня російські солдати захопили руїни палацу.
+    Окупанти штурмували решту районів Грозного ще півтора місяця.
+    До початку лютого 1995 року Росія довела чисельність своїх військ в Ічкерії до 70 тисяч осіб(Citation: 2382).
+    Найдовше захисники билися в Чорноріччі на півдні міста, і 6 березня 1995 року внутрішні війська МВС Росії захопили цей район(Citation: 27).
+
+    23 березня 1995 року окупанти захопили Аргун, місто на схід від Грозного(Citation: 27). 24 березня російські війська увірвалися в Ачхой-Мартан, районний центр на заході Ічкерії, але бійці армії Ічкерії контратакою звільнили село(Citation: 1127). 28 і 29 березня російська армія оточила Гудермес, друге за величиною місто Ічкерії, і Шалі, місто на південний схід від Грозного.
+    Російські командири вимагали від городян умовити захисників піти, і 30-31 березня, коли бійці армії Ічкерії були змушені покинути обидва міста, окупанти захопили їх без бою(Citation: 27). 12 травня російська армія почала наступ у гори на півдні Ічкерії. 3 червня окупанти захопили Ведено, районний центр на південний схід від Грозного, а 12 червня - Шатой на півдні від столиці та Ножай-Юрт на південному сході(Citation: 1127)(Citation: 27). 18 червня 1995 року голова уряду Росії Чорномирдін домовився про припинення боїв із Шамілем Басаєвим, командиром бійців Збройних сил Ічкерії, які захопили заручників у Будьоннівську, підконтрольному Росії місті на північний захід від республіки.
+    Того вечора окупаційні війська зупинили наступ (докладніше: «Фіктивні договори»)(Citation: 27).
+    Наприкінці липня під окупацією російської армії були Грозний, Аргун, Гудермес, Шалі та гірські районні центри, а в більшості сіл російських військ не було(Citation: 27)(Citation: 1127). 14 грудня 1995 року Збройні сили Ічкерії звільнили Гудермес, щоб зірвати «голосування» за главу маріонеткового уряду. 19-20 грудня, після шести днів обстрілів і бомбардувань житлових кварталів, окупанти знову захопили місто(Citation: 27)(Citation: 656).
+
+    17-20 лютого 1996 року російська армія обстрілювала і штурмом захопила Новогрозненський, селище на схід від Гудермеса(Citation: 27). 3 березня російські війська увірвалися в Серноводськ, село на заході Ічкерії, у день, на який їхні командири призначили підписання миру з керівниками села, і захисники вибили нападників.
+    До 9 березня, після шести днів обстрілів, захисники Серноводська були змушені піти, і окупанти захопили село(Citation: 27). 6 березня Збройні сили Ічкерії під командуванням Руслана Гелаєва атакували окупантів у Грозному і звільнили більшу частину міста.
+    Армія Ічкерії не намагалася втримати місто і 8 березня пішла з нього(Citation: 27)(Citation: 1127).
+    У ніч на 14 березня російські війська оточили Самашки, село на заході Ічкерії, і 15 березня почали штурм із танками, артилерією, гелікоптерами й літаками. 19 березня бійці армії Ічкерії під командуванням Хізіра Хачукаєва витратили боєприпаси і були змушені піти(Citation: 27). 4 квітня, після шести днів бомбардування, російські солдати увірвалися в Гойське, село на південний захід від Грозного, але захисники під командуванням Ахмеда Закаєва відбили штурм. 7 травня окупанти під командуванням генерала Шаманова захопили Гойське(Citation: 27). 24 травня, після трьох місяців штурмів, обстрілів і бомбардувань, російська армія захопила Бамут, село на заході Ічкерії біля кордону з підконтрольною Росії Інгушетією, а захисники під командуванням Руслана Хайхороєва вийшли з оточення(Citation: 27).
+
+    9 липня 1996 року, через шість днів після виборів президента Росії, окупанти порушили домовленість про припинення вогню, підписану з Ічкерією 27 травня, і почали новий наступ (докладніше: «Фальшиве перемир'я»)(Citation: 27).
+    Того дня російські частини під командуванням генерала Тихомирова, командувача окупаційних військ, оточили й обстріляли Гехі, село на південний захід від Грозного, де стояв підрозділ Збройних сил Ічкерії.
+    До 12 липня окупанти вбили командира підрозділу Доку Махаєва і зруйнували понад третину села(Citation: 1364). 15 липня окупанти захопили Махкети, гірське село Веденського району на південному сході Ічкерії, яке оточили п'ятьма днями раніше(Citation: 27)(Citation: 1127).
+
+    Російські правозахисники з «Меморіалу» пишуть, що проти Ічкерії воювала російська армія з авіацією, важкою артилерією і танками, хоча президент і уряд Росії видавали війну за поліцейське роззброєння(Citation: 27). 19 січня 1995 року Європейський парламент у резолюції засудив застосування Росією армії проти Ічкерії(Citation: 735).
+    Парламентська асамблея Організації з безпеки і співробітництва в Європі в декларації 8 липня 1995 року засудила війну Росії в Ічкерії як грубе порушення міжнародного права(Citation: 1149).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів.
+    За три дні боїв армія Ічкерії відбила центр і близько 80 відсотків міста(Citation: 1127).
+    Захисники змусили Росію сісти за стіл переговорів. 22 серпня 1996 року в селі Нові Атаги на півдні республіки Росія та Ічкерія підписали угоду про відведення російських військ із Грозного і спільний контроль над окремими районами міста(Citation: 27)(Citation: 1272). 31 серпня 1996 року генерал Лебедь, секретар Ради безпеки Росії, і Аслан Масхадов, начальник Головного штабу Збройних сил Ічкерії, підписали в Хасав'юрті, місті в підконтрольному Росії Дагестані, спільну заяву.
+    Росія визнала в ній недопустимим вирішувати спірні питання силою або загрозою сили (докладніше: «Фіктивні договори»)(Citation: 661).
+
+    До 31 серпня 1996 року окупаційні війська пішли з Грозного на свої головні бази в Ханкалі на східній околиці міста та в аеропорту «Північний» на півночі від нього.
+    У місті залишилися російські міліціонери і солдати внутрішніх військ МВС.
+    Росія вивела війська з Ведено, Шатоя, Ножай-Юрта і Курчалоя, сіл на півдні та сході Ічкерії.
+    Російські частини ще стояли в Шалі, біля Бамута і в Наурському та Шелковському районах на півночі Ічкерії(Citation: 1127).
+    У цих двох районах за річкою Терек боїв за всю війну не було. 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

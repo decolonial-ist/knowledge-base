@@ -1,0 +1,14 @@
+type: procedure
+id: C0046.T0045
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0045
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Изъятие исторических документов: «После судебной реформы 1864 г. в Москву были вывезены с территории Украины тысячи пудов архивных материалов»(Citation: 531).'
+  en: 'The removal of historical documents: "After the judicial reform of 1864, thousands of poods of archival materials were carried off from the territory of Ukraine to Moscow"(Citation: 531).'
+  uk: 'Вилучення історичних документів: «Після судової реформи 1864 р. до Москви було вивезено з території України тисячі пудів архівних матеріалів»(Citation: 531).'

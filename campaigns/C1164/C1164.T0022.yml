@@ -1,0 +1,20 @@
+type: procedure
+id: C1164.T0022
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Вторжение имперских войск в Ичкерию (горную юго-восточную Чечню) в мае 1839 года открылось публичной угрозой истребления.
+    Генерал Граббе, командующий войсками Кавказской линии (цепи имперских укреплений на земле нохчи), прокламацией «к Ичкеринскому народу» угрожал: «Тѣ-же аулы, которые дадутъ убѣжище Ташев-хаджи, будутъ всѣ истреблены до основанія и дѣти ваши еще долго будутъ помнить, какъ казнятся всѣ возмутители» (Ташу-Хаджи - шейх, в 1834-1836 годах имам Чечни, духовный и военный руководитель чеченского сопротивления)(Citation: 106).
+  en: |-
+    The invasion of Ichkeria (mountainous south-eastern Chechnya) by imperial troops in May 1839 opened with a public threat of annihilation.
+    General Grabbe, commander of the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), in a proclamation "to the Ichkerian people" threatened: "Those auls which give refuge to Tashev-hadji will all be annihilated to their foundations, and your children will long remember how all instigators are punished" (Tashu-Hadji - a sheikh, in 1834-1836 the imam of Chechnya, spiritual and military leader of the Chechen resistance)(Citation: 106).
+  uk: |-
+    Вторгнення імперських військ в Ічкерію (гірську південно-східну Чечню) у травні 1839 року відкрилося публічною погрозою винищення.
+    Генерал Граббе, командувач військ Кавказької лінії (ланцюга імперських укріплень на землі нохчі), прокламацією «до Ічкеринського народу» погрожував: «Ті ж аули, які дадуть притулок Ташев-хаджі, будуть усі винищені до основи, і діти ваші ще довго пам'ятатимуть, як караються всі бунтівники» (Ташу-Хаджі - шейх, у 1834-1836 роках імам Чечні, духовний і військовий керівник чеченського опору)(Citation: 106).

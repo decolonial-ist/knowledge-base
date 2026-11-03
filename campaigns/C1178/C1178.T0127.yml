@@ -1,0 +1,37 @@
+type: procedure
+id: C1178.T0127
+created: 2026-08-27
+modified: 2026-08-27
+version: '1.0'
+technique: T0127
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    С 1930 по 1936 год СССР высылал крестьянские семьи из Чечни по приказам и спискам краевого комитета партии («Северо-Кавказский крайком ВКП(б)»), ОГПУ (политической полиции, предшественницы современной ФСБ) и сменившего его НКВД.
+    В январе 1930 года руководство краевого комитета партии, распределяя по округам выселение 20 тысяч хозяйств крестьян, объявленных зажиточными, назначило Чечне 500 хозяйств; выселяли хозяйство целиком - семью со всеми домочадцами(Citation: 543).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут о тех же высылках счётом людей, а не хозяйств: «В начале 1930 г. из Чечни высылается 1500 крестьян, объявленных кулаками»(Citation: 125).
+    Историк Г. И. Какагасанов приводит по опубликованным документам счёт первой половины 1935 года - из национальных районов Северо-Кавказского края выслано 1553 семьи, и он уточняет: «Из них было выслано 473 семьи (2112 чел.) из Чечни» - четыре-пять человек на семью(Citation: 258); за 1935 год у Я. З. Ахмадова и Э. Х. Хасмагомадова счёт короче: «в 1935 г. из Чечено-Ингушетии выселено 450 кулацких семей, еще тысяча семей была выселена из Чечни и Дагестана в 1936 г.»(Citation: 125). 22 мая 1936 года глава НКВД СССР Ягода телеграммой № 56379 предписал начальнику краевого управления НКВД Дагину: «произвести переселение за пределы края» пятисот крестьянских хозяйств из Чечено-Ингушской автономной области и пятисот из Дагестана, закончив «не позже октября мес. 1936 года».
+    В телеграмме эта тысяча семей поделена между Узбекской Советской Социалистической Республикой (нынешний Узбекистан) и Киргизской Автономной Советской Социалистической Республикой (нынешний Кыргызстан).
+    Ягода прописал в телеграмме и нормы: вещей семье - «общим весом до тридцати пудов на каждую семью» [около 490 килограммов], в вагон грузить «от 32-х до 35-ти человек»; трудоспособных мужчин он разрешил арестовать «за 10 дней до их отправки» - «в целях предотвращения их бегства»(Citation: 538).
+  en: |-
+    From 1930 to 1936 the USSR expelled peasant families from Chechnya by the orders and lists of the krai committee of the party (the "North Caucasus kraikom VKP(b)"), of the OGPU (the political police, a predecessor of today's FSB) and of the NKVD that replaced it.
+    In January 1930 the leadership of the krai committee of the party, apportioning among the okrugs the expulsion of 20 thousand households of peasants declared well-off, assigned Chechnya 500 households; a household was expelled whole - the family with all its members(Citation: 543).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write of the same expulsions counting people, not households: "At the beginning of 1930, 1,500 peasants declared kulaks are expelled from Chechnya"(Citation: 125).
+    Historian G. I. Kakagasanov gives, from published documents, the count for the first half of 1935 - 1,553 families were expelled from the national districts of the North Caucasus krai, and he specifies: "Of these, 473 families (2,112 people) were expelled from Chechnya" - four to five people per family(Citation: 258); for 1935 the count of Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov is briefer: "in 1935, 450 kulak families were expelled from Checheno-Ingushetia, another thousand families were expelled from Chechnya and Dagestan in 1936"(Citation: 125).
+    On 22 May 1936 the head of the NKVD of the USSR Yagoda, by telegram No. 56379, ordered Dagin, head of the krai NKVD directorate: "to carry out the resettlement beyond the borders of the krai" of five hundred peasant households from the Chechen-Ingush Autonomous Oblast and five hundred from Dagestan, finishing "no later than October 1936".
+    In the telegram this thousand families is divided between the Uzbek Soviet Socialist Republic (today's Uzbekistan) and the Kirghiz Autonomous Soviet Socialist Republic (today's Kyrgyzstan).
+    Yagoda also wrote the norms into the telegram: belongings per family - "of a total weight up to thirty poods per family" [about 490 kilograms], loading "from 32 to 35 people" per railcar; able-bodied men he permitted to be arrested "10 days before their dispatch" - "with the aim of preventing their flight"(Citation: 538).
+  uk: |-
+    З 1930 по 1936 рік СРСР висилав селянські родини з Чечні за наказами і списками крайового комітету партії («Північно-Кавказький крайком ВКП(б)»), ОГПУ (політичної поліції, попередниці сучасної ФСБ) і НКВД, що прийшов йому на зміну.
+    У січні 1930 року керівництво крайового комітету партії, розподіляючи по округах виселення 20 тисяч господарств селян, оголошених заможними, призначило Чечні 500 господарств; виселяли господарство цілком - родину з усіма домочадцями(Citation: 543).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть про ті самі висилки ліком людей, а не господарств: «На початку 1930 р. з Чечні висилається 1500 селян, оголошених куркулями»(Citation: 125).
+    Історик Г. І. Какагасанов наводить за опублікованими документами лік першої половини 1935 року - з національних районів Північно-Кавказького краю вислано 1553 родини, і він уточнює: «З них було вислано 473 родини (2112 осіб) з Чечні» - чотири-п'ять людей на родину(Citation: 258); за 1935 рік у Я. З. Ахмадова і Е. Х. Хасмагомадова лік коротший: «у 1935 р. з Чечено-Інгушетії виселено 450 куркульських родин, ще тисячу родин було виселено з Чечні і Дагестану в 1936 р.»(Citation: 125). 22 травня 1936 року глава НКВД СРСР Ягода телеграмою № 56379 приписав начальникові крайового управління НКВД Дагіну: «провести переселення за межі краю» п'ятисот селянських господарств з Чечено-Інгуської автономної області і п'ятисот з Дагестану, закінчивши «не пізніше жовтня міс. 1936 року».
+    У телеграмі цю тисячу родин поділено між Узбецькою Радянською Соціалістичною Республікою (нинішній Узбекистан) і Киргизькою Автономною Радянською Соціалістичною Республікою (нинішній Киргизстан).
+    Ягода прописав у телеграмі й норми: речей родині - «загальною вагою до тридцяти пудів на кожну родину» [близько 490 кілограмів], у вагон вантажити «від 32-х до 35-ти осіб»; працездатних чоловіків він дозволив заарештувати «за 10 днів до їх відправлення» - «з метою запобігання їхній втечі»(Citation: 538).

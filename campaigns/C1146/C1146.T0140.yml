@@ -1,0 +1,23 @@
+type: procedure
+id: C1146.T0140
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0140
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя сводила леса нохчи, чтобы лишить их сёла естественной защиты.
+    Историк Д. А. Хожаев пишет, что при Ермолове карательные набеги шли «с уничтожением населения, домов, посевов, садов и лесов»(Citation: 95).
+    Имперский историк Потто подтверждает, что 1 марта 1821 года лес был вырублен «в одну сторону до Исти-Су, в другую — до Мичика», а в феврале 1822 года «широкие просеки пролегли через Гехинские, Гойтинские, Шалинские и Герменчугские леса до самого Маюртупа»(Citation: 75).
+  en: |-
+    The Russian Empire cleared the forests of the Nokhchi to deprive their villages of natural protection.
+    Historian D. A. Khozhaev writes that under Yermolov, punitive raids proceeded «with the destruction of the population, houses, crops, orchards, and forests»(Citation: 95).
+    The imperial historian Potto confirms that on March 1, 1821, the forest was cut down «in one direction as far as Isti-Su, in the other — as far as the Michik», and in February 1822 «wide clearings were cut through the Gekhi, Goity, Shali, and Germenchug forests all the way to Mayurtup»(Citation: 75).
+  uk: |-
+    Російська імперія зводила ліси Нохчі, щоб позбавити їхні села природного захисту.
+    Історик Д. А. Хожаєв пише, що за Єрмолова каральні набіги йшли «зі знищенням населення, будинків, посівів, садів і лісів»(Citation: 95).
+    Імперський історик Потто підтверджує, що 1 березня 1821 року ліс було вирубано «в один бік до Істі-Су, в інший — до Мічика», а в лютому 1822 року «широкі просіки пролягли через Гехінські, Гойтинські, Шалінські та Герменчуцькі ліси аж до самого Маюртупа»(Citation: 75).

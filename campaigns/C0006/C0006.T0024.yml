@@ -1,0 +1,20 @@
+type: procedure
+id: C0006.T0024
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0024
+people: ukrainians
+actor: G0008
+tool: S0011
+contributors: []
+description:
+  ru: |-
+    Имперский исторический миф напрямую базировался на религиозной манипуляции: экспансия оправдывалась концептом религиозного единства.
+    Автор конструировал идеологему, чтобы «дать московскому царю мотивацию для продолжения борьбы с Речью Посполитой за освобождение из-под власти католиков остальной части „единого православного народа“»(Citation: 184).
+  en: |-
+    The imperial historical myth was directly based on religious manipulation: expansion was justified by the concept of religious unity.
+    The author constructed an ideologeme in order "to give the Muscovite tsar the motivation to continue the struggle with the Polish-Lithuanian Commonwealth for the liberation from Catholic rule of the remaining part of the 'single Orthodox people'"(Citation: 184).
+  uk: |-
+    Імперський історичний міф прямо базувався на релігійній маніпуляції: експансія виправдовувалася концептом релігійної єдності.
+    Автор конструював ідеологему, щоб «дати московському цареві мотивацію для продовження боротьби з Річчю Посполитою за визволення з-під влади католиків решти „єдиного православного народу“»(Citation: 184).

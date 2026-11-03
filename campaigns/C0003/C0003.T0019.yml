@@ -1,0 +1,26 @@
+type: procedure
+id: C0003.T0019
+created: 2026-04-24
+modified: 2026-08-03
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Когда скрытых методов дестабилизации оказалось недостаточно, царство перешло к открытому военному вторжению.
+    Регулярная московская армия попыталась силой подчинить Гетманщину, что закончилось для нее катастрофой под Конотопом.
+    Имперский историк Соловьев признавал: «Цвет московской конницы, совершившей счастливые походы 54-го и 55-го годов, сгиб в один день…
+    Никогда после того царь московский не был уже в состоянии вывести в поле такого сильного ополчения»(Citation: 155).
+  en: |-
+    When covert methods of destabilization proved insufficient, the tsardom moved to open military invasion.
+    The regular Muscovite army tried to subdue the Hetmanate by force, which ended in catastrophe at Konotop.
+    The imperial historian Soloviev admitted: "The flower of the Muscovite cavalry, which had made the fortunate campaigns of '54 and '55, perished in a single day…
+    Never again was the tsar of Muscovy able to field such a strong host"(Citation: 155).
+  uk: |-
+    Коли прихованих методів дестабілізації виявилося замало, царство перейшло до відкритого воєнного вторгнення.
+    Регулярне московське військо спробувало силою підпорядкувати Гетьманщину, що закінчилося для нього катастрофою під Конотопом.
+    Імперський історик Соловйов визнавав: «Цвіт московської кінноти, що здійснила щасливі походи 54-го і 55-го років, згинув за один день…
+    Ніколи після того цар московський не був уже в змозі вивести в поле такого сильного ополчення»(Citation: 155).

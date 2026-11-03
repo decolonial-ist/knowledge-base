@@ -1,0 +1,34 @@
+type: procedure
+id: C1165.T0117.001
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0117.001
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    На место изгнанных чеченцев и карабулаков (вайнахского общества между Чечнёй и Ингушетией) империя селила казаков - станицами на месте аулов.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов перечисляют: «в 1845 г. на месте чеченского (карабулакского) аула Обарг-Юрт была учреждена станица Троицкая, в том же году на месте чеченского аула Дибир-Юрт появляется станица Сунженская (Слепцовская)»; «На месте аула Энахишка (общество Карабулак)... основана станица Михайловская (современная Серноводская)»(Citation: 125).
+    Они же фиксируют: «В 1845-46 гг. была образована Сунженская военная линия, а в построенных на землях карабулаков станицах поселены казаки 1-го Сунженского полка»(Citation: 125).
+    Механику замещения ретроспективно сформулировал полковник Де-Саже (1854), которого цитируют те же историки: «Каждый наступательный шаг отрезывал горцам безвозвратно кусок их родной земли.
+    Так покорены Малая Чечня и Галашки.
+    На всех этих местах поселены казаки, устроены укрепления с штаб-квартирами полков...»(Citation: 125).
+  en: |-
+    In the place of the expelled Chechens and Karabulaks (a Vainakh community between Chechnya and Ingushetia) the empire settled Cossacks - stanitsas on the sites of auls.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov list them one by one: "in 1845, on the site of the Chechen (Karabulak) aul of Obarg-Yurt, the stanitsa of Troitskaya was established; in the same year, on the site of the Chechen aul of Dibir-Yurt, appears the stanitsa of Sunzhenskaya (Sleptsovskaya)"; "On the site of the aul of Enakhishka (Karabulak community)... the stanitsa of Mikhailovskaya (present-day Sernovodskaya) was founded"(Citation: 125).
+    They also record: "In 1845-46 the Sunzha military line was formed, and in the stanitsas built on Karabulak lands the Cossacks of the 1st Sunzha regiment were settled"(Citation: 125).
+    The mechanics of the replacement were formulated in retrospect by colonel De-Sazhe (1854), quoted by the same historians: "Every step of the advance cut off from the highlanders irrevocably a piece of their native land.
+    Thus were Lesser Chechnya and Galashki subjugated.
+    On all these places Cossacks have been settled, fortifications built with the regiments' headquarters..."(Citation: 125).
+  uk: |-
+    На місце вигнаних чеченців і карабулаків (вайнахської громади між Чечнею та Інгушетією) імперія селила козаків - станицями на місці аулів.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов перелічують: «у 1845 р. на місці чеченського (карабулацького) аулу Обарг-Юрт було засновано станицю Троїцьку, того ж року на місці чеченського аулу Дібір-Юрт з'являється станиця Сунженська (Слєпцовська)»; «На місці аулу Енахішка (громада Карабулак)... заснована станиця Михайлівська (сучасна Серноводська)»(Citation: 125).
+    Вони ж фіксують: «У 1845-46 рр. було утворено Сунженську воєнну лінію, а в збудованих на землях карабулаків станицях поселено козаків 1-го Сунженського полку»(Citation: 125).
+    Механіку заміщення ретроспективно сформулював полковник Де-Саже (1854), якого цитують ті ж історики: «Кожен наступальний крок відрізав горцям безповоротно шматок їхньої рідної землі.
+    Так підкорені Мала Чечня і Галашки.
+    На всіх цих місцях поселені козаки, влаштовані укріплення зі штаб-квартирами полків...»(Citation: 125).

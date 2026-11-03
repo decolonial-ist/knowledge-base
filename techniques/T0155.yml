@@ -1,0 +1,29 @@
+type: technique
+id: T0155
+created: 2026-07-23
+modified: 2026-07-23
+version: '1.0'
+tactics:
+- TA0004
+- TA0005
+name:
+  ru: Принудительное разоружение
+  en: Forced Disarmament
+  uk: Примусове роззброєння
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут систематически изымать оружие у колонизируемого населения, чтобы сломать его способность к самообороне и восстанию.
+    Изъятие оформляется подворными нормами (например, по одному ружью с каждых десяти домов) и маскируется под фискальную меру («взамен податей») или под «залог покорности», но цель - не доход и не добыча: обезоруженное общество остаётся беззащитным перед войсками агрессора и выращенными им коллаборационистами, а каждое новое требование агрессор может предъявлять уже без сопротивления.
+    Разоружение готовит и более глубокие формы подчинения - закрепощение, рекрутчину, переселения, которые вооружённому обществу навязать невозможно.
+    Для обществ, где оружие - часть достоинства и статуса свободного человека, его отъём является ещё и социальной карой.
+  en: |-
+    Aggressors may systematically confiscate weapons from the colonized population in order to break its capacity for self-defense and revolt.
+    The confiscation is formalized through per-household quotas (for example, one gun from every ten houses) and disguised as a fiscal measure ("in lieu of tribute") or as a "pledge of submission", but the goal is neither revenue nor loot: a disarmed society is left defenseless before the aggressor's troops and the collaborators the aggressor has cultivated, and every new demand can then be imposed without resistance.
+    Disarmament also prepares deeper forms of subjugation - enserfment, conscription, resettlement - which cannot be forced upon an armed society.
+    For societies in which weapons are part of the dignity and status of a free person, their seizure is also a social punishment.
+  uk: |-
+    Агресори можуть систематично вилучати зброю в колонізованого населення, щоб зламати його здатність до самооборони і повстання.
+    Вилучення оформлюється подвірними нормами (наприклад, по одній рушниці з кожних десяти домів) і маскується під фіскальний захід («замість податей») або під «заставу покірності», але мета - не дохід і не здобич: роззброєне суспільство залишається беззахисним перед військами агресора і вирощеними ним колабораціоністами, а кожну нову вимогу агресор може висувати вже без опору.
+    Роззброєння готує і глибші форми підкорення - закріпачення, рекрутчину, переселення, які озброєному суспільству нав'язати неможливо.
+    Для суспільств, де зброя - частина гідності і статусу вільної людини, її відібрання є ще й соціальною карою.

@@ -1,0 +1,22 @@
+type: technique
+id: T0109
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0005
+name:
+  ru: Имитация народного волеизъявления
+  en: Sham Expression of Popular Will
+  uk: Імітація народного волевиявлення
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут организовывать фиктивные электоральные процедуры (референдумы, выборы) в условиях оккупации, отсутствия свободы слова и военного давления.
+    Имитация демократических процессов позволяет колонизатору формально легализовать режим или процесс аннексии, обеспечивая юридическое и политическое закрепление контроля над территорией в глазах собственного и мирового сообщества.
+  en: |-
+    Aggressors may organize sham electoral procedures (referendums, elections) under conditions of occupation, absence of freedom of speech, and military pressure.
+    The imitation of democratic processes allows the colonizer to formally legalize the regime or the annexation process, ensuring the legal and political consolidation of control over the territory in the eyes of its own society and the world community.
+  uk: |-
+    Агресори можуть організовувати фіктивні електоральні процедури (референдуми, вибори) в умовах окупації, відсутності свободи слова та військового тиску.
+    Імітація демократичних процесів дозволяє колонізатору формально легалізувати режим або процес анексії, забезпечуючи юридичне та політичне закріплення контролю над територією в очах власного та світового співтовариства.

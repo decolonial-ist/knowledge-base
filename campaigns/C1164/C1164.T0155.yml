@@ -1,0 +1,30 @@
+type: procedure
+id: C1164.T0155
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+technique: T0155
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Зимние экспедиции генерала Пулло, командовавшего левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), в декабре 1839 - феврале 1840 года провели физическое изъятие оружия у жителей аулов Чечни.
+    Систему задумал сам Пулло: в докладной записке 1840 года он писал, что тогда «положено начало системе обезоружения горцев, взиманием со всех аулов по одному ружью с 10 сакель»(Citation: 126).
+    Имперский историк Юров записал о декабрьском походе 1839 года: жители «беспрекословно платили подати или, взамен денег, представляли оружие»(Citation: 134).
+    Историк Ш. А. Гапуров приводит счёт по архивам: 455 ружей за декабрьский поход по Малой Чечне и 545 - за январский по Мичику(Citation: 132); сам Пулло в докладной записке 1840 года отчитался об изъятии «с лишком 1900 ружей»(Citation: 126).
+    В июне 1840 года изъятие оружия закрепили нормой: пункт 9 «Условий, предписываемых покоряющимся горцам», изданных генералом Граббе, командующим войсками Кавказской линии, 15 июня 1840 года, предписал «Выдавать по одному хорошему ружью с каждых 10 сакель, в виде залога их покорности» (сакля - дом горца)(Citation: 126).
+  en: |-
+    The winter expeditions of general Pullo, who commanded the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), in December 1839 - February 1840 carried out the physical seizure of weapons from the inhabitants of Chechnya's auls.
+    The system was conceived by Pullo himself: in his 1840 memorandum he wrote that it was then that "a beginning was laid to the system of disarming the highlanders, by levying one gun from every 10 saklias from all the auls"(Citation: 126).
+    The imperial historian Yurov recorded of the December 1839 march: the inhabitants "unquestioningly paid the tribute or, instead of money, handed over weapons"(Citation: 134).
+    Historian Sh.
+    A. Gapurov gives the tally from the archives: 455 rifles for the December march through Lesser Chechnya and 545 for the January march along the Michik(Citation: 132); Pullo himself, in his memorandum of 1840, reported the seizure of "upwards of 1900 rifles"(Citation: 126).
+    In June 1840 the seizure of weapons was fixed as a norm: point 9 of the "Conditions prescribed to submitting highlanders", issued by general Grabbe, commander of the troops of the Caucasus Line, on 15 June 1840, prescribed "To hand over one good rifle from every 10 saklias, as a pledge of their submission" (saklia - a highlander's house)(Citation: 126).
+  uk: |-
+    Зимові експедиції генерала Пулло, який командував лівим флангом Кавказької лінії (ланцюга імперських укріплень на землі нохчі), у грудні 1839 - лютому 1840 року провели фізичне вилучення зброї у жителів аулів Чечні.
+    Систему задумав сам Пулло: у доповідній записці 1840 року він писав, що тоді «покладено початок системі обеззброєння горців, стягненням з усіх аулів по одній рушниці з 10 саклів»(Citation: 126).
+    Імперський історик Юров записав про грудневий похід 1839 року: жителі «беззаперечно платили податі або, замість грошей, представляли зброю»(Citation: 134).
+    Історик Ш. А. Гапуров наводить рахунок за архівами: 455 рушниць за грудневий похід Малою Чечнею і 545 - за січневий по Мічику(Citation: 132); сам Пулло в доповідній записці 1840 року відзвітував про вилучення «з лишком 1900 рушниць»(Citation: 126).
+    У червні 1840 року вилучення зброї закріпили нормою: пункт 9 «Умов, приписуваних горцям, що підкоряються», виданих генералом Граббе, командувачем військ Кавказької лінії, 15 червня 1840 року, приписав «Видавати по одній добрій рушниці з кожних 10 сакель, як заставу їхньої покірності» (сакля - дім горця)(Citation: 126).

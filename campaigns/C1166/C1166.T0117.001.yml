@@ -1,0 +1,40 @@
+type: procedure
+id: C1166.T0117.001
+created: 2026-07-31
+modified: 2026-08-31
+version: '1.0'
+technique: T0117.001
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В 1847-1851 годах казачьи станицы вставали поимённо на местах аулов чеченцев и карабулаков (вайнахского общества между Чечнёй и Ингушетией).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов дают ряд: «В 1847 г. на месте аула Гажарийн-Юрт сооружена станица Нестеровская.
+    В 1847 г. на месте аула Эха-Борзе - воздвигнута станица Ассиновская... селение Мохьмад-Юрт - станица Магомед-Юртовская (1847 г.), современная Вознесеновская; селение Элдархан-Юрт - станица Карабулакская (1851 г.); селение Семашки - станица Самашкинская (1851 г.); селение Заки-Юрт - станица Закан-Юртовская, позднее Романовская (1851 г.); селение Алхан-Кала - станица Алхан-Юртовская, позднее Ермоловская (1851 г.)»(Citation: 125); о сожжённом Ах-Борзе они пишут прямо: «сожженное селение карабулаков Ах-Борзе в 1847 г. сменяется станицей Ассиновской»(Citation: 125).
+    Продолжение колонизации империя планировала письменно: Воронцов, наместник на Кавказе, официальным служебным письмом (отношением) военному министру Чернышеву от 25 октября 1847 года рассчитывал, что после вырубки лесов и «удаления оттуда враждебных чеченских аулов» «в 1849 году можно будет положить начало поселению 2-го Сунженского полка»(Citation: 126).
+    Кем замещали, видно из переселенческих дел империи.
+    В 1847 году на Сунжу двинули семьи из Войска Донского - по спискам переселенческого дела, первый эшелон выступил 23 мая 1847 года и заселял только что построенные станицы Магомет-Юртовскую и Ассинскую; итог списков - 219 душ мужского и 221 женского пола(Citation: 313).
+    В 1850 году в станицы полка, включая Ассинскую и Магомет-Юртовскую, империя водворила семьи женатых солдат регулярных полков, в том числе «принадлежавших помещичьему владению» - бывших крепостных(Citation: 313).
+    Первые семьи переселенцев жили, по имперскому очерку, «в балаганах, крытых соломой, или в землянках»(Citation: 314).
+  en: |-
+    In 1847-1851 Cossack stanitsas rose, name by name, on the sites of the auls of Chechens and Karabulaks (a Vainakh community between Chechnya and Ingushetia).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov give the series: "In 1847 on the site of the aul Gazhariyn-Yurt the stanitsa Nesterovskaya was built.
+    In 1847 on the site of the aul Ekha-Borze the stanitsa Assinovskaya was raised... the village of Mokhmad-Yurt - the stanitsa Magomed-Yurtovskaya (1847), present-day Voznesenovskaya; the village of Eldarkhan-Yurt - the stanitsa Karabulakskaya (1851); the village of Semashki - the stanitsa Samashkinskaya (1851); the village of Zaki-Yurt - the stanitsa Zakan-Yurtovskaya, later Romanovskaya (1851); the village of Alkhan-Kala - the stanitsa Alkhan-Yurtovskaya, later Yermolovskaya (1851)"(Citation: 125); of burned Akh-Borze they write plainly: "the burned Karabulak village of Akh-Borze is replaced in 1847 by the stanitsa Assinovskaya"(Citation: 125).
+    The empire planned the continuation of colonization in writing: Vorontsov, viceroy in the Caucasus, in an official letter (otnosheniye) to Minister of War Chernyshev of 25 October 1847, reckoned that after the felling of the forests and "the removal from there of the hostile Chechen auls," "in 1849 it will be possible to lay the beginning of the settlement of the 2nd Sunzha regiment"(Citation: 126).
+    Who the replacements were is visible from the empire's resettlement files.
+    In 1847 families from the Don Cossack Host were moved to the Sunzha - according to the lists of the resettlement file, the first echelon set out on 23 May 1847 to settle the just-built stanitsas Magomet-Yurtovskaya and Assinskaya; the totals of the lists - 219 souls male and 221 female(Citation: 313).
+    In 1850 the empire planted in the stanitsas of the regiment, including Assinskaya and Magomet-Yurtovskaya, the families of married soldiers of the regular regiments, including those "belonging to landlord ownership" - former serfs(Citation: 313).
+    The first settler families lived, according to an imperial sketch, "in shanties covered with straw, or in dugouts"(Citation: 314).
+  uk: |-
+    У 1847-1851 роках козачі станиці вставали поіменно на місцях аулів чеченців і карабулаків (вайнахського товариства між Чечнею та Інгушетією).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов дають ряд: «У 1847 р. на місці аулу Гажарійн-Юрт споруджено станицю Нестеровську.
+    У 1847 р. на місці аулу Еха-Борзе - зведено станицю Ассиновську... селище Мохьмад-Юрт - станиця Магомед-Юртовська (1847 р.), сучасна Вознесеновська; селище Елдархан-Юрт - станиця Карабулакська (1851 р.); селище Семашки - станиця Самашкинська (1851 р.); селище Закі-Юрт - станиця Закан-Юртовська, пізніше Романовська (1851 р.); селище Алхан-Кала - станиця Алхан-Юртовська, пізніше Єрмоловська (1851 р.)»(Citation: 125); про спалений Ах-Борзе вони пишуть прямо: «спалене селище карабулаків Ах-Борзе в 1847 р. змінюється станицею Ассиновською»(Citation: 125).
+    Продовження колонізації імперія планувала письмово: Воронцов, намісник на Кавказі, офіційним службовим листом (отношенієм) військовому міністрові Чернишову від 25 жовтня 1847 року розраховував, що після вирубки лісів і «видалення звідти ворожих чеченських аулів» «у 1849 році можна буде покласти початок поселенню 2-го Сунженського полку»(Citation: 126).
+    Ким заміщали, видно з переселенських справ імперії.
+    У 1847 році на Сунжу рушили родини з Війська Донського - за списками переселенської справи, перший ешелон виступив 23 травня 1847 року і заселяв щойно збудовані станиці Магомет-Юртовську й Ассинську; підсумок списків - 219 душ чоловічої і 221 жіночої статі(Citation: 313).
+    У 1850 році в станиці полку, включно з Ассинською і Магомет-Юртовською, імперія оселила родини одружених солдатів регулярних полків, зокрема «належних поміщицькому володінню» - колишніх кріпаків(Citation: 313).
+    Перші родини переселенців жили, за імперським нарисом, «у балаганах, критих соломою, або в землянках»(Citation: 314).

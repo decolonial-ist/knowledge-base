@@ -1,0 +1,38 @@
+type: procedure
+id: C1181.T0044
+created: 2026-09-05
+modified: 2026-09-05
+version: '1.0'
+technique: T0044
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    СССР оставил ссыльных чеченцев без школы на родном языке и без письменности, а из энциклопедий народ вычеркнул.
+    Обучение в школах шло на казахском и киргизском языках.
+    Историк А. Б. Кузнецова приводит слова бывших ссыльных: «была ликвидирована письменность на чеченском и ингушском языках»(Citation: 265).
+    МГБ (предшественница современной ФСБ) насчитало на 1 января 1952 года не охваченных обязательным обучением «детей народностей, выселенных из Северного Кавказа, - 33 702» и объяснило это «отсутствием зимней одежды и обуви, в связи с тяжелым материальным положением родителей, отсутствием школ в ряде мест расселения или отдаленностью школ от мест проживания»(Citation: 620).
+    Летом 1956 года проверяющие объехали места ссылки и доложили Президиуму Верховного Совета СССР: «Обучение детей в школах на родном языке не проводилось», в 1955/56 учебном году «из 61 тыс. детей школьного возраста обучалось только 50 тыс., или 81 %», а неграмотных «по некоторым районам количество их достигает 40-50 %»(Citation: 533).
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут, что «из всех справочников и энциклопедий сталинского времени тщательно вымарывалось упоминание о чеченцах и ингушах», а лингвист Ю. Дешериев «совершил по тем временам настоящую «идеологическую диверсию», издав в 1953 г. в Москве исследование «Бацбийский язык»» - историки пишут, что так он «пытался сохранить для потомков язык вайнахского народа, долженствующего, по решению «отца народов» [Сталина], исчезнуть с лица земли» (бацбийцы Закавказья, поясняют они, говорили на одном из диалектов чеченского языка)(Citation: 125).
+    Те же историки пишут, что язык удержала сама чеченская интеллигенция: её усилиями летом 1955 года вышел первый номер чеченской газеты «Къинхьегаман байракх» («Знамя труда»)(Citation: 125).
+  en: |-
+    The USSR left the exiled Chechens without schooling in their native language and without a written language, and struck the people out of the encyclopedias.
+    Schooling was conducted in Kazakh and Kirghiz.
+    Historian A. B. Kuznetsova cites the words of former exiles: "the written language in Chechen and Ingush was liquidated"(Citation: 265).
+    The MGB (predecessor of today's FSB) counted, as of 1 January 1952, "children of the nationalities deported from the North Caucasus - 33,702" not covered by compulsory schooling and explained this by "the absence of winter clothing and footwear, owing to the hard material position of the parents, the absence of schools in a number of places of settlement or the remoteness of schools from places of residence"(Citation: 620).
+    In the summer of 1956 inspectors toured the places of exile and reported to the Presidium of the Supreme Soviet of the USSR: "Teaching of children in schools in the native language was not conducted," in the 1955/56 school year "of 61 thousand children of school age only 50 thousand, or 81%, were being taught," and among the illiterate "in some districts their number reaches 40-50%"(Citation: 533).
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write that "from all the reference books and encyclopedias of the Stalin era any mention of the Chechens and Ingush was carefully expunged," while the linguist Yu.
+    Desheriev "committed, for those times, a real 'ideological diversion' by publishing in Moscow in 1953 the study 'The Batsbi Language'" - the historians write that in this way he "tried to preserve for posterity the language of the Vainakh people, which by the decision of the 'father of the peoples' [Stalin] was to vanish from the face of the earth" (the Batsbi of Transcaucasia, they explain, spoke one of the dialects of Chechen)(Citation: 125).
+    The same historians write that the Chechen intelligentsia itself held on to the language: by its efforts the first issue of the Chechen newspaper "Qinkhyegaman bayrakh" ("Banner of Labor") came out in the summer of 1955(Citation: 125).
+  uk: |-
+    СРСР залишив засланих чеченців без школи рідною мовою і без писемності, а з енциклопедій народ викреслив.
+    Навчання в школах ішло казахською та киргизькою мовами.
+    Історикиня А. Б. Кузнецова наводить слова колишніх засланців: «була ліквідована писемність чеченською та інгуською мовами»(Citation: 265).
+    МДБ (попередниця сучасної ФСБ) нарахувало на 1 січня 1952 року не охоплених обов'язковим навчанням «дітей народностей, виселених із Північного Кавказу, - 33 702» і пояснило це «відсутністю зимового одягу та взуття у зв'язку з тяжким матеріальним становищем батьків, відсутністю шкіл у низці місць розселення або віддаленістю шкіл від місць проживання»(Citation: 620).
+    Улітку 1956 року перевіряльники об'їхали місця заслання і доповіли Президії Верховної Ради СРСР: «Навчання дітей у школах рідною мовою не проводилося», у 1955/56 навчальному році «з 61 тис. дітей шкільного віку навчалося лише 50 тис., або 81 %», а неписьменних «по деяких районах кількість їх сягає 40-50 %»(Citation: 533).
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть, що «з усіх довідників та енциклопедій сталінського часу ретельно вимаровувалася згадка про чеченців та інгушів», а лінгвіст Ю. Дешерієв «здійснив як на ті часи справжню «ідеологічну диверсію», видавши 1953 р. у Москві дослідження «Бацбійська мова»» - історики пишуть, що так він «намагався зберегти для нащадків мову вайнахського народу, який за рішенням «батька народів» [Сталіна] мав зникнути з лиця землі» (бацбійці Закавказзя, пояснюють вони, говорили одним із діалектів чеченської мови)(Citation: 125).
+    Ті самі історики пишуть, що мову втримала сама чеченська інтелігенція: її зусиллями влітку 1955 року вийшов перший номер чеченської газети «Къинхьегаман байракх» («Прапор праці»)(Citation: 125).

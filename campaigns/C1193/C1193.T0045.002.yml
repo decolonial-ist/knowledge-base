@@ -1,0 +1,104 @@
+type: procedure
+id: C1193.T0045.002
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0045.002
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты сжигали архивы, библиотеки, книги и рукописи чеченцев.
+
+    Российские артиллеристы обстреливали, а лётчики бомбили в Грозном здания архива, библиотек и научных институтов.
+    Документы, книги и рукописи в этих зданиях сгорели(Citation: 27)(Citation: 988).
+    Российские военачальники с помощью солдат вывозили древние книги на грузовиках в сторону Моздока, города в Северной Осетии, и Ингушетии, подконтрольных России (подробнее: «Кража культурных ценностей»)(Citation: 988).
+
+    С 31 декабря 1994 года оккупационные войска штурмовали центр Грозного, где Центральный государственный архив Чеченской Республики хранил около 656 тысяч дел по истории чеченского и ингушского народов больше чем за два столетия.
+    Одно здание архива стояло на улице Орджоникидзе, в ста метрах от дворца президента Ичкерии(Citation: 27).
+    Правозащитник «Мемориала» Олег Орлов, который в начале штурма был в подвале дворца вместе с группой российского уполномоченного по правам человека Сергея Ковалёва, в феврале 1996 года рассказал в Москве общественному трибуналу российского фонда «Гласность», что в ночь на 4 января 1995 года вышел из подвала: «Мы увидели, что весь центр города уже разрушен, практически все жилые дома или сгорели, или продолжали гореть. …
+    Этот архив мы видели – он полностью сгорел»(Citation: 986).
+    В феврале 1995 года заместитель руководителя российского архивного ведомства Еремченко приехал в Грозный и установил, что в зданиях архива на улицах Орджоникидзе и Чехова оккупанты уничтожили все документы вместе с запасными копиями на плёнке.
+    Третье здание архива, на Карагандинской улице, уцелело.
+    В нём хранились около 90 тысяч дел о чеченцах и ингушах, которых СССР в 1944 году выслал в Казахстан. 21 сентября 1995 года заместитель руководителя ведомства Еремченко в ответе на запрос написал, что оккупанты уничтожили 87 процентов из 795 тысяч дел во всех государственных архивах Чеченской Республики(Citation: 27).
+
+    В начале 1995 года российские войска обстрелами целиком сожгли республиканскую научную библиотеку имени Чехова в Грозном(Citation: 27).
+    Этнограф Ян Чеснов, который изучал чеченцев и видел руины библиотеки, 24 апреля 1996 года рассказал в Москве общественному трибуналу фонда «Гласность»: «Сожжены архив, республиканская библиотека. …
+    Сожжен весь книжный фонд.
+    Книги на чеченском языке, изданные в 30-е годы на латинской графике [латинскими буквами], древние арабские книги.
+    Погибла уникальная библиотека»(Citation: 988).
+
+    В январе 1995 года оккупанты обстрелами уничтожили Чеченский национальный музей в Грозном вместе с отделом древних книг и рукописей (подробнее: «Уничтожение исторической памяти»)(Citation: 988).
+    В начале 1995 года российские войска уничтожили в Грозном библиотеку Научно-исследовательского института гуманитарных наук Чеченской Республики.
+    В библиотеке хранились труды всех известных исследователей Кавказа, записи экспедиций о языках чеченцев и ингушей, оригиналы средневековых книг и рукописей(Citation: 27).
+
+    Правозащитники «Мемориала» пишут, что в Грозном сгорели научно-техническая библиотека, три библиотеки вузов, библиотеки всех научных институтов, республиканская детская библиотека и архивы союзов писателей, художников, композиторов и театральных деятелей.
+    По данным «Мемориала», оккупанты разрушили или непоправимо повредили фольклорный центр с архивом(Citation: 27).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    The occupiers burned the archives, libraries, books and manuscripts of the Chechens.
+
+    Russian artillerymen shelled, and pilots bombed, the buildings of the archive, libraries and research institutes in Grozny.
+    The documents, books and manuscripts in these buildings burned(Citation: 27)(Citation: 988).
+    Russian commanders, with the help of soldiers, carried ancient books away on trucks toward Mozdok, a town in North Ossetia, and toward Ingushetia, both Russian-controlled (see: "Theft of Cultural Property")(Citation: 988).
+
+    From 31 December 1994, the occupation troops stormed the center of Grozny, where the Central State Archive of the Chechen Republic kept about 656 thousand files on the history of the Chechen and Ingush peoples over more than two centuries.
+    One building of the archive stood on Ordzhonikidze Street, a hundred meters from the palace of the president of Ichkeria(Citation: 27).
+    Oleg Orlov, a human rights defender of Memorial, who at the start of the storming was in the basement of the palace together with the group of Sergei Kovalyov, Russia's human rights commissioner, told the public tribunal of the Russian Glasnost Foundation in Moscow in February 1996 that on the night of 4 January 1995 he came out of the basement: "We saw that the whole center of the city was already destroyed, practically all the residential buildings had either burned down or were still burning. …
+    We saw that archive – it had burned down completely"(Citation: 986).
+    In February 1995, Yeremchenko, deputy head of the Russian archival agency, came to Grozny and established that in the archive buildings on Ordzhonikidze and Chekhov streets the occupiers had destroyed all the documents together with the backup copies on film.
+    The third building of the archive, on Karagandinskaya Street, survived.
+    It kept about 90 thousand files on the Chechens and Ingush whom the USSR had deported to Kazakhstan in 1944.
+    On 21 September 1995, Yeremchenko, deputy head of the agency, wrote in reply to an inquiry that the occupiers had destroyed 87 percent of the 795 thousand files in all the state archives of the Chechen Republic(Citation: 27).
+
+    In early 1995, Russian troops burned down the entire Chekhov Republican Scientific Library in Grozny with shelling(Citation: 27).
+    On 24 April 1996, the ethnographer Yan Chesnov, who studied the Chechens and saw the ruins of the library, told the public tribunal of the Glasnost Foundation in Moscow: "The archive and the republican library have been burned. …
+    The entire book collection has been burned.
+    Books in the Chechen language published in the 1930s in Latin script [in Latin letters], ancient Arabic books.
+    A unique library has perished"(Citation: 988).
+
+    In January 1995, the occupiers destroyed the Chechen National Museum in Grozny with shelling, together with its department of ancient books and manuscripts (see: "Destruction of Historical Memory")(Citation: 988).
+    In early 1995, Russian troops destroyed in Grozny the library of the Research Institute of the Humanities of the Chechen Republic.
+    The library kept the works of all the known researchers of the Caucasus, the records of expeditions on the languages of the Chechens and Ingush, and the originals of medieval books and manuscripts(Citation: 27).
+
+    Human rights defenders of Memorial write that in Grozny the scientific and technical library, three university libraries, the libraries of all the research institutes, the republican children's library and the archives of the unions of writers, artists, composers and theater workers burned down.
+    According to Memorial, the occupiers destroyed or irreparably damaged the folklore center with its archive(Citation: 27).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти спалювали архіви, бібліотеки, книги і рукописи чеченців.
+
+    Російські артилеристи обстрілювали, а льотчики бомбили в Грозному будівлі архіву, бібліотек і наукових інститутів.
+    Документи, книги і рукописи в цих будівлях згоріли(Citation: 27)(Citation: 988).
+    Російські воєначальники за допомогою солдатів вивозили давні книги на вантажівках у бік Моздока, міста в Північній Осетії, та Інгушетії, підконтрольних Росії (докладніше: «Крадіжка культурних цінностей»)(Citation: 988).
+
+    З 31 грудня 1994 року окупаційні війська штурмували центр Грозного, де Центральний державний архів Чеченської Республіки зберігав близько 656 тисяч справ з історії чеченського та інгуського народів більше ніж за два століття.
+    Одна будівля архіву стояла на вулиці Орджонікідзе, за сто метрів від палацу президента Ічкерії(Citation: 27).
+    Правозахисник «Меморіалу» Олег Орлов, який на початку штурму був у підвалі палацу разом із групою російського уповноваженого з прав людини Сергія Ковальова, у лютому 1996 року розповів у Москві громадському трибуналу російського фонду «Гласність», що в ніч на 4 січня 1995 року вийшов із підвалу: «Ми побачили, що весь центр міста вже зруйнований, практично всі житлові будинки або згоріли, або продовжували горіти. …
+    Цей архів ми бачили – він повністю згорів»(Citation: 986).
+    У лютому 1995 року заступник керівника російського архівного відомства Єремченко приїхав до Грозного і встановив, що в будівлях архіву на вулицях Орджонікідзе і Чехова окупанти знищили всі документи разом із запасними копіями на плівці.
+    Третя будівля архіву, на Карагандинській вулиці, уціліла.
+    У ній зберігалися близько 90 тисяч справ про чеченців та інгушів, яких СРСР 1944 року виселив до Казахстану. 21 вересня 1995 року заступник керівника відомства Єремченко у відповіді на запит написав, що окупанти знищили 87 відсотків із 795 тисяч справ у всіх державних архівах Чеченської Республіки(Citation: 27).
+
+    На початку 1995 року російські війська обстрілами повністю спалили республіканську наукову бібліотеку імені Чехова в Грозному(Citation: 27).
+    Етнограф Ян Чеснов, який вивчав чеченців і бачив руїни бібліотеки, 24 квітня 1996 року розповів у Москві громадському трибуналу фонду «Гласність»: «Спалені архів, республіканська бібліотека. …
+    Спалено весь книжковий фонд.
+    Книги чеченською мовою, видані в 30-ті роки латинською графікою [латинськими літерами], давні арабські книги.
+    Загинула унікальна бібліотека»(Citation: 988).
+
+    У січні 1995 року окупанти обстрілами знищили Чеченський національний музей у Грозному разом із відділом давніх книг і рукописів (докладніше: «Знищення історичної пам'яті»)(Citation: 988).
+    На початку 1995 року російські війська знищили в Грозному бібліотеку Науково-дослідного інституту гуманітарних наук Чеченської Республіки.
+    У бібліотеці зберігалися праці всіх відомих дослідників Кавказу, записи експедицій про мови чеченців та інгушів, оригінали середньовічних книг і рукописів(Citation: 27).
+
+    Правозахисники «Меморіалу» пишуть, що в Грозному згоріли науково-технічна бібліотека, три бібліотеки вишів, бібліотеки всіх наукових інститутів, республіканська дитяча бібліотека та архіви спілок письменників, художників, композиторів і театральних діячів.
+    За даними «Меморіалу», окупанти зруйнували або непоправно пошкодили фольклорний центр з архівом(Citation: 27).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

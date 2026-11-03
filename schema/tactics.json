@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Тактика",
+  "description": "Файл tactics/TA0001.yml. Проза - Markdown в блоке |, фраза на строку, абзацы пустой строкой.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "type",
+    "id",
+    "created",
+    "modified",
+    "version",
+    "shortname",
+    "order",
+    "name",
+    "description"
+  ],
+  "properties": {
+    "type": {
+      "const": "tactic"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^TA\\d{4}$"
+    },
+    "created": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "modified": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+$"
+    },
+    "shortname": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "order": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "name": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ru",
+        "en",
+        "uk"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ru",
+        "en",
+        "uk"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string",
+          "minLength": 0
+        },
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    }
+  }
+}

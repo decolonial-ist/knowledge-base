@@ -1,0 +1,23 @@
+type: campaign
+id: C0026
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1699-01-01
+last_seen: 1699-12-31
+contributors: []
+name:
+  ru: Ликвидация казачества на Правобережной Украине (1699)
+  en: Liquidation of the Cossacks in Right-Bank Ukraine (1699)
+  uk: Ліквідація козацтва на Правобережній Україні (1699)
+description:
+  ru: |-
+    Уничтожение казацкого полкового устройства на Правобережье решением польского сейма 1699 года на землях, которые Москва и Варшава разделили по Днепру «Вечным миром» 1686 года.
+    Полковник Палий «Не согласился с решениями вального сейма Речи Посполитой 1699 о запрете казачества на Правобережье» и «Вопреки условиям „Вечного мира“ 1686 проводил политику объединения Правобережья и Левобережья»(Citation: 195).
+  en: |-
+    The destruction of the Cossack regimental order on the Right Bank by a decision of the Polish Sejm of 1699, on lands that Moscow and Warsaw had divided along the Dnipro by the "Eternal Peace" of 1686.
+    Colonel Palii "did not accept the decisions of the general Sejm of the Polish-Lithuanian Commonwealth of 1699 banning the Cossacks on the Right Bank" and "contrary to the terms of the 'Eternal Peace' of 1686 pursued a policy of uniting the Right Bank and the Left Bank"(Citation: 195).
+  uk: |-
+    Знищення козацького полкового устрою на Правобережжі рішенням польського сейму 1699 року на землях, які Москва й Варшава розділили по Дніпру «Вічним миром» 1686 року.
+    Полковник Палій «Не погодився з рішеннями вального сейму Речі Посполитої 1699 про заборону козацтва на Правобережжі» та «Усупереч умовам „Вічного миру“ 1686 проводив політику на об'єднання Правобережжя та Лівобережжя»(Citation: 195).

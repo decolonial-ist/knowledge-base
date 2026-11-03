@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Кампания",
+  "description": "Файл campaigns/C1193/C1193.yml. Процедуры - C1193.T*.yml в той же папке, эпизоды - подпапки C*/ (родство местом в дереве). last_seen пустой = открытый конец.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "type",
+    "id",
+    "created",
+    "modified",
+    "version",
+    "people",
+    "first_seen",
+    "last_seen",
+    "contributors",
+    "name",
+    "description"
+  ],
+  "properties": {
+    "type": {
+      "const": "campaign"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^C\\d{4}$"
+    },
+    "created": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "modified": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+$"
+    },
+    "people": {
+      "type": "string",
+      "enum": [
+        "nokhchi",
+        "ukrainians"
+      ]
+    },
+    "associated_campaigns": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^C\\d{4}$"
+      }
+    },
+    "first_seen": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "first_seen_citation": {
+      "type": "array",
+      "items": {
+        "type": [
+          "integer",
+          "string"
+        ]
+      }
+    },
+    "last_seen": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "last_seen_citation": {
+      "type": "array",
+      "items": {
+        "type": [
+          "integer",
+          "string"
+        ]
+      }
+    },
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ru",
+          "en",
+          "uk"
+        ],
+        "properties": {
+          "ru": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 0
+          },
+          "uk": {
+            "type": "string",
+            "minLength": 0
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ru",
+        "en",
+        "uk"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ru",
+        "en",
+        "uk"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string",
+          "minLength": 0
+        },
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    }
+  }
+}

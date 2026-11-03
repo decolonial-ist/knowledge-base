@@ -1,0 +1,101 @@
+type: procedure
+id: C1193.T0162.001
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0162.001
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Российские руководители и командование оккупационными войсками объявляли, что бойцов Вооружённых сил Ичкерии будут расстреливать на месте и уничтожать.
+
+    Высшие руководители России объявляли журналистам в Москве, что бойцов Ичкерии надо уничтожить(Citation: 922)(Citation: 1122), а командование оккупационными войсками - в ультиматумах и приказах войскам(Citation: 27).
+
+    В феврале 1995 года начальник Генерального штаба России Колесников сказал о чеченцах, захваченных российскими войсками: «с пленными обращаются нормально, хотя не обязаны, так как по законам их нужно было расстреливать на месте как бандитов» (так Россия называла бойцов Вооружённых сил Ичкерии)(Citation: 922)(Citation: 654).
+
+    10 января 1996 года российские лётчики с вертолётов ударили ракетами по голове колонны автобусов, которая переехала из подконтрольного России Дагестана в Ичкерию(Citation: 27).
+    В автобусах ехали бойцы Вооружённых сил Ичкерии под командованием Салмана Радуева и заложники, которых они захватили в Кизляре, дагестанском городе.
+    Правозащитники «Мемориала» пишут со слов Валерия Якова, корреспондента московской газеты «Известия», который говорил со спецназовцами: «Высаженный поблизости десант спецназа имел приказ уничтожить террористов [так россияне называли бойцов Вооружённых сил Ичкерии], оставшихся в живых после обстрела»(Citation: 27).
+    Первыми ракетами лётчики уничтожили машину российской милиции, которая сопровождала колонну, и прекратили огонь.
+    Десант не атаковал автобусы.
+    Бойцы армии Ичкерии с заложниками вернулись в Дагестан и закрепились в Первомайском, селе у границы Ичкерии(Citation: 27).
+
+    15 января 1996 года российские войска под руководством директора ФСБ Барсукова и министра внутренних дел Куликова начали штурмовать Первомайское(Citation: 27).
+    Правозащитники «Мемориала» пишут: «При блокировании, попытке штурма и обстрелах с.Первомайское основной задачей федеральной стороны [российских войск] было не освобождение заложников, а уничтожение террористов.
+    Такой преступный подход привел к гибели и ранению части заложников». 18 января большая часть бойцов армии Ичкерии вышла из окружения и вернулась в Ичкерию, уводя с собой заложников.
+    По справке комитета российского парламента по безопасности, в Первомайском погибли 16 заложников(Citation: 27).
+    Министр внутренних дел Куликов 20 января в интервью газете «Российские вести» сказал, что российские войска убили в Первомайском 153 бойца армии Ичкерии и около 40 захватили в плен.
+    Оккупанты отправили всех пленных в фильтрационный лагерь(Citation: 1355).
+    Россия обменяла пленных на милиционеров, которых бойцы Салмана Радуева увели с собой из Первомайского, а тела убитых бойцов - на гражданских заложников, уведённых в Ичкерию(Citation: 27).
+
+    15 января 1996 года, в день штурма Первомайского, Ельцин сказал о бойцах Салмана Радуева: «Мы хотим все-таки, чтобы террористы эти были наказаны.
+    И вообще выкорчеваны из чеченской земли»(Citation: 1122). 16 января глава администрации президента России Егоров сказал, что выступает «за то… чтобы все бандформирования [так Россия называла Вооружённые силы Ичкерии]… были уничтожены»(Citation: 1122). 19 августа 1996 года командующий оккупационными войсками Пуликовский потребовал от Вооружённых сил Ичкерии уйти из Грозного, дал мирным чеченцам 48 часов на выход из города и объявил, что потом ударит авиацией, артиллерией и реактивными системами залпового огня, которые не могут бить прицельно, «по местам нахождения боевиков».
+    Ночью 20 августа, не дожидаясь конца срока, российские войска снова начали обстреливать и бомбить Грозный (подробнее: «Неизбирательные нападения»)(Citation: 27).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Russian leaders and the command of the occupation troops declared that fighters of the Armed Forces of Ichkeria would be shot on the spot and destroyed.
+
+    The top leaders of Russia declared to journalists in Moscow that the fighters of Ichkeria had to be destroyed(Citation: 922)(Citation: 1122), and the command of the occupation troops declared it in ultimatums and orders to the troops(Citation: 27).
+
+    In February 1995, Kolesnikov, the Chief of the General Staff of Russia, said of the Chechens captured by Russian troops: "Prisoners are treated well, although we don't have to, because by law one could shoot them on the spot as bandits" (this is what Russia called fighters of the Armed Forces of Ichkeria)(Citation: 922)(Citation: 654).
+
+    On 10 January 1996, Russian pilots in helicopters fired missiles at the head of a column of buses that had crossed from Russian-controlled Dagestan into Ichkeria(Citation: 27).
+    In the buses were fighters of the Armed Forces of Ichkeria under the command of Salman Raduyev and the hostages they had seized in Kizlyar, a town in Dagestan.
+    Human rights defenders of Memorial write, citing Valery Yakov, a correspondent of the Moscow newspaper Izvestia who spoke with the special forces soldiers: "The special forces landing party set down nearby had orders to destroy the terrorists [this is what the Russians called fighters of the Armed Forces of Ichkeria] who remained alive after the strike"(Citation: 27).
+    With the first missiles the pilots destroyed the Russian police car that was escorting the column, and ceased fire.
+    The landing party did not attack the buses.
+    The fighters of the army of Ichkeria with the hostages returned to Dagestan and dug in at Pervomayskoye, a village near the border of Ichkeria(Citation: 27).
+
+    On 15 January 1996, Russian troops under the direction of FSB director Barsukov and Minister of Internal Affairs Kulikov began to storm Pervomayskoye(Citation: 27).
+    Human rights defenders of Memorial write: "During the blockade, the attempted assault and the shelling of the village of Pervomayskoye, the main task of the federal side [the Russian troops] was not to free the hostages but to destroy the terrorists.
+    This criminal approach led to the death and wounding of some of the hostages."
+    On 18 January, most of the fighters of the army of Ichkeria broke out of the encirclement and returned to Ichkeria, taking hostages with them.
+    According to a memorandum of the security committee of the Russian parliament, 16 hostages died in Pervomayskoye(Citation: 27).
+    On 20 January, Minister of Internal Affairs Kulikov said in an interview with the newspaper Rossiyskiye Vesti that Russian troops had killed 153 fighters of the army of Ichkeria in Pervomayskoye and captured about 40.
+    The occupiers sent all the prisoners to a filtration camp(Citation: 1355).
+    Russia exchanged the prisoners for the police officers whom Salman Raduyev's fighters had taken with them from Pervomayskoye, and the bodies of the killed fighters for the civilian hostages taken to Ichkeria(Citation: 27).
+
+    On 15 January 1996, the day of the assault on Pervomayskoye, Yeltsin said of Salman Raduyev's fighters: "We still want these terrorists to be punished.
+    And, in general, uprooted from the Chechen land"(Citation: 1122).
+    On 16 January, Yegorov, head of the Russian president's administration, said that he was "in favor… of all the bandit formations [this is what Russia called the Armed Forces of Ichkeria]… being destroyed"(Citation: 1122).
+    On 19 August 1996, Pulikovsky, the commander of the occupation troops, demanded that the Armed Forces of Ichkeria leave Grozny, gave Chechen civilians 48 hours to leave the city and announced that he would then strike "at the locations of the militants" with aircraft, artillery and multiple rocket launchers, which cannot fire with precision.
+    On the night of 20 August, without waiting for the deadline to expire, Russian troops again began shelling and bombing Grozny (see: "Indiscriminate Attacks")(Citation: 27).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Російські керівники та командування окупаційними військами оголошували, що бійців Збройних сил Ічкерії розстрілюватимуть на місці і знищуватимуть.
+
+    Вищі керівники Росії оголошували журналістам у Москві, що бійців Ічкерії треба знищити(Citation: 922)(Citation: 1122), а командування окупаційними військами - в ультиматумах і наказах військам(Citation: 27).
+
+    У лютому 1995 року начальник Генерального штабу Росії Колесников сказав про чеченців, захоплених російськими військами: «з полоненими поводяться нормально, хоча не зобов'язані, бо за законами їх треба було розстрілювати на місці як бандитів» (так Росія називала бійців Збройних сил Ічкерії)(Citation: 922)(Citation: 654).
+
+    10 січня 1996 року російські льотчики з вертольотів ударили ракетами по голові колони автобусів, яка переїхала з підконтрольного Росії Дагестану в Ічкерію(Citation: 27).
+    В автобусах їхали бійці Збройних сил Ічкерії під командуванням Салмана Радуєва і заручники, яких вони захопили в Кізлярі, дагестанському місті.
+    Правозахисники «Меморіалу» пишуть зі слів Валерія Якова, кореспондента московської газети «Известия», який говорив зі спецназівцями: «Висаджений поблизу десант спецназу мав наказ знищити терористів [так росіяни називали бійців Збройних сил Ічкерії], які залишилися живими після обстрілу»(Citation: 27).
+    Першими ракетами льотчики знищили машину російської міліції, яка супроводжувала колону, і припинили вогонь.
+    Десант не атакував автобуси.
+    Бійці армії Ічкерії із заручниками повернулися в Дагестан і закріпилися в Первомайському, селі біля кордону Ічкерії(Citation: 27).
+
+    15 січня 1996 року російські війська під керівництвом директора ФСБ Барсукова і міністра внутрішніх справ Кулікова почали штурмувати Первомайське(Citation: 27).
+    Правозахисники «Меморіалу» пишуть: «Під час блокування, спроби штурму та обстрілів с.
+    Первомайське основним завданням федеральної сторони [російських військ] було не звільнення заручників, а знищення терористів.
+    Такий злочинний підхід призвів до загибелі та поранення частини заручників». 18 січня більша частина бійців армії Ічкерії вийшла з оточення і повернулася в Ічкерію, забравши із собою заручників.
+    За довідкою комітету російського парламенту з безпеки, у Первомайському загинули 16 заручників(Citation: 27).
+    Міністр внутрішніх справ Куліков 20 січня в інтерв'ю газеті «Российские вести» сказав, що російські війська вбили в Первомайському 153 бійці армії Ічкерії і близько 40 захопили в полон.
+    Окупанти відправили всіх полонених у фільтраційний табір(Citation: 1355).
+    Росія обміняла полонених на міліціонерів, яких бійці Салмана Радуєва забрали із собою з Первомайського, а тіла вбитих бійців - на цивільних заручників, вивезених в Ічкерію(Citation: 27).
+
+    15 січня 1996 року, у день штурму Первомайського, Єльцин сказав про бійців Салмана Радуєва: «Ми хочемо все-таки, щоб терористи ці були покарані.
+    І взагалі викорчувані з чеченської землі»(Citation: 1122). 16 січня глава адміністрації президента Росії Єгоров сказав, що виступає «за те… щоб усі бандформування [так Росія називала Збройні сили Ічкерії]… були знищені»(Citation: 1122). 19 серпня 1996 року командувач окупаційних військ Пуліковський зажадав від Збройних сил Ічкерії піти з Грозного, дав мирним чеченцям 48 годин на вихід із міста й оголосив, що потім ударить авіацією, артилерією та реактивними системами залпового вогню, які не можуть бити прицільно, «по місцях перебування бойовиків».
+    У ніч на 20 серпня, не чекаючи кінця терміну, російські війська знову почали обстрілювати і бомбити Грозний (докладніше: «Невибіркові напади»)(Citation: 27).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

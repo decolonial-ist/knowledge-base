@@ -1,0 +1,20 @@
+type: procedure
+id: C1147.T0022
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0022
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя истребляла людей напоказ, чтобы устрашить горцев.
+    Историк Д. А. Хожаев пишет, что в Герзель-аульском укреплении «царские генералы решили устроить показательную экзекуцию для устрашения горцев», для чего вызвали «318 человек из уважаемых людей аксаевских (кумыкских и чеченских) селений», которых генерал Лисаневич, «выкликая поочередно собравшихся… угрожал им, подвергал оскорблениям»(Citation: 95).
+  en: |-
+    The Russian Empire exterminated people for show in order to terrorize the highlanders.
+    Historian D. A. Khozhaev writes that at the Gerzel-aul fortification «the tsarist generals decided to stage a demonstrative execution to intimidate the highlanders», for which they summoned «318 respected men from the Aksai (Kumyk and Chechen) villages», whom General Lisanevich, «calling out those assembled one by one… threatened and subjected to insults»(Citation: 95).
+  uk: |-
+    Російська імперія винищувала людей напоказ, щоб залякати горців.
+    Історик Д. А. Хожаєв пише, що в Герзель-аульському укріпленні «царські генерали вирішили влаштувати показову екзекуцію для залякування горців», для чого викликали «318 осіб із шанованих людей аксаївських (кумицьких і чеченських) селищ», яким генерал Лисаневич, «викликаючи по черзі зібраних… погрожував, піддавав образам»(Citation: 95).

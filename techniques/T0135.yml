@@ -1,0 +1,25 @@
+type: technique
+id: T0135
+created: 2026-04-27
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0004
+name:
+  ru: Карательная психиатрия
+  en: Punitive Psychiatry
+  uk: Каральна психіатрія
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут использовать государственную систему психиатрической помощи в политических целях для преследования, бессрочной изоляции и пыток инакомыслящих.
+    Несогласным с режимом (диссидентам, правозащитникам, гражданским активистам) фабрикуются фальшивые диагнозы (например, несуществующая «вялотекущая шизофрения»), после чего их принудительно помещают в закрытые стационары.
+    Эта техника позволяет колонизатору или тоталитарной системе нейтрализовать сопротивление без формальных судебных процессов, подвергая жертв разрушительному медикаментозному воздействию и стигматизируя оппозиционную деятельность как проявление сумасшествия.
+  en: |-
+    Aggressors may use the state psychiatric care system for political purposes to persecute, indefinitely isolate, and torture dissenters.
+    Those who disagree with the regime (dissidents, human rights defenders, civic activists) have false diagnoses fabricated against them (for example, the nonexistent "sluggish schizophrenia"), after which they are forcibly confined to closed institutions.
+    This technique allows the colonizer or a totalitarian system to neutralize resistance without formal judicial proceedings, subjecting victims to destructive medication regimes and stigmatizing opposition activity as a manifestation of insanity.
+  uk: |-
+    Агресори можуть використовувати державну систему психіатричної допомоги в політичних цілях для переслідування, безстрокової ізоляції та катування інакодумців.
+    Незгодним із режимом (дисидентам, правозахисникам, громадським активістам) фабрикують фальшиві діагнози (наприклад, неіснуючу «млявоплинну шизофренію»), після чого їх примусово поміщають у закриті стаціонари.
+    Ця техніка дозволяє колонізатору чи тоталітарній системі нейтралізувати опір без формальних судових процесів, піддаючи жертв руйнівному медикаментозному впливу та стигматизуючи опозиційну діяльність як прояв божевілля.

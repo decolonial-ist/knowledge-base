@@ -1,0 +1,195 @@
+type: procedure
+id: C1193.T0099
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0011
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты брали мирных чеченцев в заложники и отпускали их в обмен на пленных и убитых российских военных, оружие или деньги.
+
+    Российские военные составляли списки задержанных чеченцев для обмена и вносили в них людей, которые по возрасту не могли держать оружие(Citation: 988).
+    По справке тюремного ведомства МВД России, с 11 декабря 1994 года по 22 июля 1995 года министерство передало для обмена на пленных российских военных 141 узника фильтрационных лагерей (подробнее: «Система фильтрационных лагерей»)(Citation: 27).
+
+    Российские милиционеры и солдаты обещали отпустить задержанного чеченца, если его родные привезут деньги, российского солдата из плена или тело погибшего(Citation: 27)(Citation: 988).
+    Оккупанты использовали родственников заложников, чтобы узнать, где Вооружённые силы Ичкерии держат пленных россиян: родные искали пленных, чтобы вызволить своих, а ФСБ России собирала у них сведения и 29 июля 1995 года составила справку о местах, где держат российских солдат(Citation: 27)(Citation: 987).
+
+    9 января 1995 года российские военные задержали в Грозном Шамсу Магомадова (подробнее: «Похищение людей»).
+    Зимой 1995-1996 годов его сестра Мадина Магомадова добивалась у полковника МВД России Пилюгина обмена брата.
+    Она рассказала «Мемориалу»: «Мне сказали: «Да, твой брат жив, мы обменяем — найди солдата [пленного российского солдата]».
+    Нашла я солдата — прошла все эти горы, села, идет война, под обстрелом я искала солдата — нашла, принесла фотографию.
+    Мне говорят: «Солдат — дезертир, не подлежит обмену…» …
+    «Иди, ищи офицера». … нашла офицера, принесла фотографию офицера...
+    Мне говорят: извините, товарищ Магомадова, вашего брата отсюда увезли, а там, где он должен быть, его еще не привезли.
+    Мы его не можем найти».
+    Оккупанты так и не освободили Шамсу Магомадова, и о его судьбе ничего не известно(Citation: 27).
+
+    Российские военные и спецслужбы выставляли на обмен захваченных родственников и охрану президента Ичкерии. 19 февраля 1995 года оккупанты задержали в Грозном Махарби Дудаева, младшего брата президента, а 6 апреля МВД России выставило его на обмен в Малых Атагах, селе к югу от Грозного, вместе с 16 узниками фильтрационных лагерей.
+    Министерство обменяло узников на пленного российского майора, а брата президента отпустило отдельно(Citation: 27)(Citation: 921)(Citation: 1136).
+    В ночь на 28 мая 1996 года российские пограничники задержали в аэропорту Нальчика, столицы подконтрольной России Кабардино-Балкарии, вдову президента Ичкерии с её телохранителем, и ФСБ России отпустила вдову, а телохранителя обменяла на пленного российского священника(Citation: 712)(Citation: 1279).
+
+    Российские солдаты и охрана фильтрационных лагерей требовали выкуп за задержанных чеченцев.
+    В конце марта 1995 года охранники воинской части у Ассиновской, станицы на западе Ичкерии, спрашивали задержанных чеченцев, кто больше заплатит, чтобы выйти(Citation: 27).
+    В апреле 1995 года охрана фильтрационного лагеря на северо-восточной окраине Грозного получила пять миллионов рублей за освобождение задержанного чеченца(Citation: 986). 15 мая 1995 года российские солдаты посадили задержанного чеченца из Шали, города к юго-востоку от Грозного, в яму при своей части, предлагали ему выйти за деньги и через 18 часов отпустили(Citation: 922).
+    В декабре 1995 года российские военные задержали на блокпосту пятерых пожилых чеченцев, и родные выкупили их из фильтрационного лагеря за десять миллионов рублей(Citation: 986). 17 апреля 1996 года российские солдаты задержали у въезда в Грозный чеченку с двумя братьями и потребовали за них три миллиона рублей, а вечером отпустили всех троих, и брат отдал им деньги(Citation: 988). 18 апреля российские военные забрали из домов в Новых Алдах, посёлке на юго-западной окраине Грозного, шестерых чеченцев, и родные выкупили их из фильтрационного лагеря на городской автобазе(Citation: 988).
+
+    МВД России и командование оккупационных войск требовали за задержанных чеченцев пленных российских военных, их тела и оружие.
+    В марте 1996 года сотрудники МВД России потребовали у родственниц чеченца, которого с января держали в фильтрационном лагере в Грозном, откопать и привезти тела трёх офицеров российского милицейского спецназа и в конце марта, получив тела, отпустили его(Citation: 27).
+    В марте 1996 года солдаты МВД России задержали на блокпосту между Гойтами и Старыми Атагами, сёлами к югу от Грозного, троих чеченцев, и 28 марта оккупанты обменяли их на пятерых российских солдат(Citation: 657). 7 апреля 1996 года российские военные увезли Саидаша Шамахурова из Гикалово, села к югу от Грозного, в Ханкалу, главную базу оккупационных войск на восточной окраине Грозного, где следователи требовали записать на магнитофон его просьбу обменять его на 15 пленных российских солдат и 48 строителей. 27 апреля оккупанты обменяли его на российского солдата(Citation: 657).
+    В мае 1996 года бойцы внутренних войск МВД России (предшественников современной Росгвардии) задержали в центре Грозного от 17 до 20 чеченцев, которые чинили трубы отопления, и на допросе потребовали, чтобы родные привезли за них оружие или пленных российских военных.
+    На следующий вечер охрана выпустила их(Citation: 657).
+
+    Российские солдаты брали заложников при штурмах и в окружении. 7 апреля 1995 года, при штурме Самашек, села на западе Ичкерии, оккупанты захватили в заложники четверых чеченских мужчин, загнали их в яму в гараже и расстреляли из автоматов.
+    Одного оккупанты убили на месте, раненого второго - на следующий день, двое выжили (подробнее: «Массовые убийства гражданских»)(Citation: 27). 10-12 августа 1996 года бойцы внутренних войск МВД России, окружённые Вооружёнными силами Ичкерии, держали в заложниках около 500 больных, их родных и медиков в 9-й городской больнице Грозного. 12 августа оккупанты ушли из больницы, взяв живым щитом сто заложников, и отпустили их у бывшей автошколы, где стояли российские части, когда защитники отдали четверых пленных российских солдат (подробнее: «Использование людей как «живого щита»»)(Citation: 921)(Citation: 27).
+
+    11 и 12 августа 1996 года, когда Вооружённые силы Ичкерии освобождали Грозный от оккупантов, солдаты 101-й бригады внутренних войск МВД России уводили чеченских мужчин из кварталов вокруг «15-го городка», своей базы на улице Ленина, и держали их там как заложников. 14 октября 1996 года Магомед Тарамов рассказал «Мемориалу», как 12 августа российские военные увели его из дома с сыном Алимханом: «Мы никакие не боевики [так россияне называли Вооружённые силы Ичкерии], участия в вооруженных действиях не принимали.
+    Нас они вывели на улицу, а там у стенки стоят еще человек девять...
+    Всего нас собралось человек двадцать четыре».
+    За освобождение заложников офицеры бригады требовали от родных привезти раненых солдат с окружённых российских блокпостов и тела погибших или добиться, чтобы армия Ичкерии пропустила на эти посты еду.
+    Гариб Асиялов, которого родственницы заложников позвали на переговоры у «15-го городка», в октябре рассказал «Мемориалу» слова российского офицера: «…я подчиняюсь Куликову [главе МВД России].
+    Будем менять голова на голову — нашего раненого или убитого на вашего живого».
+    По его словам, за раненых и убитых солдат, которых родные возили на грузовике, бригада отпустила 32 заложника(Citation: 921). 16 августа, когда родные привезли на базу тела восьми российских военных, оккупанты освободили Магомеда и Алимхана Тарамовых(Citation: 27).
+
+    17 августа 1996 года солдаты 101-й бригады обыскали кварталы у «15-го городка» и увели оттуда на базу как заложников чеченских мужчин.
+    Офицеры бригады пообещали отпустить их за тела российских солдат, закопанных у автовокзала и химического завода, и 19 августа, когда российские солдаты вывезли через позиции Вооружённых сил Ичкерии 28 тел, отпустили заложников.
+    Правозащитники «Мемориала» опубликовали имена двенадцати из них(Citation: 921) и пишут, что у «15-го городка» и в 9-й городской больнице Грозного бойцы внутренних войск брали заложников по прямому приказу командиров своих частей(Citation: 27).
+
+    Генеральный секретарь ООН в докладе от 26 марта 1996 года привёл сообщения правозащитных организаций: российские войска часто задерживали любого чеченского мужчину, были против него улики или нет, чтобы обменять на пленных российских солдат(Citation: 658).
+    Правозащитники «Мемориала» пишут, что ведомства России не раз использовали как заложников гражданских узников фильтрационных лагерей и в большинстве случаев предлагали Ичкерии в обмен чеченцев, которые не участвовали в боях.
+    По выводу «Мемориала», захват заложников стал для российских военных постоянной практикой(Citation: 27).
+
+    Российские прокуроры не отдали под суд никого из оккупантов, захвативших заложников в 9-й больнице и у «15-го городка» в Грозном (подробнее: «Безнаказанность исполнителей»)(Citation: 657)(Citation: 27).
+
+    В августе 1996 года Вооружённые силы Ичкерии освободили Грозный от оккупантов, вынудив Россию сесть за стол переговоров(Citation: 1127). 31 августа 1996 года были подписаны мирные соглашения в Хасавюрте (подробнее: «Фиктивные договоры»)(Citation: 661). 31 декабря 1996 года последние российские войска ушли из республики(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    The occupiers took peaceful Chechens hostage and released them in exchange for captured and killed Russian servicemen, weapons or money.
+
+    Russian servicemen drew up lists of detained Chechens for exchange and put on them people who by their age could not have carried weapons(Citation: 988).
+    According to a certificate by the prison service of the Russian Ministry of Internal Affairs, from 11 December 1994 to 22 July 1995 the ministry handed over 141 prisoners of the filtration camps for exchange for captured Russian servicemen (see: "Filtration Camp System")(Citation: 27).
+
+    Russian police officers and soldiers promised to release a detained Chechen if his relatives brought money, a Russian soldier out of captivity or the body of a dead one(Citation: 27)(Citation: 988).
+    The occupiers used the hostages' relatives to find out where the Armed Forces of Ichkeria were holding captured Russians: the relatives searched for captives to rescue their own, while the Russian FSB collected information from them and on 29 July 1995 drew up a certificate on the places where Russian soldiers were being held(Citation: 27)(Citation: 987).
+
+    On 9 January 1995, Russian servicemen detained Shamsu Magomadov in Grozny (see: "Abduction of People").
+    In the winter of 1995-1996, his sister Madina Magomadova sought her brother's exchange from Colonel Pilyugin of the Russian Ministry of Internal Affairs.
+    She told "Memorial": "They told me: 'Yes, your brother is alive, we will exchange him — find a soldier [a captured Russian soldier]'.
+    I found a soldier — I went through all those mountains, villages, there is a war on, under fire I searched for a soldier — I found one, brought a photograph.
+    They tell me: 'The soldier is a deserter, he is not subject to exchange…' … 'Go find an officer'. …
+    I found an officer, brought a photograph of the officer...
+    They tell me: sorry, Comrade Magomadova, your brother has been taken away from here, and where he is supposed to be, he has not been brought yet.
+    We cannot find him".
+    The occupiers never released Shamsu Magomadov, and nothing is known of his fate(Citation: 27).
+
+    Russian servicemen and security services put up for exchange the captured relatives and guards of the president of Ichkeria.
+    On 19 February 1995, the occupiers detained in Grozny Makharbi Dudayev, the president's younger brother, and on 6 April the Russian Ministry of Internal Affairs put him up for exchange in Malye Atagi, a village south of Grozny, together with 16 prisoners of the filtration camps.
+    The ministry exchanged the prisoners for a captured Russian major and released the president's brother separately(Citation: 27)(Citation: 921)(Citation: 1136).
+    On the night of 28 May 1996, Russian border guards detained the widow of the president of Ichkeria with her bodyguard at the airport of Nalchik, the capital of Russian-controlled Kabardino-Balkaria, and the Russian FSB released the widow but exchanged the bodyguard for a captured Russian priest(Citation: 712)(Citation: 1279).
+
+    Russian soldiers and filtration camp guards demanded ransom for detained Chechens.
+    In late March 1995, the guards of the military unit near Assinovskaya, a stanitsa in the west of Ichkeria, asked detained Chechens who would pay more to get out(Citation: 27).
+    In April 1995, the guards of the filtration camp on the northeastern outskirts of Grozny received five million rubles for the release of a detained Chechen(Citation: 986).
+    On 15 May 1995, Russian soldiers put a detained Chechen from Shali, a town southeast of Grozny, into a pit at their unit, offered to let him out for money and released him after 18 hours(Citation: 922).
+    In December 1995, Russian servicemen detained five elderly Chechens at a checkpoint, and their relatives ransomed them from a filtration camp for ten million rubles(Citation: 986).
+    On 17 April 1996, Russian soldiers detained a Chechen woman with her two brothers at the entrance to Grozny and demanded three million rubles for them, and in the evening released all three, and the brother gave them the money(Citation: 988).
+    On 18 April, Russian servicemen took six Chechens from their homes in Novye Aldy, a settlement on the southwestern outskirts of Grozny, and their relatives ransomed them from the filtration camp at the city motor depot(Citation: 988).
+
+    The Russian Ministry of Internal Affairs and the command of the occupation troops demanded captured Russian servicemen, their bodies and weapons for detained Chechens.
+    In March 1996, officers of the Russian Ministry of Internal Affairs demanded that the female relatives of a Chechen, held since January in the filtration camp in Grozny, dig up and bring the bodies of three officers of a Russian police special unit, and in late March, having received the bodies, released him(Citation: 27).
+    In March 1996, soldiers of the Russian Ministry of Internal Affairs detained three Chechens at the checkpoint between Goity and Starye Atagi, villages south of Grozny, and on 28 March the occupiers exchanged them for five Russian soldiers(Citation: 657).
+    On 7 April 1996, Russian servicemen took Saidash Shamakhurov from Gikalovo, a village south of Grozny, to Khankala, the main base of the occupation troops on the eastern outskirts of Grozny, where investigators demanded that he record on tape his request to be exchanged for 15 captured Russian soldiers and 48 construction workers.
+    On 27 April, the occupiers exchanged him for a Russian soldier(Citation: 657).
+    In May 1996, soldiers of the Internal Troops of the Russian Ministry of Internal Affairs (predecessors of today's Rosgvardia) detained in the center of Grozny 17 to 20 Chechens who were repairing heating pipes and demanded during interrogation that their relatives bring weapons or captured Russian servicemen for them.
+    The next evening the guards let them go(Citation: 657).
+
+    Russian soldiers took hostages during assaults and when encircled.
+    On 7 April 1995, during the storming of Samashki, a village in the west of Ichkeria, the occupiers took four Chechen men hostage, drove them into a pit in a garage and fired at them with assault rifles.
+    One the occupiers killed on the spot, the wounded second one the next day; two survived (see: "Mass Killings of Civilians")(Citation: 27).
+    On 10-12 August 1996, soldiers of the Internal Troops of the Russian Ministry of Internal Affairs, encircled by the Armed Forces of Ichkeria, held about 500 patients, their relatives and medics hostage in City Hospital No. 9 in Grozny.
+    On 12 August, the occupiers left the hospital, taking a hundred hostages as a human shield, and released them near the former driving school where Russian units were stationed, once the defenders had handed over four captured Russian soldiers (see: "Use of People as “Human Shields”")(Citation: 921)(Citation: 27).
+
+    On 11 and 12 August 1996, when the Armed Forces of Ichkeria were liberating Grozny from the occupiers, soldiers of the 101st Brigade of the Internal Troops of the Russian Ministry of Internal Affairs took Chechen men from the blocks around the "15th Gorodok", their base on Lenin Street, and held them there as hostages.
+    On 14 October 1996, Magomed Taramov told "Memorial" how on 12 August Russian servicemen took him from his home together with his son Alimkhan: "We are no 'boyeviki' [as Russians called the Armed Forces of Ichkeria], we took no part in the armed actions.
+    They led us out into the street, and there by the wall stood another nine or so people...
+    In all, about twenty-four of us were gathered".
+    For the release of the hostages, the brigade's officers demanded that relatives bring wounded soldiers from the encircled Russian checkpoints and the bodies of the dead, or get the army of Ichkeria to let food through to those posts.
+    Garib Asiyalov, whom the hostages' female relatives called to the talks at the "15th Gorodok", in October told "Memorial" the words of a Russian officer: "…I answer to Kulikov [the head of the Russian Ministry of Internal Affairs].
+    We will trade head for head — our wounded or dead one for your living one".
+    According to him, for the wounded and dead soldiers whom the relatives brought by truck, the brigade released 32 hostages(Citation: 921).
+    On 16 August, when relatives brought the bodies of eight Russian servicemen to the base, the occupiers released Magomed and Alimkhan Taramov(Citation: 27).
+
+    On 17 August 1996, soldiers of the 101st Brigade searched the blocks near the "15th Gorodok" and took Chechen men from there to the base as hostages.
+    The brigade's officers promised to release them for the bodies of Russian soldiers buried near the bus station and the chemical plant, and on 19 August, when Russian soldiers brought 28 bodies out through the positions of the Armed Forces of Ichkeria, they released the hostages.
+    The human rights defenders of "Memorial" published the names of twelve of them(Citation: 921) and write that at the "15th Gorodok" and in City Hospital No. 9 in Grozny the soldiers of the Internal Troops took hostages on the direct orders of the commanders of their units(Citation: 27).
+
+    In his report of 26 March 1996, the UN Secretary-General cited reports by human rights organizations: Russian troops often detained any Chechen man, whether there was evidence against him or not, in order to exchange him for captured Russian soldiers(Citation: 658).
+    The human rights defenders of "Memorial" write that Russian agencies repeatedly used civilian prisoners of the filtration camps as hostages and in most cases offered Ichkeria in exchange Chechens who had not taken part in the fighting.
+    In "Memorial's" conclusion, hostage-taking became a regular practice for the Russian military(Citation: 27).
+
+    Russian prosecutors put none of the occupiers who took hostages in Hospital No. 9 and at the "15th Gorodok" in Grozny on trial (see: "Impunity of Perpetrators")(Citation: 657)(Citation: 27).
+
+    In August 1996, the Armed Forces of Ichkeria liberated Grozny from the occupiers, forcing Russia to the negotiating table(Citation: 1127).
+    On 31 August 1996, peace agreements were signed in Khasavyurt (see: "Sham Treaties")(Citation: 661).
+    On 31 December 1996, the last Russian troops left the republic(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти брали мирних чеченців у заручники й відпускали їх в обмін на полонених і вбитих російських військових, зброю або гроші.
+
+    Російські військові складали списки затриманих чеченців для обміну і вносили до них людей, які за віком не могли тримати зброю(Citation: 988).
+    За довідкою тюремного відомства МВС Росії, з 11 грудня 1994 року по 22 липня 1995 року міністерство передало для обміну на полонених російських військових 141 в'язня фільтраційних таборів (докладніше: «Система фільтраційних таборів»)(Citation: 27).
+
+    Російські міліціонери й солдати обіцяли відпустити затриманого чеченця, якщо його рідні привезуть гроші, російського солдата з полону або тіло загиблого(Citation: 27)(Citation: 988).
+    Окупанти використовували родичів заручників, щоб дізнатися, де Збройні сили Ічкерії тримають полонених росіян: рідні шукали полонених, щоб визволити своїх, а ФСБ Росії збирала в них відомості і 29 липня 1995 року склала довідку про місця, де тримають російських солдатів(Citation: 27)(Citation: 987).
+
+    9 січня 1995 року російські військові затримали в Грозному Шамсу Магомадова (докладніше: «Викрадення людей»).
+    Узимку 1995-1996 років його сестра Мадіна Магомадова домагалася в полковника МВС Росії Пілюгіна обміну брата.
+    Вона розповіла «Меморіалу»: «Мені сказали: «Так, твій брат живий, ми обміняємо — знайди солдата [полоненого російського солдата]».
+    Знайшла я солдата — пройшла всі ці гори, села, іде війна, під обстрілом я шукала солдата — знайшла, принесла фотографію.
+    Мені кажуть: «Солдат — дезертир, не підлягає обміну…» …
+    «Іди, шукай офіцера». … знайшла офіцера, принесла фотографію офіцера...
+    Мені кажуть: вибачте, товаришко Магомадова, вашого брата звідси повезли, а туди, де він має бути, його ще не привезли.
+    Ми його не можемо знайти».
+    Окупанти так і не звільнили Шамсу Магомадова, і про його долю нічого не відомо(Citation: 27).
+
+    Російські військові та спецслужби виставляли на обмін захоплених родичів і охорону президента Ічкерії. 19 лютого 1995 року окупанти затримали в Грозному Махарбі Дудаєва, молодшого брата президента, а 6 квітня МВС Росії виставило його на обмін у Малих Атагах, селі на південь від Грозного, разом із 16 в'язнями фільтраційних таборів.
+    Міністерство обміняло в'язнів на полоненого російського майора, а брата президента відпустило окремо(Citation: 27)(Citation: 921)(Citation: 1136).
+    У ніч на 28 травня 1996 року російські прикордонники затримали в аеропорту Нальчика, столиці підконтрольної Росії Кабардино-Балкарії, вдову президента Ічкерії з її охоронцем, і ФСБ Росії відпустила вдову, а охоронця обміняла на полоненого російського священника(Citation: 712)(Citation: 1279).
+
+    Російські солдати та охорона фільтраційних таборів вимагали викуп за затриманих чеченців.
+    Наприкінці березня 1995 року охоронці військової частини біля Ассинівської, станиці на заході Ічкерії, запитували затриманих чеченців, хто більше заплатить, щоб вийти(Citation: 27).
+    У квітні 1995 року охорона фільтраційного табору на північно-східній околиці Грозного отримала п'ять мільйонів рублів за звільнення затриманого чеченця(Citation: 986). 15 травня 1995 року російські солдати посадили затриманого чеченця із Шалі, міста на південний схід від Грозного, у яму при своїй частині, пропонували йому вийти за гроші й через 18 годин відпустили(Citation: 922).
+    У грудні 1995 року російські військові затримали на блокпості п'ятьох літніх чеченців, і рідні викупили їх із фільтраційного табору за десять мільйонів рублів(Citation: 986). 17 квітня 1996 року російські солдати затримали біля в'їзду в Грозний чеченку з двома братами й зажадали за них три мільйони рублів, а ввечері відпустили всіх трьох, і брат віддав їм гроші(Citation: 988). 18 квітня російські військові забрали з будинків у Нових Алдах, селищі на південно-західній околиці Грозного, шістьох чеченців, і рідні викупили їх із фільтраційного табору на міській автобазі(Citation: 988).
+
+    МВС Росії та командування окупаційних військ вимагали за затриманих чеченців полонених російських військових, їхні тіла та зброю.
+    У березні 1996 року співробітники МВС Росії зажадали від родичок чеченця, якого з січня тримали у фільтраційному таборі в Грозному, відкопати й привезти тіла трьох офіцерів російського міліцейського спецназу і наприкінці березня, отримавши тіла, відпустили його(Citation: 27).
+    У березні 1996 року солдати МВС Росії затримали на блокпості між Гойтами і Старими Атагами, селами на південь від Грозного, трьох чеченців, і 28 березня окупанти обміняли їх на п'ятьох російських солдатів(Citation: 657). 7 квітня 1996 року російські військові вивезли Саідаша Шамахурова з Гікалова, села на південь від Грозного, до Ханкали, головної бази окупаційних військ на східній околиці Грозного, де слідчі вимагали записати на магнітофон його прохання обміняти його на 15 полонених російських солдатів і 48 будівельників. 27 квітня окупанти обміняли його на російського солдата(Citation: 657).
+    У травні 1996 року бійці внутрішніх військ МВС Росії (попередників сучасної Росгвардії) затримали в центрі Грозного від 17 до 20 чеченців, які лагодили труби опалення, і на допиті зажадали, щоб рідні привезли за них зброю або полонених російських військових.
+    Наступного вечора охорона випустила їх(Citation: 657).
+
+    Російські солдати брали заручників під час штурмів і в оточенні. 7 квітня 1995 року, під час штурму Самашок, села на заході Ічкерії, окупанти захопили в заручники чотирьох чеченських чоловіків, загнали їх у яму в гаражі й розстріляли з автоматів.
+    Одного окупанти вбили на місці, пораненого другого - наступного дня, двоє вижили (докладніше: «Масові вбивства цивільних»)(Citation: 27). 10-12 серпня 1996 року бійці внутрішніх військ МВС Росії, оточені Збройними силами Ічкерії, тримали в заручниках близько 500 хворих, їхніх рідних і медиків у 9-й міській лікарні Грозного. 12 серпня окупанти пішли з лікарні, узявши живим щитом сто заручників, і відпустили їх біля колишньої автошколи, де стояли російські частини, коли захисники віддали чотирьох полонених російських солдатів (докладніше: «Використання людей як «живого щита»»)(Citation: 921)(Citation: 27).
+
+    11 і 12 серпня 1996 року, коли Збройні сили Ічкерії звільняли Грозний від окупантів, солдати 101-ї бригади внутрішніх військ МВС Росії виводили чеченських чоловіків із кварталів навколо «15-го містечка», своєї бази на вулиці Леніна, і тримали їх там як заручників. 14 жовтня 1996 року Магомед Тарамов розповів «Меморіалу», як 12 серпня російські військові вивели його з дому разом із сином Алімханом: «Ми ніякі не бойовики [так росіяни називали Збройні сили Ічкерії], участі у збройних діях не брали.
+    Нас вони вивели на вулицю, а там біля стінки стоять ще людей дев'ять...
+    Усього нас зібралося людей двадцять чотири».
+    За звільнення заручників офіцери бригади вимагали від рідних привезти поранених солдатів з оточених російських блокпостів і тіла загиблих або домогтися, щоб армія Ічкерії пропустила на ці пости їжу.
+    Гаріб Асіялов, якого родички заручників покликали на переговори біля «15-го містечка», у жовтні переказав «Меморіалу» слова російського офіцера: «…я підпорядковуюся Кулікову [главі МВС Росії].
+    Будемо міняти голову на голову — нашого пораненого або вбитого на вашого живого».
+    За його словами, за поранених і вбитих солдатів, яких рідні возили на вантажівці, бригада відпустила 32 заручників(Citation: 921). 16 серпня, коли рідні привезли на базу тіла восьми російських військових, окупанти звільнили Магомеда й Алімхана Тарамових(Citation: 27).
+
+    17 серпня 1996 року солдати 101-ї бригади обшукали квартали біля «15-го містечка» і повели звідти на базу як заручників чеченських чоловіків.
+    Офіцери бригади пообіцяли відпустити їх за тіла російських солдатів, закопаних біля автовокзалу та хімічного заводу, і 19 серпня, коли російські солдати вивезли через позиції Збройних сил Ічкерії 28 тіл, відпустили заручників.
+    Правозахисники «Меморіалу» опублікували імена дванадцяти з них(Citation: 921) і пишуть, що біля «15-го містечка» та в 9-й міській лікарні Грозного бійці внутрішніх військ брали заручників за прямим наказом командирів своїх частин(Citation: 27).
+
+    Генеральний секретар ООН у доповіді від 26 березня 1996 року навів повідомлення правозахисних організацій: російські війська часто затримували будь-якого чеченського чоловіка, були проти нього докази чи ні, щоб обміняти на полонених російських солдатів(Citation: 658).
+    Правозахисники «Меморіалу» пишуть, що відомства Росії не раз використовували як заручників цивільних в'язнів фільтраційних таборів і здебільшого пропонували Ічкерії в обмін чеченців, які не брали участі в боях.
+    За висновком «Меморіалу», захоплення заручників стало для російських військових постійною практикою(Citation: 27).
+
+    Російські прокурори не віддали під суд нікого з окупантів, які захопили заручників у 9-й лікарні та біля «15-го містечка» в Грозному (докладніше: «Безкарність виконавців»)(Citation: 657)(Citation: 27).
+
+    У серпні 1996 року Збройні сили Ічкерії звільнили Грозний від окупантів, змусивши Росію сісти за стіл переговорів(Citation: 1127). 31 серпня 1996 року було підписано мирні угоди в Хасав'юрті (докладніше: «Фіктивні договори»)(Citation: 661). 31 грудня 1996 року останні російські війська пішли з республіки(Citation: 27).

@@ -1,0 +1,23 @@
+type: technique
+id: T0115.002
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+parent: T0115
+tactics:
+- TA0005
+name:
+  ru: Фольклоризация родной культуры
+  en: Folklorization of the Native Culture
+  uk: Фольклоризація рідної культури
+contributors: []
+description:
+  ru: |-
+    В рамках культурной ассимиляции агрессоры могут целенаправленно сводить богатую и многогранную культуру коренного народа к примитивному, развлекательному или исключительно сельскому фольклору.
+    Вытеснение местных традиций из академической, философской и городской среды в категорию архаичной этнографии позволяет колонизатору искусственно закрепить за собственной культурой статус единственного носителя прогресса и цивилизации.
+  en: |-
+    As part of cultural assimilation, aggressors may deliberately reduce the rich and multifaceted culture of the Indigenous people to primitive, entertainment-oriented, or exclusively rural folklore.
+    Pushing local traditions out of the academic, philosophical, and urban spheres into the category of archaic ethnography allows the colonizer to artificially secure for its own culture the status of the sole bearer of progress and civilization.
+  uk: |-
+    У межах культурної асиміляції агресори можуть цілеспрямовано зводити багату й багатогранну культуру корінного народу до примітивного, розважального або виключно сільського фольклору.
+    Витіснення місцевих традицій з академічного, філософського та міського середовища в категорію архаїчної етнографії дає колонізаторові змогу штучно закріпити за власною культурою статус єдиного носія прогресу та цивілізації.

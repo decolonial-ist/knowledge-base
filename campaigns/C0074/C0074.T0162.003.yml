@@ -1,0 +1,38 @@
+type: procedure
+id: C0074.T0162.003
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0162.003
+people: ukrainians
+actor: G0013
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Отступая из Харькова в июне 1919 года, тайная полиция большевиков убивала своих заключённых и заложников - украинцев, сидевших по её тюрьмам без суда.
+    По подсчёту, приведённому в сводке Информационной части белых, за месяцы большевистской оккупации Харькова расстреляно свыше 1000 человек: убивали ежедневно по 40-50, «причем последние дни эта цифра сильно возросла»; среди убитых названы бывший губернатор Бантыш с сыном, генералы Нечаев и Кусков, князь Путятин(Citation: 574).
+    Раскопки после ухода большевиков дали 239 трупов; судебно-медицинское исследование установило факты погребения живых, издевательств и пыток.
+    В устроенном тайной полицией концентрационном лагере на Чайковской улице вырыты 33 трупа расстрелянных заложников(Citation: 574).
+    Свидетель из лагеря, враждебного белым, - левый эсер Карелин, сидевший в харьковской тюрьме, - подтвердил и распорядок, и последний день: комендант харьковской тайной полиции Саенко «обыкновенно всех приговоренных... расстреливал собственноручно», а «в последний день нашего пребывания в Харьковской тюрьме... было расстреляно 120 человек на заднем дворике нашей тюрьмы»(Citation: 562).
+    Приговоров не было: следователи харьковской тайной полиции Португейс и Фельдман, по документам, изученным историком Мельгуновым, «расстреливали в 1919 г. уже без всяких протоколов» - резолюцией карандашом «Баеву, как неисправимую преступницу, расстрелять»(Citation: 562).
+    Перед уходом из соседнего Волчанска большевики расстреляли 64 заложника, среди них - начальница женской гимназии(Citation: 574).
+    В слободе Великий Бурлук того же Волчанского уезда большевики казнили всю семью князя Вадбольского - девять человек, среди них две 80-летние старухи и бонна-англичанка; составители сводки записали: «их раздели догола, привели за домовую церковь, зажгли свечи, приказали стать на колени и молиться, а затем под свист и крики начали отрезать им уши, рубить шашками и, когда жертвы теряли сознание, их пристреливали»(Citation: 574).
+  en: |-
+    Retreating from Kharkiv in June 1919, the Bolsheviks' secret police killed its own prisoners and hostages - Ukrainians held in its jails without trial.
+    By the count given in a summary of the Whites' Information Section, over the months of the Bolshevik occupation of Kharkiv more than 1,000 people were shot: 40-50 were killed daily, "and in the last days this figure rose sharply"; among the named dead were former governor Bantysh with his son, generals Nechaev and Kuskov, prince Putyatin(Citation: 574).
+    Excavations after the Bolsheviks left yielded 239 bodies; forensic medical examination established facts of burial alive, of torment and of torture.
+    In the concentration camp the secret police had set up on Chaikovska street, 33 bodies of executed hostages were dug up(Citation: 574).
+    A witness from the camp hostile to the Whites - the left SR Karelin, held in the Kharkiv prison - confirmed both the routine and the last day: Saenko, commandant of the Kharkiv secret police, "usually shot all the condemned... with his own hand," and "on the last day of our stay in the Kharkiv prison... 120 people were shot in the back yard of our prison"(Citation: 562).
+    There were no sentences: Kharkiv secret police investigators Portugeis and Feldman, by the documents studied by the historian Melgunov, "in 1919 shot people without any protocols at all" - by a pencilled resolution, "Baeva, as an incorrigible criminal, to be shot"(Citation: 562).
+    Before leaving neighbouring Vovchansk the Bolsheviks shot 64 hostages, among them the headmistress of the girls' gymnasium(Citation: 574).
+    In the settlement of Velykyi Burluk in the same Vovchansk district the Bolsheviks executed the entire family of prince Vadbolsky - nine people, among them two 80-year-old women and an English governess; the compilers of the summary recorded: "they were stripped naked, led behind the house church, candles were lit, they were ordered to kneel and pray, and then, to whistling and shouting, their ears were cut off, they were hacked with sabres and, as the victims lost consciousness, finished off with shots"(Citation: 574).
+  uk: |-
+    Відступаючи з Харкова в червні 1919 року, таємна поліція більшовиків убивала своїх в'язнів і заручників - українців, що сиділи по її тюрмах без суду.
+    За підрахунком, наведеним у зведенні Інформаційної частини білих, за місяці більшовицької окупації Харкова розстріляно понад 1000 осіб: убивали щодня по 40-50, «причому останніми днями ця цифра сильно зросла»; серед убитих названі колишній губернатор Бантиш із сином, генерали Нечаєв і Кусков, князь Путятін(Citation: 574).
+    Розкопки після відходу більшовиків дали 239 трупів; судово-медичне дослідження встановило факти поховання живих, знущань і катувань.
+    У влаштованому таємною поліцією концентраційному таборі на Чайковській вулиці вирито 33 трупи розстріляних заручників(Citation: 574).
+    Свідок із табору, ворожого білим, - лівий есер Карелін, що сидів у харківській тюрмі, - підтвердив і розпорядок, і останній день: комендант харківської таємної поліції Саєнко «звичайно всіх засуджених... розстрілював власноруч», а «в останній день нашого перебування в Харківській тюрмі... було розстріляно 120 осіб на задньому дворику нашої тюрми»(Citation: 562).
+    Вироків не було: слідчі харківської таємної поліції Португейс і Фельдман, за документами, вивченими істориком Мельгуновим, «розстрілювали в 1919 р. вже без усяких протоколів» - резолюцією олівцем «Баєву, як невиправну злочинницю, розстріляти»(Citation: 562).
+    Перед відходом із сусіднього Вовчанська більшовики розстріляли 64 заручники, серед них - начальниця жіночої гімназії(Citation: 574).
+    У слободі Великий Бурлук того ж Вовчанського повіту більшовики стратили всю родину князя Вадбольського - дев'ять осіб, серед них дві 80-річні старі жінки і бонна-англійка; укладачі зведення записали: «їх роздягли догола, привели за домову церкву, запалили свічки, наказали стати на коліна й молитися, а потім під свист і крики почали відрізати їм вуха, рубати шаблями і, коли жертви втрачали свідомість, їх пристрілювали»(Citation: 574).

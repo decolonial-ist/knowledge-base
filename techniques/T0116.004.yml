@@ -1,0 +1,23 @@
+type: technique
+id: T0116.004
+created: 2026-09-06
+modified: 2026-09-06
+version: '1.0'
+parent: T0116
+tactics:
+- TA0005
+name:
+  ru: Запрет религиозной практики коренного народа
+  en: Ban on the Indigenous People's Religious Practice
+  uk: Заборона релігійної практики корінного народу
+contributors: []
+description:
+  ru: |-
+    В рамках религиозной ассимиляции агрессоры могут запрещать и преследовать веру колонизируемых как таковую - именно религию коренного народа, а не религию вообще, - не предлагая своей веры взамен: объявлять святыни «закрытыми», запрещать паломничество и коллективные обряды, судить за печать и распространение священных книг и учебников, ставить верующих и духовных наставников на учёт и «нейтрализовывать» их.
+    Расчистка сакральной сферы от местной веры - первый этап ассимиляции: на опустевшее место затем приходят праздники и религия метрополии, а через поколение принадлежность к ней выглядит для колонизированных естественной.
+  en: |-
+    As part of religious assimilation, aggressors may ban and persecute the faith of the colonised as such - specifically the religion of the indigenous people, not religion in general - without offering their own faith in return: declaring shrines "closed," banning pilgrimage and collective rites, prosecuting the printing and distribution of sacred books and textbooks, registering believers and spiritual leaders and "neutralising" them.
+    Clearing the sacred sphere of the local faith is the first stage of assimilation: the holidays and religion of the metropole then move into the vacated space, and within a generation belonging to it looks natural to the colonised.
+  uk: |-
+    У межах релігійної асиміляції агресори можуть забороняти й переслідувати віру колонізованих як таку - саме релігію корінного народу, а не релігію взагалі, - не пропонуючи своєї віри натомість: оголошувати святині «закритими», забороняти паломництво та колективні обряди, судити за друк і поширення священних книг і підручників, брати вірян і духовних наставників на облік і «нейтралізовувати» їх.
+    Розчищення сакральної сфери від місцевої віри - перший етап асиміляції: на спорожніле місце потім приходять свята й релігія метрополії, а через покоління належність до неї виглядає для колонізованих природною.

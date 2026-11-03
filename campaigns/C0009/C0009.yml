@@ -1,0 +1,26 @@
+type: campaign
+id: C0009
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.3'
+people: ukrainians
+first_seen: 1686-01-01
+last_seen: 1686-05-01
+contributors: []
+name:
+  ru: «Вечный мир» с Польшей (1686)
+  en: '"Eternal Peace" with Poland (1686)'
+  uk: «Вічний мир» з Польщею (1686)
+description:
+  ru: |-
+    Юридическая легитимация раздела территорий между Московским царством и Речью Посполитой за спиной Гетманщины, окончательно превратившая Украину в бесправный объект торгов.
+    Сделка была закреплена финансово – по тексту договора 1686 года Москва обязалась «для вечного покою подлинное число денег, се есть, сто сорок шесть тысяч рублев Московских отчесть и Речи Посполитой отдать»(Citation: 162).
+    «Российские историки обычно оценивают Вечный мир как большой дипломатический успех Голицына, польские — как свое крупное поражение, а современные украинские — как национальную трагедию Украины»(Citation: 3).
+  en: |-
+    The legal legitimation of the partition of territories between the Tsardom of Muscovy and the Polish-Lithuanian Commonwealth behind the Hetmanate's back, definitively turning Ukraine into a rightless object of bargaining.
+    The deal was sealed financially – under the text of the 1686 treaty Moscow undertook "for eternal peace to count out a genuine sum of money, that is, one hundred forty-six thousand Muscovite rubles, and hand it over to the Commonwealth"(Citation: 162).
+    "Russian historians usually assess the Eternal Peace as Golitsyn's great diplomatic success, Polish ones – as their major defeat, and contemporary Ukrainian ones – as a national tragedy of Ukraine"(Citation: 3).
+  uk: |-
+    Юридична легітимація поділу територій між Московським царством і Річчю Посполитою за спиною Гетьманщини, що остаточно перетворила Україну на безправний об'єкт торгів.
+    Угоду було закріплено фінансово – за текстом договору 1686 року Москва зобов'язалася «для вічного покою справжнє число грошей, себто сто сорок шість тисяч рублів московських, відлічити і Речі Посполитій віддати»(Citation: 162).
+    «Російські історики зазвичай оцінюють Вічний мир як великий дипломатичний успіх Голіцина, польські — як свою велику поразку, а сучасні українські — як національну трагедію України»(Citation: 3).

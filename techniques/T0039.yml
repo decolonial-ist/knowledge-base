@@ -1,0 +1,26 @@
+type: technique
+id: T0039
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0003
+- TA0002
+name:
+  ru: Сговор с третьей стороной за спиной народа
+  en: Collusion with a Third Party Behind the People's Back
+  uk: Змова з третьою стороною за спиною народу
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут заключать тайные или открытые дипломатические соглашения с другими геополитическими игроками о разделе сфер влияния, полностью игнорируя суверенитет и интересы коренного народа.
+    Данная техника применяется для дипломатической подготовки к захвату и последующего захвата управления.
+    Сделки за спиной колонизируемого общества позволяют агрессору лишить его потенциальных международных союзников, легитимизировать оккупацию на внешнеполитическом уровне и беспрепятственно расчленить территории местного населения.
+  en: |-
+    Aggressors may conclude secret or open diplomatic agreements with other geopolitical players on the division of spheres of influence, completely ignoring the sovereignty and interests of the Indigenous people.
+    This technique is used for diplomatic preparation for seizure and the subsequent seizure of governance.
+    Deals made behind the back of the colonized society allow the aggressor to deprive it of potential international allies, legitimize the occupation at the foreign-policy level, and dismember the territories of the local population unimpeded.
+  uk: |-
+    Агресори можуть укладати таємні чи відкриті дипломатичні угоди з іншими геополітичними гравцями про поділ сфер впливу, повністю ігноруючи суверенітет та інтереси корінного народу.
+    Ця техніка застосовується для дипломатичної підготовки до захоплення та подальшого захоплення управління.
+    Угоди за спиною колонізованого суспільства дають агресорові змогу позбавити його потенційних міжнародних союзників, легітимізувати окупацію на зовнішньополітичному рівні та безперешкодно розчленувати території місцевого населення.

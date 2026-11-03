@@ -1,0 +1,27 @@
+type: procedure
+id: C1160.T0104
+created: 2026-07-18
+modified: 2026-07-18
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    При истреблении Малой Чечни экспедицией Фезе в январе 1837 года войска убивали жителей, не оказывавших вооружённого сопротивления.
+    Журнал экспедиции, представленный Розеном военному министру Чернышеву 11 февраля 1837, записывает: окружённый в ночь на 24 января Шалаж-юрт взят «без выстрела, положив на месте 14 душ»(Citation: 105) - убийства в селе, которое не давало вооружённого отпора. 25 января Фезе, по тому же журналу, отправил колонны «для открытия и уничтожения народонаселения в густых лесах вверх по обоим берегам р. Шалажи» - распоряжение об уничтожении населения прямым текстом(Citation: 105).
+    У Урус-Мартана после бегства жителей, записывает журнал, «убитых тел неприятельских осталось на месте 23»(Citation: 105).
+    Итоговое число убитых по эпизодам в журнале не сведено; часть павших вела вооружённую оборону - техника фиксируется по убийствам в селе, взятом без выстрела, и по приказу об уничтожении населения.
+  en: |-
+    During the annihilation of Lesser Chechnya by Feze's expedition in January 1837, the troops killed inhabitants who offered no armed resistance.
+    The expedition journal, presented by Rozen to Minister of War Chernyshev on 11 February 1837, records: Shalazh-yurt, surrounded on the night of 24 January, was taken "without a shot, laying 14 souls on the spot"(Citation: 105) - killings in a village that put up no armed fight.
+    On 25 January Feze, according to the same journal, dispatched columns "to discover and destroy the population in the dense forests up both banks of the Shalazha river" - an order for the destruction of the population in so many words(Citation: 105).
+    At Urus-Martan, after the inhabitants had fled, the journal records, "23 enemy bodies remained on the spot"(Citation: 105).
+    The total number of the killed is not summed up by episode in the journal; some of the fallen fought an armed defense - the technique is recorded on the basis of the killings in a village taken without a shot and of the order to destroy the population.
+  uk: |-
+    Під час винищення Малої Чечні експедицією Фезе в січні 1837 року війська вбивали жителів, які не чинили збройного опору.
+    Журнал експедиції, представлений Розеном військовому міністру Чернишову 11 лютого 1837, записує: оточений у ніч на 24 січня Шалаж-юрт узятий «без пострілу, поклавши на місці 14 душ»(Citation: 105) - вбивства в селі, яке не давало збройної відсічі. 25 січня Фезе, за тим же журналом, відправив колони «для відкриття і знищення народонаселення в густих лісах вгору по обох берегах р. Шалажі» - розпорядження про знищення населення прямим текстом(Citation: 105).
+    Біля Урус-Мартана після втечі жителів, записує журнал, «убитих тіл ворожих залишилося на місці 23»(Citation: 105).
+    Підсумкове число вбитих за епізодами в журналі не зведене; частина полеглих вела збройну оборону - техніка фіксується за вбивствами в селі, взятому без пострілу, і за наказом про знищення населення.

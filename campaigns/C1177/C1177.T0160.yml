@@ -1,0 +1,26 @@
+type: procedure
+id: C1177.T0160
+created: 2026-08-13
+modified: 2026-08-13
+version: '1.0'
+technique: T0160
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Инструкция о массовых обысках, изданная к операции штабом ОГПУ (политической полиции, предшественницы современной ФСБ), устанавливает, что арестованные до окончания следствия сосредотачиваются при штабах районных групп ОГПУ, а о дальнейшем пункт 19 говорит: «Порядок ведения следствия и дальнейшего направления арестованного предусматривается в положении о тройках по внесудебному разбирательству дел»(Citation: 479).
+    «Основные задачи Особых оперативных групп ОГПУ», утверждённые полномочным представителем ОГПУ по краю Евдокимовым, командующим Северо-Кавказским военным округом Уборевичем и членом Реввоенсовета округа Володиным, включают тот же порядок прямо в перечень задач: «Изъятие контрреволюционного, бандитского и прочего преступного антисоветского элемента... учет такового, ведение следствия и внесудебного разбирательства дел по ним и транспортирование их по месту назначения»(Citation: 479).
+    Через этот порядок прошли 183 арестованных из более чем трёхсот взятых в ходе операции - следствие по ним закончилось внесудебным расстрелом(Citation: 125).
+    Право внесудебной расправы ОГПУ получило годом раньше - секретным постановлением Президиума ЦИК от 9 мая 1924 года (кампания C1176); инструкция операции применила его к арестованным.
+  en: |-
+    The instruction on mass searches, issued for the operation by the staff of the OGPU (the political police, a predecessor of today's FSB), establishes that until the end of the investigation the arrested are concentrated at the staffs of the OGPU district groups, and of what follows point 19 says: "The procedure for conducting the investigation and the further routing of the arrested is provided for in the regulations on the troikas for the extrajudicial examination of cases"(Citation: 479).
+    The "Main Tasks of the Special Operational Groups of the OGPU", approved by Yevdokimov, plenipotentiary representative of the OGPU for the krai, Uborevich, commander of the North Caucasus Military District, and Volodin, member of the district's Revolutionary Military Council, include the same procedure directly in the list of tasks: "The removal of the counter-revolutionary, bandit and other criminal anti-Soviet element... the registration of the same, the conduct of the investigation and the extrajudicial examination of their cases and their transportation to the place of destination"(Citation: 479).
+    Through this procedure passed 183 of the more than three hundred arrested in the course of the operation - the investigation of their cases ended in extrajudicial shooting(Citation: 125).
+    The OGPU had received the right of extrajudicial reprisal a year earlier - by a secret resolution of the Presidium of the TsIK of 9 May 1924 (campaign C1176); the operation's instruction applied it to the arrested.
+  uk: |-
+    Інструкція про масові обшуки, видана до операції штабом ОГПУ (політичної поліції, попередниці сучасної ФСБ), встановлює, що заарештовані до закінчення слідства зосереджуються при штабах районних груп ОГПУ, а про подальше пункт 19 говорить: «Порядок ведення слідства і подальшого направлення заарештованого передбачається в положенні про трійки з позасудового розгляду справ»(Citation: 479).
+    «Основні завдання Особливих оперативних груп ОГПУ», затверджені повноважним представником ОГПУ по краю Євдокимовим, командувачем Північно-Кавказького військового округу Уборевичем і членом Реввійськради округу Володіним, включають той самий порядок прямо в перелік завдань: «Вилучення контрреволюційного, бандитського та іншого злочинного антирадянського елементу... облік такого, ведення слідства і позасудового розгляду справ по них і транспортування їх за місцем призначення»(Citation: 479).
+    Через цей порядок пройшли 183 заарештовані з понад трьохсот узятих у ході операції - слідство по них закінчилося позасудовим розстрілом(Citation: 125).
+    Право позасудової розправи ОГПУ отримало роком раніше - секретною постановою Президії ЦВК від 9 травня 1924 року (кампанія C1176); інструкція операції застосувала його до заарештованих.

@@ -1,0 +1,23 @@
+type: procedure
+id: C1146.T0077
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0077
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя посылала войска карательными походами наказывать нохчи за сопротивление и сгонять их с равнины.
+    Историк Д. А. Хожаев приводит рапорт начальника левого фланга Кавказской линии Грекова, прямо излагавшего цель походов: согнать чеченцев в леса, где «не доставало только снегу и холодной погоды, чтобы народ чеченский… почувствовал необходимость покориться», и отмечает, что экспедиция Грекова «уничтожила… два аула — Шали и Малая Атага, жители которых принимали более активное участие в волнениях»(Citation: 95).
+    Имперский историк Потто подтверждает: 1 марта 1821 года войска «окружили селение Ойсунгур… и в наказание жителей, бежавших перед их приходом, совершенно его разрушили», а в феврале 1822 года Греков «сжёг селения Шали и Малые Атаги»(Citation: 75).
+  en: |-
+    The Russian Empire sent troops on punitive campaigns to punish the Nokhchi for resistance and drive them off the plain.
+    Historian D. A. Khozhaev cites the report of Grekov, commander of the left flank of the Caucasian Line, who stated the campaigns’ purpose plainly: to drive the Chechens into the forests, where “only snow and cold weather were lacking for the Chechen people… to feel the necessity of submitting,” and notes that Grekov’s expedition “destroyed… two auls — Shali and Malaya Ataga, whose inhabitants had taken a more active part in the unrest”(Citation: 95).
+    The imperial historian Potto confirms: on March 1, 1821, the troops “surrounded the village of Oisungur… and, to punish the inhabitants who had fled before their arrival, destroyed it completely,” and in February 1822 Grekov “burned the villages of Shali and Malye Atagi”(Citation: 75).
+  uk: |-
+    Російська імперія посилала війська каральними походами карати Нохчі за опір і зганяти їх із рівнини.
+    Історик Д. А. Хожаєв наводить рапорт начальника лівого флангу Кавказької лінії Грекова, який прямо викладав мету походів: загнати Чеченців у ліси, де «бракувало лише снігу та холодної погоди, щоб народ чеченський… відчув необхідність покоритися», і зазначає, що експедиція Грекова «знищила… два аули — Шалі та Малу Атагу, жителі яких брали активнішу участь у заворушеннях»(Citation: 95).
+    Імперський історик Потто підтверджує: 1 березня 1821 року війська «оточили селище Ойсунгур… і на покарання жителів, які втекли перед їхнім приходом, цілковито його зруйнували», а в лютому 1822 року Греков «спалив селища Шалі та Малі Атаги»(Citation: 75).

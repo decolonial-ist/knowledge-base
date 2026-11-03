@@ -1,0 +1,17 @@
+type: technique
+id: T0167.003
+created: 2026-09-27
+modified: 2026-10-18
+version: '1.0'
+parent: T0167
+tactics:
+- TA0004
+name:
+  ru: Ложный коридор
+  en: Sham Corridor
+  uk: Фальшивий коридор
+contributors: []
+description:
+  ru: Агрессоры могут объявлять «гуманитарный коридор» или срок выхода из окружённого места, а затем не давать времени, обстреливать и задерживать выходящих или выдавать коридор за оправдание удара по тем, кто остался.
+  en: Aggressors may announce a "humanitarian corridor" or a deadline for leaving an encircled place, and then give no time, fire on and detain those who are leaving, or present the corridor as a justification for striking those who stayed.
+  uk: Агресори можуть оголошувати «гуманітарний коридор» або строк виходу з оточеного місця, а потім не давати часу, обстрілювати й затримувати тих, хто виходить, або видавати коридор за виправдання удару по тих, хто залишився.

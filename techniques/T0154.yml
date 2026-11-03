@@ -1,0 +1,29 @@
+type: technique
+id: T0154
+created: 2026-07-23
+modified: 2026-07-23
+version: '1.0'
+tactics:
+- TA0003
+- TA0005
+name:
+  ru: Выращивание коллаборационистской элиты
+  en: Manufacturing a Collaborating Elite
+  uk: Вирощування колабораціоністської еліти
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут выращивать внутри колонизируемого общества слой коллаборационистов, наделяя его властью и привилегиями над соотечественниками: должностями, жалованьем, землёй, знаками отличия и защитой агрессора.
+    Слой создаётся, а не покупается: агрессор учреждает должности и «традиционные» власти там, где их не было, сам назначает исполнителей и привязывает их привилегиями к себе, а не к собственному народу.
+    Общество раскалывается на посредников агрессора и управляемых ими; повседневное принуждение выполняется руками самих колонизированных, а отвечают они только перед агрессором.
+    В исследованиях колониализма механизм описан точно: историк Рональд Робинсон показал, что колонизатор мог «изготовить малую современную элиту коллаборантов и поставить её в подчинённую власть»; исследователь колониализма Махмуд Мамдани назвал такую конструкцию «децентрализованным деспотизмом» - назначенные колонизатором «традиционные» начальники получают неограниченную власть над своими, отвечая только перед колонизатором.
+  en: |-
+    Aggressors may cultivate within the colonized society a layer of collaborators, endowing it with power and privileges over their compatriots: offices, salaries, land, decorations and the aggressor's protection.
+    The layer is manufactured, not bought: the aggressor institutes offices and "traditional" authorities where none existed, appoints the executors and binds them by privileges to the aggressor rather than to their own people.
+    The society splits into the aggressor's intermediaries and those governed by them; everyday coercion is carried out by the hands of the colonized themselves, while they answer only to the aggressor.
+    Colonialism scholarship describes the mechanism precisely: the historian Ronald Robinson showed that the colonizer could "manufacture a small modern elite of collaborators and set them in subordinate authority"; the scholar of colonialism Mahmood Mamdani called this construction "decentralized despotism" - "traditional" chiefs appointed by the colonizer receive unlimited power over their own people while answering only to the colonizer.
+  uk: |-
+    Агресори можуть вирощувати всередині колонізованого суспільства шар колабораціоністів, наділяючи його владою і привілеями над співвітчизниками: посадами, жалуванням, землею, відзнаками і захистом агресора.
+    Шар створюється, а не купується: агресор засновує посади і «традиційні» власті там, де їх не було, сам призначає виконавців і прив'язує їх привілеями до себе, а не до власного народу.
+    Суспільство розколюється на посередників агресора і керованих ними; повсякденний примус виконується руками самих колонізованих, а відповідають вони тільки перед агресором.
+    У дослідженнях колоніалізму механізм описано точно: історик Рональд Робінсон показав, що колонізатор міг «виготовити малу сучасну еліту колаборантів і поставити її в підпорядковану владу»; дослідник колоніалізму Махмуд Мамдані назвав таку конструкцію «децентралізованим деспотизмом» - призначені колонізатором «традиційні» начальники отримують необмежену владу над своїми, відповідаючи тільки перед колонізатором.

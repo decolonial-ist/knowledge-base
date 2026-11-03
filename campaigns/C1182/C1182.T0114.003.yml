@@ -1,0 +1,38 @@
+type: procedure
+id: C1182.T0114.003
+created: 2026-09-06
+modified: 2026-09-06
+version: '1.0'
+technique: T0114.003
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    После возвращения чеченцев из ссылки колонизатор перевёл все школы республики на русский язык с первого класса, свёл чеченский язык к нескольким урокам в неделю, а в школах Грозного не преподавал его вовсе.
+    Закон РСФСР от 16 апреля 1959 года объявил, что «обучение в школе проводится на родном языке учащихся», и отдал выбор языка родителям, но школ с чеченским языком обучения после возвращения из ссылки колонизатор не открыл, так что выбирать было не из чего(Citation: 700).
+    Социолингвист Муса Овхадов пишет: «После восстановления автономии Чечено-Ингушетии русский язык стал языком обучения в школах республики с 1 класса»; «В школах столицы республики г.Грозном до конца 80-х гг. прошлого столетия чеченский язык не преподавался (в 1989г. в г. Грозном проживали 121 тыс. чеченцев из 400 тыс. его населения)»(Citation: 632).
+    Педагог Исита Мусханова пишет: «преподавание во всех школах Чечено-Ингушетии велось на русском языке с первого до последнего года обучения, в то время как изучению родного языка и родной литературы отводилось всего несколько часов в неделю»; республиканские газеты первой половины 1960-х писали, что вернуться к национальной школе «значит сделать шаг назад»(Citation: 634).
+    Филолог Зулай Хамидова, девять лет добивавшаяся уроков чеченского в городских школах, вспоминает: «В детских садах языком воспитания был русский язык, а если ребенок знал только родной, то его наказывали, требуя говорить только на русском»; после её хлопот чеченский и ингушский языки ввели в городские школы «как предмет, 1 час в неделю, тогда как на русский язык отводилось 5 часов в неделю»(Citation: 633).
+    По подсчёту Мусы Овхадова, весь школьный курс чеченского языка и литературы с 1 по 10 класс в 1970-1980-е годы составлял 1497 часов, в среднем 3,5 часа в неделю(Citation: 632).
+    Итог виден по официальной статистике СССР: на чеченском и ингушском языках в 1940 году вышло 154 книги и брошюры, в 1970 - 49, в 1980 - 37, в 1985 - 39(Citation: 632); телевидение республики в 1980-е годы вещало на чеченском 20-25 минут в сутки(Citation: 635).
+    Чеченцы язык не отдали: по переписи 1989 года 938 765 из 956 879 чеченцев назвали родным языком чеченский(Citation: 265).
+  en: |-
+    After the return of the Chechens from exile the coloniser switched all the schools of the republic to Russian from the first grade, reduced the Chechen language to a few lessons a week and in the schools of Grozny did not teach it at all.
+    The law of the RSFSR of 16 April 1959 declared that "instruction at school is conducted in the pupils' native language" and left the choice of language to parents, but after the return from exile the coloniser opened no schools with Chechen as the language of instruction, so there was nothing to choose from(Citation: 700).
+    Sociolinguist Musa Ovkhadov writes: "After the restoration of the autonomy of Chechen-Ingushetia Russian became the language of instruction in the schools of the republic from grade 1"; "In the schools of the capital of the republic, the city of Grozny, until the end of the 1980s the Chechen language was not taught (in 1989 121 thousand Chechens lived in Grozny out of its population of 400 thousand)"(Citation: 632).
+    Educationalist Isita Muskhanova writes: "teaching in all the schools of Chechen-Ingushetia was conducted in Russian from the first to the last year of study, while the study of the native language and native literature was allotted only a few hours a week"; the republican newspapers of the first half of the 1960s wrote that to return to the national school "would mean taking a step backwards"(Citation: 634).
+    Philologist Zulay Khamidova, who spent nine years fighting for Chechen lessons in city schools, recalls: "In kindergartens the language of upbringing was Russian, and if a child knew only the native language, he was punished and required to speak only Russian"; after her efforts the Chechen and Ingush languages were introduced in city schools "as a subject, 1 hour a week, whereas 5 hours a week were allotted to Russian"(Citation: 633).
+    By Musa Ovkhadov's count, the entire school course of Chechen language and literature from grade 1 to grade 10 in the 1970s-1980s amounted to 1,497 hours, on average 3.5 hours a week(Citation: 632).
+    The result is visible in the official statistics of the USSR: in the Chechen and Ingush languages 154 books and pamphlets were published in 1940, 49 in 1970, 37 in 1980 and 39 in 1985(Citation: 632); the republic's television in the 1980s broadcast in Chechen for 20-25 minutes a day(Citation: 635).
+    The Chechens did not give up their language: according to the census of 1989, 938,765 of the 956,879 Chechens named Chechen as their native language(Citation: 265).
+  uk: |-
+    Після повернення чеченців із заслання колонізатор перевів усі школи республіки на російську мову з першого класу, звів чеченську мову до кількох уроків на тиждень, а в школах Грозного не викладав її зовсім.
+    Закон РРФСР від 16 квітня 1959 року проголосив, що «навчання в школі проводиться рідною мовою учнів», і віддав вибір мови батькам, але шкіл із чеченською мовою навчання після повернення із заслання колонізатор не відкрив, тож обирати не було з чого(Citation: 700).
+    Соціолінгвіст Муса Овхадов пише: «Після відновлення автономії Чечено-Інгушетії російська мова стала мовою навчання в школах республіки з 1 класу»; «У школах столиці республіки м. Грозному до кінця 80-х рр. минулого століття чеченська мова не викладалася (у 1989 р. у м. Грозному проживала 121 тис. чеченців із 400 тис. його населення)»(Citation: 632).
+    Педагогиня Ісіта Мусханова пише: «викладання в усіх школах Чечено-Інгушетії велося російською мовою з першого до останнього року навчання, тоді як на вивчення рідної мови та рідної літератури відводилося лише кілька годин на тиждень»; республіканські газети першої половини 1960-х писали, що повернутися до національної школи «означає зробити крок назад»(Citation: 634).
+    Філологиня Зулай Хамідова, яка дев'ять років домагалася уроків чеченської в міських школах, згадує: «У дитячих садках мовою виховання була російська мова, а якщо дитина знала лише рідну, то її карали, вимагаючи говорити лише російською»; після її клопотань чеченську та інгуську мови запровадили в міських школах «як предмет, 1 година на тиждень, тоді як на російську мову відводилося 5 годин на тиждень»(Citation: 633).
+    За підрахунком Муси Овхадова, весь шкільний курс чеченської мови та літератури з 1 по 10 клас у 1970-1980-ті роки становив 1497 годин, у середньому 3,5 години на тиждень(Citation: 632).
+    Підсумок видно за офіційною статистикою СРСР: чеченською та інгуською мовами в 1940 році вийшло 154 книжки та брошури, у 1970 - 49, у 1980 - 37, у 1985 - 39(Citation: 632); телебачення республіки у 1980-ті роки мовило чеченською 20-25 хвилин на добу(Citation: 635).
+    Чеченці мови не віддали: за переписом 1989 року 938 765 із 956 879 чеченців назвали рідною мовою чеченську(Citation: 265).

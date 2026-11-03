@@ -1,0 +1,26 @@
+type: procedure
+id: C1143.T0139
+created: 2026-06-27
+modified: 2026-09-04
+version: '1.0'
+technique: T0139
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя ставила вокруг Чечни кольцо крепостей, чтобы сжать её и отрезать от соседей.
+    Историк Д. А. Хожаев пишет, что вслед за Грозной в 1819 году появилась крепость Внезапная, поставленная, чтобы «сжимать непокорную Чечню новыми крепостями и укреплениями»(Citation: 95).
+    Имперский историк Потто подтверждает назначение и дату: заложенная восемнадцатого июля 1819 года, она «разделила чеченцев от кумыков» и «преграждала [чеченцам] путь к дагестанцам через Салатавские горы», а с Грозной её связали рядом укреплений(Citation: 75).
+    Эту крепость генерал Ермолов планировал ещё в всеподданнейшем рапорте ноября 1817 года, предполагая «продолжая Линию чрез Аксаевския и Андреевския селения до р. Сулака, закрыт будет Кизляр»(Citation: 103).
+  en: |-
+    The Russian Empire built a ring of fortresses around Chechnya in order to squeeze it and cut it off from its neighbors.
+    Historian D. A. Khozhayev writes that following Groznaya, the fortress Vnezapnaya appeared in 1819, built in order to “squeeze unsubdued Chechnya with new fortresses and fortifications”(Citation: 95).
+    Imperial historian Potto confirms its purpose and date: founded on the eighteenth of July 1819, it “separated the Chechens from the Kumyks” and “barred [the Chechens’] way to the Dagestanis across the Salatau mountains,” and it was linked to Groznaya by a chain of fortifications(Citation: 75).
+    General Yermolov had planned this fortress as early as his most humble report of November 1817, proposing that “by extending the Line through the Aksai and Andreyevo villages to the Sulak River, Kizlyar will be covered”(Citation: 103).
+  uk: |-
+    Російська імперія ставила навколо Чечні кільце фортець, щоб стиснути її та відрізати від сусідів.
+    Історик Д. А. Хожаєв пише, що слідом за Грозною 1819 року з’явилася фортеця Внезапна, поставлена, щоб «стискати непокірну Чечню новими фортецями та укріпленнями»(Citation: 95).
+    Імперський історик Потто підтверджує призначення й дату: закладена вісімнадцятого липня 1819 року, вона «розділила Чеченців від Кумиків» і «перегороджувала [Чеченцям] шлях до дагестанців через Салатавські гори», а з Грозною її зв’язали низкою укріплень(Citation: 75).
+    Цю фортецю генерал Єрмолов планував ще у всепідданішому рапорті листопада 1817 року, передбачаючи, що «продовживши Лінію через Аксаївські та Андріївські селища до р. Сулак, буде закрито Кизляр»(Citation: 103).

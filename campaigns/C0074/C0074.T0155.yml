@@ -1,0 +1,41 @@
+type: procedure
+id: C0074.T0155
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0155
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    26 мая 1919 года, в разгар восстания украинских крестьян под началом Григорьева против советской власти, глава правительства РСФСР Ленин телеграфировал в Киев главе колониальной администрации Украины (УСРР) Раковскому и в Харьков её заместителю военного министра Межлауку: «Декретируйте и проведите в жизнь полное обезоружение населения, расстреливайте на месте беспощадно за всякую сокрытую винтовку.
+    Весь гвоздь момента: быстрая победа в Донбассе, сбор всех винтовок из деревень, создание прочной армии»; телеграмму он велел прочесть «всем видным большевикам»(Citation: 591).
+    Днём раньше командующий Украинским фронтом РСФСР Антонов-Овсеенко приказал армиям «разоружать местное население» в местах действий(Citation: 580).
+
+    В секретном приказе № 579 от 11 декабря 1919 года военный министр РСФСР Троцкий назвал цель одним пунктом - «основным условием успеха» объявлялось «безусловное и поголовное разоружение деревенского населения» Украины(Citation: 579).
+
+    26 июля 1919 года уполномоченный Совета обороны той же администрации Скрыпник телеграфировал о ходе разоружения из Трипольского района: «Обезоружение населения производится обысками, все виновные в утайке оружия и военных материалов предаются полевому ревтрибуналу [военному суду большевиков]»(Citation: 593).
+
+    В селе Тютьковичи Ровенского уезда 6 июля 1919 года сход представителей сёл при советском военном комиссаре Сеничкине постановил сдать «винтовки, пулеметы, патроны» и просил «оставить на население по 15 винтовок и патронов для обороны населения от бандитов»; тем же протоколом сход жаловался, что советские солдаты забирают имущество самовольно, без ордера(Citation: 583).
+  en: |-
+    On 26 May 1919, at the height of the uprising of Ukrainian peasants under Hryhoriv against the Soviet authority, Lenin, head of the RSFSR government, telegraphed to Kyiv to Rakovsky, head of the colonial administration of Ukraine (the UkrSSR), and to Kharkiv to Mezhlauk, its deputy war minister: "Decree and carry into effect the complete disarming of the population, shoot on the spot mercilessly for any concealed rifle.
+    The whole crux of the moment: a quick victory in the Donbas, the collection of all rifles from the villages, the creation of a solid army"; he ordered the telegram read "to all prominent Bolsheviks"(Citation: 591).
+    A day earlier Antonov-Ovseenko, commander of the RSFSR's Ukrainian Front, had ordered the armies "to disarm the local population" in their areas of operation(Citation: 580).
+
+    In secret order No. 579 of 11 December 1919 Trotsky, war minister of the RSFSR, named the goal in a single clause - "the unconditional and universal disarming of the village population" of Ukraine was declared "the basic condition of success"(Citation: 579).
+
+    On 26 July 1919 Skrypnyk, plenipotentiary of the same administration's Defence Council, telegraphed on the course of the disarmament from the Trypillia district: "The disarming of the population is carried out by searches; all those guilty of concealing weapons and war materiel are handed over to the field revtribunal [the Bolsheviks' military court]"(Citation: 593).
+
+    In the village of Tiutkovychi in Rivne district on 6 July 1919 an assembly of village representatives, in the presence of Soviet military commissar Senichkin, resolved to surrender "rifles, machine guns, cartridges" and asked "to leave the population 15 rifles and cartridges for the defence of the population against bandits"; in the same protocol the assembly complained that Soviet soldiers were taking property arbitrarily, without a warrant(Citation: 583).
+  uk: |-
+    26 травня 1919 року, в розпал повстання українських селян під проводом Григор'єва проти радянської влади, голова уряду РСФРР Ленін телеграфував до Києва голові колоніальної адміністрації України (УСРР) Раковському і до Харкова її заступникові військового міністра Межлауку: «Декретуйте і проведіть у життя повне обеззброєння населення, розстрілюйте на місці нещадно за всяку приховану гвинтівку.
+    Увесь цвях моменту: швидка перемога в Донбасі, збір усіх гвинтівок із сіл, створення міцної армії»; телеграму він звелів прочитати «всім видним більшовикам»(Citation: 591).
+    Днем раніше командувач Українського фронту РСФРР Антонов-Овсєєнко наказав арміям «роззброювати місцеве населення» в місцях дій(Citation: 580).
+
+    У таємному наказі № 579 від 11 грудня 1919 року військовий міністр РСФРР Троцький назвав мету одним пунктом - «основною умовою успіху» оголошувалося «безумовне і поголовне роззброєння сільського населення» України(Citation: 579).
+
+    26 липня 1919 року уповноважений Ради оборони тієї ж адміністрації Скрипник телеграфував про хід роззброєння з Трипільського району: «Обеззброєння населення провадиться обшуками, усі винні в приховуванні зброї та військових матеріалів передаються польовому ревтрибуналу [військовому суду більшовиків]»(Citation: 593).
+
+    У селі Тютьковичі Рівненського повіту 6 липня 1919 року сход представників сіл при радянському військовому комісарі Сенічкіні постановив здати «гвинтівки, кулемети, набої» і просив «залишити на населення по 15 гвинтівок і набоїв для оборони населення від бандитів»; тим же протоколом сход скаржився, що радянські солдати забирають майно самовільно, без ордера(Citation: 583).

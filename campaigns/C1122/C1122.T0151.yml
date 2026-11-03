@@ -1,0 +1,14 @@
+type: procedure
+id: C1122.T0151
+created: 2026-06-15
+modified: 2026-06-15
+version: '1.0'
+technique: T0151
+people: nokhchi
+actor: G0008
+tool: S0012
+contributors: []
+description:
+  ru: 'Оккупационная администрация Московского Царства поддерживала режим лишения подчиненных обществ нохчи (окочан) самостоятельности, официально закрепив передачу власти над ними новому лояльному метрополии феодалу: в 1661 году царь Алексей Михайлович издал жалованную грамоту кабардинскому князю Каспулату Муцаловичу Черкасскому, предписав ему «над окочаны и над черкасы, которые нам, великому государю, служат на Терке, быти князем, и их в ратном строенье и во всяких наших делех ведать и судить»(Citation: 82).'
+  en: 'The occupation administration of the Tsardom of Muscovy maintained the regime depriving the subordinated societies of the Nokhchi (the Okochans) of autonomy, officially formalizing the transfer of power over them to a new feudal lord loyal to the metropole: in 1661 Tsar Alexei Mikhailovich issued a charter of grant to the Kabardian prince Kaspulat Mutsalovich Cherkassky, instructing him «to be prince over the Okochans and over the Cherkas who serve us, the great sovereign, on the Terek, and to administer and judge them in military organization and in all our affairs»(Citation: 82).'
+  uk: 'Окупаційна адміністрація Московського царства підтримувала режим позбавлення підпорядкованих суспільств Нохчі (Окочан) самостійності, офіційно закріпивши передачу влади над ними новому лояльному до метрополії феодалові: у 1661 році цар Олексій Михайлович видав жалувану грамоту кабардинському князеві Каспулату Муцаловичу Черкаському, приписавши йому «над Окочанами і над Черкасами, які нам, великому государеві, служать на Тереку, бути князем, і їх у ратному строї та в усіх наших справах відати й судити»(Citation: 82).'

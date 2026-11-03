@@ -1,0 +1,14 @@
+type: procedure
+id: C0047.T0101
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique: T0101
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: 'Отказ цензуры рассматривать национальные рукописи: «На украинской грамматике, подготовленной на русском языке, цензор написал резолюцию: „Наивно было бы надеяться на дозволенне печатать грамматику того языка, который не должен существовать“»(Citation: 181).'
+  en: 'The censor''s refusal to consider national manuscripts: "On a Ukrainian grammar prepared in Russian, the censor wrote the resolution: ''It would be naive to hope for permission to print the grammar of a language that must not exist''"(Citation: 181).'
+  uk: 'Відмова цензури розглядати національні рукописи: «На українській граматиці, підготовленій російською мовою, цензор написав резолюцію: „Наївно було б сподіватися на дозвіл друкувати граматику тієї мови, яка не повинна існувати“»(Citation: 181).'

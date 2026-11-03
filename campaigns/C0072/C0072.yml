@@ -1,0 +1,38 @@
+type: campaign
+id: C0072
+created: 2026-04-27
+modified: 2026-10-27
+version: '1.4'
+people: ukrainians
+first_seen: 1917-12-01
+last_seen: 1918-04-30
+contributors: []
+name:
+  ru: 'Советско-Украинская война: первое вторжение и марионеточное правительство (декабрь 1917 - апрель 1918)'
+  en: 'Soviet-Ukrainian War: First Invasion and the Puppet Government (December 1917 - April 1918)'
+  uk: 'Радянсько-Українська війна: перше вторгнення і маріонетковий уряд (грудень 1917 - квітень 1918)'
+description:
+  ru: |-
+    В декабре 1917 года советская Россия начала первое вооружённое вторжение в Украину, замаскировав его под внутреннюю войну.
+    Потерпев поражение в Киеве, сторонники большевиков переехали в Харьков, провели там альтернативный съезд и создали марионеточное правительство - Народный секретариат: «первое советское правительство Украины», созданное «как альтернатива Украинской Центральной Раде и Генеральному секретариату Украинской Центральной Рады»(Citation: 24).
+    Так началась Советско-Украинская война (1917-1921): вторжение собственных войск советская Россия выдала за внутреннюю гражданскую войну(Citation: 25)(Citation: 185).
+    В феврале 1918 года войска РСФСР под командованием Муравьёва захватили Киев и устроили в нём резню; историки называют Муравьёва «инициатором массовых расстрелов в городе»(Citation: 24).
+    Остановил вторжение Брестский мирный договор (9 февраля 1918 года) - первый международный акт, признавший Украинскую Народную Республику (УНР) субъектом международного права.
+    По просьбе правительства УНР в Украину вошли германские и австро-венгерские войска, и к концу апреля 1918 года они вытеснили войска РСФСР со всей украинской земли(Citation: 185).
+    После капитуляции Германии в ноябре 1918 года эти войска ушли - и советская Россия вторглась снова (кампания C0074).
+  en: |-
+    In December 1917, Soviet Russia began its first armed invasion of Ukraine, disguising it as an internal war.
+    Defeated in Kyiv, supporters of the Bolsheviks moved to Kharkiv, held an alternative congress there, and created a puppet government - the People's Secretariat: "the first Soviet government of Ukraine," created "as an alternative to the Ukrainian Central Rada and the General Secretariat of the Ukrainian Central Rada"(Citation: 24).
+    Thus began the Soviet-Ukrainian War (1917-1921): Soviet Russia passed off the invasion by its own troops as an internal civil war(Citation: 25)(Citation: 185).
+    In February 1918, RSFSR troops under the command of Muravyov captured Kyiv and carried out a massacre there; historians call Muravyov "the initiator of mass executions in the city"(Citation: 24).
+    The invasion was stopped by the Brest-Litovsk peace treaty (9 February 1918) - the first international act to recognize the Ukrainian People's Republic (UNR) as a subject of international law.
+    At the request of the UNR government, German and Austro-Hungarian troops entered Ukraine, and by the end of April 1918 they had driven the RSFSR troops from all Ukrainian land(Citation: 185).
+    After Germany's capitulation in November 1918 these troops left - and Soviet Russia invaded again (campaign C0074).
+  uk: |-
+    У грудні 1917 року радянська Росія почала перше збройне вторгнення в Україну, замаскувавши його під внутрішню війну.
+    Зазнавши поразки в Києві, прихильники більшовиків переїхали до Харкова, провели там альтернативний з'їзд і створили маріонетковий уряд - Народний секретаріат: «перший радянський уряд України», створений «як альтернатива Українській Центральній Раді і Генеральному секретаріатові Української Центральної Ради»(Citation: 24).
+    Так почалася Радянсько-Українська війна (1917-1921): вторгнення власних військ радянська Росія видала за внутрішню громадянську війну(Citation: 25)(Citation: 185).
+    У лютому 1918 року війська РСФРР під командуванням Муравйова захопили Київ і влаштували в ньому різанину; історики називають Муравйова «ініціатором масових розстрілів у місті»(Citation: 24).
+    Зупинив вторгнення Брестський мирний договір (9 лютого 1918 року) - перший міжнародний акт, що визнав Українську Народну Республіку (УНР) суб'єктом міжнародного права.
+    На прохання уряду УНР в Україну ввійшли німецькі й австро-угорські війська, і до кінця квітня 1918 року вони витіснили війська РСФРР з усієї української землі(Citation: 185).
+    Після капітуляції Німеччини в листопаді 1918 року ці війська пішли - і радянська Росія вторглася знову (кампанія C0074).

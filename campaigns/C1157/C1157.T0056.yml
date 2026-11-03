@@ -1,0 +1,23 @@
+type: procedure
+id: C1157.T0056
+created: 2026-07-15
+modified: 2026-07-15
+version: '1.0'
+technique: T0056
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    27 августа 1836 полковник Пулло обложил податью аул Зандак на реке Яман-су, разорённый его отрядом 23 августа 1836 (кампания C1156): платёж подати стал условием принятия «покорности» разгромленного села.
+    В рапорте генералу Петрову от 27 августа 1836 Пулло фиксировал обязательство, принятое старшинами в крепости Грозной: «платить наравне с ауховцами и прочими покорными племенами установленную подать»(Citation: 126).
+    Подать была не встречным предложением села, а действовавшей имперской нормой обложения обществ, которые империя считала «покорными»; отказ означал бы возврат «мстящего оружия русских» - село только что пережило разорение, пленение жителей и угон скота(Citation: 126).
+  en: |-
+    On 27 August 1836, Colonel Pullo imposed tribute on the aul of Zandak on the Yaman-su river, devastated by his detachment on 23 August 1836 (campaign C1156): payment of tribute became a condition for accepting the crushed village's "submission".
+    In a report to General Petrov dated 27 August 1836, Pullo recorded the obligation accepted by the elders at the Groznaya fortress: "to pay, on a par with the Aukhovites and other submissive tribes, the established tribute"(Citation: 126).
+    The tribute was not the village's counter-offer but the empire's standing norm for taxing the societies it deemed "submissive"; refusal would have meant the return of the "avenging arms of the Russians" - the village had just survived devastation, the captivity of its inhabitants, and the seizure of its livestock(Citation: 126).
+  uk: |-
+    27 серпня 1836 полковник Пулло обклав податтю аул Зандак на річці Яман-су, зруйнований його загоном 23 серпня 1836 (кампанія C1156): сплата податі стала умовою прийняття «покірності» розгромленого села.
+    У рапорті генералу Петрову від 27 серпня 1836 Пулло фіксував зобов'язання, прийняте старшинами у фортеці Грозній: «платити нарівні з ауховцями та іншими покірними племенами встановлену подать»(Citation: 126).
+    Подать була не зустрічною пропозицією села, а чинною імперською нормою обкладення суспільств, які імперія вважала «покірними»; відмова означала б повернення «мстивої зброї росіян» - село щойно пережило руйнування, полон жителів і викрадення худоби(Citation: 126).

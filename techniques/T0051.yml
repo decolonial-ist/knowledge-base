@@ -1,0 +1,22 @@
+type: technique
+id: T0051
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0006
+name:
+  ru: Создание опасных производств
+  en: Creation of Hazardous Industries
+  uk: Створення небезпечних виробництв
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут размещать на захваченных территориях экологически вредные предприятия, объекты добычи сырья с токсичными отходами или полигоны для захоронения опасных материалов.
+    Перенос разрушительных промышленных нагрузок на земли коренного народа позволяет колонизатору обогащать метрополию и оберегать собственную экологию, цинично игнорируя катастрофические последствия для здоровья местного населения и окружающей среды колонизируемого региона.
+  en: |-
+    Aggressors may site environmentally harmful enterprises, raw-material extraction facilities producing toxic waste, or landfills for the disposal of hazardous materials on seized territories.
+    Shifting destructive industrial burdens onto the lands of the Indigenous people allows the colonizer to enrich the metropole and safeguard its own environment while cynically ignoring the catastrophic consequences for the health of the local population and the environment of the colonized region.
+  uk: |-
+    Агресори можуть розміщувати на захоплених територіях екологічно шкідливі підприємства, об'єкти видобутку сировини з токсичними відходами або полігони для захоронення небезпечних матеріалів.
+    Перенесення руйнівних промислових навантажень на землі корінного народу дає колонізаторові змогу збагачувати метрополію та оберігати власну екологію, цинічно ігноруючи катастрофічні наслідки для здоров'я місцевого населення та довкілля колонізованого регіону.

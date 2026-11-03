@@ -1,0 +1,24 @@
+type: campaign
+id: C0059
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.1'
+people: ukrainians
+first_seen: 1839-01-01
+last_seen: 1839-12-31
+contributors: []
+name:
+  ru: Ликвидация греко-католической церкви (1839)
+  en: Liquidation of the Greek Catholic Church (1839)
+  uk: Ліквідація греко-католицької церкви (1839)
+description:
+  ru: |-
+    Институциональный захват и духовная унификация: империя ликвидирует независимую униатскую церковь на Правобережье, переводя паству и имущество под контроль государственной церкви.
+    Механизм зафиксирован в судьбах монастырей: «в связи с ликвидацией царатом унии в этом регионе (1839) монастырь был закрыт, а его строения уничтожены»(Citation: 196); «К середине XIX в. все монастыри Чина святого Василия Великого на территории Российской империи были ликвидированы»(Citation: 206).
+  en: |-
+    Institutional seizure and spiritual unification: the empire liquidates the independent Uniate church on the Right Bank, transferring the flock and property under the control of the state church.
+    The mechanism is recorded in the fates of monasteries: "in connection with the tsarist regime's liquidation of the Union in this region (1839), the monastery was closed, and its buildings destroyed"(Citation: 196); "By the mid-19th century all monasteries of the Basilian order on the territory of the Russian Empire had been liquidated"(Citation: 206).
+  uk: |-
+    Інституційне захоплення та духовна уніфікація: імперія ліквідує незалежну унійну церкву на Правобережжі, переводячи паству та майно під контроль державної церкви.
+    Механізм зафіксовано в долях монастирів: «у зв'язку з ліквідацією царатом унії в цьому регіоні (1839) монастир було закрито, а його споруди знищені»(Citation: 196); «До серед.
+    XIX ст. усі монастирі ЧСВВ на території Рос. імперії було ліквідовано»(Citation: 206).

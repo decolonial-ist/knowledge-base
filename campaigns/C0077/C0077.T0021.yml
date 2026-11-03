@@ -1,0 +1,14 @@
+type: procedure
+id: C0077.T0021
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique: T0021
+people: ukrainians
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: 'Массовые аресты крестьян в ходе кампании раскулачивания: согласно директивам 1930 года, помимо депортаций, десятки тысяч человек отправлялись непосредственно в концентрационные лагеря для изоляции(Citation: 22).'
+  en: 'Mass arrests of peasants during the dekulakization campaign: according to the 1930 directives, in addition to deportations, tens of thousands of people were sent directly to concentration camps for isolation(Citation: 22).'
+  uk: 'Масові арешти селян під час кампанії розкуркулення: згідно з директивами 1930 року, окрім депортацій, десятки тисяч людей відправляли безпосередньо до концентраційних таборів для ізоляції(Citation: 22).'

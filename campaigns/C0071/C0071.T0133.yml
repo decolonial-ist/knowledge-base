@@ -1,0 +1,23 @@
+type: procedure
+id: C0071.T0133
+created: 2026-04-27
+modified: 2026-08-04
+version: '1.0'
+technique: T0133
+people: ukrainians
+actor: G0013
+tool: S0020
+contributors: []
+description:
+  ru: |-
+    Попытка превратить электоральное меньшинство в процедурное большинство на съезде.
+    Реальная поддержка была ничтожной: на выборах в Учредительное собрание «в целом по стране большевики собрали менее 24% голосов, а в украинских губерниях — только 10%»(Citation: 22).
+    Отсюда ставка на перехват представительных органов: ЦК РСДРП(б) прямо декларировал, что «переход правительства из рук одной советской партии в руки другой партии обеспечен без всякой революции, простым решением Советов, простым перевыбором депутатов в Советы», а декрет ВЦИК от 4 декабря 1917 года «О праве отзыва делегатов» давал механизм для такой замены(Citation: 22)(Citation: 400).
+  en: |-
+    An attempt to convert an electoral minority into a procedural majority at the congress.
+    Actual support was negligible: in the Constituent Assembly elections "across the country as a whole the Bolsheviks gathered less than 24% of the votes, and in the Ukrainian gubernias only 10%"(Citation: 22).
+    Hence the wager on capturing representative bodies: the Central Committee of the RSDLP(b) declared outright that "the transfer of government from the hands of one soviet party into the hands of another party is secured without any revolution, by a simple decision of the Soviets, by a simple re-election of deputies to the Soviets," while the All-Russian Central Executive Committee's decree of 4 December 1917 "On the right of recall of delegates" provided the mechanism for such a replacement(Citation: 22)(Citation: 400).
+  uk: |-
+    Спроба перетворити електоральну меншість на процедурну більшість на з'їзді.
+    Реальна підтримка була мізерною: на виборах до Установчих зборів «в цілому по країні більшовики зібрали менше 24% голосів, а в українських губерніях — тільки 10%»(Citation: 22).
+    Звідси ставка на перехоплення представницьких органів: ЦК РСДРП(б) прямо декларував, що «перехід уряду з рук однієї радянської партії в руки іншої партії забезпечений без всякої революції, простим рішенням Рад, простим перевибором депутатів в Ради», а декрет ВЦВК від 4 грудня 1917 року «Про право відкликання делегатів» давав механізм для такої заміни(Citation: 22)(Citation: 400).

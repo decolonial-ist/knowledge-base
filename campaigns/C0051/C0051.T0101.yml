@@ -1,0 +1,20 @@
+type: procedure
+id: C0051.T0101
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.0'
+technique: T0101
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Зачистка информационного поля: именной указ Николая II от 20 июля 1914 года о военной цензуре предоставил командованию право «воспрещать на определенный срок собственною властью в подчиненной им местности какие бы то ни было собрания и приостанавливать повременные издания, а также передачу почтовых отправлений и телеграмм»(Citation: 416).
+    На этом основании военная администрация Киевского военного округа в тот же день закрыла единственную украинскую ежедневную газету «Рада» и конфисковала в типографии тиражи «Світла» и «Літературно-наукового вістника», а 9 января 1915 года прекращены все украинские периодические издания(Citation: 431).
+  en: |-
+    The purge of the information space: Nicholas II's personal decree of 20 July 1914 on military censorship gave the command the right "to forbid for a set term, by their own authority and within the locality subordinate to them, any assemblies whatsoever, and to suspend periodical publications, as well as the transmission of postal items and telegrams"(Citation: 416).
+    On this basis the military administration of the Kyiv military district that very day closed the only Ukrainian daily newspaper, "Rada," and confiscated at the printing house the print runs of "Svitlo" and of the "Literary-Scientific Herald," and on 9 January 1915 all Ukrainian periodicals were shut down(Citation: 431).
+  uk: |-
+    Зачистка інформаційного поля: іменний указ Миколи II від 20 липня 1914 року про воєнну цензуру надав командуванню право «забороняти на визначений строк власною владою в підпорядкованій їм місцевості будь-які збори і призупиняти періодичні видання, а також передачу поштових відправлень і телеграм»(Citation: 416).
+    На цій підставі військова адміністрація Київської військової округи того ж дня закрила єдину українську щоденну газету «Рада» і конфіскувала в друкарні наклади «Світла» й «Літературно-наукового вістника», а 9 січня 1915 року припинено всі українські періодичні видання(Citation: 431).

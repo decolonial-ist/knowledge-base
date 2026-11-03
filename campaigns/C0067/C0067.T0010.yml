@@ -1,0 +1,38 @@
+type: procedure
+id: C0067.T0010
+created: 2026-04-25
+modified: 2026-10-27
+version: '1.0'
+technique: T0010
+people: ukrainians
+actor: G0009
+tool: S0008
+contributors:
+- ru: Палий Светодар
+  en: Palii Svitodar
+  uk: Палій Світодар
+description:
+  ru: |-
+    Отказ украинцам в статусе отдельного народа на уровне официальной доктрины.
+    Лингвист Сергей Булич в статье «Малорусское наречие» Энциклопедического словаря Брокгауза и Ефрона (1896) формулировал: «Отношение М[алорусского] наречия к русскому языку может быть приравнено к отношению между словацким наречием и чешским языком… но не к отношению между языками польским, чешским, сербским и т. п., с одной стороны, и русским, с другой»(Citation: 157) - по этой классификации украинский был наречием внутри русского языка.
+    Эту доктрину Центральный статистический комитет, проводивший перепись 1897 года, применил ко всей империи: в таблицах сводного тома «малорусский» шёл подграфой единого «русского языка», а его носители входили в общий итог «русских»(Citation: 491).
+    Так в «русские» записали 22 380 551 человека - носителей второго языка империи после великорусского (55 667 469)(Citation: 491).
+    Почти каждый четвёртый из них - 5 374 863 человека - жил за пределами девяти украинских губерний: в Воронежской губернии украинский назвали родным 915 883 человека, в Области Войска Донского (ныне в основном Ростовская область России) - 719 655, в Курской губернии - 527 778, в Бессарабской (ныне Молдова и юг Одесской области) - 379 698, в Гродненской (ныне запад Беларуси) - 362 526, в Ставропольской - 319 817, в Люблинской и Седлецкой (Холмщина и Подляшье, ныне восток Польши) - 304 261, в Сибири - 223 274, из них 54 422 - в Амурской и Приморской областях, в Акмолинской области (ныне север Казахстана) - 51 103(Citation: 491).
+    В Кубанской области (ныне в основном Краснодарский край России) украинский был самым распространённым родным языком: «малорусский» (украинский) родной язык указали 908 818 человек против 816 734 с «великорусским» (русским) при населении области 1 918 881(Citation: 491).
+    Методика переписи занижала численность украинцев, отмечает коллективная монография Института истории Украины Национальной академии наук: «Перепись 1897 г. фиксировала не национальность, а родной язык респондентов, и поскольку многие украинцы называли таковым русский, этнических украинцев фактически было больше, чем указано в переписи»(Citation: 197).
+  en: |-
+    The denial to Ukrainians of the status of a separate people at the level of official doctrine.
+    The linguist Sergei Bulich, in the article "Little Russian dialect" of the Brockhaus and Efron Encyclopedic Dictionary (1896), formulated: "The relation of the L[ittle] Russian dialect to the Russian language may be likened to the relation between the Slovak dialect and the Czech language… but not to the relation between the Polish, Czech, Serbian and similar languages, on the one hand, and Russian, on the other"(Citation: 157) - by this classification Ukrainian was a dialect within the Russian language.
+    This doctrine was applied to the entire empire by the Central Statistical Committee, which conducted the census of 1897: in the tables of the consolidated volume, "Little Russian" ran as a subdivision of a single "Russian language", and its speakers were counted into the overall total of "Russians"(Citation: 491).
+    This wrote 22,380,551 people into the "Russians" - speakers of the empire's second language after Great Russian (55,667,469)(Citation: 491).
+    Nearly one in four of them - 5,374,863 people - lived outside the nine Ukrainian governorates: in Voronezh governorate 915,883 people named Ukrainian as their native language, in the Don Host region (now mostly Rostov oblast of Russia) - 719,655, in Kursk governorate - 527,778, in Bessarabia (now Moldova and the south of Odesa oblast) - 379,698, in Grodno governorate (now western Belarus) - 362,526, in Stavropol governorate - 319,817, in Lublin and Siedlce governorates (the Kholm region and Podlachia, now eastern Poland) - 304,261, in Siberia - 223,274, of them 54,422 in the Amur and Primorye regions, in Akmolinsk region (now northern Kazakhstan) - 51,103(Citation: 491).
+    In the Kuban region (now mostly Krasnodar krai of Russia) Ukrainian was the most widespread native language: 908,818 people declared "Little Russian" (Ukrainian) as their native language against 816,734 with "Great Russian" (Russian), out of a regional population of 1,918,881(Citation: 491).
+    The census methodology also undercounted Ukrainians, notes the collective monograph of the Institute of History of Ukraine of the National Academy of Sciences: "The census of 1897 recorded not nationality but the respondents' native tongue, and since many Ukrainians named Russian as such, there were in fact more ethnic Ukrainians than indicated in the census"(Citation: 197).
+  uk: |-
+    Відмова українцям у статусі окремого народу на рівні офіційної доктрини.
+    Лінгвіст Сергій Булич у статті «Малоруське наріччя» Енциклопедичного словника Брокгауза і Ефрона (1896) формулював: «Відношення м[ало]руського наріччя до російської мови може бути прирівняне до відношення між словацьким наріччям і чеською мовою… але не до відношення між мовами польською, чеською, сербською тощо, з одного боку, і російською, з другого»(Citation: 157) - за цією класифікацією українська була наріччям усередині російської мови.
+    Цю доктрину Центральний статистичний комітет, який проводив перепис 1897 року, застосував до всієї імперії: у таблицях зведеного тому «малоруське наріччя» йшло підграфою єдиної «російської мови», а його носії входили до загального підсумку «росіян»(Citation: 491).
+    Так у «росіяни» записали 22 380 551 особу - носіїв другої мови імперії після великоруської (55 667 469)(Citation: 491).
+    Майже кожен четвертий з них - 5 374 863 особи - жив за межами дев'яти українських губерній: у Воронезькій губернії українську назвали рідною 915 883 особи, в Області Війська Донського (нині переважно Ростовська область Росії) - 719 655, у Курській губернії - 527 778, у Бессарабській (нині Молдова та південь Одеської області) - 379 698, у Гродненській (нині захід Білорусі) - 362 526, у Ставропольській - 319 817, у Люблінській і Седлецькій (Холмщина й Підляшшя, нині схід Польщі) - 304 261, у Сибіру - 223 274, з них 54 422 - в Амурській і Приморській областях, в Акмолинській області (нині північ Казахстану) - 51 103(Citation: 491).
+    У Кубанській області (нині переважно Краснодарський край Росії) українська була найпоширенішою рідною мовою: «малоруську» (українську) рідну мову вказали 908 818 осіб проти 816 734 з «великоруською» (російською) за населення області 1 918 881(Citation: 491).
+    Методика перепису занижувала й чисельність українців, зазначає колективна монографія Інституту історії України Національної академії наук: «Перепис 1897 р. фіксував не національність, а рідну мову респондентів, і оскільки багато українців називали як таку російську, етнічних українців фактично було більше, ніж зазначено у перепису»(Citation: 197).

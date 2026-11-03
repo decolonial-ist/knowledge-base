@@ -1,0 +1,22 @@
+type: technique
+id: T0010
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+- TA0001
+name:
+  ru: Непризнание самостоятельной идентичности
+  en: Denial of a Distinct Identity
+  uk: Невизнання самостійної ідентичності
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут целенаправленно и системно транслировать нарратив о том, что коренной народ не является отдельной нацией, а представляет собой лишь региональную или заблудшую ветвь народа метрополии.
+    Конструирование фальшивого мифа о едином корне позволяет агрессору объявить политическую независимость колонизируемого общества историческим недоразумением и оправдать любые насильственные действия как естественный процесс «воссоединения».
+  en: |-
+    Aggressors may deliberately and systematically disseminate a narrative that an Indigenous people is not a distinct nation but merely a regional or wayward branch of the metropole's people.
+    Constructing a false myth of a single common root allows the aggressor to declare the political independence of the colonized society a historical misunderstanding and to justify any violent actions as a natural process of “reunification.”
+  uk: |-
+    Агресори можуть цілеспрямовано й системно транслювати наратив про те, що корінний народ не є окремою нацією, а являє собою лише регіональну чи заблудлу гілку народу метрополії.
+    Конструювання фальшивого міфу про єдиний корінь дозволяє агресору оголосити політичну незалежність колонізованого суспільства історичним непорозумінням і виправдати будь-які насильницькі дії як природний процес «возз'єднання».

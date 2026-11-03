@@ -1,0 +1,29 @@
+type: campaign
+id: C0010
+created: 2026-04-24
+modified: 2026-09-05
+version: '1.2'
+people: ukrainians
+first_seen: 1695-01-01
+last_seen: 1700-12-31
+contributors: []
+name:
+  ru: Азовские походы и строительство крепостей (1695–1700)
+  en: Azov Campaigns and Fortress Construction (1695–1700)
+  uk: Азовські походи та будівництво фортець (1695–1700)
+description:
+  ru: |-
+    Использование автономии как бесплатной ресурсной и рабочей базы для амбиций Петра I на юге.
+    Население несло тяжелейшие логистические повинности: «Корм охочим войскам поставляли посполитые, они же заготавливали на зиму сено для войсковой артиллерии».
+    Кроме того, Москва устанавливала военный контроль, развернув сеть баз возле Запорожской Сечи: «Запорожцы... как условие для любой присяги выдвигали разрушение Каменного Затона...
+    Мазепа был взбешен»(Citation: 4).
+  en: |-
+    The use of the autonomy as a free resource and labor base for Peter I's ambitions in the south.
+    The population bore extremely heavy logistical obligations: "Provisions for the volunteer troops were supplied by the commoners, who also stocked hay for the winter for the army's artillery."
+    In addition, Moscow established military control by deploying a network of bases near the Zaporizhian Sich: "The Zaporozhians... put forward the demolition of Kamianyi Zaton as a condition for any oath...
+    Mazepa was furious"(Citation: 4).
+  uk: |-
+    Використання автономії як безоплатної ресурсної та робочої бази для амбіцій Петра I на півдні.
+    Населення несло найтяжчі логістичні повинності: «Харч охочим військам постачали посполиті, вони ж заготовляли на зиму сіно для військової артилерії».
+    Крім того, Москва встановлювала воєнний контроль, розгорнувши мережу баз біля Запорозької Січі: «Запорожці... як умову для будь-якої присяги висували зруйнування Кам'яного Затона...
+    Мазепа був розлючений»(Citation: 4).

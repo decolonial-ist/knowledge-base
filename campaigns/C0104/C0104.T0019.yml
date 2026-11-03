@@ -1,0 +1,148 @@
+type: procedure
+id: C0104.T0019
+created: 2026-08-16
+modified: 2026-08-29
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    12 декабря 1919 года командование советского Южного фронта отдало секретную директиву № 188.
+    Документ подписали командующий фронтом Егоров, будущий глава СССР Сталин и начальник штаба Петин.
+    Директива приказывала армии захватчиков «в кратчайший срок овладеть г. Киевом»(Citation: 504). 16 декабря 1919 года армия советской России (РСФСР) заняла Киев в третий раз с начала коммунистической революции(Citation: 504)(Citation: 22).
+
+    Украинская Народная Республика (УНР) - украинское государство, провозглашённое в 1917 году.
+    К декабрю 1919 года её армию, восемь-десять тысяч воинов, многие из которых болели тифом, зажали у Старокостянтинова на Волыни: с юга и востока Добровольческая армия Деникина, с запада польская армия, с севера войска советской России.
+    Современники называли это положение «треугольником смерти»(Citation: 195).
+    На совещании в Новой Чортории 4-6 декабря 1919 года глава Директории УНР Симон Петлюра и командование армии решили ликвидировать регулярный фронт.
+    Армия УНР под командованием Михаила Омеляновича-Павленко ушла в рейд по тылам советских и белых войск: за 180 дней, с 6 декабря 1919 года по 6 мая 1920 года, около десяти тысяч воинов прошли по Украине две с половиной тысячи километров.
+    Этот рейд называют Первым зимним походом(Citation: 195).
+
+    В ту же зиму советские войска оккупировали большую часть Украины.
+    Даты захвата городов по донесениям фронтов: 11 декабря 1919 года Полтава и Харьков, 16 декабря Купянск, 24 декабря Луганск, 5 января 1920 года Мариуполь, 7 февраля Одесса(Citation: 504).
+    На Правобережье российский оккупант дошёл до польского фронта: Каменец-Подольский, Проскуров и Староконстантинов держали поляки(Citation: 195).
+
+    Руководство УНР подписало союз с Польшей и заручилось поддержкой её армии в борьбе против российских оккупантов.
+    Весной 1920 года армии Польши и УНР двинулись освобождать Киев. 6 мая 1920 года командующий Юго-Западным фронтом советской армии Егоров телеграфировал в секретном приказе № 304: «Киев должен достаться противнику лишь ценой самых крупных с его стороны потерь»(Citation: 499).
+    Армии УНР и Польши Киев отбили: 7 мая польские разведывательные подразделения доехали до центра города городским трамваем, а 8 мая в столицу вошли десять полков 3-й польской армии(Citation: 498).
+
+    Оккупант собрал силы и 6 июня прорвал польский фронт южнее Киева, у Самгородка. 10 июня польские войска, подорвав Цепной и Русановский мосты, отступили из Киева(Citation: 498). 12 июня 1920 года Егоров докладывал: «Части 58 дивизии заняли Печерск и входят в Киев».
+    Приказы о перехвате железной дороги Киев - Коростень, отданные накануне, подписали Егоров и Сталин(Citation: 499).
+
+    18 октября 1920 года на польско-советском фронте наступило перемирие, и Армия УНР осталась против захватчика одна(Citation: 498).
+    К 10 ноября она держала фронт силами 8968 штыков и 3250 сабель при 95 орудиях и 687 пулемётах.
+    Против неё советское командование двинуло 12-ю и 14-ю армии, Башкирскую конную бригаду и конную бригаду Котовского: 24 000 штыков, 4000 сабель, 120 орудий и пять бронепоездов(Citation: 502).
+    Оккупационные войска атаковали первыми и сорвали готовившееся наступление на Подолье, в сегодняшних Винницкой и Хмельницкой областях.
+    За одиннадцать суток боёв Армия УНР потеряла около 13 тысяч воинов, почти всю артиллерию и четыре бронепоезда(Citation: 498).
+
+    21 ноября 1920 года около 12 тысяч воинов УНР со штабом Симона Петлюры и министерствами перешли реку Збруч, по которой шла граница с землями, переданными Польше по Варшавскому договору(Citation: 498).
+    Участник отступления Михаил Андрусяк вспоминал: «Печально, с опущенными головами складывали козаки оружие после перехода через мост и маршировали дальше на Запад»(Citation: 505).
+
+    Осенью 1921 года воины армии УНР предприняли последнюю попытку поднять всеобщее восстание против советских оккупантов.
+    Этот рейд называют Вторым зимним походом, а его ход известен по докладу начальника Полевого повстанческого штаба полковника Юрия Отмарштейна, поданному Симону Петлюре.
+    В 2 часа ночи 4 ноября 1921 года отряд перешёл польско-украинскую границу у села Боровое: 155 старшин и урядовцев, 645 козаков, 32 лошади, винтовками вооружено около 56 процентов людей(Citation: 501). 7 ноября отряд под общим командованием Юрия Тютюнника с боем освободил узловую станцию Коростень и выпустил из тюрьмы 600 политических заключённых, но в то же утро отошёл: к городу подходил бронепоезд советских оккупантов с орудиями, против которых отряду нечего было выставить, а патроны приходилось беречь.
+    В бою погибли семь старшин и двенадцать козаков(Citation: 501).
+
+    Дальше идти отряд не смог.
+    Половина пехоты шла без сапог и с обмороженными ногами, обоз вёз до 80 раненых, а патроны пополняли только тем, что брали у убитых и пленных россиян.
+    Штаб решил поворачивать назад, в сторону Польши(Citation: 501).
+    Войска российского захватчика блокировали район рейда УНР и 17 ноября окружили отряд у села Малые Миньки на севере Житомирской области.
+    Свыше 400 воинов погибли в бою, 537 попали в плен, а больше сотни пробились из окружения и 20 ноября ушли за польскую границу(Citation: 185)(Citation: 186).
+    Пленных отвезли в село Базар, где 359 из них расстреляли(Citation: 500).
+    Вооружённая борьба регулярной Армии УНР на этом завершилась(Citation: 25).
+  en: |-
+    On December 12, 1919, the command of the Soviet Southern Front issued secret directive No. 188.
+    The document was signed by front commander Yegorov, the future head of the USSR Stalin, and chief of staff Petin.
+    The directive gave the invaders' army its task: «to capture the city of Kyiv in the shortest possible time»(Citation: 504).
+    On December 16, 1919, the army of Soviet Russia (RSFSR) took Kyiv for the third time since the start of the communist revolution(Citation: 504)(Citation: 22).
+
+    The Ukrainian People's Republic (UNR) is the Ukrainian state proclaimed in 1917.
+    By December 1919 its army - eight to ten thousand soldiers, many of them sick with typhus - was pinned near Starokostiantyniv in Volhynia: the Volunteer Army of Denikin to the south and east, the Polish army to the west, the troops of Soviet Russia to the north.
+    Contemporaries called this position the «triangle of death»(Citation: 195).
+    At a meeting in Nova Chortoryia on December 4-6, 1919, the head of the UNR Directory Symon Petliura and the army command decided to dissolve the regular front.
+    The UNR Army under the command of Mykhailo Omelianovych-Pavlenko set out on a raid through the rear of the Soviet and White forces: in 180 days, from December 6, 1919 to May 6, 1920, some ten thousand soldiers marched two and a half thousand kilometres across Ukraine.
+    This raid is known as the First Winter Campaign(Citation: 195).
+
+    That same winter Soviet troops occupied most of Ukraine.
+    The dates of the cities' capture, according to the front reports: December 11, 1919 - Poltava and Kharkiv, December 16 - Kupiansk, December 24 - Luhansk, January 5, 1920 - Mariupol, February 7 - Odesa(Citation: 504).
+    On the Right Bank the Russian occupier reached the Polish front line: Kamianets-Podilskyi, Proskuriv and Starokostiantyniv were held by the Poles(Citation: 195).
+
+    The UNR leadership signed an alliance with Poland and secured the support of its army in the fight against the Russian occupiers.
+    In the spring of 1920 the armies of Poland and the UNR moved to liberate Kyiv.
+    On May 6, 1920, Yegorov, commander of the Southwestern Front of the Soviet army, telegraphed in secret order No. 304: «Kyiv must fall to the enemy only at the cost of the heaviest losses on his part»(Citation: 499).
+    The armies of the UNR and Poland retook Kyiv: on May 7 Polish reconnaissance units rode to the centre of the city by tram, and on May 8 ten regiments of the 3rd Polish Army entered the capital(Citation: 498).
+
+    The occupier gathered its forces and on June 6 broke through the Polish front south of Kyiv, at Samhorodok.
+    On June 10 the Polish troops, having blown up the Chain and Rusanivskyi bridges, withdrew from Kyiv(Citation: 498).
+    On June 12, 1920, Yegorov reported: «Units of the 58th Division have taken Pechersk and are entering Kyiv».
+    The orders to cut the Kyiv - Korosten railway, issued the day before, were signed by Yegorov and Stalin(Citation: 499).
+
+    On October 18, 1920, an armistice took effect on the Polish-Soviet front, and the UNR Army was left to face the invader alone(Citation: 498).
+    By November 10 it held the front with 8,968 bayonets and 3,250 sabres, with 95 guns and 687 machine guns.
+    Against it the Soviet command moved the 12th and 14th armies, the Bashkir cavalry brigade and Kotovsky's cavalry brigade: 24,000 bayonets, 4,000 sabres, 120 guns and five armoured trains(Citation: 502).
+    The occupation troops attacked first and thwarted the offensive being prepared in Podillia, in today's Vinnytsia and Khmelnytskyi oblasts.
+    In eleven days of fighting the UNR Army lost about 13 thousand soldiers, almost all of its artillery and four armoured trains(Citation: 498).
+
+    On November 21, 1920, about 12 thousand UNR soldiers, together with the staff of Symon Petliura and the ministries, crossed the Zbruch River, along which ran the border with the lands ceded to Poland under the Treaty of Warsaw(Citation: 498).
+    Mykhailo Andrusiak, a participant in the retreat, recalled: «Sadly, with bowed heads, the Cossacks laid down their arms after crossing the bridge and marched on to the West»(Citation: 505).
+
+    In the autumn of 1921 the soldiers of the UNR army made a last attempt to raise a general uprising against the Soviet occupiers.
+    This raid is known as the Second Winter Campaign, and its course is known from the report of the chief of the Field Insurgent Staff, Colonel Yurii Otmarshtein, submitted to Symon Petliura.
+    At 2 a.m. on November 4, 1921, the detachment crossed the Polish-Ukrainian border near the village of Borove: 155 officers and officials, 645 Cossacks, 32 horses, with about 56 percent of the men armed with rifles(Citation: 501).
+    On November 7 the detachment under the overall command of Yurii Tiutiunnyk liberated the Korosten railway junction in battle and freed 600 political prisoners from the jail, but withdrew that same morning: an armoured train of the Soviet occupiers was approaching the town with guns the detachment had nothing to counter, and ammunition had to be spared.
+    Seven officers and twelve Cossacks died in the battle(Citation: 501).
+
+    The detachment could go no further.
+    Half of the infantry marched without boots and with frostbitten feet, the wagon train carried up to 80 wounded, and ammunition was replenished only with what was taken from killed and captured Russians.
+    The staff decided to turn back, towards Poland(Citation: 501).
+    The troops of the Russian invader blockaded the area of the UNR raid and on November 17 encircled the detachment near the village of Mali Mynky in the north of Zhytomyr Oblast.
+    Over 400 soldiers died in the battle, 537 were taken prisoner, and more than a hundred broke out of the encirclement and crossed the Polish border on November 20(Citation: 185)(Citation: 186).
+    The prisoners were taken to the village of Bazar, where 359 of them were shot(Citation: 500).
+    The armed struggle of the regular UNR Army ended there(Citation: 25).
+  uk: |-
+    12 грудня 1919 року командування радянського Південного фронту віддало таємну директиву № 188.
+    Документ підписали командувач фронту Єгоров, майбутній очільник СРСР Сталін і начальник штабу Пєтін.
+    Директива ставила армії загарбників завдання: «у найкоротший строк оволодіти м. Києвом»(Citation: 504). 16 грудня 1919 року армія радянської Росії (РСФРР) зайняла Київ утретє від початку комуністичної революції(Citation: 504)(Citation: 22).
+
+    Українська Народна Республіка (УНР) - українська держава, проголошена 1917 року.
+    До грудня 1919 року її армію, вісім-десять тисяч воїнів, багато з яких хворіли на тиф, затисли біля Старокостянтинова на Волині: з півдня і сходу Добровольча армія Денікіна, із заходу польська армія, з півночі війська радянської Росії.
+    Сучасники називали це становище «трикутником смерті»(Citation: 195).
+    На нараді в Новій Чорториї 4-6 грудня 1919 року голова Директорії УНР Симон Петлюра та командування армії вирішили ліквідувати регулярний фронт.
+    Армія УНР під командуванням Михайла Омеляновича-Павленка пішла в рейд тилами радянських і білих військ: за 180 днів, з 6 грудня 1919 року до 6 травня 1920 року, близько десяти тисяч воїнів пройшли Україною дві з половиною тисячі кілометрів.
+    Цей рейд називають Першим зимовим походом(Citation: 195).
+
+    Тієї ж зими радянські війська окупували більшу частину України.
+    Дати захоплення міст за донесеннями фронтів: 11 грудня 1919 року Полтава і Харків, 16 грудня Куп'янськ, 24 грудня Луганськ, 5 січня 1920 року Маріуполь, 7 лютого Одеса(Citation: 504).
+    На Правобережжі російський окупант дійшов до польського фронту: Кам'янець-Подільський, Проскурів і Старокостянтинів тримали поляки(Citation: 195).
+
+    Керівництво УНР підписало союз із Польщею і заручилося підтримкою її армії в боротьбі проти російських окупантів.
+    Навесні 1920 року армії Польщі та УНР рушили визволяти Київ. 6 травня 1920 року командувач Південно-Західного фронту радянської армії Єгоров телеграфував у таємному наказі № 304: «Київ повинен дістатися противникові лише ціною найбільших з його боку втрат»(Citation: 499).
+    Армії УНР і Польщі Київ відбили: 7 травня польські розвідувальні підрозділи доїхали до центру міста міським трамваєм, а 8 травня до столиці ввійшли десять полків 3-ї польської армії(Citation: 498).
+
+    Окупант зібрав сили і 6 червня прорвав польський фронт південніше Києва, біля Самгородка. 10 червня польські війська, підірвавши Ланцюговий і Русанівський мости, відступили з Києва(Citation: 498). 12 червня 1920 року Єгоров доповідав: «Частини 58-ї дивізії зайняли Печерськ і входять до Києва».
+    Накази про перехоплення залізниці Київ - Коростень, віддані напередодні, підписали Єгоров і Сталін(Citation: 499).
+
+    18 жовтня 1920 року на польсько-радянському фронті настало перемир'я, і Армія УНР залишилася проти загарбника сама(Citation: 498).
+    На 10 листопада вона тримала фронт силами 8968 багнетів і 3250 шабель при 95 гарматах і 687 кулеметах.
+    Проти неї радянське командування рушило 12-ту і 14-ту армії, Башкирську кінну бригаду та кінну бригаду Котовського: 24 000 багнетів, 4000 шабель, 120 гармат і п'ять бронепотягів(Citation: 502).
+    Окупаційні війська атакували першими і зірвали підготовлюваний наступ на Поділлі, в сьогоднішніх Вінницькій і Хмельницькій областях.
+    За одинадцять діб боїв Армія УНР втратила близько 13 тисяч воїнів, майже всю артилерію і чотири бронепотяги(Citation: 498).
+
+    21 листопада 1920 року близько 12 тисяч воїнів УНР зі штабом Симона Петлюри й міністерствами перейшли річку Збруч, якою йшов кордон із землями, переданими Польщі за Варшавським договором(Citation: 498).
+    Учасник відступу Михайло Андрусяк згадував: «Сумно, з похиленими головами складали козаки зброю після переходу через міст та машерували далі на Захід»(Citation: 505).
+
+    Восени 1921 року воїни армії УНР зробили останню спробу підняти всезагальне повстання проти радянських окупантів.
+    Цей рейд називають Другим зимовим походом, а його хід відомий за доповіддю начальника Польового повстанчого штабу полковника Юрія Отмарштейна, поданою Симонові Петлюрі.
+    О 2-й годині ночі 4 листопада 1921 року загін перейшов польсько-український кордон біля села Борове: 155 старшин і урядовців, 645 козаків, 32 коні, рушницями озброєно близько 56 відсотків людей(Citation: 501). 7 листопада загін під загальним командуванням Юрія Тютюнника з боєм визволив вузлову станцію Коростень і випустив із в'язниці 600 політичних в'язнів, але того ж ранку відійшов: до міста підходив бронепотяг радянських окупантів із гарматами, проти яких загонові не було чого виставити, а набої доводилося берегти.
+    У бою загинули семеро старшин і дванадцять козаків(Citation: 501).
+
+    Далі йти загін не зміг.
+    Половина піхоти йшла без чобіт і з відмороженими ногами, обоз віз до 80 поранених, а набої поповнювали лише тим, що брали в убитих і полонених росіян.
+    Штаб вирішив повертати назад, у бік Польщі(Citation: 501).
+    Війська російського загарбника блокували район рейду УНР і 17 листопада оточили загін біля села Малі Миньки на півночі Житомирської області.
+    Понад 400 воїнів загинули в бою, 537 потрапили в полон, а більше сотні пробилися з оточення і 20 листопада відійшли за польський кордон(Citation: 185)(Citation: 186).
+    Полонених відвезли до села Базар, де 359 із них розстріляли(Citation: 500).
+    Збройна боротьба регулярної Армії УНР на цьому завершилася(Citation: 25).

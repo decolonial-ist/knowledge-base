@@ -1,0 +1,54 @@
+type: procedure
+id: C1181.T0152
+created: 2026-09-05
+modified: 2026-09-05
+version: '1.0'
+technique: T0152
+people: nokhchi
+actor: G0010
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Чеченцы прожили ссылку под постоянными нападениями и провокациями.
+    Империя сама сделала их мишенью - клеймом «предателей», попустительством начальства и тайной полицией, которая после каждого погрома назначала виновными самих чеченцев. 16 июня 1950 года в городе Лениногорске в Казахстане на чеченцев напали рабочие, завербованные на свинцовые рудники, а заводилами у них были уголовники, выпущенные из казахстанских лагерей.
+    Погром готовили втайне и чеченскую общину застали врасплох: больше всего людей убили в первый день, когда чеченские мужчины поодиночке и небольшими группами разъехались поздравлять родных с окончанием рамадана (для мусульман это большой религиозный праздник).
+    Местное начальство, полиция оккупанта и спецкомендатура не остановили нападавших; чеченцы организовали оборону сами и спустя два дня уличных боёв, к 18 июня, вытеснили погромщиков на окраину города, а советские войска вошли только 19 июня.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «В общей сложности было зверски убито 36 чеченцев, включая женщин и детей»(Citation: 125).
+    Управление спецпоселениями МГБ (предшественницы современной ФСБ) Казахской ССР признавало тем же летом «массовые драки между выселенцами-чеченцами и местными жителями (на ст. Кушмурун Кустанайской области, в Усть-Каменогорске и Лениногорске Восточно-Казахстанской области), сопровождавшиеся убийствами и тяжелыми ранениями» - и вину за них возлагало на самих чеченцев(Citation: 533); про Усть-Каменогорск 9-е управление МГБ СССР докладывало в 1952 году: «возникла массовая драка, в которой участвовало до 150 чеченцев и около 300 рабочих.
+    Этот массовый беспорядок был ликвидирован только после вмешательства части МГБ»(Citation: 533).
+    Отдел спецпоселений полицейского ведомства в справке, составленной в июле 1950 года, датировал погром в Лениногорске 17 июня и считал убитых по-своему: «В драке были убиты 34 спецпереселенца-чеченца», а нападение в Усть-Каменогорске относил к 27 июня(Citation: 620).
+    В декабре 1954 года в селе Елизаветинка Акмолинской области учащиеся школы механизации называли чеченцев «предателями и изменниками родины» - с этими обвинениями русские пошли на массовое столкновение с чеченцами(Citation: 533). 15 мая 1955 года в Экибастузе рабочие, мобилизованные через военкомат на шахты, избили на улице двух чеченцев; полицейские укрыли избитых в отделении, но рабочие пришли туда и потребовали их выдачи.
+    Министр внутренних дел СССР Круглов доносил руководству большевистской партии и правительству: «Получив отказ, бывшие солдаты оттеснили сотрудников отделения милиции, насильно вытащили чеченцев на улицу и избили их.
+    После этого рабочими был избит ряд других проживающих в городе чеченцев.
+    В результате драки убито 3 и получили ранения 4 чеченца»(Citation: 533).
+  en: |-
+    The Chechens lived through the exile under constant attacks and provocations.
+    The empire itself made them the target - by the brand of "traitors," by the connivance of local officials and by a secret police that named the Chechens themselves guilty after every pogrom.
+    On 16 June 1950 in the town of Leninogorsk in Kazakhstan the Chechens were attacked by workers recruited to the lead mines, their ringleaders criminals released from Kazakhstan's camps.
+    The pogrom was prepared in secret and caught the Chechen community off guard: most of the killing came on the first day, when the Chechen men, alone or in small groups, had driven off to congratulate their relatives on the end of Ramadan (for Muslims, a major religious holiday).
+    The local authorities, the occupier's police and the special commandant's office did not stop the attackers; the Chechens organized the defense themselves and, after two days of street fighting, by 18 June pushed the pogromists to the town's outskirts, while Soviet troops entered only on 19 June.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "In all, 36 Chechens were brutally killed, including women and children"(Citation: 125).
+    The Directorate of Special Settlements of the MGB (predecessor of today's FSB) of the Kazakh SSR admitted that same summer to "mass brawls between deportee-Chechens and local residents (at Kushmurun station, Kustanai oblast, and in Ust-Kamenogorsk and Leninogorsk, East Kazakhstan oblast), accompanied by killings and grave injuries" - and laid the blame for them on the Chechens themselves(Citation: 533); of Ust-Kamenogorsk the 9th directorate of the MGB of the USSR reported in 1952: "a mass brawl broke out involving up to 150 Chechens and about 300 workers.
+    This mass disorder was put down only after the intervention of an MGB unit"(Citation: 533).
+    The Special Settlements Department of the police ministry, in a memorandum drawn up in July 1950, dated the Leninogorsk pogrom to 17 June and counted the dead its own way: "In the brawl 34 special-settler Chechens were killed" - and placed the attack in Ust-Kamenogorsk on 27 June(Citation: 620).
+    In December 1954 in the village of Yelizavetinka, Akmolinsk oblast, students of the mechanization school called the Chechens "traitors and betrayers of the motherland" - and with these accusations Russians went into a mass clash with the Chechens(Citation: 533).
+    On 15 May 1955 in Ekibastuz workers mobilized to the mines through the military enlistment office beat two Chechens in the street; the police sheltered the beaten men in the station house, but the workers came there and demanded they be handed over.
+    Kruglov, Minister of Internal Affairs of the USSR, reported to the leadership of the Bolshevik party and to the government: "Having been refused, the former soldiers pushed aside the officers of the militia station, dragged the Chechens out into the street by force and beat them.
+    After that a number of other Chechens living in the town were beaten by the workers.
+    As a result of the brawl 3 Chechens were killed and 4 injured"(Citation: 533).
+  uk: |-
+    Чеченці прожили заслання під постійними нападами та провокаціями.
+    Імперія сама зробила їх мішенню - тавром «зрадників», потуранням начальства і таємною поліцією, яка після кожного погрому призначала винними самих чеченців. 16 червня 1950 року в місті Леніногорську в Казахстані на чеченців напали робітники, завербовані на свинцеві рудники, а заводіями в них були кримінальники, випущені з казахстанських таборів.
+    Погром готували потай, і чеченську громаду застали зненацька: найбільше людей убили першого дня, коли чеченські чоловіки поодинці й невеликими групами роз'їхалися вітати рідних із закінченням рамадану (для мусульман це велике релігійне свято).
+    Місцеве начальство, поліція окупанта і спецкомендатура не зупинили нападників; чеченці організували оборону самі й за два дні вуличних боїв, до 18 червня, витіснили погромників на околицю міста, а радянські війська ввійшли лише 19 червня.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: «Загалом було по-звірячому вбито 36 чеченців, включно з жінками та дітьми»(Citation: 125).
+    Управління спецпоселень МДБ (попередниці сучасної ФСБ) Казахської РСР визнавало того ж літа «масові бійки між виселенцями-чеченцями та місцевими жителями (на ст. Кушмурун Кустанайської області, в Усть-Каменогорську та Леніногорську Східно-Казахстанської області), що супроводжувалися вбивствами й тяжкими пораненнями» - і провину за них покладало на самих чеченців(Citation: 533); про Усть-Каменогорськ 9-те управління МДБ СРСР доповідало 1952 року: «виникла масова бійка, в якій брало участь до 150 чеченців і близько 300 робітників.
+    Цей масовий безлад було ліквідовано лише після втручання частини МДБ»(Citation: 533).
+    Відділ спецпоселень поліційного відомства в довідці, складеній у липні 1950 року, датував погром у Леніногорську 17 червня і рахував убитих по-своєму: «У бійці було вбито 34 спецпереселенці-чеченці», а напад в Усть-Каменогорську відносив до 27 червня(Citation: 620).
+    У грудні 1954 року в селі Єлизаветинка Акмолинської області учні школи механізації називали чеченців «зрадниками і запроданцями батьківщини» - з цими звинуваченнями росіяни пішли на масове зіткнення з чеченцями(Citation: 533). 15 травня 1955 року в Екібастузі робітники, мобілізовані через військкомат на шахти, побили на вулиці двох чеченців; поліцейські сховали побитих у відділку, але робітники прийшли туди й зажадали їх видати.
+    Міністр внутрішніх справ СРСР Круглов доносив керівництву більшовицької партії та урядові: «Діставши відмову, колишні солдати відтіснили співробітників відділення міліції, силоміць витягли чеченців на вулицю й побили їх.
+    Після цього робітники побили низку інших чеченців, які мешкали в місті.
+    Внаслідок бійки вбито 3 і дістали поранення 4 чеченці»(Citation: 533).

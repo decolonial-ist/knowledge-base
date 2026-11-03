@@ -1,0 +1,27 @@
+type: campaign
+id: C0035
+created: 2026-04-25
+modified: 2026-08-04
+version: '1.3'
+people: ukrainians
+first_seen: 1783-04-08
+last_seen: 1783-12-31
+contributors: []
+name:
+  ru: Военная аннексия Крымского ханства (1783)
+  en: Military Annexation of the Crimean Khanate (1783)
+  uk: Військова анексія Кримського ханства (1783)
+description:
+  ru: |-
+    Захват Крымского ханства и его насильственное включение в состав Российской империи: «решилися МЫ взять под державу НАШУ полуостров Крымский, остров Тамань и всю Кубанскую сторону»(Citation: 148).
+    По отношению к Украине аннексия обеспечивалась принудительной мобилизацией казаков как военного ресурса, колонизацией прилегающих южных степей для создания лояльного тыла и стиранием казацких топонимов: земли уничтоженной Сечи манифестом Екатерины II от 3 августа 1775 года были причислены «по способности к Новороссийской Губернии»(Citation: 147).
+    По отношению к Крыму это была ликвидация государства и правящей династии: «весной 1782 хан Шагин-Гирей вынужден был бежать под российскую протекцию»(Citation: 193), манифест о принятии Крыма Екатерина II подписала 8 апреля 1783 года (ПСЗРИ, собр. 1-е, т. XXI, № 15.108)(Citation: 391), а хан был сослан в Калугу; коренное население выдавливалось волнами эмиграции - «если до 1787 эмигрировало лишь 8 тыс., то в 1792 это были уже десятки тысяч»(Citation: 193).
+  en: |-
+    The seizure of the Crimean Khanate and its forcible incorporation into the Russian Empire: "WE have resolved to take under OUR dominion the Crimean peninsula, the island of Taman, and the entire Kuban side"(Citation: 148).
+    With regard to Ukraine, the annexation was secured through the forced mobilization of Cossacks as a military resource, the colonization of the adjacent southern steppes to create a loyal rear, and the erasure of Cossack toponyms: the lands of the destroyed Sich were assigned by Catherine II's manifesto of 3 August 1775 "as convenient to the Novorossiysk Governorate"(Citation: 147).
+    For Crimea this meant the liquidation of the state and its ruling dynasty: "in the spring of 1782 Khan Shahin Girey was forced to flee under Russian protection"(Citation: 193), the manifesto on the taking of Crimea was signed by Catherine II on April 8, 1783 (PSZRI, coll. 1, vol.
+    XXI, no. 15,108)(Citation: 391), and the khan was exiled to Kaluga; the indigenous population was being squeezed out in waves of emigration - "if before 1787 only 8 thousand had emigrated, by 1792 it was already tens of thousands"(Citation: 193).
+  uk: |-
+    Захоплення Кримського ханства та його насильницьке включення до складу Російської імперії: «зважилися МИ взяти під державу НАШУ півострів Кримський, острів Тамань і всю Кубанську сторону»(Citation: 148).
+    Щодо України анексія забезпечувалася примусовою мобілізацією козаків як військового ресурсу, колонізацією прилеглих південних степів для створення лояльного тилу та стиранням козацьких топонімів: землі знищеної Січі маніфестом Катерини II від 3 серпня 1775 року було причислено «за придатністю до Новоросійської Губернії»(Citation: 147).
+    Щодо Криму це була ліквідація держави і правлячої династії: «Навесні 1782 хан Шагін-Ґерей змушений був тікати під російську протекцію»(Citation: 193), маніфест про прийняття Криму Катерина II підписала 8 квітня 1783 року (ПСЗРІ, зібр. 1-ше, т. XXI, № 15.108)(Citation: 391), а хана було заслано до Калуги; корінне населення видавлювали хвилями еміграції - «Якщо до 1787 емігрувало лише 8 тис., то 1792 це вже були десятки тисяч»(Citation: 193).

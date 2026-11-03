@@ -1,0 +1,205 @@
+type: procedure
+id: C1193.T0168
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0168
+people: nokhchi
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Москва всю войну выводила своих солдат, милиционеров и командиров оккупационных войск из-под ответственности за преступления против чеченцев.
+
+    В Ичкерии командующий внутренними войсками МВД России (предшественниками современной Росгвардии) Шкирко выступал под фамилией «Широков», а начальник их штаба Львов - «генерал Ягодин».
+    Заместители командующего оккупационными войсками Романов и Лабунец назывались «Антонов» и «Алексеев»(Citation: 27)(Citation: 1136).
+
+    Военные прокуроры закрывали дела о людях, которых российские солдаты расстреляли в машинах у блокпостов, и ссылались на статьи 23 и 27 закона России о внутренних войсках МВД(Citation: 27).
+
+    17 декабря 1994 года российские военные расстреляли колонну беженцев из Грозного у станицы Нестеровской в подконтрольной России Ингушетии.
+    Российские прокуроры приостановили дело, не найдя виновных(Citation: 27).
+
+    3 января 1995 года российские лётчики бомбили Аршты, село в Ингушетии, где жили в основном чеченцы (подробнее: «Коллективные наказания»), а при второй бомбёжке, 18 апреля, убили там трёх женщин.
+    Российские прокуроры закрыли оба дела, не найдя преступления(Citation: 27). 14 января 1995 года секретарь Совета безопасности России Лобов сказал, что правду о бомбёжках Грозного должна установить специальная комиссия.
+    Россия такой комиссии не создала(Citation: 27).
+
+    24 января 1995 года в Грозном пропали двое сыновей Хусейна Хамидова. 2 апреля отец раскопал яму во дворе дома на улице Маяковского, где до этого стояла часть внутренних войск МВД России, и нашёл их тела (подробнее: «Убийство пленных и задержанных»).
+    Прокуратура марионеточного правительства возбудила дело и собрала доказательства.
+    Российские военные прокуроры приостановили его, не найдя виновных(Citation: 27). 24 апреля 1996 года Хусейн Хамидов, который с января 1995 года искал пропавших людей в Ичкерии, рассказал общественному трибуналу российского фонда «Гласность» в Москве: «Ни одного расследованного и доведенного до суда дела нет… когда передаешь им документы, передаешь заявление о каком-то совершенном преступлении, они говорят: „А вы скажите, кто это сделал, солдаты российской действующей армии, или СОБРа [милицейского спецназа], или МВД“…
+    А кто же знает, кто совершил преступление — форма у них одна и та же.
+    И на этом основании нам отказывают»(Citation: 988).
+
+    Российские суды дали капитану 81-го полка внутренних войск МВД России Поливцеву четыре года за убийство четверых чеченцев в Грозном 25 января 1995 года(Citation: 27).
+
+    7-8 апреля 1995 года российские внутренние войска штурмовали Самашки, село на западе Ичкерии, и убили 103 мирных чеченца (подробнее: «Массовые убийства гражданских»). 12 апреля полковник МВД России на посту у села представился правозащитникам Обломовым, хотя на ремне его автомата была написана фамилия «Еланский». 19 апреля российский прокурор Джапов сказал наблюдателю российской правозащитной организации «Мемориал» Андрею Блинушову, что не знает, как привлечь к ответственности бойцов спецподразделений МВД.
+    Наблюдатель записал в дневнике со слов прокурора: «спецчасти МВД, выходящие из Чечни, уничтожают всю свою документацию, касающуюся их действий на территории этой республики.
+    Действуют эти подразделения зачастую в масках, без каких либо знаков различия на форменной одежде, все офицеры вместо подлинных фамилий пользуются двумя-тремя псевдонимами»(Citation: 1136). 27 апреля исполнявший обязанности генерального прокурора России Ильюшенко возбудил дело об убийствах и поджогах в селе(Citation: 1136).
+    В середине мая российские военные следователи опросили часть пострадавших и свидетелей, но могил не вскрывали и в Самашки больше не приезжали. 14 января 1997 года прокуроры закрыли дело. 21 ноября 1997 года заместитель главного военного прокурора России Смирнов назвал «Мемориалу» причину: «военнослужащие действовали в состоянии крайней необходимости и необходимой обороны»(Citation: 27).
+
+    Российский военный Вершинин получил от суда три года за то, что 17 апреля 1995 года застрелил мальчика Зелимхана Дедиева в станице Петропавловская к северо-востоку от Грозного(Citation: 27). 14 июня 1995 года Генеральная прокуратура России распоряжением № 15-6-95 приказала прокурору марионеточного правительства в Грозном передавать российским военным прокурорам дела о преступлениях российских солдат, только если факты установлены бесспорно. 4 июля 1996 года прокурор этого правительства написал генеральному прокурору России Скуратову, что российские прокуроры вернули ему 112 дел без расследования, не найдя в них бесспорных доказательств вины.
+    В письме сказано, что безымянные командиры приказывали не пускать следователей в воинские части и на блокпосты(Citation: 27).
+    Солдаты Коровин, Шулин и Петров получили 14, шесть и три года за то, что в ночь на 7 июля 1995 года убили двух чеченцев в посёлке Родина у своей части(Citation: 1367)(Citation: 27).
+    Российские военные не пускали в свои части следователей марионеточной прокуратуры, которые расследовали убийство семерых чеченцев из семьи Чапановых в селе Пригородное у Грозного 7 июля 1995 года.
+    В январе 1996 года марионеточная прокуратура приостановила дело(Citation: 27). 17 декабря 1996 года суд дал бойцу российского милицейского спецназа Пермякову полтора года условно за «неосторожное убийство» Заурбека Узуева, которого тот 8 сентября 1995 года застрелил на блокпосту во время митинга за независимость Ичкерии(Citation: 27).
+    Военные прокуроры приостановили дело о бомбёжке Рошни-Чу, села к юго-западу от Грозного, в октябре 1995 года(Citation: 27).
+
+    Военные прокуроры закрыли дело об убийстве Шарипа Батаева, чеченца из Аршты, которого разведчики 693-го полка 58-й армии России застрелили в конце февраля 1996 года.
+    По версии прокуроров, командир разведчиков защищался(Citation: 27).
+    Весной 1996 года российские прокуроры не возбудили уголовного дела о том, как оккупанты в марте сожгли Серноводск и разрушили Самашки, сёла на западе Ичкерии(Citation: 988). 30 июня 1996 года военный прокурор Сапрунов написал прокуратуре марионеточного правительства, что оккупанты избили по дороге в Пятигорск, город на юге России, половину из 91 чеченца из Самашек, которых российские военные незаконно задержали 15 марта (подробнее: «Пытки и истязания»)(Citation: 657)(Citation: 1152).
+    В марте 1997 года российские прокуроры приостановили дело, не найдя виновных: задержавшие были «с масками на лицах, в связи с чем их опознание невозможно»(Citation: 27). 10 декабря 1996 года прокурор Главной военной прокуратуры России Синицын ответил на просьбу «Мемориала» расследовать, как солдаты внутренних войск МВД России прикрывались мирными людьми в Самашках в марте 1996 года и больными 9-й городской больницы Грозного в августе 1996 года (подробнее: «Использование людей как «живого щита»»).
+    Синицын написал, что переслал доклад правозащитников прокурорам Северного Кавказа, чтобы его приложили к сообщениям прессы(Citation: 657), а 21 ноября 1997 года заместитель главного военного прокурора Смирнов ответил, что в Самашках люди прятались за бронетехникой от обстрела(Citation: 27).
+    Военные прокуроры приостановили дела о бомбёжках Катыр-Юрта и Шалажи, сёл к юго-западу от Грозного, в марте и апреле 1996 года (подробнее: «Неизбирательные нападения»)(Citation: 27).
+    Прокурор оккупационных войск Шевченко, не выезжая на место, заявил, что солдаты внутренних войск МВД России, которые 15 июля 1996 года расстреляли в легковых машинах безоружных людей в пригороде Грозного, применили оружие правильно(Citation: 1364)(Citation: 27).
+    В середине июля 1996 года российские солдаты без обвинений держали двух чеченцев из Веденского района на юго-востоке Ичкерии в армейской камере в Ханкале, главной базе оккупационных войск на восточной окраине Грозного, и отпустили их по требованию военных прокуроров.
+    Прокуратура оккупационных войск признала незаконным только это задержание, но дела не возбудила, потому что виновный, комендант Ханкалы, погиб в боях в августе 1996 года(Citation: 27).
+
+    8 августа 1996 года Главная военная прокуратура России ответила депутату российского парламента Юлию Рыбакову, что с 11 декабря 1994 года прокуроры возбудили 129 дел о преступлениях оккупантов против мирных людей в Ичкерии.
+    Из них 21 дело прокуроры передали в суды, 21 закрыли, 26 не закончили, а 61 приостановили - 48 потому, что не нашли виновных, и 13 потому, что не знали, где обвиняемые(Citation: 27).
+
+    29 сентября 1997 года Управление военных судов России ответило на запрос «Мемориала», что за всю войну суды осудили 18 солдат и офицеров, из них семерых - за убийства(Citation: 27).
+
+    26 июля 1995 года Комитет ООН по правам человека выразил сожаление, что никто не ответил за жестокое обращение с пленными и задержанными в Ичкерии(Citation: 736).
+    В докладе Human Rights Watch от января 1997 года сказано, что Россия систематически нарушала права человека и так же систематически не привлекала виновных к ответственности(Citation: 657).
+    Правозащитники «Мемориала» пишут, что за всю войну Россия не привлекла к ответственности ни одного высшего командира.
+    По их данным, российские суды никого не осудили за бомбёжки сёл и городов Ичкерии, фильтрационные лагеря, пытки, захват заложников и живой щит(Citation: 27).
+
+    По сведениям Human Rights Watch, на мирных переговорах в августе 1996 года российская делегация воспротивилась тому, чтобы обсуждать ответственность за преступления(Citation: 657).
+    После мирных соглашений в Хасавюрте 31 августа 1996 года (подробнее: «Фиктивные договоры»)(Citation: 661) Россия перевела прокуратуру оккупационных войск в подконтрольный ей Дагестан.
+    Правозащитники «Мемориала» пишут, что после этого прокуроры почти перестали расследовать преступления российских военных и милиционеров(Citation: 27). 12 марта 1997 года депутаты в Москве постановлением № 1199-II объявили амнистию за преступления, связанные с войной в Ичкерии(Citation: 1315).
+    По этой амнистии российские прокуроры прекращали незаконченные дела о преступлениях оккупантов(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Throughout the war, Moscow shielded its soldiers, police officers and commanders of the occupation troops from responsibility for crimes against Chechens.
+
+    In Ichkeria, Shkirko, commander of the Internal Troops of the Russian Interior Ministry (MVD; predecessors of today's Rosgvardia), went by the surname "Shirokov", and Lvov, chief of their staff, by "General Yagodin".
+    Romanov and Labunets, deputy commanders of the occupation troops, were called "Antonov" and "Alekseyev"(Citation: 27)(Citation: 1136).
+
+    Military prosecutors closed cases about people whom Russian soldiers had shot dead in cars at checkpoints, citing Articles 23 and 27 of the Russian law on the Internal Troops of the MVD(Citation: 27).
+
+    On 17 December 1994, the Russian military shot up a column of refugees from Grozny near the stanitsa of Nesterovskaya in Russian-controlled Ingushetia.
+    Russian prosecutors suspended the case without finding those responsible(Citation: 27).
+
+    On 3 January 1995, Russian pilots bombed Arshty, a village in Ingushetia inhabited mostly by Chechens (see: "Collective Punishment"), and in a second bombing, on 18 April, killed three women there.
+    Russian prosecutors closed both cases, finding no crime(Citation: 27).
+    On 14 January 1995, Lobov, secretary of the Russian Security Council, said that a special commission should establish the truth about the bombings of Grozny.
+    Russia created no such commission(Citation: 27).
+
+    On 24 January 1995, the two sons of Khusein Khamidov disappeared in Grozny.
+    On 2 April, the father dug up a pit in the yard of a house on Mayakovsky Street, where a unit of the Internal Troops of the Russian MVD had previously been stationed, and found their bodies (see: "Killing of Prisoners and Detainees").
+    The prosecutor's office of the puppet government opened a case and gathered evidence.
+    Russian military prosecutors suspended it without finding those responsible(Citation: 27).
+    On 24 April 1996, Khusein Khamidov, who had been searching for missing people in Ichkeria since January 1995, told the public tribunal of the Russian Glasnost Foundation in Moscow: "There is not a single case that has been investigated and brought to court… when you hand them documents, hand them a statement about some crime that was committed, they say: 'You tell us who did it, soldiers of the Russian regular army, or of SOBR [the police special forces], or of the MVD'…
+    But who knows who committed the crime — their uniform is one and the same.
+    And on that basis they refuse us"(Citation: 988).
+
+    Russian courts gave Polivtsev, a captain of the 81st regiment of the Internal Troops of the Russian MVD, four years for the murder of four Chechens in Grozny on 25 January 1995(Citation: 27).
+
+    On 7-8 April 1995, the Russian Internal Troops stormed Samashki, a village in the west of Ichkeria, and killed 103 Chechen civilians (see: "Mass Killings of Civilians").
+    On 12 April, a colonel of the Russian MVD at a post near the village introduced himself to human rights defenders as Oblomov, although the surname "Yelansky" was written on the strap of his assault rifle.
+    On 19 April, the Russian prosecutor Dzhapov told Andrei Blinushov, an observer of the Russian human rights organization Memorial, that he did not know how to hold the fighters of the MVD special units to account.
+    The observer wrote in his diary, from the prosecutor's words: "the MVD special units leaving Chechnya destroy all their documentation concerning their actions on the territory of this republic.
+    These units often act in masks, without any insignia on their uniforms, and all the officers use two or three pseudonyms instead of their real surnames"(Citation: 1136).
+    On 27 April, Ilyushenko, acting prosecutor general of Russia, opened a case on the killings and arson in the village(Citation: 1136).
+    In mid-May, Russian military investigators questioned some of the victims and witnesses, but did not open the graves and never came to Samashki again.
+    On 14 January 1997, the prosecutors closed the case.
+    On 21 November 1997, Smirnov, deputy chief military prosecutor of Russia, named the reason to Memorial: "the servicemen acted in a state of extreme necessity and necessary defense"(Citation: 27).
+
+    The Russian serviceman Vershinin received three years from a court for shooting dead the boy Zelimkhan Dediyev on 17 April 1995 in the stanitsa of Petropavlovskaya northeast of Grozny(Citation: 27).
+    On 14 June 1995, the Prosecutor General's Office of Russia, by directive No. 15-6-95, ordered the prosecutor of the puppet government in Grozny to hand cases of crimes by Russian soldiers over to Russian military prosecutors only if the facts had been established beyond dispute.
+    On 4 July 1996, that government's prosecutor wrote to Skuratov, prosecutor general of Russia, that Russian prosecutors had returned 112 cases to him without investigation, having found no indisputable proof of guilt in them.
+    The letter says that unnamed commanders ordered that investigators not be let into military units and onto checkpoints(Citation: 27).
+    The soldiers Korovin, Shulin and Petrov received 14, six and three years for killing two Chechens on the night of 7 July 1995 in the settlement of Rodina near their unit(Citation: 1367)(Citation: 27).
+    The Russian military did not let into their units the investigators of the puppet prosecutor's office who were investigating the murder of seven Chechens of the Chapanov family in the village of Prigorodnoye near Grozny on 7 July 1995.
+    In January 1996, the puppet prosecutor's office suspended the case(Citation: 27).
+    On 17 December 1996, a court gave Permyakov, a fighter of the Russian police special forces, a suspended sentence of a year and a half for the "negligent killing" of Zaurbek Uzuyev, whom he had shot dead at a checkpoint on 8 September 1995 during a rally for the independence of Ichkeria(Citation: 27).
+    Military prosecutors suspended the case on the bombing of Roshni-Chu, a village southwest of Grozny, in October 1995(Citation: 27).
+
+    Military prosecutors closed the case on the murder of Sharip Batayev, a Chechen from Arshty, whom scouts of the 693rd regiment of the Russian 58th Army shot dead at the end of February 1996.
+    According to the prosecutors' version, the commander of the scouts was defending himself(Citation: 27).
+    In the spring of 1996, Russian prosecutors opened no criminal case on how the occupiers in March had burned Sernovodsk and destroyed Samashki, villages in the west of Ichkeria(Citation: 988).
+    On 30 June 1996, the military prosecutor Saprunov wrote to the prosecutor's office of the puppet government that the occupiers had beaten, on the way to Pyatigorsk, a town in southern Russia, half of the 91 Chechens from Samashki whom the Russian military had unlawfully detained on 15 March (see: "Torture and Abuse")(Citation: 657)(Citation: 1152).
+    In March 1997, Russian prosecutors suspended the case without finding those responsible: those who made the detentions had been "wearing masks on their faces, so their identification is impossible"(Citation: 27).
+    On 10 December 1996, Sinitsyn, a prosecutor of the Chief Military Prosecutor's Office of Russia, replied to Memorial's request to investigate how soldiers of the Internal Troops of the Russian MVD had shielded themselves with civilians in Samashki in March 1996 and with the patients of Grozny City Hospital No. 9 in August 1996 (see: "Use of People as “Human Shields”").
+    Sinitsyn wrote that he had forwarded the human rights defenders' report to the prosecutors of the North Caucasus so that it could be attached to the press reports(Citation: 657), and on 21 November 1997 Smirnov, deputy chief military prosecutor, replied that in Samashki people had been hiding behind armored vehicles from the shelling(Citation: 27).
+    Military prosecutors suspended the cases on the bombings of Katyr-Yurt and Shalazhi, villages southwest of Grozny, in March and April 1996 (see: "Indiscriminate Attacks")(Citation: 27).
+    Shevchenko, prosecutor of the occupation troops, without visiting the scene, stated that the soldiers of the Internal Troops of the Russian MVD who on 15 July 1996 had shot dead unarmed people in passenger cars on the outskirts of Grozny had used their weapons correctly(Citation: 1364)(Citation: 27).
+    In mid-July 1996, Russian soldiers held without charges two Chechens from the Vedeno district in the southeast of Ichkeria in an army cell in Khankala, the main base of the occupation troops on the eastern outskirts of Grozny, and released them at the demand of military prosecutors.
+    The prosecutor's office of the occupation troops recognized only this detention as unlawful, but opened no case, because the culprit, the commandant of Khankala, had died in the fighting in August 1996(Citation: 27).
+
+    On 8 August 1996, the Chief Military Prosecutor's Office of Russia replied to Yuli Rybakov, a deputy of the Russian parliament, that since 11 December 1994 prosecutors had opened 129 cases on crimes by the occupiers against civilians in Ichkeria.
+    Of these, prosecutors had sent 21 cases to the courts, closed 21, left 26 unfinished and suspended 61 - 48 because they had not found those responsible, and 13 because they did not know where the accused were(Citation: 27).
+
+    On 29 September 1997, the Directorate of Military Courts of Russia replied to Memorial's inquiry that over the whole war the courts had convicted 18 soldiers and officers, seven of them for murder(Citation: 27).
+
+    On 26 July 1995, the UN Human Rights Committee expressed regret that no one had been held accountable for the ill-treatment of prisoners and detainees in Ichkeria(Citation: 736).
+    The Human Rights Watch report of January 1997 says that Russia systematically violated human rights and just as systematically failed to hold those responsible to account(Citation: 657).
+    Human rights defenders of Memorial write that over the whole war Russia held not a single senior commander to account.
+    According to their data, Russian courts convicted no one for the bombings of the villages and towns of Ichkeria, the filtration camps, torture, hostage-taking and human shields(Citation: 27).
+
+    According to Human Rights Watch, at the peace talks in August 1996 the Russian delegation objected to discussing responsibility for crimes(Citation: 657).
+    After the peace agreements in Khasavyurt on 31 August 1996 (see: "Sham Treaties")(Citation: 661), Russia moved the prosecutor's office of the occupation troops to Russian-controlled Dagestan.
+    Human rights defenders of Memorial write that after this the prosecutors almost stopped investigating crimes by Russian servicemen and police officers(Citation: 27).
+    On 12 March 1997, deputies in Moscow, by resolution No. 1199-II, declared an amnesty for crimes connected with the war in Ichkeria(Citation: 1315).
+    Under this amnesty, Russian prosecutors terminated unfinished cases on crimes by the occupiers(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Москва всю війну виводила своїх солдатів, міліціонерів і командирів окупаційних військ з-під відповідальності за злочини проти чеченців.
+
+    В Ічкерії командувач внутрішніми військами МВС Росії (попередниками сучасної Росгвардії) Шкірко виступав під прізвищем «Широков», а начальник їхнього штабу Львов - «генерал Ягодін».
+    Заступники командувача окупаційними військами Романов і Лабунець називалися «Антонов» і «Алексєєв»(Citation: 27)(Citation: 1136).
+
+    Військові прокурори закривали справи про людей, яких російські солдати розстріляли в машинах біля блокпостів, і посилалися на статті 23 і 27 закону Росії про внутрішні війська МВС(Citation: 27).
+
+    17 грудня 1994 року російські військові розстріляли колону біженців із Грозного біля станиці Нестеровської в підконтрольній Росії Інгушетії.
+    Російські прокурори зупинили справу, не знайшовши винних(Citation: 27).
+
+    3 січня 1995 року російські льотчики бомбили Аршти, село в Інгушетії, де жили переважно чеченці (докладніше: «Колективні покарання»), а під час другого бомбардування, 18 квітня, вбили там трьох жінок.
+    Російські прокурори закрили обидві справи, не знайшовши злочину(Citation: 27). 14 січня 1995 року секретар Ради безпеки Росії Лобов сказав, що правду про бомбардування Грозного має встановити спеціальна комісія.
+    Росія такої комісії не створила(Citation: 27).
+
+    24 січня 1995 року в Грозному пропали двоє синів Хусейна Хамідова. 2 квітня батько розкопав яму у дворі будинку на вулиці Маяковського, де до того стояла частина внутрішніх військ МВС Росії, і знайшов їхні тіла (докладніше: «Вбивство полонених і затриманих»).
+    Прокуратура маріонеткового уряду порушила справу і зібрала докази.
+    Російські військові прокурори зупинили її, не знайшовши винних(Citation: 27). 24 квітня 1996 року Хусейн Хамідов, який із січня 1995 року шукав пропалих людей в Ічкерії, розповів громадському трибуналу російського фонду «Гласність» у Москві: «Жодної розслідуваної і доведеної до суду справи немає… коли передаєш їм документи, передаєш заяву про якийсь скоєний злочин, вони кажуть: „А ви скажіть, хто це зробив, солдати російської діючої армії, чи СОБРу [міліцейського спецназу], чи МВС“…
+    А хто ж знає, хто скоїв злочин — форма в них одна й та сама.
+    І на цій підставі нам відмовляють»(Citation: 988).
+
+    Російські суди дали капітанові 81-го полку внутрішніх військ МВС Росії Полівцеву чотири роки за вбивство чотирьох чеченців у Грозному 25 січня 1995 року(Citation: 27).
+
+    7-8 квітня 1995 року російські внутрішні війська штурмували Самашки, село на заході Ічкерії, і вбили 103 мирних чеченців (докладніше: «Масові вбивства цивільних»). 12 квітня полковник МВС Росії на посту біля села представився правозахисникам Обломовим, хоча на ремені його автомата було написано прізвище «Єланський». 19 квітня російський прокурор Джапов сказав спостерігачеві російської правозахисної організації «Меморіал» Андрію Блінушову, що не знає, як притягнути до відповідальності бійців спецпідрозділів МВС.
+    Спостерігач записав у щоденнику зі слів прокурора: «спецчастини МВС, які виходять із Чечні, знищують усю свою документацію, що стосується їхніх дій на території цієї республіки.
+    Діють ці підрозділи часто в масках, без будь-яких знаків розрізнення на форменому одязі, усі офіцери замість справжніх прізвищ користуються двома-трьома псевдонімами»(Citation: 1136). 27 квітня виконувач обов'язків генерального прокурора Росії Іллюшенко порушив справу про вбивства і підпали в селі(Citation: 1136).
+    У середині травня російські військові слідчі опитали частину потерпілих і свідків, але могил не розкривали і до Самашок більше не приїжджали. 14 січня 1997 року прокурори закрили справу. 21 листопада 1997 року заступник головного військового прокурора Росії Смирнов назвав «Меморіалу» причину: «військовослужбовці діяли в стані крайньої необхідності та необхідної оборони»(Citation: 27).
+
+    Російський військовий Вершинін отримав від суду три роки за те, що 17 квітня 1995 року застрелив хлопчика Зелімхана Дедієва в станиці Петропавлівська на північний схід від Грозного(Citation: 27). 14 червня 1995 року Генеральна прокуратура Росії розпорядженням № 15-6-95 наказала прокуророві маріонеткового уряду в Грозному передавати російським військовим прокурорам справи про злочини російських солдатів, лише якщо факти встановлено безперечно. 4 липня 1996 року прокурор цього уряду написав генеральному прокуророві Росії Скуратову, що російські прокурори повернули йому 112 справ без розслідування, не знайшовши в них безперечних доказів вини.
+    У листі сказано, що безіменні командири наказували не пускати слідчих у військові частини і на блокпости(Citation: 27).
+    Солдати Коровін, Шулін і Петров отримали 14, шість і три роки за те, що в ніч на 7 липня 1995 року вбили двох чеченців у селищі Родіна біля своєї частини(Citation: 1367)(Citation: 27).
+    Російські військові не пускали у свої частини слідчих маріонеткової прокуратури, які розслідували вбивство семи чеченців із родини Чапанових у селі Пригородне біля Грозного 7 липня 1995 року.
+    У січні 1996 року маріонеткова прокуратура зупинила справу(Citation: 27). 17 грудня 1996 року суд дав бійцеві російського міліцейського спецназу Пермякову півтора року умовно за «необережне вбивство» Заурбека Узуєва, якого той 8 вересня 1995 року застрелив на блокпосту під час мітингу за незалежність Ічкерії(Citation: 27).
+    Військові прокурори зупинили справу про бомбардування Рошні-Чу, села на південний захід від Грозного, у жовтні 1995 року(Citation: 27).
+
+    Військові прокурори закрили справу про вбивство Шаріпа Батаєва, чеченця з Аршти, якого розвідники 693-го полку 58-ї армії Росії застрелили наприкінці лютого 1996 року.
+    За версією прокурорів, командир розвідників захищався(Citation: 27).
+    Навесні 1996 року російські прокурори не порушили кримінальної справи про те, як окупанти в березні спалили Серноводськ і зруйнували Самашки, села на заході Ічкерії(Citation: 988). 30 червня 1996 року військовий прокурор Сапрунов написав прокуратурі маріонеткового уряду, що окупанти побили по дорозі до П'ятигорська, міста на півдні Росії, половину з 91 чеченця із Самашок, яких російські військові незаконно затримали 15 березня (докладніше: «Катування та знущання»)(Citation: 657)(Citation: 1152).
+    У березні 1997 року російські прокурори зупинили справу, не знайшовши винних: ті, хто затримував, були «з масками на обличчях, у зв'язку з чим їхнє впізнання неможливе»(Citation: 27). 10 грудня 1996 року прокурор Головної військової прокуратури Росії Сініцин відповів на прохання «Меморіалу» розслідувати, як солдати внутрішніх військ МВС Росії прикривалися мирними людьми в Самашках у березні 1996 року і хворими 9-ї міської лікарні Грозного в серпні 1996 року (докладніше: «Використання людей як «живого щита»»).
+    Сініцин написав, що переслав доповідь правозахисників прокурорам Північного Кавказу, щоб її долучили до повідомлень преси(Citation: 657), а 21 листопада 1997 року заступник головного військового прокурора Смирнов відповів, що в Самашках люди ховалися за бронетехнікою від обстрілу(Citation: 27).
+    Військові прокурори зупинили справи про бомбардування Катир-Юрта і Шалажі, сіл на південний захід від Грозного, у березні та квітні 1996 року (докладніше: «Невибіркові напади»)(Citation: 27).
+    Прокурор окупаційних військ Шевченко, не виїжджаючи на місце, заявив, що солдати внутрішніх військ МВС Росії, які 15 липня 1996 року розстріляли в легкових машинах беззбройних людей у передмісті Грозного, застосували зброю правильно(Citation: 1364)(Citation: 27).
+    У середині липня 1996 року російські солдати без обвинень тримали двох чеченців із Веденського району на південному сході Ічкерії в армійській камері в Ханкалі, головній базі окупаційних військ на східній околиці Грозного, і відпустили їх на вимогу військових прокурорів.
+    Прокуратура окупаційних військ визнала незаконним лише це затримання, але справи не порушила, бо винний, комендант Ханкали, загинув у боях у серпні 1996 року(Citation: 27).
+
+    8 серпня 1996 року Головна військова прокуратура Росії відповіла депутатові російського парламенту Юлію Рибакову, що з 11 грудня 1994 року прокурори порушили 129 справ про злочини окупантів проти мирних людей в Ічкерії.
+    З них 21 справу прокурори передали до судів, 21 закрили, 26 не закінчили, а 61 зупинили - 48 тому, що не знайшли винних, і 13 тому, що не знали, де обвинувачені(Citation: 27).
+
+    29 вересня 1997 року Управління військових судів Росії відповіло на запит «Меморіалу», що за всю війну суди засудили 18 солдатів і офіцерів, із них семеро - за вбивства(Citation: 27).
+
+    26 липня 1995 року Комітет ООН з прав людини висловив жаль, що ніхто не відповів за жорстоке поводження з полоненими і затриманими в Ічкерії(Citation: 736).
+    У доповіді Human Rights Watch від січня 1997 року сказано, що Росія систематично порушувала права людини і так само систематично не притягала винних до відповідальності(Citation: 657).
+    Правозахисники «Меморіалу» пишуть, що за всю війну Росія не притягнула до відповідальності жодного вищого командира.
+    За їхніми даними, російські суди нікого не засудили за бомбардування сіл і міст Ічкерії, фільтраційні табори, катування, захоплення заручників і живий щит(Citation: 27).
+
+    За відомостями Human Rights Watch, на мирних переговорах у серпні 1996 року російська делегація заперечила проти того, щоб обговорювати відповідальність за злочини(Citation: 657).
+    Після мирних угод у Хасав'юрті 31 серпня 1996 року (докладніше: «Фіктивні договори»)(Citation: 661) Росія перевела прокуратуру окупаційних військ до підконтрольного їй Дагестану.
+    Правозахисники «Меморіалу» пишуть, що після цього прокурори майже перестали розслідувати злочини російських військових і міліціонерів(Citation: 27). 12 березня 1997 року депутати в Москві постановою № 1199-II оголосили амністію за злочини, пов'язані з війною в Ічкерії(Citation: 1315).
+    За цією амністією російські прокурори припиняли незакінчені справи про злочини окупантів(Citation: 27).

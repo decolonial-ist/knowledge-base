@@ -1,0 +1,33 @@
+type: actor
+id: G0010
+created: 2026-04-02
+modified: 2026-08-09
+version: '1.1'
+name:
+  ru: СССР
+  en: USSR
+  uk: СРСР
+contributors: []
+associated_groups:
+- Московское царство
+- Российская империя
+- Российская Федерация
+description:
+  ru: |-
+    Тоталитарное имперское государство, официально провозглашенное 30 декабря 1922 года; де-факто - географическое расширение режима, установленного партией большевиков в Петрограде в октябре 1917 года.
+    Выступал главным актором колониального поглощения, удержания и эксплуатации вплоть до распада в 1991 году.
+    Формально декларируя объединение равноправных независимых республик с правом свободного выхода, на практике СССР реализовал жесткую унификацию и централизацию управления в Москве (сосредоточив абсолютную власть в Политбюро ЦК).
+    Это привело к фактической ликвидации политического, экономического и культурного суверенитета колонизируемых наций.
+    В рамках фреймворка этот актор характеризуется беспрецедентными масштабами социальной инженерии: полным контролем над обществом, распространением информации, экономикой, и образованием; применением институционального террора; физического уничтожения крестьянства через искусственный голод; массовых этнических чисток путем высылки народов в другие регионы империи, а также политикой планомерной русификации и уничтожения/инкорпорации/русификации национальных элит.
+  en: |-
+    A totalitarian imperial state, officially proclaimed on December 30, 1922; de facto, a geographic expansion of the regime established by the Bolshevik party in Petrograd in October 1917.
+    It acted as the principal actor of colonial absorption, retention, and exploitation until its collapse in 1991.
+    While formally declaring a union of equal independent republics with the right of free secession, in practice the USSR implemented rigid unification and centralization of governance in Moscow (concentrating absolute power in the Politburo of the Central Committee).
+    This led to the de facto elimination of the political, economic, and cultural sovereignty of the colonized nations.
+    Within the framework, this actor is characterized by an unprecedented scale of social engineering: total control over society, the dissemination of information, the economy, and education; the use of institutional terror; the physical annihilation of the peasantry through artificial famine; mass ethnic cleansing by deporting peoples to other regions of the empire; as well as a policy of systematic Russification and the destruction/incorporation/Russification of national elites.
+  uk: |-
+    Тоталітарна імперська держава, офіційно проголошена 30 грудня 1922 року; де-факто — географічне розширення режиму, встановленого партією більшовиків у Петрограді в жовтні 1917 року.
+    Виступав головним актором колоніального поглинання, утримання та експлуатації аж до розпаду в 1991 році.
+    Формально декларуючи об'єднання рівноправних незалежних республік із правом вільного виходу, на практиці СРСР реалізував жорстку уніфікацію та централізацію управління в Москві (зосередивши абсолютну владу в Політбюро ЦК).
+    Це призвело до фактичної ліквідації політичного, економічного та культурного суверенітету колонізованих націй.
+    У межах фреймворку цей актор характеризується безпрецедентними масштабами соціальної інженерії: повним контролем над суспільством, поширенням інформації, економікою та освітою; застосуванням інституційного терору; фізичним знищенням селянства через штучний голод; масовими етнічними чистками шляхом виселення народів до інших регіонів імперії, а також політикою планомірної русифікації та знищення/інкорпорації/русифікації національних еліт.

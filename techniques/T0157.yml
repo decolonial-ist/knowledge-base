@@ -1,0 +1,38 @@
+type: technique
+id: T0157
+created: 2026-07-24
+modified: 2026-07-24
+version: '1.0'
+tactics:
+- TA0004
+- TA0001
+name:
+  ru: Принудительное публичное покаяние
+  en: Forced Public Repentance
+  uk: Примусове публічне каяття
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут требовать от колонизируемых публичного покаяния — ритуального самоуничижения с отречением от прежней лояльности, от сопротивления и его вождей, от веры или клятв — как условия прекращения насилия, освобождения или самого права жить на своей земле.
+    Покаяние — не просто декларация: у него есть последствия.
+    От исповеди зависит судьба человека — свобода, лагерь или расправа.
+    Публично покаявшийся скомпрометирован перед своими и привязан к агрессору самим публичным актом.
+    «Добровольные» покаяния агрессор предъявляет как доказательство собственной правоты и оправдание репрессивного характера колонизации.
+    Российский колониализм практикует принуждение к покаянию на протяжении столетий: империя требовала от горцев Кавказа отречения от «пагубного учения» вождя сопротивления вместе с присягой на верность русскому царю; советские публичные покаяния и отречения от «врагов народа» в собственных семьях, как и сегодняшние принудительные видеоизвинения в Чечне, — прямое продолжение этой практики.
+    После захвата Крыма практика принудительного покаяния, снимаемого на видео и распространяемого в социальных сетях, применяется к тем, кто сохраняет лояльность Украине или критикует оккупационные власти(Citation: 141).
+  en: |-
+    Aggressors may demand public repentance from the colonized — a ritual of self-abasement involving the renunciation of former loyalties, of the resistance and its leaders, of faith or oaths — as a condition for ending violence, for release, or for the very right to live on one's own land.
+    Repentance is not a mere declaration: it carries consequences.
+    A person's fate hangs on their confession — freedom, prison, or execution.
+    One who has publicly repented is compromised in the eyes of their own people and bound to the aggressor by the public act itself.
+    The aggressor holds up these "voluntary" repentances as proof of its own righteousness and as justification for the repressive character of colonization.
+    Russian colonialism has practiced coerced repentance for centuries: the empire demanded that the highlanders of the Caucasus renounce the "pernicious teaching" of the resistance leader and swear an oath of allegiance to the Russian tsar; Soviet public confessions and denunciations of "enemies of the people" within one's own family, like today's forced video apologies in Chechnya, are a direct continuation of this practice.
+    Since the seizure of Crimea, the practice of forced public repentance — filmed and circulated on social media — has been applied to those who remain loyal to Ukraine or criticize the occupation authorities(Citation: 141).
+  uk: |-
+    Агресори можуть вимагати від колонізованих публічного каяття — ритуального самоприниження зі зреченням колишньої лояльності, спротиву та його провідників, віри чи присяг — як умови припинення насильства, звільнення або самого права жити на своїй землі.
+    Каяття — не просто декларація: воно має наслідки.
+    Від сповіді залежить доля людини — свобода, табір чи розправа.
+    Той, хто публічно покаявся, скомпрометований перед своїми і прив'язаний до агресора самим публічним актом.
+    «Добровільні» каяття агресор пред'являє як доказ власної правоти та виправдання репресивного характеру колонізації.
+    Російський колоніалізм практикує примус до каяття протягом століть: імперія вимагала від горців Кавказу зречення «згубного вчення» провідника спротиву разом із присягою на вірність російському цареві; радянські публічні каяття і зречення «ворогів народу» у власних родинах, як і сьогоднішні примусові відеовибачення в Чечні, — пряме продовження цієї практики.
+    Після захоплення Криму практика примусового каяття, яке знімають на відео й поширюють у соціальних мережах, застосовується до тих, хто зберігає лояльність Україні або критикує окупаційну владу(Citation: 141).

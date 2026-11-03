@@ -1,0 +1,21 @@
+type: procedure
+id: C1172.T0164
+created: 2026-08-07
+modified: 2026-08-10
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Войска, занявшие чеченские территории при подавлении восстания 1877 года, грабили население.
+    При разрушении пяти селений Чеберлоя отряд Накашидзе «арестовал до тысячи человек и захватил большое количество скота»(Citation: 125), а историк З. Х. Ибрагимова фиксирует практику сверх приказов: «солдаты безнаказанно Мародерствовали на занятых территориях, а также травили посевы, отбирали у населения лошадей, резали скот даже без какой-либо на то необходимости»(Citation: 251).
+  en: |-
+    The troops that occupied Chechen territories during the suppression of the 1877 uprising plundered the population.
+    During the destruction of the five villages of Cheberloy the detachment of Nakashidze "arrested up to a thousand people and seized a large number of livestock"(Citation: 125), and historian Z. Kh.
+    Ibragimova records the practice beyond the orders: "the soldiers looted with impunity in the occupied territories, and also ravaged crops, took horses away from the population, slaughtered livestock even without any need for it"(Citation: 251).
+  uk: |-
+    Війська, що зайняли чеченські території при придушенні повстання 1877 року, грабували населення.
+    Під час руйнування п’яти селищ Чеберлоя загін Накашідзе «заарештував до тисячі осіб і захопив велику кількість худоби»(Citation: 125), а історик З. Х. Ібрагімова фіксує практику понад накази: «солдати безкарно мародерствували на зайнятих територіях, а також травили посіви, відбирали в населення коней, різали худобу навіть без будь-якої на те потреби»(Citation: 251).

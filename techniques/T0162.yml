@@ -1,0 +1,22 @@
+type: technique
+id: T0162
+created: 2026-08-06
+modified: 2026-08-29
+version: '1.2'
+tactics:
+- TA0004
+name:
+  ru: Расправы над пленными и задержанными
+  en: Reprisals against Prisoners and Detainees
+  uk: Розправи над полоненими й затриманими
+contributors: []
+description:
+  ru: |-
+    Агрессоры могут расправляться с людьми, оказавшимися в их власти и не принимающими активного участия в военных действиях, - со сдающимися, пленными и задержанными, военными и гражданскими: отдавать приказы не давать пощады, убивать при сдаче, казнить и истязать в неволе.
+    Международное право защищает эту категорию безусловно: общая статья 3 Женевских конвенций покрывает всех, кто «непосредственно не принимает участия в военных действиях», включая сложивших оружие и задержанных; умышленное убийство военнопленного - «серьёзное нарушение» III конвенции (статья 130), гражданского лица в руках стороны - IV конвенции (статья 147); Римский статут признаёт эти деяния военными преступлениями (статьи 8(2)(a)(i), 8(2)(b)(vi), 8(2)(b)(xii) и 8(2)(c)(i)), а нападение на вышедших из строя запрещено и обычной нормой 47 свода Международного комитета Красного Креста (МККК).
+  en: |-
+    Aggressors may deal reprisals to people who have fallen into their power and take no active part in hostilities - those surrendering, prisoners and detainees, military and civilian alike: issue orders that no quarter be given, kill people as they surrender, execute and torture them in captivity.
+    International law protects this category unconditionally: Common Article 3 of the Geneva Conventions covers everyone «taking no active part in the hostilities», including those who have laid down their arms and those in detention; the wilful killing of a prisoner of war is a «grave breach» of the Third Convention (Article 130), of a civilian in a party's hands - of the Fourth Convention (Article 147); the Rome Statute treats these acts as war crimes (Articles 8(2)(a)(i), 8(2)(b)(vi), 8(2)(b)(xii) and 8(2)(c)(i)), and attacking persons hors de combat is also prohibited by customary Rule 47 of the study by the International Committee of the Red Cross (ICRC).
+  uk: |-
+    Агресори можуть розправлятися з людьми, які опинилися в їхній владі й не беруть активної участі у воєнних діях, - з тими, хто здається, полоненими й затриманими, військовими та цивільними: віддавати накази не давати пощади, вбивати під час здачі, страчувати й катувати в неволі.
+    Право захищає цю категорію безумовно: спільна стаття 3 Женевських конвенцій покриває всіх, хто «безпосередньо не бере участі у воєнних діях», включно з тими, хто склав зброю, і затриманими; умисне вбивство військовополоненого - «серйозне порушення» III конвенції (стаття 130), цивільної особи в руках сторони - IV конвенції (стаття 147); Римський статут визнає ці діяння воєнними злочинами (статті 8(2)(a)(i), 8(2)(b)(vi), 8(2)(b)(xii) і 8(2)(c)(i)), а напад на виведених з ладу заборонено й звичаєвою нормою 47 зводу Міжнародного комітету Червоного Хреста (МКЧХ).

@@ -1,0 +1,14 @@
+type: procedure
+id: C1152.T0164
+created: 2026-08-07
+modified: 2026-08-10
+version: '1.0'
+technique: T0164
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: 'В декабре 1830 при окружении села Даут-Мартан войска генерала Вельяминова присвоили имущество бежавших жителей: имперский историк Потто фиксирует, что «жители успели бежать, но всё имущество их осталось добычей отряда»(Citation: 78).'
+  en: 'In December 1830, during the encirclement of the village of Daut-Martan, the troops of General Velyaminov appropriated the property of the fleeing inhabitants: the imperial historian Potto records that "the inhabitants managed to flee, but all their property became the booty of the detachment"(Citation: 78).'
+  uk: 'У грудні 1830 під час оточення села Даут-Мартан війська генерала Вельямінова привласнили майно жителів, що втекли: імперський історик Потто фіксує, що «жителі встигли втекти, але все майно їхнє залишилося здобиччю загону»(Citation: 78).'

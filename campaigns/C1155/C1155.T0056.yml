@@ -1,0 +1,27 @@
+type: procedure
+id: C1155.T0056
+created: 2026-07-03
+modified: 2026-08-07
+version: '1.0'
+technique: T0056
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В сентябре 1832 корпусный командир Розен обложил сёла Чечни и Ичкерии ежегодной податью с каждого двора как условием пощады.
+    Имперский историк Волконский писал: «от д. Мецо-ерзо-юрт взяты аманаты и подать по рублю с дыма»; сёла Ешта-кале и Ейни-кале обязались «платить на будущее время подать по 1 рублю с дыма»(Citation: 116).
+    Розен доносил военному министру Чернышёву: село Гурдали «выдала аманата и обязалась платить подать»(Citation: 105).
+    Подать взыскивалась с народа, чьи сёла и посевы в те же дни истреблялись войсками.
+  en: |-
+    In September 1832, corps commander Rosen imposed on the villages of Chechnya and Ichkeria an annual tribute from each household as a condition of being spared.
+    The imperial historian Volkonsky wrote: “from the village of Metso-erzo-yurt, amanats (hostages) were taken along with a tribute of one ruble per hearth”; the villages of Eshta-kale and Eyni-kale undertook “to pay henceforth a tribute of 1 ruble per hearth”(Citation: 116).
+    Rosen reported to Minister of War Chernyshev: the village of Gurdali “handed over an amanat and undertook to pay tribute”(Citation: 105).
+    The tribute was exacted from a people whose villages and crops were in those very days being exterminated by the troops.
+  uk: |-
+    У вересні 1832 року корпусний командир Розен обклав села Чечні та Ічкерії щорічною податтю з кожного двору як умовою помилування.
+    Імперський історик Волконський писав: «від с.
+    Мецо-ерзо-юрт взято аманатів і подать по рублю з диму»; села Ешта-кале та Ейні-кале зобов’язалися «платити надалі подать по 1 рублю з диму»(Citation: 116).
+    Розен доносив військовому міністрові Чернишову: село Гурдалі «видало аманата й зобов’язалося платити подать»(Citation: 105).
+    Подать стягували з народу, чиї села й посіви в ті самі дні знищували війська.

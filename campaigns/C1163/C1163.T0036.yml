@@ -1,0 +1,35 @@
+type: procedure
+id: C1163.T0036
+created: 2026-07-23
+modified: 2026-08-04
+version: '1.0'
+technique: T0036
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Империя поставила над захваченными аулами Чечни назначенных надзирателей - приставов.
+    Военный министр империи Чернышев официальным служебным письмом (отношением) от 15 января 1839 года передал генералу Головину, командиру Отдельного Кавказского корпуса - главе имперских войск и администрации на Кавказе, волю императора Николая I: в обществах, подчинившихся добровольно, «начальство надъ ними поручать преданными намъ туземцамъ, членамъ тѣхъ же самыхъ обществъ», а общества, «которыя будутъ покоряемы силою оружія», - «поручать временно въ начальство Россійскимъ военнымъ чиновникамъ»(Citation: 106).
+    Внедрением приставов в Чечне занимался Пулло, командующий левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи): имперский историк Юров пишет, что Пулло «было предписано - для водворения наших приставов, поддержания на первых порах их престижа... произвести зимою с 1839-го на 1840-й год движение в Чечню, на Мичик и к качкалыковцам», а сами пристава «были выбраны преимущественно, если не исключительно, из милиционеров» - из горской милиции, вооружённых отрядов горцев на службе империи(Citation: 134).
+    Историк Д. А. Хожаев пишет: «Назначенный 30 ноября командиром Отдельного Кавказского корпуса...
+    Головин по указанию царя начинает вводить на оккупированной территории русское управление»(Citation: 95).
+    Режим надзора описал генерал Граббе, командующий войсками Кавказской линии и начальник Пулло, рапортом военному министру Чернышеву от 23 марта 1840 года: «Когда пристава наши вступили въ управленіе ввѣренными имъ племенами, строгій ихъ надзоръ прекратилъ постоянныя сношенія мирныхъ ауловъ съ непокорными»(Citation: 106).
+    Насаждение марионеточных религиозных авторитетов шло той же директивой (кампания C1159).
+  en: |-
+    The empire placed appointed overseers - pristavs - over the seized auls of Chechnya.
+    The empire's Minister of War Chernyshev, by an official communication of 15 January 1839, conveyed to general Golovin, commander of the Separate Caucasus Corps - the head of the empire's troops and administration in the Caucasus, the will of emperor Nicholas I: in the communities that submitted voluntarily, "the authority over them is to be entrusted to natives devoted to us, members of those same communities", while communities "that will be subjugated by force of arms" were "to be entrusted temporarily to the authority of Russian military officials"(Citation: 106).
+    The pristavs in Chechnya were installed by Pullo, commander of the left flank of the Caucasus Line (a chain of imperial fortifications on the land of the Nokhchi): the imperial historian Yurov writes that Pullo "was ordered - for the installation of our pristavs, to uphold their prestige at the outset... to carry out in the winter of 1839-1840 a movement into Chechnya, to the Michik and to the Qachqalyq people", and the pristavs themselves "were chosen predominantly, if not exclusively, from among the militiamen" - from the highland militia, armed units of highlanders in the empire's service(Citation: 134).
+    The historian D. A. Khozhaev writes: "Appointed on 30 November commander of the Separate Caucasus Corps...
+    Golovin, on the tsar's instruction, begins to introduce Russian administration on the occupied territory"(Citation: 95).
+    The regime of surveillance was described by general Grabbe, commander of the troops of the Caucasus Line and Pullo's superior, in a report to Minister of War Chernyshev of 23 March 1840: "When our pristavs entered upon the administration of the tribes entrusted to them, their strict surveillance cut off the constant relations of the peaceful auls with the unsubdued"(Citation: 106).
+    The implanting of puppet religious authorities proceeded under the same directive (campaign C1159).
+  uk: |-
+    Імперія поставила над захопленими аулами Чечні призначених наглядачів - приставів.
+    Військовий міністр імперії Чернишов офіційним службовим листом (відношенням) від 15 січня 1839 року передав генералу Головіну, командиру Окремого Кавказького корпусу - голові імперських військ і адміністрації на Кавказі, волю імператора Миколи I: у товариствах, що підпорядкувалися добровільно, «начальство над ними доручати відданим нам тубільцям, членам тих самих товариств», а товариства, «які будуть підкорювані силою зброї», - «доручати тимчасово в начальство Російським військовим чиновникам»(Citation: 106).
+    Запровадженням приставів у Чечні займався Пулло, командувач лівого флангу Кавказької лінії (ланцюга імперських укріплень на землі нохчі): імперський історик Юров пише, що Пулло «було приписано - для оселення наших приставів, підтримання на перших порах їхнього престижу... здійснити взимку з 1839-го на 1840-й рік рух у Чечню, на Мічик і до качкаликівців», а самі пристави «були обрані переважно, якщо не виключно, з міліціонерів» - з горської міліції, озброєних загонів горців на службі імперії(Citation: 134).
+    Історик Д. А. Хожаєв пише: «Призначений 30 листопада командиром Окремого Кавказького корпусу...
+    Головін за вказівкою царя починає вводити на окупованій території російське управління»(Citation: 95).
+    Режим нагляду описав генерал Граббе, командувач військ Кавказької лінії і начальник Пулло, рапортом військовому міністру Чернишову від 23 березня 1840 року: «Коли пристави наші вступили в управління ввіреними їм племенами, суворий їхній нагляд припинив постійні зносини мирних аулів з непокірними»(Citation: 106).
+    Насадження маріонеткових релігійних авторитетів йшло тією самою директивою (кампанія C1159).

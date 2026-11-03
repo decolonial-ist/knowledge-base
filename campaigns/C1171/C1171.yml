@@ -1,0 +1,51 @@
+type: campaign
+id: C1171
+created: 2026-08-04
+modified: 2026-09-18
+version: '1.2'
+people: nokhchi
+first_seen: 1860-01-01
+first_seen_citation:
+- '251'
+last_seen: 1917-03-01
+contributors: []
+name:
+  ru: 'Земельное ограбление: колониальный передел земли, малоземелье и казачья колонизация Терской области (1860-1917)'
+  en: 'Land plunder: the colonial repartition of land, land hunger and Cossack colonization of the Terek oblast (1860-1917)'
+  uk: 'Земельне пограбування: колоніальний переділ землі, малоземелля та козача колонізація Терської області (1860-1917)'
+description:
+  ru: |-
+    В 1860-1917 годах империя перекроила землю Чечни в пользу казны, казачьего войска и лояльной знати.
+    Завоевание сопровождалось письменным обещанием.
+    В январе 1859 года, наступая на Ведено, командование распространило среди чеченцев на арабском и русском языках «Прокламацию к чеченскому народу»: «объявляю вам от имени Государя-Императора, 1) что правительство Русское предоставляет вам совершенно свободно исполнять навсегда веру ваших отцов; 2) что вас никогда не будут требовать в солдаты и не обратят вас в казаков... 5) что права каждого из вас на принадлежащее вам имущество будут неприкосновенны.
+    Земли ваши, которыми вы владеете или которыми наделены русским начальством, будут утверждены за вами актами и планами в неотъемлемое владение ваше...»; подписал документ Барятинский, главнокомандующий Кавказской армией и наместник(Citation: 95).
+    Земельная часть обещания в изложении историков Я. З. Ахмадова и Э. Х. Хасмагомадова звучала так: «Все земли и леса на плоскости, где жил чеченский народ до возмущения 1839 г., будут отданы вам на вечное пользование, исключая тех, которые заняты под укрепления... но на них не предполагается поселять ни казачьих станиц, ни чеченских аулов»(Citation: 125).
+    Историк З. Х. Ибрагимова пишет: «Эту прокламацию чеченцы берегли и хранили как зеницу ока и к ней всегда апеллировали»(Citation: 251).
+    Вышло наоборот: историки Я. З. Ахмадов и Э. Х. Хасмагомадов подводят баланс по равнинной и предгорной Чечне - «100% лесов (259 тысяч десятин) и 300 тысяч десятин из 643 тысяч десятин земледельческой зоны страны были отобраны в пользу казны, армии и казачьего войска.
+    Все это нельзя не считать типичным колониальным ограблением» (десятина - чуть больше гектара)(Citation: 125).
+    Итог для людей назвал с думской трибуны депутат Маслов: «Вы не можете себе представить как ничтожны земельные владения среди чеченцев, особенно в горах – одна десятая, одна пятая, четверть, треть десятины…»(Citation: 251).
+  en: |-
+    In 1860-1917 the empire recut the land of Chechnya in favor of the treasury, the Cossack host and loyal notables.
+    The conquest came with a written promise.
+    In January 1859, advancing on Vedeno, the command circulated among the Chechens, in Arabic and Russian, a "Proclamation to the Chechen People": "I declare to you in the name of the Sovereign Emperor, 1) that the Russian government grants you complete freedom to practice forever the faith of your fathers; 2) that you will never be called up as soldiers and will not be turned into Cossacks... 5) that the rights of each of you to the property belonging to you will be inviolable.
+    Your lands, which you own or with which you have been allotted by the Russian authorities, will be confirmed to you by deeds and plans in inalienable possession..."; the document was signed by Baryatinsky, commander-in-chief of the Caucasus Army and viceroy(Citation: 95).
+    The land clause of the promise, as historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov render it, ran: "All the lands and forests on the plain where the Chechen people lived before the disturbance of 1839 will be given over to you for eternal use, excepting those occupied by fortifications... but neither Cossack stanitsas nor Chechen auls are to be settled on them"(Citation: 125).
+    Historian Z. Kh.
+    Ibragimova writes: "The Chechens treasured and kept this proclamation as the apple of their eye and always appealed to it"(Citation: 251).
+    It came out the other way round: historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov draw the balance for lowland and piedmont Chechnya - "100% of the forests (259 thousand desiatinas) and 300 thousand desiatinas out of the 643 thousand desiatinas of the country's agricultural zone were taken away in favor of the treasury, the army and the Cossack host.
+    All this cannot but be considered typical colonial plunder" (a desiatina is a little over a hectare)(Citation: 125).
+    The outcome for the people was named from the Duma tribune by deputy Maslov: "You cannot imagine how negligible the landholdings of the Chechens are, especially in the mountains – one tenth, one fifth, a quarter, a third of a desiatina…"(Citation: 251).
+  uk: |-
+    У 1860-1917 роках імперія перекроїла землю Чечні на користь скарбниці, козачого війська і лояльної знаті.
+    Завоювання супроводжувалося письмовою обіцянкою.
+    У січні 1859 року, наступаючи на Ведено, командування поширило серед чеченців арабською і російською мовами «Прокламацію до чеченського народу»: «оголошую вам від імені Государя-Імператора, 1) що уряд Російський надає вам цілком вільно виконувати назавжди віру ваших батьків; 2) що вас ніколи не вимагатимуть у солдати і не обернуть вас на козаків... 5) що права кожного з вас на належне вам майно будуть недоторканні.
+    Землі ваші, якими ви володієте або якими вас наділило російське начальство, будуть затверджені за вами актами і планами в невід'ємне володіння ваше...»; підписав документ Барятинський, головнокомандувач Кавказької армії і намісник(Citation: 95).
+    Земельна частина обіцянки у викладі істориків Я. З. Ахмадова та Е. Х. Хасмагомадова звучала так: «Усі землі й ліси на площині, де жив чеченський народ до заворушення 1839 р., будуть віддані вам у вічне користування, за винятком тих, що зайняті під укріплення... але на них не передбачається селити ні козачих станиць, ні чеченських аулів»(Citation: 125).
+    Історик З. Х. Ібрагімова пише: «Цю прокламацію чеченці берегли і зберігали як зіницю ока і до неї завжди апелювали»(Citation: 251).
+    Вийшло навпаки: історики Я. З. Ахмадов і Е. Х. Хасмагомадов підводять баланс по рівнинній і передгірній Чечні - «100% лісів (259 тисяч десятин) і 300 тисяч десятин із 643 тисяч десятин землеробської зони країни були відібрані на користь скарбниці, армії та козачого війська.
+    Усе це не можна не вважати типовим колоніальним пограбуванням» (десятина - трохи більше гектара)(Citation: 125).
+    Підсумок для людей назвав із думської трибуни депутат Маслов: «Ви не можете собі уявити, які мізерні земельні володіння серед чеченців, особливо в горах – одна десята, одна п'ята, чверть, третина десятини…»(Citation: 251).

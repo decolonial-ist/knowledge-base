@@ -1,0 +1,24 @@
+type: procedure
+id: C1169.T0099
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0099
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В разорённом Джумсое в июне 1860 года войска пощадили тех, кто выдал заложников: «оставлены не тронутыми тѣ дома и пашни, хозяева которыхъ явились на свои мѣста и выдали аманатовъ» (аманат - человек, которого империя забирала из общины как заложника, чтобы держать её в повиновении угрозой расправы над взятым)(Citation: 109).
+    После шалинского расстрела, по историку З. Х. Ибрагимовой, «Семьи не пойманных зикристов взяли под стражу и выслали в Екатериноград.
+    В связи с этим один зикрист сам сдался, чтобы освободили его семью» - Екатериноград здесь не кубанский Екатеринодар, а станица Екатериноградская на Тереке, ныне в Кабардино-Балкарии; аулы Чечни «были связаны взаимной порукой», со списками ответчиков перед правительством(Citation: 251).
+  en: |-
+    In devastated Dzhumsoy in June 1860 the troops spared those who handed over hostages: "left untouched were those houses and plowlands whose owners appeared at their places and handed over amanats" (an amanat is a person whom the empire took from a community as a hostage, to keep it in obedience by the threat of reprisal against the one taken)(Citation: 109).
+    After the Shali shooting, according to the historian Z. Kh.
+    Ibragimova, "The families of the zikrists who had not been caught were taken into custody and deported to Yekaterinograd.
+    Because of this, one zikrist gave himself up so that his family would be released" - Yekaterinograd here is not the Kuban Yekaterinodar but the stanitsa of Yekaterinogradskaya on the Terek, now in Kabardino-Balkaria; the auls of Chechnya "were bound by mutual responsibility", with lists of those answerable to the government(Citation: 251).
+  uk: |-
+    У розореному Джумсої в червні 1860 року війська пощадили тих, хто видав заручників: «залишено недоторканими ті будинки й ріллі, господарі яких з'явилися на свої місця і видали аманатів» (аманат - людина, яку імперія забирала з громади як заручника, щоб тримати її у послуху загрозою розправи над узятим)(Citation: 109).
+    Після шалінського розстрілу, за істориком З. Х. Ібрагімовою, «Родини не спійманих зікристів узяли під варту й вислали в Катериноград.
+    У зв'язку з цим один зікрист сам здався, щоб звільнили його родину» - Катериноград тут не кубанський Катеринодар, а станиця Катериноградська на Тереку, нині в Кабардино-Балкарії; аули Чечні «були пов'язані круговою порукою», зі списками відповідачів перед урядом(Citation: 251).

@@ -1,0 +1,23 @@
+type: technique
+id: T0116.001
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+parent: T0116
+tactics:
+- TA0005
+name:
+  ru: Насильственное обращение в религию метрополии
+  en: Forced Conversion to the Metropole's Religion
+  uk: Насильницьке навернення до релігії метрополії
+contributors: []
+description:
+  ru: |-
+    В рамках религиозной ассимиляции агрессоры могут применять физическое, административное или экономическое принуждение для перевода представителей колонизируемого общества в конфессию колонизатора.
+    Лишение местного населения свободы вероисповедания под угрозой репрессий, поражения в правах или конфискации имущества обеспечивает ускоренное стирание культурно-религиозных границ.
+  en: |-
+    As part of religious assimilation, aggressors may apply physical, administrative, or economic coercion to convert members of the colonized society to the colonizer's confession.
+    Depriving the local population of freedom of religion under threat of repression, deprivation of rights, or confiscation of property ensures the accelerated erasure of cultural and religious boundaries.
+  uk: |-
+    У межах релігійної асиміляції агресори можуть застосовувати фізичний, адміністративний чи економічний примус для навернення представників колонізованого суспільства до конфесії колонізатора.
+    Позбавлення місцевого населення свободи віросповідання під загрозою репресій, ураження в правах чи конфіскації майна забезпечує пришвидшене стирання культурно-релігійних меж.

@@ -1,0 +1,43 @@
+type: procedure
+id: C1190.T0104
+created: 2026-08-29
+modified: 2026-08-29
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    СССР в начале ноября 1941 года, ведя войсковую операцию против объявленного им «восстания», бомбил боевой авиацией горные аулы Чечни, в которых не было ни этого выдуманного «восстания», ни настоящего протеста.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: к подавлению протеста, «кроме оперативных групп и внутренних войск, были привлечены три звена боевой авиации», и «операция оказалась плохо подготовленной в военном отношении и сопровождалась большими потерями среди мирного населения.
+    Бомбы обрушились на аулы, население которых и не подозревало ни о каком «восстании»»(Citation: 125).
+    Историк С. П. Аренин, писавший по документам Отдела по борьбе с бандитизмом НКВД (предшественника современной ФСБ), пишет об операциях 28 октября - 3 ноября 1941 года: они были проведены «чекистско-войсковыми группами, которым были приданы три звена авиации»(Citation: 548).
+    Весной 1942 года, по мемуарам, советская авиация повторила удары в большем масштабе - чеченский историк А. Г. Авторханов, писавший об этих событиях в эмиграции, свидетельствует: «в 1942 году весной советская авиация подвергла дважды бомбежке всю горную Чечено-Ингушетию», и «в аулах Шатоя, Итум-Кале и Галанчожа жителей, убитых воздушной бомбежкой и артиллерийскими обстрелами большевиков, числилось больше, чем оставшихся в живых»(Citation: 369).
+    Авторханов добавляет: «В те дни, когда Сталин устраивал этот ад над собственным народом, на Кавказе не было еще ноги ни одного немца»(Citation: 369).
+    В докладе 141-го полка по войсковой операции 30 октября - 15 ноября 1941 года посчитаны только свои и «бандиты» - «убито: бандитов — 36...
+    Потери полка: убито — 6, ранено — 7»(Citation: 533), об убитых и раненых жителях в нём нет ни строки.
+    По Галанчожскому району свидетельства и документы расходятся: историки приводят собранные от находившихся в горах данные, что там «наблюдалось абсолютное спокойствие, и бомбардировки мирных аулов советской авиацией были шоком и для районного руководства»(Citation: 125), а доклад Халухаева называет Галанчожский район среди охваченных восстанием(Citation: 533).
+  en: |-
+    In early November 1941, waging a military operation against the "uprising" it had itself declared, the USSR bombed with combat aircraft mountain auls of Chechnya in which there was neither this invented "uprising" nor the real protest.
+    The historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: for the suppression of the protest, "besides the operational groups and internal troops, three flights of combat aircraft were brought in," and "the operation proved poorly prepared in the military respect and was accompanied by heavy losses among the peaceful population.
+    Bombs rained down on auls whose population did not even suspect any 'uprising'"(Citation: 125).
+    The historian S. P. Arenin, who wrote from the documents of the NKVD Department for the Struggle against "Banditry" (a predecessor of today's FSB), writes of the operations of 28 October - 3 November 1941: they were carried out by "chekist-military groups, to which three flights of aircraft were attached"(Citation: 548).
+    In the spring of 1942, according to memoirs, Soviet aircraft repeated the strikes on a larger scale - the Chechen historian A. G. Avtorkhanov, who wrote about these events in emigration, testifies: "in the spring of 1942 Soviet aviation twice subjected all of mountain Checheno-Ingushetia to bombing," and "in the auls of Shatoy, Itum-Kale and Galanchozh the inhabitants killed by aerial bombing and by the Bolsheviks' artillery shelling outnumbered those left alive"(Citation: 369).
+    Avtorkhanov adds: "In those days, when Stalin was arranging this hell over his own people, not a single German had yet set foot in the Caucasus"(Citation: 369).
+    The report of the 141st Regiment on the military operation of 30 October - 15 November 1941 counts only its own men and "bandits" - "killed: bandits — 36...
+    Regiment losses: killed — 6, wounded — 7"(Citation: 533); there is not a line in it about killed or wounded villagers.
+    On the Galanchozh district the testimonies and the documents diverge: the historians cite data gathered from those who were in the mountains - that "absolute calm was observed" there, "and the bombing of peaceful auls by Soviet aviation came as a shock even to the district leadership"(Citation: 125), while Khalukhaev's report names the Galanchozh district among those engulfed by the uprising(Citation: 533).
+  uk: |-
+    СРСР на початку листопада 1941 року, ведучи військову операцію проти оголошеного ним «повстання», бомбив бойовою авіацією гірські аули Чечні, в яких не було ні цього вигаданого «повстання», ні справжнього протесту.
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: до придушення протесту, «крім оперативних груп і внутрішніх військ, були залучені три ланки бойової авіації», і «операція виявилася погано підготовленою у військовому відношенні й супроводжувалася великими втратами серед мирного населення.
+    Бомби обрушилися на аули, населення яких і не підозрювало ні про яке «повстання»»(Citation: 125).
+    Історик С. П. Аренін, який писав за документами Відділу боротьби з бандитизмом НКВД (попередника сучасної ФСБ), пише про операції 28 жовтня - 3 листопада 1941 року: їх провели «чекістсько-військові групи, яким були додані три ланки авіації»(Citation: 548).
+    Навесні 1942 року, за мемуарами, радянська авіація повторила удари в більшому масштабі - чеченський історик А. Г. Авторханов, який писав про ці події в еміграції, свідчить: «1942 року навесні радянська авіація двічі піддала бомбардуванню всю гірську Чечено-Інгушетію», і «в аулах Шатоя, Ітум-Кале й Галанчожа мешканців, убитих повітряним бомбардуванням та артилерійськими обстрілами більшовиків, налічувалося більше, ніж тих, хто залишився живим»(Citation: 369).
+    Авторханов додає: «У ті дні, коли Сталін влаштовував це пекло над власним народом, на Кавказі не було ще ноги жодного німця»(Citation: 369).
+    У доповіді 141-го полку про військову операцію 30 жовтня - 15 листопада 1941 року пораховані лише свої та «бандити» - «убито: бандитів — 36...
+    Втрати полку: убито — 6, поранено — 7»(Citation: 533), про вбитих і поранених мешканців у ній немає жодного рядка.
+    Щодо Галанчозького району свідчення й документи розходяться: історики наводять зібрані від тих, хто перебував у горах, дані, що там «спостерігався абсолютний спокій, і бомбардування мирних аулів радянською авіацією були шоком і для районного керівництва»(Citation: 125), а доповідь Халухаєва називає Галанчозький район серед охоплених повстанням(Citation: 533).

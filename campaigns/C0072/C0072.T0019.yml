@@ -1,0 +1,37 @@
+type: procedure
+id: C0072.T0019
+created: 2026-04-27
+modified: 2026-09-05
+version: '1.0'
+technique: T0019
+people: ukrainians
+actor: G0013
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В январе 1918 года войска советской России пошли на Киев. 16(29) января Антонов-Овсеенко, народный комиссар по борьбе с контрреволюцией на Юге, назначил Муравьёва главнокомандующим всеми советскими войсками, действующими против Центральной рады(Citation: 610). 17(30) января из Бахмача (железнодорожный узел на пути из России в Киев) Муравьёв доносил правительству советской России и Антонову-Овсеенко: «После двухдневного боя 1 революционная армия Егорова при поддержке 2 армии Берзина у ст. Круты разбила контрреволюционные войска рады, предводимые самим Петлюрой», и заканчивал: «Иду на Киев.
+    Крестьяне восторженно встречают революционные войска»(Citation: 610). 21 января (3 февраля) он говорил Антонову-Овсеенко по прямому проводу: «Революционные армии в 20 верстах от Дарницы.
+    Вторые сутки двигаемся вперед пешими и на подводах, так как мосты все взорваны войсками, пути разорены»(Citation: 610). 25 января (7 февраля) Муравьёв расписал захват города по улицам: «Первой армии занять Фундуклеевскую, Владимирскую, Крещатик и Купеческий сад.
+    Второй армии занять арсенал, крепость, Печерск и все высоты около крепости и Лавры.
+    Командарму 2 Берзину ввести для уличного боя одну или две батареи, смотря по обстановке.
+    Командарму Егорову ввести в город Брянскую батарею»(Citation: 611). 27 января (9 февраля) он доложил Антонову-Овсеенко: «Наконец, после 5-дневных боев на улицах Киева, я овладел городом»(Citation: 611).
+  en: |-
+    In January 1918 the troops of Soviet Russia marched on Kyiv.
+    On 16 (29) January Antonov-Ovseyenko, people's commissar for the struggle against counter-revolution in the South, appointed Muravyov commander-in-chief of all Soviet troops acting against the Central Rada(Citation: 610).
+    On 17 (30) January, from Bakhmach (a railway junction on the way from Russia to Kyiv), Muravyov reported to the government of Soviet Russia and to Antonov-Ovseyenko: "After a two-day battle the 1st revolutionary army of Yegorov, supported by the 2nd army of Berzin, defeated at Kruty station the counter-revolutionary troops of the Rada, led by Petliura himself", and ended: "I am marching on Kyiv.
+    The peasants greet the revolutionary troops with enthusiasm"(Citation: 610).
+    On 21 January (3 February) he told Antonov-Ovseyenko over the direct line: "The revolutionary armies are 20 versts from Darnytsia.
+    For the second day we are moving forward on foot and on carts, since all the bridges have been blown up by the Rada's troops, the tracks are wrecked"(Citation: 610).
+    On 25 January (7 February) Muravyov laid out the seizure of the city street by street: "The First Army is to take Fundukleyevska, Volodymyrska, Khreshchatyk and the Merchants' Garden.
+    The Second Army is to take the arsenal, the fortress, Pechersk and all the heights near the fortress and the Lavra.
+    Army commander 2 Berzin is to bring in one or two batteries for street fighting, depending on the situation.
+    Army commander Yegorov is to bring the Bryansk battery into the city"(Citation: 611).
+    On 27 January (9 February) he reported to Antonov-Ovseyenko: "At last, after 5 days of fighting in the streets of Kyiv, I have taken possession of the city"(Citation: 611).
+  uk: |-
+    У січні 1918 року війська радянської Росії пішли на Київ. 16(29) січня Антонов-Овсієнко, народний комісар з боротьби з контрреволюцією на Півдні, призначив Муравйова головнокомандувачем усіх радянських військ, що діяли проти Центральної ради(Citation: 610). 17(30) січня з Бахмача (залізничний вузол на шляху з Росії до Києва) Муравйов доповідав урядові радянської Росії й Антонову-Овсієнку: «Після дводенного бою 1 революційна армія Єгорова за підтримки 2 армії Берзіна біля ст. Крути розбила контрреволюційні війська ради, очолювані самим Петлюрою», і закінчував: «Іду на Київ.
+    Селяни захоплено зустрічають революційні війська»(Citation: 610). 21 січня (3 лютого) він говорив Антонову-Овсієнку прямим дротом: «Революційні армії за 20 верст від Дарниці.
+    Другу добу рухаємося вперед пішки й на підводах, бо мости всі підірвані військами ради, колії зруйновані»(Citation: 610). 25 січня (7 лютого) Муравйов розписав захоплення міста по вулицях: «Першій армії зайняти Фундуклеївську, Володимирську, Хрещатик і Купецький сад.
+    Другій армії зайняти арсенал, фортецю, Печерськ і всі висоти біля фортеці та Лаври.
+    Командармові 2 Берзіну ввести для вуличного бою одну або дві батареї, залежно від обстановки.
+    Командармові Єгорову ввести в місто Брянську батарею»(Citation: 611). 27 січня (9 лютого) він доповів Антонову-Овсієнку: «Нарешті, після 5-денних боїв на вулицях Києва, я оволодів містом»(Citation: 611).

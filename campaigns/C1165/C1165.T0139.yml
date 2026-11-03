@@ -1,0 +1,40 @@
+type: procedure
+id: C1165.T0139
+created: 2026-07-24
+modified: 2026-08-04
+version: '1.0'
+technique: T0139
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    В 1841-1846 годах империя застроила чеченские равнины цепью укреплений.
+    Историк Н. И. Покровский пишет о 1841 годе: «летом и осенью русское командование лихорадочно укрепляет Сунженскую линию: в июле - августе строят укрепление Закан Юрт, а в августе - октябре - укрепление Казах Кичу»(Citation: 129); историки Я. З. Ахмадов и Э. Х. Хасмагомадов фиксируют функцию: «Строительство двух новых укреплений - Казахкичу и Закан-Юртовского, позволило полностью исключить передвижение крупных чеченских отрядов за Сунжу и еще больше изолировало Притеречье от остальной Чечни»(Citation: 125).
+    В 1844 году - «строительство Воздвиженского укрепления осенью 1844 г. на месте разрушенного аула Чахкери (Чахкар-Атаги), у начала Аргунского ущелья»(Citation: 125); Покровский называет назначение: «Воздвиженское должно было теперь стать базой для частых набегов на чеченские аулы, для зимних рубок леса в плоскостной Чечне»(Citation: 129).
+    В 1846 году на реке Фортанге построен форт Ачхой.
+    Функцию Ачхоя имперский рапорт назвал так: «Устройство укрепления на Фортанге, почти в сердце Малой Чечни, среди равнин-житниц, не может не иметь влияния на покорение ее»(Citation: 126).
+    Вторжение в Аух (чеченскую область на северо-востоке) в июне 1841 года войска генерала Граббе, командующего войсками Кавказской линии (цепи имперских укреплений на земле нохчи), закрепили укреплением на захваченной земле: 16-17 июня построено временное укрепление в Акташ-Аухе.
+    Укрепление простояло одно лето: историк Н. И. Покровский пишет - «21 сентября укрепление было срыто, отряд отошел»(Citation: 129).
+    У этого укрепления империя собирала «верные» ей ауховские семьи перед переселением под власть кумыкских владетелей.
+  en: |-
+    In 1841-1846 the empire built up the Chechen plains with a chain of fortifications.
+    Historian N. I. Pokrovsky writes of 1841: "in summer and autumn the Russian command feverishly strengthens the Sunzha Line: in July - August they build the fortification of Zakan Yurt, and in August - October - the fortification of Kazakh Kichu"(Citation: 129); historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov record the function: "The construction of the two new fortifications - Kazakhkichu and Zakan-Yurt - made it possible to exclude entirely the movement of large Chechen detachments beyond the Sunzha and still further isolated the Terek country from the rest of Chechnya"(Citation: 125).
+    In 1844 - "the construction of the Vozdvizhenskoye fortification in autumn 1844 on the site of the destroyed aul of Chakhkeri (Chakhkar-Atagi), at the mouth of the Argun gorge"(Citation: 125); Pokrovsky names its purpose: "Vozdvizhenskoye was now to become the base for frequent raids on Chechen auls, for winter fellings of the forest in lowland Chechnya"(Citation: 129).
+    In 1846 the fort of Achkhoy was built on the Fortanga river.
+    An imperial report named the function of Achkhoy: "The building of a fortification on the Fortanga, almost in the heart of Lesser Chechnya, amid its granary plains, cannot fail to have influence on its subjugation"(Citation: 126).
+    The invasion of Aukh (the Chechen region in the north-east) in June 1841 the troops of general Grabbe, commander of the troops of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), secured with a fortification on the seized land: on 16-17 June a temporary fortification was built at Aktash-Aukh.
+    The fortification stood for one summer: historian N. I. Pokrovsky writes - "on 21 September the fortification was razed, the detachment withdrew"(Citation: 129).
+    At this fortification the empire gathered the "loyal" Aukh families before their resettlement under the rule of the Kumyk lords.
+  uk: |-
+    У 1841-1846 роках імперія забудувала чеченські рівнини ланцюгом укріплень.
+    Історик Н. І. Покровський пише про 1841 рік: «улітку та восени російське командування гарячково укріплює Сунженську лінію: у липні - серпні будують укріплення Закан Юрт, а в серпні - жовтні - укріплення Казах Кічу»(Citation: 129); історики Я. З. Ахмадов і Е. Х. Хасмагомадов фіксують функцію: «Будівництво двох нових укріплень - Казахкічу і Закан-Юртівського, дозволило повністю виключити пересування великих чеченських загонів за Сунжу і ще більше ізолювало Притереччя від решти Чечні»(Citation: 125).
+    У 1844 році - «будівництво Воздвиженського укріплення восени 1844 р. на місці зруйнованого аулу Чахкері (Чахкар-Атаги), біля початку Аргунської ущелини»(Citation: 125); Покровський називає призначення: «Воздвиженське мало тепер стати базою для частих набігів на чеченські аули, для зимових рубок лісу в площинній Чечні»(Citation: 129).
+    У 1846 році на річці Фортанзі збудовано форт Ачхой.
+    Функцію Ачхоя імперський рапорт назвав так: «Влаштування укріплення на Фортанзі, майже в серці Малої Чечні, серед рівнин-житниць, не може не мати впливу на підкорення її»(Citation: 126).
+    Вторгнення в Аух (чеченську область на північному сході) у червні 1841 року війська генерала Граббе, командувача військ Кавказької лінії (ланцюга імперських укріплень на землі нохчі), закріпили укріпленням на захопленій землі: 16-17 червня збудовано тимчасове укріплення в Акташ-Аусі.
+    Укріплення простояло одне літо: історик Н. І. Покровський пише - «21 вересня укріплення було зрито, загін відійшов»(Citation: 129).
+    Біля цього укріплення імперія збирала «вірні» їй ауховські сім'ї перед переселенням під владу кумицьких володарів.

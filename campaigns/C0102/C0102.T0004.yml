@@ -1,0 +1,23 @@
+type: procedure
+id: C0102.T0004
+created: 2026-04-27
+modified: 2026-08-08
+version: '1.0'
+technique: T0004
+people: ukrainians
+actor: G0011
+tool: S0009
+contributors: []
+description:
+  ru: |-
+    Публикация манифеста «Об историческом единстве русских и украинцев» (июль 2021), конструирующего псевдоисторический миф: «русские и украинцы – один народ, единое целое», а современные границы объявляются результатом того, что «действия большевиков по отторжению от России её исторических территорий преступным актом не считаются»(Citation: 245).
+    В той же статье описывается, как Ленин лично «убеждал» руководителей Донецко-Криворожской республики «действовать в составе Советской Украины», а ЦК РКП(б) постановил «создать на съезде „одно правительство для всей Украины“»(Citation: 245).
+    Накануне вторжения тезис доведён до предела: в обращении 21 февраля 2022 года Путин объявил, что «современная Украина целиком и полностью была создана Россией, точнее, большевистской, коммунистической Россией», а страну назвал «Украина имени Владимира Ильича Ленина» - «Он её автор и архитектор»(Citation: 317).
+  en: |-
+    The publication of the manifesto "On the Historical Unity of Russians and Ukrainians" (July 2021), constructing a pseudo-historical myth: "Russians and Ukrainians are one people, a single whole," while modern borders are declared the result of the fact that "the Bolsheviks' actions in severing from Russia its historical territories are not considered a criminal act"(Citation: 245).
+    The same article describes how Lenin personally "persuaded" the leaders of the Donetsk-Kryvyi Rih republic "to act within Soviet Ukraine," and how the Central Committee resolved "to create at the congress 'one government for all of Ukraine'"(Citation: 245).
+    On the eve of the invasion the thesis was taken to its limit: in his address of February 21, 2022 Putin declared that "modern Ukraine was entirely and wholly created by Russia, or, to be more precise, by Bolshevik, communist Russia," and called the country "Ukraine named after Vladimir Ilyich Lenin" - "He is its author and architect"(Citation: 317).
+  uk: |-
+    Публікація маніфесту «Про історичну єдність росіян та українців» (липень 2021), що конструює псевдоісторичний міф: «росіяни й українці – один народ, єдине ціле», а сучасні кордони оголошуються результатом того, що «дії більшовиків з відторгнення від Росії її історичних територій злочинним актом не вважаються»(Citation: 245).
+    У тій самій статті описується, як Ленін особисто «переконував» керівників Донецько-Криворізької республіки «діяти у складі Радянської України», а ЦК РКП(б) постановив «створити на з'їзді „один уряд для всієї України“»(Citation: 245).
+    Напередодні вторгнення тезу доведено до межі: у зверненні 21 лютого 2022 року Путін оголосив, що «сучасна Україна цілком і повністю була створена Росією, точніше, більшовицькою, комуністичною Росією», а країну назвав «Україна імені Володимира Ілліча Леніна» - «Він її автор і архітектор»(Citation: 317).

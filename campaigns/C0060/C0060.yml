@@ -1,0 +1,32 @@
+type: campaign
+id: C0060
+created: 2026-04-25
+modified: 2026-08-08
+version: '1.3'
+people: ukrainians
+first_seen: 1847-01-01
+last_seen: 1847-12-31
+contributors: []
+name:
+  ru: Разгром Кирилло-Мефодиевского общества (1847)
+  en: Crushing of the Cyril and Methodius Society (1847)
+  uk: Розгром Кирило-Мефодіївського товариства (1847)
+description:
+  ru: |-
+    Удар тайной полиции по интеллектуальной элите коренного народа: «В марте 1847 общество было разгромлено жандармами.
+    Полиции удалось выявить 12 членов законспирированной организации…
+    Царские власти расценили программные документы общества как серьёзную угрозу устоям самодержавия»(Citation: 192).
+    Приговоры всем фигурантам предложил шеф жандармов Орлов в докладе императору от 26 мая 1847 года, на котором Николай I начертал «Исполнить»(Citation: 450).
+    Сопровождалось судами, ссылками и отправкой Шевченко в солдаты «с учреждением над поэтом «строжайшего надзора с запрещением писать и рисовать»»(Citation: 182).
+  en: |-
+    The secret police's blow against the intellectual elite of the indigenous people: "In March 1847 the society was crushed by the gendarmes.
+    The police managed to identify 12 members of the clandestine organization…
+    The tsarist authorities judged the society's program documents a serious threat to the foundations of autocracy"(Citation: 192).
+    The sentences for all the accused were proposed by the chief of gendarmes Orlov in his report to the emperor of May 26, 1847, on which Nicholas I inscribed "Execute"(Citation: 450).
+    It was accompanied by trials, exiles, and Shevchenko's dispatch into the army "with the institution over the poet of 'the strictest surveillance with a prohibition on writing and drawing'"(Citation: 182).
+  uk: |-
+    Удар таємної поліції по інтелектуальній еліті корінного народу: «В берез. 1847 т-во було розгромлене жандармами.
+    Поліції вдалося виявити 12 чл. законспірованої орг-ції…
+    Царські власті розцінили програмні документи т-ва як серйозну загрозу підвалинам самодержавства»(Citation: 192).
+    Вироки всім фігурантам запропонував шеф жандармів Орлов у доповіді імператорові від 26 травня 1847 року, на якій Микола I накреслив «Виконати»(Citation: 450).
+    Супроводжувалося судами, засланнями та відправленням Шевченка в солдати «зі встановленням над поетом «найсуворішого нагляду із забороною писати й малювати»»(Citation: 182).

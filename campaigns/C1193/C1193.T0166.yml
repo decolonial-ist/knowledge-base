@@ -1,0 +1,112 @@
+type: procedure
+id: C1193.T0166
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0166
+people: nokhchi
+actor: G0011
+tool: S0017
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Оккупанты задерживали чеченцев как бродяг и заставляли их подписывать признания, что они воевали в Вооружённых силах Ичкерии или помогали им.
+
+    В 1995 году МВД России в постановлениях о задержании чеченцев чаще всего ссылалось на указ президента России Ельцина от 2 ноября 1993 года № 1815 «О мерах по предупреждению бродяжничества и попрошайничества»(Citation: 1256).
+    Большинство задержанных чеченцев имели при себе документы, а часть из них министерство забрало из собственных домов(Citation: 27).
+    Оккупанты первым делом рвали у них на глазах удостоверения(Citation: 919).
+
+    Российские следователи требовали от задержанных признаться в помощи армии Ичкерии и велели им с завязанными глазами подписывать бумаги, которых те не видели(Citation: 919).
+    Оккупанты выбивали признания пытками, в том числе током, в ямах и тюремных машинах у блокпостов и воинских частей (подробнее: «Пытки и истязания»)(Citation: 27).
+
+    МВД России отпускало большинство задержанных чеченцев без обвинений.
+    По справке заместителя начальника тюремного ведомства России Злыденко, с 11 декабря 1994 года по 22 июля 1995 года через фильтрационные лагеря для задержанных в Моздоке, городе в подконтрольной России Северной Осетии, и в Грозном прошли 1325 человек.
+    Министерство передало следователям сто из них (подробнее: «Система фильтрационных лагерей»)(Citation: 27).
+
+    По данным МВД, с 28 января 1995 года по июль 1996 года министерство предъявило обвинение 51 человеку из тех, кто прошёл через лагерь в Грозном, 1024 отпустило и 109 обменяло на пленных российских военных(Citation: 27).
+
+    1 февраля 1995 года исполнявший обязанности генерального прокурора России Ильюшенко обвинил Джохара Дудаева, избранного президента Ичкерии, в государственной измене и в призывах к терроризму по телефонному разговору, который прокуроры, по их словам, перехватили(Citation: 1369).
+    Генеральная прокуратура объявила президента Ичкерии в розыск, а 21 апреля 1996 года российские военные убили его у Гехи-Чу, села к юго-западу от Грозного (подробнее: «Нейтрализация оппозиции»)(Citation: 27)(Citation: 712). 6 апреля 1995 года МВД России вывезло из фильтрационных лагерей 16 чеченцев и заставило каждого подписать бумагу, где его называли бойцом армии Ичкерии, хотя, по их словам, никто из них не воевал.
+    В Малых Атагах, селе к югу от Грозного, министерство отдало их армии Ичкерии в обмен на пленного российского майора (подробнее: «Захват заложников»)(Citation: 1136).
+
+    15 марта 1996 года российские солдаты на блокпосту у Самашек, села на западе Ичкерии, задержали 91 чеченца, которые перед штурмом уходили из села.
+    Российские следователи допрашивали задержанных в тюрьмах Пятигорска и Ставрополя, городов на юге России.
+    Один из них, Мурат Ганиев, 14 октября 1996 года рассказал Human Rights Watch: «Я сказал им, что я не боец. …
+    Сказали, что, если я назовусь бойцом, они отпустят остальных сорок шесть.
+    Подписать нам дали только бумаги об освобождении»(Citation: 657).
+    Через пять недель после задержания, 19 апреля 1996 года, МВД России выпустило всех чеченцев из Самашек без обвинений(Citation: 27).
+
+    В докладе января 1997 года Human Rights Watch написала, что правительство России не сообщило, сколько чеченцев из фильтрационных лагерей держит в тюрьмах по обвинению в участии в боях и по каким статьям их судили(Citation: 657).
+
+    К январю 1997 года, когда последние российские войска ушли из Ичкерии, депутаты российского парламента подготовили проект амнистии только для российских военных.
+    Этот проект не позволял освободить чеченцев, которых держали под стражей за участие или предполагаемое участие в боях(Citation: 657). 12 марта 1997 года депутаты в Москве постановлением № 1199-II объявили амнистию за преступления, связанные с войной, но не распространили её на обвинённых и осуждённых по 17 статьям Уголовного кодекса, в том числе за бандитизм и убийство.
+    Дела по этим статьям депутаты разрешили прекращать только против тех, кого Россия отдавала в обмен на своих военных и граждан, удерживаемых в Ичкерии(Citation: 1315).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    The occupiers detained Chechens as vagrants and forced them to sign confessions that they had fought in the Armed Forces of Ichkeria or helped them.
+
+    In 1995, in its orders for the detention of Chechens, the Russian Ministry of Internal Affairs most often referred to decree No. 1815 of Russian president Yeltsin of 2 November 1993 "On Measures to Prevent Vagrancy and Begging"(Citation: 1256).
+    Most of the detained Chechens had their documents on them, and some of them the ministry took from their own homes(Citation: 27).
+    The first thing the occupiers did was tear up their identity papers in front of their eyes(Citation: 919).
+
+    Russian investigators demanded that the detainees confess to helping the army of Ichkeria and told them, blindfolded, to sign papers they could not see(Citation: 919).
+    The occupiers extracted confessions by torture, including with electric current, in pits and prison vans at checkpoints and military units (see: "Torture and Abuse")(Citation: 27).
+
+    The Russian Ministry of Internal Affairs released most of the detained Chechens without charges.
+    According to a certificate by Zlydenko, deputy head of Russia's prison service, from 11 December 1994 to 22 July 1995, 1,325 people passed through the filtration camps for detainees in Mozdok, a town in Russian-controlled North Ossetia, and in Grozny.
+    The ministry handed a hundred of them over to investigators (see: "Filtration Camp System")(Citation: 27).
+
+    According to the Ministry of Internal Affairs, from 28 January 1995 to July 1996 the ministry charged 51 people of those who had passed through the camp in Grozny, released 1,024 and exchanged 109 for captured Russian servicemen(Citation: 27).
+
+    On 1 February 1995, Ilyushenko, acting prosecutor general of Russia, charged Dzhokhar Dudayev, the elected president of Ichkeria, with high treason and incitement to terrorism on the basis of a telephone conversation which the prosecutors said they had intercepted(Citation: 1369).
+    The Prosecutor General's Office put the president of Ichkeria on a wanted list, and on 21 April 1996 the Russian military killed him near Gekhi-Chu, a village southwest of Grozny (see: "Neutralization of the Opposition")(Citation: 27)(Citation: 712).
+    On 6 April 1995, the Russian Ministry of Internal Affairs took 16 Chechens out of the filtration camps and forced each of them to sign a paper that called him a fighter of the army of Ichkeria, although, by their own account, none of them had fought.
+    In Malye Atagi, a village south of Grozny, the ministry handed them over to the army of Ichkeria in exchange for a captured Russian major (see: "Hostage-Taking")(Citation: 1136).
+
+    On 15 March 1996, Russian soldiers at the checkpoint near Samashki, a village in the west of Ichkeria, detained 91 Chechens who were leaving the village before the assault.
+    Russian investigators interrogated the detainees in the prisons of Pyatigorsk and Stavropol, cities in the south of Russia.
+    One of them, Murat Ganiev, told Human Rights Watch on 14 October 1996: "I told them I wasn't a fighter. …
+    They said that if I said I was a fighter they would release the other forty-six.
+    The only thing they gave us to sign was our release papers"(Citation: 657).
+    Five weeks after the detention, on 19 April 1996, the Russian Ministry of Internal Affairs released all the Chechens from Samashki without charges(Citation: 27).
+
+    In a report of January 1997, Human Rights Watch wrote that the Russian government had not disclosed how many Chechens from the filtration camps it was holding in prison on charges of taking part in the fighting, or under which articles they had been tried(Citation: 657).
+
+    By January 1997, when the last Russian troops had left Ichkeria, deputies of the Russian parliament had drafted an amnesty only for Russian servicemen.
+    This draft did not allow the release of Chechens who were held in custody for taking part, or allegedly taking part, in the fighting(Citation: 657).
+    On 12 March 1997, the deputies in Moscow, by resolution No. 1199-II, declared an amnesty for crimes connected with the war, but did not extend it to those charged and convicted under 17 articles of the Criminal Code, including for banditry and murder.
+    The deputies allowed cases under these articles to be closed only against those whom Russia handed over in exchange for its own servicemen and citizens held in Ichkeria(Citation: 1315).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Окупанти затримували чеченців як бродяг і змушували їх підписувати зізнання, що вони воювали у Збройних силах Ічкерії або допомагали їм.
+
+    У 1995 році МВС Росії в постановах про затримання чеченців найчастіше посилалося на указ президента Росії Єльцина від 2 листопада 1993 року № 1815 «Про заходи щодо запобігання бродяжництву та жебрацтву»(Citation: 1256).
+    Більшість затриманих чеченців мали при собі документи, а частину з них міністерство забрало з власних домівок(Citation: 27).
+    Окупанти насамперед рвали в них на очах посвідчення(Citation: 919).
+
+    Російські слідчі вимагали від затриманих зізнатися в допомозі армії Ічкерії і веліли їм із зав'язаними очима підписувати папери, яких ті не бачили(Citation: 919).
+    Окупанти вибивали зізнання катуваннями, зокрема струмом, у ямах і тюремних машинах біля блокпостів і військових частин (докладніше: «Катування та знущання»)(Citation: 27).
+
+    МВС Росії відпускало більшість затриманих чеченців без обвинувачень.
+    За довідкою заступника начальника тюремного відомства Росії Злиденка, з 11 грудня 1994 року по 22 липня 1995 року через фільтраційні табори для затриманих у Моздоку, місті в підконтрольній Росії Північній Осетії, та в Грозному пройшли 1325 людей.
+    Міністерство передало слідчим сто з них (докладніше: «Система фільтраційних таборів»)(Citation: 27).
+
+    За даними МВС, з 28 січня 1995 року по липень 1996 року міністерство висунуло обвинувачення 51 людині з тих, хто пройшов через табір у Грозному, 1024 відпустило і 109 обміняло на полонених російських військових(Citation: 27).
+
+    1 лютого 1995 року виконувач обов'язків генерального прокурора Росії Іллюшенко звинуватив Джохара Дудаєва, обраного президента Ічкерії, у державній зраді та в закликах до тероризму на підставі телефонної розмови, яку прокурори, за їхніми словами, перехопили(Citation: 1369).
+    Генеральна прокуратура оголосила президента Ічкерії в розшук, а 21 квітня 1996 року російські військові вбили його біля Гехі-Чу, села на південний захід від Грозного (докладніше: «Нейтралізація опозиції»)(Citation: 27)(Citation: 712). 6 квітня 1995 року МВС Росії вивезло з фільтраційних таборів 16 чеченців і змусило кожного підписати папір, де його називали бійцем армії Ічкерії, хоча, за їхніми словами, ніхто з них не воював.
+    У Малих Атагах, селі на південь від Грозного, міністерство віддало їх армії Ічкерії в обмін на полоненого російського майора (докладніше: «Захоплення заручників»)(Citation: 1136).
+
+    15 березня 1996 року російські солдати на блокпості біля Самашок, села на заході Ічкерії, затримали 91 чеченця, які перед штурмом виходили із села.
+    Російські слідчі допитували затриманих у в'язницях П'ятигорська і Ставрополя, міст на півдні Росії.
+    Один із них, Мурат Ганієв, 14 жовтня 1996 року розповів Human Rights Watch: «Я сказав їм, що я не боєць. …
+    Сказали, що, якщо я назвуся бійцем, вони відпустять решту сорок шість.
+    Підписати нам дали лише папери про звільнення»(Citation: 657).
+    Через п'ять тижнів після затримання, 19 квітня 1996 року, МВС Росії випустило всіх чеченців із Самашок без обвинувачень(Citation: 27).
+
+    У доповіді від січня 1997 року Human Rights Watch написала, що уряд Росії не повідомив, скільки чеченців із фільтраційних таборів тримає у в'язницях за обвинуваченням в участі в боях і за якими статтями їх судили(Citation: 657).
+
+    До січня 1997 року, коли останні російські війська пішли з Ічкерії, депутати російського парламенту підготували проєкт амністії лише для російських військових.
+    Цей проєкт не дозволяв звільнити чеченців, яких тримали під вартою за участь або ймовірну участь у боях(Citation: 657). 12 березня 1997 року депутати в Москві постановою № 1199-II оголосили амністію за злочини, пов'язані з війною, але не поширили її на обвинувачених і засуджених за 17 статтями Кримінального кодексу, зокрема за бандитизм і вбивство.
+    Справи за цими статтями депутати дозволили закривати лише проти тих, кого Росія віддавала в обмін на своїх військових і громадян, яких утримували в Ічкерії(Citation: 1315).

@@ -1,0 +1,26 @@
+type: procedure
+id: C0103.T0137
+created: 2026-04-27
+modified: 2026-08-01
+version: '1.0'
+technique: T0137
+people: ukrainians
+actor: G0011
+tool: S0021
+contributors: []
+description:
+  ru: |-
+    Тотальный информационный контроль и запрет называть вторжение войной - официально оно объявлено «специальной военной операцией», целью которой названы «демилитаризация и денацификация»(Citation: 221).
+    Информационное прикрытие энергетического террора строилось на версии «ответа»: «Сейчас много шума по поводу наших ударов по энергетической инфраструктуре соседней страны.
+    Да, мы делаем это.
+    Но кто начал?»(Citation: 243).
+  en: |-
+    Total information control and a ban on calling the invasion a war - officially it was declared a "special military operation" whose stated aims were "demilitarization and denazification"(Citation: 221).
+    The informational cover for energy terror rested on the "response" narrative: "There is a lot of noise now about our strikes on the energy infrastructure of the neighboring country.
+    Yes, we are doing this.
+    But who started it?"(Citation: 243).
+  uk: |-
+    Тотальний інформаційний контроль і заборона називати вторгнення війною - офіційно його оголошено «спеціальною воєнною операцією», метою якої названо «демілітаризацію та денацифікацію»(Citation: 221).
+    Інформаційне прикриття енергетичного терору будувалося на версії «відповіді»: «Зараз багато галасу з приводу наших ударів по енергетичній інфраструктурі сусідньої країни.
+    Так, ми робимо це.
+    Але хто почав?»(Citation: 243).

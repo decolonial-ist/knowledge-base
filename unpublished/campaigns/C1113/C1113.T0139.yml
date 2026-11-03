@@ -1,0 +1,20 @@
+type: procedure
+id: C1113.T0139
+created: 2026-06-13
+modified: 2026-08-30
+version: '1.0'
+technique: T0139
+people: nokhchi
+actor: G0008
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Использование комплекса новых и существующих военных баз для проведения операций.
+    В 1604 году на захваченных землях (Мелчхи) «были сооружены укрепления, которые стали опорной базой для их набегов».
+  en: |-
+    Use of a complex of new and existing military bases to conduct operations.
+    In 1604, on the seized lands (Melchkhi), «fortifications were built, which became a staging base for their raids».
+  uk: |-
+    Використання комплексу нових та наявних військових баз для проведення операцій.
+    У 1604 році на захоплених землях (Мелчхі) «були споруджені укріплення, які стали опорною базою для їхніх набігів».

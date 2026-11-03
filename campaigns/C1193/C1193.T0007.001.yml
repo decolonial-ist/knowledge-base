@@ -1,0 +1,235 @@
+type: procedure
+id: C1193.T0007.001
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0007.001
+people: nokhchi
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Президент России Ельцин, российские министры и генералы всю войну отрицали преступления оккупационных войск, приписывали их армии Ичкерии, а мирных чеченцев, которых убили российские военные, выдавали за её бойцов.
+
+    1 декабря 1994 года, за десять дней до открытого вторжения, председатель правительства России Черномырдин распоряжением № 1886-р создал Временный информационный центр (подробнее: «Цензура»)(Citation: 1341).
+    Правозащитники «Мемориала» пишут, что центр почти сразу стал распространять дезинформацию и мешать работе российских и иностранных журналистов в Ичкерии(Citation: 27).
+
+    На запросы докладчиков ООН и депутатов российского парламента правительство России, командование оккупационных войск и военная прокуратура отвечали, что на солдат нападала армия Ичкерии, а сообщений о преступлениях не поступало(Citation: 739)(Citation: 27).
+
+    Российские министры, генералы и пресс-службы отрицали, что армия воевала в Ичкерии осенью 1994 года(Citation: 729)(Citation: 713)(Citation: 1085)(Citation: 1414)(Citation: 27), а лётчики бомбили Грозный в декабре 1994 года(Citation: 27)(Citation: 986)(Citation: 718).
+    Министр юстиции России Ковалёв 4 февраля 1995 года сказал, что вместе с коллегами побывал в Ичкерии и не нашёл ни одного случая грабежа российскими солдатами(Citation: 27).
+
+    Оперативный штаб правительства России и российские военные приписывали армии Ичкерии разрушение жилых кварталов Грозного в декабре 1994 года(Citation: 1426)(Citation: 27) и убийства мирных людей в городах Шали в январе 1995 года(Citation: 1431)(Citation: 27) и Гудермесе в апреле 1995 года(Citation: 27).
+
+    Президент России Ельцин обещал прекратить бомбёжки или объявлял, что бои закончены, 27 декабря 1994 года(Citation: 27), 19 января 1995 года(Citation: 1323)(Citation: 1257), 10 мая 1995 года(Citation: 1276) и 5 апреля 1996 года(Citation: 988), председатель правительства Черномырдин - 17 июля 1996 года(Citation: 27).
+    После каждого заявления российские войска продолжали бомбить и штурмовать сёла и города Ичкерии(Citation: 27)(Citation: 988).
+
+    7 апреля 1995 года внутренние войска МВД России (предшественники современной Росгвардии) штурмовали Самашки, село на западе Ичкерии.
+    За 7 и 8 апреля оккупанты убили в селе 103 мирных чеченца (подробнее: «Массовые убийства гражданских»)(Citation: 662).
+    Вечером 7 апреля первый канал российского телевидения и телеканал НТВ со ссылкой на агентство «Интерфакс» и российских военных сообщили, что бойцы армии Ичкерии расстреляли старейшин села.
+    В этот день российские солдаты обстреляли машины, в которых старейшины и мулла возвращались с переговоров.
+    Все восемь человек в машинах остались живы. 11 апреля пятеро старейшин Самашек передали правозащитникам «Мемориала» заявление: «Заявление военного руководства МВД России — вымысел от начала до конца»(Citation: 1136). 29 мая комиссия российского парламента по расследованию причин войны в Ичкерии признала сообщения о расстреле старейшин ложью(Citation: 662).
+
+    8 апреля 1995 года агентство ИТАР-ТАСС сообщило, что российские войска убили в Самашках в бою больше 130 бойцов армии Ичкерии. 11 апреля представитель МВД России назвал корреспонденту НТВ 120 бойцов, убитых российскими военными, и сказал, что мирные чеченцы ушли перед штурмом.
+    В этот день заместитель председателя правительства России Сосковец на вопрос корреспондента НТВ об убийствах женщин и мужчин в селе ответил: «Нет, ничего этого нет»(Citation: 662).
+    Российские следователи в фильтрационном лагере в Моздоке, городе в подконтрольной России Северной Осетии, предлагали Махмудэмину Изиеву из Самашек подписать показания, что первыми стреляли чеченские бойцы. 18 апреля российские военные отпустили его без обвинений(Citation: 27)(Citation: 662).
+    Председатель комиссии российского парламента по расследованию причин войны Говорухин после поездки в Самашки 14 апреля сказал депутатам, что насчитал там «около пятидесяти разрушенных или поврежденных домов»(Citation: 662). 1 мая 1995 года правозащитник Сергей Ковалёв сказал на слушаниях в Конгрессе США, что его группа правозащитников составила список из 374 разрушенных домов в селе(Citation: 1038).
+    В июле часть членов комиссии российского парламента написала заключение от имени всей комиссии: «из списка [убитых чеченцев из села] нужно исключить мужчин.
+    Люди, которые держали в руках автомат или гранатомет, не могут считаться мирными жителями».
+    В докладе Наблюдательной миссии российских правозащитников сказано, что так депутаты записали в бойцы армии Ичкерии всех мужчин Самашек.
+    Миссия назвала по именам всех 103 чеченцев, которых убили оккупанты, - 90 мужчин и 13 женщин.
+    Четверо из них держали в руках оружие(Citation: 662). 15 августа 1995 года правительство России ответило Специальному докладчику ООН по пыткам, что дома в Самашках разрушили бойцы армии Ичкерии, а военная прокуратура сообщений о казнях чеченцев без суда не получала(Citation: 738).
+
+    Командующий оккупационными войсками Шкирко отрицал бомбёжку села Рошни-Чу в октябре 1995 года(Citation: 1436).
+    Российские генералы отрицали обстрелы посёлка Новогрозненский в феврале 1996 года(Citation: 27).
+    Командующий оккупационными войсками Тихомиров в марте 1996 года заявил, что в военную прокуратуру не поступало сообщений о грабежах(Citation: 27), а в апреле 1996 года отрицал, что его подчинённые убили президента Ичкерии Джохара Дудаева(Citation: 27).
+
+    Командующий оккупационными войсками Шкирко назвал 267 жертв среди горожан Гудермеса, который российские войска штурмовали в декабре 1995 года.
+    Правозащитники «Мемориала» пишут, что это число значительно занижено(Citation: 27).
+    Министр обороны России Грачёв записал в бойцы армии Ичкерии мирных чеченцев, которых его войска убили в посёлке Новогрозненский в феврале 1996 года(Citation: 27).
+    Представитель российских военных приписал чеченским бойцам, переодетым в российскую форму, грабежи, которые российские солдаты устроили в селе Серноводск в марте 1996 года (подробнее: «Мародерство»)(Citation: 27).
+
+    28 марта 1996 года российский лётчик сбросил бомбу на Катыр-Юрт, село к юго-западу от Грозного, и убил девять человек из семьи Хажгириевых (подробнее: «Неизбирательные нападения»).
+    На следующий день командующий оккупационными войсками Тихомиров, по сообщению агентства «Интерфакс», признал, что экипаж бомбил без приказа, и извинился перед семьёй(Citation: 27)(Citation: 1437). 31 марта президент России Ельцин пообещал в обращении к гражданам России прекратить наступление.
+    В ночь на 3 апреля и 4 апреля российские лётчики бомбили Шалажи, село к юго-западу от Грозного, и убили троих чеченцев(Citation: 27)(Citation: 988).
+    Командующий российской военной авиацией Дейнекин и Тихомиров назвали бомбёжку провокацией(Citation: 27). 10 апреля Дейнекин сказал на пресс-конференции, которую показали «Вести» телеканала РТР: «ни Катыр-Юрт, ни дважды Шалажи, никакие другие населенные пункты федеральные ВВС [российские военно-воздушные силы] и авиация сухопутных войск не бомбили и не планировали бомбить».
+    Генерал добавил, что бомбы в сёлах взрывают бойцы армии Ичкерии(Citation: 27).
+    Курейш Хажгириев, чеченец из Катыр-Юрта, чьих родных убил российский лётчик, 22 апреля сказал общественному трибуналу российского фонда «Гласность» в Москве: «Я не могу слышать, как генерал Дейнекин кощунственно заявляет, что они не бомбили.
+    Я слов не нахожу!
+    Позор генералу»(Citation: 988).
+    Российские прокуроры приостановили дела о бомбёжках Катыр-Юрта и Шалажи (подробнее: «Безнаказанность исполнителей»).
+    В ноябре 1997 года военная прокуратура России признала в письме «Мемориалу», что Катыр-Юрт бомбил самолёт российских войск, а о Шалажи написала, что российская авиация била там по армии Ичкерии(Citation: 27).
+
+    Генералы оккупационных войск отрицали обстрелы города Урус-Мартан в мае 1996 года(Citation: 1278)(Citation: 27).
+    Представитель российской авиации отрицал бомбёжку Ножай-Юртовского района на юго-востоке Ичкерии 3 июня 1996 года, на третий день прекращения огня, о котором договорились Россия и Ичкерия(Citation: 27)(Citation: 1362).
+    В июле 1996 года российские солдаты держали задержанных чеченцев в ямах в Ханкале, главной базе оккупационных войск на восточной окраине Грозного.
+    В этом месяце военный прокурор российских войск на Северном Кавказе Соловьёв ответил депутату российского парламента Юлию Рыбакову, что неофициальных фильтрационных лагерей не нашёл.
+    К 5 августа оккупанты отпустили задержанных(Citation: 27).
+
+    Командующий Тихомиров записал в бойцы мирных чеченцев, которых российские лётчики убили в городе Шали в апреле 1996 года(Citation: 27).
+    Штаб оккупационных войск приписал армии Ичкерии обстрелы города Урус-Мартан в мае 1996 года, при которых экипажи российских вертолётов убивали горожан(Citation: 27)(Citation: 988).
+    Российские военные не раз заявляли, что армия Ичкерии обороняется в мечетях и памятниках культуры.
+    Директор Национального музея Чеченской Республики Иса Адаев в мае 1996 года сказал общественному трибуналу фонда «Гласность» в Праге, что это неправда(Citation: 988).
+    Генерал Шаманов, командовавший штурмом села Махкеты, записал в бойцы армии Ичкерии мирных чеченцев, которых российские войска убили там в июле 1996 года(Citation: 27)(Citation: 1127).
+
+    В августе 1996 года, когда Вооружённые силы Ичкерии окружили оккупантов в Грозном, командование оккупационных войск и министр обороны России Родионов объявляли, что контролируют центр города(Citation: 27)(Citation: 1366).
+
+    Правозащитники «Мемориала» пишут, что многие сообщения российских газет, радио и телевидения о жестокостях армии Ичкерии со ссылкой на официальные российские источники при проверке оказались ложью(Citation: 27).
+
+    21 ноября 1997 года, почти через год после того, как последние российские войска ушли из Ичкерии, заместитель главного военного прокурора России Смирнов написал «Мемориалу», что Рошни-Чу бомбили восемь штурмовых самолётов, чью принадлежность прокуратура не установила.
+    Прокурор отрицал, что в августе 1996 года солдаты 101-й бригады внутренних войск МВД брали в заложники чеченских мужчин у «15-го городка», своей базы в Грозном.
+    Бригада отпускала мужчин, когда родные выполняли её требования (подробнее: «Захват заложников»)(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Throughout the war, Russian President Yeltsin, Russian ministers and generals denied the crimes of the occupation troops, attributed them to the army of Ichkeria, and passed off peaceful Chechens killed by the Russian military as its fighters.
+
+    On 1 December 1994, ten days before the open invasion, Chernomyrdin, chairman of the Russian government, by Directive No. 1886-r created the Temporary Information Center (see: "Censorship")(Citation: 1341).
+    Human rights defenders of Memorial write that the center almost immediately began to spread disinformation and to obstruct the work of Russian and foreign journalists in Ichkeria(Citation: 27).
+
+    To inquiries from UN rapporteurs and deputies of the Russian parliament, the Russian government, the command of the occupation troops and the military prosecutor's office replied that the soldiers had been attacked by the army of Ichkeria and that no reports of crimes had been received(Citation: 739)(Citation: 27).
+
+    Russian ministers, generals and press services denied that the army had fought in Ichkeria in the autumn of 1994(Citation: 729)(Citation: 713)(Citation: 1085)(Citation: 1414)(Citation: 27), and that pilots had bombed Grozny in December 1994(Citation: 27)(Citation: 986)(Citation: 718).
+    On 4 February 1995, Russian Justice Minister Kovalyov said that he and his colleagues had visited Ichkeria and had not found a single case of looting by Russian soldiers(Citation: 27).
+
+    The operational headquarters of the Russian government and the Russian military attributed to the army of Ichkeria the destruction of residential districts of Grozny in December 1994(Citation: 1426)(Citation: 27) and the killings of peaceful people in the towns of Shali in January 1995(Citation: 1431)(Citation: 27) and Gudermes in April 1995(Citation: 27).
+
+    Russian President Yeltsin promised to stop the bombing or declared the fighting over on 27 December 1994(Citation: 27), 19 January 1995(Citation: 1323)(Citation: 1257), 10 May 1995(Citation: 1276) and 5 April 1996(Citation: 988), and Chernomyrdin, chairman of the government, on 17 July 1996(Citation: 27).
+    After each statement, Russian troops went on bombing and storming the villages and towns of Ichkeria(Citation: 27)(Citation: 988).
+
+    On 7 April 1995, the Internal Troops of the Russian Ministry of Internal Affairs (predecessors of today's Rosgvardia) stormed Samashki, a village in the west of Ichkeria.
+    On 7 and 8 April, the occupiers killed 103 peaceful Chechens in the village (see: "Mass Killings of Civilians")(Citation: 662).
+    On the evening of 7 April, the first channel of Russian television and the NTV television channel, citing the Interfax news agency and the Russian military, reported that fighters of the army of Ichkeria had shot the village elders.
+    That day, Russian soldiers had fired on the cars in which the elders and the mullah were returning from negotiations.
+    All eight people in the cars survived.
+    On 11 April, five elders of Samashki handed human rights defenders of Memorial a statement: "The statement of the military leadership of the Russian Ministry of Internal Affairs is a fabrication from beginning to end"(Citation: 1136).
+    On 29 May, the Russian parliament's commission investigating the causes of the war in Ichkeria found the reports of the shooting of the elders to be a lie(Citation: 662).
+
+    On 8 April 1995, the ITAR-TASS news agency reported that Russian troops had killed more than 130 fighters of the army of Ichkeria in battle in Samashki.
+    On 11 April, a representative of the Russian Ministry of Internal Affairs told an NTV correspondent of 120 fighters killed by the Russian military and said that the peaceful Chechens had left before the storming.
+    That day, Soskovets, deputy chairman of the Russian government, answered an NTV correspondent's question about the killings of women and men in the village: "No, there is nothing of the kind"(Citation: 662).
+    Russian investigators in the filtration camp in Mozdok, a town in Russian-controlled North Ossetia, offered Makhmudemin Iziev from Samashki to sign testimony that the Chechen fighters had fired first.
+    On 18 April, the Russian military released him without charges(Citation: 27)(Citation: 662).
+    Govorukhin, chairman of the Russian parliament's commission investigating the causes of the war, told the deputies after his trip to Samashki on 14 April that he had counted there "about fifty destroyed or damaged houses"(Citation: 662).
+    On 1 May 1995, the human rights defender Sergei Kovalyov said at a hearing in the US Congress that his group of human rights defenders had compiled a list of 374 destroyed houses in the village(Citation: 1038).
+    In July, some members of the Russian parliament's commission wrote a conclusion in the name of the whole commission: "men must be excluded from the list [of Chechens killed in the village].
+    People who held an assault rifle or a grenade launcher in their hands cannot be considered peaceful residents".
+    The report of the Observer Mission of Russian human rights defenders says that in this way the deputies recorded all the men of Samashki as fighters of the army of Ichkeria.
+    The Mission named all 103 Chechens killed by the occupiers - 90 men and 13 women.
+    Four of them had held weapons in their hands(Citation: 662).
+    On 15 August 1995, the Russian government replied to the UN Special Rapporteur on torture that the houses in Samashki had been destroyed by fighters of the army of Ichkeria, and that the military prosecutor's office had received no reports of executions of Chechens without trial(Citation: 738).
+
+    Shkirko, the commander of the occupation troops, denied the bombing of the village of Roshni-Chu in October 1995(Citation: 1436).
+    Russian generals denied the shelling of the settlement of Novogroznensky in February 1996(Citation: 27).
+    Tikhomirov, the commander of the occupation troops, stated in March 1996 that the military prosecutor's office had received no reports of looting(Citation: 27), and in April 1996 denied that his subordinates had killed Dzhokhar Dudayev, the president of Ichkeria(Citation: 27).
+
+    Shkirko, the commander of the occupation troops, gave a figure of 267 casualties among the townspeople of Gudermes, which Russian troops stormed in December 1995.
+    Human rights defenders of Memorial write that this figure is greatly understated(Citation: 27).
+    Russian Defense Minister Grachev recorded as fighters of the army of Ichkeria the peaceful Chechens whom his troops killed in the settlement of Novogroznensky in February 1996(Citation: 27).
+    A representative of the Russian military attributed to Chechen fighters dressed in Russian uniforms the looting that Russian soldiers carried out in the village of Sernovodsk in March 1996 (see: "Pillage")(Citation: 27).
+
+    On 28 March 1996, a Russian pilot dropped a bomb on Katyr-Yurt, a village south-west of Grozny, and killed nine people of the Khazhgiriyev family (see: "Indiscriminate Attacks").
+    The next day, Tikhomirov, the commander of the occupation troops, according to the Interfax news agency, admitted that the crew had bombed without orders and apologized to the family(Citation: 27)(Citation: 1437).
+    On 31 March, Russian President Yeltsin, in an address to the citizens of Russia, promised to halt the offensive.
+    On the night of 3 April and on 4 April, Russian pilots bombed Shalazhi, a village south-west of Grozny, and killed three Chechens(Citation: 27)(Citation: 988).
+    Deinekin, the commander of the Russian Air Force, and Tikhomirov called the bombing a provocation(Citation: 27).
+    On 10 April, Deinekin said at a press conference shown by the Vesti program of the RTR television channel: "neither Katyr-Yurt, nor Shalazhi twice, nor any other populated areas were bombed or planned to be bombed by the federal Air Force [the Russian air force] and army aviation".
+    The general added that the bombs in the villages were being set off by fighters of the army of Ichkeria(Citation: 27).
+    Kureysh Khazhgiriyev, a Chechen from Katyr-Yurt whose relatives were killed by the Russian pilot, said on 22 April to the public tribunal of the Russian Glasnost Foundation in Moscow: "I cannot bear to hear General Deinekin blasphemously declare that they did not bomb.
+    I have no words!
+    Shame on the general"(Citation: 988).
+    Russian prosecutors suspended the cases on the bombings of Katyr-Yurt and Shalazhi (see: "Impunity of Perpetrators").
+    In November 1997, the military prosecutor's office of Russia admitted in a letter to Memorial that Katyr-Yurt had been bombed by an aircraft of the Russian troops, and of Shalazhi wrote that Russian aviation had struck the army of Ichkeria there(Citation: 27).
+
+    Generals of the occupation troops denied the shelling of the town of Urus-Martan in May 1996(Citation: 1278)(Citation: 27).
+    A representative of Russian aviation denied the bombing of the Nozhay-Yurt district in the south-east of Ichkeria on 3 June 1996, the third day of the ceasefire agreed by Russia and Ichkeria(Citation: 27)(Citation: 1362).
+    In July 1996, Russian soldiers held detained Chechens in pits in Khankala, the main base of the occupation troops on the eastern outskirts of Grozny.
+    That month, Solovyov, the military prosecutor of the Russian troops in the North Caucasus, replied to Yuly Rybakov, a deputy of the Russian parliament, that he had found no unofficial filtration camps.
+    By 5 August, the occupiers had released the detainees(Citation: 27).
+
+    Commander Tikhomirov recorded as fighters the peaceful Chechens whom Russian pilots killed in the town of Shali in April 1996(Citation: 27).
+    The headquarters of the occupation troops attributed to the army of Ichkeria the shelling of the town of Urus-Martan in May 1996, in which the crews of Russian helicopters killed townspeople(Citation: 27)(Citation: 988).
+    The Russian military repeatedly stated that the army of Ichkeria was defending itself in mosques and cultural monuments.
+    Isa Adayev, director of the National Museum of the Chechen Republic, told the public tribunal of the Glasnost Foundation in Prague in May 1996 that this was untrue(Citation: 988).
+    General Shamanov, who commanded the storming of the village of Makhkety, recorded as fighters of the army of Ichkeria the peaceful Chechens whom Russian troops killed there in July 1996(Citation: 27)(Citation: 1127).
+
+    In August 1996, when the Armed Forces of Ichkeria had encircled the occupiers in Grozny, the command of the occupation troops and Russian Defense Minister Rodionov declared that they controlled the center of the city(Citation: 27)(Citation: 1366).
+
+    Human rights defenders of Memorial write that many reports by Russian newspapers, radio and television about atrocities of the army of Ichkeria, citing official Russian sources, turned out on checking to be lies(Citation: 27).
+
+    On 21 November 1997, almost a year after the last Russian troops had left Ichkeria, Smirnov, deputy chief military prosecutor of Russia, wrote to Memorial that Roshni-Chu had been bombed by eight attack aircraft whose affiliation the prosecutor's office had not established.
+    The prosecutor denied that in August 1996 soldiers of the 101st Brigade of the Internal Troops of the Ministry of Internal Affairs had taken Chechen men hostage at the "15th Gorodok", their base in Grozny.
+    The brigade released the men when their relatives met its demands (see: "Hostage-Taking")(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Президент Росії Єльцин, російські міністри та генерали всю війну заперечували злочини окупаційних військ, приписували їх армії Ічкерії, а мирних чеченців, яких убили російські військові, видавали за її бійців.
+
+    1 грудня 1994 року, за десять днів до відкритого вторгнення, голова уряду Росії Черномирдін розпорядженням № 1886-р створив Тимчасовий інформаційний центр (докладніше: «Цензура»)(Citation: 1341).
+    Правозахисники «Меморіалу» пишуть, що центр майже одразу став поширювати дезінформацію і заважати роботі російських та іноземних журналістів в Ічкерії(Citation: 27).
+
+    На запити доповідачів ООН і депутатів російського парламенту уряд Росії, командування окупаційних військ і військова прокуратура відповідали, що на солдатів нападала армія Ічкерії, а повідомлень про злочини не надходило(Citation: 739)(Citation: 27).
+
+    Російські міністри, генерали та пресслужби заперечували, що армія воювала в Ічкерії восени 1994 року(Citation: 729)(Citation: 713)(Citation: 1085)(Citation: 1414)(Citation: 27), а льотчики бомбили Грозний у грудні 1994 року(Citation: 27)(Citation: 986)(Citation: 718).
+    Міністр юстиції Росії Ковальов 4 лютого 1995 року сказав, що разом із колегами побував в Ічкерії і не знайшов жодного випадку грабежу російськими солдатами(Citation: 27).
+
+    Оперативний штаб уряду Росії та російські військові приписували армії Ічкерії руйнування житлових кварталів Грозного в грудні 1994 року(Citation: 1426)(Citation: 27) і вбивства мирних людей у містах Шалі в січні 1995 року(Citation: 1431)(Citation: 27) та Гудермесі у квітні 1995 року(Citation: 27).
+
+    Президент Росії Єльцин обіцяв припинити бомбардування або оголошував, що бої закінчено, 27 грудня 1994 року(Citation: 27), 19 січня 1995 року(Citation: 1323)(Citation: 1257), 10 травня 1995 року(Citation: 1276) і 5 квітня 1996 року(Citation: 988), голова уряду Черномирдін - 17 липня 1996 року(Citation: 27).
+    Після кожної заяви російські війська далі бомбили і штурмували села й міста Ічкерії(Citation: 27)(Citation: 988).
+
+    7 квітня 1995 року внутрішні війська МВС Росії (попередники сучасної Росгвардії) штурмували Самашки, село на заході Ічкерії.
+    За 7 і 8 квітня окупанти вбили в селі 103 мирних чеченців (докладніше: «Масові вбивства цивільних»)(Citation: 662).
+    Увечері 7 квітня перший канал російського телебачення і телеканал НТВ з посиланням на агентство «Інтерфакс» та російських військових повідомили, що бійці армії Ічкерії розстріляли старійшин села.
+    Того дня російські солдати обстріляли машини, в яких старійшини і мулла поверталися з переговорів.
+    Усі восьмеро людей у машинах залишилися живі. 11 квітня п'ятеро старійшин Самашок передали правозахисникам «Меморіалу» заяву: «Заява військового керівництва МВС Росії — вигадка від початку до кінця»(Citation: 1136). 29 травня комісія російського парламенту з розслідування причин війни в Ічкерії визнала повідомлення про розстріл старійшин брехнею(Citation: 662).
+
+    8 квітня 1995 року агентство ІТАР-ТАРС повідомило, що російські війська вбили в Самашках у бою понад 130 бійців армії Ічкерії. 11 квітня представник МВС Росії назвав кореспондентові НТВ 120 бійців, убитих російськими військовими, і сказав, що мирні чеченці пішли перед штурмом.
+    Того дня заступник голови уряду Росії Сосковець на запитання кореспондента НТВ про вбивства жінок і чоловіків у селі відповів: «Ні, нічого цього немає»(Citation: 662).
+    Російські слідчі у фільтраційному таборі в Моздоку, місті в підконтрольній Росії Північній Осетії, пропонували Махмудеміну Ізієву із Самашок підписати свідчення, що першими стріляли чеченські бійці. 18 квітня російські військові відпустили його без звинувачень(Citation: 27)(Citation: 662).
+    Голова комісії російського парламенту з розслідування причин війни Говорухін після поїздки в Самашки 14 квітня сказав депутатам, що нарахував там «близько п'ятдесяти зруйнованих або пошкоджених будинків»(Citation: 662). 1 травня 1995 року правозахисник Сергій Ковальов сказав на слуханнях у Конгресі США, що його група правозахисників склала список із 374 зруйнованих будинків у селі(Citation: 1038).
+    У липні частина членів комісії російського парламенту написала висновок від імені всієї комісії: «зі списку [вбитих чеченців із села] треба виключити чоловіків.
+    Люди, які тримали в руках автомат чи гранатомет, не можуть вважатися мирними жителями».
+    У доповіді Спостережної місії російських правозахисників сказано, що так депутати записали в бійці армії Ічкерії всіх чоловіків Самашок.
+    Місія назвала поіменно всіх 103 чеченців, яких убили окупанти, - 90 чоловіків і 13 жінок.
+    Четверо з них тримали в руках зброю(Citation: 662). 15 серпня 1995 року уряд Росії відповів спеціальному доповідачеві ООН з питань катувань, що будинки в Самашках зруйнували бійці армії Ічкерії, а військова прокуратура повідомлень про страти чеченців без суду не отримувала(Citation: 738).
+
+    Командувач окупаційними військами Шкірко заперечував бомбардування села Рошні-Чу в жовтні 1995 року(Citation: 1436).
+    Російські генерали заперечували обстріли селища Новогрозненський у лютому 1996 року(Citation: 27).
+    Командувач окупаційними військами Тихомиров у березні 1996 року заявив, що до військової прокуратури не надходило повідомлень про грабежі(Citation: 27), а у квітні 1996 року заперечував, що його підлеглі вбили президента Ічкерії Джохара Дудаєва(Citation: 27).
+
+    Командувач окупаційними військами Шкірко назвав 267 жертв серед городян Гудермеса, який російські війська штурмували в грудні 1995 року.
+    Правозахисники «Меморіалу» пишуть, що це число значно занижене(Citation: 27).
+    Міністр оборони Росії Грачов записав у бійці армії Ічкерії мирних чеченців, яких його війська вбили в селищі Новогрозненський у лютому 1996 року(Citation: 27).
+    Представник російських військових приписав чеченським бійцям, перевдягненим у російську форму, грабежі, які російські солдати влаштували в селі Серноводськ у березні 1996 року (докладніше: «Мародерство»)(Citation: 27).
+
+    28 березня 1996 року російський льотчик скинув бомбу на Катир-Юрт, село на південний захід від Грозного, і вбив дев'ятьох людей із родини Хажгірієвих (докладніше: «Невибіркові напади»).
+    Наступного дня командувач окупаційними військами Тихомиров, за повідомленням агентства «Інтерфакс», визнав, що екіпаж бомбив без наказу, і вибачився перед родиною(Citation: 27)(Citation: 1437). 31 березня президент Росії Єльцин пообіцяв у зверненні до громадян Росії припинити наступ.
+    У ніч на 3 квітня і 4 квітня російські льотчики бомбили Шалажі, село на південний захід від Грозного, і вбили трьох чеченців(Citation: 27)(Citation: 988).
+    Командувач російської військової авіації Дейнекін і Тихомиров назвали бомбардування провокацією(Citation: 27). 10 квітня Дейнекін сказав на пресконференції, яку показали «Вісті» телеканалу РТР: «ні Катир-Юрт, ні двічі Шалажі, жодних інших населених пунктів федеральні ВПС [російські військово-повітряні сили] та авіація сухопутних військ не бомбили і не планували бомбити».
+    Генерал додав, що бомби в селах підривають бійці армії Ічкерії(Citation: 27).
+    Курейш Хажгірієв, чеченець із Катир-Юрта, чиїх рідних убив російський льотчик, 22 квітня сказав громадському трибуналу російського фонду «Гласність» у Москві: «Я не можу чути, як генерал Дейнекін блюзнірськи заявляє, що вони не бомбили.
+    Я слів не знаходжу!
+    Ганьба генералові»(Citation: 988).
+    Російські прокурори призупинили справи про бомбардування Катир-Юрта і Шалажів (докладніше: «Безкарність виконавців»).
+    У листопаді 1997 року військова прокуратура Росії визнала в листі «Меморіалу», що Катир-Юрт бомбив літак російських військ, а про Шалажі написала, що російська авіація била там по армії Ічкерії(Citation: 27).
+
+    Генерали окупаційних військ заперечували обстріли міста Урус-Мартан у травні 1996 року(Citation: 1278)(Citation: 27).
+    Представник російської авіації заперечував бомбардування Ножай-Юртівського району на південному сході Ічкерії 3 червня 1996 року, на третій день припинення вогню, про яке домовилися Росія та Ічкерія(Citation: 27)(Citation: 1362).
+    У липні 1996 року російські солдати тримали затриманих чеченців у ямах у Ханкалі, головній базі окупаційних військ на східній околиці Грозного.
+    Того місяця військовий прокурор російських військ на Північному Кавказі Соловйов відповів депутатові російського парламенту Юлію Рибакову, що неофіційних фільтраційних таборів не знайшов.
+    До 5 серпня окупанти відпустили затриманих(Citation: 27).
+
+    Командувач Тихомиров записав у бійці мирних чеченців, яких російські льотчики вбили в місті Шалі у квітні 1996 року(Citation: 27).
+    Штаб окупаційних військ приписав армії Ічкерії обстріли міста Урус-Мартан у травні 1996 року, під час яких екіпажі російських гелікоптерів убивали городян(Citation: 27)(Citation: 988).
+    Російські військові не раз заявляли, що армія Ічкерії обороняється в мечетях і пам'ятках культури.
+    Директор Національного музею Чеченської Республіки Іса Адаєв у травні 1996 року сказав громадському трибуналу фонду «Гласність» у Празі, що це неправда(Citation: 988).
+    Генерал Шаманов, який командував штурмом села Махкети, записав у бійці армії Ічкерії мирних чеченців, яких російські війська вбили там у липні 1996 року(Citation: 27)(Citation: 1127).
+
+    У серпні 1996 року, коли Збройні сили Ічкерії оточили окупантів у Грозному, командування окупаційних військ і міністр оборони Росії Родіонов оголошували, що контролюють центр міста(Citation: 27)(Citation: 1366).
+
+    Правозахисники «Меморіалу» пишуть, що багато повідомлень російських газет, радіо й телебачення про жорстокості армії Ічкерії з посиланням на офіційні російські джерела при перевірці виявилися брехнею(Citation: 27).
+
+    21 листопада 1997 року, майже через рік після того, як останні російські війська пішли з Ічкерії, заступник головного військового прокурора Росії Смирнов написав «Меморіалу», що Рошні-Чу бомбили вісім штурмовиків, чию належність прокуратура не встановила.
+    Прокурор заперечував, що в серпні 1996 року солдати 101-ї бригади внутрішніх військ МВС брали в заручники чеченських чоловіків біля «15-го городка», своєї бази в Грозному.
+    Бригада відпускала чоловіків, коли рідні виконували її вимоги (докладніше: «Захоплення заручників»)(Citation: 27).

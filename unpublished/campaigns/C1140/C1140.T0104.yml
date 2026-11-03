@@ -1,0 +1,31 @@
+type: procedure
+id: C1140.T0104
+created: 2026-06-26
+modified: 2026-06-26
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    НЕ ПОДТВЕРЖДЕНО ПЕРВОИСТОЧНИКОМ.
+    По имеющимся данным (только третичный источник - историк Т. Х. Ибрагимов через статью Википедии): продвигаясь вглубь Чечни, войска уничтожали мелкие села; значительная часть населения поверила заверениям царских генералов, что мирные села будут пощажены, и осталась на месте, что увеличило число жертв; потери среди небоеспособных жителей, не успевших покинуть зону боев, были, по этим оценкам, огромны, но учет им не велся.
+    Имперский замысел прямо предполагал удар по незащищенным: генерал Гудович сожалел, что не удалось застать жителей прежде, чем они укроют «скот и семейства» в горах.
+    В доступных первоисточниках (АКАК т. III, Потто, Дубровин, историк Д. А. Хожаев) массовое убийство мирных жителей в ходе похода не зафиксировано; сам АКАК косвенно отмечает, что чеченцы скрывали число своих убитых.
+    Требует подтверждения первоисточником (Ибрагимов или архив РГВИА) до публикации.
+  en: |-
+    NOT CONFIRMED BY A PRIMARY SOURCE.
+    According to the available data (only a tertiary source — historian T. Kh.
+    Ibragimov via a Wikipedia article): as the troops advanced deep into Chechnya, they destroyed small villages; a significant part of the population believed the assurances of the tsarist generals that peaceful villages would be spared and stayed in place, which increased the number of victims; losses among non-combatant inhabitants who did not manage to leave the combat zone were, by these estimates, enormous, but no record of them was kept.
+    The imperial design directly envisaged striking the unprotected: General Gudovich regretted that it had not been possible to catch the inhabitants before they hid their «livestock and families» in the mountains.
+    In the available primary sources (AKAK vol.
+    III, Potto, Dubrovin, historian D. A. Khozhaev), no mass killing of civilians during the campaign is recorded; AKAK itself indirectly notes that Chechens concealed the number of their dead.
+    Requires confirmation by a primary source (Ibragimov or the RGVIA archive) before publication.
+  uk: |-
+    НЕ ПІДТВЕРДЖЕНО ПЕРШОДЖЕРЕЛОМ.
+    За наявними даними (лише третинне джерело — історик Т. Х. Ібрагімов через статтю Вікіпедії): просуваючись углиб Чечні, війська знищували дрібні села; значна частина населення повірила запевненням царських генералів, що мирні села будуть помилувані, і залишилася на місці, що збільшило кількість жертв; втрати серед небоєздатних жителів, які не встигли покинути зону боїв, були, за цими оцінками, величезними, але їх облік не вівся.
+    Імперський задум прямо передбачав удар по незахищених: генерал Гудович шкодував, що не вдалося застати жителів, перш ніж вони сховають «худобу й родини» в горах.
+    У доступних першоджерелах (АКАК т. III, Потто, Дубровін, історик Д. А. Хожаєв) масове вбивство мирних жителів під час походу не зафіксоване; сам АКАК опосередковано зазначає, що Чеченці приховували число своїх убитих.
+    Потребує підтвердження першоджерелом (Ібрагімов або архів РДВІА) до публікації.

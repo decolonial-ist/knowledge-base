@@ -1,0 +1,27 @@
+type: procedure
+id: C0001.T0088
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique: T0088
+people: ukrainians
+actor: G0008
+tool: S0009
+contributors: []
+description:
+  ru: |-
+    Московское царство использовало критическое положение Гетманщины, чтобы навязать формат подчинения, изначально отказавшись брать на себя симметричные обязательства.
+    На требование казаков о взаимной присяге царский посол ответил отказом - по отчёту самого посольства, присягать за государя «такого никогда не бывало и не будет, и гетману даже говорить такого не подобает, ибо всякий подданный должен присягать своему государю»(Citation: 249); Хмельницкому пришлось трижды за день 18 (8) января 1654 созывать раду, но Бутурлин, сославшись на самодержавный характер власти российского монарха, отказал и во второй раз(Citation: 195).
+    Сам «договор» не был двусторонним актом: «Оригиналы документов договора не сохранились.
+    Известны только их копии и черновики»; украинская сторона подавала условия «в форме прошений-челобитных к царю», а «акты царского правительства имели форму „пожалований“ со стороны царя»(Citation: 185) - письменные условия оформлены лишь в Москве в марте 1654 года.
+  en: |-
+    The Tsardom of Muscovy exploited the critical position of the Hetmanate to impose a format of subordination, refusing from the outset to take on symmetrical obligations.
+    To the Cossacks' demand for a mutual oath the tsar's envoy answered with a refusal - by the embassy's own report, swearing on behalf of the sovereign was "a thing that has never happened and never will, and it is unbecoming for the hetman even to say such things, for every subject must swear to his sovereign"(Citation: 249); Khmelnytsky had to convene the council three times in a single day, 18 (8) January 1654, yet Buturlin, citing the autocratic character of the Russian monarch's power, refused a second time(Citation: 195).
+    The "treaty" itself was not a bilateral act: "The originals of the treaty documents have not survived.
+    Only their copies and drafts are known"; the Ukrainian side submitted its terms "in the form of petitions to the tsar," while "the acts of the tsarist government took the form of 'grants' from the tsar"(Citation: 185) - the written terms were drawn up only in Moscow in March 1654.
+  uk: |-
+    Московське царство скористалося критичним становищем Гетьманщини, щоб нав'язати формат підпорядкування, від початку відмовившись брати на себе симетричні зобов'язання.
+    На вимогу козаків про взаємну присягу царський посол відповів відмовою - за звітом самого посольства, присягати за государя «такого ніколи не бувало ані буде, і гетьманові навіть говорити такого не личить, бо всякий підданий повинен присягати свому государеві»(Citation: 249); Хмельницькому довелося тричі за день 18 (8) січня 1654 скликати раду, але В.Бутурлін, пославшись на самодержавний характер влади рос. монарха, відмовив і вдруге(Citation: 195).
+    Сам «договір» не був двостороннім актом: «Оригінали документів договору не збереглися.
+    Відомі тільки їхні копії та чернетки»; «Укр. сторона подала свої умови у формі прохань-чолобитних до царя.
+    Акти царського уряду мали форму „пожалувань“ з боку царя»(Citation: 185) - письмові умови оформлено лише в Москві у березні 1654 року.

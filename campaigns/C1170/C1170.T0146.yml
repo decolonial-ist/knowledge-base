@@ -1,0 +1,22 @@
+type: procedure
+id: C1170.T0146
+created: 2026-08-03
+modified: 2026-08-03
+version: '1.0'
+technique: T0146
+people: nokhchi
+actor: G0009
+tool: S0012
+contributors: []
+description:
+  ru: |-
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: штрафные суммы расходовались на содержание ссыльных и секретной агентуры, а порой покрывали растраты чиновников - в 1893 году начальник Надтеречного участка поручик Томашевский растратил свыше 300 рублей, собранных с чеченских селений(Citation: 125).
+    Характер власти признал изнутри полковник Белик, назначенный в 1860 году первым начальником Чеченского округа; позднее он писал: в Чечне «господствует большей частию не закон, а произвол, часто основанный на недобросовестности начальника, и тем самым мы только поселяем в народе недоверие к себе, даже ненависть»(Citation: 125).
+  en: |-
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: fine moneys were spent on maintaining exiles and secret agents, and at times covered officials' embezzlement - in 1893 the head of the Nadterechny uchastok, lieutenant Tomashevsky, embezzled over 300 rubles collected from Chechen villages(Citation: 125).
+    The nature of the power was admitted from within by colonel Belik, appointed in 1860 the first head of the Chechen okrug; he later wrote: in Chechnya "there reigns for the most part not law but arbitrary rule, often founded on the dishonesty of the chief, and thereby we only sow in the people distrust of ourselves, even hatred"(Citation: 125).
+  uk: |-
+    Історики Я. З. Ахмадов і Е. Х. Хасмагомадов пишуть: штрафні суми витрачалися на утримання засланців і секретної агентури, а часом покривали розтрати чиновників - у 1893 році начальник Надтеречної дільниці поручик Томашевський розтратив понад 300 рублів, зібраних із чеченських селищ(Citation: 125).
+    Характер влади визнав зсередини полковник Бєлік, призначений 1860 року першим начальником Чеченського округу; пізніше він писав: у Чечні «панує здебільшого не закон, а свавілля, часто засноване на недобросовісності начальника, і тим самим ми лише сіємо в народі недовіру до себе, навіть ненависть»(Citation: 125).

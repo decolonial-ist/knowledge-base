@@ -1,0 +1,35 @@
+type: procedure
+id: C1182.T0117.001
+created: 2026-09-06
+modified: 2026-09-06
+version: '1.0'
+technique: T0117.001
+people: nokhchi
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    В 1965-1989 годах колонизатор завозил на заводы Грозного рабочих из России и давал им жильё, а чеченцев выталкивал из республики на заработки и на постоянное жительство в другие области.
+    Историки Я. З. Ахмадов и Э. Х. Хасмагомадов пишут: «за 30 лет, прошедших после возвращения чеченцев и ингушей на Родину, только 16% работников нефтеперерабатывающих и нефтехимических предприятий Чечено-Ингушетии были чеченцами или ингушами», в радиотехнической промышленности - 14 %, в приборостроении - 6 %, а недостающие рабочие и инженеры «завозились из российских регионов путем организованного набора.
+    Причем отдельные специалисты получали ключи от квартир прямо на вокзале»(Citation: 125).
+    Историки пишут: «Ежегодно более 100 тысяч человек, объединенных в строительные бригады, выезжало за пределы Чечено-Ингушетии на строительные работы»(Citation: 125); историки Д. Б. Абдурахманов и Я. З. Ахмадов пишут, что семье в пять-шесть человек при зарплате работника совхоза в 60-80 рублей оставалась «или «шабашка» – тяжелый 14 – 16-часовый труд на стройках сельских районов страны или отъезд на постоянное жительство в Калмыкию, Ростовскую, Астраханскую, Волгоградскую области на животноводческие фермы»(Citation: 631).
+    Со второй половины 1980-х годов оккупационная администрация региона по договорам с Калининской, Новгородской и Омской областями отправляла сельчан на жительство в Нечерноземье(Citation: 125).
+    Перепись 1989 года насчитала в СССР 956 879 чеченцев, из них в Чечено-Ингушетии - 734 501: почти каждый четвёртый жил вне республики(Citation: 636); историки пишут: «главная причина миграции заключалась в безработице»(Citation: 125).
+  en: |-
+    In 1965-1989 the coloniser brought workers from Russia to the factories of Grozny and gave them housing, while pushing the Chechens out of the republic to seek work and permanent residence in other regions.
+    Historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov write: "in the 30 years since the return of the Chechens and the Ingush to their Homeland, only 16% of the workers of the oil-refining and petrochemical enterprises of Chechen-Ingushetia were Chechens or Ingush", in the radio-engineering industry 14 %, in instrument-making 6 %, while the missing workers and engineers "were brought in from Russian regions by way of organised recruitment.
+    Moreover, some specialists received the keys to their flats right at the railway station"(Citation: 125).
+    The historians write: "Every year more than 100 thousand people, organised in construction brigades, left Chechen-Ingushetia for construction work"(Citation: 125); historians D. B. Abdurakhmanov and Ya.
+    Z. Akhmadov write that a family of five or six, on a state-farm worker's wage of 60-80 roubles, was left with "either 'shabashka' - hard 14-16-hour labour on construction sites in rural districts of the country, or departure for permanent residence in Kalmykia, the Rostov, Astrakhan and Volgograd regions to work on livestock farms"(Citation: 631).
+    From the second half of the 1980s the region's occupation administration, under agreements with the Kalinin, Novgorod and Omsk regions, sent villagers to settle in the Non-Black-Earth zone(Citation: 125).
+    The census of 1989 counted 956,879 Chechens in the USSR, of whom 734,501 lived in Chechen-Ingushetia: almost every fourth lived outside the republic(Citation: 636); the historians write: "the main cause of migration was unemployment"(Citation: 125).
+  uk: |-
+    У 1965-1989 роках колонізатор завозив на заводи Грозного робітників із Росії і давав їм житло, а чеченців виштовхував із республіки на заробітки та на постійне проживання в інші області.
+    Історики Я. З. Ахмадов та Е. Х. Хасмагомадов пишуть: «за 30 років, що минули після повернення чеченців та інгушів на Батьківщину, лише 16% працівників нафтопереробних і нафтохімічних підприємств Чечено-Інгушетії були чеченцями чи інгушами», у радіотехнічній промисловості - 14 %, у приладобудуванні - 6 %, а робітників та інженерів, яких бракувало, «завозили з російських регіонів шляхом організованого набору.
+    Причому окремі спеціалісти отримували ключі від квартир просто на вокзалі»(Citation: 125).
+    Історики пишуть: «Щороку понад 100 тисяч осіб, об'єднаних у будівельні бригади, виїжджало за межі Чечено-Інгушетії на будівельні роботи»(Citation: 125); історики Д. Б. Абдурахманов та Я. З. Ахмадов пишуть, що сім'ї з п'яти-шести осіб при зарплаті працівника радгоспу в 60-80 карбованців лишалася «або «шабашка» - важка 14-16-годинна праця на будовах сільських районів країни, або від'їзд на постійне проживання до Калмикії, Ростовської, Астраханської, Волгоградської областей на тваринницькі ферми»(Citation: 631).
+    З другої половини 1980-х років окупаційна адміністрація регіону за договорами з Калінінською, Новгородською та Омською областями відправляла селян на проживання до Нечорнозем'я(Citation: 125).
+    Перепис 1989 року нарахував у СРСР 956 879 чеченців, із них у Чечено-Інгушетії - 734 501: майже кожен четвертий жив поза республікою(Citation: 636); історики пишуть: «головна причина міграції полягала в безробітті»(Citation: 125).

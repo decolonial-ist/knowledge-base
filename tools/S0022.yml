@@ -1,0 +1,21 @@
+type: tool
+id: S0022
+created: 2026-04-27
+modified: 2026-08-09
+version: '1.1'
+kind: tool
+name:
+  ru: Карательная медицина и психиатрия
+  en: Punitive Medicine and Psychiatry
+  uk: Каральна медицина та психіатрія
+contributors: []
+description:
+  ru: |-
+    Использование государственного аппарата здравоохранения, психиатрических клиник и научно-исследовательских институтов в качестве карательного инструмента.
+    Система медицинских учреждений превращается в продолжение репрессивного аппарата: врачи под контролем спецслужб фабрикуют политически мотивированные диагнозы (например, несуществующую «вялотекущую шизофрению»), а закрытые лечебницы используются как тюрьмы для бессрочной изоляции и медикаментозных пыток инакомыслящих (Citation: 31).
+  en: |-
+    The use of the state healthcare apparatus, psychiatric clinics, and research institutes as a punitive instrument.
+    The system of medical institutions is turned into an extension of the repressive apparatus: doctors under the control of the security services fabricate politically motivated diagnoses (for example, the nonexistent "sluggish schizophrenia"), while closed institutions are used as prisons for the indefinite isolation and drug-induced torture of dissenters (Citation: 31).
+  uk: |-
+    Використання державного апарату охорони здоров'я, психіатричних клінік і науково-дослідних інститутів як карального інструмента.
+    Система медичних закладів перетворюється на продовження репресивного апарату: лікарі під контролем спецслужб фабрикують політично вмотивовані діагнози (наприклад, неіснуючу «млявоплинну шизофренію»), а закриті лікарні використовуються як в'язниці для безстрокової ізоляції та медикаментозних тортур інакодумців (Citation: 31).

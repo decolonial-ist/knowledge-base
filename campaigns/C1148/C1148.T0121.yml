@@ -1,0 +1,20 @@
+type: procedure
+id: C1148.T0121
+created: 2026-06-27
+modified: 2026-06-27
+version: '1.0'
+technique: T0121
+people: nokhchi
+actor: G0009
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Российская империя обрекала жителей нохчи на голод, разоряя их сёла, посевы и запасы.
+    Историк Д. А. Хожаев пишет, что после ермоловского похода, лишённые крова и пищи, «люди умирали от голода, холода и болезней»(Citation: 95).
+  en: |-
+    The Russian Empire condemned the Nokhchi inhabitants to famine by ravaging their villages, crops, and stores.
+    Historian D. A. Khozhaev writes that after Yermolov's campaign, deprived of shelter and food, «people were dying of hunger, cold, and disease»(Citation: 95).
+  uk: |-
+    Російська імперія прирікала жителів Нохчі на голод, розоряючи їхні села, посіви та запаси.
+    Історик Д. А. Хожаєв пише, що після єрмоловського походу, позбавлені даху й їжі, «люди помирали від голоду, холоду і хвороб»(Citation: 95).

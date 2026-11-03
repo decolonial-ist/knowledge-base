@@ -1,0 +1,17 @@
+type: procedure
+id: C0081.T0017
+created: 2026-04-27
+modified: 2026-07-31
+version: '1.0'
+technique: T0017
+people: ukrainians
+actor: G0010
+tool: S0008
+contributors: []
+description:
+  ru: 'Официальное присоединение оккупированных земель: западноукраинские земли включены в СССР по договору с Германией от 28 сентября 1939 года(Citation: 194), а «После того как в конце июня 1940 Красная армия заняла Бессарабию и Северную Буковину, 2 августа 1940 ВС СССР присоединил Северную Буковину, Хотинский, Аккерманский и Измаильский уезды Бессарабии к УССР»(Citation: 185).'
+  en: 'The official annexation of the occupied lands: the western Ukrainian lands were incorporated into the USSR under the treaty with Germany of September 28, 1939(Citation: 194), and "after the Red Army occupied Bessarabia and Northern Bukovyna at the end of June 1940, on August 2, 1940 the Supreme Soviet of the USSR annexed Northern Bukovyna and the Khotyn, Akkerman, and Izmail districts of Bessarabia to the Ukrainian SSR"(Citation: 185).'
+  uk: |-
+    Офіційне приєднання окупованих земель: західноукраїнські землі включено до СРСР за договором із Німеччиною від 28 вересня 1939 року(Citation: 194), а «Після того, як наприкінці черв. 1940 Червона армія зайняла Бессарабію та Буковину Північну, 2 серп. 1940 ВР СРСР приєднала Пн.
+    Буковину, Хотинський, Акерманський та Iзмаїльський пов.
+    Бессарабії до УРСР»(Citation: 185).

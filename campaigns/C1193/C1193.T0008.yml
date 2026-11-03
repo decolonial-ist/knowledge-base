@@ -1,0 +1,143 @@
+type: procedure
+id: C1193.T0008
+created: 2026-10-24
+modified: 2026-10-24
+version: '1.0'
+technique: T0008
+people: nokhchi
+actor: G0011
+tool: S0008
+contributors: []
+description:
+  ru: |-
+    Осенью 1994 года Россия напала на Чеченскую Республику Ичкерия под именем марионеточной оппозиции, а 11 декабря 1994 года российская армия открыто вторглась в республику.
+    Россия не признавала Ичкерию независимым государством, а её избранных президента и правительство - стороной войны и переговоров.
+
+    9 декабря 1994 года, за два дня до открытого вторжения, председатель правительства России Черномырдин постановлением № 1360 приказал МВД и министерству обороны разоружить «незаконные вооруженные формирования» (так Россия называла Вооружённые силы Ичкерии)(Citation: 651). 17 декабря президент России Ельцин указом № 2200 создал для Ичкерии российскую администрацию. 20 декабря правительство России постановлением № 1411 обязало все предприятия, организации и учреждения республики исполнять решения этой администрации (подробнее: «Установка новой системы управления»)(Citation: 27).
+
+    Президент, министры и генералы России всю войну отказывались вести переговоры с руководством Ичкерии или требовали сначала сдать оружие и распустить её армию(Citation: 27).
+
+    1 февраля 1995 года исполнявший обязанности генерального прокурора России Ильюшенко обвинил Джохара Дудаева, избранного президента Ичкерии, в государственной измене, призывах к терроризму, нарушении национального и расового равенства и закона о референдумах(Citation: 1369).
+    Генеральная прокуратура России выдала ордер на арест чеченского президента и объявила его во всероссийский розыск(Citation: 27).
+
+    30 июля 1995 года Россия подписала с Ичкерией соглашение о прекращении военных действий.
+    Российская делегация приписала к его первой строке, что Ичкерия не признана законодательством России(Citation: 1580)(Citation: 1131).
+
+    12 декабря 1994 года, на следующий день после открытого вторжения, российская делегация на переговорах во Владикавказе, столице Северной Осетии, потребовала от представителей Ичкерии признать республику частью России(Citation: 27).
+
+    17 декабря 1994 года президент Ичкерии Джохар Дудаев сообщил Ельцину телеграммой, что приказал прекратить огонь по российским войскам, и предложил без предварительных условий начать переговоры, которые возглавит сам(Citation: 1342). 18 декабря Ельцин телеграммой велел президенту Ичкерии в тот же день явиться в Моздок, город в подконтрольной России Северной Осетии, к штабу оккупационных войск и подписать документ о сдаче оружия и прекращении огня(Citation: 1342)(Citation: 27).
+    Пресс-служба президента России сообщила российскому агентству ИТАР-ТАСС, что на следующие телеграммы чеченского президента отвечать не будут(Citation: 1343). 23 декабря Джохар Дудаев передал через российского уполномоченного по правам человека Сергея Ковалёва министру иностранных дел России Козыреву, что готов немедленно прекратить огонь и вести переговоры обо всём, в том числе о разоружении армии Ичкерии, но ответа из Москвы не получил(Citation: 27). 27 декабря Ельцин в обращении по телевидению к гражданам России объявил: «режим в Грозном [так президент России называл правительство Ичкерии] незаконен», а о переговорах сказал: «Предмет переговоров - прекращение огня и сдача оружия»(Citation: 747)(Citation: 27). 31 декабря российская армия начала штурм Грозного, столицы Ичкерии (подробнее: «Военная интервенция»)(Citation: 27).
+
+    18 января 1995 года президент России Ельцин сказал по российскому телевидению, что с Джохаром Дудаевым говорить не будет(Citation: 27).
+    С февраля по июнь 1995 года министр обороны России Грачёв и командующий оккупационными войсками Куликов отвечали на предложения Аслана Масхадова, начальника Главного штаба Вооружённых сил Ичкерии, о перемирии, что будут говорить только о сдаче оружия и роспуске армии Ичкерии(Citation: 654)(Citation: 27)(Citation: 1411). 19 мая 1995 года Ельцин отклонил закон, которым 12 апреля российские депутаты поручили правительству России немедленно начать прямые переговоры с руководством Ичкерии без предварительных условий(Citation: 27)(Citation: 1373). 5 июля 1995 года, через две недели после начала переговоров с Ичкерией в Грозном, председатель правительства России Черномырдин и российские переговорщики объявили, что не будут обсуждать её статус(Citation: 27).
+
+    10 января 1996 года председатель правительства России Черномырдин сказал: «Чечня — это Россия»(Citation: 1122). 11 января правительство России в письме Генеральному секретарю ООН назвало причиной войны власть Ичкерии, объявив её незаконной, а саму Ичкерию - частью России(Citation: 658). 7 апреля министр России по делам национальностей Михайлов сказал, что сторонами переговоров должны стать командиры Вооружённых сил Ичкерии. 17 апреля министр юстиции России Ковалёв заявил, что с Джохаром Дудаевым, «субъектом уголовного процесса», прямые переговоры невозможны, и предложил ему прийти в российский суд. 21 апреля российские военные убили президента Ичкерии (подробнее: «Нейтрализация оппозиции»). 25 апреля министр юстиции Ковалёв объявил, что переговоры с командирами Вооружённых сил Ичкерии поведёт марионеточное правительство в Грозном(Citation: 27).
+
+    27 мая 1996 года президент России Ельцин принимал в Кремле на переговорах о прекращении огня делегацию Ичкерии во главе с Зелимханом Яндарбиевым, исполнявшим обязанности президента Ичкерии.
+    Российские организаторы встречи отвели представителям Ичкерии места сбоку стола, а Ельцин сел во главе.
+    Зелимхан Яндарбиев потребовал сесть напротив президента России, как на переговорах двух государств, и на «Садитесь» Ельцина ответил ему за столом переговоров: «Я таким тоном не сяду».
+    Президент России пересел на середину стола(Citation: 1134).
+    Российская делегация не вписала в договорённость о прекращении огня названия сторон, и председатель правительства России Черномырдин с Зелимханом Яндарбиевым подписались под ней фамилиями без должностей.
+    Министр России по делам национальностей Михайлов объяснил это журналистам на пресс-конференции в российском агентстве «Интерфакс»: «Если написать было бы «Ичкерия», то практически признавать существование республики, которая не существует...»(Citation: 1134). 28 мая российские организаторы встречи не дали делегации Ичкерии встретиться с московскими журналистами, и вечером делегация улетела в подконтрольную России Ингушетию(Citation: 27).
+
+    25 июля 1996 года генерал Пуликовский, исполнявший обязанности командующего оккупационными войсками, сказал журналистам, что с командирами Вооружённых сил Ичкерии обсудит только место и время сдачи оружия(Citation: 1421). 28 июля Пуликовский ответил в эфире российского телеканала РТР на предложение Аслана Масхадова обсудить прекращение войны, что не знает, где искать руководство Ичкерии(Citation: 1161)(Citation: 27).
+
+    Правозащитники «Мемориала» пишут, что президент и правительство России называли войну своим внутренним делом(Citation: 27).
+
+    31 августа 1996 года генерал Лебедь, секретарь Совета безопасности России, и Аслан Масхадов, начальник Главного штаба Вооружённых сил Ичкерии, подписали в Хасавюрте, городе в подконтрольном России Дагестане, соглашения о выводе оккупационных войск (подробнее: «Фиктивные договоры»).
+    Россия и Ичкерия отложили решение о независимости Ичкерии на пять лет, до 31 декабря 2001 года(Citation: 661)(Citation: 27).
+    Слова «Ичкерия» в соглашениях нет: республика названа Чеченской Республикой(Citation: 661).
+    В сентябре 1999 года российская армия вторглась в Ичкерию во второй раз после 1994 года(Citation: 27).
+  en: |-
+    In the autumn of 1994, Russia attacked the Chechen Republic of Ichkeria under the name of a puppet opposition, and on 11 December 1994 the Russian army openly invaded the republic.
+    Russia did not recognize Ichkeria as an independent state, nor its elected president and government as a party to the war and to negotiations.
+
+    On 9 December 1994, two days before the open invasion, Chernomyrdin, chairman of the Russian government, by Resolution No. 1360 ordered the Ministry of Internal Affairs and the Ministry of Defense to disarm the "illegal armed formations" (as Russia called the Armed Forces of Ichkeria)(Citation: 651).
+    On 17 December, Russian President Yeltsin, by Decree No. 2200, created a Russian administration for Ichkeria.
+    On 20 December, the Russian government, by Resolution No. 1411, obliged all enterprises, organizations and institutions of the republic to carry out the decisions of this administration (see: "Installation of a New System of Governance")(Citation: 27).
+
+    Throughout the war, the president, ministers and generals of Russia refused to negotiate with the leadership of Ichkeria or demanded that it first surrender its weapons and disband its army(Citation: 27).
+
+    On 1 February 1995, Ilyushenko, acting Prosecutor General of Russia, charged Dzhokhar Dudayev, the elected president of Ichkeria, with high treason, calls for terrorism, violation of national and racial equality and violation of the law on referendums(Citation: 1369).
+    The Prosecutor General's Office of Russia issued a warrant for the arrest of the Chechen president and put him on the all-Russian wanted list(Citation: 27).
+
+    On 30 July 1995, Russia signed an agreement with Ichkeria on the cessation of hostilities.
+    The Russian delegation added to its first line that Ichkeria was not recognized by the legislation of Russia(Citation: 1580)(Citation: 1131).
+
+    On 12 December 1994, the day after the open invasion, the Russian delegation at the negotiations in Vladikavkaz, the capital of North Ossetia, demanded that the representatives of Ichkeria recognize the republic as part of Russia(Citation: 27).
+
+    On 17 December 1994, Dzhokhar Dudayev, the president of Ichkeria, informed Yeltsin by telegram that he had ordered a ceasefire against the Russian troops and proposed to begin negotiations without preconditions, which he would lead himself(Citation: 1342).
+    On 18 December, Yeltsin by telegram ordered the president of Ichkeria to appear that same day in Mozdok, a town in Russian-controlled North Ossetia, at the headquarters of the occupation troops and to sign a document on the surrender of weapons and a ceasefire(Citation: 1342)(Citation: 27).
+    The press service of the Russian president told the Russian news agency ITAR-TASS that further telegrams from the Chechen president would not be answered(Citation: 1343).
+    On 23 December, Dzhokhar Dudayev conveyed through Sergei Kovalyov, the Russian human rights commissioner, to Russian Foreign Minister Kozyrev that he was ready to cease fire immediately and to negotiate on everything, including the disarmament of the army of Ichkeria, but received no answer from Moscow(Citation: 27).
+    On 27 December, Yeltsin, in a televised address to the citizens of Russia, declared: "the regime in Grozny [as the Russian president called the government of Ichkeria] is illegal", and of negotiations he said: "The subject of negotiations is a ceasefire and the surrender of weapons"(Citation: 747)(Citation: 27).
+    On 31 December, the Russian army began the storming of Grozny, the capital of Ichkeria (see: "Military Intervention")(Citation: 27).
+
+    On 18 January 1995, Russian President Yeltsin said on Russian television that he would not talk to Dzhokhar Dudayev(Citation: 27).
+    From February to June 1995, Russian Defense Minister Grachev and Kulikov, the commander of the occupation troops, replied to the proposals of a ceasefire from Aslan Maskhadov, the chief of the Main Staff of the Armed Forces of Ichkeria, that they would talk only about the surrender of weapons and the disbanding of the army of Ichkeria(Citation: 654)(Citation: 27)(Citation: 1411).
+    On 19 May 1995, Yeltsin rejected the law by which, on 12 April, Russian deputies had instructed the Russian government to begin direct negotiations with the leadership of Ichkeria immediately and without preconditions(Citation: 27)(Citation: 1373).
+    On 5 July 1995, two weeks after negotiations with Ichkeria began in Grozny, Chernomyrdin, chairman of the Russian government, and the Russian negotiators declared that they would not discuss its status(Citation: 27).
+
+    On 10 January 1996, Chernomyrdin, chairman of the Russian government, said: "Chechnya is Russia"(Citation: 1122).
+    On 11 January, the Russian government, in a letter to the UN Secretary-General, named the government of Ichkeria as the cause of the war, declaring it illegal and Ichkeria itself part of Russia(Citation: 658).
+    On 7 April, Mikhailov, Russian minister for nationalities, said that the parties to the negotiations should be the commanders of the Armed Forces of Ichkeria.
+    On 17 April, Russian Justice Minister Kovalyov declared that direct negotiations with Dzhokhar Dudayev, "a subject of criminal proceedings", were impossible, and invited him to come to a Russian court.
+    On 21 April, the Russian military killed the president of Ichkeria (see: "Neutralization of the Opposition").
+    On 25 April, Justice Minister Kovalyov announced that negotiations with the commanders of the Armed Forces of Ichkeria would be conducted by the puppet government in Grozny(Citation: 27).
+
+    On 27 May 1996, Russian President Yeltsin received in the Kremlin, for negotiations on a ceasefire, a delegation of Ichkeria headed by Zelimkhan Yandarbiyev, acting president of Ichkeria.
+    The Russian organizers of the meeting assigned the representatives of Ichkeria seats at the side of the table, while Yeltsin sat at its head.
+    Zelimkhan Yandarbiyev demanded to sit opposite the Russian president, as at negotiations between two states, and to Yeltsin's "Sit down" he replied across the negotiating table: "I will not sit down to that tone".
+    The Russian president moved to the middle of the table(Citation: 1134).
+    The Russian delegation did not write the names of the parties into the ceasefire agreement, and Chernomyrdin, chairman of the Russian government, and Zelimkhan Yandarbiyev signed it with their surnames and no titles.
+    Mikhailov, Russian minister for nationalities, explained this to journalists at a press conference at the Russian news agency Interfax: "If we had written 'Ichkeria', that would practically mean recognizing the existence of a republic that does not exist..."(Citation: 1134).
+    On 28 May, the Russian organizers of the meeting did not let the delegation of Ichkeria meet with Moscow journalists, and in the evening the delegation flew to Russian-controlled Ingushetia(Citation: 27).
+
+    On 25 July 1996, General Pulikovsky, acting commander of the occupation troops, told journalists that with the commanders of the Armed Forces of Ichkeria he would discuss only the place and time of the surrender of weapons(Citation: 1421).
+    On 28 July, Pulikovsky replied on air on the Russian television channel RTR to Aslan Maskhadov's proposal to discuss ending the war that he did not know where to look for the leadership of Ichkeria(Citation: 1161)(Citation: 27).
+
+    Human rights defenders of Memorial write that the president and government of Russia called the war their internal affair(Citation: 27).
+
+    On 31 August 1996, General Lebed, secretary of the Security Council of Russia, and Aslan Maskhadov, the chief of the Main Staff of the Armed Forces of Ichkeria, signed in Khasavyurt, a town in Russian-controlled Dagestan, the agreements on the withdrawal of the occupation troops (see: "Sham Treaties").
+    Russia and Ichkeria postponed the decision on the independence of Ichkeria for five years, until 31 December 2001(Citation: 661)(Citation: 27).
+    The word "Ichkeria" does not appear in the agreements: the republic is called the Chechen Republic(Citation: 661).
+    In September 1999, the Russian army invaded Ichkeria for the second time since 1994(Citation: 27).
+  uk: |-
+    Восени 1994 року Росія напала на Чеченську Республіку Ічкерія під іменем маріонеткової опозиції, а 11 грудня 1994 року російська армія відкрито вторглася в республіку.
+    Росія не визнавала Ічкерію незалежною державою, а її обраних президента та уряд - стороною війни і переговорів.
+
+    9 грудня 1994 року, за два дні до відкритого вторгнення, голова уряду Росії Черномирдін постановою № 1360 наказав МВС і міністерству оборони роззброїти «незаконні збройні формування» (так Росія називала Збройні сили Ічкерії)(Citation: 651). 17 грудня президент Росії Єльцин указом № 2200 створив для Ічкерії російську адміністрацію. 20 грудня уряд Росії постановою № 1411 зобов'язав усі підприємства, організації та установи республіки виконувати рішення цієї адміністрації (докладніше: «Встановлення нової системи управління»)(Citation: 27).
+
+    Президент, міністри та генерали Росії всю війну відмовлялися вести переговори з керівництвом Ічкерії або вимагали спершу здати зброю і розпустити її армію(Citation: 27).
+
+    1 лютого 1995 року виконувач обов'язків генерального прокурора Росії Ільюшенко звинуватив Джохара Дудаєва, обраного президента Ічкерії, у державній зраді, закликах до тероризму, порушенні національної та расової рівності й закону про референдуми(Citation: 1369).
+    Генеральна прокуратура Росії видала ордер на арешт чеченського президента й оголосила його у всеросійський розшук(Citation: 27).
+
+    30 липня 1995 року Росія підписала з Ічкерією угоду про припинення воєнних дій.
+    Російська делегація дописала до її першого рядка, що Ічкерію не визнає законодавство Росії(Citation: 1580)(Citation: 1131).
+
+    12 грудня 1994 року, наступного дня після відкритого вторгнення, російська делегація на переговорах у Владикавказі, столиці Північної Осетії, зажадала від представників Ічкерії визнати республіку частиною Росії(Citation: 27).
+
+    17 грудня 1994 року президент Ічкерії Джохар Дудаєв повідомив Єльцина телеграмою, що наказав припинити вогонь по російських військах, і запропонував без попередніх умов почати переговори, які очолить сам(Citation: 1342). 18 грудня Єльцин телеграмою звелів президентові Ічкерії того ж дня з'явитися в Моздок, місто в підконтрольній Росії Північній Осетії, до штабу окупаційних військ і підписати документ про здачу зброї та припинення вогню(Citation: 1342)(Citation: 27).
+    Пресслужба президента Росії повідомила російському агентству ІТАР-ТАРС, що на наступні телеграми чеченського президента відповідати не будуть(Citation: 1343). 23 грудня Джохар Дудаєв передав через російського уповноваженого з прав людини Сергія Ковальова міністрові закордонних справ Росії Козирєву, що готовий негайно припинити вогонь і вести переговори про все, зокрема про роззброєння армії Ічкерії, але відповіді з Москви не отримав(Citation: 27). 27 грудня Єльцин у телевізійному зверненні до громадян Росії оголосив: «режим у Грозному [так президент Росії називав уряд Ічкерії] незаконний», а про переговори сказав: «Предмет переговорів - припинення вогню і здача зброї»(Citation: 747)(Citation: 27). 31 грудня російська армія почала штурм Грозного, столиці Ічкерії (докладніше: «Воєнна інтервенція»)(Citation: 27).
+
+    18 січня 1995 року президент Росії Єльцин сказав на російському телебаченні, що з Джохаром Дудаєвим говорити не буде(Citation: 27).
+    З лютого по червень 1995 року міністр оборони Росії Грачов і командувач окупаційними військами Куліков відповідали на пропозиції Аслана Масхадова, начальника Головного штабу Збройних сил Ічкерії, про перемир'я, що говоритимуть лише про здачу зброї та розпуск армії Ічкерії(Citation: 654)(Citation: 27)(Citation: 1411). 19 травня 1995 року Єльцин відхилив закон, яким 12 квітня російські депутати доручили уряду Росії негайно почати прямі переговори з керівництвом Ічкерії без попередніх умов(Citation: 27)(Citation: 1373). 5 липня 1995 року, через два тижні після початку переговорів з Ічкерією в Грозному, голова уряду Росії Черномирдін і російські переговірники оголосили, що не обговорюватимуть її статус(Citation: 27).
+
+    10 січня 1996 року голова уряду Росії Черномирдін сказав: «Чечня — це Росія»(Citation: 1122). 11 січня уряд Росії в листі Генеральному секретареві ООН назвав причиною війни владу Ічкерії, оголосивши її незаконною, а саму Ічкерію - частиною Росії(Citation: 658). 7 квітня міністр Росії у справах національностей Михайлов сказав, що сторонами переговорів мають стати командири Збройних сил Ічкерії. 17 квітня міністр юстиції Росії Ковальов заявив, що з Джохаром Дудаєвим, «суб'єктом кримінального процесу», прямі переговори неможливі, і запропонував йому прийти до російського суду. 21 квітня російські військові вбили президента Ічкерії (докладніше: «Нейтралізація опозиції»). 25 квітня міністр юстиції Ковальов оголосив, що переговори з командирами Збройних сил Ічкерії вестиме маріонетковий уряд у Грозному(Citation: 27).
+
+    27 травня 1996 року президент Росії Єльцин приймав у Кремлі на переговорах про припинення вогню делегацію Ічкерії на чолі із Зелімханом Яндарбієвим, виконувачем обов'язків президента Ічкерії.
+    Російські організатори зустрічі відвели представникам Ічкерії місця збоку столу, а Єльцин сів на чолі.
+    Зелімхан Яндарбієв зажадав сісти навпроти президента Росії, як на переговорах двох держав, і на «Сідайте» Єльцина відповів йому за столом переговорів: «Я таким тоном не сяду».
+    Президент Росії пересів на середину столу(Citation: 1134).
+    Російська делегація не вписала в домовленість про припинення вогню назви сторін, і голова уряду Росії Черномирдін із Зелімханом Яндарбієвим підписалися під нею прізвищами без посад.
+    Міністр Росії у справах національностей Михайлов пояснив це журналістам на пресконференції в російському агентстві «Інтерфакс»: «Якби написати «Ічкерія», то це практично визнавати існування республіки, якої не існує...»(Citation: 1134). 28 травня російські організатори зустрічі не дали делегації Ічкерії зустрітися з московськими журналістами, і ввечері делегація полетіла в підконтрольну Росії Інгушетію(Citation: 27).
+
+    25 липня 1996 року генерал Пуліковський, виконувач обов'язків командувача окупаційними військами, сказав журналістам, що з командирами Збройних сил Ічкерії обговорить лише місце і час здачі зброї(Citation: 1421). 28 липня Пуліковський відповів в ефірі російського телеканалу РТР на пропозицію Аслана Масхадова обговорити припинення війни, що не знає, де шукати керівництво Ічкерії(Citation: 1161)(Citation: 27).
+
+    Правозахисники «Меморіалу» пишуть, що президент і уряд Росії називали війну своєю внутрішньою справою(Citation: 27).
+
+    31 серпня 1996 року генерал Лебедь, секретар Ради безпеки Росії, і Аслан Масхадов, начальник Головного штабу Збройних сил Ічкерії, підписали в Хасав'юрті, місті в підконтрольному Росії Дагестані, угоди про виведення окупаційних військ (докладніше: «Фіктивні договори»).
+    Росія та Ічкерія відклали рішення про незалежність Ічкерії на п'ять років, до 31 грудня 2001 року(Citation: 661)(Citation: 27).
+    Слова «Ічкерія» в угодах немає: республіку названо Чеченською Республікою(Citation: 661).
+    У вересні 1999 року російська армія вторглася в Ічкерію вдруге після 1994 року(Citation: 27).

@@ -1,0 +1,47 @@
+type: procedure
+id: C1180.T0104
+created: 2026-08-29
+modified: 2026-08-30
+version: '1.0'
+technique: T0104
+people: nokhchi
+actor: G0010
+tool: S0010
+contributors: []
+description:
+  ru: |-
+    Во время выселения каратели советского НКВД (предшественника современной ФСБ) убивали на месте чеченцев, которых не могли довезти до эшелонов, - тяжелобольных, стариков, женщин с детьми: в бумагах ведомства они шли как «нетранспортабельные». 27 февраля 1944 года в ауле Хайбах Галанчожского района каратели, по историкам Я. З. Ахмадову и Э. Х. Хасмагомадову, убили «свыше 700 человек»: собранных «нетранспортабельных» жителей Хайбаха и окрестных хуторов полковник Гвишиани, как пишут историки, «распорядился запереть... в конюшне местного колхоза им. Л. П. Берия, после чего сама конюшня была обложена сеном и подожжена»(Citation: 125).
+    Очевидец - заместитель народного комиссара (министра) юстиции республики Дзияудин Мальсагов - свидетельствовал: «Когда конюшню объяло пламя, огромные, сильно укрепленные ворота под натиском людей рухнули, и сквозь огонь толпа обезумевших людей хлынула наружу.
+    Гвишиани скомандовал: «Огонь!»
+    Из десятков стволов раздались автоматные и пулеметные очереди...
+    Никто не вырвался из огня и автоматной блокады.
+    Никто не спасся»(Citation: 125); Гвишиани получил от народного комиссара (министра) внутренних дел Берии, пишут историки, «персональную благодарность, представление к награде и повышение в звании»(Citation: 125).
+    Каратели убивали «нетранспортабельных» по всем горным районам: «47 тяжелобольных были умерщвлены и похоронены в одной яме на территории Урус-Мартановской районной больницы... по несколько десятков стариков, женщин и детей было сожжено в Цори, Таргиме и Гули.
+    Многих, бежавших в тот день из сел в горы или лес, расстреливали на месте без предупреждения»(Citation: 125); «в Итум-Калинском районе... дома набивали больными и забрасывали гранатами и бутылками с зажигательной смесью»(Citation: 125).
+    Историк З. С. Исакиева пишет: в конце марта 1944 года войска НКВД «расстреляли» жителей горной Малхисты, до которых в феврале не добрались из-за снегопада(Citation: 260).
+    Расстрелы больных чекисты фиксировали собственной перепиской: 28 мая 1944 года начальник Галанчожского оперативного сектора Гранский доносил заместителю народного комиссара (министра) госбезопасности Кобулову о «самочинных расстрелах над оставшимися после переселения чеченками-старухами, больными, калеками» - по одному только Начхоевскому сельсовету расстреляны «больные и калеки» числом «до 60 человек»(Citation: 554).
+  en: |-
+    During the deportation the punitive forces of the Soviet NKVD (predecessor of today's FSB) killed on the spot those Chechens who could not be brought to the trains - the gravely ill, the old, women with children: in the agency's papers they were listed as "untransportable."
+    On 27 February 1944 in the aul of Khaibakh, Galanchozh district, the punitive forces, according to historians Ya.
+    Z. Akhmadov and E. Kh.
+    Khasmagomadov, killed "over 700 people": Colonel Gvishiani, as the historians write, "ordered the 'untransportable' residents of Khaibakh and the surrounding hamlets locked... in the stable of the local collective farm named after L. P. Beria, after which the stable itself was piled round with hay and set on fire"(Citation: 125).
+    An eyewitness - Dziyaudin Malsagov, Deputy People's Commissar (Minister) of Justice of the republic - testified: "When the stable was engulfed in flames, the huge, heavily reinforced gates collapsed under the press of people, and through the fire a crowd of maddened people surged out.
+    Gvishiani commanded: 'Fire!' Automatic and machine-gun bursts rang out from dozens of barrels...
+    No one broke through the fire and the gun cordon.
+    No one was saved"(Citation: 125); Gvishiani received from People's Commissar (Minister) of Internal Affairs Beria, the historians write, "a personal commendation, a recommendation for a decoration and a promotion in rank"(Citation: 125).
+    The punitive forces killed the "untransportable" throughout the mountain districts: "47 gravely ill people were put to death and buried in a single pit on the grounds of the Urus-Martan district hospital... several dozen old people, women and children were burned in Tsori, Targim and Guli.
+    Many of those who fled that day from the villages into the mountains or forest were shot on the spot without warning"(Citation: 125); "in the Itum-Kale district... houses were packed with the sick and pelted with grenades and bottles of incendiary mixture"(Citation: 125).
+    Historian Z. S. Isakieva writes: at the end of March 1944 NKVD troops "shot" the residents of mountainous Malkhista, whom they had failed to reach in February because of snowfall(Citation: 260).
+    The Chekists recorded the shootings of the sick in their own correspondence: on 28 May 1944 the head of the Galanchozh operational sector Gransky reported to Deputy People's Commissar (Minister) of State Security Kobulov about the "unauthorized shootings of the elderly Chechen women, the sick and the crippled who remained after the resettlement" - in the Nachkhoevsky village soviet alone the "sick and crippled" shot numbered "up to 60 people"(Citation: 554).
+  uk: |-
+    Під час виселення карателі радянського НКВД (попередника сучасної ФСБ) вбивали на місці чеченців, яких не могли довезти до ешелонів, - тяжкохворих, старих, жінок з дітьми: у паперах відомства вони йшли як «нетранспортабельні». 27 лютого 1944 року в аулі Хайбах Галанчозького району карателі, за істориками Я. З. Ахмадовим та Е. Х. Хасмагомадовим, убили «понад 700 людей»: зібраних «нетранспортабельних» жителів Хайбаха та навколишніх хуторів полковник Гвішіані, як пишуть історики, «розпорядився замкнути... в стайні місцевого колгоспу ім.
+    Л. П. Берії, після чого саму стайню обклали сіном і підпалили»(Citation: 125).
+    Очевидець - заступник народного комісара (міністра) юстиції республіки Дзіяудін Мальсагов - свідчив: «Коли стайню охопило полум'я, величезні, сильно укріплені ворота під натиском людей упали, і крізь вогонь натовп збожеволілих людей ринув назовні.
+    Гвішіані скомандував: «Вогонь!»
+    З десятків стволів пролунали автоматні й кулеметні черги...
+    Ніхто не вирвався з вогню та автоматної блокади.
+    Ніхто не врятувався»(Citation: 125); Гвішіані отримав від народного комісара (міністра) внутрішніх справ Берії, пишуть історики, «персональну подяку, подання до нагороди та підвищення у званні»(Citation: 125).
+    Карателі вбивали «нетранспортабельних» по всіх гірських районах: «47 тяжкохворих були умертвлені й поховані в одній ямі на території Урус-Мартанівської районної лікарні... по кілька десятків старих, жінок і дітей було спалено в Цорі, Таргімі та Гулі.
+    Багатьох, хто втік того дня із сіл у гори чи ліс, розстрілювали на місці без попередження»(Citation: 125); «в Ітум-Калинському районі... будинки набивали хворими й закидали гранатами та пляшками із запалювальною сумішшю»(Citation: 125).
+    Історик З. С. Ісакієва пише: наприкінці березня 1944 року війська НКВД «розстріляли» жителів гірської Малхісти, до яких у лютому не дісталися через снігопад(Citation: 260).
+    Розстріли хворих чекісти фіксували власним листуванням: 28 травня 1944 року начальник Галанчозького оперативного сектору Гранський доносив заступникові народного комісара (міністра) держбезпеки Кобулову про «самочинні розстріли над старими чеченками, хворими й каліками, що залишилися після переселення» - по одній лише Начхоївській сільраді розстріляно «хворих і калік» числом «до 60 людей»(Citation: 554).
