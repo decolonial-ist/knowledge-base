@@ -1162,6 +1162,7 @@ def build(lang, now):
     USED_REFS.clear()
 
     out_path = output_path_for(lang)
+    os.makedirs(os.path.dirname(os.path.abspath(out_path)) or ".", exist_ok=True)
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(bundle_output, f, indent=4, ensure_ascii=False)
     print(f"Готово [{lang}]. Уникальных объектов: {len(final_objects)}. Файл: {out_path}")
