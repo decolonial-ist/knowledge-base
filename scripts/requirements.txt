@@ -4,3 +4,6 @@ jsonschema>=4.20
 # копия из таблицы Google (scripts/copy_from_sheet.py) - только локально, читающим ключом
 # google-api-python-client
 # google-auth
+# экспорт STIX (scripts/export_stix.py, CI после merge в main)
+pandas>=2.2
+stix2>=3.0

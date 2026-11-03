@@ -1,4 +1,6 @@
-# После merge в main: проставить modified / version изменённым сущностям (роль autostamp.gs таблицы).
+# После merge в main: 1) проставить modified / version изменённым сущностям (роль autostamp.gs таблицы),
+# 2) собрать три бандла STIX и слои Навигатора и положить их в релиз `stix` (постоянные адреса
+# releases/download/stix/<файл>), откуда их скачивает сборка сайта decolonial.ist.
 # Коммитит в main от имени github-actions; свой же коммит повторно не штампует (меняются только мета-поля).
 name: stamp-meta
 
@@ -34,3 +36,40 @@ jobs:
           git add -A tactics techniques actors tools campaigns MATERIALS.md
           git diff --cached --quiet || git commit -m "meta: modified/version для изменённых сущностей"
           git push
+
+  stix:
+    needs: stamp
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main            # уже со штампом дат из job stamp
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - name: export STIX bundles (ru, en, uk)
+        run: python scripts/export_stix.py
+      - name: navigator layers
+        run: |
+          python scripts/generate_layer.py dist/russia-colonialism.json    dist/colonial_full_layer.json    "DECOLONIAL.IST: все техники"
+          python scripts/generate_layer.py dist/russia-colonialism-en.json dist/colonial_full_layer-en.json "DECOLONIAL.IST: all techniques"
+          python scripts/generate_layer.py dist/russia-colonialism-uk.json dist/colonial_full_layer-uk.json "DECOLONIAL.IST: усі техніки"
+      - name: check bundles load as STIX
+        run: |
+          python - <<'EOF'
+          import json, stix2
+          for f in ("dist/russia-colonialism.json", "dist/russia-colonialism-en.json", "dist/russia-colonialism-uk.json"):
+              n = len(json.load(open(f, encoding="utf-8"))["objects"])
+              stix2.MemoryStore().load_from_file(f)
+              print(f, "объектов:", n)
+          EOF
+      - name: publish to release `stix`
+        run: |
+          git tag -f stix && git push -f origin stix
+          gh release view stix >/dev/null 2>&1 || gh release create stix --title "STIX bundles (latest main)" \
+            --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (ru, en, uk) и слои ATT&CK Navigator. Пересобираются при каждом merge в main; адреса файлов постоянные."
+          gh release edit stix --target main --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (ru, en, uk) и слои ATT&CK Navigator. Пересобираются при каждом merge в main; адреса файлов постоянные. Коммит: ${GITHUB_SHA}" >/dev/null
+          gh release upload stix dist/*.json --clobber

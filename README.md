@@ -21,6 +21,10 @@
 
 Источники живут в архиве https://archive.decolonial.ist: сноска в тексте - номер карточки, `(Citation: 1068)`; список номеров - `MATERIALS.md`. Нет вашего источника - поставьте в сноску ссылку, библиографию словами или файл из `sources/`, номер выдаст Архивариус.
 
+## STIX
+
+При каждом merge в `main` CI собирает базу в три бандла STIX 2.1 (`scripts/export_stix.py`) и слои ATT&CK Navigator и кладёт их в релиз `stix` с постоянными адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (русский), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Идентификаторы объектов стабильны: они выводятся из идентификаторов сущностей. Сайт decolonial.ist собирается из этих же файлов.
+
 ## Как предложить правку
 
 1. Откройте файл на GitHub и нажмите карандаш «Edit» (или кнопку «Предложить правку» на странице сайта).
@@ -54,6 +58,10 @@
 
 Джерела живуть в архіві https://archive.decolonial.ist: зноска в тексті - номер картки, `(Citation: 1068)`; список номерів - `MATERIALS.md`. Немає вашого джерела - поставте у зноску посилання, бібліографію словами або файл із `sources/`, номер видасть Архіваріус.
 
+### STIX
+
+За кожного merge у `main` CI збирає базу у три бандли STIX 2.1 (`scripts/export_stix.py`) і шари ATT&CK Navigator та кладе їх у реліз `stix` з постійними адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (російська), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Ідентифікатори об'єктів стабільні: вони виводяться з ідентифікаторів сутностей. Сайт decolonial.ist збирається з цих самих файлів.
+
 ### Як запропонувати правку
 
 1. Відкрийте файл на GitHub і натисніть олівець «Edit» (або кнопку «Запропонувати правку» на сторінці сайту).
@@ -86,6 +94,10 @@ A knowledge base on how Russia colonises peoples: the empire's actions described
 The file name is the identifier only; the names in three languages (`ru`, `en`, `uk`) are inside. In the prose, one sentence per line, a blank line between paragraphs: this way an edit in a pull request is visible sentence by sentence. The rules of the prose are in `CONTRIBUTING.md`.
 
 Sources live in the archive https://archive.decolonial.ist: a citation in the text is a card number, `(Citation: 1068)`; the list of numbers is `MATERIALS.md`. If your source is not there, put a link, a bibliography line or a file from `sources/` into the citation; the archivist assigns the number.
+
+### STIX
+
+On every merge into `main`, CI builds the base into three STIX 2.1 bundles (`scripts/export_stix.py`) and ATT&CK Navigator layers and puts them into the `stix` release at permanent addresses: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (Russian), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Object identifiers are stable: they derive from the entity identifiers. The decolonial.ist site is built from these same files.
 
 ### How to propose an edit
 
