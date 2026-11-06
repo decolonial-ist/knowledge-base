@@ -13,7 +13,7 @@ A knowledge base on how Russia colonises peoples: the empire's actions described
 | `actors/` | actors - who acts | `G0013.yml` |
 | `tools/` | tools | `S0010.yml` |
 | `campaigns/` | campaigns - a period or a system of policy against a people; the campaign folder holds its description and its procedures | `C1193/C1193.yml` |
-| `campaigns/<campaign>/` | procedures - a concrete application of a technique in a campaign, the main text of the base; the file carries the campaign and technique names | `C1193/C1193.T0023.yml` |
+| `campaigns/<campaign>/` | procedures - a concrete application of a technique in a campaign, the main text of the base; the file carries the names of the campaign, technique, actor and tool | `C1193/C1193.T0023.yml` |
 | `sources/` | source files awaiting intake into the archive; empty in `main` | |
 | `unpublished/` | what is not on the site, in the same layout; the site and the export do not read this folder, only the file shape is checked. To take off the site or bring back - move the file in one pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
 
@@ -50,7 +50,7 @@ License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
 | `actors/` | актори - хто діє | `G0013.yml` |
 | `tools/` | інструменти | `S0010.yml` |
 | `campaigns/` | кампанії - період або система політики проти народу; у папці кампанії її опис і процедури | `C1193/C1193.yml` |
-| `campaigns/<кампанія>/` | процедури - конкретне застосування техніки в кампанії, головний текст бази; у файлі назви кампанії й техніки | `C1193/C1193.T0023.yml` |
+| `campaigns/<кампанія>/` | процедури - конкретне застосування техніки в кампанії, головний текст бази; у файлі назви кампанії, техніки, актора та інструменту | `C1193/C1193.T0023.yml` |
 | `sources/` | файли джерел, які чекають на приймання в архів; у `main` порожня | |
 | `unpublished/` | те, чого на сайті немає, тією самою розкладкою; сайт і експорт папку не читають, перевіряється лише форма файлів. Зняти з сайту або повернути - перенесення файлу одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
 
@@ -87,7 +87,7 @@ License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
 | `actors/` | акторы - кто действует | `G0013.yml` |
 | `tools/` | инструменты | `S0010.yml` |
 | `campaigns/` | кампании - период или система политики против народа; в папке кампании её описание и процедуры | `C1193/C1193.yml` |
-| `campaigns/<кампания>/` | процедуры - конкретное применение техники в кампании, главный текст базы; в файле названия кампании и техники | `C1193/C1193.T0023.yml` |
+| `campaigns/<кампания>/` | процедуры - конкретное применение техники в кампании, главный текст базы; в файле названия кампании, техники, актора и инструмента | `C1193/C1193.T0023.yml` |
 | `sources/` | файлы источников, которые ждут приёмки в архив; в `main` пуста | |
 | `unpublished/` | то, чего на сайте нет, той же раскладкой; сайт и экспорт папку не читают, проверяется только форма файлов. Снять с сайта или вернуть - перенос файла одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
 

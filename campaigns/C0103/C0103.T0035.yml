@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительная паспортизация
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0024
+tool_name:
+  en: Police Apparatus
+  uk: Поліцейський апарат
+  ru: Полицейский аппарат
 contributors: []
 description:
   en: 'Coercing residents of the occupied territories into taking Russian passports: "the policy of mass conferral of Russian citizenship to residents of occupied areas of Kherson, Zaporizhzhia, Donetsk, and Luhansk regions exacerbated the coercive environment there," and "those who refused Russian passports were denied access to public services, notably social security, healthcare, and education, and risked unemployment" and "faced a heightened risk of arbitrary detention when crossing checkpoints"(Citation: 222).'

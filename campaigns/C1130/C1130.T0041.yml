@@ -14,7 +14,15 @@ technique_name:
   ru: Подселение чиновников и военных
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0025
+tool_name:
+  en: Militarized Settlers
+  uk: Воєнізовані поселенці
+  ru: Военизированные поселенцы
 contributors: []
 description:
   en: |-

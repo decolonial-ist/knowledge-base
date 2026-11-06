@@ -14,7 +14,15 @@ technique_name:
   ru: Мародерство
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'In December 1830, during the encirclement of the village of Daut-Martan, the troops of General Velyaminov appropriated the property of the fleeing inhabitants: the imperial historian Potto records that "the inhabitants managed to flee, but all their property became the booty of the detachment"(Citation: 78).'

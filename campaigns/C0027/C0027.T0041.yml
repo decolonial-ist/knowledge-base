@@ -14,7 +14,15 @@ technique_name:
   ru: Подселение чиновников и военных
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The empire''s forcible retention of the Right Bank: the Bila Tserkva fortress with its Muscovite garrison held out, and the campaign collapsed after the Tatars'' betrayal – "Orlyk retreated without taking Bila Tserkva"(Citation: 156), and his army disintegrated.'

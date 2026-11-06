@@ -14,7 +14,15 @@ technique_name:
   ru: Уничтожение исторической памяти
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'A covert operation by Muscovite emissaries disguised as monks to destroy ancient documents of the 11th–17th centuries: "The enormous archive and library burned down; the charters and grants… of princes, magnates, and hetmans perished"; "The fire destroyed the written memory of the Lavra''s independent Ukrainian political and spiritual life"(Citation: 210).'

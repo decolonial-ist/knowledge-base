@@ -14,7 +14,15 @@ technique_name:
   ru: Нейтрализация оппозиции
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0024
+tool_name:
+  en: Police Apparatus
+  uk: Поліцейський апарат
+  ru: Полицейский аппарат
 contributors: []
 description:
   en: 'The forcible neutralization of movement activists at the hands of the security structures and party apparatus: the dispersal of commemorative actions with beatings ("dragged out of the car, beaten") with the participation of the KGB and the militia(Citation: 233), the hospitalization of the beaten political prisoner Vasyl Ovsienko(Citation: 232), and the death of Rukh member Yevhen Melenivsky - after a "conversation" at the regional MVD directorate he "died on his way home"(Citation: 316), and later - the law enforcement bodies'' demonstrative disinterest in solving crimes against Rukh functionaries: they "demonstratively displayed disinterest in solving the crime"(Citation: 238).'

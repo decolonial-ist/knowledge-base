@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительное оформление подданства
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The occupation administration demanded that the Nokhchi mountain communities (the Shibutians) legally formalize their subordinate status: a report from the Terek voivodes Ivan Andreyevich Dashkov and Bogdan Gerasimovich Priklonsky to the Posolsky Prikaz records information about «the oath given by the Shibutians Lavarsan Yazyev and Zatyshka Lavarsanov on behalf of 20 households in 1627»(Citation: 82), with a direct injunction that they «not fall away from the sovereign and remain under the sovereign''s hand in outright bondage (kholopstvo)»(Citation: 82).'

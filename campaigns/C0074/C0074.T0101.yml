@@ -14,7 +14,15 @@ technique_name:
   ru: Цензура
 people: ukrainians
 actor: G0014
+actor_name:
+  en: White Movement (AFSR)
+  uk: Білий рух (ЗСПР)
+  ru: Белое движение (ВСЮР)
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: |-

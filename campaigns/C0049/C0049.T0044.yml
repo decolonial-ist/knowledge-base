@@ -14,7 +14,15 @@ technique_name:
   ru: Уничтожение локальных систем знаний
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The destruction of the basis for teaching children in their native language: "By a special circular of the Main Administration for Press Affairs in 1895, the printing of any books or collections in the Ukrainian language for children''s reading was forbidden, ''even if in the substance of their content they appeared well-intentioned.''" The censor''s resolution on a children''s collection: "Obviously written for children, but they must learn in Russian. — Forbid"(Citation: 181).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Аннексия территорий
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The legal formalization of the territory''s severance: the treaty on "accession" was signed on March 18, 2014, and the law ratifying it was "Adopted by the State Duma on March 20, 2014, approved by the Federation Council on March 21, 2014"(Citation: 204).'

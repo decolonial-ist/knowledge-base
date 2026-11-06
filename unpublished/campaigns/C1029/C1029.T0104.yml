@@ -14,7 +14,15 @@ technique_name:
   ru: Массовые убийства гражданских
 people: nokhchi
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Shooting of a column of vehicles carrying refugees from APCs near the stanitsa of Assinovskaya and crushing them with tanks (December 1994), and deliberate mass executions in the village of Samashki(Citation: 26)(Citation: 27).'

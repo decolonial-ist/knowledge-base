@@ -14,7 +14,15 @@ technique_name:
   ru: Мародерство
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'Representatives of the metropole''s authorities openly seized property from the Nokhchi population, abusing their official position: in their petition to Tsar Mikhail Fyodorovich, the service Okochans of the Terek town reported that the Kabardian prince Sunchaley Yanglychevich Cherkassky «having taken from us by force 8 good horses from the herd, sent them off to his kabaks (villages) in Kabarda»(Citation: 92)(Citation: 82).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Захват заложников
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The occupation administration used the taking of hostages from among the Indigenous population to guarantee the loyalty of the mountain societies of the Nokhchi: a dispatch from the Terek voivode Prince Venedikt Andreevich Obolensky and his associates to the Posolsky Prikaz in 1647 officially records the fact of «the giving of an amanat to the Terek town»(Citation: 82); the metropole instructed the voivodes «to order that amanats be taken from them — kinsmen of notable people»(Citation: 82), as a result of which the Highlanders «gave a good amanat to the Terek town, Kasa»(Citation: 82)(Citation: 83).'

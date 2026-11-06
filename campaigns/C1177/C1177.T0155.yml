@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительное разоружение
 people: nokhchi
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: |-

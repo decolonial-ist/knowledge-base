@@ -14,7 +14,15 @@ technique_name:
   ru: Террор
 people: nokhchi
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: |-

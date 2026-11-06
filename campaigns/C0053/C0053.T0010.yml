@@ -14,7 +14,15 @@ technique_name:
   ru: Непризнание самостоятельной идентичности
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The ideological course toward erasing nations: the Third Program of the CPSU, adopted by the 22nd Congress in October 1961, announced "a new stage in the development of national relations in the USSR, characterized by the further drawing together of nations and the achievement of their complete unity," and called "the effacement of national distinctions, especially of language distinctions," merely "a considerably longer process than the effacement of class boundaries"(Citation: 463).'

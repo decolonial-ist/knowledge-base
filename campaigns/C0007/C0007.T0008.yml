@@ -14,7 +14,15 @@ technique_name:
   ru: Лишение субъектности
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: '"In this provision of the articles, the tsarist government''s aspiration to turn Ukraine into a region incorporated into the Russian state on ordinary terms was openly declared for the first time"(Citation: 3).'

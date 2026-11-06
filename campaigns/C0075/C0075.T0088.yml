@@ -14,7 +14,15 @@ technique_name:
   ru: Фиктивные договоры
 people: ukrainians
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'Use of the "union treaty" format of June 1, 1919, and December 28, 1920, not to create an equal federation but as an instrument for legalizing direct, rigid rule from Moscow(Citation: 22).'

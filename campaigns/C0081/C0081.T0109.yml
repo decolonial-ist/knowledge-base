@@ -14,7 +14,15 @@ technique_name:
   ru: Имитация народного волеизъявления
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The staging of a no-alternative "People''s Assembly" under the control of occupation troops to give the seizure legal form: "On October 27 in Lviv, the People''s Assembly of Western Ukraine of 1939 adopted the Declaration on the reunification of Western Ukraine with the Ukrainian SSR, and on November 1 the Supreme Soviet of the USSR passed the law admitting Western Ukraine, as part of the Ukrainian SSR, into the USSR"(Citation: 185).'

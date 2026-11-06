@@ -14,7 +14,15 @@ technique_name:
   ru: Миграционное замещение
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: Artificial alteration of the demographic composition of the population in the occupied territories (for example, in destroyed Mariupol) by incentivizing the relocation of citizens of the Russian Federation and their mass purchase of housing, against the backdrop of squeezing out the indigenous residents.

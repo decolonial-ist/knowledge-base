@@ -14,7 +14,15 @@ technique_name:
   ru: Изъятие ресурсов
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'Mass dispossession and forced deportation of hundreds of thousands of resisting peasants (the so-called "kurkuls") to remote special settlements in Siberia and the North(Citation: 22).'

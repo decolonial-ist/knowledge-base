@@ -14,7 +14,15 @@ technique_name:
   ru: Ликвидация национальных общественных организаций
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The destruction of the diaspora''s educational structures: "1922: the liquidation of ''Prosvita'' in the Kuban, in Zelenyi Klyn, and in other places of Ukrainian residence in the USSR outside Ukraine"(Citation: 531).'

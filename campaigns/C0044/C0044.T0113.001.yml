@@ -14,7 +14,15 @@ technique_name:
   ru: Законодательный запрет родного языка
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: 'The mass confiscation of national educational and religious literature: "in 1769 the Holy Synod not only refused permission to print South Russian primers, but ordered the confiscation of those already in people''s hands, since the primers of that time were regarded as church books"(Citation: 159).'

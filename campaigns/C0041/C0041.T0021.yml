@@ -14,7 +14,15 @@ technique_name:
   ru: Нейтрализация оппозиции
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The otaman''s defection left the Cossacks remaining beyond the Danube exposed to the Porte''s retaliation and put an end to the last free Cossack host: the Danubian Sich "existed from the last quarter of the 18th century until 1828"(Citation: 189).'

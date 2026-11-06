@@ -14,7 +14,15 @@ technique_name:
   ru: Налогообложение
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The occupation administration used the physical loss of documents to artificially lower the social status of local residents for the purpose of taxing them economically: an extract of the Posolsky Prikaz concerning a petition to Tsar Mikhail Fyodorovich states that after «the sovereign''s charter of grant was lost», the heirs of the deceased Nokhchi delegate were stripped of their privileges and «made equal in everything with the Okochans, with the plowing people, and carts and wagons are exacted from them», whereas previously «no taxes whatsoever had been taken» from them(Citation: 82).'

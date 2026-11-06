@@ -14,7 +14,15 @@ technique_name:
   ru: Нейтрализация оппозиции
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'The neutralization of the politically active stratum through mass arrests: immediately after the "People''s Assembly" came "the arrests of leading figures of the Ukrainian intelligentsia, by lists prepared in advance, drawn up in the Soviet consulate"(Citation: 315); "in all, in 1939—1941 the NKVD organs arrested 21,982 Poles, 23,163 Ukrainians and 13,160 Jews"(Citation: 315), and those arrested faced execution, prison or the GULAG camps: "in total, during 1939—1941, between 16 and 35 thousand OUN members were shot or imprisoned"(Citation: 315).'

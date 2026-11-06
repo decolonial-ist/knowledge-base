@@ -14,7 +14,15 @@ technique_name:
   ru: Захват религиозных институтов
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'Mass closure and destruction of churches, as well as repressions against clergy, aimed at the complete destruction of the Ukrainian Autocephalous Orthodox Church (UAOC)(Citation: 22).'

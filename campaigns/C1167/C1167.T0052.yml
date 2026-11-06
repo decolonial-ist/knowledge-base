@@ -14,7 +14,15 @@ technique_name:
   ru: Изъятие ресурсов
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The clearings took from the Chechens the land that fed them, and the empire entered this seizure on its books: the order of Vorontsov, viceroy in the Caucasus, for the Separate Caucasus Corps of 5 January 1853 counted the result of the Qachqalyq clearing: "The construction of this clearing took away from the unsubdued Chechens a significant quantity of land, which could feed up to 1,500 souls"(Citation: 107).'

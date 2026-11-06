@@ -14,7 +14,15 @@ technique_name:
   ru: Аннексия территорий
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The severing of Bessarabia from the Ottoman Empire and its official annexation under the Peace of Bucharest: the treaty "confirmed the annexation of Bessarabia to Russia and the transfer of the border from the Dniester to the Prut down to its confluence with the Danube"(Citation: 196).'

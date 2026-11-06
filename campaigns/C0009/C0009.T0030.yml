@@ -14,7 +14,15 @@ technique_name:
   ru: Административно-территориальное деление
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The legal codification of the country''s split into two parts, with the Right Bank turned into a buffer zone: "Under the terms of the Eternal Peace, the Right Bank remained with Poland... it was agreed and resolved that those places are to remain deserted, as they now are"(Citation: 4)(Citation: 3).'

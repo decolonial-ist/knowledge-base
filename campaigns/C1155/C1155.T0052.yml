@@ -14,7 +14,15 @@ technique_name:
   ru: Изъятие ресурсов
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Following the campaign of August - September 1832, the troops of corps commander Rosen exacted tribute and fines in money and livestock from the Chechen villages: Rosen reported to Minister of War Chernyshev that in total over the campaign "tribute and fines in money and livestock have been paid... about 5 th. r. s. [five thousand rubles in silver]"(Citation: 105).'

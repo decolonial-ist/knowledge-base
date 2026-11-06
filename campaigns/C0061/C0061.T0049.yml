@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The mass enrollment of peasants into the militia: "The trigger was the publication, during the Crimean War of 1853–1856, of Emperor Nicholas I''s manifesto providing for the creation of a mobile state militia"(Citation: 192) - the manifesto and levy decrees of 29 January 1855 (Nos. 28.991–28.993); the Kyiv governorate was not on the list of governorates called up, and the peasants took the empire-wide summons as addressed to themselves(Citation: 449).'

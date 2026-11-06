@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительное оформление подданства
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The return of the Zaporozhian Sich under the empire''s authority on the crown''s terms: "For tactical reasons, in the course of preparations for the next Turkish war, Anna amnestied the Zaporozhians and allowed them to return to the old Sich grounds (1734) and found the New Sich"(Citation: 185) – the amnesty formalized the Cossacks'' passage under Russian authority with an obligation of military service.'

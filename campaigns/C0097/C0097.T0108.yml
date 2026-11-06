@@ -14,7 +14,15 @@ technique_name:
   ru: Экономическая блокада
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'Direct energy blackmail and the cut-off of gas supplies at the height of winter: on January 1, 2006 - "at 10.00am Moscow time on January 1, 2006, Gazprom cut off gas supplies to Ukraine"(Citation: 228); on January 1, 2009 - "Russian exports to Ukraine were cut off on 1 January," after which exports to the EU were "drastically reduced on 6 January and cut completely from 7 January," and in the worst-affected Balkan countries a humanitarian emergency ensued, with "parts of the populations unable to heat their homes"(Citation: 229).'

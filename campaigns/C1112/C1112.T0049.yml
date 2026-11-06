@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительная мобилизация
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The occupation administration obliged the subordinated Nokhchi societies to take part in military campaigns: historian E. N. Kusheva points to documents «on the possibility of the participation of Murza Shikh... in a campaign of Russian men-at-arms»(Citation: 82).'

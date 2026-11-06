@@ -8,8 +8,8 @@
      имя файла совпадает с полем id;
   2. ссылки существуют: тактики техник, родитель подтехники, кампания/техника/актор/инструмент
      процедуры, родитель кампании; список procedures кампании совпадает с файлами процедур;
-     campaign_name и technique_name процедуры равны name кампании и техники (куратор 06.11.2026; ставит
-     scripts/procedure_names.py);
+     campaign_name, technique_name, actor_name, tool_name процедуры равны name кампании, техники, актора и
+     инструмента; при пустом actor/tool поля с названием нет (куратор 06.11.2026; ставит scripts/procedure_names.py);
   3. сноски (Citation: N) ведут на карточку N в реестре архива (registry.json с archive.decolonial.ist
      или локальный файл через KB_REGISTRY); в трёх языках одной прозы - одинаковый набор сносок;
      сноски дат кампании тоже существуют. Сноска не по номеру - ссылка, библиография словами или файл
@@ -153,11 +153,15 @@ def main(root):
         if len({tuple(v) for v in sets.values()}) > 1:
             err(path, f"разный набор сносок по языкам: { {l: len(v) for l, v in sets.items()} }")
 
-    def check_names(path, p, camp, tech):
-        """campaign_name / technique_name - копии name кампании и техники; расхождение чинит procedure_names.py."""
-        for field, src, what in (("campaign_name", camp, "кампании"), ("technique_name", tech, "техники")):
+    def check_names(path, p, camp, tech, actor=None, tool=None):
+        """campaign_name / technique_name / actor_name / tool_name - копии name связанных сущностей; чинит procedure_names.py."""
+        for field, src, what in (("campaign_name", camp, "кампании"), ("technique_name", tech, "техники"),
+                                 ("actor_name", actor, "актора"), ("tool_name", tool, "инструмента")):
             if src and isinstance(src.get("name"), dict) and p.get(field) != {l: str(src["name"].get(l) or "") for l in LANGS}:
                 err(path, f"{field} не совпадает с name {what} {src.get('id')}: python scripts/procedure_names.py")
+        for field in ("actor", "tool"):
+            if not p.get(field) and p.get(field + "_name") is not None:
+                err(path, f"{field}_name без {field}: python scripts/procedure_names.py")
 
     def check_cit_list(path, lst, field):
         for k in lst or []:
@@ -196,7 +200,7 @@ def main(root):
             err(path, f"id должен быть «{cid}.{p.get('technique')}» (кампания.техника)")
         if cid in campaigns and campaigns[cid].get("people") != p.get("people"):
             err(path, f"народ процедуры не совпадает с народом кампании {cid}")
-        check_names(path, p, campaigns.get(cid), techniques.get(p.get("technique")))
+        check_names(path, p, campaigns.get(cid), techniques.get(p.get("technique")), actors.get(p.get("actor")), tools.get(p.get("tool")))
         check_prose(path, p.get("description"))
     for path, c in data["campaigns"].items():
         if not isinstance(c, dict):
@@ -238,7 +242,7 @@ def main(root):
                 if kind == "procedures" and isinstance(doc, dict):
                     cid = stem.split(".")[0]
                     unp_camp = next((c for c in unp_data["campaigns"].values() if isinstance(c, dict) and c.get("id") == cid), None)
-                    check_names(path, doc, unp_camp or campaigns.get(cid), techniques.get(doc.get("technique")))
+                    check_names(path, doc, unp_camp or campaigns.get(cid), techniques.get(doc.get("technique")), actors.get(doc.get("actor")), tools.get(doc.get("tool")))
         unp_counts = {k: len(v) for k, v in unp_data.items() if v}
 
     counts = {k: len(v) for k, v in data.items()}

@@ -14,7 +14,15 @@ technique_name:
   ru: Законодательный запрет родного языка
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Valuev''s secret circular to the censorship committees (18 July 1863), which halted printing in the native language: "the clearance of books in the Little Russian language, whether of religious content, educational, or generally intended for the people''s elementary reading, is to be suspended"(Citation: 151).'

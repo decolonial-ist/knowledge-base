@@ -14,7 +14,15 @@ technique_name:
   ru: Тотальное уничтожение инфраструктуры
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The 1941 scorched-earth tactic under the directive of the USSR Sovnarkom and the Central Committee of 29 June 1941: "In the forced withdrawal of Red Army units, drive off the rolling railway stock, leave the enemy not a single locomotive, not a single railcar"(Citation: 167); the Dnipro hydroelectric station was "destroyed at the beginning of the Great Patriotic War… (see the Directive of the USSR Council of People''s Commissars and the Central Committee of the VKP(b) of June 29, 1941)"(Citation: 186).'

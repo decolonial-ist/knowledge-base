@@ -14,7 +14,15 @@ technique_name:
   ru: Военная интервенция
 people: nokhchi
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Direct deployment of troops of the Russian Ministry of Defense and Ministry of Internal Affairs into the territory of Ichkeria on December 11, 1994, from three directions, on the basis of Yeltsin''s secret Decree No. 2137s(Citation: 26).'

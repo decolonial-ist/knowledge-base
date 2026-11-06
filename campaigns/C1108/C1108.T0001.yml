@@ -14,7 +14,15 @@ technique_name:
   ru: Навязывание образа отсталости
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The government of the Russian Empire justified expansion with ideas of enlightening undeveloped societies: historian Michael Khodarkovsky states the ambition of the metropole''s officials "to bring both Christianity and civilization to the ''wild and uncivilized'' peoples along its borders"(Citation: 70).'

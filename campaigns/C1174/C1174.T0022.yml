@@ -14,7 +14,15 @@ technique_name:
   ru: Террор
 people: nokhchi
 actor: G0014
+actor_name:
+  en: White Movement (AFSR)
+  uk: Білий рух (ЗСПР)
+  ru: Белое движение (ВСЮР)
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The Volunteer Army answered the uprising in Grozny in December 1919 with mass executions: after the suppression of the rising on the night of 23 December the insurgent leader Gikalo reported: "Right now there are nightmarish reprisals in Grozny: 79 people have been hanged and a mass of people shot"(Citation: 125).'

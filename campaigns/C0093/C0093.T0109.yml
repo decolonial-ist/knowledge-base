@@ -14,7 +14,15 @@ technique_name:
   ru: Имитация народного волеизъявления
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'A referendum with a vague formulation to legitimize union control: the ballot of the 17 March 1991 referendum asked voters to endorse "the preservation of the Union of Soviet Socialist Republics as a renewed federation of equal sovereign republics"(Citation: 178) – even though the content of the "renewed federation" was nowhere defined, while the result was then used as a mandate for a new union treaty.'

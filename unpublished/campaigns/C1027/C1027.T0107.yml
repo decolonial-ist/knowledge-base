@@ -14,7 +14,15 @@ technique_name:
   ru: Транспортная блокада
 people: nokhchi
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Complete suspension of rail, road, and air connections with the republic, and cancellation of flights to physically isolate the region(Citation: 26).'

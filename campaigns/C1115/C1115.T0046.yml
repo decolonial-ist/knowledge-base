@@ -14,7 +14,15 @@ technique_name:
   ru: Создание экономической зависимости
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The metropole''s administration did not pay for forced labor and withheld food provisions for five years: a memorandum from the Posolsky Prikaz (Ambassadorial Office) to the Prikaz of the Kazan Palace records a complaint that the subordinate Okochans of Tersky Town «were not given the sovereign''s grain allowance for the past years — for the 125th, and the 126th, and the 127th, and the 128th, and the 129th year»(Citation: 82).'

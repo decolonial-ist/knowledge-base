@@ -14,7 +14,15 @@ technique_name:
   ru: Тотальное уничтожение инфраструктуры
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'During the punitive campaign, the military detachments burned entire auls to the ground: in a petition to Tsar Mikhail Fyodorovich, the Kabardian prince Sunchaley Yanglychevich Cherkassky reported that they «burned down and utterly ruined many Shibut and Kalkan and Erokhan and Michkiz kabaks»(Citation: 82).'

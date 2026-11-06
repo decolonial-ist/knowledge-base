@@ -14,7 +14,15 @@ technique_name:
   ru: Культурная ассимиляция
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The Tsardom of Muscovy enshrined in state documents its course toward the complete absorption of the region: "Prince Vasily declared in the articles the beginning of the process of Russification"(Citation: 3).'

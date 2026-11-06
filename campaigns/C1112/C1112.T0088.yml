@@ -14,7 +14,15 @@ technique_name:
   ru: Фиктивные договоры
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The occupation administration imposed vassalage under the guise of an equal alliance: historian Murat Yasar notes that the rulers «regarded the shert rather as a military alliance»(Citation: 72), whereas historian Michael Khodarkovsky points out that «in Moscow''s eyes, the shert now signified an oath of allegiance by the tsar''s new and loyal subjects»(Citation: 70).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Изъятие ресурсов
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The secularization and confiscation into the imperial treasury of the lands of Ukrainian Orthodox monasteries: "in 1786, during the secularization, the monastery was closed, and its property and lands passed to the state treasury"(Citation: 196) – the fate of the Sviatohirsk monastery is typical of the entire 1786 campaign, which deprived the local church of its economic base.'

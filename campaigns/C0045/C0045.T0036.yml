@@ -14,7 +14,15 @@ technique_name:
   ru: Установка новой системы управления
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The abolition of traditional local self-government: "The final liquidation of Magdeburg law… in the cities of Central and Left-Bank Ukraine – in 1831 (in Kyiv – 1834)"(Citation: 194) – the cities were transferred to the empire-wide municipal order.'

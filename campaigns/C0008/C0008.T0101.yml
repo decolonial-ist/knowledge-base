@@ -14,7 +14,15 @@ technique_name:
   ru: Цензура
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: |-

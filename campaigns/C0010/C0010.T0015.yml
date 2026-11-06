@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The distribution of the highest imperial awards to buy the hetman''s loyalty against the backdrop of Ukraine''s resource exhaustion: Peter I "deigned to name me a knight of the glorious order of the holy first-called apostle of Christ, Andrew"(Citation: 4)(Citation: 3).'

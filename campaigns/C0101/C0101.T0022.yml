@@ -14,7 +14,15 @@ technique_name:
   ru: Террор
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'Engagement in combat operations of Russian neo-Nazi groups (such as the "Rusich" sabotage and reconnaissance group under the command of A. Milchakov), whose ringleaders openly called for unmotivated sadistic violence against civilians ("Slaughter the homeless, the puppies, and the children!")(Citation: 2).'
