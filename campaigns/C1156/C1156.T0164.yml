@@ -1,28 +1,28 @@
 type: procedure
 id: C1156.T0164
 campaign_name:
-  ru: 'Тайная разведка Чечни топографами Розена и разорение Зандака отрядом Пулло: пленение 31 жителя и угон скота (1835-1836)'
   en: 'Covert reconnaissance of Chechnya by Rosen''s topographers and the devastation of Zandak by Pullo''s detachment: capture of 31 inhabitants and seizure of livestock (1835-1836)'
   uk: 'Таємна розвідка Чечні топографами Розена та розорення Зандака загоном Пулло: полон 31 жителя і викрадення худоби (1835-1836)'
+  ru: 'Тайная разведка Чечни топографами Розена и разорение Зандака отрядом Пулло: пленение 31 жителя и угон скота (1835-1836)'
 created: 2026-07-03
 modified: 2026-08-10
 version: '1.0'
 technique: T0164
 technique_name:
-  ru: Мародерство
   en: Pillage
   uk: Мародерство
+  ru: Мародерство
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    23 августа 1836 при разорении аула Зандак отряд полковника Пулло, начальника Сунженской укреплённой линии, присвоил имущество и скот жителей.
-    Корпусный командир Розен доносил военному министру: «в добычу нашим войскам досталось имущество жителей и 384 штуки рогатого скота»(Citation: 105).
   en: |-
     On August 23, 1836, during the destruction of the aul of Zandak, the detachment of Colonel Pullo, commander of the Sunzha fortified line, appropriated the property and livestock of the inhabitants.
     Corps commander Rosen reported to the Minister of War: "our troops received as booty the property of the inhabitants and 384 head of cattle"(Citation: 105).
   uk: |-
     23 серпня 1836 року під час розорення аулу Зандак загін полковника Пулло, начальника Сунженської укріпленої лінії, привласнив майно та худобу мешканців.
     Корпусний командир Розен доносив військовому міністрові: «у здобич нашим військам дісталося майно мешканців і 384 голови рогатої худоби»(Citation: 105).
+  ru: |-
+    23 августа 1836 при разорении аула Зандак отряд полковника Пулло, начальника Сунженской укреплённой линии, присвоил имущество и скот жителей.
+    Корпусный командир Розен доносил военному министру: «в добычу нашим войскам досталось имущество жителей и 384 штуки рогатого скота»(Citation: 105).

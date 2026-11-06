@@ -1,25 +1,25 @@
-name: Новая процедура / Нова процедура / New procedure
-description: Случай применения техники, которого в базе нет / Випадок застосування техніки, якого в базі немає / A case of a technique that the base does not have
+name: New procedure / Нова процедура / Новая процедура
+description: A case of a technique that the base does not have / Випадок застосування техніки, якого в базі немає / Случай применения техники, которого в базе нет
 labels: [procedure]
 body:
   - type: input
     id: campaign
     attributes:
-      label: Кампания / Кампанія / Campaign
-      description: Идентификатор кампании (campaigns/C1193/C1193.yml) или период и народ, если кампании ещё нет / Ідентифікатор кампанії або період і народ, якщо кампанії ще немає / Campaign id, or the period and the people if there is no campaign yet
+      label: Campaign / Кампанія / Кампания
+      description: Campaign id, or the period and the people if there is no campaign yet / Ідентифікатор кампанії або період і народ, якщо кампанії ще немає / Идентификатор кампании (campaigns/C1193/C1193.yml) или период и народ, если кампании ещё нет
     validations:
       required: true
   - type: input
     id: technique
     attributes:
-      label: Техника / Техніка / Technique
-      description: Идентификатор техники (techniques/T0023.yml) или своими словами, что делал колонизатор / Ідентифікатор техніки або своїми словами, що робив колонізатор / Technique id, or in your own words what the coloniser did
+      label: Technique / Техніка / Техника
+      description: Technique id, or in your own words what the coloniser did / Ідентифікатор техніки або своїми словами, що робив колонізатор / Идентификатор техники (techniques/T0023.yml) или своими словами, что делал колонизатор
     validations:
       required: true
   - type: textarea
     id: facts
     attributes:
-      label: Факты / Факти / Facts
-      description: Кто, когда, где, с кем, сколько; каждый факт - с источником / Хто, коли, де, з ким, скільки; кожен факт - із джерелом / Who, when, where, to whom, how many; every fact with a source
+      label: Facts / Факти / Факты
+      description: Who, when, where, to whom, how many; every fact with a source / Хто, коли, де, з ким, скільки; кожен факт - із джерелом / Кто, когда, где, с кем, сколько; каждый факт - с источником
     validations:
       required: true

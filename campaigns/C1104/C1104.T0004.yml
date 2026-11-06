@@ -1,22 +1,22 @@
 type: procedure
 id: C1104.T0004
 campaign_name:
-  ru: Религиозный фронтир и фабрикация исторического права (1550–1721)
   en: Religious Frontier and the Fabrication of Historical Right (1550–1721)
   uk: Релігійний фронтир і фабрикація історичного права (1550–1721)
+  ru: Религиозный фронтир и фабрикация исторического права (1550–1721)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0004
 technique_name:
-  ru: Переписывание истории
   en: Rewriting of History
   uk: Переписування історії
+  ru: Переписывание истории
 people: nokhchi
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: 'Правительство Московского царства фабриковало исторические нарративы для юридического обоснования вторжения на новые территории: историк Майкл Ходарковский указывает, что в дипломатической переписке чиновники намеренно конструировали фиктивные утверждения о том, что коренные народы Кавказа якобы издревле являлись московскими «подданными в Рязанском крае, а затем бежали из Рязани и поселились в горах»(Citation: 70).'
   en: 'The government of the Tsardom of Muscovy fabricated historical narratives to provide legal justification for the invasion of new territories: historian Michael Khodarkovsky points out that in diplomatic correspondence officials deliberately constructed fictitious claims that the Indigenous peoples of the Caucasus had allegedly, since ancient times, been Muscovite "subjects in the Riazan region, who then fled from Riazan and settled in the mountains"(Citation: 70).'
   uk: 'Уряд Московського царства фабрикував історичні наративи для юридичного обґрунтування вторгнення на нові території: історик Майкл Ходарковський вказує, що в дипломатичному листуванні чиновники навмисно конструювали фіктивні твердження про те, що корінні народи Кавказу нібито здавна були московськими «підданими в Рязанському краї, а потім втекли з Рязані й оселилися в горах»(Citation: 70).'
+  ru: 'Правительство Московского царства фабриковало исторические нарративы для юридического обоснования вторжения на новые территории: историк Майкл Ходарковский указывает, что в дипломатической переписке чиновники намеренно конструировали фиктивные утверждения о том, что коренные народы Кавказа якобы издревле являлись московскими «подданными в Рязанском крае, а затем бежали из Рязани и поселились в горах»(Citation: 70).'

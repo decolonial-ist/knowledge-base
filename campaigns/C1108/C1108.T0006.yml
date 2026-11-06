@@ -1,22 +1,22 @@
 type: procedure
 id: C1108.T0006
 campaign_name:
-  ru: Навязывание образа отсталости и «цивилизаторская» миссия (1721–1800-е гг.)
   en: Imposition of an Image of Backwardness and the “Civilizing” Mission (1721–1800s)
   uk: Нав’язування образу відсталості та «цивілізаторська» місія (1721–1800-ті рр.)
+  ru: Навязывание образа отсталости и «цивилизаторская» миссия (1721–1800-е гг.)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0006
 technique_name:
-  ru: Дегуманизация
   en: Dehumanization
   uk: Дегуманізація
+  ru: Дегуманизация
 people: nokhchi
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Правительство Российской империи целенаправленно конструировало образ коренного населения как преступных дикарей: историк Майкл Ходарковский (Michael Khodarkovsky) фиксирует, что в документах администрации горцы маркировались как «непостоянны и вероломны», а их действия объяснялись ссылками на их «хищное ремесло, к которому они предрасположены самой своей природой и воспитанием»(Citation: 71).'
   en: 'The government of the Russian Empire deliberately constructed an image of the Indigenous population as criminal savages: historian Michael Khodarkovsky records that in administration documents the highlanders were labeled as "inconstant and treacherous," while their actions were explained by references to their "predatory craft, to which they are predisposed by their very nature and upbringing"(Citation: 71).'
   uk: 'Уряд Російської імперії цілеспрямовано конструював образ корінного населення як злочинних дикунів: історик Майкл Ходарковський (Michael Khodarkovsky) фіксує, що в документах адміністрації горців маркували як «непостійних і віроломних», а їхні дії пояснювали посиланнями на їхнє «хижацьке ремесло, до якого вони схильні самою своєю природою та вихованням»(Citation: 71).'
+  ru: 'Правительство Российской империи целенаправленно конструировало образ коренного населения как преступных дикарей: историк Майкл Ходарковский (Michael Khodarkovsky) фиксирует, что в документах администрации горцы маркировались как «непостоянны и вероломны», а их действия объяснялись ссылками на их «хищное ремесло, к которому они предрасположены самой своей природой и воспитанием»(Citation: 71).'

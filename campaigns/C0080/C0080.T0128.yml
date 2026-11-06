@@ -1,25 +1,25 @@
 type: procedure
 id: C0080.T0128
 campaign_name:
-  ru: Национальные операции НКВД и институциональная русификация (1937–1939)
   en: NKVD National Operations and Institutional Russification (1937–1939)
   uk: Національні операції НКВС та інституційна русифікація (1937–1939)
+  ru: Национальные операции НКВД и институциональная русификация (1937–1939)
 created: 2026-04-27
 modified: 2026-10-27
 version: '1.0'
 technique: T0128
 technique_name:
-  ru: Ликвидация национальных общественных организаций
   en: Liquidation of National Civic Organizations
   uk: Ліквідація національних громадських організацій
+  ru: Ликвидация национальных общественных организаций
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors:
-- ru: Палий Светодар
-  en: Palii Svitodar
+- en: Palii Svitodar
   uk: Палій Світодар
+  ru: Палий Светодар
 description:
-  ru: 'Принудительное закрытие всех национальных советов, педагогических институтов, театров и культурных учреждений этнических меньшинств в УССР(Citation: 15): национальные районы и сельсоветы ликвидированы постановлением Оргбюро ЦК ВКП(б) от 24 января 1938 года(Citation: 422), а постанова Политбюро ЦК КП(б)У от 10 апреля 1938 года реорганизовала национальные школы и техникумы и превратила Одесский немецкий педагогический институт в институт иностранных языков(Citation: 420).'
   en: 'The forcible closure of all national councils, pedagogical institutes, theaters and cultural institutions of ethnic minorities in the Ukrainian SSR(Citation: 15): the national districts and village soviets were liquidated by the resolution of the Orgburo of the Central Committee of the VKP(b) of 24 January 1938(Citation: 422), and the resolution of the Politburo of the Central Committee of the KP(b)U of 10 April 1938 reorganized the national schools and colleges and turned the Odesa German Pedagogical Institute into an institute of foreign languages(Citation: 420).'
   uk: 'Примусове закриття всіх національних рад, педагогічних інститутів, театрів і культурних установ етнічних меншин в УСРР(Citation: 15): національні райони та сільради ліквідовано постановою Оргбюро ЦК ВКП(б) від 24 січня 1938 року(Citation: 422), а постанова Політбюро ЦК КП(б)У від 10 квітня 1938 року реорганізувала національні школи й технікуми та перетворила Одеський німецький педагогічний інститут на інститут іноземних мов(Citation: 420).'
+  ru: 'Принудительное закрытие всех национальных советов, педагогических институтов, театров и культурных учреждений этнических меньшинств в УССР(Citation: 15): национальные районы и сельсоветы ликвидированы постановлением Оргбюро ЦК ВКП(б) от 24 января 1938 года(Citation: 422), а постанова Политбюро ЦК КП(б)У от 10 апреля 1938 года реорганизовала национальные школы и техникумы и превратила Одесский немецкий педагогический институт в институт иностранных языков(Citation: 420).'

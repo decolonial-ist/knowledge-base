@@ -32,7 +32,7 @@ except ImportError:  # pragma: no cover
 
 KINDS = ("tactics", "techniques", "actors", "tools", "campaigns", "procedures")
 FLAT = ("tactics", "techniques", "actors", "tools")
-LANGS = ("ru", "en", "uk")
+LANGS = ("en", "uk", "ru")
 
 
 def load_registry_ids():

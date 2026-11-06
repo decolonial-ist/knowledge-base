@@ -1,28 +1,28 @@
 type: procedure
 id: C0011.T0049
 campaign_name:
-  ru: Интеграционные реформы Петра I и Северная война (1700–1708)
   en: Integration Reforms of Peter I and the Great Northern War (1700–1708)
   uk: Інтеграційні реформи Петра I та Північна війна (1700–1708)
+  ru: Интеграционные реформы Петра I и Северная война (1700–1708)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Отправка казацких полков на дальние театры боевых действий (страны Балтии, Польша), что вело к их истощению.
-    Войска были «целорочною военною службою утружденный, знужнелыи, опешалыи, изнищалыи»(Citation: 4)(Citation: 3).
   en: |-
     The dispatch of Cossack regiments to distant theaters of war (the Baltic lands, Poland), which led to their exhaustion.
     The troops were "wearied by year-round military service, impoverished, dismounted, destitute"(Citation: 4)(Citation: 3).
   uk: |-
     Відправлення козацьких полків на далекі театри бойових дій (країни Балтії, Польща), що вело до їхнього виснаження.
     Війська були «цілорічною військовою службою утруджений, знужнілий, опішалий, знищілий»(Citation: 4)(Citation: 3).
+  ru: |-
+    Отправка казацких полков на дальние театры боевых действий (страны Балтии, Польша), что вело к их истощению.
+    Войска были «целорочною военною службою утружденный, знужнелыи, опешалыи, изнищалыи»(Citation: 4)(Citation: 3).

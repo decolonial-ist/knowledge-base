@@ -1,26 +1,26 @@
 type: procedure
 id: C1127.T0150
 campaign_name:
-  ru: Укрепление пограничной линии и разведка ресурсов (1711–1717)
   en: Strengthening of the Border Line and Reconnaissance of Resources (1711–1717)
   uk: Зміцнення прикордонної лінії та розвідка ресурсів (1711–1717)
+  ru: Укрепление пограничной линии и разведка ресурсов (1711–1717)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0150
 technique_name:
-  ru: Комплексная разведка территорий
   en: Comprehensive Reconnaissance of Territories
   uk: Комплексна розвідка територій
+  ru: Комплексная разведка территорий
 people: nokhchi
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Правительство Московского Царства организовывало экспедиции для изучения и инвентаризации природных ресурсов на территориях коренного населения: историк Я. З. Ахмадов фиксирует проведенное в 1717 году «обследование минеральных источников и других природных богатств р. Терек (в т.ч.
-    Брагунских теплых вод) доктором Готлибом Шобером по заданию Петра I»(Citation: 94).
   en: |-
     The government of the Tsardom of Muscovy organized expeditions to study and inventory natural resources in the territories of the Indigenous population: historian Ya.
     Z. Akhmadov records the 1717 "survey of mineral springs and other natural riches of the Terek River (including the Bragun warm springs) by Doctor Gottlieb Schober on the assignment of Peter I"(Citation: 94).
   uk: 'Уряд Московського царства організовував експедиції для вивчення та інвентаризації природних ресурсів на територіях корінного населення: історик Я. З. Ахмадов фіксує проведене 1717 року «обстеження мінеральних джерел та інших природних багатств р. Терек (зокрема Брагунських теплих вод) доктором Готлібом Шобером за завданням Петра I»(Citation: 94).'
+  ru: |-
+    Правительство Московского Царства организовывало экспедиции для изучения и инвентаризации природных ресурсов на территориях коренного населения: историк Я. З. Ахмадов фиксирует проведенное в 1717 году «обследование минеральных источников и других природных богатств р. Терек (в т.ч.
+    Брагунских теплых вод) доктором Готлибом Шобером по заданию Петра I»(Citation: 94).

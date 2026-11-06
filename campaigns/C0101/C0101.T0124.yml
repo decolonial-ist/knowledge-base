@@ -1,22 +1,22 @@
 type: procedure
 id: C0101.T0124
 campaign_name:
-  ru: 'Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)'
   en: 'Continuation of the Russo-Ukrainian War: Armed Aggression in the Donbas (2014–2015)'
   uk: 'Продовження російсько-української війни: Збройна агресія на Донбасі (2014–2015)'
+  ru: 'Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)'
 created: 2026-04-27
 modified: 2026-09-18
 version: '1.0'
 technique: T0124
 technique_name:
-  ru: Лишение электричества и отопления
   en: Deprivation of Electricity and Heating
   uk: Позбавлення електрики та опалення
+  ru: Лишение электричества и отопления
 people: ukrainians
 actor: G0011
 tool: S0017
 contributors: []
 description:
-  ru: 'Целенаправленные кибератаки российских спецслужб на распределительные подстанции украинской энергосети зимой 2015 и 2016 годов с целью массового отключения электроэнергии для гражданского населения(Citation: 32)(Citation: 33).'
   en: 'Targeted cyberattacks by Russian security services on distribution substations of the Ukrainian power grid in the winters of 2015 and 2016, aimed at causing mass power outages for the civilian population(Citation: 32)(Citation: 33).'
   uk: 'Цілеспрямовані кібератаки російських спецслужб на розподільчі підстанції української енергомережі взимку 2015 та 2016 років з метою масового відключення електроенергії для цивільного населення(Citation: 32)(Citation: 33).'
+  ru: 'Целенаправленные кибератаки российских спецслужб на распределительные подстанции украинской энергосети зимой 2015 и 2016 годов с целью массового отключения электроэнергии для гражданского населения(Citation: 32)(Citation: 33).'

@@ -1,22 +1,22 @@
 type: procedure
 id: C0040.T0077
 campaign_name:
-  ru: 'Война с Наполеоном: принудительная мобилизация и обман (1812)'
   en: 'War with Napoleon: Forced Mobilization and Deception (1812)'
   uk: 'Війна з Наполеоном: примусова мобілізація та обман (1812)'
+  ru: 'Война с Наполеоном: принудительная мобилизация и обман (1812)'
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0077
 technique_name:
-  ru: Карательные экспедиции
   en: Punitive Expeditions
   uk: Каральні експедиції
+  ru: Карательные экспедиции
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Использование регулярных войск для жестокого подавления волнений обманутого населения: восстание бугских казаков 1817 года против превращения в военных поселенцев давили четыре полка - свыше 10 тысяч солдат с артиллерией; повстанцев рубили саблями, топили в Южном Буге, секли батогами(Citation: 185).'
   en: 'The use of regular troops to brutally suppress the unrest of the deceived population: the 1817 uprising of the Buh Cossacks against being turned into military settlers was crushed by four regiments - over 10,000 soldiers with artillery; the rebels were cut down with sabres, drowned in the Southern Buh, and flogged with whips(Citation: 185).'
   uk: 'Використання регулярних військ для жорстокого придушення заворушень обманутого населення: повстання бузьких козаків 1817 року проти перетворення на військових поселенців придушили чотири полки - понад 10 тисяч солдатів з артилерією; повстанців рубали шаблями, топили в Південному Бузі, сікли батогами(Citation: 185).'
+  ru: 'Использование регулярных войск для жестокого подавления волнений обманутого населения: восстание бугских казаков 1817 года против превращения в военных поселенцев давили четыре полка - свыше 10 тысяч солдат с артиллерией; повстанцев рубили саблями, топили в Южном Буге, секли батогами(Citation: 185).'

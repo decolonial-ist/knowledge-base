@@ -1,22 +1,22 @@
 type: procedure
 id: C1158.T0053
 campaign_name:
-  ru: 'Истребление жителей Кишкерой-Юрта отрядом Пулло: 76 убитых, 40 пленных, сожжение села с запасами (декабрь 1836)'
   en: 'Extermination of the Inhabitants of Kishkeroy-Yurt by Pullo''s Detachment: 76 Killed, 40 Captured, Village Burned with Its Stores (December 1836)'
   uk: 'Винищення жителів Кишкерой-Юрта загоном Пулло: 76 убитих, 40 полонених, спалення села із запасами (грудень 1836)'
+  ru: 'Истребление жителей Кишкерой-Юрта отрядом Пулло: 76 убитых, 40 пленных, сожжение села с запасами (декабрь 1836)'
 created: 2026-07-16
 modified: 2026-07-16
 version: '1.0'
 technique: T0053
 technique_name:
-  ru: Похищение людей
   en: Abduction of People
   uk: Викрадення людей
+  ru: Похищение людей
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'При истреблении Кишкерой-Юрта 28-31 декабря 1836 отряд Пулло увёл в плен 40 жителей: «40 душ обоего пола взято в плен»(Citation: 126).'
   en: 'In the course of the extermination of Kishkeroy-Yurt on 28-31 December 1836, Pullo''s detachment led away 40 inhabitants into captivity: "40 souls of both sexes were taken captive"(Citation: 126).'
   uk: 'Під час винищення Кишкерой-Юрта 28-31 грудня 1836 загін Пулло вивів у полон 40 жителів: «40 душ обох статей взято в полон»(Citation: 126).'
+  ru: 'При истреблении Кишкерой-Юрта 28-31 декабря 1836 отряд Пулло увёл в плен 40 жителей: «40 душ обоего пола взято в плен»(Citation: 126).'

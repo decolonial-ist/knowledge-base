@@ -1,25 +1,22 @@
 type: procedure
 id: C0033.T0021
 campaign_name:
-  ru: Военная ликвидация Запорожской Сечи (1775)
   en: Military Liquidation of the Zaporozhian Sich (1775)
   uk: Військова ліквідація Запорозької Січі (1775)
+  ru: Военная ликвидация Запорожской Сечи (1775)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0021
 technique_name:
-  ru: Нейтрализация оппозиции
   en: Neutralization of the Opposition
   uk: Нейтралізація опозиції
+  ru: Нейтрализация оппозиции
 people: ukrainians
 actor: G0009
 tool: S0017
 contributors: []
 description:
-  ru: |-
-    Арест и ссылка высшего руководства Сечи: «В июле 1775, после разрушения Новой Сечи, по распоряжению императрицы Екатерины II Калнышевский был арестован и отправлен в тюрьму Соловецкого монастыря»(Citation: 192).
-    Калнышевский провел в заключении более 25 лет; формально освобожденный в 1801 году, он умер в монастыре.
   en: |-
     The arrest and exile of the Sich's top leadership: "In July 1775, after the destruction of the New Sich, by order of Empress Catherine II, Kalnyshevsky was arrested and sent to the prison of the Solovetsky monastery"(Citation: 192).
     Kalnyshevsky spent more than 25 years in confinement; formally freed in 1801, he died in the monastery.
@@ -27,3 +24,6 @@ description:
     Арешт і заслання вищого керівництва Січі: «В лип. 1775, після зруйнування Нової Січі, за розпорядженням імп.
     Катерини II К[алнишевського] було заарештовано і відправлено до в'язниці Соловецького монастиря»(Citation: 192).
     Калнишевський провів в ув'язненні понад 25 років; формально звільнений 1801 року, він помер у монастирі.
+  ru: |-
+    Арест и ссылка высшего руководства Сечи: «В июле 1775, после разрушения Новой Сечи, по распоряжению императрицы Екатерины II Калнышевский был арестован и отправлен в тюрьму Соловецкого монастыря»(Citation: 192).
+    Калнышевский провел в заключении более 25 лет; формально освобожденный в 1801 году, он умер в монастыре.

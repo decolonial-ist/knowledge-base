@@ -1,22 +1,22 @@
 type: procedure
 id: C0051.T0045
 campaign_name:
-  ru: Запрет культуры и прессы перед Первой мировой войной (1913–1914)
   en: Ban on Culture and the Press Before World War I (1913–1914)
   uk: Заборона культури та преси напередодні Першої світової війни (1913–1914)
+  ru: Запрет культуры и прессы перед Первой мировой войной (1913–1914)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0045
 technique_name:
-  ru: Уничтожение исторической памяти
   en: Destruction of Historical Memory
   uk: Знищення історичної пам'яті
+  ru: Уничтожение исторической памяти
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Стирание памяти о национальных героях: «В январе 1914 года министр внутренних дел Николай Маклаков подписал циркуляр, которым по всем губерниям империи запретил „публичные чествования малороссийского писателя Тараса Шевченко“»(Citation: 205).'
   en: 'The erasure of the memory of national heroes: "In January 1914, minister of internal affairs Nikolai Maklakov signed a circular by which he forbade throughout all governorates of the empire ''public celebrations of the Little Russian writer Taras Shevchenko''"(Citation: 205).'
   uk: 'Стирання пам''яті про національних героїв: «У січні 1914 року міністр внутрішніх справ Микола Маклаков підписав циркуляр, яким по всіх губерніях імперії заборонив „публічні вшанування малоросійського письменника Тараса Шевченка“»(Citation: 205).'
+  ru: 'Стирание памяти о национальных героях: «В январе 1914 года министр внутренних дел Николай Маклаков подписал циркуляр, которым по всем губерниям империи запретил „публичные чествования малороссийского писателя Тараса Шевченко“»(Citation: 205).'

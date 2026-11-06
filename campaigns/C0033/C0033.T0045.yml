@@ -1,28 +1,28 @@
 type: procedure
 id: C0033.T0045
 campaign_name:
-  ru: Военная ликвидация Запорожской Сечи (1775)
   en: Military Liquidation of the Zaporozhian Sich (1775)
   uk: Військова ліквідація Запорозької Січі (1775)
+  ru: Военная ликвидация Запорожской Сечи (1775)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0045
 technique_name:
-  ru: Уничтожение исторической памяти
   en: Destruction of Historical Memory
   uk: Знищення історичної пам'яті
+  ru: Уничтожение исторической памяти
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Издание августовского манифеста Екатерины II, официально стирающего саму память о Сечи: она разрушена «со истреблением на будущее время и самого названия Запорожских казаков», ибо империя постановила «разрушить Сечу Запорожскую и имя Козаков, от оной заимствованное»(Citation: 147).
-    Грушевский: «Сечь разрушена, и 3 августа царским указом объявлено о её упразднении, „с уничтожением самого имени запорожских казаков“»(Citation: 250).
   en: |-
     The issuing of Catherine II's August manifesto, officially erasing the very memory of the Sich: it was destroyed "with the extirpation for the future of the very name of the Zaporozhian Cossacks," for the empire resolved "to destroy the Zaporozhian Sich and the name of the Cossacks derived from it"(Citation: 147).
     Hrushevsky: "The Sich was destroyed, and on 3 August a tsarist decree announced its abolition, 'with the annihilation of the very name of the Zaporozhian Cossacks'"(Citation: 250).
   uk: |-
     Видання серпневого маніфесту Катерини II, що офіційно стирає саму пам'ять про Січ: її зруйновано «з витребленням на майбутній час і самої назви Запорозьких козаків», бо імперія постановила «зруйнувати Січ Запорозьку та ім'я козаків від неї запозичене»(Citation: 147).
     Грушевський: «Сїч зруйновано, і дня 3 серпня царським указом оповіщено про її скасованнє, „з знищеннєм самого імени запорозьких козаків“»(Citation: 250).
+  ru: |-
+    Издание августовского манифеста Екатерины II, официально стирающего саму память о Сечи: она разрушена «со истреблением на будущее время и самого названия Запорожских казаков», ибо империя постановила «разрушить Сечу Запорожскую и имя Козаков, от оной заимствованное»(Citation: 147).
+    Грушевский: «Сечь разрушена, и 3 августа царским указом объявлено о её упразднении, „с уничтожением самого имени запорожских казаков“»(Citation: 250).

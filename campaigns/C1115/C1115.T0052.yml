@@ -1,22 +1,22 @@
 type: procedure
 id: C1115.T0052
 campaign_name:
-  ru: Экономическая эксплуатация и создание зависимости нохчи (1617–1622)
   en: Economic Exploitation and Creation of Dependency of the Nokhchi (1617–1622)
   uk: Економічна експлуатація та створення залежності Нохчі (1617–1622)
+  ru: Экономическая эксплуатация и создание зависимости нохчи (1617–1622)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0052
 technique_name:
-  ru: Изъятие ресурсов
   en: Expropriation of Resources
   uk: Вилучення ресурсів
+  ru: Изъятие ресурсов
 people: nokhchi
 actor: G0008
 tool: S0012
 contributors: []
 description:
-  ru: 'Представители метрополии конфисковали личное имущество погибшего делегата нохчи в государственную казну: в памяти из Посольского приказа в приказ Казанского дворца предписывалось расследовать гибель утонувшего окоцкого мурзы Кохострова Бийтемирова, а найденное «платье его и всякую рухлядь взяли в нашу казну»(Citation: 82).'
   en: 'Representatives of the metropole confiscated the personal property of a deceased Nokhchi delegate into the state treasury: a memorandum from the Posolsky Prikaz to the Prikaz of the Kazan Palace prescribed an investigation into the death of the drowned Okotsky murza Kokhostrov Biytemirov, while of what was found they «took his clothing and all his goods into our treasury»(Citation: 82).'
   uk: 'Представники метрополії конфіскували особисте майно загиблого делегата Нохчі до державної скарбниці: у пам''яті з Посольського приказу до приказу Казанського палацу приписувалося розслідувати загибель окоцького мурзи Кохострова Бійтемірова, який утонув, а зі знайденого «плаття його і всяку рухлядь взяли в нашу казну»(Citation: 82).'
+  ru: 'Представители метрополии конфисковали личное имущество погибшего делегата нохчи в государственную казну: в памяти из Посольского приказа в приказ Казанского дворца предписывалось расследовать гибель утонувшего окоцкого мурзы Кохострова Бийтемирова, а найденное «платье его и всякую рухлядь взяли в нашу казну»(Citation: 82).'

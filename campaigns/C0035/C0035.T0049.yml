@@ -1,22 +1,22 @@
 type: procedure
 id: C0035.T0049
 campaign_name:
-  ru: Военная аннексия Крымского ханства (1783)
   en: Military Annexation of the Crimean Khanate (1783)
   uk: Військова анексія Кримського ханства (1783)
+  ru: Военная аннексия Крымского ханства (1783)
 created: 2026-04-26
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Использование украинских казаков как военного ресурса для штурма турецких крепостей и закрепления имперских прав на Крым: под Очаковом «В штурме крепости участвовали „верные казаки“»(Citation: 24), а при штурме Измаила «Всего в битве приняло участие более 6 тыс. черноморцев»(Citation: 189).'
   en: 'The use of Ukrainian Cossacks as a military resource for storming Turkish fortresses and consolidating imperial claims to Crimea: at Ochakiv "the ''loyal Cossacks'' took part in the storming of the fortress"(Citation: 24), and in the storming of Izmail "in total over 6 thousand Black Sea Cossacks took part in the battle"(Citation: 189).'
   uk: 'Використання українських козаків як військового ресурсу для штурму турецьких фортець і закріплення імперських прав на Крим: під Очаковом «У штурмі фортеці брали участь „вірні козаки“»(Citation: 24), а під час штурму Ізмаїла «Загалом у битві взяло участь понад 6 тис. чорноморців»(Citation: 189).'
+  ru: 'Использование украинских казаков как военного ресурса для штурма турецких крепостей и закрепления имперских прав на Крым: под Очаковом «В штурме крепости участвовали „верные казаки“»(Citation: 24), а при штурме Измаила «Всего в битве приняло участие более 6 тыс. черноморцев»(Citation: 189).'

@@ -62,7 +62,7 @@ PEOPLES = [
 # колонок «name (en)», «description (uk)» и т.п.; пустая ячейка -> русский текст.
 # ВАЖНО: все STIX ID генерируются от РУССКИХ имён (id_cache общий на прогон),
 # поэтому объекты трёх бандлов идентичны по ID и датам.
-LANGS = ["ru", "en", "uk"]
+LANGS = ["en", "uk", "ru"]
 
 # Народы (x_mitre_platforms) по языкам; значения должны совпадать со словарём
 # сайта (data.people.* в attack-website/data/translations.json)

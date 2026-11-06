@@ -1,28 +1,28 @@
 type: procedure
 id: C1129.T0019
 campaign_name:
-  ru: Подавление восстания, военная интервенция и принудительное оформление подданства (1722)
   en: Suppression of the Uprising, Military Intervention, and Forced Formalization of Subjecthood (1722)
   uk: Придушення повстання, воєнна інтервенція та примусове оформлення підданства (1722)
+  ru: Подавление восстания, военная интервенция и принудительное оформление подданства (1722)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0019
 technique_name:
-  ru: Военная интервенция
   en: Military Intervention
   uk: Воєнна інтервенція
+  ru: Военная интервенция
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Регулярная армия Российской империи ввела вооруженные контингенты для подавления сопротивления в регионе: историк Ш. Б. Ахмадов фиксирует, что «23 июля 1722 г. царский отряд во главе с генералом Ветерани... приблизился к с.
-    Эндери»(Citation: 66).
   en: |-
     The Regular Army of the Russian Empire deployed armed contingents to suppress resistance in the region: historian Sh.
     B. Akhmadov records that "on July 23, 1722, a tsarist detachment headed by General Veterani... approached the village of Enderi"(Citation: 66).
   uk: |-
     Регулярна армія Російської імперії ввела збройні контингенти для придушення опору в регіоні: історик Ш. Б. Ахмадов фіксує, що «23 липня 1722 р. царський загін на чолі з генералом Ветерані... наблизився до с.
     Ендері»(Citation: 66).
+  ru: |-
+    Регулярная армия Российской империи ввела вооруженные контингенты для подавления сопротивления в регионе: историк Ш. Б. Ахмадов фиксирует, что «23 июля 1722 г. царский отряд во главе с генералом Ветерани... приблизился к с.
+    Эндери»(Citation: 66).

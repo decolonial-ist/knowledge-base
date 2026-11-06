@@ -1,22 +1,22 @@
 type: procedure
 id: C1027.T0108
 campaign_name:
-  ru: Экономическая и транспортная блокада Ичкерии (1992–1994)
   en: Economic and transport blockade of Ichkeria (1992–1994)
   uk: Економічна та транспортна блокада Ічкерії (1992–1994)
+  ru: Экономическая и транспортная блокада Ичкерии (1992–1994)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0108
 technique_name:
-  ru: Экономическая блокада
   en: Economic Blockade
   uk: Економічна блокада
+  ru: Экономическая блокада
 people: nokhchi
 actor: G0011
 tool: S0008
 contributors: []
 description:
-  ru: 'В апреле 1992 года правительство России ввело жесткие экономические и финансовые санкции, включая блокировку перевода денежных средств предприятиям и частным лицам(Citation: 26).'
   en: 'In April 1992, the Russian government imposed harsh economic and financial sanctions, including blocking the transfer of funds to enterprises and private individuals(Citation: 26).'
   uk: 'У квітні 1992 року уряд Росії запровадив жорсткі економічні та фінансові санкції, зокрема блокування переказу коштів підприємствам і приватним особам(Citation: 26).'
+  ru: 'В апреле 1992 года правительство России ввело жесткие экономические и финансовые санкции, включая блокировку перевода денежных средств предприятиям и частным лицам(Citation: 26).'

@@ -1,24 +1,24 @@
 type: procedure
 id: C1126.T0077
 campaign_name:
-  ru: Подавление восстания Мурата Кучукова и террор против коренного населения (1708)
   en: Suppression of the Uprising of Murat Kuchukov and Terror against the Indigenous Population (1708)
   uk: Придушення повстання Мурата Кучукова і терор проти корінного населення (1708)
+  ru: Подавление восстания Мурата Кучукова и террор против коренного населения (1708)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0077
 technique_name:
-  ru: Карательные экспедиции
   en: Punitive Expeditions
   uk: Каральні експедиції
+  ru: Карательные экспедиции
 people: nokhchi
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'Правительство Московского Царства организовывало военные операции против обществ нохчи: историк Я. З. Ахмадов констатирует, что «меры, принятые Петром I по борьбе с булавинской «ребелией» и другими восстаниями, в т.ч. на Тереке против Чечни, были, по существу, карательными»(Citation: 94).'
   en: |-
     The government of the Tsardom of Muscovy organized military operations against Nokhchi societies: the historian Ya.
     Z. Akhmadov states that «the measures taken by Peter I to combat the Bulavin «rebeliya» and other uprisings, including on the Terek against Chechnya, were in essence punitive»(Citation: 94).
   uk: 'Уряд Московського царства організовував воєнні операції проти суспільств Нохчі: історик Я. З. Ахмадов констатує, що «заходи, вжиті Петром I для боротьби з булавінською «ребелією» та іншими повстаннями, зокрема на Тереку проти Чечні, були, по суті, каральними»(Citation: 94).'
+  ru: 'Правительство Московского Царства организовывало военные операции против обществ нохчи: историк Я. З. Ахмадов констатирует, что «меры, принятые Петром I по борьбе с булавинской «ребелией» и другими восстаниями, в т.ч. на Тереке против Чечни, были, по существу, карательными»(Citation: 94).'

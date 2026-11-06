@@ -1,22 +1,22 @@
 type: procedure
 id: C1108.T0024
 campaign_name:
-  ru: Навязывание образа отсталости и «цивилизаторская» миссия (1721–1800-е гг.)
   en: Imposition of an Image of Backwardness and the “Civilizing” Mission (1721–1800s)
   uk: Нав’язування образу відсталості та «цивілізаторська» місія (1721–1800-ті рр.)
+  ru: Навязывание образа отсталости и «цивилизаторская» миссия (1721–1800-е гг.)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0024
 technique_name:
-  ru: Оправдание через религию
   en: Justification Through Religion
   uk: Виправдання через релігію
+  ru: Оправдание через религию
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация Российской империи использовала религиозные предлоги для экспансии: историк Майкл Ходарковский (Michael Khodarkovsky) приводит меморандум генерал-губернатора П. С. Потемкина, который в 1784 году заявлял, что под предлогом возвращения в веру и отправки к горцам священников империя сможет пролить «свет божественного блаженства среди всех народов, рассеянных в горах»(Citation: 71).'
   en: 'The occupation administration of the Russian Empire used religious pretexts for expansion: historian Michael Khodarkovsky cites a memorandum by Governor-General P. S. Potemkin, who in 1784 declared that under the pretext of returning the highlanders to the faith and sending priests to them, the empire would be able to shed "the light of divine bliss among all the peoples scattered in the mountains"(Citation: 71).'
   uk: 'Окупаційна адміністрація Російської імперії використовувала релігійні приводи для експансії: історик Майкл Ходарковський (Michael Khodarkovsky) наводить меморандум генерал-губернатора П. С. Потьомкіна, який 1784 року заявляв, що під приводом повернення до віри та відправлення до горців священників імперія зможе пролити «світло божественного блаженства серед усіх народів, розсіяних у горах»(Citation: 71).'
+  ru: 'Оккупационная администрация Российской империи использовала религиозные предлоги для экспансии: историк Майкл Ходарковский (Michael Khodarkovsky) приводит меморандум генерал-губернатора П. С. Потемкина, который в 1784 году заявлял, что под предлогом возвращения в веру и отправки к горцам священников империя сможет пролить «свет божественного блаженства среди всех народов, рассеянных в горах»(Citation: 71).'

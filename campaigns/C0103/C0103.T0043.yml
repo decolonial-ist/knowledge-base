@@ -1,22 +1,22 @@
 type: procedure
 id: C0103.T0043
 campaign_name:
-  ru: Полномасштабное вторжение (с 24 февраля 2022)
   en: Full-Scale Invasion (from February 24, 2022)
   uk: Повномасштабне вторгнення (з 24 лютого 2022)
+  ru: Полномасштабное вторжение (с 24 февраля 2022)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0043
 technique_name:
-  ru: Стирание и переименование топонимов
   en: Erasure and Renaming of Place Names
   uk: Стирання та перейменування топонімів
+  ru: Стирание и переименование топонимов
 people: ukrainians
 actor: G0011
 tool: S0012
 contributors: []
 description:
-  ru: Целенаправленное возвращение захваченным городам и улицам старых советских или имперских названий (в частности, переименование Бахмута в Артемовск) для стирания украинской национальной памяти и визуальной интеграции в пространство РФ.
   en: Deliberate restoration of old Soviet or imperial names to captured cities and streets (in particular, the renaming of Bakhmut to Artemovsk) in order to erase Ukrainian national memory and visually integrate them into the space of the Russian Federation.
   uk: Цілеспрямоване повернення захопленим містам і вулицям старих радянських чи імперських назв (зокрема, перейменування Бахмута на Артемівськ) для стирання української національної пам'яті та візуальної інтеграції в простір РФ.
+  ru: Целенаправленное возвращение захваченным городам и улицам старых советских или имперских названий (в частности, переименование Бахмута в Артемовск) для стирания украинской национальной памяти и визуальной интеграции в пространство РФ.

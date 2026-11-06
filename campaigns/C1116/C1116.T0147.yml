@@ -1,22 +1,22 @@
 type: procedure
 id: C1116.T0147
 campaign_name:
-  ru: Использование нохчи в военных экспедициях, интервенция и обложение ясаком (1626–1628)
   en: Use of the Nokhchi in Military Expeditions, Intervention, and Imposition of Yasak (1626–1628)
   uk: Використання Нохчі у воєнних експедиціях, інтервенція та обкладення ясаком (1626–1628)
+  ru: Использование нохчи в военных экспедициях, интервенция и обложение ясаком (1626–1628)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0147
 technique_name:
-  ru: Принудительное оформление подданства
   en: Forced Registration of Subjecthood
   uk: Примусове оформлення підданства
+  ru: Принудительное оформление подданства
 people: nokhchi
 actor: G0008
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация требовала от горных обществ нохчи (шибутян) юридического закрепления подчиненного статуса: в отписке терских воевод Ивана Андреевича Дашкова и Богдана Герасимовича Приклонского в Посольский приказ зафиксирована информация о «присяге, данной шибутянами Лаварсаном Языевым и Затышкой Лаварсановым за 20 дворов в 1627 г.»(Citation: 82), с прямым предписанием, чтобы они «от государя отступны не были и были под государевою рукою в прямом холопстве»(Citation: 82).'
   en: 'The occupation administration demanded that the Nokhchi mountain communities (the Shibutians) legally formalize their subordinate status: a report from the Terek voivodes Ivan Andreyevich Dashkov and Bogdan Gerasimovich Priklonsky to the Posolsky Prikaz records information about «the oath given by the Shibutians Lavarsan Yazyev and Zatyshka Lavarsanov on behalf of 20 households in 1627»(Citation: 82), with a direct injunction that they «not fall away from the sovereign and remain under the sovereign''s hand in outright bondage (kholopstvo)»(Citation: 82).'
   uk: 'Окупаційна адміністрація вимагала від гірських громад Нохчі (Шибутян) юридичного закріплення підпорядкованого статусу: у відписці терських воєвод Івана Андрійовича Дашкова та Богдана Герасимовича Приклонського до Посольського приказу зафіксовано інформацію про «присягу, дану Шибутянами Лаварсаном Язиєвим і Затишкою Лаварсановим за 20 дворів у 1627 р.»(Citation: 82), з прямим приписом, щоб вони «від государя відступні не були і були під государевою рукою в прямому холопстві»(Citation: 82).'
+  ru: 'Оккупационная администрация требовала от горных обществ нохчи (шибутян) юридического закрепления подчиненного статуса: в отписке терских воевод Ивана Андреевича Дашкова и Богдана Герасимовича Приклонского в Посольский приказ зафиксирована информация о «присяге, данной шибутянами Лаварсаном Языевым и Затышкой Лаварсановым за 20 дворов в 1627 г.»(Citation: 82), с прямым предписанием, чтобы они «от государя отступны не были и были под государевою рукою в прямом холопстве»(Citation: 82).'

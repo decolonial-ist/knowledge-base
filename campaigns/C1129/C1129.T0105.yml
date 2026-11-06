@@ -1,24 +1,24 @@
 type: procedure
 id: C1129.T0105
 campaign_name:
-  ru: Подавление восстания, военная интервенция и принудительное оформление подданства (1722)
   en: Suppression of the Uprising, Military Intervention, and Forced Formalization of Subjecthood (1722)
   uk: Придушення повстання, воєнна інтервенція та примусове оформлення підданства (1722)
+  ru: Подавление восстания, военная интервенция и принудительное оформление подданства (1722)
 created: 2026-06-18
 modified: 2026-09-04
 version: '1.0'
 technique: T0105
 technique_name:
-  ru: Тотальное уничтожение инфраструктуры
   en: Total Destruction of Infrastructure
   uk: Тотальне знищення інфраструктури
+  ru: Тотальное уничтожение инфраструктуры
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Регулярная армия Российской империи уничтожала поселения и продовольственную базу горцев: историк Ш. Б. Ахмадов констатирует, что царский отряд «пришел к Эндери и полностью его разорил и сжег, оставив после себя только пепел»(Citation: 66), а в ходе августовского рейда 1722 года было «Уничтожено 3 тыс. домов и сожжены хлеба в полях»(Citation: 94).'
   en: |-
     The Regular Army of the Russian Empire destroyed the settlements and the food supply base of the highlanders: historian Sh.
     B. Akhmadov states that a tsarist detachment "came to Enderi and completely devastated and burned it, leaving nothing but ashes behind"(Citation: 66), while during the August 1722 raid "3 thousand houses were destroyed and the grain in the fields was burned"(Citation: 94).
   uk: 'Регулярна армія Російської імперії знищувала поселення та продовольчу базу горців: історик Ш. Б. Ахмадов констатує, що царський загін «прийшов до Ендері та повністю його розорив і спалив, залишивши по собі лише попіл»(Citation: 66), а під час серпневого рейду 1722 року було «Знищено 3 тис. будинків і спалено хліба на полях»(Citation: 94).'
+  ru: 'Регулярная армия Российской империи уничтожала поселения и продовольственную базу горцев: историк Ш. Б. Ахмадов констатирует, что царский отряд «пришел к Эндери и полностью его разорил и сжег, оставив после себя только пепел»(Citation: 66), а в ходе августовского рейда 1722 года было «Уничтожено 3 тыс. домов и сожжены хлеба в полях»(Citation: 94).'

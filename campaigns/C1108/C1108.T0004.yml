@@ -1,22 +1,22 @@
 type: procedure
 id: C1108.T0004
 campaign_name:
-  ru: Навязывание образа отсталости и «цивилизаторская» миссия (1721–1800-е гг.)
   en: Imposition of an Image of Backwardness and the “Civilizing” Mission (1721–1800s)
   uk: Нав’язування образу відсталості та «цивілізаторська» місія (1721–1800-ті рр.)
+  ru: Навязывание образа отсталости и «цивилизаторская» миссия (1721–1800-е гг.)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0004
 technique_name:
-  ru: Переписывание истории
   en: Rewriting of History
   uk: Переписування історії
+  ru: Переписывание истории
 people: nokhchi
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Правительство Российской империи фабриковало исторические отчеты для юридического обоснования вторжения: историк Майкл Ходарковский (Michael Khodarkovsky) указывает, что в 1748 и 1770-х годах чиновники намеренно конструировали фиктивные утверждения о том, что коренные народы Кавказа в прошлом якобы были христианами, чтобы оспорить претензии других империй и «узаконить свои усилия по их ''рехристианизации''»(Citation: 71).'
   en: 'The government of the Russian Empire fabricated historical accounts to provide legal justification for invasion: historian Michael Khodarkovsky points out that in 1748 and in the 1770s officials deliberately constructed fictitious claims that the Indigenous peoples of the Caucasus had allegedly been Christians in the past, in order to contest the claims of other empires and "legitimize their efforts at their ''re-Christianization''"(Citation: 71).'
   uk: 'Уряд Російської імперії фабрикував історичні звіти для юридичного обґрунтування вторгнення: історик Майкл Ходарковський (Michael Khodarkovsky) вказує, що у 1748 році та в 1770-х роках чиновники навмисно конструювали фіктивні твердження про те, що корінні народи Кавказу в минулому нібито були християнами, аби оскаржити претензії інших імперій та «узаконити свої зусилля з їхньої ''рехристиянізації''»(Citation: 71).'
+  ru: 'Правительство Российской империи фабриковало исторические отчеты для юридического обоснования вторжения: историк Майкл Ходарковский (Michael Khodarkovsky) указывает, что в 1748 и 1770-х годах чиновники намеренно конструировали фиктивные утверждения о том, что коренные народы Кавказа в прошлом якобы были христианами, чтобы оспорить претензии других империй и «узаконить свои усилия по их ''рехристианизации''»(Citation: 71).'

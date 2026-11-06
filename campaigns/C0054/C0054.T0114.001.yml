@@ -1,22 +1,22 @@
 type: procedure
 id: C0054.T0114.001
 campaign_name:
-  ru: Финансовая русификация школ (1978–1983)
   en: Financial Russification of Schools (1978–1983)
   uk: Фінансова русифікація шкіл (1978–1983)
+  ru: Финансовая русификация школ (1978–1983)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0114.001
 technique_name:
-  ru: Навязывание асимметричного двуязычия и факультативности
   en: Imposition of Asymmetric Bilingualism and Optionality
   uk: Нав'язування асиметричної двомовності та факультативності
+  ru: Навязывание асимметричного двуязычия и факультативности
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Административное давление на школы: во исполнение постановления Совета Министров СССР от 13 октября 1978 года № 835 Совет Министров УССР постановлением от 2 ноября 1978 года № 518 обязал министерство образования УССР ввести с 1980/81 учебного года изучение русского языка в первых классах общеобразовательных школ с украинским языком обучения(Citation: 464).'
   en: 'Administrative pressure on schools: pursuant to the resolution of the USSR Council of Ministers of 13 October 1978 No. 835, the Council of Ministers of the Ukrainian SSR, by its resolution of 2 November 1978 No. 518, obliged the ministry of education of the Ukrainian SSR to introduce, from the 1980/81 school year, the study of the Russian language in the first grades of general-education schools with Ukrainian as the language of instruction(Citation: 464).'
   uk: 'Адміністративний тиск на школи: на виконання постанови Ради Міністрів СРСР від 13 жовтня 1978 року № 835 Рада Міністрів УРСР постановою від 2 листопада 1978 року № 518 приписала: «Міністерству освіти УРСР ввести з 1980/81 навчального року вивчення російської мови в перших класах загальноосвітніх шкіл з українською мовою навчання»(Citation: 464).'
+  ru: 'Административное давление на школы: во исполнение постановления Совета Министров СССР от 13 октября 1978 года № 835 Совет Министров УССР постановлением от 2 ноября 1978 года № 518 обязал министерство образования УССР ввести с 1980/81 учебного года изучение русского языка в первых классах общеобразовательных школ с украинским языком обучения(Citation: 464).'

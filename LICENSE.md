@@ -1,10 +1,10 @@
-# Лицензии / Ліцензії / Licenses
+# Licenses / Ліцензії / Лицензии
 
-**Содержимое базы знаний** - тексты в папках `tactics/`, `techniques/`, `actors/`, `tools/`, `campaigns/`, `unpublished/` и `MATERIALS.md` - распространяется по лицензии **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Полный текст: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+**Knowledge base content** - the texts in `tactics/`, `techniques/`, `actors/`, `tools/`, `campaigns/`, `unpublished/` and `MATERIALS.md` - is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Full text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-**Код** в папках `scripts/`, `schema/` и `.github/` - по лицензии **Apache License 2.0**. Полный текст: https://www.apache.org/licenses/LICENSE-2.0
+**Code** in `scripts/`, `schema/` and `.github/` is licensed under the **Apache License 2.0**. Full text: https://www.apache.org/licenses/LICENSE-2.0
 
-Предлагая правку (pull request), вы соглашаетесь, что ваш вклад распространяется на тех же условиях.
+By proposing an edit (pull request) you agree that your contribution is distributed under the same terms.
 
 ---
 
@@ -16,10 +16,10 @@
 
 ---
 
-**Knowledge base content** - the texts in `tactics/`, `techniques/`, `actors/`, `tools/`, `campaigns/`, `unpublished/` and `MATERIALS.md` - is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Full text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+**Содержимое базы знаний** - тексты в папках `tactics/`, `techniques/`, `actors/`, `tools/`, `campaigns/`, `unpublished/` и `MATERIALS.md` - распространяется по лицензии **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Полный текст: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-**Code** in `scripts/`, `schema/` and `.github/` is licensed under the **Apache License 2.0**. Full text: https://www.apache.org/licenses/LICENSE-2.0
+**Код** в папках `scripts/`, `schema/` и `.github/` - по лицензии **Apache License 2.0**. Полный текст: https://www.apache.org/licenses/LICENSE-2.0
 
-By proposing an edit (pull request) you agree that your contribution is distributed under the same terms.
+Предлагая правку (pull request), вы соглашаетесь, что ваш вклад распространяется на тех же условиях.
 
 © DECOLONIAL.IST contributors

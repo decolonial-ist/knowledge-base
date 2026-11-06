@@ -1,22 +1,22 @@
 type: procedure
 id: C0007.T0008
 campaign_name:
-  ru: Коломакские статьи (1687)
   en: Kolomak Articles (1687)
   uk: Коломацькі статті (1687)
+  ru: Коломакские статьи (1687)
 created: 2026-04-25
 modified: 2026-04-25
 version: '1.0'
 technique: T0008
 technique_name:
-  ru: Лишение субъектности
   en: Deprivation of Agency
   uk: Позбавлення суб'єктності
+  ru: Лишение субъектности
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: '«В этом положении статей впервые явно объявлялось стремление царского правительства превратить Украину в область на обычных правах входящую в состав Российского государства»(Citation: 3).'
   en: '"In this provision of the articles, the tsarist government''s aspiration to turn Ukraine into a region incorporated into the Russian state on ordinary terms was openly declared for the first time"(Citation: 3).'
   uk: '«У цьому положенні статей уперше явно проголошувалося прагнення царського уряду перетворити Україну на область, що входить до складу Російської держави на звичайних правах»(Citation: 3).'
+  ru: '«В этом положении статей впервые явно объявлялось стремление царского правительства превратить Украину в область на обычных правах входящую в состав Российского государства»(Citation: 3).'

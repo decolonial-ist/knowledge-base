@@ -1,28 +1,28 @@
 type: procedure
 id: C0002.T0008
 campaign_name:
-  ru: Виленское перемирие (1656)
   en: Truce of Vilna (1656)
   uk: Віленське перемир'я (1656)
+  ru: Виленское перемирие (1656)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0008
 technique_name:
-  ru: Лишение субъектности
   en: Deprivation of Agency
   uk: Позбавлення суб'єктності
+  ru: Лишение субъектности
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: |-
-    Московское царство физически и юридически изолировало автономию от участия в международной политике, решая судьбу казацких земель без учета их национальных интересов: «Полномочные представители Украинского казацкого государства во главе с Р.Гапоненко не были допущены за стол переговоров»(Citation: 185).
-    Просьбу гетмана дать послам мандаты полноправных участников царское правительство «пропустило мимо ушей»: делегаты «сидели без дела возле комиссаров, не допущенные к официальным переговорам»(Citation: 249).
   en: |-
     The Tsardom of Muscovy physically and legally isolated the autonomy from participation in international politics, deciding the fate of the Cossack lands without regard for their national interests: "The plenipotentiary representatives of the Ukrainian Cossack state, headed by R. Haponenko, were not admitted to the negotiating table"(Citation: 185).
     The hetman's request to grant the envoys mandates as full participants was "let pass unheeded" by the tsar's government: the delegates "sat idle beside the commissioners, not admitted to the official sessions"(Citation: 249).
   uk: |-
     Московське царство фізично та юридично ізолювало автономію від участі в міжнародній політиці, вирішуючи долю козацьких земель без урахування їхніх національних інтересів: «Повноважні представники Укр. козац. д-ви на чолі з Р.Гапоненком не були допущені за стіл переговорів»(Citation: 185).
     Прохання гетьмана дати послам мандати повноправних учасників царський уряд «пустив повз уха»: делегати «сиділи бездільно коло комісарів і не допущені до офіційних нарад»(Citation: 249).
+  ru: |-
+    Московское царство физически и юридически изолировало автономию от участия в международной политике, решая судьбу казацких земель без учета их национальных интересов: «Полномочные представители Украинского казацкого государства во главе с Р.Гапоненко не были допущены за стол переговоров»(Citation: 185).
+    Просьбу гетмана дать послам мандаты полноправных участников царское правительство «пропустило мимо ушей»: делегаты «сидели без дела возле комиссаров, не допущенные к официальным переговорам»(Citation: 249).

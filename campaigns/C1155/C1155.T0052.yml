@@ -1,22 +1,22 @@
 type: procedure
 id: C1155.T0052
 campaign_name:
-  ru: Истребление 61 селения равнинной Чечни и горной Ичкерии войсками Розена, сожжение заживо защитников Герменчука и вымогание заложников от 80 сёл (1832)
   en: Extermination of 61 settlements of lowland Chechnya and mountainous Ichkeria by Rosen's troops, burning alive of the defenders of Germenchuk, and extortion of hostages from 80 villages (1832)
   uk: Винищення 61 селища рівнинної Чечні та гірської Ічкерії військами Розена, спалення живцем захисників Герменчука та вимагання заручників від 80 сіл (1832)
+  ru: Истребление 61 селения равнинной Чечни и горной Ичкерии войсками Розена, сожжение заживо защитников Герменчука и вымогание заложников от 80 сёл (1832)
 created: 2026-07-03
 modified: 2026-08-07
 version: '1.0'
 technique: T0052
 technique_name:
-  ru: Изъятие ресурсов
   en: Expropriation of Resources
   uk: Вилучення ресурсів
+  ru: Изъятие ресурсов
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'По итогам похода августа - сентября 1832 войска корпусного командира Розена взыскали с чеченских сёл подати и штрафы деньгами и скотом: Розен доносил военному министру Чернышёву, что всего за поход «подати и штрафа деньгами и скотом уплачено... около 5-ти т. р. с. [пяти тысяч рублей серебром]»(Citation: 105).'
   en: 'Following the campaign of August - September 1832, the troops of corps commander Rosen exacted tribute and fines in money and livestock from the Chechen villages: Rosen reported to Minister of War Chernyshev that in total over the campaign "tribute and fines in money and livestock have been paid... about 5 th. r. s. [five thousand rubles in silver]"(Citation: 105).'
   uk: 'За підсумками походу серпня - вересня 1832 року війська корпусного командира Розена стягнули з чеченських сіл податі та штрафи грошима й худобою: Розен доносив військовому міністрові Чернишову, що загалом за похід «податі та штрафу грошима й худобою сплачено... близько 5-ти т. р. с. [п’яти тисяч рублів сріблом]»(Citation: 105).'
+  ru: 'По итогам похода августа - сентября 1832 войска корпусного командира Розена взыскали с чеченских сёл подати и штрафы деньгами и скотом: Розен доносил военному министру Чернышёву, что всего за поход «подати и штрафа деньгами и скотом уплачено... около 5-ти т. р. с. [пяти тысяч рублей серебром]»(Citation: 105).'

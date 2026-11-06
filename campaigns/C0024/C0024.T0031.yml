@@ -1,22 +1,22 @@
 type: procedure
 id: C0024.T0031
 campaign_name:
-  ru: Московские статьи Ивана Брюховецкого (1665)
   en: The Moscow Articles of Ivan Briukhovetsky (1665)
   uk: Московські статті Івана Брюховецького (1665)
+  ru: Московские статьи Ивана Брюховецкого (1665)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0031
 technique_name:
-  ru: Ограничение суверенитета
   en: Restriction of Sovereignty
   uk: Обмеження суверенітету
+  ru: Ограничение суверенитета
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: 'Лишение автономии контроля над собственной административной и хозяйственной жизнью: «в руки царских воевод переходило непосредственное управление военно-административной и финансово-хозяйственной жизнью Украины»(Citation: 24) – суверенные функции гетманской власти переходили к представителям метрополии.'
   en: 'Depriving the autonomy of control over its own administrative and economic life: "direct control over the military-administrative and financial-economic life of Ukraine passed into the hands of the tsarist voivodes"(Citation: 24) – the sovereign functions of the hetman''s authority passed to representatives of the metropole.'
   uk: 'Позбавлення автономії контролю над власним адміністративним і господарським життям: «до рук царських воєвод переходило безпосереднє управління військово-адм. і фінансово-госп. життям України»(Citation: 24) – суверенні функції гетьманської влади переходили до представників метрополії.'
+  ru: 'Лишение автономии контроля над собственной административной и хозяйственной жизнью: «в руки царских воевод переходило непосредственное управление военно-административной и финансово-хозяйственной жизнью Украины»(Citation: 24) – суверенные функции гетманской власти переходили к представителям метрополии.'

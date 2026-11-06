@@ -1,22 +1,22 @@
 type: procedure
 id: C0045.T0113.002
 campaign_name:
-  ru: Отмена Магдебургского права (1831)
   en: Abolition of Magdeburg Rights (1831)
   uk: Скасування Магдебурзького права (1831)
+  ru: Отмена Магдебургского права (1831)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0113.002
 technique_name:
-  ru: Исключение родного языка из делопроизводства
   en: Exclusion of the Native Language from Official Use
   uk: Виключення рідної мови з діловодства
+  ru: Исключение родного языка из делопроизводства
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Вытеснение родного языка из официальной сферы городов: с ликвидацией остатков магдебургского самоуправления исчезла и последняя институциональная опора для местной правовой традиции – украиноязычное судопроизводство было свернуто еще с распространением общероссийской судебной системы в 1780-х годах(Citation: 194).'
   en: 'The displacement of the native language from the official sphere of the cities: with the liquidation of the remnants of Magdeburg self-government, the last institutional support for the local legal tradition disappeared – Ukrainian-language court proceedings had been curtailed as early as the extension of the all-Russian judicial system in the 1780s(Citation: 194).'
   uk: 'Витіснення рідної мови з офіційної сфери міст: із ліквідацією решток магдебурзького самоврядування зникла й остання інституційна опора місцевої правової традиції – україномовне судочинство було згорнуто ще з поширенням загальноросійської судової системи у 1780-х роках(Citation: 194).'
+  ru: 'Вытеснение родного языка из официальной сферы городов: с ликвидацией остатков магдебургского самоуправления исчезла и последняя институциональная опора для местной правовой традиции – украиноязычное судопроизводство было свернуто еще с распространением общероссийской судебной системы в 1780-х годах(Citation: 194).'

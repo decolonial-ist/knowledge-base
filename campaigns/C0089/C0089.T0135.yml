@@ -1,22 +1,22 @@
 type: procedure
 id: C0089.T0135
 campaign_name:
-  ru: «Генеральный погром» правозащитников и карательная психиатрия (1972–1985)
   en: The "General Pogrom" of Human Rights Defenders and Punitive Psychiatry (1972–1985)
   uk: «Генеральний погром» правозахисників і каральна психіатрія (1972–1985)
+  ru: «Генеральный погром» правозащитников и карательная психиатрия (1972–1985)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0135
 technique_name:
-  ru: Карательная психиатрия
   en: Punitive Psychiatry
   uk: Каральна психіатрія
+  ru: Карательная психиатрия
 people: ukrainians
 actor: G0010
 tool: S0022
 contributors: []
 description:
-  ru: 'Использование институтов государственного здравоохранения для политически мотивированного диагностирования инакомыслящих (диагноз «вялотекущая шизофрения») и их бессрочной изоляции в психиатрических больницах(Citation: 31).'
   en: 'Use of state healthcare institutions for the politically motivated diagnosing of dissenters (the diagnosis of "sluggish schizophrenia") and their indefinite confinement in psychiatric hospitals(Citation: 31).'
   uk: 'Використання інститутів державної охорони здоров''я для політично вмотивованого діагностування інакодумців (діагноз «млявоплинна шизофренія») та їхньої безстрокової ізоляції в психіатричних лікарнях(Citation: 31).'
+  ru: 'Использование институтов государственного здравоохранения для политически мотивированного диагностирования инакомыслящих (диагноз «вялотекущая шизофрения») и их бессрочной изоляции в психиатрических больницах(Citation: 31).'

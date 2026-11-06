@@ -1,28 +1,28 @@
 type: procedure
 id: C1152.T0159
 campaign_name:
-  ru: 'Выжигание плоскостной Чечни экспедицией Вельяминова: снос сёл от Сунжи до Маиртупа, захват семьи Астемира, коллективные взыскания с чеченских сёл, рубка бегущих жителей Дзулгай-Юрта и истребление зимних запасов (1830-1831)'
   en: 'Burning of Lowland Chechnya by Velyaminov''s Expedition: Demolition of Villages from the Sunzha to Mairtup, Seizure of Astemir''s Family, Collective Penalties Imposed on Chechen Villages, the Cutting Down of Fleeing Inhabitants of Dzulgai-Yurt, and Destruction of Winter Stores (1830-1831)'
   uk: 'Випалювання рівнинної Чечні експедицією Вельямінова: знесення сіл від Сунжі до Маїртупа, захоплення сім''ї Астемира, колективні стягнення з чеченських сіл, рубання жителів Дзулгай-Юрта, які тікали, та винищення зимових запасів (1830-1831)'
+  ru: 'Выжигание плоскостной Чечни экспедицией Вельяминова: снос сёл от Сунжи до Маиртупа, захват семьи Астемира, коллективные взыскания с чеченских сёл, рубка бегущих жителей Дзулгай-Юрта и истребление зимних запасов (1830-1831)'
 created: 2026-07-03
 modified: 2026-08-07
 version: '1.0'
 technique: T0159
 technique_name:
-  ru: Коллективные наказания
   en: Collective Punishment
   uk: Колективні покарання
+  ru: Коллективные наказания
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Осенью 1830 генерал Вельяминов ввёл коллективные имущественные взыскания с чеченских сёл, не отвечавших за чужие действия: за угон чеченцами десяти голов скота из станицы Червленной он «тотчас приказал отобрать от жителей двух деревень Брагуны и Нового-Юрта, мимо которых прошла партия, тоже десять штук скота и возвратить его казакам», за угон табуна лошадей в Ногайской степи «Брагуны опять поплатились точно таким же количеством голов», а владелец Нового-Юрта Шах-Гирей за бездействие сельского караула был посажен в каземат - тюремную камеру крепости Грозной.
-    Это фиксировал имперский историк Потто(Citation: 78).
   en: |-
     In the autumn of 1830, General Velyaminov introduced collective property levies on Chechen villages that bore no responsibility for the actions of others: for the driving off by Chechens of ten head of cattle from the stanitsa of Chervlennaya, he “immediately ordered that ten head of cattle likewise be taken from the inhabitants of the two villages of Braguny and Novy-Yurt, past which the party had traveled, and returned to the Cossacks”; for the driving off of a herd of horses in the Nogai steppe, “Braguny once again paid with exactly the same number of head”; and Shakh-Girei, the owner of Novy-Yurt, was confined to a casemate — a prison cell of the Groznaya fortress — for the inaction of the village watch.
     This was recorded by the imperial historian Potto(Citation: 78).
   uk: |-
     Восени 1830 генерал Вельямінов запровадив колективні майнові стягнення з чеченських сіл, які не відповідали за чужі дії: за викрадення Чеченцями десяти голів худоби зі станиці Червленної він «одразу наказав відібрати в жителів двох сіл Брагуни та Нового-Юрта, повз які пройшла партія, теж десять голів худоби та повернути її козакам», за викрадення табуна коней у Ногайському степу «Брагуни знову поплатилися точно такою ж кількістю голів», а власника Нового-Юрта Шах-Гірея за бездіяльність сільської варти було посаджено в каземат — тюремну камеру фортеці Грозної.
     Це зафіксував імперський історик Потто(Citation: 78).
+  ru: |-
+    Осенью 1830 генерал Вельяминов ввёл коллективные имущественные взыскания с чеченских сёл, не отвечавших за чужие действия: за угон чеченцами десяти голов скота из станицы Червленной он «тотчас приказал отобрать от жителей двух деревень Брагуны и Нового-Юрта, мимо которых прошла партия, тоже десять штук скота и возвратить его казакам», за угон табуна лошадей в Ногайской степи «Брагуны опять поплатились точно таким же количеством голов», а владелец Нового-Юрта Шах-Гирей за бездействие сельского караула был посажен в каземат - тюремную камеру крепости Грозной.
+    Это фиксировал имперский историк Потто(Citation: 78).

@@ -58,15 +58,11 @@
       "type": "object",
       "additionalProperties": false,
       "required": [
-        "ru",
         "en",
-        "uk"
+        "uk",
+        "ru"
       ],
       "properties": {
-        "ru": {
-          "type": "string",
-          "minLength": 1
-        },
         "en": {
           "type": "string",
           "minLength": 0
@@ -74,6 +70,10 @@
         "uk": {
           "type": "string",
           "minLength": 0
+        },
+        "ru": {
+          "type": "string",
+          "minLength": 1
         }
       }
     },
@@ -83,15 +83,11 @@
         "type": "object",
         "additionalProperties": false,
         "required": [
-          "ru",
           "en",
-          "uk"
+          "uk",
+          "ru"
         ],
         "properties": {
-          "ru": {
-            "type": "string",
-            "minLength": 1
-          },
           "en": {
             "type": "string",
             "minLength": 0
@@ -99,6 +95,10 @@
           "uk": {
             "type": "string",
             "minLength": 0
+          },
+          "ru": {
+            "type": "string",
+            "minLength": 1
           }
         }
       }
@@ -107,20 +107,20 @@
       "type": "object",
       "additionalProperties": false,
       "required": [
-        "ru",
         "en",
-        "uk"
+        "uk",
+        "ru"
       ],
       "properties": {
-        "ru": {
-          "type": "string",
-          "minLength": 0
-        },
         "en": {
           "type": "string",
           "minLength": 0
         },
         "uk": {
+          "type": "string",
+          "minLength": 0
+        },
+        "ru": {
           "type": "string",
           "minLength": 0
         }

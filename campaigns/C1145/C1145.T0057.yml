@@ -1,28 +1,28 @@
 type: procedure
 id: C1145.T0057
 campaign_name:
-  ru: Ночное нападение на аул Топли, сожжение Герменчука и принуждение нохчи к рубке своих лесов (1820)
   en: Night Attack on the Aul of Topli, Burning of Germenchuk, and Coercion of the Nokhchi to Fell Their Own Forests (1820)
   uk: Нічний напад на аул Топлі, спалення Герменчука та примушення Нохчі до вирубування власних лісів (1820)
+  ru: Ночное нападение на аул Топли, сожжение Герменчука и принуждение нохчи к рубке своих лесов (1820)
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0057
 technique_name:
-  ru: Эксплуатация труда
   en: Labor Exploitation
   uk: Експлуатація праці
+  ru: Эксплуатация труда
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Российская империя силой принуждала нохчи работать на завоевателя — рубить просеки через их собственные леса.
-    Имперский историк Потто пишет, что начальник левого фланга Греков «собрал старшин окрестных деревень и приказал им немедленно выслать рабочих с топорами для вырубки», и под угрозой расправы «заставил чеченцев повиноваться», после чего согнанные жители рубили просеку через свой лес(Citation: 75).
   en: |-
     The Russian Empire forcibly compelled the Nokhchi to work for the conqueror — to cut clearings through their own forests.
     The imperial historian Potto writes that Grekov, commander of the left flank, “gathered the elders of the surrounding villages and ordered them to send out workers with axes for the felling at once,” and under threat of reprisal “compelled the Chechens to obey,” after which the conscripted inhabitants cut a clearing through their own forest(Citation: 75).
   uk: |-
     Російська імперія силоміць змушувала Нохчі працювати на завойовника — прорубувати просіки через їхні власні ліси.
     Імперський історик Потто пише, що начальник лівого флангу Греков «зібрав старшин навколишніх сіл і наказав їм негайно вислати робітників із сокирами для вирубки», і під загрозою розправи «змусив Чеченців коритися», після чого зігнані жителі рубали просіку через свій ліс(Citation: 75).
+  ru: |-
+    Российская империя силой принуждала нохчи работать на завоевателя — рубить просеки через их собственные леса.
+    Имперский историк Потто пишет, что начальник левого фланга Греков «собрал старшин окрестных деревень и приказал им немедленно выслать рабочих с топорами для вырубки», и под угрозой расправы «заставил чеченцев повиноваться», после чего согнанные жители рубили просеку через свой лес(Citation: 75).

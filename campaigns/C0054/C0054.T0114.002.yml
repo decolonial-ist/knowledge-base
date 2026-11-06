@@ -1,22 +1,22 @@
 type: procedure
 id: C0054.T0114.002
 campaign_name:
-  ru: Финансовая русификация школ (1978–1983)
   en: Financial Russification of Schools (1978–1983)
   uk: Фінансова русифікація шкіл (1978–1983)
+  ru: Финансовая русификация школ (1978–1983)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0114.002
 technique_name:
-  ru: Финансовая дискриминация педагогов
   en: Financial Discrimination Against Teachers
   uk: Фінансова дискримінація педагогів
+  ru: Финансовая дискриминация педагогов
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Финансовые привилегии за преподавание на языке метрополии: во исполнение постановления ЦК КПСС и Совета Министров СССР от 26 мая 1983 года № 473 «О дополнительных мерах по улучшению изучения русского языка в общеобразовательных школах и других учебных заведениях союзных республик» ЦК Компартии Украины и Совет Министров УССР постановлением от 10 июня 1983 года - за подписями Щербицкого и Ляшко, с грифом «Не для печати» - увеличили с 1984 года на 15 процентов ставки зарплаты учителей русского языка и литературы и разрешили делить классы численностью более 25 учеников на подгруппы на занятиях русским(Citation: 181)(Citation: 417).'
   en: 'Financial privileges for teaching in the metropole''s language: pursuant to the resolution of the CPSU Central Committee and the USSR Council of Ministers of 26 May 1983 No. 473 "On additional measures for improving the study of the Russian language in general-education schools and other educational institutions of the union republics," the Central Committee of the Communist Party of Ukraine and the Council of Ministers of the Ukrainian SSR, by a resolution of 10 June 1983 - signed by Shcherbytsky and Liashko, stamped "Not for the press" - raised from 1984 by 15 percent the salary rates of teachers of Russian language and literature and allowed classes of more than 25 pupils to be split into subgroups for Russian lessons(Citation: 181)(Citation: 417).'
   uk: 'Фінансові привілеї за викладання мовою метрополії: на виконання постанови ЦК КПРС і Ради Міністрів СРСР від 26 травня 1983 року № 473 «Про додаткові заходи по поліпшенню вивчення російської мови в загальноосвітніх школах та інших навчальних закладах союзних республік» ЦК Компартії України і Рада Міністрів УРСР постановою від 10 червня 1983 року - за підписами Щербицького і Ляшка, з грифом «Не для преси» - постановили «збільшити з 1984 року на 15 процентів ставки заробітної плати вчителів» російської мови та літератури і дозволили поділ класів з понад 25 учнями на підгрупи на заняттях з російської(Citation: 181)(Citation: 417).'
+  ru: 'Финансовые привилегии за преподавание на языке метрополии: во исполнение постановления ЦК КПСС и Совета Министров СССР от 26 мая 1983 года № 473 «О дополнительных мерах по улучшению изучения русского языка в общеобразовательных школах и других учебных заведениях союзных республик» ЦК Компартии Украины и Совет Министров УССР постановлением от 10 июня 1983 года - за подписями Щербицкого и Ляшко, с грифом «Не для печати» - увеличили с 1984 года на 15 процентов ставки зарплаты учителей русского языка и литературы и разрешили делить классы численностью более 25 учеников на подгруппы на занятиях русским(Citation: 181)(Citation: 417).'

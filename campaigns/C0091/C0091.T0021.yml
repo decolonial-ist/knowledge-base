@@ -1,22 +1,22 @@
 type: procedure
 id: C0091.T0021
 campaign_name:
-  ru: Торможение демократических реформ и противодействие Народному Руху (1989–1990)
   en: Stalling Democratic Reforms and Countering the People's Movement (Rukh) (1989–1990)
   uk: Гальмування демократичних реформ і протидія Народному Руху (1989–1990)
+  ru: Торможение демократических реформ и противодействие Народному Руху (1989–1990)
 created: 2026-04-27
 modified: 2026-08-09
 version: '1.0'
 technique: T0021
 technique_name:
-  ru: Нейтрализация оппозиции
   en: Neutralization of the Opposition
   uk: Нейтралізація опозиції
+  ru: Нейтрализация оппозиции
 people: ukrainians
 actor: G0010
 tool: S0024
 contributors: []
 description:
-  ru: 'Силовая нейтрализация активистов движения руками силовых структур и партийного актива: разгоны памятных акций с избиениями («вытащили из машины, избили») при участии КГБ и милиции(Citation: 233), госпитализация избитого политзаключенного Василя Овсиенко(Citation: 232), смерть руховца Евгения Меленивского - после «беседы» в областном управлении МВД он «умер по дороге домой»(Citation: 316), а позднее - «демонстративная незаинтересованность» правоохранителей в раскрытии преступлений против функционеров Руха: они «демонстративно проявляли незаинтересованность в раскрытии преступления»(Citation: 238).'
   en: 'The forcible neutralization of movement activists at the hands of the security structures and party apparatus: the dispersal of commemorative actions with beatings ("dragged out of the car, beaten") with the participation of the KGB and the militia(Citation: 233), the hospitalization of the beaten political prisoner Vasyl Ovsienko(Citation: 232), and the death of Rukh member Yevhen Melenivsky - after a "conversation" at the regional MVD directorate he "died on his way home"(Citation: 316), and later - the law enforcement bodies'' demonstrative disinterest in solving crimes against Rukh functionaries: they "demonstratively displayed disinterest in solving the crime"(Citation: 238).'
   uk: 'Силова нейтралізація активістів руху руками силових структур і партійного активу: розгони пам''ятних акцій з побиттями («витягнули з машини, побили») за участю КДБ і міліції(Citation: 233), госпіталізація побитого політв''язня Василя Овсієнка(Citation: 232), смерть рухівця Євгена Меленівського - «після „бесіди“ в обласному управлінні МВС помер по дорозі додому Євген Меленівський»(Citation: 316), а пізніше - демонстративна незацікавленість правоохоронців у розкритті злочинів проти функціонерів Руху: вони «демонстративно виявляли незацікавленість в розкритті злочину»(Citation: 238).'
+  ru: 'Силовая нейтрализация активистов движения руками силовых структур и партийного актива: разгоны памятных акций с избиениями («вытащили из машины, избили») при участии КГБ и милиции(Citation: 233), госпитализация избитого политзаключенного Василя Овсиенко(Citation: 232), смерть руховца Евгения Меленивского - после «беседы» в областном управлении МВД он «умер по дороге домой»(Citation: 316), а позднее - «демонстративная незаинтересованность» правоохранителей в раскрытии преступлений против функционеров Руха: они «демонстративно проявляли незаинтересованность в раскрытии преступления»(Citation: 238).'

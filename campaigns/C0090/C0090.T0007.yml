@@ -1,22 +1,22 @@
 type: procedure
 id: C0090.T0007
 campaign_name:
-  ru: Информационная блокада вокруг Чернобыльской катастрофы (1986)
   en: Information Blockade Around the Chornobyl Disaster (1986)
   uk: Інформаційна блокада навколо Чорнобильської катастрофи (1986)
+  ru: Информационная блокада вокруг Чернобыльской катастрофы (1986)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0007
 technique_name:
-  ru: Навязывание своей картины реальности
   en: Imposition of Its Own Picture of Reality
   uk: Нав'язування власної картини реальності
+  ru: Навязывание своей картины реальности
 people: ukrainians
 actor: G0010
 tool: S0021
 contributors: []
 description:
-  ru: 'Создание искусственной картины радиационного благополучия и преступный, принудительный вывод людей на первомайские демонстрации в Киеве под радиоактивные осадки для маскировки катастрофы(Citation: 38).'
   en: 'Creation of an artificial picture of radiological well-being and the criminal, forced marching of people into the May Day demonstrations in Kyiv under radioactive fallout to mask the catastrophe(Citation: 38).'
   uk: 'Створення штучної картини радіаційного благополуччя та злочинне, примусове виведення людей на першотравневі демонстрації в Києві під радіоактивні опади для маскування катастрофи(Citation: 38).'
+  ru: 'Создание искусственной картины радиационного благополучия и преступный, принудительный вывод людей на первомайские демонстрации в Киеве под радиоактивные осадки для маскировки катастрофы(Citation: 38).'

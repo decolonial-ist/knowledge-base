@@ -1,22 +1,22 @@
 type: procedure
 id: C0078.T0104
 campaign_name:
-  ru: 'Террор голодом: Голодомор (1932–1933)'
   en: 'Terror by Famine: The Holodomor (1932–1933)'
   uk: 'Терор голодом: Голодомор (1932–1933)'
+  ru: 'Террор голодом: Голодомор (1932–1933)'
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0104
 technique_name:
-  ru: Массовые убийства гражданских
   en: Mass Killings of Civilians
   uk: Масові вбивства цивільних
+  ru: Массовые убийства гражданских
 people: ukrainians
 actor: G0010
 tool: S0017
 contributors: []
 description:
-  ru: 'Осознанное доведение миллионов украинских крестьян до голодной смерти как прямой результат государственной политики Москвы(Citation: 22).'
   en: 'Deliberately starving millions of Ukrainian peasants to death as a direct result of Moscow''s state policy(Citation: 22).'
   uk: 'Свідоме доведення мільйонів Українських селян до голодної смерті як прямий результат державної політики Москви(Citation: 22).'
+  ru: 'Осознанное доведение миллионов украинских крестьян до голодной смерти как прямой результат государственной политики Москвы(Citation: 22).'

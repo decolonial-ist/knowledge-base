@@ -1,28 +1,28 @@
 type: procedure
 id: C1148.T0140
 campaign_name:
-  ru: Разорение равнинных сёл нохчи в карательном походе Ермолова (1826)
   en: Devastation of the Lowland Nokhchi Villages in Yermolov’s Punitive Campaign (1826)
   uk: Розорення рівнинних сіл Нохчі в каральному поході Єрмолова (1826)
+  ru: Разорение равнинных сёл нохчи в карательном походе Ермолова (1826)
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0140
 technique_name:
-  ru: Разрушение природного ландшафта
   en: Destruction of the Natural Landscape
   uk: Руйнування природного ландшафту
+  ru: Разрушение природного ландшафта
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Историк Д. А. Хожаев пишет, что к 18 мая 1826 года у нохчи были «вырублены прекрасные фруктовые сады, сожжены поля»(Citation: 95).
-    Сам генерал Ермолов в рапорте императору Николаю I от 28 мая 1826 года признавал, что под Урус-Мартаном «прекрасные сады оной вырублены», а селение Шали он приказал «вырубить сады»(Citation: 103).
   en: |-
     Historian D. A. Khozhaev writes that by May 18, 1826, the Nokhchi's «splendid fruit orchards had been cut down, fields burned»(Citation: 95).
     General Yermolov himself, in a report to Emperor Nicholas I dated May 28, 1826, admitted that at Urus-Martan «its splendid orchards were cut down», and for the village of Shali he gave the order «to cut down the orchards»(Citation: 103).
   uk: |-
     Історик Д. А. Хожаєв пише, що до 18 травня 1826 року в Нохчі були «вирубані прекрасні фруктові сади, спалені поля»(Citation: 95).
     Сам генерал Єрмолов у рапорті імператору Миколі I від 28 травня 1826 року визнавав, що під Урус-Мартаном «прекрасні сади оного вирубано», а щодо селища Шалі він наказав «вирубати сади»(Citation: 103).
+  ru: |-
+    Историк Д. А. Хожаев пишет, что к 18 мая 1826 года у нохчи были «вырублены прекрасные фруктовые сады, сожжены поля»(Citation: 95).
+    Сам генерал Ермолов в рапорте императору Николаю I от 28 мая 1826 года признавал, что под Урус-Мартаном «прекрасные сады оной вырублены», а селение Шали он приказал «вырубить сады»(Citation: 103).

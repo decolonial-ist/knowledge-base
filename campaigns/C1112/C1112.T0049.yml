@@ -1,22 +1,22 @@
 type: procedure
 id: C1112.T0049
 campaign_name:
-  ru: Начало политического подчинения нохчи (1588–1591)
   en: Beginning of the political subjugation of the Nokhchi (1588–1591)
   uk: Початок політичного підпорядкування Нохчі (1588–1591)
+  ru: Начало политического подчинения нохчи (1588–1591)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: nokhchi
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: 'Оккупационная администрация обязывала подчиненные общества нохчи участвовать в военных кампаниях: историк Е. Н. Кушева указывает на документы «о возможности участия мурзы Шиха... в походе русских ратных людей»(Citation: 82).'
   en: 'The occupation administration obliged the subordinated Nokhchi societies to take part in military campaigns: historian E. N. Kusheva points to documents «on the possibility of the participation of Murza Shikh... in a campaign of Russian men-at-arms»(Citation: 82).'
   uk: 'Окупаційна адміністрація зобов''язувала підпорядковані спільноти Нохчі брати участь у військових кампаніях: історик Е. Н. Кушева вказує на документи «про можливість участі мурзи Шиха... в поході російських ратних людей»(Citation: 82).'
+  ru: 'Оккупационная администрация обязывала подчиненные общества нохчи участвовать в военных кампаниях: историк Е. Н. Кушева указывает на документы «о возможности участия мурзы Шиха... в походе русских ратных людей»(Citation: 82).'

@@ -1,28 +1,28 @@
 type: procedure
 id: C0014.T0024
 campaign_name:
-  ru: Ликвидация Запорожской Сечи (1709)
   en: Liquidation of the Zaporozhian Sich (1709)
   uk: Ліквідація Запорозької Січі (1709)
+  ru: Ликвидация Запорожской Сечи (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0024
 technique_name:
-  ru: Оправдание через религию
   en: Justification Through Religion
   uk: Виправдання через релігію
+  ru: Оправдание через религию
 people: ukrainians
 actor: G0008
 tool: S0011
 contributors: []
 description:
-  ru: |-
-    Использование церкви как инструмента наказания: анафема была оглашена по прямому распоряжению царя - «изволте онаго за такое ево дело публично в саборной церкви проклятию предать...»(Citation: 4).
-    Богословского обоснования под это не подводили, и часть украинского духовенства обряд не приняла: бывший лохвицкий протопоп во время объявления анафемы сказал «Наш Мазепа свят и будет на небе, а ваш государь нет»(Citation: 4).
   en: |-
     The use of the church as an instrument of punishment: the anathema was proclaimed by the tsar's direct order - "be pleased to have him, for such a deed of his, publicly cursed in the cathedral church..."(Citation: 4).
     No theological grounding was supplied for it, and part of the Ukrainian clergy refused to accept the rite: a former Lokhvytsia archpriest said during the proclamation of the anathema, "Our Mazepa is holy and will be in heaven, and your sovereign will not"(Citation: 4).
   uk: |-
     Використання церкви як інструмента покарання: анафему було оголошено за прямим розпорядженням царя - «звольте оного за таке його діло публічно в соборній церкві прокляттю віддати...»(Citation: 4).
     Богословського обґрунтування під це не підводили, і частина українського духовенства обряд не прийняла: колишній лохвицький протопоп під час оголошення анафеми сказав «Наш Мазепа святий і буде на небі, а ваш государ ні»(Citation: 4).
+  ru: |-
+    Использование церкви как инструмента наказания: анафема была оглашена по прямому распоряжению царя - «изволте онаго за такое ево дело публично в саборной церкви проклятию предать...»(Citation: 4).
+    Богословского обоснования под это не подводили, и часть украинского духовенства обряд не приняла: бывший лохвицкий протопоп во время объявления анафемы сказал «Наш Мазепа свят и будет на небе, а ваш государь нет»(Citation: 4).

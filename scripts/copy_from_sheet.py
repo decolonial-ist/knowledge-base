@@ -44,7 +44,7 @@ PEOPLE_SLUG = {"Нохчи": "nokhchi", "Нохчи (Чеченцы)": "nokhchi"
 SHEET_TECHS, SHEET_TACTICS = "Техники | Techniques", "Тактики | Tactics"
 SHEET_GROUPS, SHEET_TOOLS, SHEET_MATERIALS = "Акторы | Groups", "Инструменты | Tools", "Список материалов"
 OLD_TACTIC_ALIASES = {"нейтрализация защиты": "ослабление защиты"}
-LANGS = ("ru", "en", "uk")
+LANGS = ("en", "uk", "ru")
 
 report = collections.defaultdict(list)
 

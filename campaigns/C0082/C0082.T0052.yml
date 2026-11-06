@@ -1,22 +1,22 @@
 type: procedure
 id: C0082.T0052
 campaign_name:
-  ru: Тактика «выжженной земли» и преступная мобилизация (1941–1945)
   en: Scorched Earth Tactics and Criminal Mobilization (1941–1945)
   uk: Тактика «випаленої землі» та злочинна мобілізація (1941–1945)
+  ru: Тактика «выжженной земли» и преступная мобилизация (1941–1945)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0052
 technique_name:
-  ru: Изъятие ресурсов
   en: Expropriation of Resources
   uk: Вилучення ресурсів
+  ru: Изъятие ресурсов
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Тотальный вывоз промышленного оборудования и продовольствия вглубь СССР: «вглубь СССР было перемещено 550 индустриальных объектов (190 — союзного и 360 — республиканского подчинения)»; «С Правобережья на левый берег Днепра было переправлено 4498 тракторов, 680 комбайнов, 690 автомашин»(Citation: 189).'
   en: 'The total removal of industrial equipment and food supplies into the interior of the USSR: "550 industrial facilities were moved into the interior of the USSR (190 of all-Union and 360 of republican subordination)"; "From the Right Bank to the left bank of the Dnipro were ferried 4,498 tractors, 680 combines, 690 motor vehicles"(Citation: 189).'
   uk: 'Тотальне вивезення промислового обладнання та продовольства в глиб СРСР: «углиб СРСР було переміщено 550 індустріальних об''єктів (190 — союзного та 360 — респ. підпорядкування)»; «З Правобережжя на лівий берег Дніпра було переправлено 4498 тракторів, 680 комбайнів, 690 автомашин»(Citation: 189).'
+  ru: 'Тотальный вывоз промышленного оборудования и продовольствия вглубь СССР: «вглубь СССР было перемещено 550 индустриальных объектов (190 — союзного и 360 — республиканского подчинения)»; «С Правобережья на левый берег Днепра было переправлено 4498 тракторов, 680 комбайнов, 690 автомашин»(Citation: 189).'

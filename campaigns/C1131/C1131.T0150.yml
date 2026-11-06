@@ -1,24 +1,24 @@
 type: procedure
 id: C1131.T0150
 campaign_name:
-  ru: Экономическая дискриминация и разведка территорий (1726–1728)
   en: Economic Discrimination and Reconnaissance of Territories (1726–1728)
   uk: Економічна дискримінація та розвідка територій (1726–1728)
+  ru: Экономическая дискриминация и разведка территорий (1726–1728)
 created: 2026-06-21
 modified: 2026-06-21
 version: '1.0'
 technique: T0150
 technique_name:
-  ru: Комплексная разведка территорий
   en: Comprehensive Reconnaissance of Territories
   uk: Комплексна розвідка територій
+  ru: Комплексная разведка территорий
 people: nokhchi
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Правительство Российской империи направляло специалистов для сбора данных о землях и населении нохчи: историк Ш. Б. Ахмадов указывает, что в 1728 году офицер И. Г. Гербер «по заданию правительства... составил описание местностей и населения... а также карту этого района»(Citation: 66).'
   en: |-
     The government of the Russian Empire dispatched specialists to collect data on the lands and population of the Nokhchi: historian Sh.
     B. Akhmadov points out that in 1728 the officer I. G. Gerber "on the government's assignment... compiled a description of the localities and population... as well as a map of this area"(Citation: 66).
   uk: 'Уряд Російської імперії направляв фахівців для збору даних про землі та населення Нохчі: історик Ш. Б. Ахмадов вказує, що 1728 року офіцер І. Г. Гербер «за завданням уряду... склав опис місцевостей і населення... а також карту цього району»(Citation: 66).'
+  ru: 'Правительство Российской империи направляло специалистов для сбора данных о землях и населении нохчи: историк Ш. Б. Ахмадов указывает, что в 1728 году офицер И. Г. Гербер «по заданию правительства... составил описание местностей и населения... а также карту этого района»(Citation: 66).'

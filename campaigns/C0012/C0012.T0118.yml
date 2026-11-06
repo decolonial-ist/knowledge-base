@@ -1,28 +1,28 @@
 type: procedure
 id: C0012.T0118
 campaign_name:
-  ru: Переход Мазепы на сторону Швеции и Батуринская резня (1708)
   en: Mazepa's Defection to Sweden and the Baturyn Massacre (1708)
   uk: Перехід Мазепи на бік Швеції та Батуринська різанина (1708)
+  ru: Переход Мазепы на сторону Швеции и Батуринская резня (1708)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0118
 technique_name:
-  ru: Истребление по территориальному признаку
   en: Extermination on a Territorial Basis
   uk: Винищення за територіальною ознакою
+  ru: Истребление по территориальному признаку
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Тотальная резня мирного населения: «Функ перебил больше тысячи людей в маленьком городке Терее (Терейской слободе) и сжег этот городок, сжег также Дрыгалов (Недрыгайлово)… и велел перебить всех, кто повстречался, чтобы внушить ужас другим»(Citation: 170).
-    «Всего в батуринской трагедии погибло около 15 тысяч украинцев, в том числе все женщины и дети»(Citation: 3)(Citation: 4).
   en: |-
     Total massacre of the civilian population: "Funck slaughtered more than a thousand people in the small town of Terey (Tereyska sloboda) and burned the town down, and also burned Dryhalov (Nedryhailiv)… and ordered everyone encountered to be killed, so as to instill horror in others"(Citation: 170).
     "In total, about 15 thousand Ukrainians died in the Baturyn tragedy, including all the women and children"(Citation: 3)(Citation: 4).
   uk: |-
     Тотальна різанина мирного населення: «Функ перебив понад тисячу людей у маленькому містечку Тереї (Терейській слободі) і спалив це містечко, спалив також Дригалів (Недригайлове)… і звелів перебити всіх, хто трапився, щоб вселити жах іншим»(Citation: 170).
     «Загалом у батуринській трагедії загинуло близько 15 тисяч українців, у тому числі всі жінки й діти»(Citation: 3)(Citation: 4).
+  ru: |-
+    Тотальная резня мирного населения: «Функ перебил больше тысячи людей в маленьком городке Терее (Терейской слободе) и сжег этот городок, сжег также Дрыгалов (Недрыгайлово)… и велел перебить всех, кто повстречался, чтобы внушить ужас другим»(Citation: 170).
+    «Всего в батуринской трагедии погибло около 15 тысяч украинцев, в том числе все женщины и дети»(Citation: 3)(Citation: 4).

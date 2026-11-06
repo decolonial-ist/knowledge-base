@@ -1,22 +1,22 @@
 type: procedure
 id: C1120.T0164
 campaign_name:
-  ru: Карательный поход и разорение горных обществ нохчи (1617–1618)
   en: Punitive campaign and the devastation of the Nokhchi mountain communities (1617–1618)
   uk: Каральний похід і розорення гірських спільнот Нохчі (1617–1618)
+  ru: Карательный поход и разорение горных обществ нохчи (1617–1618)
 created: 2026-06-14
 modified: 2026-08-10
 version: '1.0'
 technique: T0164
 technique_name:
-  ru: Мародерство
   en: Pillage
   uk: Мародерство
+  ru: Мародерство
 people: nokhchi
 actor: G0008
 tool: S0012
 contributors: []
 description:
-  ru: 'Карательные отряды грабили и обращали население в рабство: в челобитной царю Михаилу Федоровичу кабардинский князь Сунчалей Янглычевич Черкасский отчитывался, что они аулы «совсем разорили и многой полон поймали»(Citation: 82).'
   en: 'The punitive detachments plundered and enslaved the population: in a petition to Tsar Mikhail Fyodorovich, the Kabardian prince Sunchaley Yanglychevich Cherkassky reported that they «utterly ruined» the auls «and took many captives»(Citation: 82).'
   uk: 'Каральні загони грабували та обертали населення в рабство: у чолобитній цареві Михайлу Федоровичу кабардинський князь Сунчалей Янгличевич Черкаський звітував, що аули вони «зовсім розорили і багато полону взяли»(Citation: 82).'
+  ru: 'Карательные отряды грабили и обращали население в рабство: в челобитной царю Михаилу Федоровичу кабардинский князь Сунчалей Янглычевич Черкасский отчитывался, что они аулы «совсем разорили и многой полон поймали»(Citation: 82).'

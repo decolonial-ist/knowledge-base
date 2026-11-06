@@ -1,22 +1,22 @@
 type: procedure
 id: C0070.T0049
 campaign_name:
-  ru: Первая мировая война и оккупация Галичины (1914–1917)
   en: World War I and the Occupation of Galicia (1914–1917)
   uk: Перша світова війна та окупація Галичини (1914–1917)
+  ru: Первая мировая война и оккупация Галичины (1914–1917)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Принудительный призыв миллионов в имперскую армию: «За годы войны в ряды российской армии было мобилизовано 3,5 млн украинцев (по другим данным — 4,5 млн из общей численности 15,5 млн)»(Citation: 195).'
   en: 'The forced conscription of millions into the imperial army: "During the war years, 3.5 million Ukrainians were mobilized into the ranks of the Russian army (by other data – 4.5 million out of a total of 15.5 million)"(Citation: 195).'
   uk: 'Примусовий призов мільйонів до імперської армії: «За роки війни до лав рос. армії було мобілізовано 3,5 млн українців (за ін. даними — 4,5 млн із заг. чисельності 15,5 млн)»(Citation: 195).'
+  ru: 'Принудительный призыв миллионов в имперскую армию: «За годы войны в ряды российской армии было мобилизовано 3,5 млн украинцев (по другим данным — 4,5 млн из общей численности 15,5 млн)»(Citation: 195).'

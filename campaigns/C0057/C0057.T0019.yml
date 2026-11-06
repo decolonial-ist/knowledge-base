@@ -1,22 +1,22 @@
 type: procedure
 id: C0057.T0019
 campaign_name:
-  ru: Подавление Ноябрьского восстания (1830–1831)
   en: Suppression of the November Uprising (1830–1831)
   uk: Придушення Листопадового повстання (1830–1831)
+  ru: Подавление Ноябрьского восстания (1830–1831)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0019
 technique_name:
-  ru: Военная интервенция
   en: Military Intervention
   uk: Воєнна інтервенція
+  ru: Военная интервенция
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Ввод войск для силового подавления освободительного движения: созданные повстанцами отряды «были в апреле—мае 1831 разгромлены царскими войсками»(Citation: 195).'
   en: 'The deployment of troops to forcibly suppress the liberation movement: the detachments created by the insurgents "were routed by the tsarist troops in April–May 1831"(Citation: 195).'
   uk: 'Введення військ для силового придушення визвольного руху: створені повстанцями загони «були в квітні—травні 1831 розгромлені царськими військами»(Citation: 195).'
+  ru: 'Ввод войск для силового подавления освободительного движения: созданные повстанцами отряды «были в апреле—мае 1831 разгромлены царскими войсками»(Citation: 195).'

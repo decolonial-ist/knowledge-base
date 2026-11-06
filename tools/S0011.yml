@@ -5,11 +5,11 @@ modified: 2026-08-09
 version: '1.1'
 kind: tool
 name:
-  ru: Московский патриархат
   en: Moscow Patriarchate
   uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
-  ru: Лояльные империи религиозные институты, используемые для идеологической легитимизации.
   en: Religious institutions loyal to the empire, used for ideological legitimization.
   uk: Лояльні до імперії релігійні інституції, що використовуються для ідеологічної легітимізації.
+  ru: Лояльные империи религиозные институты, используемые для идеологической легитимизации.

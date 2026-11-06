@@ -1,28 +1,28 @@
 type: procedure
 id: C0014.T0052
 campaign_name:
-  ru: Ликвидация Запорожской Сечи (1709)
   en: Liquidation of the Zaporozhian Sich (1709)
   uk: Ліквідація Запорозької Січі (1709)
+  ru: Ликвидация Запорожской Сечи (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0052
 technique_name:
-  ru: Изъятие ресурсов
   en: Expropriation of Resources
   uk: Вилучення ресурсів
+  ru: Изъятие ресурсов
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Разрушение военно-экономической базы низового казачества.
-    Сечь «была своеобразной военной базой, где размещались флот, артиллерия, арсенал»(Citation: 189) – вся эта инфраструктура была уничтожена или захвачена при штурме.
   en: |-
     Destruction of the military-economic base of the Lower Dnipro Cossacks.
     The Sich "was a kind of military base housing the fleet, artillery, and arsenal"(Citation: 189) – all of this infrastructure was destroyed or seized during the assault.
   uk: |-
     Зруйнування військово-економічної бази низового козацтва.
     Січ «була своєрідною військ. базою, де містилися флот, артилерія, арсенал»(Citation: 189) – усю цю інфраструктуру було знищено або захоплено під час штурму.
+  ru: |-
+    Разрушение военно-экономической базы низового казачества.
+    Сечь «была своеобразной военной базой, где размещались флот, артиллерия, арсенал»(Citation: 189) – вся эта инфраструктура была уничтожена или захвачена при штурме.

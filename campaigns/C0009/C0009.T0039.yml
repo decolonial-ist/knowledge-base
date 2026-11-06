@@ -1,28 +1,28 @@
 type: procedure
 id: C0009.T0039
 campaign_name:
-  ru: «Вечный мир» с Польшей (1686)
   en: '"Eternal Peace" with Poland (1686)'
   uk: «Вічний мир» з Польщею (1686)
+  ru: «Вечный мир» с Польшей (1686)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0039
 technique_name:
-  ru: Сговор с третьей стороной за спиной народа
   en: Collusion with a Third Party Behind the People's Back
   uk: Змова з третьою стороною за спиною народу
+  ru: Сговор с третьей стороной за спиной народа
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: |-
-    Раздел сфер влияния за спиной украинского союзника, сопровождавшийся финансовой сделкой за территорию: по договору 1686 года Москва обязалась «сто сорок шесть тысяч рублев Московских отчесть и Речи Посполитой отдать»(Citation: 162)(Citation: 3)(Citation: 4).
-    Украинская историография зафиксировала эту сделку как рядовую куплю-продажу - Грушевский: Москва «заключила с Польшей вечное согласие (доплатив при том за Киев ещё раз 146 тыс. рублей)»(Citation: 250).
   en: |-
     The division of spheres of influence behind the Ukrainian ally's back, accompanied by a financial deal for territory: under the 1686 treaty Moscow undertook "to count out one hundred forty-six thousand Muscovite rubles and hand them over to the Commonwealth"(Citation: 162)(Citation: 3)(Citation: 4).
     Ukrainian historiography recorded the deal as an ordinary purchase - Hrushevsky: Muscovy "concluded an eternal accord with Poland (paying, in addition, another 146 thousand rubles for Kyiv)"(Citation: 250).
   uk: |-
     Поділ сфер впливу за спиною українського союзника, що супроводжувався фінансовою угодою за територію: за договором 1686 року Москва зобов'язалася «сто сорок шість тисяч рублів московських відлічити і Речі Посполитій віддати»(Citation: 162)(Citation: 3)(Citation: 4).
     Українська історіографія зафіксувала цю угоду як звичайну купівлю-продаж - Грушевський: Москва «уложила з Польщею вічну згоду (доплатило при тім за Київ ще раз 146 тис. рублів)»(Citation: 250).
+  ru: |-
+    Раздел сфер влияния за спиной украинского союзника, сопровождавшийся финансовой сделкой за территорию: по договору 1686 года Москва обязалась «сто сорок шесть тысяч рублев Московских отчесть и Речи Посполитой отдать»(Citation: 162)(Citation: 3)(Citation: 4).
+    Украинская историография зафиксировала эту сделку как рядовую куплю-продажу - Грушевский: Москва «заключила с Польшей вечное согласие (доплатив при том за Киев ещё раз 146 тыс. рублей)»(Citation: 250).

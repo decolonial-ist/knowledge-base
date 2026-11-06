@@ -1,22 +1,22 @@
 type: procedure
 id: C1029.T0105
 campaign_name:
-  ru: Военная интервенция и неизбирательный террор (1994–1996)
   en: Military intervention and indiscriminate terror (1994–1996)
   uk: Воєнна інтервенція та невибірковий терор (1994–1996)
+  ru: Военная интервенция и неизбирательный террор (1994–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0105
 technique_name:
-  ru: Тотальное уничтожение инфраструктуры
   en: Total Destruction of Infrastructure
   uk: Тотальне знищення інфраструктури
+  ru: Тотальное уничтожение инфраструктуры
 people: nokhchi
 actor: G0011
 tool: S0010
 contributors: []
 description:
-  ru: 'Ковровые бомбардировки и удары системами залпового огня «Град» по Грозному, Шали, Серноводску и другим селам, разрушение жилых кварталов и применение бомб объемного взрыва(Citation: 27)(Citation: 26).'
   en: 'Carpet bombing and strikes with Grad multiple launch rocket systems on Grozny, Shali, Sernovodsk, and other villages, destruction of residential neighborhoods, and the use of fuel-air explosive bombs(Citation: 27)(Citation: 26).'
   uk: 'Килимові бомбардування та удари системами залпового вогню «Град» по Грозному, Шалі, Серноводську та інших селах, руйнування житлових кварталів і застосування бомб об''ємного вибуху(Citation: 27)(Citation: 26).'
+  ru: 'Ковровые бомбардировки и удары системами залпового огня «Град» по Грозному, Шали, Серноводску и другим селам, разрушение жилых кварталов и применение бомб объемного взрыва(Citation: 27)(Citation: 26).'

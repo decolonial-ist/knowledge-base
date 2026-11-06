@@ -1,25 +1,25 @@
 type: procedure
 id: C1133.T0015
 campaign_name:
-  ru: Подкуп знати и институционализация системы заложников (1735)
   en: Bribery of the Nobility and Institutionalization of the Hostage System (1735)
   uk: Підкуп знаті та інституціоналізація системи заручників (1735)
+  ru: Подкуп знати и институционализация системы заложников (1735)
 created: 2026-06-21
 modified: 2026-06-21
 version: '1.0'
 technique: T0015
 technique_name:
-  ru: Подкуп элит
   en: Bribery of Elites
   uk: Підкуп еліт
+  ru: Подкуп элит
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация Российской империи покупала лояльность местной знати государственными выплатами: историк Я. З. Ахмадов констатирует, что по утверждению генерал-аншефа В. Я. Левашова старший чеченский князь Айдемир «был принят в российское подданство и ему было назначено постоянное царское жалованье»(Citation: 94), и в целом «Князья и их уздени стали даже получать денежное довольствие от российского правительства»(Citation: 94).'
   en: |-
     The occupation administration of the Russian Empire bought the loyalty of the local nobility with state payments: historian Ya.
     Z. Akhmadov states that, according to General-in-Chief V. Ya.
     Levashov, the senior Chechen prince Aidemir «was accepted into Russian subjecthood and was assigned a permanent tsarist stipend»(Citation: 94), and in general «The princes and their uzdens even began to receive monetary allowances from the Russian government»(Citation: 94).
   uk: 'Окупаційна адміністрація Російської імперії купувала лояльність місцевої знаті державними виплатами: історик Я. З. Ахмадов констатує, що, за твердженням генерал-аншефа В. Я. Левашова, старший чеченський князь Айдемір «був прийнятий у російське підданство, і йому було призначено постійне царське жалування»(Citation: 94), а загалом «Князі та їхні уздені почали навіть отримувати грошове утримання від російського уряду»(Citation: 94).'
+  ru: 'Оккупационная администрация Российской империи покупала лояльность местной знати государственными выплатами: историк Я. З. Ахмадов констатирует, что по утверждению генерал-аншефа В. Я. Левашова старший чеченский князь Айдемир «был принят в российское подданство и ему было назначено постоянное царское жалованье»(Citation: 94), и в целом «Князья и их уздени стали даже получать денежное довольствие от российского правительства»(Citation: 94).'

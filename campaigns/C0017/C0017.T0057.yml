@@ -1,28 +1,28 @@
 type: procedure
 id: C0017.T0057
 campaign_name:
-  ru: 'Принудительный труд на имперских стройках: Ладожский канал (1704–1725)'
   en: 'Forced Labor on Imperial Construction: The Ladoga Canal (1704–1725)'
   uk: 'Примусова праця на імперських будовах: Ладозький канал (1704–1725)'
+  ru: 'Принудительный труд на имперских стройках: Ладожский канал (1704–1725)'
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0057
 technique_name:
-  ru: Эксплуатация труда
   en: Labor Exploitation
   uk: Експлуатація праці
+  ru: Эксплуатация труда
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Массовая мобилизация казацких полков на каторжные строительные работы: рытье Ладожского канала «осуществлялось, главным образом, руками украинских казаков», и там «от непосильного труда, голода и тяжёлого климата гибли десятки тысяч человек»(Citation: 194).
-    В 1721 году на канал был отправлен «10-тысячный казацкий корпус» во главе с П. Полуботком(Citation: 195); работы продолжались и в 1721–23 годах(Citation: 196).
   en: |-
     The mass mobilization of Cossack regiments for penal construction labor: the digging of the Ladoga Canal "was carried out chiefly by the hands of Ukrainian Cossacks," and there "tens of thousands of people perished from back-breaking labor, hunger and the harsh climate"(Citation: 194).
     In 1721 a "10,000-strong Cossack corps" headed by P. Polubotok was dispatched to the canal(Citation: 195); the works continued through 1721–23(Citation: 196).
   uk: |-
     Масова мобілізація козацьких полків на каторжні будівельні роботи: копання Ладозького каналу «здійснювалося, гол. чин., руками укр. козаків», і там «від непосильної праці, голоду й важкого клімату гинули десятки тисяч осіб»(Citation: 194).
     У 1721 році на канал було відправлено «10-тис. козац. корпус» на чолі з П. Полуботком(Citation: 195); роботи тривали й у 1721–23 роках(Citation: 196).
+  ru: |-
+    Массовая мобилизация казацких полков на каторжные строительные работы: рытье Ладожского канала «осуществлялось, главным образом, руками украинских казаков», и там «от непосильного труда, голода и тяжёлого климата гибли десятки тысяч человек»(Citation: 194).
+    В 1721 году на канал был отправлен «10-тысячный казацкий корпус» во главе с П. Полуботком(Citation: 195); работы продолжались и в 1721–23 годах(Citation: 196).

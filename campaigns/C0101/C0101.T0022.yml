@@ -1,22 +1,22 @@
 type: procedure
 id: C0101.T0022
 campaign_name:
-  ru: 'Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)'
   en: 'Continuation of the Russo-Ukrainian War: Armed Aggression in the Donbas (2014–2015)'
   uk: 'Продовження російсько-української війни: Збройна агресія на Донбасі (2014–2015)'
+  ru: 'Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)'
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0022
 technique_name:
-  ru: Террор
   en: Terror
   uk: Терор
+  ru: Террор
 people: ukrainians
 actor: G0011
 tool: S0012
 contributors: []
 description:
-  ru: 'Привлечение к боевым действиям российских неонацистских группировок (таких как ДРГ «Русич» под командованием А. Мильчакова), главари которых открыто призывали к немотивированному садистскому насилию над гражданскими («Режь бомжей, щенков и детей!»)(Citation: 2).'
   en: 'Engagement in combat operations of Russian neo-Nazi groups (such as the "Rusich" sabotage and reconnaissance group under the command of A. Milchakov), whose ringleaders openly called for unmotivated sadistic violence against civilians ("Slaughter the homeless, the puppies, and the children!")(Citation: 2).'
   uk: 'Залучення до бойових дій російських неонацистських угруповань (таких як ДРГ «Русич» під командуванням О. Мільчакова), ватажки яких відкрито закликали до невмотивованого садистського насильства над цивільними («Ріж бомжів, цуценят і дітей!»)(Citation: 2).'
+  ru: 'Привлечение к боевым действиям российских неонацистских группировок (таких как ДРГ «Русич» под командованием А. Мильчакова), главари которых открыто призывали к немотивированному садистскому насилию над гражданскими («Режь бомжей, щенков и детей!»)(Citation: 2).'

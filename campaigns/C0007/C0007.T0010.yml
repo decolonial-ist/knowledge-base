@@ -1,28 +1,28 @@
 type: procedure
 id: C0007.T0010
 campaign_name:
-  ru: Коломакские статьи (1687)
   en: Kolomak Articles (1687)
   uk: Коломацькі статті (1687)
+  ru: Коломакские статьи (1687)
 created: 2026-04-24
 modified: 2026-04-24
 version: '1.0'
 technique: T0010
 technique_name:
-  ru: Непризнание самостоятельной идентичности
   en: Denial of a Distinct Identity
   uk: Невизнання самостійної ідентичності
+  ru: Непризнание самостоятельной идентичности
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: |-
-    Введение жесткой политической цензуры.
-    Населению под страхом наказания запрещалось даже вслух произносить, что их земли являются отдельным государственным образованием: «и никто б голосов таких не испущал, что малороссийской край гетманского регименту»(Citation: 4).
   en: |-
     The introduction of strict political censorship.
     Under threat of punishment, the population was forbidden even to say aloud that their lands constituted a separate state entity: "and let no one utter such voices, that the Little Russian land is of the hetman's regiment"(Citation: 4).
   uk: |-
     Запровадження жорсткої політичної цензури.
     Населенню під страхом покарання заборонялося навіть уголос промовляти, що їхні землі є окремим державним утворенням: «і ніхто б голосів таких не випускав, що малоросійський край гетьманського регіменту»(Citation: 4).
+  ru: |-
+    Введение жесткой политической цензуры.
+    Населению под страхом наказания запрещалось даже вслух произносить, что их земли являются отдельным государственным образованием: «и никто б голосов таких не испущал, что малороссийской край гетманского регименту»(Citation: 4).
