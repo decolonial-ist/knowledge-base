@@ -5,8 +5,8 @@ campaign_name:
   en: 'Consolidation in Chechnya: Bribery of Elders, Economic Control, and Setting Neighbors against One Another (1809-1811)'
   uk: 'Закріплення в Чечні: підкуп старшин, економічний контроль і нацьковування сусідів (1809-1811)'
 created: 2026-06-26
-modified: 2026-06-26
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0038
 technique_name:
   ru: Экономический контроль

@@ -5,8 +5,8 @@ campaign_name:
   en: 'War with Napoleon: Forced Mobilization and Deception (1812)'
   uk: 'Війна з Наполеоном: примусова мобілізація та обман (1812)'
 created: 2026-04-25
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0049
 technique_name:
   ru: Принудительная мобилизация

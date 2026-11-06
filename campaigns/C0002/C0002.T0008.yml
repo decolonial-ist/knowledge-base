@@ -5,8 +5,8 @@ campaign_name:
   en: Truce of Vilna (1656)
   uk: Віленське перемир'я (1656)
 created: 2026-04-24
-modified: 2026-10-26
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0008
 technique_name:
   ru: Лишение субъектности

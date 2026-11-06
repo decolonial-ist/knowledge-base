@@ -5,8 +5,8 @@ campaign_name:
   en: Forcible Mobilization of the Nokhchi for the Russo-Turkish War (1677–1679)
   uk: Примусова мобілізація Нохчі на російсько-турецьку війну (1677–1679)
 created: 2026-06-15
-modified: 2026-06-15
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0049
 technique_name:
   ru: Принудительная мобилизация

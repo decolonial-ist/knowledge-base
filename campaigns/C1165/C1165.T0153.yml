@@ -5,8 +5,8 @@ campaign_name:
   en: '"Constriction of Chechnya from all sides": blockade, secret war, punitive expeditions and the Sunzha Line (1840-1846)'
   uk: '«Стиснення Чечні з усіх боків»: блокада, таємна війна, каральні експедиції та Сунженська лінія (1840-1846)'
 created: 2026-07-24
-modified: 2026-07-24
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0153
 technique_name:
   ru: Создание марионеточных религиозных институтов

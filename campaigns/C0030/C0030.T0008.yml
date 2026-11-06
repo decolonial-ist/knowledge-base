@@ -5,8 +5,8 @@ campaign_name:
   en: Liquidation of the Institution of the Hetmancy and the Second Little Russian Collegium (1764)
   uk: Ліквідація інституту гетьманства та Друга Малоросійська колегія (1764)
 created: 2026-04-24
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0008
 technique_name:
   ru: Лишение субъектности

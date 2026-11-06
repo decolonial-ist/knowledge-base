@@ -5,8 +5,8 @@ campaign_name:
   en: Information Blockade Around the Chornobyl Disaster (1986)
   uk: Інформаційна блокада навколо Чорнобильської катастрофи (1986)
 created: 2026-04-27
-modified: 2026-04-27
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0007
 technique_name:
   ru: Навязывание своей картины реальности

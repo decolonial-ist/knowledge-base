@@ -5,8 +5,8 @@ campaign_name:
   en: All-Russian Census and the Erasure of Identity (1897)
   uk: Всеросійський перепис і стирання ідентичності (1897)
 created: 2026-04-25
-modified: 2026-10-27
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0010
 technique_name:
   ru: Непризнание самостоятельной идентичности

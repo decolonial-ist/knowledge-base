@@ -5,8 +5,8 @@ campaign_name:
   en: Bribery of the Nobility and Institutionalization of the Hostage System (1735)
   uk: Підкуп знаті та інституціоналізація системи заручників (1735)
 created: 2026-06-21
-modified: 2026-06-21
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0015
 technique_name:
   ru: Подкуп элит

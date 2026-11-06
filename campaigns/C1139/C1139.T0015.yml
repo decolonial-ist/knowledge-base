@@ -5,8 +5,8 @@ campaign_name:
   en: Failed Attempt to Bribe Nokhchi Elders with Economic Promises in Exchange for Allegiance (1806)
   uk: Невдала спроба підкупу старшин Нохчі економічними обіцянками в обмін на підданство (1806)
 created: 2026-06-26
-modified: 2026-06-26
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0015
 technique_name:
   ru: Подкуп элит

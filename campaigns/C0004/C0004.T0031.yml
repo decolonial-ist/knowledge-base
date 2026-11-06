@@ -5,8 +5,8 @@ campaign_name:
   en: Pereiaslav Articles (1659)
   uk: Переяславські статті (1659)
 created: 2026-04-24
-modified: 2026-10-26
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0031
 technique_name:
   ru: Ограничение суверенитета

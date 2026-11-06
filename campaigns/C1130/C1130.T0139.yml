@@ -5,8 +5,8 @@ campaign_name:
   en: Construction of the Holy Cross Fortress and Forced Resettlement (1722–1724)
   uk: Зведення фортеці Святого Хреста та примусове переселення (1722–1724)
 created: 2026-06-18
-modified: 2026-06-18
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0139
 technique_name:
   ru: Возведение крепостей

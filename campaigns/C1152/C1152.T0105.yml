@@ -5,8 +5,8 @@ campaign_name:
   en: 'Burning of Lowland Chechnya by Velyaminov''s Expedition: Demolition of Villages from the Sunzha to Mairtup, Seizure of Astemir''s Family, Collective Penalties Imposed on Chechen Villages, the Cutting Down of Fleeing Inhabitants of Dzulgai-Yurt, and Destruction of Winter Stores (1830-1831)'
   uk: 'Випалювання рівнинної Чечні експедицією Вельямінова: знесення сіл від Сунжі до Маїртупа, захоплення сім''ї Астемира, колективні стягнення з чеченських сіл, рубання жителів Дзулгай-Юрта, які тікали, та винищення зимових запасів (1830-1831)'
 created: 2026-07-03
-modified: 2026-07-03
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0105
 technique_name:
   ru: Тотальное уничтожение инфраструктуры

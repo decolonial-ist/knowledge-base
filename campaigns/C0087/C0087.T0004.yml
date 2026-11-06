@@ -5,8 +5,8 @@ campaign_name:
   en: The Ideological Campaign of the "300th Anniversary of Reunification" and the Transfer of Crimea (1954)
   uk: Ідеологічна кампанія «300-річчя возз'єднання» та передача Криму (1954)
 created: 2026-04-27
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0004
 technique_name:
   ru: Переписывание истории

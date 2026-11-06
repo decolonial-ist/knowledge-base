@@ -5,8 +5,8 @@ campaign_name:
   en: Construction of Fortified Stanitsas, Settlement of Cossacks on the Borders, and Holding of Hostages (1736–1740)
   uk: Зведення укріплених станиць, підселення Козаків на кордонах та утримання заручників (1736–1740)
 created: 2026-06-22
-modified: 2026-06-22
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0099
 technique_name:
   ru: Захват заложников

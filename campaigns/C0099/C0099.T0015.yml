@@ -5,8 +5,8 @@ campaign_name:
   en: Derailing the Association with the EU (2013–2014)
   uk: Зрив асоціації з ЄС (2013–2014)
 created: 2026-04-27
-modified: 2026-08-01
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0015
 technique_name:
   ru: Подкуп элит

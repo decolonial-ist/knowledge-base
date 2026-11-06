@@ -5,8 +5,8 @@ campaign_name:
   en: Attempted bribery of Shamil with a promise of power over Dagestan to secure his appearance before Nicholas I in Tiflis, and the summoning of the Chechen imam Tashu-Hadji (1837)
   uk: Спроба підкупу Шаміля обіцянкою влади над Дагестаном заради явки до Миколи I в Тифліс і виклик чеченського імама Ташу-Хаджі (1837)
 created: 2026-07-22
-modified: 2026-07-22
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0015
 technique_name:
   ru: Подкуп элит

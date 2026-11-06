@@ -5,8 +5,8 @@ campaign_name:
   en: 'Operation "Chechevitsa": the Total Deportation of the Chechen People and the Special Settlement Regime (1943-1949)'
   uk: 'Операція «Сочевиця»: тотальна депортація чеченського народу і режим спецпоселення (1943-1949)'
 created: 2026-08-29
-modified: 2026-08-29
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0022
 technique_name:
   ru: Террор

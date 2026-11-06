@@ -5,8 +5,8 @@ campaign_name:
   en: 'Covert reconnaissance of Chechnya by Rosen''s topographers and the devastation of Zandak by Pullo''s detachment: capture of 31 inhabitants and seizure of livestock (1835-1836)'
   uk: 'Таємна розвідка Чечні топографами Розена та розорення Зандака загоном Пулло: полон 31 жителя і викрадення худоби (1835-1836)'
 created: 2026-07-03
-modified: 2026-08-07
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0053
 technique_name:
   ru: Похищение людей

@@ -5,8 +5,8 @@ campaign_name:
   en: Ban on Ukrainian Book Printing (1720)
   uk: Заборона українського книгодрукування (1720)
 created: 2026-04-25
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0113.001
 technique_name:
   ru: Законодательный запрет родного языка

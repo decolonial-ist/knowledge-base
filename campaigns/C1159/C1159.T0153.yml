@@ -5,8 +5,8 @@ campaign_name:
   en: Failed Attempt at Religious Subjugation of the Highlanders to the Empire through the Hiring of the Preacher Taj ad-Din Mustafin (1836-1841)
   uk: Невдала спроба релігійного підпорядкування горців імперії через найм проповідника Тадж ад-Діна Мустафіна (1836-1841)
 created: 2026-07-17
-modified: 2026-07-17
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0153
 technique_name:
   ru: Создание марионеточных религиозных институтов

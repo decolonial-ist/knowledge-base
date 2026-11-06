@@ -5,8 +5,8 @@ campaign_name:
   en: Postwar Ideological Terror ("Zhdanovshchina") (1946–1953)
   uk: Повоєнний ідеологічний терор («Жданівщина») (1946–1953)
 created: 2026-04-27
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0021
 technique_name:
   ru: Нейтрализация оппозиции

@@ -5,8 +5,8 @@ campaign_name:
   en: 'Bulgakov''s Punitive Expedition: Devastation of Chechen Villages and Coercion into Allegiance (1807)'
   uk: 'Каральний похід Булгакова: розорення чеченських селищ і примус до підданства (1807)'
 created: 2026-06-26
-modified: 2026-06-26
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0147
 technique_name:
   ru: Принудительное оформление подданства

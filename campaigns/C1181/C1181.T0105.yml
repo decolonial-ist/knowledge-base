@@ -5,8 +5,8 @@ campaign_name:
   en: '"Exiled Forever": Life in Special Settlement and Return to an Occupied Homeland (1949-1965)'
   uk: '«Заслані навічно»: життя у спецпоселенні та повернення на зайняту батьківщину (1949-1965)'
 created: 2026-09-05
-modified: 2026-09-05
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0105
 technique_name:
   ru: Тотальное уничтожение инфраструктуры

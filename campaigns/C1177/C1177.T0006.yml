@@ -5,8 +5,8 @@ campaign_name:
   en: 'The disarmament of Chechnya: a military operation with artillery shelling and bombing of auls (1925)'
   uk: 'Роззброєння Чечні: військова операція з артобстрілами та бомбардуваннями аулів (1925)'
 created: 2026-08-13
-modified: 2026-08-13
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0006
 technique_name:
   ru: Дегуманизация

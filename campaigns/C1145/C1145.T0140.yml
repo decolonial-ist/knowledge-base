@@ -5,8 +5,8 @@ campaign_name:
   en: Night Attack on the Aul of Topli, Burning of Germenchuk, and Coercion of the Nokhchi to Fell Their Own Forests (1820)
   uk: Нічний напад на аул Топлі, спалення Герменчука та примушення Нохчі до вирубування власних лісів (1820)
 created: 2026-06-27
-modified: 2026-06-27
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0140
 technique_name:
   ru: Разрушение природного ландшафта

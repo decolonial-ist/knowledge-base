@@ -5,8 +5,8 @@ campaign_name:
   en: Creation of the Little Russian Prikaz (1663)
   uk: Створення Малоросійського приказу (1663)
 created: 2026-04-24
-modified: 2026-10-26
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0036
 technique_name:
   ru: Установка новой системы управления

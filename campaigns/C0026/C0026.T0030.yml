@@ -5,8 +5,8 @@ campaign_name:
   en: Liquidation of the Cossacks in Right-Bank Ukraine (1699)
   uk: Ліквідація козацтва на Правобережній Україні (1699)
 created: 2026-04-24
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0030
 technique_name:
   ru: Административно-территориальное деление

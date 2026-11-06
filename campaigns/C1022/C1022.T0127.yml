@@ -5,8 +5,8 @@ campaign_name:
   en: 'Muhajirism: the expulsion of Chechens to the Ottoman Empire, the ban on return, and population replacement (1858-1872)'
   uk: 'Мухаджирство: виселення чеченців до Османської імперії, заборона повернення та заміщення населення (1858-1872)'
 created: 2026-05-12
-modified: 2026-08-04
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0127
 technique_name:
   ru: Депортация

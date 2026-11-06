@@ -5,8 +5,8 @@ campaign_name:
   en: Scorched Earth Tactics and Criminal Mobilization (1941–1945)
   uk: Тактика «випаленої землі» та злочинна мобілізація (1941–1945)
 created: 2026-04-27
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0052
 technique_name:
   ru: Изъятие ресурсов

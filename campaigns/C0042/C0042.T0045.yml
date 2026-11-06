@@ -5,8 +5,8 @@ campaign_name:
   en: Destruction of the Archives of the Kyiv-Pechersk Lavra (1718)
   uk: Знищення архівів Києво-Печерської лаври (1718)
 created: 2026-04-25
-modified: 2026-07-31
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0045
 technique_name:
   ru: Уничтожение исторической памяти

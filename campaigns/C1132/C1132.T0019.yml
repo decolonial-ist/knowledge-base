@@ -5,8 +5,8 @@ campaign_name:
   en: Armed Uprising on the Plain, General Douglas's Expedition, and the Rout of Colonel Koch's Punitive Detachment (1732)
   uk: Збройне повстання на рівнині, експедиція генерала Дугласа та розгром карального загону полковника Коха (1732)
 created: 2026-06-21
-modified: 2026-06-21
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0019
 technique_name:
   ru: Военная интервенция

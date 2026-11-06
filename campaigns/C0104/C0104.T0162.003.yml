@@ -5,8 +5,8 @@ campaign_name:
   en: 'Soviet-Ukrainian War: Third Invasion and the Final Soviet Occupation (December 1919 - November 1921)'
   uk: 'Радянсько-Українська війна: третє вторгнення і остаточна радянська окупація (грудень 1919 - листопад 1921)'
 created: 2026-08-16
-modified: 2026-08-29
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0162.003
 technique_name:
   ru: Убийство пленных и задержанных

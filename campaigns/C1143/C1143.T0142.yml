@@ -5,8 +5,8 @@ campaign_name:
   en: Demonstrative destruction of the aul of Dadi-Yurt and the construction of the Vnezapnaya fortress to force the Nokhchi off the Kumyk plain (1819)
   uk: Показове знищення аулу Даді-юрт і зведення фортеці Внезапної для витіснення Нохчі з кумицької рівнини (1819)
 created: 2026-06-27
-modified: 2026-06-27
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0142
 technique_name:
   ru: Ограничение географии расселения

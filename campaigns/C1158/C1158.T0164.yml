@@ -5,8 +5,8 @@ campaign_name:
   en: 'Extermination of the Inhabitants of Kishkeroy-Yurt by Pullo''s Detachment: 76 Killed, 40 Captured, Village Burned with Its Stores (December 1836)'
   uk: 'Винищення жителів Кишкерой-Юрта загоном Пулло: 76 убитих, 40 полонених, спалення села із запасами (грудень 1836)'
 created: 2026-07-16
-modified: 2026-08-10
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0164
 technique_name:
   ru: Мародерство

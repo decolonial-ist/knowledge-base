@@ -5,8 +5,8 @@ campaign_name:
   en: The Bohdan Khmelnytsky Monument (1888)
   uk: Пам'ятник Богданові Хмельницькому (1888)
 created: 2026-04-25
-modified: 2026-08-06
-version: '1.0'
+modified: 2026-11-06
+version: '1.1'
 technique: T0004
 technique_name:
   ru: Переписывание истории
