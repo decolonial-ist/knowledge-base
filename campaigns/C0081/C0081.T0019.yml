@@ -1,9 +1,17 @@
 type: procedure
 id: C0081.T0019
+campaign_name:
+  ru: Аннексия и советизация Западной Украины (1939–1941)
+  en: Annexation and Sovietization of Western Ukraine (1939–1941)
+  uk: Анексія та радянізація Західної України (1939–1941)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: ukrainians
 actor: G0010
 tool: S0010

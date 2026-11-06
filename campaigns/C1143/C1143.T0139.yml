@@ -1,9 +1,17 @@
 type: procedure
 id: C1143.T0139
+campaign_name:
+  ru: Показательное уничтожение аула Дади-юрт и возведение крепости Внезапной для вытеснения нохчи с кумыкской плоскости (1819)
+  en: Demonstrative destruction of the aul of Dadi-Yurt and the construction of the Vnezapnaya fortress to force the Nokhchi off the Kumyk plain (1819)
+  uk: Показове знищення аулу Даді-юрт і зведення фортеці Внезапної для витіснення Нохчі з кумицької рівнини (1819)
 created: 2026-06-27
 modified: 2026-09-04
 version: '1.0'
 technique: T0139
+technique_name:
+  ru: Возведение крепостей
+  en: Construction of Fortresses
+  uk: Зведення фортець
 people: nokhchi
 actor: G0009
 tool: S0010

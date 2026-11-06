@@ -1,9 +1,17 @@
 type: procedure
 id: C1131.T0150
+campaign_name:
+  ru: Экономическая дискриминация и разведка территорий (1726–1728)
+  en: Economic Discrimination and Reconnaissance of Territories (1726–1728)
+  uk: Економічна дискримінація та розвідка територій (1726–1728)
 created: 2026-06-21
 modified: 2026-06-21
 version: '1.0'
 technique: T0150
+technique_name:
+  ru: Комплексная разведка территорий
+  en: Comprehensive Reconnaissance of Territories
+  uk: Комплексна розвідка територій
 people: nokhchi
 actor: G0009
 tool: S0008

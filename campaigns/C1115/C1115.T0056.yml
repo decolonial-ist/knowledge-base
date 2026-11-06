@@ -1,9 +1,17 @@
 type: procedure
 id: C1115.T0056
+campaign_name:
+  ru: Экономическая эксплуатация и создание зависимости нохчи (1617–1622)
+  en: Economic Exploitation and Creation of Dependency of the Nokhchi (1617–1622)
+  uk: Економічна експлуатація та створення залежності Нохчі (1617–1622)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: nokhchi
 actor: G0008
 tool: S0012

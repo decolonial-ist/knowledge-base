@@ -1,9 +1,17 @@
 type: procedure
 id: C1157.T0056
+campaign_name:
+  ru: Принуждение разорённого Зандака к подчинению и подати полковником Пулло (1836)
+  en: Coercion of Devastated Zandak into Subordination and Tribute by Colonel Pullo (1836)
+  uk: Примус зруйнованого Зандака до підпорядкування й податі полковником Пулло (1836)
 created: 2026-07-15
 modified: 2026-07-15
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: nokhchi
 actor: G0009
 tool: S0010

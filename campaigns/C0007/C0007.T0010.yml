@@ -1,9 +1,17 @@
 type: procedure
 id: C0007.T0010
+campaign_name:
+  ru: Коломакские статьи (1687)
+  en: Kolomak Articles (1687)
+  uk: Коломацькі статті (1687)
 created: 2026-04-24
 modified: 2026-04-24
 version: '1.0'
 technique: T0010
+technique_name:
+  ru: Непризнание самостоятельной идентичности
+  en: Denial of a Distinct Identity
+  uk: Невизнання самостійної ідентичності
 people: ukrainians
 actor: G0008
 tool: S0009

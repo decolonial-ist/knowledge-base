@@ -1,9 +1,17 @@
 type: procedure
 id: C0108.T0122
+campaign_name:
+  ru: '«Человеческое сафари»: охота на гражданских Херсонщины (с 2024)'
+  en: '“Human Safari”: Hunting Civilians in Kherson Province (from 2024)'
+  uk: '«Людське сафарі»: полювання на цивільних Херсонщини (з 2024)'
 created: 2026-08-16
 modified: 2026-08-16
 version: '1.0'
 technique: T0122
+technique_name:
+  ru: Медицинская и гуманитарная блокада
+  en: Medical and Humanitarian Blockade
+  uk: Медична та гуманітарна блокада
 people: ukrainians
 actor: G0011
 tool: S0010

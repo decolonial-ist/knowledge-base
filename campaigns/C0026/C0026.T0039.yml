@@ -1,9 +1,17 @@
 type: procedure
 id: C0026.T0039
+campaign_name:
+  ru: Ликвидация казачества на Правобережной Украине (1699)
+  en: Liquidation of the Cossacks in Right-Bank Ukraine (1699)
+  uk: Ліквідація козацтва на Правобережній Україні (1699)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0039
+technique_name:
+  ru: Сговор с третьей стороной за спиной народа
+  en: Collusion with a Third Party Behind the People's Back
+  uk: Змова з третьою стороною за спиною народу
 people: ukrainians
 actor: G0008
 tool: S0009

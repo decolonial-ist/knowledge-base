@@ -1,9 +1,17 @@
 type: procedure
 id: C0071.T0132
+campaign_name:
+  ru: Провал политического захвата УНР в Киеве (ноябрь – декабрь 1917)
+  en: Failure of the Political Seizure of the UNR in Kyiv (November – December 1917)
+  uk: Провал політичного захоплення УНР у Києві (листопад – грудень 1917)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0132
+technique_name:
+  ru: Внедрение в местные политические структуры
+  en: Infiltration of Local Political Structures
+  uk: Впровадження своїх людей у місцеві політичні структури
 people: ukrainians
 actor: G0013
 tool: S0020

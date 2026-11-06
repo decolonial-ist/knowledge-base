@@ -1,9 +1,17 @@
 type: procedure
 id: C0026.T0030
+campaign_name:
+  ru: Ликвидация казачества на Правобережной Украине (1699)
+  en: Liquidation of the Cossacks in Right-Bank Ukraine (1699)
+  uk: Ліквідація козацтва на Правобережній Україні (1699)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0030
+technique_name:
+  ru: Административно-территориальное деление
+  en: Administrative-Territorial Division
+  uk: Адміністративно-територіальний поділ
 people: ukrainians
 actor: G0008
 tool: S0008

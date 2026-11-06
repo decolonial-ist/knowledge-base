@@ -1,9 +1,17 @@
 type: procedure
 id: C0073.T0030
+campaign_name:
+  ru: Искусственный сепаратизм и расчленение территорий (январь – март 1918)
+  en: Artificial Separatism and the Dismemberment of Territories (January – March 1918)
+  uk: Штучний сепаратизм і розчленування територій (січень – березень 1918)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0030
+technique_name:
+  ru: Административно-территориальное деление
+  en: Administrative-Territorial Division
+  uk: Адміністративно-територіальний поділ
 people: ukrainians
 actor: G0013
 tool: S0008

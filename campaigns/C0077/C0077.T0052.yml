@@ -1,9 +1,17 @@
 type: procedure
 id: C0077.T0052
+campaign_name:
+  ru: Насильственная коллективизация и раскулачивание (1928–1932)
+  en: Forced Collectivization and Dekulakization (1928–1932)
+  uk: Насильницька колективізація та розкуркулення (1928–1932)
 created: 2026-04-27
 modified: 2026-08-09
 version: '1.0'
 technique: T0052
+technique_name:
+  ru: Изъятие ресурсов
+  en: Expropriation of Resources
+  uk: Вилучення ресурсів
 people: ukrainians
 actor: G0010
 tool: S0017

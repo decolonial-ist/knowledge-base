@@ -1,9 +1,17 @@
 type: procedure
 id: C1146.T0105
+campaign_name:
+  ru: 'Подавление восстания нохчи: разорение сёл и принудительная рубка лесов Грековым (1821-1822)'
+  en: 'Suppression of the Nokhchi Uprising: Devastation of Villages and Forced Forest Felling by Grekov (1821-1822)'
+  uk: 'Придушення повстання Нохчі: розорення сіл і примусове вирубування лісів Грековим (1821-1822)'
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: nokhchi
 actor: G0009
 tool: S0010

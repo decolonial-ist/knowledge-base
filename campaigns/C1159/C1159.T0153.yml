@@ -1,9 +1,17 @@
 type: procedure
 id: C1159.T0153
+campaign_name:
+  ru: Неудачная попытка религиозного подчинения горцев империи через наём проповедника Тадж ад-Дина Мустафина (1836-1841)
+  en: Failed Attempt at Religious Subjugation of the Highlanders to the Empire through the Hiring of the Preacher Taj ad-Din Mustafin (1836-1841)
+  uk: Невдала спроба релігійного підпорядкування горців імперії через найм проповідника Тадж ад-Діна Мустафіна (1836-1841)
 created: 2026-07-17
 modified: 2026-07-17
 version: '1.0'
 technique: T0153
+technique_name:
+  ru: Создание марионеточных религиозных институтов
+  en: Creation of Puppet Religious Institutions
+  uk: Створення маріонеткових релігійних інститутів
 people: nokhchi
 actor: G0009
 tool: S0010

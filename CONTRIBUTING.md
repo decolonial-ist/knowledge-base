@@ -9,7 +9,7 @@
 3. Правьте текст в блоке `description:` своего языка (`ru`, `en` или `uk`). Одна фраза - одна строка, абзац - пустая строка. Отступ в два пробела перед каждой строкой блока не трогайте.
 4. Внизу нажмите «Propose changes», напишите, что и почему изменили, и «Create pull request».
 
-Поля `created`, `modified`, `version` не трогайте: их ставит автоматика при принятии правки.
+Поля `created`, `modified`, `version`, `campaign_name` и `technique_name` не трогайте: их ставит автоматика при принятии правки. Названия кампании и техники в файле процедуры - копии из файлов кампании и техники, чтобы было видно, о чём текст; правятся они там.
 
 ## Сноски
 
@@ -52,7 +52,7 @@
 3. Правте текст у блоці `description:` своєї мови (`ru`, `en` або `uk`). Одна фраза - один рядок, абзац - порожній рядок. Відступ у два пробіли перед кожним рядком блоку не чіпайте.
 4. Унизу натисніть «Propose changes», напишіть, що і чому змінили, та «Create pull request».
 
-Поля `created`, `modified`, `version` не чіпайте: їх ставить автоматика, коли правку приймають.
+Поля `created`, `modified`, `version`, `campaign_name` і `technique_name` не чіпайте: їх ставить автоматика, коли правку приймають. Назви кампанії й техніки у файлі процедури - копії з файлів кампанії та техніки, щоб було видно, про що текст; правлять їх там.
 
 ### Зноски
 
@@ -95,7 +95,7 @@
 3. Edit the text in the `description:` block of your language (`ru`, `en` or `uk`). One sentence per line, a blank line between paragraphs. Do not touch the two-space indentation in front of each line of the block.
 4. At the bottom click "Propose changes", write what you changed and why, then "Create pull request".
 
-Do not touch the fields `created`, `modified`, `version`: automation sets them when the edit is accepted.
+Do not touch the fields `created`, `modified`, `version`, `campaign_name` and `technique_name`: automation sets them when the edit is accepted. The campaign and technique names in a procedure file are copies from the campaign and technique files, so that the reader sees what the text is about; they are edited there.
 
 ### Citations
 

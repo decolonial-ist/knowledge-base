@@ -1,9 +1,17 @@
 type: procedure
 id: C0005.T0030
+campaign_name:
+  ru: Андрусовское перемирие (1667)
+  en: Truce of Andrusovo (1667)
+  uk: Андрусівське перемир'я (1667)
 created: 2026-04-24
 modified: 2026-04-24
 version: '1.0'
 technique: T0030
+technique_name:
+  ru: Административно-территориальное деление
+  en: Administrative-Territorial Division
+  uk: Адміністративно-територіальний поділ
 people: ukrainians
 actor: G0008
 tool: S0008

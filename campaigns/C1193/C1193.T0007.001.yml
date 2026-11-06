@@ -1,9 +1,17 @@
 type: procedure
 id: C1193.T0007.001
+campaign_name:
+  ru: Первая Русско-Чеченская война (1994–1996)
+  en: First Russian-Chechen War (1994–1996)
+  uk: Перша російсько-чеченська війна (1994–1996)
 created: 2026-10-24
 modified: 2026-10-24
 version: '1.0'
 technique: T0007.001
+technique_name:
+  ru: Ложь о собственных действиях
+  en: Lies about Its Own Actions
+  uk: Брехня про власні дії
 people: nokhchi
 actor: G0011
 tool: S0008

@@ -1,9 +1,17 @@
 type: procedure
 id: C1150.T0099
+campaign_name:
+  ru: Обман и силовое удержание Бейбулата Таймиева Паскевичем, раскол Чечни на партии и принуждение к присяге (1828-1829)
+  en: Deception and Forcible Detention of Beibulat Taimiev by Paskevich, Splitting Chechnya into Factions, and Coercion into an Oath of Allegiance (1828-1829)
+  uk: Обман і силове утримання Бейбулата Таймієва Паскевичем, розкол Чечні на партії та примус до присяги (1828-1829)
 created: 2026-07-02
 modified: 2026-07-02
 version: '1.0'
 technique: T0099
+technique_name:
+  ru: Захват заложников
+  en: Hostage-Taking
+  uk: Захоплення заручників
 people: nokhchi
 actor: G0009
 tool: S0010

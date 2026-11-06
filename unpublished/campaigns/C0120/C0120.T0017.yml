@@ -1,9 +1,17 @@
 type: procedure
 id: C0120.T0017
+campaign_name:
+  ru: Псевдореферендумы и аннексия четырёх областей (2022)
+  en: Sham Referendums and the Annexation of Four Provinces (2022)
+  uk: Псевдореферендуми та анексія чотирьох областей (2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0017
+technique_name:
+  ru: Аннексия территорий
+  en: Annexation of Territories
+  uk: Анексія територій
 people: ukrainians
 actor: G0011
 tool: S0010

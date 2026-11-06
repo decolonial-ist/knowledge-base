@@ -1,9 +1,17 @@
 type: procedure
 id: C1170.T0056
+campaign_name:
+  ru: '«Военно-народное управление»: колониальный режим Терской области (1858-1917)'
+  en: '"Military-Popular Administration": the Colonial Regime of the Terek Oblast (1858-1917)'
+  uk: '«Військово-народне управління»: колоніальний режим Терської області (1858-1917)'
 created: 2026-08-03
 modified: 2026-08-03
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: nokhchi
 actor: G0009
 tool: S0012

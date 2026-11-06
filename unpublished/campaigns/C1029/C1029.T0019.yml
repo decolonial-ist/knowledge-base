@@ -1,9 +1,17 @@
 type: procedure
 id: C1029.T0019
+campaign_name:
+  ru: Военная интервенция и неизбирательный террор (1994–1996)
+  en: Military intervention and indiscriminate terror (1994–1996)
+  uk: Воєнна інтервенція та невибірковий терор (1994–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: nokhchi
 actor: G0011
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C0007.T0015
+campaign_name:
+  ru: Коломакские статьи (1687)
+  en: Kolomak Articles (1687)
+  uk: Коломацькі статті (1687)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0015
+technique_name:
+  ru: Подкуп элит
+  en: Bribery of Elites
+  uk: Підкуп еліт
 people: ukrainians
 actor: G0008
 tool: S0009

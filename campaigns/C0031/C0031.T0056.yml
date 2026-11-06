@@ -1,9 +1,17 @@
 type: procedure
 id: C0031.T0056
+campaign_name:
+  ru: Отмена казацкого устройства в Слободской Украине (1765)
+  en: Abolition of the Cossack Order in Sloboda Ukraine (1765)
+  uk: Скасування козацького устрою в Слобідській Україні (1765)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: ukrainians
 actor: G0009
 tool: S0008

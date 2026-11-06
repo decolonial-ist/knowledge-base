@@ -1,9 +1,17 @@
 type: procedure
 id: C1109.T0019
+campaign_name:
+  ru: Циклическая перестройка и ликвидация укреплений на реке Сунжа (1571–1653)
+  en: Cyclical Rebuilding and Elimination of Fortifications on the Sunzha River (1571–1653)
+  uk: Циклічна перебудова та ліквідація укріплень на річці Сунжа (1571–1653)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: nokhchi
 actor: G0008
 tool: S0010

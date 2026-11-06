@@ -1,9 +1,17 @@
 type: procedure
 id: C0102.T0006
+campaign_name:
+  ru: Идеологическая подготовка к полномасштабному вторжению (2020–2021)
+  en: Ideological Preparation for the Full-Scale Invasion (2020–2021)
+  uk: Ідеологічна підготовка до повномасштабного вторгнення (2020–2021)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0006
+technique_name:
+  ru: Дегуманизация
+  en: Dehumanization
+  uk: Дегуманізація
 people: ukrainians
 actor: G0011
 tool: S0009

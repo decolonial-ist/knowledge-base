@@ -1,9 +1,17 @@
 type: procedure
 id: C0034.T0052
+campaign_name:
+  ru: Административный демонтаж и закрепощение Левобережья (1781–1786)
+  en: Administrative Dismantling and Enserfment of the Left Bank (1781–1786)
+  uk: Адміністративний демонтаж і закріпачення Лівобережжя (1781–1786)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0052
+technique_name:
+  ru: Изъятие ресурсов
+  en: Expropriation of Resources
+  uk: Вилучення ресурсів
 people: ukrainians
 actor: G0009
 tool: S0008

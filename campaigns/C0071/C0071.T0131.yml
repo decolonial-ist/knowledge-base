@@ -1,9 +1,17 @@
 type: procedure
 id: C0071.T0131
+campaign_name:
+  ru: Провал политического захвата УНР в Киеве (ноябрь – декабрь 1917)
+  en: Failure of the Political Seizure of the UNR in Kyiv (November – December 1917)
+  uk: Провал політичного захоплення УНР у Києві (листопад – грудень 1917)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0131
+technique_name:
+  ru: Поддержка подконтрольной оппозиции
+  en: Support for a Controlled Opposition
+  uk: Підтримка підконтрольної опозиції
 people: ukrainians
 actor: G0013
 tool: S0009

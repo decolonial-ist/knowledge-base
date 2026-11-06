@@ -1,9 +1,17 @@
 type: procedure
 id: C0047.T0101
+campaign_name:
+  ru: Эмский указ и тотальная цензура (1876–1887)
+  en: The Ems Ukaz and Total Censorship (1876–1887)
+  uk: Емський указ і тотальна цензура (1876–1887)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0101
+technique_name:
+  ru: Цензура
+  en: Censorship
+  uk: Цензура
 people: ukrainians
 actor: G0009
 tool: S0008

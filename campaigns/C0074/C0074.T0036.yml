@@ -1,9 +1,17 @@
 type: procedure
 id: C0074.T0036
+campaign_name:
+  ru: 'Советско-Украинская война: второе вторжение и ресурсное истощение (1919)'
+  en: 'Soviet-Ukrainian War: Second Invasion and Resource Depletion (1919)'
+  uk: 'Радянсько-Українська війна: друге вторгнення і ресурсне виснаження (1919)'
 created: 2026-04-27
 modified: 2026-08-30
 version: '1.0'
 technique: T0036
+technique_name:
+  ru: Установка новой системы управления
+  en: Installation of a New System of Governance
+  uk: Встановлення нової системи управління
 people: ukrainians
 actor: G0013
 tool: S0012

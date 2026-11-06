@@ -1,9 +1,17 @@
 type: procedure
 id: C0040.T0077
+campaign_name:
+  ru: 'Война с Наполеоном: принудительная мобилизация и обман (1812)'
+  en: 'War with Napoleon: Forced Mobilization and Deception (1812)'
+  uk: 'Війна з Наполеоном: примусова мобілізація та обман (1812)'
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0077
+technique_name:
+  ru: Карательные экспедиции
+  en: Punitive Expeditions
+  uk: Каральні експедиції
 people: ukrainians
 actor: G0009
 tool: S0010

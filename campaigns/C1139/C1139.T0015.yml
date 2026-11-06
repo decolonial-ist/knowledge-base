@@ -1,9 +1,17 @@
 type: procedure
 id: C1139.T0015
+campaign_name:
+  ru: Неудачная попытка подкупа старшин нохчи экономическими посулами в обмен на подданство (1806)
+  en: Failed Attempt to Bribe Nokhchi Elders with Economic Promises in Exchange for Allegiance (1806)
+  uk: Невдала спроба підкупу старшин Нохчі економічними обіцянками в обмін на підданство (1806)
 created: 2026-06-26
 modified: 2026-06-26
 version: '1.0'
 technique: T0015
+technique_name:
+  ru: Подкуп элит
+  en: Bribery of Elites
+  uk: Підкуп еліт
 people: nokhchi
 actor: G0009
 tool: S0009

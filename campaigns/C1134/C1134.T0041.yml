@@ -1,9 +1,17 @@
 type: procedure
 id: C1134.T0041
+campaign_name:
+  ru: Возведение укрепленных станиц, подселение казаков на границах и удержание заложников (1736–1740)
+  en: Construction of Fortified Stanitsas, Settlement of Cossacks on the Borders, and Holding of Hostages (1736–1740)
+  uk: Зведення укріплених станиць, підселення Козаків на кордонах та утримання заручників (1736–1740)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0041
+technique_name:
+  ru: Подселение чиновников и военных
+  en: Implantation of Officials and Military Personnel
+  uk: Підселення чиновників і військових
 people: nokhchi
 actor: G0009
 tool: S0025

@@ -1,9 +1,17 @@
 type: procedure
 id: C1163.T0147
+campaign_name:
+  ru: Аманатско-податная система полковника Пулло в захваченных аулах Чечни (1836-1840)
+  en: The amanat-and-tribute system of colonel Pullo in the seized auls of Chechnya (1836-1840)
+  uk: Аманатсько-податна система полковника Пулло у захоплених аулах Чечні (1836-1840)
 created: 2026-07-23
 modified: 2026-08-04
 version: '1.0'
 technique: T0147
+technique_name:
+  ru: Принудительное оформление подданства
+  en: Forced Registration of Subjecthood
+  uk: Примусове оформлення підданства
 people: nokhchi
 actor: G0009
 tool: S0010

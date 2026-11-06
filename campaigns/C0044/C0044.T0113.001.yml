@@ -1,9 +1,17 @@
 type: procedure
 id: C0044.T0113.001
+campaign_name:
+  ru: Русификация образования и религии (1769–1786)
+  en: Russification of Education and Religion (1769–1786)
+  uk: Русифікація освіти та релігії (1769–1786)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0113.001
+technique_name:
+  ru: Законодательный запрет родного языка
+  en: Legislative Ban on the Native Language
+  uk: Законодавча заборона рідної мови
 people: ukrainians
 actor: G0009
 tool: S0011

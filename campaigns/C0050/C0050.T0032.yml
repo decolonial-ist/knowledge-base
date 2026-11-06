@@ -1,9 +1,17 @@
 type: procedure
 id: C0050.T0032
+campaign_name:
+  ru: Уничтожение украинских обществ и сегрегация (1906–1910)
+  en: Destruction of Ukrainian Societies and Segregation (1906–1910)
+  uk: Знищення українських товариств і сегрегація (1906–1910)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0032
+technique_name:
+  ru: Правовая сегрегация населения
+  en: Legal Segregation of the Population
+  uk: Правова сегрегація населення
 people: ukrainians
 actor: G0009
 tool: S0008

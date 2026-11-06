@@ -1,9 +1,17 @@
 type: procedure
 id: C0007.T0117.002
+campaign_name:
+  ru: Коломакские статьи (1687)
+  en: Kolomak Articles (1687)
+  uk: Коломацькі статті (1687)
 created: 2026-04-24
 modified: 2026-04-24
 version: '1.0'
 technique: T0117.002
+technique_name:
+  ru: Поощрение смешанных браков
+  en: Encouragement of Mixed Marriages
+  uk: Заохочення змішаних шлюбів
 people: ukrainians
 actor: G0008
 tool: S0009

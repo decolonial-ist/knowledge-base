@@ -1,9 +1,17 @@
 type: procedure
 id: C1112.T0099
+campaign_name:
+  ru: Начало политического подчинения нохчи (1588–1591)
+  en: Beginning of the political subjugation of the Nokhchi (1588–1591)
+  uk: Початок політичного підпорядкування Нохчі (1588–1591)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0099
+technique_name:
+  ru: Захват заложников
+  en: Hostage-Taking
+  uk: Захоплення заручників
 people: nokhchi
 actor: G0008
 tool: S0010

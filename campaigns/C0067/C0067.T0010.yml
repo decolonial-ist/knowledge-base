@@ -1,9 +1,17 @@
 type: procedure
 id: C0067.T0010
+campaign_name:
+  ru: Всероссийская перепись и стирание идентичности (1897)
+  en: All-Russian Census and the Erasure of Identity (1897)
+  uk: Всеросійський перепис і стирання ідентичності (1897)
 created: 2026-04-25
 modified: 2026-10-27
 version: '1.0'
 technique: T0010
+technique_name:
+  ru: Непризнание самостоятельной идентичности
+  en: Denial of a Distinct Identity
+  uk: Невизнання самостійної ідентичності
 people: ukrainians
 actor: G0009
 tool: S0008

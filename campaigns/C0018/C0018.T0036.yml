@@ -1,9 +1,17 @@
 type: procedure
 id: C0018.T0036
+campaign_name:
+  ru: Дело Павла Полуботка (1723)
+  en: The Case of Pavlo Polubotok (1723)
+  uk: Справа Павла Полуботка (1723)
 created: 2026-04-29
 modified: 2026-10-26
 version: '1.0'
 technique: T0036
+technique_name:
+  ru: Установка новой системы управления
+  en: Installation of a New System of Governance
+  uk: Встановлення нової системи управління
 people: ukrainians
 actor: G0009
 tool: S0008

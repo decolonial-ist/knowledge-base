@@ -1,9 +1,17 @@
 type: procedure
 id: C0059.T0100
+campaign_name:
+  ru: Ликвидация греко-католической церкви (1839)
+  en: Liquidation of the Greek Catholic Church (1839)
+  uk: Ліквідація греко-католицької церкви (1839)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0100
+technique_name:
+  ru: Захват религиозных институтов
+  en: Seizure of Religious Institutions
+  uk: Захоплення релігійних інститутів
 people: ukrainians
 actor: G0009
 tool: S0008

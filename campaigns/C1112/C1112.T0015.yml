@@ -1,9 +1,17 @@
 type: procedure
 id: C1112.T0015
+campaign_name:
+  ru: Начало политического подчинения нохчи (1588–1591)
+  en: Beginning of the political subjugation of the Nokhchi (1588–1591)
+  uk: Початок політичного підпорядкування Нохчі (1588–1591)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0015
+technique_name:
+  ru: Подкуп элит
+  en: Bribery of Elites
+  uk: Підкуп еліт
 people: nokhchi
 actor: G0008
 tool: S0009

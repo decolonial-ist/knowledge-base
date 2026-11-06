@@ -1,9 +1,17 @@
 type: procedure
 id: C1031.T0111
+campaign_name:
+  ru: Использование «живого щита» и заложников (1995–1996)
+  en: Use of "human shields" and hostages (1995–1996)
+  uk: Використання «живого щита» і заручників (1995–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0111
+technique_name:
+  ru: Использование людей как «живого щита»
+  en: Use of People as “Human Shields”
+  uk: Використання людей як «живого щита»
 people: nokhchi
 actor: G0011
 tool: S0010

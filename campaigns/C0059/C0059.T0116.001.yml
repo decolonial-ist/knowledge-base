@@ -1,9 +1,17 @@
 type: procedure
 id: C0059.T0116.001
+campaign_name:
+  ru: Ликвидация греко-католической церкви (1839)
+  en: Liquidation of the Greek Catholic Church (1839)
+  uk: Ліквідація греко-католицької церкви (1839)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0116.001
+technique_name:
+  ru: Насильственное обращение в религию метрополии
+  en: Forced Conversion to the Metropole's Religion
+  uk: Насильницьке навернення до релігії метрополії
 people: ukrainians
 actor: G0009
 tool: S0011

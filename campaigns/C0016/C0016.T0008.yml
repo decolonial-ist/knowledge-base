@@ -1,9 +1,17 @@
 type: procedure
 id: C0016.T0008
+campaign_name:
+  ru: Решетиловские статьи (1709)
+  en: The Reshetylivka Articles (1709)
+  uk: Решетилівські статті (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0008
+technique_name:
+  ru: Лишение субъектности
+  en: Deprivation of Agency
+  uk: Позбавлення суб'єктності
 people: ukrainians
 actor: G0008
 tool: S0008

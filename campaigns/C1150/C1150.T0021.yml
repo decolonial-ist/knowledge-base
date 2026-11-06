@@ -1,9 +1,17 @@
 type: procedure
 id: C1150.T0021
+campaign_name:
+  ru: Обман и силовое удержание Бейбулата Таймиева Паскевичем, раскол Чечни на партии и принуждение к присяге (1828-1829)
+  en: Deception and Forcible Detention of Beibulat Taimiev by Paskevich, Splitting Chechnya into Factions, and Coercion into an Oath of Allegiance (1828-1829)
+  uk: Обман і силове утримання Бейбулата Таймієва Паскевичем, розкол Чечні на партії та примус до присяги (1828-1829)
 created: 2026-07-02
 modified: 2026-07-02
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: nokhchi
 actor: G0009
 tool: S0010

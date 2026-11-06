@@ -1,9 +1,17 @@
 type: procedure
 id: C1147.T0104
+campaign_name:
+  ru: Массовое убийство старшин, созванных на показательную экзекуцию в Герзель-ауле (1825)
+  en: Mass Killing of Elders Summoned to a Demonstrative Execution at Gerzel-Aul (1825)
+  uk: Масове вбивство старшин, скликаних на показову екзекуцію в Герзель-аулі (1825)
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0104
+technique_name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
 people: nokhchi
 actor: G0009
 tool: S0010

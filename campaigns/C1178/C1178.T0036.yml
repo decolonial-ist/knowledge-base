@@ -1,9 +1,17 @@
 type: procedure
 id: C1178.T0036
+campaign_name:
+  ru: Коллективизация Чечни (1927-1936)
+  en: Collectivization of Chechnya (1927-1936)
+  uk: Колективізація Чечні (1927-1936)
 created: 2026-08-27
 modified: 2026-08-27
 version: '1.0'
 technique: T0036
+technique_name:
+  ru: Установка новой системы управления
+  en: Installation of a New System of Governance
+  uk: Встановлення нової системи управління
 people: nokhchi
 actor: G0010
 tool: S0008

@@ -1,9 +1,17 @@
 type: procedure
 id: C0025.T0031
+campaign_name:
+  ru: Конотопские статьи Ивана Самойловича (1672)
+  en: The Konotop Articles of Ivan Samoilovych (1672)
+  uk: Конотопські статті Івана Самойловича (1672)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0031
+technique_name:
+  ru: Ограничение суверенитета
+  en: Restriction of Sovereignty
+  uk: Обмеження суверенітету
 people: ukrainians
 actor: G0008
 tool: S0009

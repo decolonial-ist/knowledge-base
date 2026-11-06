@@ -1,9 +1,17 @@
 type: procedure
 id: C0055.T0113.002
+campaign_name:
+  ru: Закон Кивалова-Колесниченко (2012)
+  en: The Kivalov-Kolesnichenko Law (2012)
+  uk: Закон Ківалова-Колесніченка (2012)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0113.002
+technique_name:
+  ru: Исключение родного языка из делопроизводства
+  en: Exclusion of the Native Language from Official Use
+  uk: Виключення рідної мови з діловодства
 people: ukrainians
 actor: G0011
 tool: S0020

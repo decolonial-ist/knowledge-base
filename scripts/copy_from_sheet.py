@@ -8,6 +8,7 @@
 Читает листы читающим ключом (~/tmp/colonial-sheet-automation/reader-key.json), пишет:
   tactics/ techniques/ actors/ tools/ campaigns/<C>/<C>.yml + campaigns/<C>/<C>.<T>.yml
 Карточки материалов не пишет: они в архиве; «Список материалов» читается только для перевода ключей сносок в номера.
+После копии прогнать scripts/procedure_names.py: поля campaign_name / technique_name процедур копия не пишет.
 Опубликованное («to be published» = TRUE) - в --out, остальное - в --out/unpublished той же раскладкой
 (куратор 03.11: «unpublished ок. переноси туда»; сайт и экспортёр эту папку не читают). Отчёт - COPY_REPORT.md в --out.
 Таблица с 03.11 только для чтения, её известные ошибки чинятся при копии (FIXES).

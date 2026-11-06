@@ -1,9 +1,17 @@
 type: procedure
 id: C0005.T0056
+campaign_name:
+  ru: Андрусовское перемирие (1667)
+  en: Truce of Andrusovo (1667)
+  uk: Андрусівське перемир'я (1667)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: ukrainians
 actor: G0008
 tool: S0008

@@ -1,9 +1,17 @@
 type: procedure
 id: C0047.T0113.001
+campaign_name:
+  ru: Эмский указ и тотальная цензура (1876–1887)
+  en: The Ems Ukaz and Total Censorship (1876–1887)
+  uk: Емський указ і тотальна цензура (1876–1887)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0113.001
+technique_name:
+  ru: Законодательный запрет родного языка
+  en: Legislative Ban on the Native Language
+  uk: Законодавча заборона рідної мови
 people: ukrainians
 actor: G0009
 tool: S0008

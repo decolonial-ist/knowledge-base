@@ -1,9 +1,17 @@
 type: procedure
 id: C1177.T0155
+campaign_name:
+  ru: 'Разоружение Чечни: войсковая операция с артобстрелами и бомбардировками аулов (1925)'
+  en: 'The disarmament of Chechnya: a military operation with artillery shelling and bombing of auls (1925)'
+  uk: 'Роззброєння Чечні: військова операція з артобстрілами та бомбардуваннями аулів (1925)'
 created: 2026-08-13
 modified: 2026-08-13
 version: '1.0'
 technique: T0155
+technique_name:
+  ru: Принудительное разоружение
+  en: Forced Disarmament
+  uk: Примусове роззброєння
 people: nokhchi
 actor: G0010
 tool: S0010

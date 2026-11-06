@@ -1,9 +1,17 @@
 type: procedure
 id: C1158.T0105
+campaign_name:
+  ru: 'Истребление жителей Кишкерой-Юрта отрядом Пулло: 76 убитых, 40 пленных, сожжение села с запасами (декабрь 1836)'
+  en: 'Extermination of the Inhabitants of Kishkeroy-Yurt by Pullo''s Detachment: 76 Killed, 40 Captured, Village Burned with Its Stores (December 1836)'
+  uk: 'Винищення жителів Кишкерой-Юрта загоном Пулло: 76 убитих, 40 полонених, спалення села із запасами (грудень 1836)'
 created: 2026-07-16
 modified: 2026-07-16
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: nokhchi
 actor: G0009
 tool: S0010

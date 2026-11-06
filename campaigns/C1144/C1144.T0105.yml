@@ -1,9 +1,17 @@
 type: procedure
 id: C1144.T0105
+campaign_name:
+  ru: Разорение качкалыкских селений нохчи и вытеснение жителей за горы после дади-юртского террора (1819)
+  en: Devastation of the Kachkalyk villages of the Nokhchi and displacement of their inhabitants beyond the mountains after the Dadi-Yurt terror (1819)
+  uk: Розорення качкаликівських селищ Нохчі та витіснення жителів за гори після даді-юртівського терору (1819)
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: nokhchi
 actor: G0009
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C1165.T0021
+campaign_name:
+  ru: '«Стеснение Чечни со всех сторон»: блокада, тайная война, карательные экспедиции и Сунженская линия (1840-1846)'
+  en: '"Constriction of Chechnya from all sides": blockade, secret war, punitive expeditions and the Sunzha Line (1840-1846)'
+  uk: '«Стиснення Чечні з усіх боків»: блокада, таємна війна, каральні експедиції та Сунженська лінія (1840-1846)'
 created: 2026-07-24
 modified: 2026-07-24
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: nokhchi
 actor: G0009
 tool: S0010

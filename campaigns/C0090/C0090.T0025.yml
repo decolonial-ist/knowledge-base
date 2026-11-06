@@ -1,9 +1,17 @@
 type: procedure
 id: C0090.T0025
+campaign_name:
+  ru: Информационная блокада вокруг Чернобыльской катастрофы (1986)
+  en: Information Blockade Around the Chornobyl Disaster (1986)
+  uk: Інформаційна блокада навколо Чорнобильської катастрофи (1986)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0025
+technique_name:
+  ru: Информационная изоляция
+  en: Information Isolation
+  uk: Інформаційна ізоляція
 people: ukrainians
 actor: G0010
 tool: S0008

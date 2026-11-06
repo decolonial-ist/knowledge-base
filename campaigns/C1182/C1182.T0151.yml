@@ -1,9 +1,17 @@
 type: procedure
 id: C1182.T0151
+campaign_name:
+  ru: '«Только помилованы»: чужая власть и подавление национальной жизни чеченцев и ингушей (1965-1989)'
+  en: '"Only Pardoned": Alien Rule and the Suppression of Chechen and Ingush National Life (1965-1989)'
+  uk: '«Лише помилувані»: чужа влада і придушення національного життя чеченців та інгушів (1965-1989)'
 created: 2026-09-06
 modified: 2026-09-06
 version: '1.0'
 technique: T0151
+technique_name:
+  ru: Установление чужеродного управления
+  en: Imposition of Alien Governance
+  uk: Встановлення чужорідного управління
 people: nokhchi
 actor: G0010
 tool: S0008

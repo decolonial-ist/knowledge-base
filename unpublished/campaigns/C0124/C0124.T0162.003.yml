@@ -1,9 +1,17 @@
 type: procedure
 id: C0124.T0162.003
+campaign_name:
+  ru: 'Оленовка: убийство военнопленных (2022)'
+  en: 'Olenivka: The Killing of Prisoners of War (2022)'
+  uk: 'Оленівка: вбивство військовополонених (2022)'
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0162.003
+technique_name:
+  ru: Убийство пленных и задержанных
+  en: Killing of Prisoners and Detainees
+  uk: Вбивство полонених і затриманих
 people: ukrainians
 actor: G0011
 tool: S0010

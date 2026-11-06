@@ -1,9 +1,17 @@
 type: procedure
 id: C1145.T0105
+campaign_name:
+  ru: Ночное нападение на аул Топли, сожжение Герменчука и принуждение нохчи к рубке своих лесов (1820)
+  en: Night Attack on the Aul of Topli, Burning of Germenchuk, and Coercion of the Nokhchi to Fell Their Own Forests (1820)
+  uk: Нічний напад на аул Топлі, спалення Герменчука та примушення Нохчі до вирубування власних лісів (1820)
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: nokhchi
 actor: G0009
 tool: S0010

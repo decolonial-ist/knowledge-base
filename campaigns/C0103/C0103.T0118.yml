@@ -1,9 +1,17 @@
 type: procedure
 id: C0103.T0118
+campaign_name:
+  ru: Полномасштабное вторжение (с 24 февраля 2022)
+  en: Full-Scale Invasion (from February 24, 2022)
+  uk: Повномасштабне вторгнення (з 24 лютого 2022)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0118
+technique_name:
+  ru: Истребление по территориальному признаку
+  en: Extermination on a Territorial Basis
+  uk: Винищення за територіальною ознакою
 people: ukrainians
 actor: G0011
 tool: S0010

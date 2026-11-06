@@ -1,9 +1,17 @@
 type: procedure
 id: C0013.T0021
+campaign_name:
+  ru: Лебединские казни (1708–1709)
+  en: The Lebedyn Executions (1708–1709)
+  uk: Лебединські страти (1708–1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: ukrainians
 actor: G0008
 tool: S0017

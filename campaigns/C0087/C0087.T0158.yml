@@ -1,9 +1,17 @@
 type: procedure
 id: C0087.T0158
+campaign_name:
+  ru: Идеологическая кампания «300-летие воссоединения» и передача Крыма (1954)
+  en: The Ideological Campaign of the "300th Anniversary of Reunification" and the Transfer of Crimea (1954)
+  uk: Ідеологічна кампанія «300-річчя возз'єднання» та передача Криму (1954)
 created: 2026-08-05
 modified: 2026-08-31
 version: '1.0'
 technique: T0158
+technique_name:
+  ru: Маркировка территории имперскими символами
+  en: Territorial Marking with Imperial Symbols
+  uk: Маркування території імперськими символами
 people: ukrainians
 actor: G0010
 tool: S0008

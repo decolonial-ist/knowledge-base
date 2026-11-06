@@ -1,9 +1,17 @@
 type: procedure
 id: C0001.T0031
+campaign_name:
+  ru: Переяславская рада (1654)
+  en: Pereiaslav Council (1654)
+  uk: Переяславська рада (1654)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0031
+technique_name:
+  ru: Ограничение суверенитета
+  en: Restriction of Sovereignty
+  uk: Обмеження суверенітету
 people: ukrainians
 actor: G0008
 tool: S0009

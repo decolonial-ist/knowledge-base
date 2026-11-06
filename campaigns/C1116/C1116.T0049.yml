@@ -1,9 +1,17 @@
 type: procedure
 id: C1116.T0049
+campaign_name:
+  ru: Использование нохчи в военных экспедициях, интервенция и обложение ясаком (1626–1628)
+  en: Use of the Nokhchi in Military Expeditions, Intervention, and Imposition of Yasak (1626–1628)
+  uk: Використання Нохчі у воєнних експедиціях, інтервенція та обкладення ясаком (1626–1628)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: nokhchi
 actor: G0008
 tool: S0012

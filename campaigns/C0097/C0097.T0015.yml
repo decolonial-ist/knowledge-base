@@ -1,9 +1,17 @@
 type: procedure
 id: C0097.T0015
+campaign_name:
+  ru: Газовые войны и энергетический шантаж (2006–2009)
+  en: Gas Wars and Energy Blackmail (2006–2009)
+  uk: Газові війни та енергетичний шантаж (2006–2009)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0015
+technique_name:
+  ru: Подкуп элит
+  en: Bribery of Elites
+  uk: Підкуп еліт
 people: ukrainians
 actor: G0011
 tool: S0017

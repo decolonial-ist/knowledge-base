@@ -1,9 +1,17 @@
 type: procedure
 id: C0007.T0115
+campaign_name:
+  ru: Коломакские статьи (1687)
+  en: Kolomak Articles (1687)
+  uk: Коломацькі статті (1687)
 created: 2026-04-25
 modified: 2026-04-25
 version: '1.0'
 technique: T0115
+technique_name:
+  ru: Культурная ассимиляция
+  en: Cultural Assimilation
+  uk: Культурна асиміляція
 people: ukrainians
 actor: G0008
 tool: S0009

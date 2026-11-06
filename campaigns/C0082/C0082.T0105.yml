@@ -1,9 +1,17 @@
 type: procedure
 id: C0082.T0105
+campaign_name:
+  ru: Тактика «выжженной земли» и преступная мобилизация (1941–1945)
+  en: Scorched Earth Tactics and Criminal Mobilization (1941–1945)
+  uk: Тактика «випаленої землі» та злочинна мобілізація (1941–1945)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: ukrainians
 actor: G0010
 tool: S0010

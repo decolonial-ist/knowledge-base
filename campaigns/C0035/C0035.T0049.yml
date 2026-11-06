@@ -1,9 +1,17 @@
 type: procedure
 id: C0035.T0049
+campaign_name:
+  ru: Военная аннексия Крымского ханства (1783)
+  en: Military Annexation of the Crimean Khanate (1783)
+  uk: Військова анексія Кримського ханства (1783)
 created: 2026-04-26
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: ukrainians
 actor: G0009
 tool: S0010

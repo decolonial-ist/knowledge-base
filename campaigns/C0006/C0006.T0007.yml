@@ -1,9 +1,17 @@
 type: procedure
 id: C0006.T0007
+campaign_name:
+  ru: Издание «Синопсиса» (1674)
+  en: Publication of the "Synopsis" (1674)
+  uk: Видання «Синопсиса» (1674)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0007
+technique_name:
+  ru: Навязывание своей картины реальности
+  en: Imposition of Its Own Picture of Reality
+  uk: Нав'язування власної картини реальності
 people: ukrainians
 actor: G0008
 tool: S0011

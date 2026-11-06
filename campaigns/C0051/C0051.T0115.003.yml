@@ -1,9 +1,17 @@
 type: procedure
 id: C0051.T0115.003
+campaign_name:
+  ru: Запрет культуры и прессы перед Первой мировой войной (1913–1914)
+  en: Ban on Culture and the Press Before World War I (1913–1914)
+  uk: Заборона культури та преси напередодні Першої світової війни (1913–1914)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0115.003
+technique_name:
+  ru: Культурный шовинизм
+  en: Cultural Chauvinism
+  uk: Культурний шовінізм
 people: ukrainians
 actor: G0009
 tool: S0008

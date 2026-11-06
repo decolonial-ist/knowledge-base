@@ -1,9 +1,17 @@
 type: procedure
 id: C1021.T0102
+campaign_name:
+  ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
+  en: Destruction of the Nokhchi Villages along the Sunzha and Construction of the Groznaya Fortress in Their Place (1817–1818)
+  uk: Знищення присунженських селищ Нохчі та зведення фортеці Грозної на їхньому місці (1817–1818)
 created: 2026-06-25
 modified: 2026-06-25
 version: '1.0'
 technique: T0102
+technique_name:
+  ru: Ресурсная эксплуатация
+  en: Resource Exploitation
+  uk: Ресурсна експлуатація
 people: nokhchi
 actor: G0009
 tool: S0010

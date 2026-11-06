@@ -1,9 +1,17 @@
 type: procedure
 id: C1171.T0117.001
+campaign_name:
+  ru: 'Земельное ограбление: колониальный передел земли, малоземелье и казачья колонизация Терской области (1860-1917)'
+  en: 'Land plunder: the colonial repartition of land, land hunger and Cossack colonization of the Terek oblast (1860-1917)'
+  uk: 'Земельне пограбування: колоніальний переділ землі, малоземелля та козача колонізація Терської області (1860-1917)'
 created: 2026-08-04
 modified: 2026-08-04
 version: '1.0'
 technique: T0117.001
+technique_name:
+  ru: Миграционное замещение
+  en: Migratory Replacement
+  uk: Міграційне заміщення
 people: nokhchi
 actor: G0009
 tool: S0012

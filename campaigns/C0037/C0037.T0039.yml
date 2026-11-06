@@ -1,9 +1,17 @@
 type: procedure
 id: C0037.T0039
+campaign_name:
+  ru: Второй и третий разделы Речи Посполитой (1793–1795)
+  en: Second and Third Partitions of the Polish-Lithuanian Commonwealth (1793–1795)
+  uk: Другий і третій поділи Речі Посполитої (1793–1795)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0039
+technique_name:
+  ru: Сговор с третьей стороной за спиной народа
+  en: Collusion with a Third Party Behind the People's Back
+  uk: Змова з третьою стороною за спиною народу
 people: ukrainians
 actor: G0009
 tool: S0009
