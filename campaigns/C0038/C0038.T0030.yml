@@ -14,7 +14,15 @@ technique_name:
   ru: Административно-территориальное деление
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The erasure of historical borders and the introduction of the imperial vertical: "The governor-general concentrated the entire fullness of administrative power: he was endowed with the right of legislative initiative, determined the degree to which all-Russian laws extended within the governorate-general, and controlled the activity of state institutions, including judicial ones"(Citation: 194).'

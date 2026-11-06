@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'The luring of kish otaman Hladky over to the empire''s side in 1828: part of the Danubians "headed by kish otaman Y. Hladky, on May 30 (18), 1828, crossed the Kiliya mouth of the Danube, entered the port of Izmail, and joined the Russian army"(Citation: 189).'

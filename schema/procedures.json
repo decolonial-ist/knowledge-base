@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Процедура",
-  "description": "Файл campaigns/C1193/C1193.T0023.yml: процедура кампании C1193 на технике T0023; имя файла = id = кампания.техника (адрес страницы сайта). Поля campaign_name и technique_name - копии названий для читателя файла (куратор 06.11.2026), источник правды - файлы кампании и техники.",
+  "description": "Файл campaigns/C1193/C1193.T0023.yml: процедура кампании C1193 на технике T0023; имя файла = id = кампания.техника (адрес страницы сайта). Поля campaign_name, technique_name, actor_name, tool_name - копии названий для читателя файла (куратор 06.11.2026), источник правды - файлы кампании, техники, актора и инструмента.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -107,12 +107,54 @@
       ],
       "pattern": "^G\\d{4}$"
     },
+    "actor_name": {
+      "description": "Копия name актора из actors/<G>.yml; есть только при заданном actor; ставит scripts/procedure_names.py, валидатор сверяет.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "uk",
+        "ru"
+      ],
+      "properties": {
+        "en": {
+          "type": "string"
+        },
+        "uk": {
+          "type": "string"
+        },
+        "ru": {
+          "type": "string"
+        }
+      }
+    },
     "tool": {
       "type": [
         "string",
         "null"
       ],
       "pattern": "^S\\d{4}$"
+    },
+    "tool_name": {
+      "description": "Копия name инструмента из tools/<S>.yml; есть только при заданном tool; ставит scripts/procedure_names.py, валидатор сверяет.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "uk",
+        "ru"
+      ],
+      "properties": {
+        "en": {
+          "type": "string"
+        },
+        "uk": {
+          "type": "string"
+        },
+        "ru": {
+          "type": "string"
+        }
+      }
     },
     "contributors": {
       "type": "array",

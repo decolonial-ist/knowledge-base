@@ -14,7 +14,15 @@ technique_name:
   ru: Цензура
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'The immediate elimination of the independent press: GKChP resolution No. 2 of 19 August 1991 ordered "to temporarily limit the list of published central, Moscow city, and oblast socio-political editions to the following newspapers: ''Trud,'' ''Rabochaya tribuna,'' ''Izvestia,'' ''Pravda,'' ''Krasnaya zvezda,'' ''Sovetskaya Rossiya,'' ''Moskovskaya pravda,'' ''Leninskoye znamya,'' ''Selskaya zhizn''"(Citation: 179) – anything not on the list could not appear.'

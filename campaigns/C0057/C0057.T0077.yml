@@ -14,7 +14,15 @@ technique_name:
   ru: Карательные экспедиции
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Reprisals against the insurgents to preserve imperial control: "The tsarist government resorted to brutal repressions against the participants of the uprising, abolished the constitution of the Kingdom of Poland and, simultaneously, most attributes of the Polish lands'' autonomy… introduced martial law (which lasted a quarter of a century)"(Citation: 195).'

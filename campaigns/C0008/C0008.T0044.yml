@@ -14,7 +14,15 @@ technique_name:
   ru: Уничтожение локальных систем знаний
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: 'The destruction of the Kyiv theological school and the declaration of its works as heresy: "All Ukrainian writings, beginning with the catechism of Petro Mohyla, were declared heretical... the council condemned virtually all the principal works of Kyivan theological scholarship"(Citation: 4)(Citation: 3).'

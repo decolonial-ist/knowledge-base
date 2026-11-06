@@ -14,7 +14,15 @@ technique_name:
   ru: Навязывание асимметричного двуязычия и факультативности
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The compulsory introduction of the metropole''s language into schools: the resolution of the USSR Council of People''s Commissars and the Central Committee of the VKP(b) of 13 March 1938 No. 324 "On the Compulsory Study of the Russian Language in the Schools of the National Republics and Regions" ordered "to introduce the teaching of the Russian language as a subject of study in the schools of the national republics and regions from September 1, 1938" - from the 2nd grade in all non-Russian primary schools and from the 3rd grade in incomplete secondary and secondary schools(Citation: 423).'

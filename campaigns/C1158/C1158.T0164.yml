@@ -14,7 +14,15 @@ technique_name:
   ru: Мародерство
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'In the course of the extermination of Kishkeroy-Yurt on 28-31 December 1836, Pullo''s detachment appropriated the inhabitants'' property, including weapons taken from the bodies of the slain: "all the property of the inhabitants and the weapons taken from the slain fell to our troops"(Citation: 126).'

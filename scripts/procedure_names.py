@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Названия кампании и техники в файле процедуры: ставит и обновляет поля campaign_name и technique_name.
+"""Названия кампании, техники, актора и инструмента в файле процедуры: поля campaign_name, technique_name,
+actor_name, tool_name.
 
     python scripts/procedure_names.py [КОРЕНЬ]          # все процедуры в campaigns/ и unpublished/campaigns/
     python scripts/procedure_names.py <файл.yml> [...]  # только эти файлы
     python scripts/procedure_names.py --check [...]     # ничего не писать, код 1 - если есть расхождения
 
 Куратор 06.11.2026: «без названия техники не понятно о чем текст. человеку сложно будет редактировать
-и оставаться в фокусе»; «и название кампании тоже добавь». Поля - копии `name` из файла кампании
-(описание в той же папке) и файла техники; источник правды - эти файлы, поля в процедуре производные.
+и оставаться в фокусе»; «и название кампании тоже добавь»; «актор и тул названия тоже добавляй». Поля - копии
+`name` из файлов кампании (описание в той же папке), техники, актора и инструмента; источник правды - эти
+файлы, поля в процедуре производные. Нет актора или инструмента (null) - нет и поля с названием.
 Поле, а не комментарий YAML: stamp_meta.py после merge переписывает файл дампером, комментарии он теряет.
 Порядок полей - kbformat.FIELD_ORDER (campaign_name сразу за id, technique_name сразу за technique).
 CI гонит скрипт после stamp_meta.py на всех процедурах; домен - при создании файла и после
@@ -73,6 +75,21 @@ def expected(root, proc_path):
     return cn, tn, ("нет файла " + " и ".join(missing)) if missing else None
 
 
+def linked_names(root, doc):
+    """actor_name / tool_name по полям actor / tool; None - поля быть не должно; ошибка - нет файла."""
+    out, problems = {}, []
+    for field, sub, what in (("actor", "actors", "актора"), ("tool", "tools", "инструмента")):
+        ident = doc.get(field)
+        if not ident:
+            out[field + "_name"] = None
+            continue
+        n = name_of(os.path.join(root, sub, f"{ident}.yml"))
+        if not n:
+            problems.append(f"нет файла {what} {ident}")
+        out[field + "_name"] = n
+    return out, problems
+
+
 def process(root, path, check):
     cn, tn, problem = expected(root, path)
     if problem:
@@ -80,11 +97,19 @@ def process(root, path, check):
     doc = kbformat.load_yaml(path)
     if not isinstance(doc, dict):
         return "error", "YAML не читается"
-    if doc.get("campaign_name") == cn and doc.get("technique_name") == tn and list(doc) == list(kbformat.order_fields(doc)):
+    linked, problems = linked_names(root, doc)
+    if problems:
+        return "error", "; ".join(problems)
+    want = {"campaign_name": cn, "technique_name": tn, **linked}
+    if all(doc.get(k) == v for k, v in want.items()) and list(doc) == list(kbformat.order_fields(doc)):
         return "ok", None
     if check:
-        return "diff", "названия отстают от файлов кампании/техники: python scripts/procedure_names.py"
-    doc["campaign_name"], doc["technique_name"] = cn, tn
+        return "diff", "названия отстают от файлов кампании/техники/актора/инструмента: python scripts/procedure_names.py"
+    for k, v in want.items():
+        if v is None:
+            doc.pop(k, None)
+        else:
+            doc[k] = v
     with open(path, "w", encoding="utf-8") as f:
         f.write(kbformat.dump_yaml(kbformat.order_fields(doc)))
     return "written", None

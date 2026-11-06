@@ -14,7 +14,15 @@ technique_name:
   ru: Тотальное уничтожение инфраструктуры
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'On 29-31 December 1836, Pullo''s detachment completely destroyed Kishkeroy-Yurt: "the village of Kishkeroy, consisting of 63 households, with a considerable stock of grain and hay, was put to the torch", and on withdrawing on 31 December Pullo "marched out of Kishkeroy-Yurt, having set fire to the houses that remained undestroyed"(Citation: 126).'

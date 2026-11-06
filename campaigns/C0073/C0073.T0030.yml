@@ -14,7 +14,15 @@ technique_name:
   ru: Административно-территориальное деление
 people: ukrainians
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'An attempt at the bureaucratic resubordination of territories — declaring the Donbas an autonomous part directly linked to Russia, bypassing any Ukrainian authorities(Citation: 25).'

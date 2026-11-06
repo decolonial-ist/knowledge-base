@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительная мобилизация
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The mass conscription by field draft offices of the population of just-liberated territories: "''Chornosvytnyky'' or ''black infantry'' – such was the unofficial name given to men and youths mobilized by field military commissariats, and in fact by the commanders of formations, units, and detachments in 1943–1944 after the Red Army''s liberation of enemy-occupied territories"(Citation: 211).'

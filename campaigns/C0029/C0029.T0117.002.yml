@@ -14,7 +14,15 @@ technique_name:
   ru: Поощрение смешанных браков
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Targeted demographic assimilation under Anna''s secret decree of January 31, 1734 to governor Shakhovskoy: "that you with your skill, secretly and quietly, take special pains to divert the Little Russians from kinship… and to encourage them and skillfully bring them into kinship with… the Great Russian people"(Citation: 158).'

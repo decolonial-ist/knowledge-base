@@ -14,7 +14,15 @@ technique_name:
   ru: Перевод школ на язык метрополии
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors:
 - en: Palii Svitodar
   uk: Палій Світодар

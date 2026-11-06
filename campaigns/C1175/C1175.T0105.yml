@@ -14,7 +14,15 @@ technique_name:
   ru: Тотальное уничтожение инфраструктуры
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'In 1911 the Russian Empire demolished the Chechen hamlets of two okrugs: "A forcible demolition was begun of all the hamlets built ''without permission'' (and there were no others here) in the Vedeno and Grozny okrugs"(Citation: 125); Chechen hamlets "were repeatedly demolished, including under the pretext of ''punishment'' for sheltering abreks"(Citation: 125).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Запрет богослужений на родном языке
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: 'The displacement of the local population''s language from the sacred sphere: metropolitan Samuil Myslavsky''s order of 26 October 1784 demanded that students and future priests practice "the reading of church books of every kind, and above all the Bible, acquiring a good and pure pronunciation" - after the Moscow model instead of the Ukrainian church tradition, under the threat of expulsion from the clerical estate(Citation: 415), and in 1786 metropolitan Myslavsky prescribed to the clergy the unification of pronunciation and orthography along the Russian model(Citation: 181).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: nokhchi
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'Transfer of enormous amounts of cash to opposition leaders, including U. Avturkhanov receiving at least 150 billion rubles in the summer and fall of 1994(Citation: 26).'

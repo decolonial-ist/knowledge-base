@@ -14,7 +14,15 @@ technique_name:
   ru: Налогообложение
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Shifting the financial and logistical burden of imperial wars onto the autonomy''s shoulders: "The commoners supplied provisions for the volunteer troops, and they also stocked hay for the winter for the host''s artillery"(Citation: 4)(Citation: 3).'

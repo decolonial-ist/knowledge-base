@@ -14,7 +14,15 @@ technique_name:
   ru: Цензура
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The introduction of censorship over book printing by Peter I''s decree of 5 October 1720: "no new books whatsoever are to be printed except previous church editions, and even those old church books… are to be corrected before printing"(Citation: 143).'

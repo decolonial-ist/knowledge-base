@@ -14,7 +14,15 @@ technique_name:
   ru: Военная интервенция
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The direct armed invasion of Polish territory by the Red Army on September 17, 1939 for the military occupation of the western Ukrainian lands; the seizure was consolidated by "the treaty of the USSR with Germany (September 28, 1939)," which "confirmed the incorporation of the western Ukrainian lands into the USSR"(Citation: 194).'

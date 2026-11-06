@@ -14,7 +14,15 @@ technique_name:
   ru: Внедрение в местные политические структуры
 people: ukrainians
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0020
+tool_name:
+  en: Controlled Opposition
+  uk: Підконтрольна опозиція
+  ru: Подконтрольная оппозиция
 contributors: []
 description:
   en: 'Deliberate transfer of loyal delegates and political agitators to the All-Ukrainian Congress of Soviets in Kyiv in order to hijack the agenda from within(Citation: 22).'

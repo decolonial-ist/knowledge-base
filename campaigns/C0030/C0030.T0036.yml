@@ -14,7 +14,15 @@ technique_name:
   ru: Установка новой системы управления
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The establishment of a direct imperial organ – the Second Little Russian Collegium: four Great Russian members, four Little Russian ones, headed by Rumyantsev with the powers of a governor-general; the Zaporozhian Sich was also transferred to its jurisdiction: "the Zaporozhian Sich, which was under the hetman''s jurisdiction, shall now be administered by this Little Russian government"(Citation: 145).'

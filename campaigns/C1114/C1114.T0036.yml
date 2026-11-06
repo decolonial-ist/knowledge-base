@@ -14,7 +14,15 @@ technique_name:
   ru: Установка новой системы управления
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The metropole''s occupation administration abolished Nokhchi self-governance, forcibly subordinating them to an alien elite: historian E. N. Kusheva states that in 1614 Tsar Mikhail Fyodorovich ordered the Kabardian prince Sunchaley Yanglychevich Cherkassky «to be prince over all the Okochans... to judge them and to have charge of them in military organization and in all matters»(Citation: 83).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Навязывание асимметричного двуязычия и факультативности
 people: ukrainians
 actor: G0014
+actor_name:
+  en: White Movement (AFSR)
+  uk: Білий рух (ЗСПР)
+  ru: Белое движение (ВСЮР)
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'General Mai-Maevsky, head of the Whites'' administration in Katerynoslav, Kharkiv, Kursk and Poltava provinces, by order No. 22 of 3 August 1919 returned the schools of Ukraine to compulsory instruction in Russian, leaving the native language the place of an elective: "The teaching of the Little Russian language and literature is permitted as non-compulsory subjects on general grounds" - Russian became the compulsory language of instruction, Ukrainian was studied only at will(Citation: 582).'

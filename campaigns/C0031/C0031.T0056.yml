@@ -14,7 +14,15 @@ technique_name:
   ru: Налогообложение
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Lowering the social status of the indigenous population for the purpose of economic extraction: "The Cossacks and their helpers were turned into military settlers and taxed with the poll tax," and those with the right to distill horilka "now had to pay… 95 kopecks per soul to the treasury"(Citation: 161).'

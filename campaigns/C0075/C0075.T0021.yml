@@ -14,7 +14,15 @@ technique_name:
   ru: Нейтрализация оппозиции
 people: ukrainians
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Coercion of legal Ukrainian parties into self-dissolution (in particular, the Borotbists in the spring of 1920) and their absorption by the CP(b)U through political blackmail and the bribery of their leaders with official posts(Citation: 22).'

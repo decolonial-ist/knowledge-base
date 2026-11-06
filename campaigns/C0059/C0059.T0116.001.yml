@@ -14,7 +14,15 @@ technique_name:
   ru: Насильственное обращение в религию метрополии
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: 'The forced transfer of the Uniate faithful of the Right Bank into the empire''s state church (the Holy Synod; the patriarchate in Russia was abolished until 1917) for the spiritual assimilation of the population: the Basilian monasteries – the mainstay of the Union – were liquidated throughout the empire by the mid-19th century(Citation: 206).'

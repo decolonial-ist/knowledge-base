@@ -14,7 +14,15 @@ technique_name:
   ru: Прокси-война
 people: nokhchi
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'Recruitment by the FSK of career servicemen of the Kantemirovskaya and Tamanskaya divisions and supplying the opposition with dozens of tanks for the assault on Grozny on November 26, 1994(Citation: 26).'

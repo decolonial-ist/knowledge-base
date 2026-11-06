@@ -14,7 +14,15 @@ technique_name:
   ru: Ликвидация национальных общественных организаций
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'The purge of civic communities in the wake of the uprising''s suppression: "the suppression of the Polish uprising of 1863–1864, which had a corresponding impact on the Ukrainophile movement, interpreted by the tsarist administration as an Austrian intrigue, led to the self-dissolution of the hromadas and the fading of public activity"(Citation: 197).'

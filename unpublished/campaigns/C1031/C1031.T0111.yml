@@ -14,7 +14,15 @@ technique_name:
   ru: Использование людей как «живого щита»
 people: nokhchi
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Forced placement of civilians in front of armored vehicles in Samashki (March 1996) and the use of patients and medical staff to cover the withdrawal of federal troops from Hospital No. 9 in Grozny (August 1996)(Citation: 27).'

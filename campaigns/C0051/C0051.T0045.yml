@@ -14,7 +14,15 @@ technique_name:
   ru: Уничтожение исторической памяти
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The erasure of the memory of national heroes: "In January 1914, minister of internal affairs Nikolai Maklakov signed a circular by which he forbade throughout all governorates of the empire ''public celebrations of the Little Russian writer Taras Shevchenko''"(Citation: 205).'

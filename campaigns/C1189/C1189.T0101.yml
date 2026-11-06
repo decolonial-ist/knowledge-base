@@ -14,7 +14,15 @@ technique_name:
   ru: Цензура
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'On 16 August 1914, three days after placing the Terek oblast under "extraordinary security", the Russian Empire introduced in the oblast a provisional statute on military censorship(Citation: 125)(Citation: 127).'

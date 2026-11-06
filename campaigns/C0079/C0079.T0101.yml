@@ -14,7 +14,15 @@ technique_name:
   ru: Цензура
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Mass confiscation and destruction of literature declared "nationalist," and rigid control over the printed word and the arts(Citation: 22).'

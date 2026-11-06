@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'A wager on the estate interests of the officer class: "The Konotop Articles limited both the hetman''s power and, accordingly, the autonomy of the Hetmanate, while significantly expanding the rights of the Cossack officers"(Citation: 199) – by expanding the rights of the officer oligarchy at the hetman''s expense, Moscow gained levers of influence over the autonomy through the hands of its own elite.'

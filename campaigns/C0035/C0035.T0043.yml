@@ -14,7 +14,15 @@ technique_name:
   ru: Стирание и переименование топонимов
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The erasure of the historical names of the Cossack southern territories used as a springboard for the annexation of Crimea: Catherine II''s manifesto of 3 August 1775 extirpated "the very name of the Zaporozhian Cossacks" and poured their lands into an imperial construct – "assigning them as convenient to the Novorossiysk Governorate"(Citation: 147).'

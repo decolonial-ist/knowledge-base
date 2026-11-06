@@ -14,7 +14,15 @@ technique_name:
   ru: Финансовая дискриминация педагогов
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Financial privileges for teaching in the metropole''s language: pursuant to the resolution of the CPSU Central Committee and the USSR Council of Ministers of 26 May 1983 No. 473 "On additional measures for improving the study of the Russian language in general-education schools and other educational institutions of the union republics," the Central Committee of the Communist Party of Ukraine and the Council of Ministers of the Ukrainian SSR, by a resolution of 10 June 1983 - signed by Shcherbytsky and Liashko, stamped "Not for the press" - raised from 1984 by 15 percent the salary rates of teachers of Russian language and literature and allowed classes of more than 25 pupils to be split into subgroups for Russian lessons(Citation: 181)(Citation: 417).'

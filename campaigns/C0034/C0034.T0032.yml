@@ -14,7 +14,15 @@ technique_name:
   ru: Правовая сегрегация населения
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0024
+tool_name:
+  en: Police Apparatus
+  uk: Поліцейський апарат
+  ru: Полицейский аппарат
 contributors: []
 description:
   en: 'The legal enserfment of Ukrainian peasants by Catherine II''s decree of May 3, 1783, depriving them of the right of free movement: "For the certain and reliable collection of treasury revenues in the viceroyalties of Kyiv, Chernihiv, and Novhorod-Siverskyi and for the prevention of any flights… each of the villagers is to remain in the place and station where he is registered by the current last revision"(Citation: 149).'

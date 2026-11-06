@@ -14,7 +14,15 @@ technique_name:
   ru: Похищение людей
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'In the course of the extermination of Kishkeroy-Yurt on 28-31 December 1836, Pullo''s detachment led away 40 inhabitants into captivity: "40 souls of both sexes were taken captive"(Citation: 126).'

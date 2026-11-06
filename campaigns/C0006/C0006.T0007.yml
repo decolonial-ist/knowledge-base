@@ -14,7 +14,15 @@ technique_name:
   ru: Навязывание своей картины реальности
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: 'The implantation of a narrative about the unbreakable bond between Kyiv and Moscow, serving the political aims of the metropole: the author sought "to give the Muscovite tsar the motivation to continue the struggle with the Polish-Lithuanian Commonwealth" and "to ease the incorporation of the Hetmanate''s elite into the Russian ruling estate"(Citation: 184).'

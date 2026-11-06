@@ -14,7 +14,15 @@ technique_name:
   ru: Административно-территориальное деление
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The liquidation of Cossack administrative units and the introduction of imperial division: the report of the Shakhovskoy-Panin commission confirmed by the empress on December 16, 1764 and Catherine II''s manifesto of July 28, 1765(Citation: 395)(Citation: 396) – "On the basis of the Sloboda regiments the Sloboda-Ukrainian Governorate was formed"(Citation: 196).'

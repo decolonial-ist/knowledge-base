@@ -14,7 +14,15 @@ technique_name:
   ru: Исключение родного языка из делопроизводства
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The displacement of the native language from the official sphere of the cities: with the liquidation of the remnants of Magdeburg self-government, the last institutional support for the local legal tradition disappeared – Ukrainian-language court proceedings had been curtailed as early as the extension of the all-Russian judicial system in the 1780s(Citation: 194).'

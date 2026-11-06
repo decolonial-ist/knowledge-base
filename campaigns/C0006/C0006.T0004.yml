@@ -14,7 +14,15 @@ technique_name:
   ru: Переписывание истории
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: 'For the ideological justification of the seizure, the Muscovite authorities received a ready-made historical canon: "the ''SYNOPSIS,'' ''Synopsis, or a Brief Collection from Various Chroniclers on the Origin of the Slaveno-Rossian People'' – a historical work first published by the printing house of the Kyiv-Pechersk Lavra (1674)"(Citation: 196) – the book constructed a shared "Slaveno-Rossian" past, legitimizing Moscow''s rule over Kyiv retroactively.'

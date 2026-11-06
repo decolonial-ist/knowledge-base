@@ -14,7 +14,15 @@ technique_name:
   ru: Экономический контроль
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Embedding the autonomy''s finances into the imperial system: the revenues from the indukta (duty on imported goods) "were to be transferred to the tsar''s treasury"(Citation: 196), while the host treasury was managed by two general treasurers – a Ukrainian and an appointed Russian.'

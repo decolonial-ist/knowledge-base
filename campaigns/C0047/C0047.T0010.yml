@@ -14,7 +14,15 @@ technique_name:
   ru: Непризнание самостоятельной идентичности
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The ideological justification of the censorship refusal – the language was declared nonexistent by definition: the censor''s resolution about "the grammar of a language that must not exist"(Citation: 181).'

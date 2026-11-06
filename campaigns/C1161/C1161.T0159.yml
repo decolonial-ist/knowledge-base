@@ -14,7 +14,15 @@ technique_name:
   ru: Коллективные наказания
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'By the April 1837 raid on the Gertli settlement the troops of General Feze imposed a collective property levy on the whole village: according to Rozen''s report to Minister of War Chernyshev of 30 May, on top of the livestock taken during the raid "a fine of 132 head of livestock was imposed on the settlement"(Citation: 105) - the settlement paid as a whole, with no regard to the personal involvement of its residents.'

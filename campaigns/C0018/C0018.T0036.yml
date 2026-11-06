@@ -14,7 +14,15 @@ technique_name:
   ru: Установка новой системы управления
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The introduction of the collegium as a parallel organ of power to seize judicial and fiscal functions from the hetman''s administration: it acted "as the highest appellate instance and administrative-controlling organ"(Citation: 194), and "the Little Russian Collegium for the first time channeled Ukrainian finances into the tsar''s treasury in full"(Citation: 194).'

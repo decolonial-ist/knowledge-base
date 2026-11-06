@@ -14,7 +14,15 @@ technique_name:
   ru: Миграционное замещение
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The colonization of the steppes adjacent to Crimea with settlers to create a loyal rear: as early as 1752, New Serbia was formed from Serbs – "officially – to guard the southern frontiers from Tatar and Turkish raids, but in fact – to subdue the Zaporozhians"(Citation: 196), and in 1776 Potemkin directly ordered "not to return fugitives"(Citation: 195), accelerating the settlement of the south.'

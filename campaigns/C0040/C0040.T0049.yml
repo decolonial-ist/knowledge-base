@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Mass conscription into the militia and the formation of Cossack regiments on the basis of false promises to restore Cossack liberties: "Ukraine was used for the recruitment, equipping, and movement of troops… including a 75-thousand-strong militia from the Kyiv, Podillia, Chernihiv, and Poltava governorates"(Citation: 185).'

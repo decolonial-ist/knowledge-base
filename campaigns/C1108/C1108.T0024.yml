@@ -14,7 +14,15 @@ technique_name:
   ru: Оправдание через религию
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The occupation administration of the Russian Empire used religious pretexts for expansion: historian Michael Khodarkovsky cites a memorandum by Governor-General P. S. Potemkin, who in 1784 declared that under the pretext of returning the highlanders to the faith and sending priests to them, the empire would be able to shed "the light of divine bliss among all the peoples scattered in the mountains"(Citation: 71).'

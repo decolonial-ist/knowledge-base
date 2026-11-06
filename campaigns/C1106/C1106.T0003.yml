@@ -14,7 +14,15 @@ technique_name:
   ru: Культивирование логики превосходства
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0021
+tool_name:
+  en: Propaganda
+  uk: Пропаганда
+  ru: Пропаганда
 contributors: []
 description:
   en: 'The propaganda apparatus of the Russian Empire used poetry to broadcast the logic of domination into society: the imperial historian and participant in the events V. A. Potto records that the poet A. S. Pushkin proclaimed in verse the inevitability of subjugation: «Submit, Caucasus - Yermolov is coming!»(Citation: 75), while the poet V. A. Zhukovsky extolled the destruction of infrastructure by military commanders: «Scarcely at the villages - the villages blaze»(Citation: 74).'

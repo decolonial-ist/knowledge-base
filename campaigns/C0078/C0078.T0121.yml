@@ -14,7 +14,15 @@ technique_name:
   ru: Искусственный голод
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Confiscation of absolutely all food, including the extraction of seed stocks, through the mechanism of crushing grain procurement quotas, which led to mass deadly famine(Citation: 22).'

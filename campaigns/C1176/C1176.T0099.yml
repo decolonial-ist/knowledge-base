@@ -14,7 +14,15 @@ technique_name:
   ru: Захват заложников
 people: nokhchi
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'In 1923-1924 the Chechen revkom made hostage-taking an official practice of the fight against "banditry": "Measures were taken to register all criminals present in Chechnya, and the practice was introduced of taking hostages from among the close relatives of bandits in hiding"(Citation: 125).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Культивирование логики превосходства
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0021
+tool_name:
+  en: Propaganda
+  uk: Пропаганда
+  ru: Пропаганда
 contributors: []
 description:
   en: 'Total indoctrination of Russian society with the ideas of the philosopher I. Ilyin (so-called "white fascism") and the transformation of the "Russian World" concept into a state ideology (rashism) that justifies the metropole''s cultural superiority and existential right to violence against its neighbors(Citation: 2).'

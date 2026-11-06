@@ -14,7 +14,15 @@ technique_name:
   ru: Марионеточное правительство
 people: nokhchi
 actor: G0014
+actor_name:
+  en: White Movement (AFSR)
+  uk: Білий рух (ЗСПР)
+  ru: Белое движение (ВСЮР)
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: |-

@@ -9,7 +9,7 @@
   - `version` поднимается на 0.1, если `modified` до этого была не сегодняшней (не чаще раза в день);
   - `created` ставится, если поля нет.
 Автор PR эти поля не трогает; если тронул - CI их перезапишет.
-Правка только служебных полей (эти три, campaign_name, technique_name) - не изменение содержимого: файл
+Правка только служебных полей (эти три, campaign_name, technique_name, actor_name, tool_name) - не изменение содержимого: файл
 сравнивается с версией из HEAD~1 без них и, если равен, не штампуется (06.11.2026: добавление названий
 кампании и техники проштамповало 852 процедуры, текст которых не менялся). Карточек материалов в базе нет (они в архиве).
 Файл переписывается тем же дампером, что у копии из таблицы, поэтому меняются только эти три строки.
@@ -24,7 +24,7 @@ import kbformat  # noqa: E402
 
 META_KINDS = ("tactics", "techniques", "actors", "tools", "campaigns")
 # поля, смена которых содержимым не считается
-SERVICE_FIELDS = ("created", "modified", "version", "campaign_name", "technique_name")
+SERVICE_FIELDS = ("created", "modified", "version", "campaign_name", "technique_name", "actor_name", "tool_name")
 
 
 def content(doc):

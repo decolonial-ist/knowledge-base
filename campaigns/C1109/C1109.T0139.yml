@@ -14,7 +14,15 @@ technique_name:
   ru: Возведение крепостей
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The military forces of the Tsardom of Muscovy repeatedly rebuilt the fortified outpost on the lands of the Nokhchi: historian E. N. Kusheva writes that "in 1577 - 1578... the Russian town was reestablished on the Terek River at the mouth of the Sunzha"(Citation: 83), while the compiler of the collection of documents E. N. Kusheva indicates that the military forces of the Tsardom of Muscovy "rebuilt the ostrog in 1590 and 1635"(Citation: 82) and that "in 1651 a Russian ostrog was built anew on the left bank of the Sunzha"(Citation: 82).'

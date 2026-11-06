@@ -14,7 +14,15 @@ technique_name:
   ru: Переписывание истории
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The government of the Russian Empire fabricated historical accounts to provide legal justification for invasion: historian Michael Khodarkovsky points out that in 1748 and in the 1770s officials deliberately constructed fictitious claims that the Indigenous peoples of the Caucasus had allegedly been Christians in the past, in order to contest the claims of other empires and "legitimize their efforts at their ''re-Christianization''"(Citation: 71).'
