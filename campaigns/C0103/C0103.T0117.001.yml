@@ -5,8 +5,8 @@ campaign_name:
   en: Full-Scale Invasion (from February 24, 2022)
   uk: Повномасштабне вторгнення (з 24 лютого 2022)
 created: 2026-04-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-04-27
+version: '1.0'
 technique: T0117.001
 technique_name:
   ru: Миграционное замещение

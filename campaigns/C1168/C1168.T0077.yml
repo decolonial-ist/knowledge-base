@@ -5,8 +5,8 @@ campaign_name:
   en: 'Forest clearings and famine: Yevdokimov''s conquest of Chechnya (1857-1859)'
   uk: 'Просіки і голод: завоювання Чечні Євдокимовим (1857-1859)'
 created: 2026-08-03
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-31
+version: '1.0'
 technique: T0077
 technique_name:
   ru: Карательные экспедиции

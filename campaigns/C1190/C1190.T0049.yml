@@ -5,8 +5,8 @@ campaign_name:
   en: '"Bombs Rained Down on the Auls": Repression and Air Strikes on Mountain Chechnya on the Eve of the Deportation (1941-1942)'
   uk: '«Бомби обрушилися на аули»: репресії та повітряні удари по гірській Чечні напередодні депортації (1941-1942)'
 created: 2026-08-29
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-29
+version: '1.0'
 technique: T0049
 technique_name:
   ru: Принудительная мобилизация

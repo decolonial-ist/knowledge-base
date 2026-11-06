@@ -5,8 +5,8 @@ campaign_name:
   en: Election Interference and Countering the "Orange Revolution" (2004)
   uk: Втручання у вибори та протидія «Помаранчевій революції» (2004)
 created: 2026-04-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-01
+version: '1.0'
 technique: T0012
 technique_name:
   ru: Поддержка сепаратизма

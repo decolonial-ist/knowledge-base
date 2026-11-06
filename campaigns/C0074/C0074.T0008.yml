@@ -5,8 +5,8 @@ campaign_name:
   en: 'Soviet-Ukrainian War: Second Invasion and Resource Depletion (1919)'
   uk: 'Радянсько-Українська війна: друге вторгнення і ресурсне виснаження (1919)'
 created: 2026-04-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-10-27
+version: '1.0'
 technique: T0008
 technique_name:
   ru: Лишение субъектности

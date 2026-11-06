@@ -5,8 +5,8 @@ campaign_name:
   en: '"Neither plow nor sow": the pogrom of Chechnya, organized famine, the buying-up of elites and the institutions of subjugation (1852-1857)'
   uk: '«Ні орати, ні сіяти»: погром Чечні, організований голод, перекупівля еліт та інститути підкорення (1852-1857)'
 created: 2026-07-31
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-07
+version: '1.0'
 technique: T0052
 technique_name:
   ru: Изъятие ресурсов

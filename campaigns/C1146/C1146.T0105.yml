@@ -5,8 +5,8 @@ campaign_name:
   en: 'Suppression of the Nokhchi Uprising: Devastation of Villages and Forced Forest Felling by Grekov (1821-1822)'
   uk: 'Придушення повстання Нохчі: розорення сіл і примусове вирубування лісів Грековим (1821-1822)'
 created: 2026-06-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-06-27
+version: '1.0'
 technique: T0105
 technique_name:
   ru: Тотальное уничтожение инфраструктуры

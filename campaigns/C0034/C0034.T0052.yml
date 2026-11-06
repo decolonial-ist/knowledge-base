@@ -5,8 +5,8 @@ campaign_name:
   en: Administrative Dismantling and Enserfment of the Left Bank (1781–1786)
   uk: Адміністративний демонтаж і закріпачення Лівобережжя (1781–1786)
 created: 2026-04-25
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-07-31
+version: '1.0'
 technique: T0052
 technique_name:
   ru: Изъятие ресурсов

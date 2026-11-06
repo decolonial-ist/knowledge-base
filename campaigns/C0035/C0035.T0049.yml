@@ -5,8 +5,8 @@ campaign_name:
   en: Military Annexation of the Crimean Khanate (1783)
   uk: Військова анексія Кримського ханства (1783)
 created: 2026-04-26
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-07-31
+version: '1.0'
 technique: T0049
 technique_name:
   ru: Принудительная мобилизация

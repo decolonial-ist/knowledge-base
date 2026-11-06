@@ -5,8 +5,8 @@ campaign_name:
   en: '"Mow Down Everything, Beat and Hang Without Mercy": Suppression of the 1877 Uprising and the Executions in Grozny (1877-1878)'
   uk: '«Косіть усе, бийте і вішайте нещадно»: придушення повстання 1877 року і страти в Грозному (1877-1878)'
 created: 2026-08-03
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-03
+version: '1.0'
 technique: T0013
 technique_name:
   ru: Создание агентуры влияния

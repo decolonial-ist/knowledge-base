@@ -5,8 +5,8 @@ campaign_name:
   en: '"Only Pardoned": Alien Rule and the Suppression of Chechen and Ingush National Life (1965-1989)'
   uk: '«Лише помилувані»: чужа влада і придушення національного життя чеченців та інгушів (1965-1989)'
 created: 2026-09-06
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-09-06
+version: '1.0'
 technique: T0032
 technique_name:
   ru: Правовая сегрегация населения

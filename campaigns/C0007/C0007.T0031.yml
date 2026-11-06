@@ -5,8 +5,8 @@ campaign_name:
   en: Kolomak Articles (1687)
   uk: Коломацькі статті (1687)
 created: 2026-04-24
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-10-26
+version: '1.0'
 technique: T0031
 technique_name:
   ru: Ограничение суверенитета
