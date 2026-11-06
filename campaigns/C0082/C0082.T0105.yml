@@ -1,24 +1,24 @@
 type: procedure
 id: C0082.T0105
 campaign_name:
-  ru: Тактика «выжженной земли» и преступная мобилизация (1941–1945)
   en: Scorched Earth Tactics and Criminal Mobilization (1941–1945)
   uk: Тактика «випаленої землі» та злочинна мобілізація (1941–1945)
+  ru: Тактика «выжженной земли» и преступная мобилизация (1941–1945)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0105
 technique_name:
-  ru: Тотальное уничтожение инфраструктуры
   en: Total Destruction of Infrastructure
   uk: Тотальне знищення інфраструктури
+  ru: Тотальное уничтожение инфраструктуры
 people: ukrainians
 actor: G0010
 tool: S0010
 contributors: []
 description:
-  ru: 'Тактика «выжженной земли» 1941 года по директиве СНК СССР и ЦК ВКП(б) от 29 июня 1941 года: «При вынужденном отходе частей Красной Армии угонять подвижной железнодорожный состав, не оставлять врагу ни одного паровоза, ни одного вагона»(Citation: 167); ДнепроГЭС был «разрушенный в начале Великой отечественной войны… (см. Директива СНК СССР и ЦК ВКП(б) от 29 июня 1941)»(Citation: 186).'
   en: 'The 1941 scorched-earth tactic under the directive of the USSR Sovnarkom and the Central Committee of 29 June 1941: "In the forced withdrawal of Red Army units, drive off the rolling railway stock, leave the enemy not a single locomotive, not a single railcar"(Citation: 167); the Dnipro hydroelectric station was "destroyed at the beginning of the Great Patriotic War… (see the Directive of the USSR Council of People''s Commissars and the Central Committee of the VKP(b) of June 29, 1941)"(Citation: 186).'
   uk: |-
     Тактика «випаленої землі» 1941 року за директивою РНК СРСР і ЦК ВКП(б) від 29 червня 1941 року: «При вимушеному відході частин Червоної Армії відганяти рухомий залізничний склад, не залишати ворогові жодного паровоза, жодного вагона»(Citation: 167); ДніпроГЕС був «зруйнований на початку Великої вітчизняної війни… (див.
     Директива РНК СРСР та ЦК ВКП(б) від 29 червня 1941)»(Citation: 186).
+  ru: 'Тактика «выжженной земли» 1941 года по директиве СНК СССР и ЦК ВКП(б) от 29 июня 1941 года: «При вынужденном отходе частей Красной Армии угонять подвижной железнодорожный состав, не оставлять врагу ни одного паровоза, ни одного вагона»(Citation: 167); ДнепроГЭС был «разрушенный в начале Великой отечественной войны… (см. Директива СНК СССР и ЦК ВКП(б) от 29 июня 1941)»(Citation: 186).'

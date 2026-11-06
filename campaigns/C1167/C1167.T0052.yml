@@ -1,22 +1,22 @@
 type: procedure
 id: C1167.T0052
 campaign_name:
-  ru: '«Ни пахать, ни сеять»: погром Чечни, организованный голод, перекупка элит и институты подчинения (1852-1857)'
   en: '"Neither plow nor sow": the pogrom of Chechnya, organized famine, the buying-up of elites and the institutions of subjugation (1852-1857)'
   uk: '«Ні орати, ні сіяти»: погром Чечні, організований голод, перекупівля еліт та інститути підкорення (1852-1857)'
+  ru: '«Ни пахать, ни сеять»: погром Чечни, организованный голод, перекупка элит и институты подчинения (1852-1857)'
 created: 2026-07-31
 modified: 2026-08-07
 version: '1.0'
 technique: T0052
 technique_name:
-  ru: Изъятие ресурсов
   en: Expropriation of Resources
   uk: Вилучення ресурсів
+  ru: Изъятие ресурсов
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Просеки отнимали у чеченцев кормившую их землю, и империя записывала этот отъём себе в актив: приказ Воронцова, наместника на Кавказе, по Отдельному Кавказскому корпусу от 5 января 1853 года считал итог качкалыковской просеки: «Устройство этой просѣки отняло у непокорныхъ Чеченцевъ значительное количество земли, которое могло прокормить до 1,500 душъ»(Citation: 107).'
   en: 'The clearings took from the Chechens the land that fed them, and the empire entered this seizure on its books: the order of Vorontsov, viceroy in the Caucasus, for the Separate Caucasus Corps of 5 January 1853 counted the result of the Qachqalyq clearing: "The construction of this clearing took away from the unsubdued Chechens a significant quantity of land, which could feed up to 1,500 souls"(Citation: 107).'
   uk: 'Просіки відбирали в чеченців землю, що їх годувала, і імперія записувала це відбирання собі в актив: наказ Воронцова, намісника на Кавказі, по Окремому Кавказькому корпусу від 5 січня 1853 року рахував підсумок качкаликівської просіки: «Улаштування цієї просіки відібрало в непокірних чеченців значну кількість землі, яка могла прогодувати до 1,500 душ»(Citation: 107).'
+  ru: 'Просеки отнимали у чеченцев кормившую их землю, и империя записывала этот отъём себе в актив: приказ Воронцова, наместника на Кавказе, по Отдельному Кавказскому корпусу от 5 января 1853 года считал итог качкалыковской просеки: «Устройство этой просѣки отняло у непокорныхъ Чеченцевъ значительное количество земли, которое могло прокормить до 1,500 душъ»(Citation: 107).'

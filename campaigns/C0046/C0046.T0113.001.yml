@@ -1,22 +1,22 @@
 type: procedure
 id: C0046.T0113.001
 campaign_name:
-  ru: 'Валуевский циркуляр: запрет языка и школ (1862–1869)'
   en: 'The Valuev Circular: Ban on the Language and Schools (1862–1869)'
   uk: 'Валуєвський циркуляр: заборона мови та шкіл (1862–1869)'
+  ru: 'Валуевский циркуляр: запрет языка и школ (1862–1869)'
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0113.001
 technique_name:
-  ru: Законодательный запрет родного языка
   en: Legislative Ban on the Native Language
   uk: Законодавча заборона рідної мови
+  ru: Законодательный запрет родного языка
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Секретный циркуляр Валуева цензурным комитетам (18 июля 1863), остановивший печать на родном языке: «пропуском же книг на малороссийском языке как духовного содержания, так учебных и вообще назначаемых для первоначального чтения народа, приостановиться»(Citation: 151).'
   en: 'Valuev''s secret circular to the censorship committees (18 July 1863), which halted printing in the native language: "the clearance of books in the Little Russian language, whether of religious content, educational, or generally intended for the people''s elementary reading, is to be suspended"(Citation: 151).'
   uk: 'Таємний циркуляр Валуєва цензурним комітетам (18 липня 1863), що зупинив друк рідною мовою: «пропуск же книг малоросійською мовою як духовного змісту, так навчальних і взагалі призначених для початкового читання народу, призупинити»(Citation: 151).'
+  ru: 'Секретный циркуляр Валуева цензурным комитетам (18 июля 1863), остановивший печать на родном языке: «пропуском же книг на малороссийском языке как духовного содержания, так учебных и вообще назначаемых для первоначального чтения народа, приостановиться»(Citation: 151).'

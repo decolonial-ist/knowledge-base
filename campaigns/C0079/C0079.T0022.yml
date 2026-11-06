@@ -1,22 +1,22 @@
 type: procedure
 id: C0079.T0022
 campaign_name:
-  ru: Культурный террор и «Расстрелянное возрождение» (1933–1938)
   en: Cultural Terror and the "Executed Renaissance" (1933–1938)
   uk: Культурний терор і «Розстріляне відродження» (1933–1938)
+  ru: Культурный террор и «Расстрелянное возрождение» (1933–1938)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0022
 technique_name:
-  ru: Террор
   en: Terror
   uk: Терор
+  ru: Террор
 people: ukrainians
 actor: G0010
 tool: S0017
 contributors: []
 description:
-  ru: 'Создание атмосферы тотального парализующего страха в обществе через фабрикацию дел (например, «Союза освобождения Украины») и проведение публичных показательных процессов(Citation: 22).'
   en: 'Creation of an atmosphere of total paralyzing fear in society through the fabrication of cases (for example, the "Union for the Liberation of Ukraine") and the staging of public show trials(Citation: 22).'
   uk: 'Створення атмосфери тотального паралізуючого страху в суспільстві через фабрикацію справ (наприклад, «Спілки визволення України») та проведення публічних показових процесів(Citation: 22).'
+  ru: 'Создание атмосферы тотального парализующего страха в обществе через фабрикацию дел (например, «Союза освобождения Украины») и проведение публичных показательных процессов(Citation: 22).'

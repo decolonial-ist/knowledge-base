@@ -1,28 +1,28 @@
 type: procedure
 id: C1021.T0102
 campaign_name:
-  ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
   en: Destruction of the Nokhchi Villages along the Sunzha and Construction of the Groznaya Fortress in Their Place (1817–1818)
   uk: Знищення присунженських селищ Нохчі та зведення фортеці Грозної на їхньому місці (1817–1818)
+  ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
 created: 2026-06-25
 modified: 2026-06-25
 version: '1.0'
 technique: T0102
 technique_name:
-  ru: Ресурсная эксплуатация
   en: Resource Exploitation
   uk: Ресурсна експлуатація
+  ru: Ресурсная эксплуатация
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Регулярная армия Российской империи перекладывала содержание навязанной военной службы на само коренное население.
-    Имперский генерал Ермолов в своих «Записках» свидетельствует, что выставляемые по наряду люди высылались «с собственным вооружением и на своем содержании»(Citation: 96).
   en: |-
     The Regular Army of the Russian Empire shifted the cost of the imposed military service onto the Indigenous population itself.
     Imperial general Yermolov testifies in his “Notes” that the men levied by requisition were sent out “with their own arms and at their own expense”(Citation: 96).
   uk: |-
     Регулярна армія Російської імперії перекладала утримання нав’язаної військової служби на саме корінне населення.
     Імперський генерал Єрмолов у своїх «Записках» свідчить, що виставлювані за нарядом люди висилалися «з власним озброєнням і на своєму утриманні»(Citation: 96).
+  ru: |-
+    Регулярная армия Российской империи перекладывала содержание навязанной военной службы на само коренное население.
+    Имперский генерал Ермолов в своих «Записках» свидетельствует, что выставляемые по наряду люди высылались «с собственным вооружением и на своем содержании»(Citation: 96).

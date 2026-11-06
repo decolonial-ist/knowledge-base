@@ -1,28 +1,28 @@
 type: procedure
 id: C1141.T0038
 campaign_name:
-  ru: 'Закрепление в Чечне: подкуп старшин, экономический контроль и стравливание соседей (1809-1811)'
   en: 'Consolidation in Chechnya: Bribery of Elders, Economic Control, and Setting Neighbors against One Another (1809-1811)'
   uk: 'Закріплення в Чечні: підкуп старшин, економічний контроль і нацьковування сусідів (1809-1811)'
+  ru: 'Закрепление в Чечне: подкуп старшин, экономический контроль и стравливание соседей (1809-1811)'
 created: 2026-06-26
 modified: 2026-06-26
 version: '1.0'
 technique: T0038
 technique_name:
-  ru: Экономический контроль
   en: Economic Control
   uk: Економічний контроль
+  ru: Экономический контроль
 people: nokhchi
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Российская империя замыкала снабжение нохчи хлебом и солью на подконтрольные торговые точки, ставя жизненно важные товары в зависимость от своей администрации.
-    Продажа чеченцам хлеба и соли допускалась только через меновые дворы под карантином, учреждённые «для мирных Чеченцев в Науре… для горских Чеченцев в Лащурине», с пошлиной в казну и разбирательством споров через имперского пристава(Citation: 100)(Citation: 66).
   en: |-
     The Russian Empire funneled the Nokhchi's supply of grain and salt through trading points under its control, making vitally important goods dependent on its administration.
     The sale of grain and salt to the Chechens was permitted only through barter yards under quarantine, established «for the peaceful Chechens in Naur… for the mountain Chechens in Lashchurin», with a duty paid to the treasury and disputes adjudicated through an imperial pristav (overseer)(Citation: 100)(Citation: 66).
   uk: |-
     Російська імперія замикала постачання Нохчі хлібом і сіллю на підконтрольні торгові точки, ставлячи життєво важливі товари в залежність від своєї адміністрації.
     Продаж Чеченцям хліба й солі допускався лише через мінові двори під карантином, засновані «для мирних Чеченців у Наурі… для гірських Чеченців у Лащурині», з митом до казни та розглядом суперечок через імперського пристава(Citation: 100)(Citation: 66).
+  ru: |-
+    Российская империя замыкала снабжение нохчи хлебом и солью на подконтрольные торговые точки, ставя жизненно важные товары в зависимость от своей администрации.
+    Продажа чеченцам хлеба и соли допускалась только через меновые дворы под карантином, учреждённые «для мирных Чеченцев в Науре… для горских Чеченцев в Лащурине», с пошлиной в казну и разбирательством споров через имперского пристава(Citation: 100)(Citation: 66).

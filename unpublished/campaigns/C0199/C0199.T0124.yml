@@ -1,25 +1,25 @@
 type: procedure
 id: C0199.T0124
 campaign_name:
-  ru: Блокада и разрушение Мариуполя (2022)
   en: Siege and Destruction of Mariupol (2022)
   uk: Блокада і знищення Маріуполя (2022)
+  ru: Блокада и разрушение Мариуполя (2022)
 created: 2026-08-09
 modified: 2026-08-09
 version: '1.0'
 technique: T0124
 technique_name:
-  ru: Лишение электричества и отопления
   en: Deprivation of Electricity and Heating
   uk: Позбавлення електрики та опалення
+  ru: Лишение электричества и отопления
 people: ukrainians
 actor: G0011
 tool: S0010
 contributors: []
 description:
+  en: ''
+  uk: ''
   ru: |-
     Саммари 1-2 предложения.
     Фактаж с ссылками на пруфы.
     Украинский голос первый, имперский второй.
-  en: ''
-  uk: ''

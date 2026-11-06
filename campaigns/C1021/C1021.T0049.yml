@@ -1,28 +1,28 @@
 type: procedure
 id: C1021.T0049
 campaign_name:
-  ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
   en: Destruction of the Nokhchi Villages along the Sunzha and Construction of the Groznaya Fortress in Their Place (1817–1818)
   uk: Знищення присунженських селищ Нохчі та зведення фортеці Грозної на їхньому місці (1817–1818)
+  ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
 created: 2026-06-25
 modified: 2026-06-25
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Регулярная армия Российской империи принуждала коренное население нести военную службу на стороне завоевателя, в том числе против единоплеменников.
-    Имперский генерал Ермолов в своих «Записках» свидетельствует, что «вместо дани постановлено по наряду начальников высылать на службу людей», и признаёт: «еще не было примера, чтобы кто заставить мог чеченцев употреблять оружие против своих единоземцев, но уже сделан первый к тому шаг и им внушено, что того всегда от них требовать будут»(Citation: 96).
   en: |-
     The Regular Army of the Russian Empire compelled the Indigenous population to perform military service on the conqueror’s side, including against their own kin.
     Imperial general Yermolov testifies in his “Notes” that “instead of tribute it was ordained that men be sent out for service at the requisition of the commanders,” and admits: “there has not yet been an instance of anyone being able to force the Chechens to use arms against their own countrymen, but the first step toward this has already been taken, and it has been impressed upon them that this will always be demanded of them”(Citation: 96).
   uk: |-
     Регулярна армія Російської імперії примушувала корінне населення нести військову службу на боці завойовника, зокрема проти одноплемінників.
     Імперський генерал Єрмолов у своїх «Записках» свідчить, що «замість данини постановлено за нарядом начальників висилати на службу людей», і визнає: «ще не було прикладу, щоб хтось міг змусити Чеченців застосовувати зброю проти своїх земляків, але вже зроблено перший крок до цього, і їм навіяно, що цього завжди від них вимагатимуть»(Citation: 96).
+  ru: |-
+    Регулярная армия Российской империи принуждала коренное население нести военную службу на стороне завоевателя, в том числе против единоплеменников.
+    Имперский генерал Ермолов в своих «Записках» свидетельствует, что «вместо дани постановлено по наряду начальников высылать на службу людей», и признаёт: «еще не было примера, чтобы кто заставить мог чеченцев употреблять оружие против своих единоземцев, но уже сделан первый к тому шаг и им внушено, что того всегда от них требовать будут»(Citation: 96).

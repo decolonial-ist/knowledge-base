@@ -1,22 +1,22 @@
 type: procedure
 id: C0079.T0113
 campaign_name:
-  ru: Культурный террор и «Расстрелянное возрождение» (1933–1938)
   en: Cultural Terror and the "Executed Renaissance" (1933–1938)
   uk: Культурний терор і «Розстріляне відродження» (1933–1938)
+  ru: Культурный террор и «Расстрелянное возрождение» (1933–1938)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0113
 technique_name:
-  ru: Лингвистическая ассимиляция
   en: Linguistic Assimilation
   uk: Лінгвістична асиміляція
+  ru: Лингвистическая ассимиляция
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Принудительная реформа правописания 1933 года, направленная на искусственное сближение украинской грамматики и терминологии с русским языком(Citation: 22).'
   en: 'The forced orthography reform of 1933, aimed at artificially bringing Ukrainian grammar and terminology closer to the Russian language(Citation: 22).'
   uk: 'Примусова реформа правопису 1933 року, спрямована на штучне зближення української граматики й термінології з російською мовою(Citation: 22).'
+  ru: 'Принудительная реформа правописания 1933 года, направленная на искусственное сближение украинской грамматики и терминологии с русским языком(Citation: 22).'

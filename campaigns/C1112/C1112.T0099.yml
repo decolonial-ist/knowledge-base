@@ -1,22 +1,22 @@
 type: procedure
 id: C1112.T0099
 campaign_name:
-  ru: Начало политического подчинения нохчи (1588–1591)
   en: Beginning of the political subjugation of the Nokhchi (1588–1591)
   uk: Початок політичного підпорядкування Нохчі (1588–1591)
+  ru: Начало политического подчинения нохчи (1588–1591)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0099
 technique_name:
-  ru: Захват заложников
   en: Hostage-Taking
   uk: Захоплення заручників
+  ru: Захват заложников
 people: nokhchi
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'В качестве гарантии подчинения оккупационная администрация удерживала представителей элиты нохчи: историк Е. Н. Кушева пишет, что «аманатом в Терском городе был оставлен его племянник Батай»(Citation: 82).'
   en: 'As a guarantee of submission, the occupation administration detained representatives of the Nokhchi elite: historian E. N. Kusheva writes that «his nephew Batai was left as an amanat (hostage) in the Terek town»(Citation: 82).'
   uk: 'Як гарантію підпорядкування окупаційна адміністрація утримувала представників еліти Нохчі: історик Е. Н. Кушева пише, що «аманатом у Терському місті був залишений його племінник Батай»(Citation: 82).'
+  ru: 'В качестве гарантии подчинения оккупационная администрация удерживала представителей элиты нохчи: историк Е. Н. Кушева пишет, что «аманатом в Терском городе был оставлен его племянник Батай»(Citation: 82).'

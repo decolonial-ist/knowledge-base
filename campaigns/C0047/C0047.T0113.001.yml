@@ -1,22 +1,22 @@
 type: procedure
 id: C0047.T0113.001
 campaign_name:
-  ru: Эмский указ и тотальная цензура (1876–1887)
   en: The Ems Ukaz and Total Censorship (1876–1887)
   uk: Емський указ і тотальна цензура (1876–1887)
+  ru: Эмский указ и тотальная цензура (1876–1887)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0113.001
 technique_name:
-  ru: Законодательный запрет родного языка
   en: Legislative Ban on the Native Language
   uk: Законодавча заборона рідної мови
+  ru: Законодательный запрет родного языка
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Тотальный законодательный запрет языка: «Не допускать ввоза в пределы империи… каких бы то ни было книг, издаваемых за границей на малорусском наречии»; «Воспретить равномерно всякие на том же наречии сценические представления, тексты к нотам и публичные чтения»(Citation: 153).'
   en: 'A total legislative ban on the language: "Not to permit the import into the empire… of any books whatsoever published abroad in the Little Russian dialect"; "To forbid likewise any stage performances, texts to musical scores, and public readings in the same dialect"(Citation: 153).'
   uk: 'Тотальна законодавча заборона мови: «Не допускати ввозу в межі імперії… будь-яких книг, видаваних за кордоном малоруським наріччям»; «Заборонити так само всілякі тим самим наріччям сценічні вистави, тексти до нот і публічні читання»(Citation: 153).'
+  ru: 'Тотальный законодательный запрет языка: «Не допускать ввоза в пределы империи… каких бы то ни было книг, издаваемых за границей на малорусском наречии»; «Воспретить равномерно всякие на том же наречии сценические представления, тексты к нотам и публичные чтения»(Citation: 153).'

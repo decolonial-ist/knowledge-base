@@ -1,22 +1,22 @@
 type: procedure
 id: C0102.T0003
 campaign_name:
-  ru: Идеологическая подготовка к полномасштабному вторжению (2020–2021)
   en: Ideological Preparation for the Full-Scale Invasion (2020–2021)
   uk: Ідеологічна підготовка до повномасштабного вторгнення (2020–2021)
+  ru: Идеологическая подготовка к полномасштабному вторжению (2020–2021)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0003
 technique_name:
-  ru: Культивирование логики превосходства
   en: Cultivation of a Logic of Superiority
   uk: Культивування логіки вищості
+  ru: Культивирование логики превосходства
 people: ukrainians
 actor: G0011
 tool: S0021
 contributors: []
 description:
-  ru: 'Тотальная индоктринация российского общества идеями философа И. Ильина (так называемый «белый фашизм») и превращение концепта «Русского мира» в государственную идеологию (рашизм), обосновывающую культурное превосходство и экзистенциальное право метрополии на насилие над соседями(Citation: 2).'
   en: 'Total indoctrination of Russian society with the ideas of the philosopher I. Ilyin (so-called "white fascism") and the transformation of the "Russian World" concept into a state ideology (rashism) that justifies the metropole''s cultural superiority and existential right to violence against its neighbors(Citation: 2).'
   uk: 'Тотальна індоктринація російського суспільства ідеями філософа І. Ільїна (так званий «білий фашизм») і перетворення концепту «русского міра» на державну ідеологію (рашизм), що обґрунтовує культурну вищість та екзистенційне право метрополії на насильство над сусідами(Citation: 2).'
+  ru: 'Тотальная индоктринация российского общества идеями философа И. Ильина (так называемый «белый фашизм») и превращение концепта «Русского мира» в государственную идеологию (рашизм), обосновывающую культурное превосходство и экзистенциальное право метрополии на насилие над соседями(Citation: 2).'

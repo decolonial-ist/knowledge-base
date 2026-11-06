@@ -1,22 +1,22 @@
 type: procedure
 id: C0039.T0017
 campaign_name:
-  ru: Русско-турецкая война и аннексия Бессарабии (1806–1812)
   en: Russo-Turkish War and the Annexation of Bessarabia (1806–1812)
   uk: Російсько-турецька війна та анексія Бессарабії (1806–1812)
+  ru: Русско-турецкая война и аннексия Бессарабии (1806–1812)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0017
 technique_name:
-  ru: Аннексия территорий
   en: Annexation of Territories
   uk: Анексія територій
+  ru: Аннексия территорий
 people: ukrainians
 actor: G0009
 tool: S0009
 contributors: []
 description:
-  ru: 'Отторжение Бессарабии от Османской империи и ее официальная аннексия по Бухарестскому миру: договор «утвердил присоединение Бессарабии к России и перенос границы с Днестра на Прут до его впадения в Дунай»(Citation: 196).'
   en: 'The severing of Bessarabia from the Ottoman Empire and its official annexation under the Peace of Bucharest: the treaty "confirmed the annexation of Bessarabia to Russia and the transfer of the border from the Dniester to the Prut down to its confluence with the Danube"(Citation: 196).'
   uk: 'Відторгнення Бессарабії від Османської імперії та її офіційна анексія за Бухарестським миром: договір «затвердив приєднання Бессарабії до Росії та перенесення кордону з Дністра на Прут до його впадіння в Дунай»(Citation: 196).'
+  ru: 'Отторжение Бессарабии от Османской империи и ее официальная аннексия по Бухарестскому миру: договор «утвердил присоединение Бессарабии к России и перенос границы с Днестра на Прут до его впадения в Дунай»(Citation: 196).'

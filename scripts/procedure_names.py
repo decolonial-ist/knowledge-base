@@ -22,7 +22,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kbformat  # noqa: E402
 
-LANGS = ("ru", "en", "uk")
+LANGS = ("en", "uk", "ru")
 PROC_RE = re.compile(r"^(C\d{4})\.(T\d{4}(?:\.\d{3})?)\.yml$")
 
 

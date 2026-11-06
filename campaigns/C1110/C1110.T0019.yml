@@ -1,22 +1,22 @@
 type: procedure
 id: C1110.T0019
 campaign_name:
-  ru: Закладка и укрепление Терского города (1588–1623)
   en: Founding and Fortification of the Terek Town (1588–1623)
   uk: Закладення та зміцнення Терського міста (1588–1623)
+  ru: Закладка и укрепление Терского города (1588–1623)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0019
 technique_name:
-  ru: Военная интервенция
   en: Military Intervention
   uk: Воєнна інтервенція
+  ru: Военная интервенция
 people: nokhchi
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'Оккупационная администрация системно вводила регулярные войска для удержания гарнизона: историки А. С. Куликов и В. А. Рунов отмечают, что в начале XVII века «гарнизон – более тысячи стрельцов и казаков»(Citation: 65).'
   en: 'The occupation administration systematically brought in regular troops to maintain the garrison: historians A. S. Kulikov and V. A. Runov note that in the early 17th century «the garrison numbered more than a thousand streltsy and Cossacks»(Citation: 65).'
   uk: 'Окупаційна адміністрація системно вводила регулярні війська для утримання гарнізону: історики А. С. Куліков і В. А. Рунов зазначають, що на початку XVII століття «гарнізон – понад тисяча стрільців і козаків»(Citation: 65).'
+  ru: 'Оккупационная администрация системно вводила регулярные войска для удержания гарнизона: историки А. С. Куликов и В. А. Рунов отмечают, что в начале XVII века «гарнизон – более тысячи стрельцов и казаков»(Citation: 65).'

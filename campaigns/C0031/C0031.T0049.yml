@@ -1,22 +1,22 @@
 type: procedure
 id: C0031.T0049
 campaign_name:
-  ru: Отмена казацкого устройства в Слободской Украине (1765)
   en: Abolition of the Cossack Order in Sloboda Ukraine (1765)
   uk: Скасування козацького устрою в Слобідській Україні (1765)
+  ru: Отмена казацкого устройства в Слободской Украине (1765)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Принудительная инкорпорация автохтонных вооруженных сил в имперскую армию: «Слободские казацкие полки были упразднены и на их место велено было составить 5 гусарских полков»(Citation: 161).'
   en: 'The forced incorporation of the autochthonous armed forces into the imperial army: "The Sloboda Cossack regiments were abolished and in their place it was ordered to form 5 hussar regiments"(Citation: 161).'
   uk: 'Примусова інкорпорація автохтонних збройних сил до імперської армії: «Слободські козацькі полкі були скасовані і на їх місце велено і було скласти 5 гусарських полків»(Citation: 161).'
+  ru: 'Принудительная инкорпорация автохтонных вооруженных сил в имперскую армию: «Слободские казацкие полки были упразднены и на их место велено было составить 5 гусарских полков»(Citation: 161).'

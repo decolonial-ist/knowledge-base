@@ -1,22 +1,22 @@
 type: procedure
 id: C1032.T0045
 campaign_name:
-  ru: Уничтожение исторической памяти и культуры (1994–1995)
   en: Destruction of historical memory and culture (1994–1995)
   uk: Знищення історичної пам'яті та культури (1994–1995)
+  ru: Уничтожение исторической памяти и культуры (1994–1995)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0045
 technique_name:
-  ru: Уничтожение исторической памяти
   en: Destruction of Historical Memory
   uk: Знищення історичної пам'яті
+  ru: Уничтожение исторической памяти
 people: nokhchi
 actor: G0011
 tool: S0010
 contributors: []
 description:
-  ru: 'Уничтожение Национального архива ЧР (погибло 87% фондов), Чеченского национального этнографического музея и НИИ гуманитарных наук в результате боевых действий(Citation: 27).'
   en: 'Destruction of the National Archive of the Chechen Republic (87% of its holdings perished), the Chechen National Ethnographic Museum, and the Research Institute of the Humanities as a result of hostilities(Citation: 27).'
   uk: 'Знищення Національного архіву ЧР (загинуло 87% фондів), Чеченського національного етнографічного музею та НДІ гуманітарних наук внаслідок бойових дій(Citation: 27).'
+  ru: 'Уничтожение Национального архива ЧР (погибло 87% фондов), Чеченского национального этнографического музея и НИИ гуманитарных наук в результате боевых действий(Citation: 27).'

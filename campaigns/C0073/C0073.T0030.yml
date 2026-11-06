@@ -1,22 +1,22 @@
 type: procedure
 id: C0073.T0030
 campaign_name:
-  ru: Искусственный сепаратизм и расчленение территорий (январь – март 1918)
   en: Artificial Separatism and the Dismemberment of Territories (January – March 1918)
   uk: Штучний сепаратизм і розчленування територій (січень – березень 1918)
+  ru: Искусственный сепаратизм и расчленение территорий (январь – март 1918)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0030
 technique_name:
-  ru: Административно-территориальное деление
   en: Administrative-Territorial Division
   uk: Адміністративно-територіальний поділ
+  ru: Административно-территориальное деление
 people: ukrainians
 actor: G0013
 tool: S0008
 contributors: []
 description:
-  ru: 'Попытка бюрократического переподчинения территорий — объявление Донбасса автономной частью, напрямую связанной с Россией, в обход любых украинских властей(Citation: 25).'
   en: 'An attempt at the bureaucratic resubordination of territories — declaring the Donbas an autonomous part directly linked to Russia, bypassing any Ukrainian authorities(Citation: 25).'
   uk: 'Спроба бюрократичного перепідпорядкування територій — оголошення Донбасу автономною частиною, безпосередньо пов''язаною з Росією, в обхід будь-якої української влади(Citation: 25).'
+  ru: 'Попытка бюрократического переподчинения территорий — объявление Донбасса автономной частью, напрямую связанной с Россией, в обход любых украинских властей(Citation: 25).'

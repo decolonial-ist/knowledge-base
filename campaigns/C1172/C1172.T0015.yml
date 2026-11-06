@@ -1,22 +1,22 @@
 type: procedure
 id: C1172.T0015
 campaign_name:
-  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
   en: '"Mow Down Everything, Beat and Hang Without Mercy": Suppression of the 1877 Uprising and the Executions in Grozny (1877-1878)'
   uk: '«Косіть усе, бийте і вішайте нещадно»: придушення повстання 1877 року і страти в Грозному (1877-1878)'
+  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
 created: 2026-08-03
 modified: 2026-08-03
 version: '1.0'
 technique: T0015
 technique_name:
-  ru: Подкуп элит
   en: Bribery of Elites
   uk: Підкуп еліт
+  ru: Подкуп элит
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: 'Старшина Шали Борщик Хамбулатов, организовавший отпор восставшим в апреле 1877 года, «был пожалован чином прапорщика милиции и годовым окладом в 600 рублей и получил пожизненную пенсию - 100 рублей в год»(Citation: 125); историк А. И. Исмаилова называет пенсию «около 400 р. в год»(Citation: 253).'
   en: 'The starshina (headman) of Shali, Borshchik Khambulatov, who organized the repulse of the insurgents in April 1877, "was granted the rank of ensign of the militia and an annual salary of 600 rubles, and received a lifelong pension - 100 rubles a year"(Citation: 125); historian A. I. Ismailova puts the pension at "about 400 r. a year"(Citation: 253).'
   uk: 'Старшина Шалі Борщик Хамбулатов, який організував відсіч повстанцям у квітні 1877 року, «був пожалуваний чином прапорщика міліції та річним окладом у 600 рублів і отримав довічну пенсію - 100 рублів на рік»(Citation: 125); історик А. І. Ісмаїлова називає пенсію «близько 400 р. на рік»(Citation: 253).'
+  ru: 'Старшина Шали Борщик Хамбулатов, организовавший отпор восставшим в апреле 1877 года, «был пожалован чином прапорщика милиции и годовым окладом в 600 рублей и получил пожизненную пенсию - 100 рублей в год»(Citation: 125); историк А. И. Исмаилова называет пенсию «около 400 р. в год»(Citation: 253).'

@@ -1,28 +1,28 @@
 type: procedure
 id: C0007.T0117.002
 campaign_name:
-  ru: Коломакские статьи (1687)
   en: Kolomak Articles (1687)
   uk: Коломацькі статті (1687)
+  ru: Коломакские статьи (1687)
 created: 2026-04-24
 modified: 2026-04-24
 version: '1.0'
 technique: T0117.002
 technique_name:
-  ru: Поощрение смешанных браков
   en: Encouragement of Mixed Marriages
   uk: Заохочення змішаних шлюбів
+  ru: Поощрение смешанных браков
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: |-
-    Использование демографической инженерии для ускорения ассимиляции.
-    Москва открыто провозгласила курс на стирание этнических границ путем поощрения браков с великороссами: «народ Малороссийский всякими меры и способами с Великороссйиским народом соединять... супружеством и иным поведением...»(Citation: 4).
   en: |-
     The use of demographic engineering to accelerate assimilation.
     Moscow openly proclaimed a course toward erasing ethnic boundaries by encouraging marriages with Great Russians: "to unite the Little Russian people with the Great Russian people by all measures and means... through matrimony and other conduct..."(Citation: 4).
   uk: |-
     Використання демографічної інженерії для прискорення асиміляції.
     Москва відкрито проголосила курс на стирання етнічних меж шляхом заохочення шлюбів із Великоросами: «народ Малоросійський всякими мірами й способами з Великоросійським народом з'єднувати... подружжям та іншою поведінкою...»(Citation: 4).
+  ru: |-
+    Использование демографической инженерии для ускорения ассимиляции.
+    Москва открыто провозгласила курс на стирание этнических границ путем поощрения браков с великороссами: «народ Малороссийский всякими меры и способами с Великороссйиским народом соединять... супружеством и иным поведением...»(Citation: 4).

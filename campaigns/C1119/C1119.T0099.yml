@@ -1,22 +1,22 @@
 type: procedure
 id: C1119.T0099
 campaign_name:
-  ru: Комплексная разведка территорий и попытка принуждения к подданству (1658–1660)
   en: Comprehensive Reconnaissance of Territories and an Attempt to Coerce into Subjecthood (1658–1660)
   uk: Комплексна розвідка територій і спроба примусу до підданства (1658–1660)
+  ru: Комплексная разведка территорий и попытка принуждения к подданству (1658–1660)
 created: 2026-06-15
 modified: 2026-06-15
 version: '1.0'
 technique: T0099
 technique_name:
-  ru: Захват заложников
   en: Hostage-Taking
   uk: Захоплення заручників
+  ru: Захват заложников
 people: nokhchi
 actor: G0008
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация ставила задачу изъятия заложников у горных обществ нохчи (шибутян), однако попытка не увенчалась успехом: в 1658 году центральный аппарат Посольского приказа прямо предписал терским воеводам «велеть у них взять аманатов родственных нарочитых людей»(Citation: 82), после чего терские воеводы Мелентий Квашнин с товарищами приказали своему военному эмиссару «аманата на Терек взять»(Citation: 82), однако в выписке в доклад Посольского приказа царю Алексею Михайловичу 1660 года выдача новых заложников не зафиксирована, а лишь констатируется старый факт, что «на Терке у них [аманат есть]»(Citation: 82).'
   en: 'The occupation administration set itself the task of extracting hostages from the mountain societies of the Nokhchi (the Shibutians), but the attempt did not succeed: in 1658 the central apparatus of the Posolsky Prikaz directly instructed the Terek voivodes «to order that amanats be taken from them — kinsmen of notable people»(Citation: 82), after which the Terek voivodes Melenty Kvashnin and his associates ordered their military emissary «to take an amanat to the Terek»(Citation: 82); however, the extract for the report of the Posolsky Prikaz to Tsar Alexei Mikhailovich of 1660 records no handover of new hostages and merely states the old fact that «on the Terek [there is an amanat] of theirs»(Citation: 82).'
   uk: 'Окупаційна адміністрація ставила завдання вилучення заручників у гірських суспільств Нохчі (Шибутян), однак спроба не увінчалася успіхом: у 1658 році центральний апарат Посольського приказу прямо приписав терським воєводам «звеліти взяти в них аманатами родичів знатних людей»(Citation: 82), після чого терські воєводи Мелентій Квашнін з товаришами наказали своєму військовому емісарові «аманата на Терек взяти»(Citation: 82), однак у виписці до доповіді Посольського приказу цареві Олексію Михайловичу 1660 року видачу нових заручників не зафіксовано, а лише констатовано давній факт, що «на Тереку в них [аманат є]»(Citation: 82).'
+  ru: 'Оккупационная администрация ставила задачу изъятия заложников у горных обществ нохчи (шибутян), однако попытка не увенчалась успехом: в 1658 году центральный аппарат Посольского приказа прямо предписал терским воеводам «велеть у них взять аманатов родственных нарочитых людей»(Citation: 82), после чего терские воеводы Мелентий Квашнин с товарищами приказали своему военному эмиссару «аманата на Терек взять»(Citation: 82), однако в выписке в доклад Посольского приказа царю Алексею Михайловичу 1660 года выдача новых заложников не зафиксирована, а лишь констатируется старый факт, что «на Терке у них [аманат есть]»(Citation: 82).'

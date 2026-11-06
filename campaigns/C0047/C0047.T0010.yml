@@ -1,22 +1,22 @@
 type: procedure
 id: C0047.T0010
 campaign_name:
-  ru: Эмский указ и тотальная цензура (1876–1887)
   en: The Ems Ukaz and Total Censorship (1876–1887)
   uk: Емський указ і тотальна цензура (1876–1887)
+  ru: Эмский указ и тотальная цензура (1876–1887)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0010
 technique_name:
-  ru: Непризнание самостоятельной идентичности
   en: Denial of a Distinct Identity
   uk: Невизнання самостійної ідентичності
+  ru: Непризнание самостоятельной идентичности
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Идеологическое обоснование цензурного отказа – язык объявлен несуществующим по определению: резолюция цензора о «грамматике того языка, который не должен существовать»(Citation: 181).'
   en: 'The ideological justification of the censorship refusal – the language was declared nonexistent by definition: the censor''s resolution about "the grammar of a language that must not exist"(Citation: 181).'
   uk: 'Ідеологічне обґрунтування цензурної відмови – мову оголошено неіснуючою за визначенням: резолюція цензора про «граматику тієї мови, яка не повинна існувати»(Citation: 181).'
+  ru: 'Идеологическое обоснование цензурного отказа – язык объявлен несуществующим по определению: резолюция цензора о «грамматике того языка, который не должен существовать»(Citation: 181).'

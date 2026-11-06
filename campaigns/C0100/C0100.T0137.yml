@@ -1,28 +1,28 @@
 type: procedure
 id: C0100.T0137
 campaign_name:
-  ru: 'Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)'
   en: 'Beginning of the Russo-Ukrainian War: Armed Invasion and Occupation of Crimea (2014)'
   uk: 'Початок російсько-української війни: Збройне вторгнення та окупація Криму (2014)'
+  ru: 'Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)'
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0137
 technique_name:
-  ru: Дезинформация
   en: Disinformation
   uk: Дезінформація
+  ru: Дезинформация
 people: ukrainians
 actor: G0011
 tool: S0021
 contributors: []
 description:
-  ru: |-
-    Официальное отрицание участия российских войск во время операции – и позднейшее признание Путина («прямая линия» 17 апреля 2014), что отрицание было ложью: «за спиной сил самообороны Крыма, конечно, встали наши военнослужащие»(Citation: 203).
-    В том же эфире собеседница поздравляла с тем, что он «честно сказал, что «зелёные человечки» – это мирные наши военные»(Citation: 203).
   en: |-
     The official denial of Russian troops' participation during the operation – and Putin's later admission (call-in show, 17 April 2014) that the denial was a lie: "behind the backs of Crimea's self-defense forces, our servicemen, of course, stood"(Citation: 203).
     In the same broadcast an interlocutor congratulated him on having "honestly said that the 'little green men' are our peaceful military"(Citation: 203).
   uk: |-
     Офіційне заперечення участі російських військ під час операції – і пізніше визнання Путіна («пряма лінія» 17 квітня 2014), що заперечення було брехнею: «за спиною сил самооборони Криму, звичайно, стали наші військовослужбовці»(Citation: 203).
     У тому ж ефірі співрозмовниця вітала його з тим, що він «честно сказал, что «зелені чоловічки» – это мирные наши военные»(Citation: 203).
+  ru: |-
+    Официальное отрицание участия российских войск во время операции – и позднейшее признание Путина («прямая линия» 17 апреля 2014), что отрицание было ложью: «за спиной сил самообороны Крыма, конечно, встали наши военнослужащие»(Citation: 203).
+    В том же эфире собеседница поздравляла с тем, что он «честно сказал, что «зелёные человечки» – это мирные наши военные»(Citation: 203).

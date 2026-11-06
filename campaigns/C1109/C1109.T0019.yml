@@ -1,22 +1,22 @@
 type: procedure
 id: C1109.T0019
 campaign_name:
-  ru: Циклическая перестройка и ликвидация укреплений на реке Сунжа (1571–1653)
   en: Cyclical Rebuilding and Elimination of Fortifications on the Sunzha River (1571–1653)
   uk: Циклічна перебудова та ліквідація укріплень на річці Сунжа (1571–1653)
+  ru: Циклическая перестройка и ликвидация укреплений на реке Сунжа (1571–1653)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0019
 technique_name:
-  ru: Военная интервенция
   en: Military Intervention
   uk: Воєнна інтервенція
+  ru: Военная интервенция
 people: nokhchi
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'Оккупационная администрация Московского Царства систематически вводила вооруженные отряды на земли нохчи для удержания плацдарма: составитель сборника документов Е. Н. Кушева указывает, что на месте крепости «по распоряжению терских воевод постоянно находился отряд стрельцов и казаков»(Citation: 82), а во время осады 1653 года там находились «русские служилые люди, терские атаманы и казаки»(Citation: 82).'
   en: 'The occupation administration of the Tsardom of Muscovy systematically brought armed detachments into the lands of the Nokhchi to hold the bridgehead: the compiler of the collection of documents E. N. Kusheva indicates that at the site of the fortress, "by order of the Terek voivodes, a detachment of streltsy and Cossacks was permanently stationed"(Citation: 82), and during the siege of 1653 it held "Russian service men, Terek atamans, and Cossacks"(Citation: 82).'
   uk: 'Окупаційна адміністрація Московського царства систематично вводила збройні загони на землі Нохчі для утримання плацдарму: укладачка збірника документів Е. Н. Кушева вказує, що на місці фортеці «за розпорядженням терських воєвод постійно перебував загін стрільців і козаків»(Citation: 82), а під час облоги 1653 року там перебували «руські служилі люди, терські отамани та козаки»(Citation: 82).'
+  ru: 'Оккупационная администрация Московского Царства систематически вводила вооруженные отряды на земли нохчи для удержания плацдарма: составитель сборника документов Е. Н. Кушева указывает, что на месте крепости «по распоряжению терских воевод постоянно находился отряд стрельцов и казаков»(Citation: 82), а во время осады 1653 года там находились «русские служилые люди, терские атаманы и казаки»(Citation: 82).'

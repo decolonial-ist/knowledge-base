@@ -1,22 +1,22 @@
 type: procedure
 id: C0042.T0045
 campaign_name:
-  ru: Уничтожение архивов Киево-Печерской лавры (1718)
   en: Destruction of the Archives of the Kyiv-Pechersk Lavra (1718)
   uk: Знищення архівів Києво-Печерської лаври (1718)
+  ru: Уничтожение архивов Киево-Печерской лавры (1718)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0045
 technique_name:
-  ru: Уничтожение исторической памяти
   en: Destruction of Historical Memory
   uk: Знищення історичної пам'яті
+  ru: Уничтожение исторической памяти
 people: ukrainians
 actor: G0008
 tool: S0017
 contributors: []
 description:
-  ru: 'Тайная операция московских посланцев, переодетых монахами, по уничтожению древних документов XI–XVII веков: «Сгорели огромный архив и библиотека, погибли грамоты и пожалования… князей, феодалов и гетманов»; «Огонь уничтожил письменную память о независимой украинской политической и духовной жизни Лавры»(Citation: 210).'
   en: 'A covert operation by Muscovite emissaries disguised as monks to destroy ancient documents of the 11th–17th centuries: "The enormous archive and library burned down; the charters and grants… of princes, magnates, and hetmans perished"; "The fire destroyed the written memory of the Lavra''s independent Ukrainian political and spiritual life"(Citation: 210).'
   uk: 'Таємна операція московських посланців, переодягнених ченцями, зі знищення давніх документів XI–XVII століть: «Згоріли величезний архів і бібліотека, загинули грамоти і пожалування… князів, феодалів і гетьманів»; «Вогонь знищив письмову пам''ять про незалежне українське політичне і духовне життя Лаври»(Citation: 210).'
+  ru: 'Тайная операция московских посланцев, переодетых монахами, по уничтожению древних документов XI–XVII веков: «Сгорели огромный архив и библиотека, погибли грамоты и пожалования… князей, феодалов и гетманов»; «Огонь уничтожил письменную память о независимой украинской политической и духовной жизни Лавры»(Citation: 210).'

@@ -1,24 +1,24 @@
 type: procedure
 id: C1135.T0147
 campaign_name:
-  ru: Расширение системы подкупа и принуждение горных обществ к подданству (1741–1748)
   en: Expansion of the Bribery System and Coercion of Highland Societies into Subjecthood (1741–1748)
   uk: Розширення системи підкупу та примус гірських суспільств до підданства (1741–1748)
+  ru: Расширение системы подкупа и принуждение горных обществ к подданству (1741–1748)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0147
 technique_name:
-  ru: Принудительное оформление подданства
   en: Forced Registration of Subjecthood
   uk: Примусове оформлення підданства
+  ru: Принудительное оформление подданства
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация Российской империи навязывала коренному населению юридическое закрепление подчиненного статуса, используя их экономическую нужду и выставляя присягу жестким ультиматумом: историк Я. З. Ахмадов констатирует, что в 1747 году на просьбы горцев о переселении «было дано официальное согласие императорского двора («допустить и определить») с условием принятия горцами присяги российского подданства»(Citation: 94), а к отсутствующим «были посланы офицеры «для учинения присяги»»(Citation: 94); аналогично в 1748 году, когда горные общества просили о подданстве, чтобы «с купечеством в город Кизляр... ездить под защищением было свободно»(Citation: 94), администрация «согласилась с этим предложением с условием непременного переселения «чебутлинцев» с гор в низовья Сунжи»(Citation: 94).'
   en: |-
     The occupation administration of the Russian Empire imposed on the Indigenous population the legal codification of subordinate status, exploiting their economic need and presenting the oath as a rigid ultimatum: historian Ya.
     Z. Akhmadov states that in 1747, in response to the highlanders' requests for resettlement, «official consent of the imperial court was given («to admit and assign») on the condition that the highlanders take an oath of Russian subjecthood»(Citation: 94), while to those absent «officers were sent «to administer the oath»»(Citation: 94); similarly in 1748, when the mountain communities petitioned for subjecthood so that «traveling with merchandise to the town of Kizlyar... under protection would be free»(Citation: 94), the administration «agreed to this proposal on the condition of the mandatory resettlement of the «Chebutlins» from the mountains to the lower reaches of the Sunzha»(Citation: 94).
   uk: 'Окупаційна адміністрація Російської імперії нав''язувала корінному населенню юридичне закріплення підлеглого статусу, використовуючи їхню економічну скруту та виставляючи присягу жорстким ультиматумом: історик Я. З. Ахмадов констатує, що 1747 року на прохання горців про переселення «було надано офіційну згоду імператорського двору («допустити і визначити») за умови складення горцями присяги російського підданства»(Citation: 94), а до відсутніх «було послано офіцерів «для учинення присяги»»(Citation: 94); аналогічно 1748 року, коли гірські громади просили про підданство, щоб «з купецтвом до міста Кізляр... їздити під захистом було вільно»(Citation: 94), адміністрація «погодилася з цією пропозицією за умови неодмінного переселення «чебутлінців» з гір у пониззя Сунжі»(Citation: 94).'
+  ru: 'Оккупационная администрация Российской империи навязывала коренному населению юридическое закрепление подчиненного статуса, используя их экономическую нужду и выставляя присягу жестким ультиматумом: историк Я. З. Ахмадов констатирует, что в 1747 году на просьбы горцев о переселении «было дано официальное согласие императорского двора («допустить и определить») с условием принятия горцами присяги российского подданства»(Citation: 94), а к отсутствующим «были посланы офицеры «для учинения присяги»»(Citation: 94); аналогично в 1748 году, когда горные общества просили о подданстве, чтобы «с купечеством в город Кизляр... ездить под защищением было свободно»(Citation: 94), администрация «согласилась с этим предложением с условием непременного переселения «чебутлинцев» с гор в низовья Сунжи»(Citation: 94).'

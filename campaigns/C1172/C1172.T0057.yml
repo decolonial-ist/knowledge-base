@@ -1,22 +1,22 @@
 type: procedure
 id: C1172.T0057
 campaign_name:
-  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
   en: '"Mow Down Everything, Beat and Hang Without Mercy": Suppression of the 1877 Uprising and the Executions in Grozny (1877-1878)'
   uk: '«Косіть усе, бийте і вішайте нещадно»: придушення повстання 1877 року і страти в Грозному (1877-1878)'
+  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
 created: 2026-08-03
 modified: 2026-08-03
 version: '1.0'
 technique: T0057
 technique_name:
-  ru: Эксплуатация труда
   en: Labor Exploitation
   uk: Експлуатація праці
+  ru: Эксплуатация труда
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Приказ полковника Лохвицкого от 17 июля 1877 года по Чеберлоевскому участку обязал наказанных самих прорубить войскам дорогу в свои горы: «весь участок обязать теперь же в самый краткий срок сделать широкую просеку от Босоевской горы к р. Шаро-Аргуну на пространство слишком 6-ть верст» (верста - чуть больше километра)(Citation: 253).'
   en: 'The order of Colonel Lokhvitsky of 17 July 1877 for the Cheberloy uchastok obliged the punished themselves to cut a road for the troops into their own mountains: "the entire uchastok is to be obliged right now, within the very shortest time, to make a wide forest clearing (proseka) from the Bosoevskaya mountain to the Sharo-Argun river over a stretch of upwards of 6 versts" (a verst is slightly over a kilometer)(Citation: 253).'
   uk: 'Наказ полковника Лохвицького від 17 липня 1877 року по Чеберлоївській дільниці зобов''язав покараних самих прорубати військам дорогу у свої гори: «усю дільницю зобов''язати тепер же в найкоротший строк зробити широку просіку від Босоєвської гори до р. Шаро-Аргун на просторі понад 6-ть верст» (верста - трохи більше кілометра)(Citation: 253).'
+  ru: 'Приказ полковника Лохвицкого от 17 июля 1877 года по Чеберлоевскому участку обязал наказанных самих прорубить войскам дорогу в свои горы: «весь участок обязать теперь же в самый краткий срок сделать широкую просеку от Босоевской горы к р. Шаро-Аргуну на пространство слишком 6-ть верст» (верста - чуть больше километра)(Citation: 253).'

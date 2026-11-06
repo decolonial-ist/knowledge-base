@@ -1,27 +1,22 @@
 type: procedure
 id: C0103.T0137
 campaign_name:
-  ru: Полномасштабное вторжение (с 24 февраля 2022)
   en: Full-Scale Invasion (from February 24, 2022)
   uk: Повномасштабне вторгнення (з 24 лютого 2022)
+  ru: Полномасштабное вторжение (с 24 февраля 2022)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0137
 technique_name:
-  ru: Дезинформация
   en: Disinformation
   uk: Дезінформація
+  ru: Дезинформация
 people: ukrainians
 actor: G0011
 tool: S0021
 contributors: []
 description:
-  ru: |-
-    Тотальный информационный контроль и запрет называть вторжение войной - официально оно объявлено «специальной военной операцией», целью которой названы «демилитаризация и денацификация»(Citation: 221).
-    Информационное прикрытие энергетического террора строилось на версии «ответа»: «Сейчас много шума по поводу наших ударов по энергетической инфраструктуре соседней страны.
-    Да, мы делаем это.
-    Но кто начал?»(Citation: 243).
   en: |-
     Total information control and a ban on calling the invasion a war - officially it was declared a "special military operation" whose stated aims were "demilitarization and denazification"(Citation: 221).
     The informational cover for energy terror rested on the "response" narrative: "There is a lot of noise now about our strikes on the energy infrastructure of the neighboring country.
@@ -32,3 +27,8 @@ description:
     Інформаційне прикриття енергетичного терору будувалося на версії «відповіді»: «Зараз багато галасу з приводу наших ударів по енергетичній інфраструктурі сусідньої країни.
     Так, ми робимо це.
     Але хто почав?»(Citation: 243).
+  ru: |-
+    Тотальный информационный контроль и запрет называть вторжение войной - официально оно объявлено «специальной военной операцией», целью которой названы «демилитаризация и денацификация»(Citation: 221).
+    Информационное прикрытие энергетического террора строилось на версии «ответа»: «Сейчас много шума по поводу наших ударов по энергетической инфраструктуре соседней страны.
+    Да, мы делаем это.
+    Но кто начал?»(Citation: 243).

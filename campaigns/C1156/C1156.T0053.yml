@@ -1,28 +1,28 @@
 type: procedure
 id: C1156.T0053
 campaign_name:
-  ru: 'Тайная разведка Чечни топографами Розена и разорение Зандака отрядом Пулло: пленение 31 жителя и угон скота (1835-1836)'
   en: 'Covert reconnaissance of Chechnya by Rosen''s topographers and the devastation of Zandak by Pullo''s detachment: capture of 31 inhabitants and seizure of livestock (1835-1836)'
   uk: 'Таємна розвідка Чечні топографами Розена та розорення Зандака загоном Пулло: полон 31 жителя і викрадення худоби (1835-1836)'
+  ru: 'Тайная разведка Чечни топографами Розена и разорение Зандака отрядом Пулло: пленение 31 жителя и угон скота (1835-1836)'
 created: 2026-07-03
 modified: 2026-08-07
 version: '1.0'
 technique: T0053
 technique_name:
-  ru: Похищение людей
   en: Abduction of People
   uk: Викрадення людей
+  ru: Похищение людей
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    23 августа 1836 при внезапном захвате аула Зандак отряд полковника Пулло, начальника Сунженской укреплённой линии, захватил в плен жителей, не успевших спастись бегством через овраги и лес.
-    Корпусный командир Розен доносил военному министру: пехота вытеснила защитников, «захватив в плен 31 душу мужского и женского пола»(Citation: 105).
   en: |-
     On August 23, 1836, during the sudden seizure of the aul of Zandak, the detachment of Colonel Pullo, chief of the Sunzha fortified line, took captive residents who had not managed to escape through the ravines and the forest.
     Corps commander Rosen reported to the Minister of War: the infantry drove out the defenders, “having taken prisoner 31 souls of male and female sex”(Citation: 105).
   uk: |-
     23 серпня 1836 року під час раптового захоплення аулу Зандак загін полковника Пулло, начальника Сунженської укріпленої лінії, захопив у полон жителів, які не встигли врятуватися втечею через яри та ліс.
     Корпусний командир Розен доносив військовому міністрові: піхота витіснила захисників, «захопивши в полон 31 душу чоловічої та жіночої статі»(Citation: 105).
+  ru: |-
+    23 августа 1836 при внезапном захвате аула Зандак отряд полковника Пулло, начальника Сунженской укреплённой линии, захватил в плен жителей, не успевших спастись бегством через овраги и лес.
+    Корпусный командир Розен доносил военному министру: пехота вытеснила защитников, «захватив в плен 31 душу мужского и женского пола»(Citation: 105).

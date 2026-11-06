@@ -1,22 +1,22 @@
 type: procedure
 id: C0040.T0049
 campaign_name:
-  ru: 'Война с Наполеоном: принудительная мобилизация и обман (1812)'
   en: 'War with Napoleon: Forced Mobilization and Deception (1812)'
   uk: 'Війна з Наполеоном: примусова мобілізація та обман (1812)'
+  ru: 'Война с Наполеоном: принудительная мобилизация и обман (1812)'
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Массовый призыв в ополчение и формирование казачьих полков на основе ложных обещаний вернуть казацкие вольности: «Украина использовалась для комплектования, снаряжения, перемещения войск… в т. ч. 75-тысячного ополчения из Киевской, Подольской, Черниговской и Полтавской губерний»(Citation: 185).'
   en: 'Mass conscription into the militia and the formation of Cossack regiments on the basis of false promises to restore Cossack liberties: "Ukraine was used for the recruitment, equipping, and movement of troops… including a 75-thousand-strong militia from the Kyiv, Podillia, Chernihiv, and Poltava governorates"(Citation: 185).'
   uk: 'Масовий призов до ополчення та формування козачих полків на основі неправдивих обіцянок повернути козацькі вольності: «Україна використовувалася для комплектування, спорядження, переміщення військ… в т. ч. 75-тис. ополчення з Київ., Подільської, Черніг. та Полтав. губ.»(Citation: 185).'
+  ru: 'Массовый призыв в ополчение и формирование казачьих полков на основе ложных обещаний вернуть казацкие вольности: «Украина использовалась для комплектования, снаряжения, перемещения войск… в т. ч. 75-тысячного ополчения из Киевской, Подольской, Черниговской и Полтавской губерний»(Citation: 185).'

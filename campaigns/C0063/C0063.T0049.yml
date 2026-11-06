@@ -1,22 +1,22 @@
 type: procedure
 id: C0063.T0049
 campaign_name:
-  ru: Формирование идеологии великодержавного шовинизма (1864–1876)
   en: Formation of the Ideology of Great-Power Chauvinism (1864–1876)
   uk: Формування ідеології великодержавного шовінізму (1864–1876)
+  ru: Формирование идеологии великодержавного шовинизма (1864–1876)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Использование украинцев в составе имперской армии в масштабных захватнических войнах на Кавказе и в Центральной Азии – рекрутская повинность распространялась на украинские губернии со времен ликвидации автономии(Citation: 196).'
   en: 'The use of Ukrainians within the imperial army in large-scale wars of conquest in the Caucasus and Central Asia – recruit conscription had extended to the Ukrainian governorates since the liquidation of the autonomy(Citation: 196).'
   uk: 'Використання українців у складі імперської армії в масштабних загарбницьких війнах на Кавказі та в Центральній Азії – рекрутська повинність поширювалася на українські губернії з часів ліквідації автономії(Citation: 196).'
+  ru: 'Использование украинцев в составе имперской армии в масштабных захватнических войнах на Кавказе и в Центральной Азии – рекрутская повинность распространялась на украинские губернии со времен ликвидации автономии(Citation: 196).'

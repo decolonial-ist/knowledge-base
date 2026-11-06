@@ -1,24 +1,24 @@
 type: procedure
 id: C1172.T0052
 campaign_name:
-  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
   en: '"Mow Down Everything, Beat and Hang Without Mercy": Suppression of the 1877 Uprising and the Executions in Grozny (1877-1878)'
   uk: '«Косіть усе, бийте і вішайте нещадно»: придушення повстання 1877 року і страти в Грозному (1877-1878)'
+  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
 created: 2026-08-03
 modified: 2026-08-07
 version: '1.0'
 technique: T0052
 technique_name:
-  ru: Изъятие ресурсов
   en: Expropriation of Resources
   uk: Вилучення ресурсів
+  ru: Изъятие ресурсов
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'По итогам подавления восстания 1877 года империя отбирала землю горных обществ: историк З. Х. Ибрагимова фиксирует - «Тысячи жителей горных селений были переселены на плоскость, земли их конфисковывались»(Citation: 251).'
   en: |-
     Following the suppression of the 1877 uprising the empire took away the land of the mountain communities: historian Z. Kh.
     Ibragimova records - "Thousands of inhabitants of mountain villages were resettled onto the plain; their lands were confiscated"(Citation: 251).
   uk: 'За підсумками придушення повстання 1877 року імперія відбирала землю гірських громад: історик З. Х. Ібрагімова фіксує - «Тисячі жителів гірських селищ було переселено на рівнину, землі їхні конфісковувалися»(Citation: 251).'
+  ru: 'По итогам подавления восстания 1877 года империя отбирала землю горных обществ: историк З. Х. Ибрагимова фиксирует - «Тысячи жителей горных селений были переселены на плоскость, земли их конфисковывались»(Citation: 251).'

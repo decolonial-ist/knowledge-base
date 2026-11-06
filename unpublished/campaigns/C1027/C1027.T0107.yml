@@ -1,22 +1,22 @@
 type: procedure
 id: C1027.T0107
 campaign_name:
-  ru: Экономическая и транспортная блокада Ичкерии (1992–1994)
   en: Economic and transport blockade of Ichkeria (1992–1994)
   uk: Економічна та транспортна блокада Ічкерії (1992–1994)
+  ru: Экономическая и транспортная блокада Ичкерии (1992–1994)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0107
 technique_name:
-  ru: Транспортная блокада
   en: Transport Blockade
   uk: Транспортна блокада
+  ru: Транспортная блокада
 people: nokhchi
 actor: G0011
 tool: S0008
 contributors: []
 description:
-  ru: 'Полное прекращение железнодорожного, автомобильного и воздушного сообщения с республикой, отмена авиарейсов для физической изоляции региона(Citation: 26).'
   en: 'Complete suspension of rail, road, and air connections with the republic, and cancellation of flights to physically isolate the region(Citation: 26).'
   uk: 'Повне припинення залізничного, автомобільного та повітряного сполучення з республікою, скасування авіарейсів для фізичної ізоляції регіону(Citation: 26).'
+  ru: 'Полное прекращение железнодорожного, автомобильного и воздушного сообщения с республикой, отмена авиарейсов для физической изоляции региона(Citation: 26).'

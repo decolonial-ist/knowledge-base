@@ -1,28 +1,28 @@
 type: procedure
 id: C0011.T0057
 campaign_name:
-  ru: Интеграционные реформы Петра I и Северная война (1700–1708)
   en: Integration Reforms of Peter I and the Great Northern War (1700–1708)
   uk: Інтеграційні реформи Петра I та Північна війна (1700–1708)
+  ru: Интеграционные реформы Петра I и Северная война (1700–1708)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0057
 technique_name:
-  ru: Эксплуатация труда
   en: Labor Exploitation
   uk: Експлуатація праці
+  ru: Эксплуатация труда
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Массовое привлечение населения к строительству военных объектов в интересах Москвы.
-    Царь официально благодарил гетмана и старшину за «усердное радение (и немалопонесенные труды) в делании печерской фортификации» и обещал за эту «службу и труды в делании помянутой фортификации» свою «превысокую милость»(Citation: 4).
   en: |-
     The mass conscription of the population for the construction of military installations in Moscow's interests.
     The tsar officially thanked the hetman and the starshyna for their "diligent zeal (and considerable labors borne) in the making of the Pechersk fortification" and promised for this "service and labors in the making of the said fortification" his "most exalted favor"(Citation: 4).
   uk: |-
     Масове залучення населення до будівництва військових об'єктів в інтересах Москви.
     Цар офіційно дякував гетьманові та старшині за «усердне радіння (і чималопонесені труди) в робленні печерської фортифікації» й обіцяв за цю «службу і труди в робленні пом'янутої фортифікації» свою «превисоку милість»(Citation: 4).
+  ru: |-
+    Массовое привлечение населения к строительству военных объектов в интересах Москвы.
+    Царь официально благодарил гетмана и старшину за «усердное радение (и немалопонесенные труды) в делании печерской фортификации» и обещал за эту «службу и труды в делании помянутой фортификации» свою «превысокую милость»(Citation: 4).

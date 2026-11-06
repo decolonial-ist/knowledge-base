@@ -1,22 +1,22 @@
 type: procedure
 id: C0009.T0030
 campaign_name:
-  ru: «Вечный мир» с Польшей (1686)
   en: '"Eternal Peace" with Poland (1686)'
   uk: «Вічний мир» з Польщею (1686)
+  ru: «Вечный мир» с Польшей (1686)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0030
 technique_name:
-  ru: Административно-территориальное деление
   en: Administrative-Territorial Division
   uk: Адміністративно-територіальний поділ
+  ru: Административно-территориальное деление
 people: ukrainians
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: 'Юридическая фиксация раскола страны на две части с превращением Правобережья в буферную зону: «По условиям Вечного мира Правобережье осталось за Польшей... договорили и постановили, что те места оставатись имеют пусты, так как ныне суть»(Citation: 4)(Citation: 3).'
   en: 'The legal codification of the country''s split into two parts, with the Right Bank turned into a buffer zone: "Under the terms of the Eternal Peace, the Right Bank remained with Poland... it was agreed and resolved that those places are to remain deserted, as they now are"(Citation: 4)(Citation: 3).'
   uk: 'Юридична фіксація розколу країни на дві частини з перетворенням Правобережжя на буферну зону: «За умовами Вічного миру Правобережжя залишилося за Польщею... домовилися й постановили, що ті місця мають залишатися пустими, як нині є»(Citation: 4)(Citation: 3).'
+  ru: 'Юридическая фиксация раскола страны на две части с превращением Правобережья в буферную зону: «По условиям Вечного мира Правобережье осталось за Польшей... договорили и постановили, что те места оставатись имеют пусты, так как ныне суть»(Citation: 4)(Citation: 3).'

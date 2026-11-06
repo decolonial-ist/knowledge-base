@@ -1,21 +1,21 @@
-name: Нет источника / Немає джерела / Missing source
-description: Утверждение без сноски или сноска не подтверждает сказанное / Твердження без зноски або зноска не підтверджує сказане / A claim without a citation, or the citation does not support it
+name: Missing source / Немає джерела / Нет источника
+description: A claim without a citation, or the citation does not support it / Твердження без зноски або зноска не підтверджує сказане / Утверждение без сноски или сноска не подтверждает сказанное
 labels: [source]
 body:
   - type: input
     id: where
     attributes:
-      label: Где / Де / Where
-      description: Идентификатор файла и фраза / Ідентифікатор файлу і фраза / File id and sentence
+      label: Where / Де / Где
+      description: File id and sentence / Ідентифікатор файлу і фраза / Идентификатор файла и фраза
     validations:
       required: true
   - type: textarea
     id: what
     attributes:
-      label: Что именно не подтверждено / Що саме не підтверджено / What is unsupported
+      label: What is unsupported / Що саме не підтверджено / Что именно не подтверждено
     validations:
       required: true
   - type: textarea
     id: source
     attributes:
-      label: Известный вам источник, если есть / Відоме вам джерело, якщо є / A source you know, if any
+      label: A source you know, if any / Відоме вам джерело, якщо є / Известный вам источник, если есть

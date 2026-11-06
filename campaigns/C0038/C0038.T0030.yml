@@ -1,22 +1,22 @@
 type: procedure
 id: C0038.T0030
 campaign_name:
-  ru: Создание Малороссийского генерал-губернаторства (1801–1811)
   en: Creation of the Little Russian Governorate-General (1801–1811)
   uk: Створення Малоросійського генерал-губернаторства (1801–1811)
+  ru: Создание Малороссийского генерал-губернаторства (1801–1811)
 created: 2026-04-25
 modified: 2026-08-06
 version: '1.0'
 technique: T0030
 technique_name:
-  ru: Административно-территориальное деление
   en: Administrative-Territorial Division
   uk: Адміністративно-територіальний поділ
+  ru: Административно-территориальное деление
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Стирание исторических границ и внедрение имперской вертикали: «Генерал-губернатор сосредоточивал всю полноту административной власти: наделялся правом законодательной инициативы, определял степень распространения в генерал-губернаторстве общероссийских законов, контролировал деятельность государственных учреждений, в т. ч. и судебных»(Citation: 194).'
   en: 'The erasure of historical borders and the introduction of the imperial vertical: "The governor-general concentrated the entire fullness of administrative power: he was endowed with the right of legislative initiative, determined the degree to which all-Russian laws extended within the governorate-general, and controlled the activity of state institutions, including judicial ones"(Citation: 194).'
   uk: 'Стирання історичних кордонів і впровадження імперської вертикалі: «Генерал-губернатор зосереджував усю повноту адм. влади: наділявся правом законодавчої ініціативи, визначав ступінь поширення в генерал-губернаторстві загальноросійських законів, контролював діяльність держ. установ, у т. ч. і судових»(Citation: 194).'
+  ru: 'Стирание исторических границ и внедрение имперской вертикали: «Генерал-губернатор сосредоточивал всю полноту административной власти: наделялся правом законодательной инициативы, определял степень распространения в генерал-губернаторстве общероссийских законов, контролировал деятельность государственных учреждений, в т. ч. и судебных»(Citation: 194).'

@@ -1,22 +1,22 @@
 type: procedure
 id: C0037.T0039
 campaign_name:
-  ru: Второй и третий разделы Речи Посполитой (1793–1795)
   en: Second and Third Partitions of the Polish-Lithuanian Commonwealth (1793–1795)
   uk: Другий і третій поділи Речі Посполитої (1793–1795)
+  ru: Второй и третий разделы Речи Посполитой (1793–1795)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0039
 technique_name:
-  ru: Сговор с третьей стороной за спиной народа
   en: Collusion with a Third Party Behind the People's Back
   uk: Змова з третьою стороною за спиною народу
+  ru: Сговор с третьей стороной за спиной народа
 people: ukrainians
 actor: G0009
 tool: S0009
 contributors: []
 description:
-  ru: 'Дипломатический сговор великих держав за спиной народов расчленяемой республики: «Второй раздел Польши Россия осуществила совместно с Пруссией»(Citation: 195), в третьем участвовали все три монархии – судьбу Правобережья решали в Петербурге, Берлине и Вене.'
   en: 'The diplomatic collusion of the great powers behind the backs of the peoples of the dismembered republic: "Russia carried out the second partition of Poland jointly with Prussia"(Citation: 195); all three monarchies took part in the third – the fate of the Right Bank was decided in St. Petersburg, Berlin, and Vienna.'
   uk: 'Дипломатична змова великих держав за спинами народів розчленовуваної республіки: «Другий поділ Польщі Росія здійснила спільно з Пруссією»(Citation: 195), у третьому брали участь усі три монархії – долю Правобережжя вирішували в Петербурзі, Берліні та Відні.'
+  ru: 'Дипломатический сговор великих держав за спиной народов расчленяемой республики: «Второй раздел Польши Россия осуществила совместно с Пруссией»(Citation: 195), в третьем участвовали все три монархии – судьбу Правобережья решали в Петербурге, Берлине и Вене.'

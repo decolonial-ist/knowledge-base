@@ -1,28 +1,28 @@
 type: procedure
 id: C1167.T0164
 campaign_name:
-  ru: '«Ни пахать, ни сеять»: погром Чечни, организованный голод, перекупка элит и институты подчинения (1852-1857)'
   en: '"Neither plow nor sow": the pogrom of Chechnya, organized famine, the buying-up of elites and the institutions of subjugation (1852-1857)'
   uk: '«Ні орати, ні сіяти»: погром Чечні, організований голод, перекупівля еліт та інститути підкорення (1852-1857)'
+  ru: '«Ни пахать, ни сеять»: погром Чечни, организованный голод, перекупка элит и институты подчинения (1852-1857)'
 created: 2026-08-07
 modified: 2026-08-10
 version: '1.0'
 technique: T0164
 technique_name:
-  ru: Мародерство
   en: Pillage
   uk: Мародерство
+  ru: Мародерство
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    При уничтожении аула Хан-Кала, он же Сюрин-Корт, войска похода Барятинского, командовавшего на левом фланге Кавказской линии (цепи имперских укреплений на земле нохчи), записали жителей и их скот себе в добычу.
-    Имперский историк Волконский подвёл счёт: «триста пятьдесят человек сюрин-кортцев и более трех тысяч голов рогатого скота сделались нашим достоянием, нашею, так сказать, собственностью»(Citation: 119).
   en: |-
     At the destruction of the aul Khan-Kala, also known as Syurin-Kort, the troops of the march of Baryatinsky, who commanded on the left flank of the Caucasus Line (the chain of imperial fortifications on the land of the Nokhchi), entered the inhabitants and their cattle as their booty.
     Imperial historian Volkonsky drew up the account: "three hundred fifty Syurin-Kort people and more than three thousand head of horned cattle became our asset, our, so to speak, property"(Citation: 119).
   uk: |-
     При знищенні аулу Хан-Кала, він же Сюрін-Корт, війська походу Барятинського, який командував на лівому фланзі Кавказької лінії (ланцюга імперських укріплень на землі нохчі), записали жителів та їхню худобу собі у здобич.
     Імперський історик Волконський підбив рахунок: «триста п’ятдесят людей сюрін-кортців і понад три тисячі голів рогатої худоби стали нашим надбанням, нашою, так би мовити, власністю»(Citation: 119).
+  ru: |-
+    При уничтожении аула Хан-Кала, он же Сюрин-Корт, войска похода Барятинского, командовавшего на левом фланге Кавказской линии (цепи имперских укреплений на земле нохчи), записали жителей и их скот себе в добычу.
+    Имперский историк Волконский подвёл счёт: «триста пятьдесят человек сюрин-кортцев и более трех тысяч голов рогатого скота сделались нашим достоянием, нашею, так сказать, собственностью»(Citation: 119).

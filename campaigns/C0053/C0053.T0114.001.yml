@@ -1,28 +1,28 @@
 type: procedure
 id: C0053.T0114.001
 campaign_name:
-  ru: Создание единого «советского народа» (1958–1970)
   en: Creation of a Single "Soviet People" (1958–1970)
   uk: Створення єдиного «радянського народу» (1958–1970)
+  ru: Создание единого «советского народа» (1958–1970)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0114.001
 technique_name:
-  ru: Навязывание асимметричного двуязычия и факультативности
   en: Imposition of Asymmetric Bilingualism and Optionality
   uk: Нав'язування асиметричної двомовності та факультативності
+  ru: Навязывание асимметричного двуязычия и факультативности
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Законодательный перевод школ через «свободу выбора»: союзный Закон от 24 декабря 1958 года отдал язык обучения республикам(Citation: 404), а Закон УРСР от 17 апреля 1959 года записал в статье 9: «Обучение в школах Украинской ССР ведётся на родном языке учащихся.
-    В школу с каким языком обучения отдавать своих детей, решают родители» - изучение языка, на котором школа не преподаёт, стало необязательным(Citation: 459).
   en: |-
     The legislative transfer of schools through "freedom of choice": the union Law of December 24, 1958 left the language of instruction to the republics(Citation: 404), and the Law of the Ukrainian SSR of April 17, 1959 wrote into Article 9: "Instruction in the schools of the Ukrainian SSR is conducted in the pupils' native language.
     It is for the parents to decide to which school, with which language of instruction, to send their children" - the study of a language not taught in a given school became optional(Citation: 459).
   uk: |-
     Законодавче переведення шкіл через «свободу вибору»: союзний Закон від 24 грудня 1958 року віддав мову навчання республікам(Citation: 404), а Закон УРСР від 17 квітня 1959 року записав у статті 9: «Навчання в школах Української РСР здійснюється рідною мовою учнів.
     В школу з якою мовою навчання віддавати своїх дітей вирішують батьки» - вивчення мови, якою школа не викладає, стало необов'язковим(Citation: 459).
+  ru: |-
+    Законодательный перевод школ через «свободу выбора»: союзный Закон от 24 декабря 1958 года отдал язык обучения республикам(Citation: 404), а Закон УРСР от 17 апреля 1959 года записал в статье 9: «Обучение в школах Украинской ССР ведётся на родном языке учащихся.
+    В школу с каким языком обучения отдавать своих детей, решают родители» - изучение языка, на котором школа не преподаёт, стало необязательным(Citation: 459).

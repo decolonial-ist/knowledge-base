@@ -1,22 +1,22 @@
 type: procedure
 id: C0052.T0128
 campaign_name:
-  ru: Сталинский террор и конец украинизации (1922–1939)
   en: Stalinist Terror and the End of Ukrainization (1922–1939)
   uk: Сталінський терор і кінець українізації (1922–1939)
+  ru: Сталинский террор и конец украинизации (1922–1939)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0128
 technique_name:
-  ru: Ликвидация национальных общественных организаций
   en: Liquidation of National Civic Organizations
   uk: Ліквідація національних громадських організацій
+  ru: Ликвидация национальных общественных организаций
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Уничтожение просветительских структур диаспоры: «1922 г. Ликвидация «Просвиты» на Кубани, в Зелёном Клине и в других местах проживания украинцев в СССР вне Украины»(Citation: 531).'
   en: 'The destruction of the diaspora''s educational structures: "1922: the liquidation of ''Prosvita'' in the Kuban, in Zelenyi Klyn, and in other places of Ukrainian residence in the USSR outside Ukraine"(Citation: 531).'
   uk: 'Знищення просвітницьких структур діаспори: «1922 р. Ліквідація «Просвіти» на Кубані, в Зеленому Клину та в інших місцях проживання українців в СРСР поза Україною»(Citation: 531).'
+  ru: 'Уничтожение просветительских структур диаспоры: «1922 г. Ликвидация «Просвиты» на Кубани, в Зелёном Клине и в других местах проживания украинцев в СССР вне Украины»(Citation: 531).'

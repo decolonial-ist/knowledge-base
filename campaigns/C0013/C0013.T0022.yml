@@ -1,28 +1,28 @@
 type: procedure
 id: C0013.T0022
 campaign_name:
-  ru: Лебединские казни (1708–1709)
   en: The Lebedyn Executions (1708–1709)
   uk: Лебединські страти (1708–1709)
+  ru: Лебединские казни (1708–1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0022
 technique_name:
-  ru: Террор
   en: Terror
   uk: Терор
+  ru: Террор
 people: ukrainians
 actor: G0008
 tool: S0017
 contributors: []
 description:
-  ru: |-
-    Устрашение населения показательной расправой над целым городом: при взятии Батурина «в кровавой резне и пожаре погибло множество защитников и жителей города»(Citation: 4), «город был разрушен дотла, а жители уничтожены», а вернувшимся жителям вменили специальный налог «за измену»(Citation: 185).
-    Разорение гетманской столицы уничтожило и государственный архив Гетманщины - он пострадал «при штурме А.Меншиковым Батуринского замка 1708»(Citation: 185).
   en: |-
     Intimidation of the population by an exemplary reprisal against an entire town: during the capture of Baturyn "in the bloody massacre and fire a multitude of the town's defenders and inhabitants perished"(Citation: 4), "the town was razed to the ground and its inhabitants annihilated," and the returning residents were charged a special tax "for treason"(Citation: 185).
     The devastation of the hetman capital also destroyed the state archive of the Hetmanate, which suffered "during the storming of Baturyn castle by A. Menshikov in 1708"(Citation: 185).
   uk: |-
     Залякування населення показовою розправою над цілим містом: при взятті Батурина «у кривавій різанині й пожежі загинуло безліч захисників і жителів міста»(Citation: 4), «місто було вщент зруйновано, а жителів знищено», а мешканцям, які повернулися, ставили спеціальний податок «за зраду»(Citation: 185).
     Руйнування гетьманської столиці знищило й державний архів Гетьманщини - він постраждав «при штурмі О.Меншиковим Батуринського замку 1708»(Citation: 185).
+  ru: |-
+    Устрашение населения показательной расправой над целым городом: при взятии Батурина «в кровавой резне и пожаре погибло множество защитников и жителей города»(Citation: 4), «город был разрушен дотла, а жители уничтожены», а вернувшимся жителям вменили специальный налог «за измену»(Citation: 185).
+    Разорение гетманской столицы уничтожило и государственный архив Гетманщины - он пострадал «при штурме А.Меншиковым Батуринского замка 1708»(Citation: 185).

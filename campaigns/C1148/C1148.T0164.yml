@@ -1,28 +1,28 @@
 type: procedure
 id: C1148.T0164
 campaign_name:
-  ru: Разорение равнинных сёл нохчи в карательном походе Ермолова (1826)
   en: Devastation of the Lowland Nokhchi Villages in Yermolov’s Punitive Campaign (1826)
   uk: Розорення рівнинних сіл Нохчі в каральному поході Єрмолова (1826)
+  ru: Разорение равнинных сёл нохчи в карательном походе Ермолова (1826)
 created: 2026-06-27
 modified: 2026-08-10
 version: '1.0'
 technique: T0164
 technique_name:
-  ru: Мародерство
   en: Pillage
   uk: Мародерство
+  ru: Мародерство
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Российская империя угоняла скот и обирала разорённые сёла нохчи.
-    Историк Д. А. Хожаев пишет, что к 18 мая 1826 года был «угнан скот», а после возвращения войск Ермолов «послал отряд из 500 казаков на Даут-Мартан», и «селение было разорено и ограблено»(Citation: 95).
   en: |-
     The Russian Empire drove off livestock and plundered the ravaged villages of the Nokhchi.
     Historian D. A. Khozhaev writes that by May 18, 1826, «livestock had been driven off», and after the troops returned, Yermolov «sent a detachment of 500 Cossacks against Daut-Martan», and «the village was ravaged and plundered»(Citation: 95).
   uk: |-
     Російська імперія відганяла худобу й оббирала розорені села Нохчі.
     Історик Д. А. Хожаєв пише, що до 18 травня 1826 року було «відігнано худобу», а після повернення військ Єрмолов «послав загін із 500 козаків на Даут-Мартан», і «селище було розорене й пограбоване»(Citation: 95).
+  ru: |-
+    Российская империя угоняла скот и обирала разорённые сёла нохчи.
+    Историк Д. А. Хожаев пишет, что к 18 мая 1826 года был «угнан скот», а после возвращения войск Ермолов «послал отряд из 500 казаков на Даут-Мартан», и «селение было разорено и ограблено»(Citation: 95).

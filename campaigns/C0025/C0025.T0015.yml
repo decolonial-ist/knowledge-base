@@ -1,22 +1,22 @@
 type: procedure
 id: C0025.T0015
 campaign_name:
-  ru: Конотопские статьи Ивана Самойловича (1672)
   en: The Konotop Articles of Ivan Samoilovych (1672)
   uk: Конотопські статті Івана Самойловича (1672)
+  ru: Конотопские статьи Ивана Самойловича (1672)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0015
 technique_name:
-  ru: Подкуп элит
   en: Bribery of Elites
   uk: Підкуп еліт
+  ru: Подкуп элит
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: 'Ставка на сословные интересы старшины: «Коломацкими статьями ограничивалась как власть гетмана, так и соответственно автономия Гетманщины, зато были значительно расширены права казацкой старшины»(Citation: 199) – расширяя права старшинской олигархии за счет гетмана, Москва получала рычаги влияния на автономию руками её же элиты.'
   en: 'A wager on the estate interests of the officer class: "The Konotop Articles limited both the hetman''s power and, accordingly, the autonomy of the Hetmanate, while significantly expanding the rights of the Cossack officers"(Citation: 199) – by expanding the rights of the officer oligarchy at the hetman''s expense, Moscow gained levers of influence over the autonomy through the hands of its own elite.'
   uk: 'Ставка на станові інтереси старшини: «К[онотопськими] С[таттями] обмежувалась як влада гетьмана, так і відповідно автономія Гетьманщини, натомість було значно розширено права козацької старшини»(Citation: 199) – розширюючи права старшинської олігархії коштом гетьмана, Москва отримувала важелі впливу на автономію руками її ж еліти.'
+  ru: 'Ставка на сословные интересы старшины: «Коломацкими статьями ограничивалась как власть гетмана, так и соответственно автономия Гетманщины, зато были значительно расширены права казацкой старшины»(Citation: 199) – расширяя права старшинской олигархии за счет гетмана, Москва получала рычаги влияния на автономию руками её же элиты.'

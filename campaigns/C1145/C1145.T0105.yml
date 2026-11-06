@@ -1,22 +1,22 @@
 type: procedure
 id: C1145.T0105
 campaign_name:
-  ru: Ночное нападение на аул Топли, сожжение Герменчука и принуждение нохчи к рубке своих лесов (1820)
   en: Night Attack on the Aul of Topli, Burning of Germenchuk, and Coercion of the Nokhchi to Fell Their Own Forests (1820)
   uk: Нічний напад на аул Топлі, спалення Герменчука та примушення Нохчі до вирубування власних лісів (1820)
+  ru: Ночное нападение на аул Топли, сожжение Герменчука и принуждение нохчи к рубке своих лесов (1820)
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0105
 technique_name:
-  ru: Тотальное уничтожение инфраструктуры
   en: Total Destruction of Infrastructure
   uk: Тотальне знищення інфраструктури
+  ru: Тотальное уничтожение инфраструктуры
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Имперский историк Потто пишет, что после ночного нападения аул Топли остался «курящимися развалинами», а на исходе похода войска «продвинулись вперед, сожгли Герменчуг и потянулись назад в Грозную», хотя аул стоял пустым(Citation: 75).'
   en: 'The imperial historian Potto writes that after the night attack the aul of Topli was left as “smoldering ruins,” and at the close of the campaign the troops “advanced forward, burned Germenchug, and drew back to Groznaya,” even though the aul stood empty(Citation: 75).'
   uk: 'Імперський історик Потто пише, що після нічного нападу аул Топлі залишився «руїнами, що куряться», а наприкінці походу війська «просунулися вперед, спалили Герменчуг і потяглися назад у Грозну», хоча аул стояв порожнім(Citation: 75).'
+  ru: 'Имперский историк Потто пишет, что после ночного нападения аул Топли остался «курящимися развалинами», а на исходе похода войска «продвинулись вперед, сожгли Герменчуг и потянулись назад в Грозную», хотя аул стоял пустым(Citation: 75).'

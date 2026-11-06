@@ -1,22 +1,22 @@
 type: procedure
 id: C0037.T0017
 campaign_name:
-  ru: Второй и третий разделы Речи Посполитой (1793–1795)
   en: Second and Third Partitions of the Polish-Lithuanian Commonwealth (1793–1795)
   uk: Другий і третій поділи Речі Посполитої (1793–1795)
+  ru: Второй и третий разделы Речи Посполитой (1793–1795)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0017
 technique_name:
-  ru: Аннексия территорий
   en: Annexation of Territories
   uk: Анексія територій
+  ru: Аннексия территорий
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Захват и включение в состав империи Правобережной Украины, Волыни и Подолья: Россия получила «Киевское, Брацлавское и Подольское воеводства и восточную половину Волынского воеводства», а по третьему разделу – «западную часть Волынского воеводства, западные части Холмской земли и Белзского воеводства»(Citation: 195).'
   en: 'The seizure and incorporation into the empire of Right-Bank Ukraine, Volhynia, and Podillia: Russia received "the Kyiv, Bratslav, and Podillia voivodeships and the eastern half of the Volhynian voivodeship," and under the third partition – "the western part of the Volhynian voivodeship, the western parts of the Kholm land and the Belz voivodeship"(Citation: 195).'
   uk: 'Захоплення та включення до складу імперії Правобережної України, Волині й Поділля: Росія отримала «Київське, Брацлавське і Подільське воєводства та сх. половину Волин. воєводства», а за третім поділом до Росії відійшли «зх. частина Волин. воєводства, зх. частини Холмської землі й Белзького воєводства»(Citation: 195).'
+  ru: 'Захват и включение в состав империи Правобережной Украины, Волыни и Подолья: Россия получила «Киевское, Брацлавское и Подольское воеводства и восточную половину Волынского воеводства», а по третьему разделу – «западную часть Волынского воеводства, западные части Холмской земли и Белзского воеводства»(Citation: 195).'

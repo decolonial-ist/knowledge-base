@@ -1,28 +1,28 @@
 type: procedure
 id: C0009.T0008
 campaign_name:
-  ru: «Вечный мир» с Польшей (1686)
   en: '"Eternal Peace" with Poland (1686)'
   uk: «Вічний мир» з Польщею (1686)
+  ru: «Вечный мир» с Польшей (1686)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0008
 technique_name:
-  ru: Лишение субъектности
   en: Deprivation of Agency
   uk: Позбавлення суб'єктності
+  ru: Лишение субъектности
 people: ukrainians
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: |-
-    Полное отстранение автономии от участия в международных переговорах о статусе ее же территорий.
-    При юридическом разделе украинских земель мнение самого народа было проигнорировано – современная украинская историография оценивает Вечный мир «как национальную трагедию Украины»(Citation: 3).
   en: |-
     The complete exclusion of the autonomy from participation in international negotiations on the status of its own territories.
     In the legal partition of Ukrainian lands the opinion of the people themselves was ignored – contemporary Ukrainian historiography assesses the Eternal Peace "as a national tragedy of Ukraine"(Citation: 3).
   uk: |-
     Повне усунення автономії від участі в міжнародних переговорах про статус її ж територій.
     Під час юридичного поділу українських земель думку самого народу було проігноровано – сучасна українська історіографія оцінює Вічний мир «як національну трагедію України»(Citation: 3).
+  ru: |-
+    Полное отстранение автономии от участия в международных переговорах о статусе ее же территорий.
+    При юридическом разделе украинских земель мнение самого народа было проигнорировано – современная украинская историография оценивает Вечный мир «как национальную трагедию Украины»(Citation: 3).

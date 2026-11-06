@@ -1,22 +1,22 @@
 type: procedure
 id: C1033.T0101
 campaign_name:
-  ru: Установка марионеточного правительства через фиктивные выборы (1995–1996)
   en: Installation of a puppet government through sham elections (1995–1996)
   uk: Встановлення маріонеткового уряду через фіктивні вибори (1995–1996)
+  ru: Установка марионеточного правительства через фиктивные выборы (1995–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0101
 technique_name:
-  ru: Цензура
   en: Censorship
   uk: Цензура
+  ru: Цензура
 people: nokhchi
 actor: G0011
 tool: S0008
 contributors: []
 description:
-  ru: 'Создание Временного информационного центра для цензуры и физическое выдворение независимых репортеров из зоны боевых действий(Citation: 27).'
   en: 'Creation of a Provisional Information Center for censorship and the physical expulsion of independent reporters from the combat zone(Citation: 27).'
   uk: 'Створення Тимчасового інформаційного центру для цензури та фізичне видворення незалежних репортерів із зони бойових дій(Citation: 27).'
+  ru: 'Создание Временного информационного центра для цензуры и физическое выдворение независимых репортеров из зоны боевых действий(Citation: 27).'

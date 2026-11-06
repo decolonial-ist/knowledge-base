@@ -1,22 +1,22 @@
 type: procedure
 id: C1033.T0109
 campaign_name:
-  ru: Установка марионеточного правительства через фиктивные выборы (1995–1996)
   en: Installation of a puppet government through sham elections (1995–1996)
   uk: Встановлення маріонеткового уряду через фіктивні вибори (1995–1996)
+  ru: Установка марионеточного правительства через фиктивные выборы (1995–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0109
 technique_name:
-  ru: Имитация народного волеизъявления
   en: Sham Expression of Popular Will
   uk: Імітація народного волевиявлення
+  ru: Имитация народного волеизъявления
 people: nokhchi
 actor: G0011
 tool: S0012
 contributors: []
 description:
-  ru: 'Проведение псевдовыборов главы республики в условиях оккупации, отсутствия списков избирателей, массовых фальсификаций и возможности многократного голосования(Citation: 27).'
   en: 'Holding of pseudo-elections for the head of the republic under conditions of occupation, absence of voter rolls, mass falsifications, and the possibility of voting multiple times(Citation: 27).'
   uk: 'Проведення псевдовиборів глави республіки в умовах окупації, відсутності списків виборців, масових фальсифікацій та можливості багаторазового голосування(Citation: 27).'
+  ru: 'Проведение псевдовыборов главы республики в условиях оккупации, отсутствия списков избирателей, массовых фальсификаций и возможности многократного голосования(Citation: 27).'

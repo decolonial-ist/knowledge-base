@@ -1,24 +1,24 @@
 type: procedure
 id: C1135.T0099
 campaign_name:
-  ru: Расширение системы подкупа и принуждение горных обществ к подданству (1741–1748)
   en: Expansion of the Bribery System and Coercion of Highland Societies into Subjecthood (1741–1748)
   uk: Розширення системи підкупу та примус гірських суспільств до підданства (1741–1748)
+  ru: Расширение системы подкупа и принуждение горных обществ к подданству (1741–1748)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0099
 technique_name:
-  ru: Захват заложников
   en: Hostage-Taking
   uk: Захоплення заручників
+  ru: Захват заложников
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация Российской империи расширяла систему удержания родственников знати: историк Я. З. Ахмадов констатирует, что для контроля над территориями «в залог верности присяге русским властям выдаются аманаты»(Citation: 94).'
   en: |-
     The occupation administration of the Russian Empire expanded the system of holding relatives of the nobility: historian Ya.
     Z. Akhmadov states that, to control the territories, «amanats are handed over as a pledge of fidelity to the oath to the Russian authorities»(Citation: 94).
   uk: 'Окупаційна адміністрація Російської імперії розширювала систему утримання родичів знаті: історик Я. З. Ахмадов констатує, що для контролю над територіями «на запоруку вірності присязі російській владі видаються аманати»(Citation: 94).'
+  ru: 'Оккупационная администрация Российской империи расширяла систему удержания родственников знати: историк Я. З. Ахмадов констатирует, что для контроля над территориями «в залог верности присяге русским властям выдаются аманаты»(Citation: 94).'

@@ -1,24 +1,24 @@
 type: procedure
 id: C1129.T0147
 campaign_name:
-  ru: Подавление восстания, военная интервенция и принудительное оформление подданства (1722)
   en: Suppression of the Uprising, Military Intervention, and Forced Formalization of Subjecthood (1722)
   uk: Придушення повстання, воєнна інтервенція та примусове оформлення підданства (1722)
+  ru: Подавление восстания, военная интервенция и принудительное оформление подданства (1722)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0147
 technique_name:
-  ru: Принудительное оформление подданства
   en: Forced Registration of Subjecthood
   uk: Примусове оформлення підданства
+  ru: Принудительное оформление подданства
 people: nokhchi
 actor: G0009
 tool: S0009
 contributors: []
 description:
-  ru: 'Дипломатический аппарат Российской империи расширял юридическое подчинение территорий нохчи под угрозой военного уничтожения: историк Я. З. Ахмадов констатирует, что потерпев поражение в 1722 году, местные князья дали присягу, ««включив в оное в первый раз и своих чеченцев»»(Citation: 94).'
   en: |-
     The diplomatic apparatus of the Russian Empire expanded the legal subjugation of the Nokhchi territories under threat of military annihilation: historian Ya.
     Z. Akhmadov states that having suffered defeat in 1722, the local princes took an oath of allegiance, "'including in it for the first time also their Chechens'"(Citation: 94).
   uk: 'Дипломатичний апарат Російської імперії розширював юридичне підпорядкування територій Нохчі під загрозою воєнного знищення: історик Я. З. Ахмадов констатує, що, зазнавши поразки 1722 року, місцеві князі склали присягу, ««включивши до неї вперше і своїх Чеченців»»(Citation: 94).'
+  ru: 'Дипломатический аппарат Российской империи расширял юридическое подчинение территорий нохчи под угрозой военного уничтожения: историк Я. З. Ахмадов констатирует, что потерпев поражение в 1722 году, местные князья дали присягу, ««включив в оное в первый раз и своих чеченцев»»(Citation: 94).'

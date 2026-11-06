@@ -1,22 +1,22 @@
 type: procedure
 id: C1120.T0077
 campaign_name:
-  ru: Карательный поход и разорение горных обществ нохчи (1617–1618)
   en: Punitive campaign and the devastation of the Nokhchi mountain communities (1617–1618)
   uk: Каральний похід і розорення гірських спільнот Нохчі (1617–1618)
+  ru: Карательный поход и разорение горных обществ нохчи (1617–1618)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0077
 technique_name:
-  ru: Карательные экспедиции
   en: Punitive Expeditions
   uk: Каральні експедиції
+  ru: Карательные экспедиции
 people: nokhchi
 actor: G0008
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация Терского города целенаправленно организовала поход для силового наказания: в своей челобитной царю Михаилу Федоровичу кабардинский князь Шолох отчитывался, что терский воевода послал вооруженные отряды именно «на твоих государевых непослушников на мичкиских людей, на их кабаки»(Citation: 82).'
   en: 'The occupation administration of Tersky Town deliberately organized a campaign of violent punishment: in his petition to Tsar Mikhail Fyodorovich, the Kabardian prince Sholokh reported that the Terek voivode sent the armed detachments precisely «against your sovereign''s disobedient ones — the Michkiz people, against their kabaks»(Citation: 82).'
   uk: 'Окупаційна адміністрація Терського міста цілеспрямовано організувала похід для силового покарання: у своїй чолобитній цареві Михайлу Федоровичу кабардинський князь Шолох звітував, що терський воєвода послав збройні загони саме «на твоїх государевих непослушників — на мічкіських людей, на їхні кабаки»(Citation: 82).'
+  ru: 'Оккупационная администрация Терского города целенаправленно организовала поход для силового наказания: в своей челобитной царю Михаилу Федоровичу кабардинский князь Шолох отчитывался, что терский воевода послал вооруженные отряды именно «на твоих государевых непослушников на мичкиских людей, на их кабаки»(Citation: 82).'

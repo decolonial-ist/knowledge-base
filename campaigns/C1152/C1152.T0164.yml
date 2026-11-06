@@ -1,22 +1,22 @@
 type: procedure
 id: C1152.T0164
 campaign_name:
-  ru: 'Выжигание плоскостной Чечни экспедицией Вельяминова: снос сёл от Сунжи до Маиртупа, захват семьи Астемира, коллективные взыскания с чеченских сёл, рубка бегущих жителей Дзулгай-Юрта и истребление зимних запасов (1830-1831)'
   en: 'Burning of Lowland Chechnya by Velyaminov''s Expedition: Demolition of Villages from the Sunzha to Mairtup, Seizure of Astemir''s Family, Collective Penalties Imposed on Chechen Villages, the Cutting Down of Fleeing Inhabitants of Dzulgai-Yurt, and Destruction of Winter Stores (1830-1831)'
   uk: 'Випалювання рівнинної Чечні експедицією Вельямінова: знесення сіл від Сунжі до Маїртупа, захоплення сім''ї Астемира, колективні стягнення з чеченських сіл, рубання жителів Дзулгай-Юрта, які тікали, та винищення зимових запасів (1830-1831)'
+  ru: 'Выжигание плоскостной Чечни экспедицией Вельяминова: снос сёл от Сунжи до Маиртупа, захват семьи Астемира, коллективные взыскания с чеченских сёл, рубка бегущих жителей Дзулгай-Юрта и истребление зимних запасов (1830-1831)'
 created: 2026-08-07
 modified: 2026-08-10
 version: '1.0'
 technique: T0164
 technique_name:
-  ru: Мародерство
   en: Pillage
   uk: Мародерство
+  ru: Мародерство
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'В декабре 1830 при окружении села Даут-Мартан войска генерала Вельяминова присвоили имущество бежавших жителей: имперский историк Потто фиксирует, что «жители успели бежать, но всё имущество их осталось добычей отряда»(Citation: 78).'
   en: 'In December 1830, during the encirclement of the village of Daut-Martan, the troops of General Velyaminov appropriated the property of the fleeing inhabitants: the imperial historian Potto records that "the inhabitants managed to flee, but all their property became the booty of the detachment"(Citation: 78).'
   uk: 'У грудні 1830 під час оточення села Даут-Мартан війська генерала Вельямінова привласнили майно жителів, що втекли: імперський історик Потто фіксує, що «жителі встигли втекти, але все майно їхнє залишилося здобиччю загону»(Citation: 78).'
+  ru: 'В декабре 1830 при окружении села Даут-Мартан войска генерала Вельяминова присвоили имущество бежавших жителей: имперский историк Потто фиксирует, что «жители успели бежать, но всё имущество их осталось добычей отряда»(Citation: 78).'

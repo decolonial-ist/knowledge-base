@@ -1,28 +1,28 @@
 type: procedure
 id: C0028.T0031
 campaign_name:
-  ru: Решительные пункты (1728)
   en: The Decisive Points (1728)
   uk: Рішительні пункти (1728)
+  ru: Решительные пункты (1728)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0031
 technique_name:
-  ru: Ограничение суверенитета
   en: Restriction of Sovereignty
   uk: Обмеження суверенітету
+  ru: Ограничение суверенитета
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Полная дипломатическая изоляция автономии: «Ст. 19 запрещает гетману сношения с другими странами.
-    С полученными из-за границы письмами он должен был знакомить царского резидента, их переводы пересылать к царскому двору, а посланцев тем временем задерживать»(Citation: 196).
   en: |-
     Complete diplomatic isolation of the autonomy: "Article 19 forbids the hetman relations with other countries.
     He was to acquaint the tsar's resident with letters received from abroad, forward their translations to the tsar's court, and meanwhile detain the envoys"(Citation: 196).
   uk: |-
     Повна дипломатична ізоляція автономії: «Ст. 19 забороняє гетьману зносини з ін. країнами.
     З одержаними з-за кордону листами він мав ознайомлювати царського резидента, їх переклади пересилати до царського двору, а посланців тим часом затримувати»(Citation: 196).
+  ru: |-
+    Полная дипломатическая изоляция автономии: «Ст. 19 запрещает гетману сношения с другими странами.
+    С полученными из-за границы письмами он должен был знакомить царского резидента, их переводы пересылать к царскому двору, а посланцев тем временем задерживать»(Citation: 196).

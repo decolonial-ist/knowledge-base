@@ -1,22 +1,22 @@
 type: procedure
 id: C0008.T0044
 campaign_name:
-  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
   en: Annexation of the Kyiv Metropolis by the Moscow Patriarchate (1685–1690)
   uk: Анексія Київської митрополії Московським патріархатом (1685–1690)
+  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0044
 technique_name:
-  ru: Уничтожение локальных систем знаний
   en: Destruction of Local Knowledge Systems
   uk: Знищення локальних систем знань
+  ru: Уничтожение локальных систем знаний
 people: ukrainians
 actor: G0008
 tool: S0011
 contributors: []
 description:
-  ru: 'Уничтожение киевской богословской школы и объявление ее трудов ересью: «Все украинские сочинения, начиная с катехизиса Петра Могилы, объявлялись еретическими... собор осудил практически все основные произведения киевской богословской учености»(Citation: 4)(Citation: 3).'
   en: 'The destruction of the Kyiv theological school and the declaration of its works as heresy: "All Ukrainian writings, beginning with the catechism of Petro Mohyla, were declared heretical... the council condemned virtually all the principal works of Kyivan theological scholarship"(Citation: 4)(Citation: 3).'
   uk: 'Знищення київської богословської школи та оголошення її праць єрессю: «Усі українські твори, починаючи з катехізису Петра Могили, оголошувалися єретичними... собор засудив практично всі основні твори київської богословської вченості»(Citation: 4)(Citation: 3).'
+  ru: 'Уничтожение киевской богословской школы и объявление ее трудов ересью: «Все украинские сочинения, начиная с катехизиса Петра Могилы, объявлялись еретическими... собор осудил практически все основные произведения киевской богословской учености»(Citation: 4)(Citation: 3).'
