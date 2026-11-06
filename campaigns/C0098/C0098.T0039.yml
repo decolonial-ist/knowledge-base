@@ -1,9 +1,17 @@
 type: procedure
 id: C0098.T0039
+campaign_name:
+  ru: Дипломатическая атака против расширения НАТО (2008)
+  en: Diplomatic Attack Against NATO Enlargement (2008)
+  uk: Дипломатична атака проти розширення НАТО (2008)
 created: 2026-04-27
 modified: 2026-09-18
 version: '1.0'
 technique: T0039
+technique_name:
+  ru: Сговор с третьей стороной за спиной народа
+  en: Collusion with a Third Party Behind the People's Back
+  uk: Змова з третьою стороною за спиною народу
 people: ukrainians
 actor: G0011
 tool: S0009

@@ -1,9 +1,17 @@
 type: procedure
 id: C0070.T0127
+campaign_name:
+  ru: Первая мировая война и оккупация Галичины (1914–1917)
+  en: World War I and the Occupation of Galicia (1914–1917)
+  uk: Перша світова війна та окупація Галичини (1914–1917)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0127
+technique_name:
+  ru: Депортация
+  en: Deportation
+  uk: Депортація
 people: ukrainians
 actor: G0009
 tool: S0017

@@ -1,9 +1,17 @@
 type: procedure
 id: C1106.T0006
+campaign_name:
+  ru: Пропагандистская инверсия ролей и дегуманизация (1800–1864 гг.)
+  en: Propagandistic Inversion of Roles and Dehumanization (1800–1864)
+  uk: Пропагандистська інверсія ролей і дегуманізація (1800–1864 рр.)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0006
+technique_name:
+  ru: Дегуманизация
+  en: Dehumanization
+  uk: Дегуманізація
 people: nokhchi
 actor: G0009
 tool: S0008

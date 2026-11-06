@@ -1,9 +1,17 @@
 type: procedure
 id: C1117.T0142
+campaign_name:
+  ru: Полицейский учет и ограничение расселения (1631–1640)
+  en: Police Registration and Restriction of Settlement (1631–1640)
+  uk: Поліцейський облік та обмеження розселення (1631–1640)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0142
+technique_name:
+  ru: Ограничение географии расселения
+  en: Restriction of Settlement Geography
+  uk: Обмеження географії розселення
 people: nokhchi
 actor: G0008
 tool: S0024

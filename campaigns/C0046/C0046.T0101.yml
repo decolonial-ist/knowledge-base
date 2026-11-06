@@ -1,9 +1,17 @@
 type: procedure
 id: C0046.T0101
+campaign_name:
+  ru: 'Валуевский циркуляр: запрет языка и школ (1862–1869)'
+  en: 'The Valuev Circular: Ban on the Language and Schools (1862–1869)'
+  uk: 'Валуєвський циркуляр: заборона мови та шкіл (1862–1869)'
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0101
+technique_name:
+  ru: Цензура
+  en: Censorship
+  uk: Цензура
 people: ukrainians
 actor: G0009
 tool: S0008

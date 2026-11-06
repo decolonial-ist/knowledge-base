@@ -1,9 +1,17 @@
 type: procedure
 id: C0038.T0030
+campaign_name:
+  ru: Создание Малороссийского генерал-губернаторства (1801–1811)
+  en: Creation of the Little Russian Governorate-General (1801–1811)
+  uk: Створення Малоросійського генерал-губернаторства (1801–1811)
 created: 2026-04-25
 modified: 2026-08-06
 version: '1.0'
 technique: T0030
+technique_name:
+  ru: Административно-территориальное деление
+  en: Administrative-Territorial Division
+  uk: Адміністративно-територіальний поділ
 people: ukrainians
 actor: G0009
 tool: S0008

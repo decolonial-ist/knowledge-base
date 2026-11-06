@@ -1,9 +1,17 @@
 type: procedure
 id: C0035.T0043
+campaign_name:
+  ru: Военная аннексия Крымского ханства (1783)
+  en: Military Annexation of the Crimean Khanate (1783)
+  uk: Військова анексія Кримського ханства (1783)
 created: 2026-04-26
 modified: 2026-07-31
 version: '1.0'
 technique: T0043
+technique_name:
+  ru: Стирание и переименование топонимов
+  en: Erasure and Renaming of Place Names
+  uk: Стирання та перейменування топонімів
 people: ukrainians
 actor: G0009
 tool: S0008

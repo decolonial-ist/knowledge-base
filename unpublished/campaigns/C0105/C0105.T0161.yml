@@ -1,9 +1,17 @@
 type: procedure
 id: C0105.T0161
+campaign_name:
+  ru: Резня в Буче (2022)
+  en: The Bucha Massacre (2022)
+  uk: Різанина в Бучі (2022)
 created: 2026-08-16
 modified: 2026-08-16
 version: '1.0'
 technique: T0161
+technique_name:
+  ru: Сексуализированное насилие
+  en: Sexualized Violence
+  uk: Сексуалізоване насильство
 people: ukrainians
 actor: G0011
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C1131.T0056
+campaign_name:
+  ru: Экономическая дискриминация и разведка территорий (1726–1728)
+  en: Economic Discrimination and Reconnaissance of Territories (1726–1728)
+  uk: Економічна дискримінація та розвідка територій (1726–1728)
 created: 2026-06-21
 modified: 2026-06-21
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: nokhchi
 actor: G0009
 tool: S0012

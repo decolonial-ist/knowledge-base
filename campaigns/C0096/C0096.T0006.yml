@@ -1,9 +1,17 @@
 type: procedure
 id: C0096.T0006
+campaign_name:
+  ru: Вмешательство в выборы и противодействие «Оранжевой революции» (2004)
+  en: Election Interference and Countering the "Orange Revolution" (2004)
+  uk: Втручання у вибори та протидія «Помаранчевій революції» (2004)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0006
+technique_name:
+  ru: Дегуманизация
+  en: Dehumanization
+  uk: Дегуманізація
 people: ukrainians
 actor: G0011
 tool: S0021

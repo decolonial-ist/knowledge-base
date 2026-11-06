@@ -1,9 +1,17 @@
 type: procedure
 id: C1182.T0100
+campaign_name:
+  ru: '«Только помилованы»: чужая власть и подавление национальной жизни чеченцев и ингушей (1965-1989)'
+  en: '"Only Pardoned": Alien Rule and the Suppression of Chechen and Ingush National Life (1965-1989)'
+  uk: '«Лише помилувані»: чужа влада і придушення національного життя чеченців та інгушів (1965-1989)'
 created: 2026-09-06
 modified: 2026-09-06
 version: '1.0'
 technique: T0100
+technique_name:
+  ru: Захват религиозных институтов
+  en: Seizure of Religious Institutions
+  uk: Захоплення релігійних інститутів
 people: nokhchi
 actor: G0010
 tool: S0008

@@ -1,9 +1,17 @@
 type: procedure
 id: C0094.T0008
+campaign_name:
+  ru: Дипломатический шантаж (речь «Котлета по-киевски» август 1991)
+  en: Diplomatic Blackmail (the "Chicken Kiev" Speech, August 1991)
+  uk: Дипломатичний шантаж (промова «Котлета по-київськи», серпень 1991)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0008
+technique_name:
+  ru: Лишение субъектности
+  en: Deprivation of Agency
+  uk: Позбавлення суб'єктності
 people: ukrainians
 actor: G0010
 tool: S0009

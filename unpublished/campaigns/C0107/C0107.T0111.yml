@@ -1,9 +1,17 @@
 type: procedure
 id: C0107.T0111
+campaign_name:
+  ru: 'Ягодное: концлагерь в школьном подвале (2022)'
+  en: 'Yahidne: A Concentration Camp in a School Basement (2022)'
+  uk: 'Ягідне: концтабір у шкільному підвалі (2022)'
 created: 2026-08-16
 modified: 2026-08-16
 version: '1.0'
 technique: T0111
+technique_name:
+  ru: Использование людей как «живого щита»
+  en: Use of People as “Human Shields”
+  uk: Використання людей як «живого щита»
 people: ukrainians
 actor: G0011
 tool: S0010

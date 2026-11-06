@@ -1,9 +1,17 @@
 type: procedure
 id: C0122.T0125
+campaign_name:
+  ru: Депортация украинских детей (с 2022)
+  en: Deportation of Ukrainian Children (from 2022)
+  uk: Депортація українських дітей (з 2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0125
+technique_name:
+  ru: Насильственное изъятие детей
+  en: Forcible Removal of Children
+  uk: Насильницьке вилучення дітей
 people: ukrainians
 actor: G0011
 tool: S0010

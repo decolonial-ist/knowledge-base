@@ -1,9 +1,17 @@
 type: procedure
 id: C0101.T0020
+campaign_name:
+  ru: 'Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)'
+  en: 'Continuation of the Russo-Ukrainian War: Armed Aggression in the Donbas (2014–2015)'
+  uk: 'Продовження російсько-української війни: Збройна агресія на Донбасі (2014–2015)'
 created: 2026-04-27
 modified: 2026-08-31
 version: '1.0'
 technique: T0020
+technique_name:
+  ru: Организация переворота
+  en: Staging a Coup
+  uk: Організація перевороту
 people: ukrainians
 actor: G0011
 tool: S0017

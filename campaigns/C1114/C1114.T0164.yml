@@ -1,9 +1,17 @@
 type: procedure
 id: C1114.T0164
+campaign_name:
+  ru: Лишение нохчи субъектности и установление чужеродного управления (1614–1616)
+  en: Deprivation of the Nokhchi of political agency and the imposition of alien governance (1614–1616)
+  uk: Позбавлення Нохчі суб'єктності та встановлення чужорідного управління (1614–1616)
 created: 2026-06-14
 modified: 2026-08-10
 version: '1.0'
 technique: T0164
+technique_name:
+  ru: Мародерство
+  en: Pillage
+  uk: Мародерство
 people: nokhchi
 actor: G0008
 tool: S0012

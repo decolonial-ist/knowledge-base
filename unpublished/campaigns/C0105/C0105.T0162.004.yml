@@ -1,9 +1,17 @@
 type: procedure
 id: C0105.T0162.004
+campaign_name:
+  ru: Резня в Буче (2022)
+  en: The Bucha Massacre (2022)
+  uk: Різанина в Бучі (2022)
 created: 2026-08-16
 modified: 2026-08-29
 version: '1.0'
 technique: T0162.004
+technique_name:
+  ru: Пытки и истязания
+  en: Torture and Abuse
+  uk: Катування та знущання
 people: ukrainians
 actor: G0011
 tool: S0010

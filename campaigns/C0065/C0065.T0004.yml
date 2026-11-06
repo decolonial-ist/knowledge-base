@@ -1,9 +1,17 @@
 type: procedure
 id: C0065.T0004
+campaign_name:
+  ru: Памятник Богдану Хмельницкому (1888)
+  en: The Bohdan Khmelnytsky Monument (1888)
+  uk: Пам'ятник Богданові Хмельницькому (1888)
 created: 2026-04-25
 modified: 2026-08-06
 version: '1.0'
 technique: T0004
+technique_name:
+  ru: Переписывание истории
+  en: Rewriting of History
+  uk: Переписування історії
 people: ukrainians
 actor: G0009
 tool: S0008

@@ -1,9 +1,17 @@
 type: procedure
 id: C0100.T0037
+campaign_name:
+  ru: 'Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)'
+  en: 'Beginning of the Russo-Ukrainian War: Armed Invasion and Occupation of Crimea (2014)'
+  uk: 'Початок російсько-української війни: Збройне вторгнення та окупація Криму (2014)'
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0037
+technique_name:
+  ru: Марионеточное правительство
+  en: Puppet Government
+  uk: Маріонетковий уряд
 people: ukrainians
 actor: G0011
 tool: S0017

@@ -1,9 +1,17 @@
 type: procedure
 id: C0099.T0015
+campaign_name:
+  ru: Срыв ассоциации с ЕС (2013–2014)
+  en: Derailing the Association with the EU (2013–2014)
+  uk: Зрив асоціації з ЄС (2013–2014)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0015
+technique_name:
+  ru: Подкуп элит
+  en: Bribery of Elites
+  uk: Підкуп еліт
 people: ukrainians
 actor: G0011
 tool: S0009

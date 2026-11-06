@@ -1,9 +1,17 @@
 type: procedure
 id: C0199.T0104
+campaign_name:
+  ru: Блокада и разрушение Мариуполя (2022)
+  en: Siege and Destruction of Mariupol (2022)
+  uk: Блокада і знищення Маріуполя (2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0104
+technique_name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
 people: ukrainians
 actor: G0011
 tool: S0010

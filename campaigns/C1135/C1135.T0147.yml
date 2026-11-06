@@ -1,9 +1,17 @@
 type: procedure
 id: C1135.T0147
+campaign_name:
+  ru: Расширение системы подкупа и принуждение горных обществ к подданству (1741–1748)
+  en: Expansion of the Bribery System and Coercion of Highland Societies into Subjecthood (1741–1748)
+  uk: Розширення системи підкупу та примус гірських суспільств до підданства (1741–1748)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0147
+technique_name:
+  ru: Принудительное оформление подданства
+  en: Forced Registration of Subjecthood
+  uk: Примусове оформлення підданства
 people: nokhchi
 actor: G0009
 tool: S0012

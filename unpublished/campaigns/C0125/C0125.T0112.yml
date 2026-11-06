@@ -1,9 +1,17 @@
 type: procedure
 id: C0125.T0112
+campaign_name:
+  ru: Разграбление оккупированных территорий (с 2022)
+  en: Plunder of the Occupied Territories (from 2022)
+  uk: Пограбування окупованих територій (з 2022)
 created: 2026-08-17
 modified: 2026-10-26
 version: '1.0'
 technique: T0112
+technique_name:
+  ru: Кража культурных ценностей
+  en: Theft of Cultural Property
+  uk: Крадіжка культурних цінностей
 people: ukrainians
 actor: G0011
 tool: S0012

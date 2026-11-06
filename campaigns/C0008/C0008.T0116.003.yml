@@ -1,9 +1,17 @@
 type: procedure
 id: C0008.T0116.003
+campaign_name:
+  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
+  en: Annexation of the Kyiv Metropolis by the Moscow Patriarchate (1685–1690)
+  uk: Анексія Київської митрополії Московським патріархатом (1685–1690)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0116.003
+technique_name:
+  ru: Запрет богослужений на родном языке
+  en: Ban on Worship in the Native Language
+  uk: Заборона богослужінь рідною мовою
 people: ukrainians
 actor: G0008
 tool: S0011

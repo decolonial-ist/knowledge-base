@@ -1,9 +1,17 @@
 type: procedure
 id: C0102.T0003
+campaign_name:
+  ru: Идеологическая подготовка к полномасштабному вторжению (2020–2021)
+  en: Ideological Preparation for the Full-Scale Invasion (2020–2021)
+  uk: Ідеологічна підготовка до повномасштабного вторгнення (2020–2021)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0003
+technique_name:
+  ru: Культивирование логики превосходства
+  en: Cultivation of a Logic of Superiority
+  uk: Культивування логіки вищості
 people: ukrainians
 actor: G0011
 tool: S0021

@@ -1,9 +1,17 @@
 type: procedure
 id: C1132.T0105
+campaign_name:
+  ru: Вооруженное восстание на равнине, экспедиция генерала Дугласа и разгром карательного отряда полковника Коха (1732)
+  en: Armed Uprising on the Plain, General Douglas's Expedition, and the Rout of Colonel Koch's Punitive Detachment (1732)
+  uk: Збройне повстання на рівнині, експедиція генерала Дугласа та розгром карального загону полковника Коха (1732)
 created: 2026-06-21
 modified: 2026-06-21
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: nokhchi
 actor: G0009
 tool: S0010

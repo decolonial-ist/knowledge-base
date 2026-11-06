@@ -1,9 +1,17 @@
 type: procedure
 id: C0104.T0022
+campaign_name:
+  ru: 'Советско-Украинская война: третье вторжение и окончательная советская оккупация (декабрь 1919 - ноябрь 1921)'
+  en: 'Soviet-Ukrainian War: Third Invasion and the Final Soviet Occupation (December 1919 - November 1921)'
+  uk: 'Радянсько-Українська війна: третє вторгнення і остаточна радянська окупація (грудень 1919 - листопад 1921)'
 created: 2026-08-16
 modified: 2026-08-29
 version: '1.0'
 technique: T0022
+technique_name:
+  ru: Террор
+  en: Terror
+  uk: Терор
 people: ukrainians
 actor: G0013
 tool: S0010

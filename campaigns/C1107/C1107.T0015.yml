@@ -1,9 +1,17 @@
 type: procedure
 id: C1107.T0015
+campaign_name:
+  ru: Подкуп элит, принуждение к подданству и взятие аманатов (1645–1658)
+  en: Bribery of Elites, Coercion into Subjecthood, and the Taking of Amanats (1645–1658)
+  uk: Підкуп еліт, примус до підданства та взяття аманатів (1645–1658)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0015
+technique_name:
+  ru: Подкуп элит
+  en: Bribery of Elites
+  uk: Підкуп еліт
 people: nokhchi
 actor: G0008
 tool: S0012

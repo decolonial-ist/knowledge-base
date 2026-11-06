@@ -1,9 +1,17 @@
 type: procedure
 id: C0078.T0057
+campaign_name:
+  ru: 'Террор голодом: Голодомор (1932–1933)'
+  en: 'Terror by Famine: The Holodomor (1932–1933)'
+  uk: 'Терор голодом: Голодомор (1932–1933)'
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0057
+technique_name:
+  ru: Эксплуатация труда
+  en: Labor Exploitation
+  uk: Експлуатація праці
 people: ukrainians
 actor: G0010
 tool: S0017

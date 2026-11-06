@@ -1,9 +1,17 @@
 type: procedure
 id: C0075.T0088
+campaign_name:
+  ru: Институциональное поглощение через «военно-политический союз» (1919–1921)
+  en: Institutional Absorption through a "Military-Political Union" (1919–1921)
+  uk: Інституційне поглинання через «військово-політичний союз» (1919–1921)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0088
+technique_name:
+  ru: Фиктивные договоры
+  en: Sham Treaties
+  uk: Фіктивні договори
 people: ukrainians
 actor: G0013
 tool: S0009

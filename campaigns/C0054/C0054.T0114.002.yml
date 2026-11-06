@@ -1,9 +1,17 @@
 type: procedure
 id: C0054.T0114.002
+campaign_name:
+  ru: Финансовая русификация школ (1978–1983)
+  en: Financial Russification of Schools (1978–1983)
+  uk: Фінансова русифікація шкіл (1978–1983)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0114.002
+technique_name:
+  ru: Финансовая дискриминация педагогов
+  en: Financial Discrimination Against Teachers
+  uk: Фінансова дискримінація педагогів
 people: ukrainians
 actor: G0010
 tool: S0008

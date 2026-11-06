@@ -1,9 +1,17 @@
 type: procedure
 id: C1161.T0057
+campaign_name:
+  ru: 'Принуждение Чечни к присяге весенним туром Фезе: аманаты с принуждённых к присяге обществ, уничтожение аулов по Джалке, штраф скотом (февраль-апрель 1837)'
+  en: 'Coercion of Chechnya into Oaths by Feze''s Spring Tour: Amanats from Communities Coerced into the Oath, Destruction of Auls along the Dzhalka, a Livestock Fine (February-April 1837)'
+  uk: 'Примушення Чечні до присяги весняним туром Фезе: аманати з примушених до присяги громад, знищення аулів по Джалці, штраф худобою (лютий-квітень 1837)'
 created: 2026-07-21
 modified: 2026-08-04
 version: '1.0'
 technique: T0057
+technique_name:
+  ru: Эксплуатация труда
+  en: Labor Exploitation
+  uk: Експлуатація праці
 people: nokhchi
 actor: G0009
 tool: S0010

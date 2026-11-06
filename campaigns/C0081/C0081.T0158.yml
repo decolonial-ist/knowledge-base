@@ -1,9 +1,17 @@
 type: procedure
 id: C0081.T0158
+campaign_name:
+  ru: Аннексия и советизация Западной Украины (1939–1941)
+  en: Annexation and Sovietization of Western Ukraine (1939–1941)
+  uk: Анексія та радянізація Західної України (1939–1941)
 created: 2026-08-05
 modified: 2026-08-05
 version: '1.0'
 technique: T0158
+technique_name:
+  ru: Маркировка территории имперскими символами
+  en: Territorial Marking with Imperial Symbols
+  uk: Маркування території імперськими символами
 people: ukrainians
 actor: G0010
 tool: S0008

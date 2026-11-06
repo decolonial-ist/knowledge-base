@@ -1,9 +1,17 @@
 type: procedure
 id: C1174.T0049
+campaign_name:
+  ru: 'Деникинский террор в Чечне: разрушенные аулы и 15 тысяч погибших (1919)'
+  en: 'Denikin''s terror in Chechnya: destroyed auls and 15 thousand dead (1919)'
+  uk: 'Денікінський терор у Чечні: зруйновані аули і 15 тисяч загиблих (1919)'
 created: 2026-08-09
 modified: 2026-08-09
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: nokhchi
 actor: G0014
 tool: S0010

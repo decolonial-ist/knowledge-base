@@ -1,9 +1,17 @@
 type: procedure
 id: C1020.T0049
+campaign_name:
+  ru: Экономическое выдавливание и демографическая накачка Кавказа (1809–1825)
+  en: Economic Squeezing-Out and Demographic Pumping of the Caucasus (1809–1825)
+  uk: Економічне видавлювання та демографічне накачування Кавказу (1809–1825)
 created: 2026-05-12
 modified: 2026-08-01
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: ukrainians
 actor: G0009
 tool: S0010

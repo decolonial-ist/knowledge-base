@@ -1,9 +1,17 @@
 type: procedure
 id: C0045.T0113.002
+campaign_name:
+  ru: Отмена Магдебургского права (1831)
+  en: Abolition of Magdeburg Rights (1831)
+  uk: Скасування Магдебурзького права (1831)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0113.002
+technique_name:
+  ru: Исключение родного языка из делопроизводства
+  en: Exclusion of the Native Language from Official Use
+  uk: Виключення рідної мови з діловодства
 people: ukrainians
 actor: G0009
 tool: S0008

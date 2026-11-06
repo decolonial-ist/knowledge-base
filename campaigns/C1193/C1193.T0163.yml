@@ -1,9 +1,17 @@
 type: procedure
 id: C1193.T0163
+campaign_name:
+  ru: Первая Русско-Чеченская война (1994–1996)
+  en: First Russian-Chechen War (1994–1996)
+  uk: Перша російсько-чеченська війна (1994–1996)
 created: 2026-10-24
 modified: 2026-10-24
 version: '1.0'
 technique: T0163
+technique_name:
+  ru: Надругательство над мёртвыми
+  en: Desecration of the Dead
+  uk: Наруга над мертвими
 people: nokhchi
 actor: G0011
 tool: S0010

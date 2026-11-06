@@ -1,9 +1,17 @@
 type: procedure
 id: C0089.T0162.004
+campaign_name:
+  ru: «Генеральный погром» правозащитников и карательная психиатрия (1972–1985)
+  en: The "General Pogrom" of Human Rights Defenders and Punitive Psychiatry (1972–1985)
+  uk: «Генеральний погром» правозахисників і каральна психіатрія (1972–1985)
 created: 2026-04-27
 modified: 2026-08-29
 version: '1.0'
 technique: T0162.004
+technique_name:
+  ru: Пытки и истязания
+  en: Torture and Abuse
+  uk: Катування та знущання
 people: ukrainians
 actor: G0010
 tool: S0022

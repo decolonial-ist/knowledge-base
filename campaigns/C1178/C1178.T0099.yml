@@ -1,9 +1,17 @@
 type: procedure
 id: C1178.T0099
+campaign_name:
+  ru: Коллективизация Чечни (1927-1936)
+  en: Collectivization of Chechnya (1927-1936)
+  uk: Колективізація Чечні (1927-1936)
 created: 2026-08-27
 modified: 2026-08-27
 version: '1.0'
 technique: T0099
+technique_name:
+  ru: Захват заложников
+  en: Hostage-Taking
+  uk: Захоплення заручників
 people: nokhchi
 actor: G0010
 tool: S0010

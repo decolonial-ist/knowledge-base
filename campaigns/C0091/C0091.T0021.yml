@@ -1,9 +1,17 @@
 type: procedure
 id: C0091.T0021
+campaign_name:
+  ru: Торможение демократических реформ и противодействие Народному Руху (1989–1990)
+  en: Stalling Democratic Reforms and Countering the People's Movement (Rukh) (1989–1990)
+  uk: Гальмування демократичних реформ і протидія Народному Руху (1989–1990)
 created: 2026-04-27
 modified: 2026-08-09
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: ukrainians
 actor: G0010
 tool: S0024

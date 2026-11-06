@@ -1,9 +1,17 @@
 type: procedure
 id: C0062.T0077
+campaign_name:
+  ru: Подавление Январского восстания (1863–1864)
+  en: Suppression of the January Uprising (1863–1864)
+  uk: Придушення Січневого повстання (1863–1864)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0077
+technique_name:
+  ru: Карательные экспедиции
+  en: Punitive Expeditions
+  uk: Каральні експедиції
 people: ukrainians
 actor: G0009
 tool: S0010

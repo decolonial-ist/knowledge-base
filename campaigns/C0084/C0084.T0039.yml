@@ -1,9 +1,17 @@
 type: procedure
 id: C0084.T0039
+campaign_name:
+  ru: Подавление сопротивления УПА и операция «Висла» (1944–1951)
+  en: Suppression of UPA Resistance and Operation "Vistula" (1944–1951)
+  uk: Придушення опору УПА та операція «Вісла» (1944–1951)
 created: 2026-04-27
 modified: 2026-08-09
 version: '1.0'
 technique: T0039
+technique_name:
+  ru: Сговор с третьей стороной за спиной народа
+  en: Collusion with a Third Party Behind the People's Back
+  uk: Змова з третьою стороною за спиною народу
 people: ukrainians
 actor: G0010
 tool: S0009

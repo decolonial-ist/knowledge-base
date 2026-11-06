@@ -1,9 +1,17 @@
 type: procedure
 id: C0061.T0049
+campaign_name:
+  ru: Крымская война и подавление «Киевской козаччины» (1853–1856)
+  en: The Crimean War and the Suppression of the "Kyiv Cossack Movement" (1853–1856)
+  uk: Кримська війна та придушення «Київської козаччини» (1853–1856)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: ukrainians
 actor: G0009
 tool: S0010

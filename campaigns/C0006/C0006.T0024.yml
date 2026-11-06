@@ -1,9 +1,17 @@
 type: procedure
 id: C0006.T0024
+campaign_name:
+  ru: Издание «Синопсиса» (1674)
+  en: Publication of the "Synopsis" (1674)
+  uk: Видання «Синопсиса» (1674)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0024
+technique_name:
+  ru: Оправдание через религию
+  en: Justification Through Religion
+  uk: Виправдання через релігію
 people: ukrainians
 actor: G0008
 tool: S0011

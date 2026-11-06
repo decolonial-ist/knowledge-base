@@ -1,4 +1,5 @@
-# После merge в main: 1) проставить modified / version изменённым сущностям (роль autostamp.gs таблицы),
+# После merge в main: 1) проставить modified / version изменённым сущностям (роль autostamp.gs таблицы)
+#    и обновить названия кампании и техники в файлах процедур (scripts/procedure_names.py),
 # 2) собрать три бандла STIX и слои Навигатора и положить их в релиз `stix` (постоянные адреса
 # releases/download/stix/<файл>), откуда их скачивает сборка сайта decolonial.ist.
 # Коммитит в main от имени github-actions; свой же коммит повторно не штампует (меняются только мета-поля).
@@ -27,13 +28,15 @@ jobs:
         run: |
           CHANGED=$(git diff --name-only HEAD~1 HEAD -- tactics techniques actors tools campaigns | grep '\.yml$' || true)
           if [ -n "$CHANGED" ]; then python scripts/stamp_meta.py $CHANGED; fi
+      - name: campaign_name / technique_name in procedures
+        run: python scripts/procedure_names.py
       - name: materials index from the archive registry
         run: python scripts/materials_index.py
       - name: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A tactics techniques actors tools campaigns MATERIALS.md
+          git add -A tactics techniques actors tools campaigns unpublished MATERIALS.md
           git diff --cached --quiet || git commit -m "meta: modified/version для изменённых сущностей"
           git push
 

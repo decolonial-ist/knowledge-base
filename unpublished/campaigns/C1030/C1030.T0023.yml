@@ -1,9 +1,17 @@
 type: procedure
 id: C1030.T0023
+campaign_name:
+  ru: Институциональный террор и фильтрационные лагеря (1994–1996)
+  en: Institutional terror and filtration camps (1994–1996)
+  uk: Інституційний терор і фільтраційні табори (1994–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0023
+technique_name:
+  ru: Система фильтрационных лагерей
+  en: Filtration Camp System
+  uk: Система фільтраційних таборів
 people: nokhchi
 actor: G0011
 tool: S0017

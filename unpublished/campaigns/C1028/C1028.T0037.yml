@@ -1,9 +1,17 @@
 type: procedure
 id: C1028.T0037
+campaign_name:
+  ru: Прокси-война и политическая дестабилизация (1993–1994)
+  en: Proxy war and political destabilization (1993–1994)
+  uk: Проксі-війна та політична дестабілізація (1993–1994)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0037
+technique_name:
+  ru: Марионеточное правительство
+  en: Puppet Government
+  uk: Маріонетковий уряд
 people: nokhchi
 actor: G0011
 tool: S0012

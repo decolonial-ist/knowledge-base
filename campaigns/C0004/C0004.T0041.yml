@@ -1,9 +1,17 @@
 type: procedure
 id: C0004.T0041
+campaign_name:
+  ru: Переяславские статьи (1659)
+  en: Pereiaslav Articles (1659)
+  uk: Переяславські статті (1659)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0041
+technique_name:
+  ru: Подселение чиновников и военных
+  en: Implantation of Officials and Military Personnel
+  uk: Підселення чиновників і військових
 people: ukrainians
 actor: G0008
 tool: S0010

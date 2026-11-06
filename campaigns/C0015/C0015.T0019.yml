@@ -1,9 +1,17 @@
 type: procedure
 id: C0015.T0019
+campaign_name:
+  ru: Полтавская битва и окончательный разгром Гетманщины (1709)
+  en: The Battle of Poltava and the Final Defeat of the Hetmanate (1709)
+  uk: Полтавська битва та остаточний розгром Гетьманщини (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: ukrainians
 actor: G0008
 tool: S0010

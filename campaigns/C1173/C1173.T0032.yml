@@ -1,9 +1,17 @@
 type: procedure
 id: C1173.T0032
+campaign_name:
+  ru: 'Колониальная нефть: изъятие грозненских недр и рента казачьего войска (1845-1917)'
+  en: 'Colonial oil: the seizure of the Grozny subsoil and the rent of the Cossack host (1845-1917)'
+  uk: 'Колоніальна нафта: вилучення грозненських надр і рента козацького війська (1845-1917)'
 created: 2026-08-05
 modified: 2026-08-05
 version: '1.0'
 technique: T0032
+technique_name:
+  ru: Правовая сегрегация населения
+  en: Legal Segregation of the Population
+  uk: Правова сегрегація населення
 people: nokhchi
 actor: G0009
 tool: S0012

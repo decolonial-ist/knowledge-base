@@ -1,9 +1,17 @@
 type: procedure
 id: C0041.T0057
+campaign_name:
+  ru: Введение военных поселений и ликвидация Задунайской Сечи (1817–1828)
+  en: Introduction of Military Settlements and Liquidation of the Danubian Sich (1817–1828)
+  uk: Запровадження військових поселень і ліквідація Задунайської Січі (1817–1828)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0057
+technique_name:
+  ru: Эксплуатация труда
+  en: Labor Exploitation
+  uk: Експлуатація праці
 people: ukrainians
 actor: G0009
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C0080.T0128
+campaign_name:
+  ru: Национальные операции НКВД и институциональная русификация (1937–1939)
+  en: NKVD National Operations and Institutional Russification (1937–1939)
+  uk: Національні операції НКВС та інституційна русифікація (1937–1939)
 created: 2026-04-27
 modified: 2026-10-27
 version: '1.0'
 technique: T0128
+technique_name:
+  ru: Ликвидация национальных общественных организаций
+  en: Liquidation of National Civic Organizations
+  uk: Ліквідація національних громадських організацій
 people: ukrainians
 actor: G0010
 tool: S0008

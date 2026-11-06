@@ -1,9 +1,17 @@
 type: procedure
 id: C1177.T0077
+campaign_name:
+  ru: 'Разоружение Чечни: войсковая операция с артобстрелами и бомбардировками аулов (1925)'
+  en: 'The disarmament of Chechnya: a military operation with artillery shelling and bombing of auls (1925)'
+  uk: 'Роззброєння Чечні: військова операція з артобстрілами та бомбардуваннями аулів (1925)'
 created: 2026-08-13
 modified: 2026-08-13
 version: '1.0'
 technique: T0077
+technique_name:
+  ru: Карательные экспедиции
+  en: Punitive Expeditions
+  uk: Каральні експедиції
 people: nokhchi
 actor: G0010
 tool: S0010

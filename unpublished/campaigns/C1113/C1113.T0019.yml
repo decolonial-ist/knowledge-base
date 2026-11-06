@@ -1,9 +1,17 @@
 type: procedure
 id: C1113.T0019
+campaign_name:
+  ru: '[НЕ ПОДТВЕРЖДЕНО — ждёт первоисточника] Военная интервенция и разгром войск Бутурлина (1604–1605) [НЕ ПОДТВЕРЖДЕНО — ждёт первоисточника]'
+  en: '[UNCONFIRMED — awaiting primary source] Military intervention and the rout of Buturlin''s forces (1604–1605) [UNCONFIRMED — awaiting primary source]'
+  uk: '[НЕ ПІДТВЕРДЖЕНО — очікує першоджерела] Воєнна інтервенція та розгром військ Бутурліна (1604–1605) [НЕ ПІДТВЕРДЖЕНО — очікує першоджерела]'
 created: 2026-06-13
 modified: 2026-06-13
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: nokhchi
 actor: G0008
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C0014.T0105
+campaign_name:
+  ru: Ликвидация Запорожской Сечи (1709)
+  en: Liquidation of the Zaporozhian Sich (1709)
+  uk: Ліквідація Запорозької Січі (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: ukrainians
 actor: G0008
 tool: S0010

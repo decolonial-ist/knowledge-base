@@ -1,9 +1,17 @@
 type: procedure
 id: C1027.T0108
+campaign_name:
+  ru: Экономическая и транспортная блокада Ичкерии (1992–1994)
+  en: Economic and transport blockade of Ichkeria (1992–1994)
+  uk: Економічна та транспортна блокада Ічкерії (1992–1994)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0108
+technique_name:
+  ru: Экономическая блокада
+  en: Economic Blockade
+  uk: Економічна блокада
 people: nokhchi
 actor: G0011
 tool: S0008

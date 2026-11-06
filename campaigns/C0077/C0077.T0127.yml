@@ -1,9 +1,17 @@
 type: procedure
 id: C0077.T0127
+campaign_name:
+  ru: Насильственная коллективизация и раскулачивание (1928–1932)
+  en: Forced Collectivization and Dekulakization (1928–1932)
+  uk: Насильницька колективізація та розкуркулення (1928–1932)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0127
+technique_name:
+  ru: Депортация
+  en: Deportation
+  uk: Депортація
 people: ukrainians
 actor: G0010
 tool: S0017

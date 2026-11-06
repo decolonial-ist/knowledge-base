@@ -1,9 +1,17 @@
 type: procedure
 id: C1156.T0105
+campaign_name:
+  ru: 'Тайная разведка Чечни топографами Розена и разорение Зандака отрядом Пулло: пленение 31 жителя и угон скота (1835-1836)'
+  en: 'Covert reconnaissance of Chechnya by Rosen''s topographers and the devastation of Zandak by Pullo''s detachment: capture of 31 inhabitants and seizure of livestock (1835-1836)'
+  uk: 'Таємна розвідка Чечні топографами Розена та розорення Зандака загоном Пулло: полон 31 жителя і викрадення худоби (1835-1836)'
 created: 2026-07-03
 modified: 2026-08-07
 version: '1.0'
 technique: T0105
+technique_name:
+  ru: Тотальное уничтожение инфраструктуры
+  en: Total Destruction of Infrastructure
+  uk: Тотальне знищення інфраструктури
 people: nokhchi
 actor: G0009
 tool: S0010

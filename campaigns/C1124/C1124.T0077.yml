@@ -1,9 +1,17 @@
 type: procedure
 id: C1124.T0077
+campaign_name:
+  ru: Карательные рейды и экономическое удушение нохчи (1691–1700)
+  en: Punitive Raids and the Economic Strangulation of the Nokhchi (1691–1700)
+  uk: Каральні рейди та економічне удушення Нохчі (1691–1700)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0077
+technique_name:
+  ru: Карательные экспедиции
+  en: Punitive Expeditions
+  uk: Каральні експедиції
 people: nokhchi
 actor: G0008
 tool: S0010

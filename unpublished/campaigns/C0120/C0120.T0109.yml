@@ -1,9 +1,17 @@
 type: procedure
 id: C0120.T0109
+campaign_name:
+  ru: Псевдореферендумы и аннексия четырёх областей (2022)
+  en: Sham Referendums and the Annexation of Four Provinces (2022)
+  uk: Псевдореферендуми та анексія чотирьох областей (2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0109
+technique_name:
+  ru: Имитация народного волеизъявления
+  en: Sham Expression of Popular Will
+  uk: Імітація народного волевиявлення
 people: ukrainians
 actor: G0011
 tool: S0010

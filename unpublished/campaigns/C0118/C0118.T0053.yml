@@ -1,9 +1,17 @@
 type: procedure
 id: C0118.T0053
+campaign_name:
+  ru: Оккупационный режим Запорожской области (с 2022)
+  en: The Occupation Regime in Zaporizhzhia Province (from 2022)
+  uk: Окупаційний режим Запорізької області (з 2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0053
+technique_name:
+  ru: Похищение людей
+  en: Abduction of People
+  uk: Викрадення людей
 people: ukrainians
 actor: G0011
 tool: S0010

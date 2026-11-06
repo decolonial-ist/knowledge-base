@@ -1,9 +1,17 @@
 type: procedure
 id: C0098.T0137
+campaign_name:
+  ru: Дипломатическая атака против расширения НАТО (2008)
+  en: Diplomatic Attack Against NATO Enlargement (2008)
+  uk: Дипломатична атака проти розширення НАТО (2008)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0137
+technique_name:
+  ru: Дезинформация
+  en: Disinformation
+  uk: Дезінформація
 people: ukrainians
 actor: G0011
 tool: S0021

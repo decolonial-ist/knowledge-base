@@ -1,9 +1,17 @@
 type: procedure
 id: C1130.T0041
+campaign_name:
+  ru: Возведение крепости Святого Креста и принудительное переселение (1722–1724)
+  en: Construction of the Holy Cross Fortress and Forced Resettlement (1722–1724)
+  uk: Зведення фортеці Святого Хреста та примусове переселення (1722–1724)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0041
+technique_name:
+  ru: Подселение чиновников и военных
+  en: Implantation of Officials and Military Personnel
+  uk: Підселення чиновників і військових
 people: nokhchi
 actor: G0009
 tool: S0025

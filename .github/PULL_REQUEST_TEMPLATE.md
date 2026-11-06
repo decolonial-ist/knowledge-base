@@ -12,4 +12,4 @@
 
 - [ ] Текст читается без исторической подготовки, фразы короткие / Текст читається без історичної підготовки, фрази короткі / The text reads without any background in history, sentences are short
 - [ ] Каждый новый факт со сноской / Кожен новий факт зі зноскою / Every new fact carries a citation
-- [ ] Поля created / modified / version не тронуты / Поля created / modified / version не змінені / Fields created / modified / version untouched
+- [ ] Поля created / modified / version / campaign_name / technique_name не тронуты / Поля created / modified / version / campaign_name / technique_name не змінені / Fields created / modified / version / campaign_name / technique_name untouched

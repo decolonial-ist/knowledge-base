@@ -1,9 +1,17 @@
 type: procedure
 id: C1152.T0121
+campaign_name:
+  ru: 'Выжигание плоскостной Чечни экспедицией Вельяминова: снос сёл от Сунжи до Маиртупа, захват семьи Астемира, коллективные взыскания с чеченских сёл, рубка бегущих жителей Дзулгай-Юрта и истребление зимних запасов (1830-1831)'
+  en: 'Burning of Lowland Chechnya by Velyaminov''s Expedition: Demolition of Villages from the Sunzha to Mairtup, Seizure of Astemir''s Family, Collective Penalties Imposed on Chechen Villages, the Cutting Down of Fleeing Inhabitants of Dzulgai-Yurt, and Destruction of Winter Stores (1830-1831)'
+  uk: 'Випалювання рівнинної Чечні експедицією Вельямінова: знесення сіл від Сунжі до Маїртупа, захоплення сім''ї Астемира, колективні стягнення з чеченських сіл, рубання жителів Дзулгай-Юрта, які тікали, та винищення зимових запасів (1830-1831)'
 created: 2026-07-03
 modified: 2026-07-03
 version: '1.0'
 technique: T0121
+technique_name:
+  ru: Искусственный голод
+  en: Artificial Famine
+  uk: Штучний голод
 people: nokhchi
 actor: G0009
 tool: S0010

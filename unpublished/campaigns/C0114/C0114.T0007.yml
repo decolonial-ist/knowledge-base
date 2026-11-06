@@ -1,9 +1,17 @@
 type: procedure
 id: C0114.T0007
+campaign_name:
+  ru: Ракетный удар по Виннице (2022)
+  en: Missile Strike on Vinnytsia (2022)
+  uk: Ракетний удар по Вінниці (2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0007
+technique_name:
+  ru: Навязывание своей картины реальности
+  en: Imposition of Its Own Picture of Reality
+  uk: Нав'язування власної картини реальності
 people: ukrainians
 actor: G0011
 tool: S0010
