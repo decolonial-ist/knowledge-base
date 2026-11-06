@@ -14,7 +14,15 @@ technique_name:
   ru: Законодательный запрет родного языка
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The ruler''s direct decree against the very language of the local population in print: the same decree of Peter I ordered books to be checked against Muscovite ones, "so that there be no discord or distinct dialect in them"(Citation: 143).'

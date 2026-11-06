@@ -14,7 +14,15 @@ technique_name:
   ru: Правовая сегрегация населения
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The official classing of the indigenous population as aliens: Stolypin prescribed to the governors to refuse the registration of "any alien societies whatsoever, including Ukrainian and Jewish ones, regardless of the aims they pursue"(Citation: 160).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Ограничение суверенитета
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'Depriving the autonomy of control over its own administrative and economic life: "direct control over the military-administrative and financial-economic life of Ukraine passed into the hands of the tsarist voivodes"(Citation: 24) – the sovereign functions of the hetman''s authority passed to representatives of the metropole.'

@@ -14,7 +14,15 @@ technique_name:
   ru: Установление чужеродного управления
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The occupation administration of the Tsardom of Muscovy maintained the regime depriving the subordinated societies of the Nokhchi (the Okochans) of autonomy, officially formalizing the transfer of power over them to a new feudal lord loyal to the metropole: in 1661 Tsar Alexei Mikhailovich issued a charter of grant to the Kabardian prince Kaspulat Mutsalovich Cherkassky, instructing him «to be prince over the Okochans and over the Cherkas who serve us, the great sovereign, on the Terek, and to administer and judge them in military organization and in all our affairs»(Citation: 82).'

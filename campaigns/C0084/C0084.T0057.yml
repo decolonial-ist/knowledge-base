@@ -14,7 +14,15 @@ technique_name:
   ru: Эксплуатация труда
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'The use of captured resistance members and deportees as free labor: the tasks of the GULAG included "using them as cheap labor and transferring them, as needed, from place to place"(Citation: 186); deportees from Western Ukraine were sent to special settlements and hard labor - in the summer of 1944 alone "more than 17,000 people were carried off to Krasnoyarsk Krai"(Citation: 191).'

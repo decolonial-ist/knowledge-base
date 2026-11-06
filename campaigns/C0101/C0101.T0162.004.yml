@@ -14,7 +14,15 @@ technique_name:
   ru: Пытки и истязания
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: |-

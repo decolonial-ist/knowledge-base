@@ -14,7 +14,15 @@ technique_name:
   ru: Дегуманизация
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The government of the Russian Empire deliberately constructed an image of the Indigenous population as criminal savages: historian Michael Khodarkovsky records that in administration documents the highlanders were labeled as "inconstant and treacherous," while their actions were explained by references to their "predatory craft, to which they are predisposed by their very nature and upbringing"(Citation: 71).'

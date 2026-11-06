@@ -14,7 +14,15 @@ technique_name:
   ru: Аннексия территорий
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The official annexation of the occupied lands: the western Ukrainian lands were incorporated into the USSR under the treaty with Germany of September 28, 1939(Citation: 194), and "after the Red Army occupied Bessarabia and Northern Bukovyna at the end of June 1940, on August 2, 1940 the Supreme Soviet of the USSR annexed Northern Bukovyna and the Khotyn, Akkerman, and Izmail districts of Bessarabia to the Ukrainian SSR"(Citation: 185).'

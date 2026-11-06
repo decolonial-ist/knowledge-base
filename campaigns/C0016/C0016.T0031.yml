@@ -14,7 +14,15 @@ technique_name:
   ru: Ограничение суверенитета
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'Entrenchment of tsarist control over the autonomy''s foreign policy: the articles "fully preserved the previously established control of the tsarist regime over… foreign policy"(Citation: 196).'

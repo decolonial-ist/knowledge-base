@@ -14,7 +14,15 @@ technique_name:
   ru: Карательные экспедиции
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The use of regular troops to brutally suppress the unrest of the deceived population: the 1817 uprising of the Buh Cossacks against being turned into military settlers was crushed by four regiments - over 10,000 soldiers with artillery; the rebels were cut down with sabres, drowned in the Southern Buh, and flogged with whips(Citation: 185).'

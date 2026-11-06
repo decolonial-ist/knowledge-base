@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The use of Ukrainians within the imperial army in large-scale wars of conquest in the Caucasus and Central Asia – recruit conscription had extended to the Ukrainian governorates since the liquidation of the autonomy(Citation: 196).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Эксплуатация труда
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The order of Colonel Lokhvitsky of 17 July 1877 for the Cheberloy uchastok obliged the punished themselves to cut a road for the troops into their own mountains: "the entire uchastok is to be obliged right now, within the very shortest time, to make a wide forest clearing (proseka) from the Bosoevskaya mountain to the Sharo-Argun river over a stretch of upwards of 6 versts" (a verst is slightly over a kilometer)(Citation: 253).'

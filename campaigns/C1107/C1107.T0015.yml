@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The occupation administration handed out privileges and transferred to loyal Nokhchi leaders power over dependent people in order to win them over to its side: the register of cases of the Posolsky Prikaz for 1645 records a petition from the serving Okotsk murza Chepan Kokhostrov to Tsar Mikhail Fedorovich and a report extract by the central apparatus «on granting him an increase to his salary and possession of the uzdens and «people» of his brother, murza Albir Kokhostrov»(Citation: 82).'

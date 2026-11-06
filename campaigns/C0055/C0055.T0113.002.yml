@@ -14,7 +14,15 @@ technique_name:
   ru: Исключение родного языка из делопроизводства
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0020
+tool_name:
+  en: Controlled Opposition
+  uk: Підконтрольна опозиція
+  ru: Подконтрольная оппозиция
 contributors: []
 description:
   en: 'An attempt to legalize the marginalization of the state language in the regions: the law "On the Principles of State Language Policy" (the Kivalov-Kolesnichenko law) allowed record-keeping to be transferred to "regional languages," effectively entrenching the dominance of Russian in the Russified regions(Citation: 198).'

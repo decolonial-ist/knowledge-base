@@ -14,7 +14,15 @@ technique_name:
   ru: Поддержка сепаратизма
 people: ukrainians
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'Political and military support for local radicals (the Artem group) in proclaiming a republic not subordinate to Kyiv(Citation: 22).'

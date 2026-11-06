@@ -14,7 +14,15 @@ technique_name:
   ru: Лишение субъектности
 people: ukrainians
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'De facto liquidation of the Ukrainian army (the disbandment of the Ukrainian Front) and the transformation of the government of the Ukrainian SSR into a nominal appendage of the Russian administrative machine(Citation: 22).'

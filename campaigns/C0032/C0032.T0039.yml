@@ -14,7 +14,15 @@ technique_name:
   ru: Сговор с третьей стороной за спиной народа
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The signing of the Treaty of Küçük Kaynarca: the diplomatic severing of Crimea from the Ottoman Empire through fictitious "independence" – "neither the Russian court nor the Ottoman Porte shall interfere in the election and elevation of the said khan, nor in their domestic, political, civil, and internal affairs under any pretext"(Citation: 146) – in preparation for the subsequent annexation.'

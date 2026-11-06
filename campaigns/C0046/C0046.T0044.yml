@@ -14,7 +14,15 @@ technique_name:
   ru: Уничтожение локальных систем знаний
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The liquidation of education in the native language: in 1859–1862 the intelligentsia and students founded 111 Sunday schools in Ukraine to teach adults literacy, with instruction conducted in Ukrainian; in 1862 the authorities closed these schools "for the alleged presence of revolutionary propaganda"(Citation: 24).'

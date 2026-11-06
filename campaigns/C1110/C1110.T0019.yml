@@ -14,7 +14,15 @@ technique_name:
   ru: Военная интервенция
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The occupation administration systematically brought in regular troops to maintain the garrison: historians A. S. Kulikov and V. A. Runov note that in the early 17th century «the garrison numbered more than a thousand streltsy and Cossacks»(Citation: 65).'

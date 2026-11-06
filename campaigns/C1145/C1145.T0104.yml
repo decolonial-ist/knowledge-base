@@ -14,7 +14,15 @@ technique_name:
   ru: Массовые убийства гражданских
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The imperial historian Potto describes how, on the night of March 6, 1820, the Greben Cossack regiment “burst without resistance into the aul [Topli], still sunk in deep sleep,” the Cossacks “rushed through the saklias with daggers,” and “part of the inhabitants were slaughtered before they could rise from their beds”(Citation: 75).'

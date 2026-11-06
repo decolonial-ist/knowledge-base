@@ -14,7 +14,15 @@ technique_name:
   ru: Фабрикация преступников
 people: nokhchi
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: |-

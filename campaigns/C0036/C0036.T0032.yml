@@ -14,7 +14,15 @@ technique_name:
   ru: Правовая сегрегация населения
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0024
+tool_name:
+  en: Police Apparatus
+  uk: Поліцейський апарат
+  ru: Полицейский аппарат
 contributors: []
 description:
   en: 'The introduction of territorial discrimination: by the decree of 1791, the Jewish population''s right to burgher and merchant status was confined to specific viceroyalties – Ekaterinoslav and Taurida(Citation: 150) – the legal foundation of the future Pale of Settlement, which confined the area of residence and economic activity to the colonized governorates.'

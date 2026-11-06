@@ -14,7 +14,15 @@ technique_name:
   ru: Финансовое стимулирование ассимиляторов
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The introduction of bonuses for the policy of denationalization: by decrees of the tsarist administration of 1869 and 1886, officials "in the ten South-Western governorates - persons of Russian origin, excluding, however, local natives" - were assigned bonuses for successes in the Russification of Ukraine(Citation: 419) - part of the authorities'' systematic plans to strengthen the "Russian assimilatory potential" of the Western krai after the Polish uprising of 1863, which included material benefits for Russian officials and teachers(Citation: 418).'

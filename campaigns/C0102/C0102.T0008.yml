@@ -14,7 +14,15 @@ technique_name:
   ru: Лишение субъектности
 people: ukrainians
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The official denial of the Ukrainian nation''s right to independent statehood: the article by the head of the Russian state declares outright that "Ukraine''s genuine sovereignty is possible precisely in partnership with Russia," while "the wall that has arisen in recent years between Russia and Ukraine" is declared a split of "between parts of what is essentially one historical and spiritual space"(Citation: 245).'

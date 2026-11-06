@@ -14,7 +14,15 @@ technique_name:
   ru: Военная интервенция
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The occupation administration of the Tsardom of Muscovy systematically brought armed detachments into the lands of the Nokhchi to hold the bridgehead: the compiler of the collection of documents E. N. Kusheva indicates that at the site of the fortress, "by order of the Terek voivodes, a detachment of streltsy and Cossacks was permanently stationed"(Citation: 82), and during the siege of 1653 it held "Russian service men, Terek atamans, and Cossacks"(Citation: 82).'

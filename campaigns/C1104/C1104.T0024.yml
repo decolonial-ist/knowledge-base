@@ -14,7 +14,15 @@ technique_name:
   ru: Оправдание через религию
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The government of the Tsardom of Muscovy used religious identity and the concept of protecting co-religionists as ideological cover for military expansion: historian Michael Khodarkovsky states that the diplomatic apparatus positioned the tsar as a "universal Christian ruler who ''upheld the true Christian faith''"(Citation: 70), while invasions were motivated by a "divine obligation to rescue Orthodox Christians from infidel captivity"(Citation: 70); as a result, as historian Michael Khodarkovsky summarizes, in the advance into new territories "Moscow''s military and political interests could no longer be separated from the ideological and theological rhetoric of expansion"(Citation: 70), because of which the North Caucasus "became a religious frontier"(Citation: 71).'

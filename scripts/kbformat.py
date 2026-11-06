@@ -37,9 +37,11 @@ def dump_yaml(data) -> str:
 
 
 # Порядок полей в начале файла (куратор 06.11.2026: название кампании сразу за id, название техники
-# сразу за technique - человек видит, о чём текст, не открывая другие файлы). Поля, которых тут нет,
+# сразу за technique, названия актора и инструмента за actor и tool - человек видит, о чём текст,
+# не открывая другие файлы). Поля, которых тут нет,
 # идут дальше в том порядке, в каком были.
-FIELD_ORDER = ("type", "id", "campaign_name", "created", "modified", "version", "technique", "technique_name")
+FIELD_ORDER = ("type", "id", "campaign_name", "created", "modified", "version", "technique", "technique_name",
+               "people", "actor", "actor_name", "tool", "tool_name")
 
 
 def order_fields(doc: dict) -> dict:

@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'To secure the political subordination of the Nokhchi elite, the administration used financial incentives: historian Murat Yasar points out that «the signing of the shert went hand in hand with monetary allowances and gifts that the tsar gave to local rulers»(Citation: 72).'

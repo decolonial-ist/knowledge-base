@@ -14,7 +14,15 @@ technique_name:
   ru: Сговор с третьей стороной за спиной народа
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'The diplomatic collusion of the great powers behind the backs of the peoples of the dismembered republic: "Russia carried out the second partition of Poland jointly with Prussia"(Citation: 195); all three monarchies took part in the third – the fate of the Right Bank was decided in St. Petersburg, Berlin, and Vienna.'

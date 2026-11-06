@@ -14,7 +14,15 @@ technique_name:
   ru: Эксплуатация труда
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The use of cheap labor at the mines and plants under conditions of harsh exploitation: "Initially the majority of miners were seasonal workers"(Citation: 213) – without rights, without settlement, worked to exhaustion.'

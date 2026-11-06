@@ -14,7 +14,15 @@ technique_name:
   ru: Оправдание через религию
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0011
+tool_name:
+  en: Moscow Patriarchate
+  uk: Московський патріархат
+  ru: Московский патриархат
 contributors: []
 description:
   en: 'The annexation of the metropolitanate was disguised as the protection of co-religionists: the reform was carried out "relying on the Orthodox movement against the Turkish conquerors"(Citation: 3), and "Golitsyn''s main project concerning Ukraine… became the reform of the Ukrainian Orthodox church, or rather – the subordination of the Kyiv metropolitanate to the Moscow patriarch"(Citation: 3)(Citation: 4).'

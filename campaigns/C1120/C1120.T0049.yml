@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительная мобилизация
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The occupation administration of Tersky Town mobilized the metropole''s subordinate allies: in a petition to Tsar Mikhail Fyodorovich, the Kabardian prince Sholokh reported that «the voivode Mikita Dmitreevich Velyaminov sent me... with my father on your sovereign''s service... against your sovereign''s disobedient ones — the Michkiz people, against their kabaks»(Citation: 82).'

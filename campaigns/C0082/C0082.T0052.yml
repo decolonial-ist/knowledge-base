@@ -14,7 +14,15 @@ technique_name:
   ru: Изъятие ресурсов
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The total removal of industrial equipment and food supplies into the interior of the USSR: "550 industrial facilities were moved into the interior of the USSR (190 of all-Union and 360 of republican subordination)"; "From the Right Bank to the left bank of the Dnipro were ferried 4,498 tractors, 680 combines, 690 motor vehicles"(Citation: 189).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Массовые убийства гражданских
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0024
+tool_name:
+  en: Police Apparatus
+  uk: Поліцейський апарат
+  ru: Полицейский аппарат
 contributors: []
 description:
   en: |-

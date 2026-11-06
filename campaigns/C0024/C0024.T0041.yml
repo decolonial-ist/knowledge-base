@@ -14,7 +14,15 @@ technique_name:
   ru: Подселение чиновников и военных
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Expansion of the military occupation of the autonomy: in addition to reinforcing the garrisons of Kyiv, Chernihiv, Pereiaslav, and Nizhyn, "Russian military garrisons headed by voivodes were introduced into Poltava, Kremenchuk, Novhorod-Siverskyi, Oster, Kaniv, and other cities, as well as into Kodak in the Liberties of the Zaporozhian Host"(Citation: 24) – the upkeep of the troops was placed on Ukrainian taxpayers.'

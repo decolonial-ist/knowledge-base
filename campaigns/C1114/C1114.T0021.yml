@@ -14,7 +14,15 @@ technique_name:
   ru: Нейтрализация оппозиции
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The appointed occupation administration used unlawful arrests to suppress the resisting Indigenous population: a petition submitted to Tsar Mikhail Fyodorovich by the service Okochans of the Terek town stated that the Kabardian prince Sunchaley Yanglychevich Cherkassky «orders us to be thrown into prison and beaten with the knout without your sovereign knowledge and without guilt»(Citation: 92)(Citation: 82).'

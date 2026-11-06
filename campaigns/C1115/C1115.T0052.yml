@@ -14,7 +14,15 @@ technique_name:
   ru: Изъятие ресурсов
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'Representatives of the metropole confiscated the personal property of a deceased Nokhchi delegate into the state treasury: a memorandum from the Posolsky Prikaz to the Prikaz of the Kazan Palace prescribed an investigation into the death of the drowned Okotsky murza Kokhostrov Biytemirov, while of what was found they «took his clothing and all his goods into our treasury»(Citation: 82).'

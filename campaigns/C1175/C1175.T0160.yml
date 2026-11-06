@@ -14,7 +14,15 @@ technique_name:
   ru: Фиктивные суды
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'From 10 January 1906 the Russian Empire introduced field courts-martial in the Terek oblast - to them were handed over "...persons who have committed murder, brigandage, robbery and attack on a sentry or military guard, as well as armed resistance to the authorities and attack on the ranks of the troops and the police and on all officials in general..."; during the work of these courts, until 19 April 1907, 195 people in the Caucasus were sentenced to death and another 47 condemned to katorga(Citation: 125).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Законодательный запрет родного языка
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'A total legislative ban on the language: "Not to permit the import into the empire… of any books whatsoever published abroad in the Little Russian dialect"; "To forbid likewise any stage performances, texts to musical scores, and public readings in the same dialect"(Citation: 153).'

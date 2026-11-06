@@ -14,7 +14,15 @@ technique_name:
   ru: Уничтожение исторической памяти
 people: nokhchi
 actor: G0011
+actor_name:
+  en: Russian Federation
+  uk: Російська Федерація
+  ru: Российская Федерация
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'Destruction of the National Archive of the Chechen Republic (87% of its holdings perished), the Chechen National Ethnographic Museum, and the Research Institute of the Humanities as a result of hostilities(Citation: 27).'

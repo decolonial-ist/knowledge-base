@@ -14,7 +14,15 @@ technique_name:
   ru: Захват религиозных институтов
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The liquidation of the independent spiritual structure on the Right Bank in 1839: "in connection with the tsarist regime''s liquidation of the Union in this region (1839), the monastery was closed, and its buildings destroyed"(Citation: 196).'

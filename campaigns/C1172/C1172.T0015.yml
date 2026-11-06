@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: nokhchi
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The starshina (headman) of Shali, Borshchik Khambulatov, who organized the repulse of the insurgents in April 1877, "was granted the rank of ensign of the militia and an annual salary of 600 rubles, and received a lifelong pension - 100 rubles a year"(Citation: 125); historian A. I. Ismailova puts the pension at "about 400 r. a year"(Citation: 253).'

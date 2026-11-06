@@ -14,7 +14,15 @@ technique_name:
   ru: Переписывание истории
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The government of the Tsardom of Muscovy fabricated historical narratives to provide legal justification for the invasion of new territories: historian Michael Khodarkovsky points out that in diplomatic correspondence officials deliberately constructed fictitious claims that the Indigenous peoples of the Caucasus had allegedly, since ancient times, been Muscovite "subjects in the Riazan region, who then fled from Riazan and settled in the mountains"(Citation: 70).'

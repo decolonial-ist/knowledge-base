@@ -14,7 +14,15 @@ technique_name:
   ru: Военная интервенция
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The occupation administration of the Tsardom of Muscovy brought in a large grouping of regular troops: historian M. M. Ibragimov points out that «in 1604 he dispatched 10 000 streltsy to the Caucasus»(Citation: 86), while historian E. N. Kusheva notes that «the campaign of 1604-1605 was undertaken with quite considerable forces»(Citation: 83).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Военная интервенция
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The deployment of troops to forcibly suppress the liberation movement: the detachments created by the insurgents "were routed by the tsarist troops in April–May 1831"(Citation: 195).'

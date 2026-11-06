@@ -14,7 +14,15 @@ technique_name:
   ru: Принудительное оформление подданства
 people: nokhchi
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0012
+tool_name:
+  en: Occupation and Controlled Administrations
+  uk: Окупаційні та підконтрольні адміністрації
+  ru: Оккупационные и подконтрольные администрации
 contributors: []
 description:
   en: 'The central authorities of the Tsardom of Muscovy used an appointed ruler for the legal subordination of the region: in 1676 the Posolsky Prikaz sent an instruction to the Kabardian prince Kaspulat Mutsalovich Cherkassky on the necessity of arriving at the Terek town «to administer the oath of the population of the North Caucasus to Tsars Ivan and Peter Alekseevich»(Citation: 92).'

@@ -14,7 +14,15 @@ technique_name:
   ru: Лингвистическая ассимиляция
 people: ukrainians
 actor: G0010
+actor_name:
+  en: USSR
+  uk: СРСР
+  ru: СССР
 tool: S0008
+tool_name:
+  en: Government
+  uk: Уряд
+  ru: Правительство
 contributors: []
 description:
   en: 'The forced orthography reform of 1933, aimed at artificially bringing Ukrainian grammar and terminology closer to the Russian language(Citation: 22).'

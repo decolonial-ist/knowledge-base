@@ -14,7 +14,15 @@ technique_name:
   ru: Аннексия территорий
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0010
+tool_name:
+  en: Regular Army
+  uk: Регулярна армія
+  ru: Регулярная армия
 contributors: []
 description:
   en: 'The seizure and incorporation into the empire of Right-Bank Ukraine, Volhynia, and Podillia: Russia received "the Kyiv, Bratslav, and Podillia voivodeships and the eastern half of the Volhynian voivodeship," and under the third partition – "the western part of the Volhynian voivodeship, the western parts of the Kholm land and the Belz voivodeship"(Citation: 195).'

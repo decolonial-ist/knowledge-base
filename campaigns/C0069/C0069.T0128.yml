@@ -14,7 +14,15 @@ technique_name:
   ru: Ликвидация национальных общественных организаций
 people: ukrainians
 actor: G0009
+actor_name:
+  en: Russian Empire
+  uk: Російська імперія
+  ru: Российская Империя
 tool: S0017
+tool_name:
+  en: Secret Police and Security Services
+  uk: Таємна поліція та Спецслужби
+  ru: Тайная полиция и Спецслужбы
 contributors: []
 description:
   en: 'The forcible suppression of protests and repressive measures against national self-organization of the same period: Stolypin''s "instruction to the governors… demanding a halt to the registration of ''alien,'' including Ukrainian, national cultural-educational societies"(Citation: 196).'

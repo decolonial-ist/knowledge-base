@@ -14,7 +14,15 @@ technique_name:
   ru: Подкуп элит
 people: ukrainians
 actor: G0008
+actor_name:
+  en: Tsardom of Muscovy
+  uk: Московське царство
+  ru: Московское Царство
 tool: S0009
+tool_name:
+  en: Diplomacy
+  uk: Дипломатія
+  ru: Дипломатия
 contributors: []
 description:
   en: 'To guarantee acceptance of the treaty''s enslaving terms, the tsardom bribed the local starshyna with guarantees that they would keep their offices, placing the elite''s personal ambitions above national ones: "the hetman shall not remove anyone of the general starshyna from office without the will and decree of their most serene tsarist majesty..."(Citation: 4).'

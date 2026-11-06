@@ -14,7 +14,15 @@ technique_name:
   ru: Имитация народного волеизъявления
 people: ukrainians
 actor: G0013
+actor_name:
+  en: Soviet Russia (RSFSR)
+  uk: Радянська Росія (РРФСР)
+  ru: Советская Россия (РСФСР)
 tool: S0020
+tool_name:
+  en: Controlled Opposition
+  uk: Підконтрольна опозиція
+  ru: Подконтрольная оппозиция
 contributors:
 - en: Palii Svitodar
   uk: Палій Світодар
