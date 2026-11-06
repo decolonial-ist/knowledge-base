@@ -1,9 +1,17 @@
 type: procedure
 id: C0028.T0031
+campaign_name:
+  ru: Решительные пункты (1728)
+  en: The Decisive Points (1728)
+  uk: Рішительні пункти (1728)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0031
+technique_name:
+  ru: Ограничение суверенитета
+  en: Restriction of Sovereignty
+  uk: Обмеження суверенітету
 people: ukrainians
 actor: G0009
 tool: S0008

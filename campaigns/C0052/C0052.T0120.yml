@@ -1,9 +1,17 @@
 type: procedure
 id: C0052.T0120
+campaign_name:
+  ru: Сталинский террор и конец украинизации (1922–1939)
+  en: Stalinist Terror and the End of Ukrainization (1922–1939)
+  uk: Сталінський терор і кінець українізації (1922–1939)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0120
+technique_name:
+  ru: Истребление по признаку идентичности
+  en: Extermination Based on Identity
+  uk: Винищення за ознакою ідентичності
 people: ukrainians
 actor: G0010
 tool: S0017

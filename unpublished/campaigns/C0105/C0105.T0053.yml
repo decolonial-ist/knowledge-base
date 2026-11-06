@@ -1,9 +1,17 @@
 type: procedure
 id: C0105.T0053
+campaign_name:
+  ru: Резня в Буче (2022)
+  en: The Bucha Massacre (2022)
+  uk: Різанина в Бучі (2022)
 created: 2026-08-16
 modified: 2026-08-16
 version: '1.0'
 technique: T0053
+technique_name:
+  ru: Похищение людей
+  en: Abduction of People
+  uk: Викрадення людей
 people: ukrainians
 actor: G0011
 tool: S0010

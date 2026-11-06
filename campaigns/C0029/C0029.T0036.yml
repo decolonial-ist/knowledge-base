@@ -1,9 +1,17 @@
 type: procedure
 id: C0029.T0036
+campaign_name:
+  ru: Правление гетманского правительства и Лубенский договор (1734–1750)
+  en: The Governing Council of the Hetman Government and the Lubny Treaty (1734–1750)
+  uk: Правління гетьманського уряду та Лубенський договір (1734–1750)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0036
+technique_name:
+  ru: Установка новой системы управления
+  en: Installation of a New System of Governance
+  uk: Встановлення нової системи управління
 people: ukrainians
 actor: G0009
 tool: S0012

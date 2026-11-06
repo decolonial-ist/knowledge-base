@@ -1,9 +1,17 @@
 type: procedure
 id: C0011.T0057
+campaign_name:
+  ru: Интеграционные реформы Петра I и Северная война (1700–1708)
+  en: Integration Reforms of Peter I and the Great Northern War (1700–1708)
+  uk: Інтеграційні реформи Петра I та Північна війна (1700–1708)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0057
+technique_name:
+  ru: Эксплуатация труда
+  en: Labor Exploitation
+  uk: Експлуатація праці
 people: ukrainians
 actor: G0008
 tool: S0010

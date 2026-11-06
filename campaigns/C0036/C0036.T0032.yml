@@ -1,9 +1,17 @@
 type: procedure
 id: C0036.T0032
+campaign_name:
+  ru: Учреждение «Черты оседлости» (1791)
+  en: Establishment of the "Pale of Settlement" (1791)
+  uk: Запровадження «Смуги осілості» (1791)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0032
+technique_name:
+  ru: Правовая сегрегация населения
+  en: Legal Segregation of the Population
+  uk: Правова сегрегація населення
 people: ukrainians
 actor: G0009
 tool: S0024

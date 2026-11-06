@@ -1,9 +1,17 @@
 type: procedure
 id: C0068.T0104
+campaign_name:
+  ru: Черносотенный террор и погромы (1905–1907)
+  en: Black Hundred Terror and Pogroms (1905–1907)
+  uk: Чорносотенний терор і погроми (1905–1907)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0104
+technique_name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
 people: ukrainians
 actor: G0009
 tool: S0024

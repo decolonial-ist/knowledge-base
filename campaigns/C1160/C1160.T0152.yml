@@ -1,9 +1,17 @@
 type: procedure
 id: C1160.T0152
+campaign_name:
+  ru: 'Истребление Малой Чечни экспедицией Фезе: 92 пленных, более тысячи сожжённых саклей (январь 1837)'
+  en: 'Annihilation of Lesser Chechnya by Feze''s Expedition: 92 Captives, More Than a Thousand Saklias Burned (January 1837)'
+  uk: 'Винищення Малої Чечні експедицією Фезе: 92 полонених, понад тисяча спалених сакель (січень 1837)'
 created: 2026-07-18
 modified: 2026-07-18
 version: '1.0'
 technique: T0152
+technique_name:
+  ru: Стравливание соседних народов
+  en: Pitting Neighboring Peoples Against Each Other
+  uk: Нацьковування сусідніх народів
 people: nokhchi
 actor: G0009
 tool: S0010

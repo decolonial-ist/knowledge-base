@@ -1,9 +1,17 @@
 type: procedure
 id: C0033.T0021
+campaign_name:
+  ru: Военная ликвидация Запорожской Сечи (1775)
+  en: Military Liquidation of the Zaporozhian Sich (1775)
+  uk: Військова ліквідація Запорозької Січі (1775)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: ukrainians
 actor: G0009
 tool: S0017

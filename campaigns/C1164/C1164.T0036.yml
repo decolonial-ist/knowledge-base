@@ -1,9 +1,17 @@
 type: procedure
 id: C1164.T0036
+campaign_name:
+  ru: Принуждение Чечни к подчинению после разгрома Ахульго и подавление всеобщего восстания 1840 года (1838-1840)
+  en: Forcing Chechnya into submission after the fall of Akhulgo and suppression of the general uprising of 1840 (1838-1840)
+  uk: Примушення Чечні до підкорення після розгрому Ахульго та придушення загального повстання 1840 року (1838-1840)
 created: 2026-07-24
 modified: 2026-07-24
 version: '1.0'
 technique: T0036
+technique_name:
+  ru: Установка новой системы управления
+  en: Installation of a New System of Governance
+  uk: Встановлення нової системи управління
 people: nokhchi
 actor: G0009
 tool: S0010

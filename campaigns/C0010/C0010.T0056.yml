@@ -1,9 +1,17 @@
 type: procedure
 id: C0010.T0056
+campaign_name:
+  ru: Азовские походы и строительство крепостей (1695–1700)
+  en: Azov Campaigns and Fortress Construction (1695–1700)
+  uk: Азовські походи та будівництво фортець (1695–1700)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: ukrainians
 actor: G0008
 tool: S0008

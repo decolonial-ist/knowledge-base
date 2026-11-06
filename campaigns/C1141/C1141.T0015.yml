@@ -1,9 +1,17 @@
 type: procedure
 id: C1141.T0015
+campaign_name:
+  ru: 'Закрепление в Чечне: подкуп старшин, экономический контроль и стравливание соседей (1809-1811)'
+  en: 'Consolidation in Chechnya: Bribery of Elders, Economic Control, and Setting Neighbors against One Another (1809-1811)'
+  uk: 'Закріплення в Чечні: підкуп старшин, економічний контроль і нацьковування сусідів (1809-1811)'
 created: 2026-06-26
 modified: 2026-06-26
 version: '1.0'
 technique: T0015
+technique_name:
+  ru: Подкуп элит
+  en: Bribery of Elites
+  uk: Підкуп еліт
 people: nokhchi
 actor: G0009
 tool: S0010

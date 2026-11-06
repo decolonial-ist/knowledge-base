@@ -1,9 +1,17 @@
 type: procedure
 id: C1105.T0019
+campaign_name:
+  ru: Закладка первого плацдарма на реке Сунжа (1567)
+  en: Establishment of the First Foothold on the Sunzha River (1567)
+  uk: Закладення першого плацдарму на річці Сунжа (1567)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: nokhchi
 actor: G0008
 tool: S0010

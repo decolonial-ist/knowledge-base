@@ -1,9 +1,17 @@
 type: procedure
 id: C1167.T0140
+campaign_name:
+  ru: '«Ни пахать, ни сеять»: погром Чечни, организованный голод, перекупка элит и институты подчинения (1852-1857)'
+  en: '"Neither plow nor sow": the pogrom of Chechnya, organized famine, the buying-up of elites and the institutions of subjugation (1852-1857)'
+  uk: '«Ні орати, ні сіяти»: погром Чечні, організований голод, перекупівля еліт та інститути підкорення (1852-1857)'
 created: 2026-07-31
 modified: 2026-07-31
 version: '1.0'
 technique: T0140
+technique_name:
+  ru: Разрушение природного ландшафта
+  en: Destruction of the Natural Landscape
+  uk: Руйнування природного ландшафту
 people: nokhchi
 actor: G0009
 tool: S0010

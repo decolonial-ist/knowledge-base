@@ -1,9 +1,17 @@
 type: procedure
 id: C1168.T0140
+campaign_name:
+  ru: 'Просеки и голод: завоевание Чечни Евдокимовым (1857-1859)'
+  en: 'Forest clearings and famine: Yevdokimov''s conquest of Chechnya (1857-1859)'
+  uk: 'Просіки і голод: завоювання Чечні Євдокимовим (1857-1859)'
 created: 2026-08-03
 modified: 2026-08-03
 version: '1.0'
 technique: T0140
+technique_name:
+  ru: Разрушение природного ландшафта
+  en: Destruction of the Natural Landscape
+  uk: Руйнування природного ландшафту
 people: nokhchi
 actor: G0009
 tool: S0010

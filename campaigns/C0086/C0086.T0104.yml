@@ -1,9 +1,17 @@
 type: procedure
 id: C0086.T0104
+campaign_name:
+  ru: Подавление восстаний в ГУЛАГе (1953–1954)
+  en: Suppression of the GULAG Uprisings (1953–1954)
+  uk: Придушення повстань у ГУЛАГу (1953–1954)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0104
+technique_name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
 people: ukrainians
 actor: G0010
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C0070.T0021
+campaign_name:
+  ru: Первая мировая война и оккупация Галичины (1914–1917)
+  en: World War I and the Occupation of Galicia (1914–1917)
+  uk: Перша світова війна та окупація Галичини (1914–1917)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: ukrainians
 actor: G0009
 tool: S0012

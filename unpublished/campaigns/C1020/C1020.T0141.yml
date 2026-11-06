@@ -1,9 +1,17 @@
 type: procedure
 id: C1020.T0141
+campaign_name:
+  ru: Экономическое выдавливание и демографическая накачка Кавказа (1809–1825)
+  en: Economic Squeezing-Out and Demographic Pumping of the Caucasus (1809–1825)
+  uk: Економічне видавлювання та демографічне накачування Кавказу (1809–1825)
 created: 2026-05-12
 modified: 2026-08-01
 version: '1.0'
 technique: T0141
+technique_name:
+  ru: Создание экономической безысходности
+  en: Creation of Economic Hopelessness
+  uk: Створення економічної безвиході
 people: ukrainians
 actor: G0009
 tool: S0008

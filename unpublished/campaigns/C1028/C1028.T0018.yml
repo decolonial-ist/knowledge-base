@@ -1,9 +1,17 @@
 type: procedure
 id: C1028.T0018
+campaign_name:
+  ru: Прокси-война и политическая дестабилизация (1993–1994)
+  en: Proxy war and political destabilization (1993–1994)
+  uk: Проксі-війна та політична дестабілізація (1993–1994)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0018
+technique_name:
+  ru: Прокси-война
+  en: Proxy War
+  uk: Проксі-війна
 people: nokhchi
 actor: G0011
 tool: S0017

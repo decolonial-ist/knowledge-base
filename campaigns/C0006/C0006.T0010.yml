@@ -1,9 +1,17 @@
 type: procedure
 id: C0006.T0010
+campaign_name:
+  ru: Издание «Синопсиса» (1674)
+  en: Publication of the "Synopsis" (1674)
+  uk: Видання «Синопсиса» (1674)
 created: 2026-04-24
 modified: 2026-07-31
 version: '1.0'
 technique: T0010
+technique_name:
+  ru: Непризнание самостоятельной идентичности
+  en: Denial of a Distinct Identity
+  uk: Невизнання самостійної ідентичності
 people: ukrainians
 actor: G0008
 tool: S0011

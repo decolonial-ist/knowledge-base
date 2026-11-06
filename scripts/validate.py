@@ -8,6 +8,8 @@
      имя файла совпадает с полем id;
   2. ссылки существуют: тактики техник, родитель подтехники, кампания/техника/актор/инструмент
      процедуры, родитель кампании; список procedures кампании совпадает с файлами процедур;
+     campaign_name и technique_name процедуры равны name кампании и техники (куратор 06.11.2026; ставит
+     scripts/procedure_names.py);
   3. сноски (Citation: N) ведут на карточку N в реестре архива (registry.json с archive.decolonial.ist
      или локальный файл через KB_REGISTRY); в трёх языках одной прозы - одинаковый набор сносок;
      сноски дат кампании тоже существуют. Сноска не по номеру - ссылка, библиография словами или файл
@@ -151,6 +153,12 @@ def main(root):
         if len({tuple(v) for v in sets.values()}) > 1:
             err(path, f"разный набор сносок по языкам: { {l: len(v) for l, v in sets.items()} }")
 
+    def check_names(path, p, camp, tech):
+        """campaign_name / technique_name - копии name кампании и техники; расхождение чинит procedure_names.py."""
+        for field, src, what in (("campaign_name", camp, "кампании"), ("technique_name", tech, "техники")):
+            if src and isinstance(src.get("name"), dict) and p.get(field) != {l: str(src["name"].get(l) or "") for l in LANGS}:
+                err(path, f"{field} не совпадает с name {what} {src.get('id')}: python scripts/procedure_names.py")
+
     def check_cit_list(path, lst, field):
         for k in lst or []:
             if str(k) not in materials:
@@ -188,6 +196,7 @@ def main(root):
             err(path, f"id должен быть «{cid}.{p.get('technique')}» (кампания.техника)")
         if cid in campaigns and campaigns[cid].get("people") != p.get("people"):
             err(path, f"народ процедуры не совпадает с народом кампании {cid}")
+        check_names(path, p, campaigns.get(cid), techniques.get(p.get("technique")))
         check_prose(path, p.get("description"))
     for path, c in data["campaigns"].items():
         if not isinstance(c, dict):
@@ -226,6 +235,10 @@ def main(root):
                 stem = os.path.splitext(os.path.basename(path))[0]
                 if isinstance(doc, dict) and str(doc.get("id")) != stem:
                     err(path, f"имя файла «{stem}» не совпадает с id «{doc.get('id')}»")
+                if kind == "procedures" and isinstance(doc, dict):
+                    cid = stem.split(".")[0]
+                    unp_camp = next((c for c in unp_data["campaigns"].values() if isinstance(c, dict) and c.get("id") == cid), None)
+                    check_names(path, doc, unp_camp or campaigns.get(cid), techniques.get(doc.get("technique")))
         unp_counts = {k: len(v) for k, v in unp_data.items() if v}
 
     counts = {k: len(v) for k, v in data.items()}

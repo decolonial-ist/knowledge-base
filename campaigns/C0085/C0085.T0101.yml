@@ -1,9 +1,17 @@
 type: procedure
 id: C0085.T0101
+campaign_name:
+  ru: Послевоенный идеологический террор («Ждановщина») (1946–1953)
+  en: Postwar Ideological Terror ("Zhdanovshchina") (1946–1953)
+  uk: Повоєнний ідеологічний терор («Жданівщина») (1946–1953)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0101
+technique_name:
+  ru: Цензура
+  en: Censorship
+  uk: Цензура
 people: ukrainians
 actor: G0010
 tool: S0021

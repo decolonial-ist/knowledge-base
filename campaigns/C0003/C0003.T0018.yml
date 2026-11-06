@@ -1,9 +1,17 @@
 type: procedure
 id: C0003.T0018
+campaign_name:
+  ru: Московско-украинская война (1658–1659)
+  en: Muscovite–Ukrainian War (1658–1659)
+  uk: Московсько-українська війна (1658–1659)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0018
+technique_name:
+  ru: Прокси-война
+  en: Proxy War
+  uk: Проксі-війна
 people: ukrainians
 actor: G0008
 tool: S0017

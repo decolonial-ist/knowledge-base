@@ -1,9 +1,17 @@
 type: procedure
 id: C0112.T0165
+campaign_name:
+  ru: Обстрелы Харькова (с 2022)
+  en: Shelling of Kharkiv (from 2022)
+  uk: Обстріли Харкова (з 2022)
 created: 2026-08-16
 modified: 2026-09-18
 version: '1.0'
 technique: T0165
+technique_name:
+  ru: Неизбирательные нападения
+  en: Indiscriminate Attacks
+  uk: Невибіркові напади
 people: ukrainians
 actor: G0011
 tool: S0010

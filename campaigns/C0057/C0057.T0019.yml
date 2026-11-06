@@ -1,9 +1,17 @@
 type: procedure
 id: C0057.T0019
+campaign_name:
+  ru: Подавление Ноябрьского восстания (1830–1831)
+  en: Suppression of the November Uprising (1830–1831)
+  uk: Придушення Листопадового повстання (1830–1831)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: ukrainians
 actor: G0009
 tool: S0010

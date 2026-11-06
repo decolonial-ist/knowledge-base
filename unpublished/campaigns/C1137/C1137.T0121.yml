@@ -1,9 +1,17 @@
 type: procedure
 id: C1137.T0121
+campaign_name:
+  ru: '[НЕ ПОДТВЕРЖДЕНО - ждет первоисточника] Цициановская политика голода и карательных рейдов против нохчи (1803-1805) [НЕ ПОДТВЕРЖДЕНО - ждет первоисточника]'
+  en: '[NOT CONFIRMED - awaiting primary source] Tsitsianov''s Policy of Famine and Punitive Raids against the Nokhchi (1803-1805) [NOT CONFIRMED - awaiting primary source]'
+  uk: '[НЕ ПІДТВЕРДЖЕНО - очікує першоджерела] Ціціановська політика голоду та каральних рейдів проти Нохчі (1803-1805) [НЕ ПІДТВЕРДЖЕНО - очікує першоджерела]'
 created: 2026-06-26
 modified: 2026-06-26
 version: '1.0'
 technique: T0121
+technique_name:
+  ru: Искусственный голод
+  en: Artificial Famine
+  uk: Штучний голод
 people: nokhchi
 actor: G0009
 tool: S0010

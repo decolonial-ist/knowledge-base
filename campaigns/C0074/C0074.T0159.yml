@@ -1,9 +1,17 @@
 type: procedure
 id: C0074.T0159
+campaign_name:
+  ru: 'Советско-Украинская война: второе вторжение и ресурсное истощение (1919)'
+  en: 'Soviet-Ukrainian War: Second Invasion and Resource Depletion (1919)'
+  uk: 'Радянсько-Українська війна: друге вторгнення і ресурсне виснаження (1919)'
 created: 2026-08-29
 modified: 2026-08-29
 version: '1.0'
 technique: T0159
+technique_name:
+  ru: Коллективные наказания
+  en: Collective Punishment
+  uk: Колективні покарання
 people: ukrainians
 actor: G0013
 tool: S0010

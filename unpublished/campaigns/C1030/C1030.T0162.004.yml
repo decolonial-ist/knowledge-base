@@ -1,9 +1,17 @@
 type: procedure
 id: C1030.T0162.004
+campaign_name:
+  ru: Институциональный террор и фильтрационные лагеря (1994–1996)
+  en: Institutional terror and filtration camps (1994–1996)
+  uk: Інституційний терор і фільтраційні табори (1994–1996)
 created: 2026-04-20
 modified: 2026-08-29
 version: '1.0'
 technique: T0162.004
+technique_name:
+  ru: Пытки и истязания
+  en: Torture and Abuse
+  uk: Катування та знущання
 people: nokhchi
 actor: G0011
 tool: S0017

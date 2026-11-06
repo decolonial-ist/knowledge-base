@@ -1,9 +1,17 @@
 type: procedure
 id: C1123.T0049
+campaign_name:
+  ru: Принудительная мобилизация нохчи на русско-турецкую войну (1677–1679)
+  en: Forcible Mobilization of the Nokhchi for the Russo-Turkish War (1677–1679)
+  uk: Примусова мобілізація Нохчі на російсько-турецьку війну (1677–1679)
 created: 2026-06-15
 modified: 2026-06-15
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: nokhchi
 actor: G0008
 tool: S0012

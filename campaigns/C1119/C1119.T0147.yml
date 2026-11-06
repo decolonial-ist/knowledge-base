@@ -1,9 +1,17 @@
 type: procedure
 id: C1119.T0147
+campaign_name:
+  ru: Комплексная разведка территорий и попытка принуждения к подданству (1658–1660)
+  en: Comprehensive Reconnaissance of Territories and an Attempt to Coerce into Subjecthood (1658–1660)
+  uk: Комплексна розвідка територій і спроба примусу до підданства (1658–1660)
 created: 2026-06-15
 modified: 2026-06-15
 version: '1.0'
 technique: T0147
+technique_name:
+  ru: Принудительное оформление подданства
+  en: Forced Registration of Subjecthood
+  uk: Примусове оформлення підданства
 people: nokhchi
 actor: G0008
 tool: S0012

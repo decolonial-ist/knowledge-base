@@ -1,9 +1,17 @@
 type: procedure
 id: C0019.T0019
+campaign_name:
+  ru: Бой под Крутами и расстрел пленных (январь 1918)
+  en: The Battle of Kruty and the Killing of Prisoners (January 1918)
+  uk: Бій під Крутами і розстріл полонених (січень 1918)
 created: 2026-08-14
 modified: 2026-08-14
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: ukrainians
 actor: G0013
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C0063.T0003
+campaign_name:
+  ru: Формирование идеологии великодержавного шовинизма (1864–1876)
+  en: Formation of the Ideology of Great-Power Chauvinism (1864–1876)
+  uk: Формування ідеології великодержавного шовінізму (1864–1876)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0003
+technique_name:
+  ru: Культивирование логики превосходства
+  en: Cultivation of a Logic of Superiority
+  uk: Культивування логіки вищості
 people: ukrainians
 actor: G0009
 tool: S0008

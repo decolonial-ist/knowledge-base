@@ -1,9 +1,17 @@
 type: procedure
 id: C1149.T0104
+campaign_name:
+  ru: Уничтожение аула беженцев Узени-Юрт, вымогание заложников с Гельдигена и захват жителей Самашек на жатве (1826-1827)
+  en: Destruction of the Refugee Aul of Uzeni-Yurt, Extortion of Hostages from Geldigen, and Capture of Samashki Residents at Harvest (1826-1827)
+  uk: Знищення аулу біженців Узені-Юрт, вимагання заручників із Гельдигена та захоплення мешканців Самашок під час жнив (1826-1827)
 created: 2026-07-02
 modified: 2026-07-02
 version: '1.0'
 technique: T0104
+technique_name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
 people: nokhchi
 actor: G0009
 tool: S0010

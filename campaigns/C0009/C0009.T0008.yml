@@ -1,9 +1,17 @@
 type: procedure
 id: C0009.T0008
+campaign_name:
+  ru: «Вечный мир» с Польшей (1686)
+  en: '"Eternal Peace" with Poland (1686)'
+  uk: «Вічний мир» з Польщею (1686)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0008
+technique_name:
+  ru: Лишение субъектности
+  en: Deprivation of Agency
+  uk: Позбавлення суб'єктності
 people: ukrainians
 actor: G0008
 tool: S0009

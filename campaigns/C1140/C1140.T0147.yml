@@ -1,9 +1,17 @@
 type: procedure
 id: C1140.T0147
+campaign_name:
+  ru: 'Карательный поход Булгакова: разорение чеченских селений и принуждение к подданству (1807)'
+  en: 'Bulgakov''s Punitive Expedition: Devastation of Chechen Villages and Coercion into Allegiance (1807)'
+  uk: 'Каральний похід Булгакова: розорення чеченських селищ і примус до підданства (1807)'
 created: 2026-06-26
 modified: 2026-06-26
 version: '1.0'
 technique: T0147
+technique_name:
+  ru: Принудительное оформление подданства
+  en: Forced Registration of Subjecthood
+  uk: Примусове оформлення підданства
 people: nokhchi
 actor: G0009
 tool: S0010

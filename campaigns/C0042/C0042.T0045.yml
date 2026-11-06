@@ -1,9 +1,17 @@
 type: procedure
 id: C0042.T0045
+campaign_name:
+  ru: Уничтожение архивов Киево-Печерской лавры (1718)
+  en: Destruction of the Archives of the Kyiv-Pechersk Lavra (1718)
+  uk: Знищення архівів Києво-Печерської лаври (1718)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0045
+technique_name:
+  ru: Уничтожение исторической памяти
+  en: Destruction of Historical Memory
+  uk: Знищення історичної пам'яті
 people: ukrainians
 actor: G0008
 tool: S0017

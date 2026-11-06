@@ -1,9 +1,17 @@
 type: procedure
 id: C0126.T0022
+campaign_name:
+  ru: Война против энергосистемы (с 2022)
+  en: War on the Power Grid (from 2022)
+  uk: Війна проти енергосистеми (з 2022)
 created: 2026-08-17
 modified: 2026-10-26
 version: '1.0'
 technique: T0022
+technique_name:
+  ru: Террор
+  en: Terror
+  uk: Терор
 people: ukrainians
 actor: G0011
 tool: S0010

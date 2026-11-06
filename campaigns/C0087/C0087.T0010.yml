@@ -1,9 +1,17 @@
 type: procedure
 id: C0087.T0010
+campaign_name:
+  ru: Идеологическая кампания «300-летие воссоединения» и передача Крыма (1954)
+  en: The Ideological Campaign of the "300th Anniversary of Reunification" and the Transfer of Crimea (1954)
+  uk: Ідеологічна кампанія «300-річчя возз'єднання» та передача Криму (1954)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0010
+technique_name:
+  ru: Непризнание самостоятельной идентичности
+  en: Denial of a Distinct Identity
+  uk: Невизнання самостійної ідентичності
 people: ukrainians
 actor: G0010
 tool: S0021

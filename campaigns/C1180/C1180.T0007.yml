@@ -1,9 +1,17 @@
 type: procedure
 id: C1180.T0007
+campaign_name:
+  ru: 'Операция «Чечевица»: тотальная депортация чеченского народа и режим спецпоселения (1943-1949)'
+  en: 'Operation "Chechevitsa": the Total Deportation of the Chechen People and the Special Settlement Regime (1943-1949)'
+  uk: 'Операція «Сочевиця»: тотальна депортація чеченського народу і режим спецпоселення (1943-1949)'
 created: 2026-08-29
 modified: 2026-08-29
 version: '1.0'
 technique: T0007
+technique_name:
+  ru: Навязывание своей картины реальности
+  en: Imposition of Its Own Picture of Reality
+  uk: Нав'язування власної картини реальності
 people: nokhchi
 actor: G0010
 tool: S0017

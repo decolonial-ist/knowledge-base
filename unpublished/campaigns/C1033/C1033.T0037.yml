@@ -1,9 +1,17 @@
 type: procedure
 id: C1033.T0037
+campaign_name:
+  ru: Установка марионеточного правительства через фиктивные выборы (1995–1996)
+  en: Installation of a puppet government through sham elections (1995–1996)
+  uk: Встановлення маріонеткового уряду через фіктивні вибори (1995–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0037
+technique_name:
+  ru: Марионеточное правительство
+  en: Puppet Government
+  uk: Маріонетковий уряд
 people: nokhchi
 actor: G0011
 tool: S0012

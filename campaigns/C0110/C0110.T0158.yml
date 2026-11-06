@@ -1,9 +1,17 @@
 type: procedure
 id: C0110.T0158
+campaign_name:
+  ru: Памятник Александру II в Киеве (1911)
+  en: The Alexander II Monument in Kyiv (1911)
+  uk: Пам'ятник Олександрові II у Києві (1911)
 created: 2026-08-06
 modified: 2026-08-31
 version: '1.0'
 technique: T0158
+technique_name:
+  ru: Маркировка территории имперскими символами
+  en: Territorial Marking with Imperial Symbols
+  uk: Маркування території імперськими символами
 people: ukrainians
 actor: G0009
 tool: S0008

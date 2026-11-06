@@ -1,9 +1,17 @@
 type: procedure
 id: C0100.T0019
+campaign_name:
+  ru: 'Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)'
+  en: 'Beginning of the Russo-Ukrainian War: Armed Invasion and Occupation of Crimea (2014)'
+  uk: 'Початок російсько-української війни: Збройне вторгнення та окупація Криму (2014)'
 created: 2026-04-27
 modified: 2026-08-08
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: ukrainians
 actor: G0011
 tool: S0010

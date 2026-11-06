@@ -1,9 +1,17 @@
 type: procedure
 id: C0103.T0158
+campaign_name:
+  ru: Полномасштабное вторжение (с 24 февраля 2022)
+  en: Full-Scale Invasion (from February 24, 2022)
+  uk: Повномасштабне вторгнення (з 24 лютого 2022)
 created: 2026-08-04
 modified: 2026-08-31
 version: '1.0'
 technique: T0158
+technique_name:
+  ru: Маркировка территории имперскими символами
+  en: Territorial Marking with Imperial Symbols
+  uk: Маркування території імперськими символами
 people: ukrainians
 actor: G0011
 tool: S0012

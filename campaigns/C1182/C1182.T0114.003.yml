@@ -1,9 +1,17 @@
 type: procedure
 id: C1182.T0114.003
+campaign_name:
+  ru: '«Только помилованы»: чужая власть и подавление национальной жизни чеченцев и ингушей (1965-1989)'
+  en: '"Only Pardoned": Alien Rule and the Suppression of Chechen and Ingush National Life (1965-1989)'
+  uk: '«Лише помилувані»: чужа влада і придушення національного життя чеченців та інгушів (1965-1989)'
 created: 2026-09-06
 modified: 2026-09-06
 version: '1.0'
 technique: T0114.003
+technique_name:
+  ru: Перевод школ на язык метрополии
+  en: Conversion of Schools to the Metropole's Language
+  uk: Переведення шкіл на мову метрополії
 people: nokhchi
 actor: G0010
 tool: S0008

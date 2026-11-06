@@ -1,9 +1,17 @@
 type: procedure
 id: C1165.T0007
+campaign_name:
+  ru: '«Стеснение Чечни со всех сторон»: блокада, тайная война, карательные экспедиции и Сунженская линия (1840-1846)'
+  en: '"Constriction of Chechnya from all sides": blockade, secret war, punitive expeditions and the Sunzha Line (1840-1846)'
+  uk: '«Стиснення Чечні з усіх боків»: блокада, таємна війна, каральні експедиції та Сунженська лінія (1840-1846)'
 created: 2026-07-24
 modified: 2026-07-24
 version: '1.0'
 technique: T0007
+technique_name:
+  ru: Навязывание своей картины реальности
+  en: Imposition of Its Own Picture of Reality
+  uk: Нав'язування власної картини реальності
 people: nokhchi
 actor: G0009
 tool: S0010

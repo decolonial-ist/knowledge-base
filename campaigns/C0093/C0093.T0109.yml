@@ -1,9 +1,17 @@
 type: procedure
 id: C0093.T0109
+campaign_name:
+  ru: Манипулятивный референдум о сохранении СССР (март 1991)
+  en: Manipulative Referendum on the Preservation of the USSR (March 1991)
+  uk: Маніпулятивний референдум про збереження СРСР (березень 1991)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0109
+technique_name:
+  ru: Имитация народного волеизъявления
+  en: Sham Expression of Popular Will
+  uk: Імітація народного волевиявлення
 people: ukrainians
 actor: G0010
 tool: S0008

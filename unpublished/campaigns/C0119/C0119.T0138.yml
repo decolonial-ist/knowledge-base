@@ -1,9 +1,17 @@
 type: procedure
 id: C0119.T0138
+campaign_name:
+  ru: Захват Запорожской АЭС и ядерный шантаж (с 2022)
+  en: Seizure of the Zaporizhzhia Nuclear Plant and Nuclear Blackmail (from 2022)
+  uk: Захоплення Запорізької АЕС та ядерний шантаж (з 2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0138
+technique_name:
+  ru: Ядерный шантаж
+  en: Nuclear Blackmail
+  uk: Ядерний шантаж
 people: ukrainians
 actor: G0011
 tool: S0010

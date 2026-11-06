@@ -1,9 +1,17 @@
 type: procedure
 id: C1153.T0021
+campaign_name:
+  ru: Убийство лидера чеченского сопротивления Бейбулата Таймиева, подготовленное имперским командованием (1831)
+  en: Assassination of Chechen resistance leader Beibulat Taimiev, prepared by the imperial command (1831)
+  uk: Вбивство лідера чеченського опору Бейбулата Таймієва, підготовлене імперським командуванням (1831)
 created: 2026-07-03
 modified: 2026-07-03
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: nokhchi
 actor: G0009
 tool: S0010

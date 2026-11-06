@@ -1,9 +1,17 @@
 type: procedure
 id: C0032.T0049
+campaign_name:
+  ru: Русско-турецкая война и Кючук-Кайнарджийский договор (1768–1774)
+  en: Russo-Turkish War and the Treaty of Küçük Kaynarca (1768–1774)
+  uk: Російсько-турецька війна та Кючук-Кайнарджійський договір (1768–1774)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: ukrainians
 actor: G0009
 tool: S0010

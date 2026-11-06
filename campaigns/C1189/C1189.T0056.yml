@@ -1,9 +1,17 @@
 type: procedure
 id: C1189.T0056
+campaign_name:
+  ru: 'Первая мировая война в Чечне: вывоз «ненадежного элемента» в «Дикую дивизию», чрезвычайная охрана и мобилизация бастующих (1914-1917)'
+  en: 'First World War in Chechnya: removal of the "unreliable element" into the "Savage Division", extraordinary security and mobilization of strikers (1914-1917)'
+  uk: 'Перша світова війна в Чечні: вивіз «ненадійного елементу» в «Дику дивізію», надзвичайна охорона і мобілізація страйкарів (1914-1917)'
 created: 2026-08-09
 modified: 2026-08-09
 version: '1.0'
 technique: T0056
+technique_name:
+  ru: Налогообложение
+  en: Taxation
+  uk: Оподаткування
 people: nokhchi
 actor: G0009
 tool: S0012

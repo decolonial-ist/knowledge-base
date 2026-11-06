@@ -1,9 +1,17 @@
 type: procedure
 id: C0005.T0039
+campaign_name:
+  ru: Андрусовское перемирие (1667)
+  en: Truce of Andrusovo (1667)
+  uk: Андрусівське перемир'я (1667)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0039
+technique_name:
+  ru: Сговор с третьей стороной за спиной народа
+  en: Collusion with a Third Party Behind the People's Back
+  uk: Змова з третьою стороною за спиною народу
 people: ukrainians
 actor: G0008
 tool: S0009

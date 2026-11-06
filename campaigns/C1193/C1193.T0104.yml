@@ -1,9 +1,17 @@
 type: procedure
 id: C1193.T0104
+campaign_name:
+  ru: Первая Русско-Чеченская война (1994–1996)
+  en: First Russian-Chechen War (1994–1996)
+  uk: Перша російсько-чеченська війна (1994–1996)
 created: 2026-10-24
 modified: 2026-10-27
 version: '1.0'
 technique: T0104
+technique_name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
 people: nokhchi
 actor: G0011
 tool: S0010

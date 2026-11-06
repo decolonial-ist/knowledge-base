@@ -1,9 +1,17 @@
 type: procedure
 id: C1157.T0147
+campaign_name:
+  ru: Принуждение разорённого Зандака к подчинению и подати полковником Пулло (1836)
+  en: Coercion of Devastated Zandak into Subordination and Tribute by Colonel Pullo (1836)
+  uk: Примус зруйнованого Зандака до підпорядкування й податі полковником Пулло (1836)
 created: 2026-07-15
 modified: 2026-08-04
 version: '1.0'
 technique: T0147
+technique_name:
+  ru: Принудительное оформление подданства
+  en: Forced Registration of Subjecthood
+  uk: Примусове оформлення підданства
 people: nokhchi
 actor: G0009
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C1179.T0160
+campaign_name:
+  ru: Большой террор в Чечено-Ингушетии (1937-1940)
+  en: The Great Terror in Chechen-Ingushetia (1937-1940)
+  uk: Великий терор у Чечено-Інгушетії (1937-1940)
 created: 2026-08-29
 modified: 2026-08-29
 version: '1.0'
 technique: T0160
+technique_name:
+  ru: Фиктивные суды
+  en: Sham Trials
+  uk: Фіктивні суди
 people: nokhchi
 actor: G0010
 tool: S0017

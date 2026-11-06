@@ -1,9 +1,17 @@
 type: procedure
 id: C0030.T0115
+campaign_name:
+  ru: Ликвидация института гетманства и Вторая Малороссийская коллегия (1764)
+  en: Liquidation of the Institution of the Hetmancy and the Second Little Russian Collegium (1764)
+  uk: Ліквідація інституту гетьманства та Друга Малоросійська колегія (1764)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0115
+technique_name:
+  ru: Культурная ассимиляция
+  en: Cultural Assimilation
+  uk: Культурна асиміляція
 people: ukrainians
 actor: G0009
 tool: S0008

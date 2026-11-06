@@ -1,9 +1,17 @@
 type: procedure
 id: C0089.T0021
+campaign_name:
+  ru: «Генеральный погром» правозащитников и карательная психиатрия (1972–1985)
+  en: The "General Pogrom" of Human Rights Defenders and Punitive Psychiatry (1972–1985)
+  uk: «Генеральний погром» правозахисників і каральна психіатрія (1972–1985)
 created: 2026-04-27
 modified: 2026-08-09
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: ukrainians
 actor: G0010
 tool: S0017

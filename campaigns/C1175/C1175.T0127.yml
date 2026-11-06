@@ -1,9 +1,17 @@
 type: procedure
 id: C1175.T0127
+campaign_name:
+  ru: 'Коллективные наказания эпохи абречества: штрафы, постой войск и высылки за Зелимхана (1905-1913)'
+  en: 'Collective punishment in the abrek era: fines, quartering of troops and exile for Zelimkhan (1905-1913)'
+  uk: 'Колективні покарання епохи абрецтва: штрафи, постій військ і висилки за Зелімхана (1905-1913)'
 created: 2026-08-06
 modified: 2026-08-06
 version: '1.0'
 technique: T0127
+technique_name:
+  ru: Депортация
+  en: Deportation
+  uk: Депортація
 people: nokhchi
 actor: G0009
 tool: S0012

@@ -1,9 +1,17 @@
 type: procedure
 id: C0076.T0088
+campaign_name:
+  ru: Юридическое поглощение через создание СССР (1922–1924)
+  en: Legal Absorption through the Creation of the USSR (1922–1924)
+  uk: Юридичне поглинання через створення СРСР (1922–1924)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0088
+technique_name:
+  ru: Фиктивные договоры
+  en: Sham Treaties
+  uk: Фіктивні договори
 people: ukrainians
 actor: G0010
 tool: S0008

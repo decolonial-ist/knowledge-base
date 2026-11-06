@@ -1,9 +1,17 @@
 type: procedure
 id: C1183.T0037
+campaign_name:
+  ru: 'Непризнание и попытка военного вторжения: ответ Москвы на независимость Чеченской Республики (сентябрь-ноябрь 1991)'
+  en: 'Non-Recognition and the Attempted Military Invasion: Moscow''s Response to the Independence of the Chechen Republic (September-November 1991)'
+  uk: 'Невизнання і спроба воєнного вторгнення: відповідь Москви на незалежність Чеченської Республіки (вересень-листопад 1991)'
 created: 2026-09-07
 modified: 2026-09-07
 version: '1.0'
 technique: T0037
+technique_name:
+  ru: Марионеточное правительство
+  en: Puppet Government
+  uk: Маріонетковий уряд
 people: nokhchi
 actor: G0011
 tool: S0008

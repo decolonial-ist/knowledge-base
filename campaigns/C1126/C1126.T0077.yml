@@ -1,9 +1,17 @@
 type: procedure
 id: C1126.T0077
+campaign_name:
+  ru: Подавление восстания Мурата Кучукова и террор против коренного населения (1708)
+  en: Suppression of the Uprising of Murat Kuchukov and Terror against the Indigenous Population (1708)
+  uk: Придушення повстання Мурата Кучукова і терор проти корінного населення (1708)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0077
+technique_name:
+  ru: Карательные экспедиции
+  en: Punitive Expeditions
+  uk: Каральні експедиції
 people: nokhchi
 actor: G0008
 tool: S0010

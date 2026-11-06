@@ -1,9 +1,17 @@
 type: procedure
 id: C1190.T0007
+campaign_name:
+  ru: '«Бомбы обрушились на аулы»: репрессии и воздушные удары по горной Чечне накануне депортации (1941-1942)'
+  en: '"Bombs Rained Down on the Auls": Repression and Air Strikes on Mountain Chechnya on the Eve of the Deportation (1941-1942)'
+  uk: '«Бомби обрушилися на аули»: репресії та повітряні удари по гірській Чечні напередодні депортації (1941-1942)'
 created: 2026-08-29
 modified: 2026-08-29
 version: '1.0'
 technique: T0007
+technique_name:
+  ru: Навязывание своей картины реальности
+  en: Imposition of Its Own Picture of Reality
+  uk: Нав'язування власної картини реальності
 people: nokhchi
 actor: G0010
 tool: S0017

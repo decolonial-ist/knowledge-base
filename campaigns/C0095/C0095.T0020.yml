@@ -1,9 +1,17 @@
 type: procedure
 id: C0095.T0020
+campaign_name:
+  ru: Попытка государственного переворота ГКЧП (август 1991)
+  en: Attempted Coup d'État by the GKChP (August 1991)
+  uk: Спроба державного перевороту ГКЧП (серпень 1991)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0020
+technique_name:
+  ru: Организация переворота
+  en: Staging a Coup
+  uk: Організація перевороту
 people: ukrainians
 actor: G0010
 tool: S0008

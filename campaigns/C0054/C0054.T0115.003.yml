@@ -1,9 +1,17 @@
 type: procedure
 id: C0054.T0115.003
+campaign_name:
+  ru: Финансовая русификация школ (1978–1983)
+  en: Financial Russification of Schools (1978–1983)
+  uk: Фінансова русифікація шкіл (1978–1983)
 created: 2026-04-25
 modified: 2026-08-08
 version: '1.0'
 technique: T0115.003
+technique_name:
+  ru: Культурный шовинизм
+  en: Cultural Chauvinism
+  uk: Культурний шовінізм
 people: ukrainians
 actor: G0010
 tool: S0008

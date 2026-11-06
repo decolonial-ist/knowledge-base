@@ -1,9 +1,17 @@
 type: procedure
 id: C1032.T0045
+campaign_name:
+  ru: Уничтожение исторической памяти и культуры (1994–1995)
+  en: Destruction of historical memory and culture (1994–1995)
+  uk: Знищення історичної пам'яті та культури (1994–1995)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0045
+technique_name:
+  ru: Уничтожение исторической памяти
+  en: Destruction of Historical Memory
+  uk: Знищення історичної пам'яті
 people: nokhchi
 actor: G0011
 tool: S0010

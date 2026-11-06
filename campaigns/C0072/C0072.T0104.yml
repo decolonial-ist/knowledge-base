@@ -1,9 +1,17 @@
 type: procedure
 id: C0072.T0104
+campaign_name:
+  ru: 'Советско-Украинская война: первое вторжение и марионеточное правительство (декабрь 1917 - апрель 1918)'
+  en: 'Soviet-Ukrainian War: First Invasion and the Puppet Government (December 1917 - April 1918)'
+  uk: 'Радянсько-Українська війна: перше вторгнення і маріонетковий уряд (грудень 1917 - квітень 1918)'
 created: 2026-04-27
 modified: 2026-09-05
 version: '1.0'
 technique: T0104
+technique_name:
+  ru: Массовые убийства гражданских
+  en: Mass Killings of Civilians
+  uk: Масові вбивства цивільних
 people: ukrainians
 actor: G0013
 tool: S0010

@@ -1,9 +1,17 @@
 type: procedure
 id: C1176.T0021
+campaign_name:
+  ru: 'Советизация Чечни: ревкомы вместо Советов, карательные операции и расстрелы ЧК (1920-1924)'
+  en: 'Sovietization of Chechnya: revkoms in place of Soviets, punitive operations and Cheka executions (1920-1924)'
+  uk: 'Радянізація Чечні: ревкоми замість Рад, каральні операції та розстріли ЧК (1920-1924)'
 created: 2026-08-08
 modified: 2026-08-08
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: nokhchi
 actor: G0013
 tool: S0017

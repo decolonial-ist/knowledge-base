@@ -10,6 +10,7 @@
   - `created` ставится, если поля нет.
 Автор PR эти поля не трогает; если тронул - CI их перезапишет. Карточек материалов в базе нет (они в архиве).
 Файл переписывается тем же дампером, что у копии из таблицы, поэтому меняются только эти три строки.
+Названия кампании и техники в процедурах ставит соседний procedure_names.py (CI гонит его следом).
 """
 import datetime as dt
 import os
@@ -46,11 +47,8 @@ def stamp(path, today):
     doc["modified"] = today
     if doc == before:
         return False
-    # порядок полей: id, created, modified, version, остальное как было
-    ordered = {k: doc[k] for k in ("type", "id", "created", "modified", "version") if k in doc}
-    ordered.update({k: v for k, v in doc.items() if k not in ordered})
     with open(path, "w", encoding="utf-8") as f:
-        f.write(kbformat.dump_yaml(ordered))
+        f.write(kbformat.dump_yaml(kbformat.order_fields(doc)))
     return True
 
 

@@ -1,9 +1,17 @@
 type: procedure
 id: C1128.T0148
+campaign_name:
+  ru: Грабительские экспедиции казаков и союзных князей (1718–1721)
+  en: Plundering Expeditions of Cossacks and Allied Princes (1718–1721)
+  uk: Грабіжницькі експедиції козаків та союзних князів (1718–1721)
 created: 2026-06-18
 modified: 2026-08-07
 version: '1.0'
 technique: T0148
+technique_name:
+  ru: Разбойные набеги
+  en: Predatory Raids
+  uk: Розбійницькі набіги
 people: nokhchi
 actor: G0008
 tool: S0008

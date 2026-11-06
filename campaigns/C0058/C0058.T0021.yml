@@ -1,9 +1,17 @@
 type: procedure
 id: C0058.T0021
+campaign_name:
+  ru: Подавление гайдамацкого восстания Устима Кармалюка (до 1835)
+  en: Suppression of the Haidamak Uprising of Ustym Karmaliuk (until 1835)
+  uk: Придушення гайдамацького повстання Устима Кармалюка (до 1835)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0021
+technique_name:
+  ru: Нейтрализация оппозиции
+  en: Neutralization of the Opposition
+  uk: Нейтралізація опозиції
 people: ukrainians
 actor: G0009
 tool: S0010

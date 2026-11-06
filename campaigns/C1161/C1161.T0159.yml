@@ -1,9 +1,17 @@
 type: procedure
 id: C1161.T0159
+campaign_name:
+  ru: 'Принуждение Чечни к присяге весенним туром Фезе: аманаты с принуждённых к присяге обществ, уничтожение аулов по Джалке, штраф скотом (февраль-апрель 1837)'
+  en: 'Coercion of Chechnya into Oaths by Feze''s Spring Tour: Amanats from Communities Coerced into the Oath, Destruction of Auls along the Dzhalka, a Livestock Fine (February-April 1837)'
+  uk: 'Примушення Чечні до присяги весняним туром Фезе: аманати з примушених до присяги громад, знищення аулів по Джалці, штраф худобою (лютий-квітень 1837)'
 created: 2026-08-07
 modified: 2026-08-07
 version: '1.0'
 technique: T0159
+technique_name:
+  ru: Коллективные наказания
+  en: Collective Punishment
+  uk: Колективні покарання
 people: nokhchi
 actor: G0009
 tool: S0010

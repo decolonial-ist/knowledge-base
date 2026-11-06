@@ -1,9 +1,17 @@
 type: procedure
 id: C0117.T0162.004
+campaign_name:
+  ru: Оккупация и освобождение Херсона (2022)
+  en: The Occupation and Liberation of Kherson (2022)
+  uk: Окупація та звільнення Херсона (2022)
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0162.004
+technique_name:
+  ru: Пытки и истязания
+  en: Torture and Abuse
+  uk: Катування та знущання
 people: ukrainians
 actor: G0011
 tool: S0010

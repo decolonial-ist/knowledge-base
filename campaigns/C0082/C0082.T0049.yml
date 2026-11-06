@@ -1,9 +1,17 @@
 type: procedure
 id: C0082.T0049
+campaign_name:
+  ru: Тактика «выжженной земли» и преступная мобилизация (1941–1945)
+  en: Scorched Earth Tactics and Criminal Mobilization (1941–1945)
+  uk: Тактика «випаленої землі» та злочинна мобілізація (1941–1945)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
+technique_name:
+  ru: Принудительная мобилизация
+  en: Forced Mobilization
+  uk: Примусова мобілізація
 people: ukrainians
 actor: G0010
 tool: S0010

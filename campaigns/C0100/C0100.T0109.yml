@@ -1,9 +1,17 @@
 type: procedure
 id: C0100.T0109
+campaign_name:
+  ru: 'Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)'
+  en: 'Beginning of the Russo-Ukrainian War: Armed Invasion and Occupation of Crimea (2014)'
+  uk: 'Початок російсько-української війни: Збройне вторгнення та окупація Криму (2014)'
 created: 2026-04-27
 modified: 2026-08-17
 version: '1.0'
 technique: T0109
+technique_name:
+  ru: Имитация народного волеизъявления
+  en: Sham Expression of Popular Will
+  uk: Імітація народного волевиявлення
 people: ukrainians
 actor: G0011
 tool: S0012

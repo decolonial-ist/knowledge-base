@@ -36,6 +36,18 @@ def dump_yaml(data) -> str:
                      width=10**9, default_flow_style=False)
 
 
+# Порядок полей в начале файла (куратор 06.11.2026: название кампании сразу за id, название техники
+# сразу за technique - человек видит, о чём текст, не открывая другие файлы). Поля, которых тут нет,
+# идут дальше в том порядке, в каком были.
+FIELD_ORDER = ("type", "id", "campaign_name", "created", "modified", "version", "technique", "technique_name")
+
+
+def order_fields(doc: dict) -> dict:
+    ordered = {k: doc[k] for k in FIELD_ORDER if k in doc}
+    ordered.update({k: v for k, v in doc.items() if k not in ordered})
+    return ordered
+
+
 def load_yaml(path):
     with open(path, encoding="utf-8") as f:
         return yaml.safe_load(f)

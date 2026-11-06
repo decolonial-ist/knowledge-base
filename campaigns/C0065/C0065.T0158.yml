@@ -1,9 +1,17 @@
 type: procedure
 id: C0065.T0158
+campaign_name:
+  ru: Памятник Богдану Хмельницкому (1888)
+  en: The Bohdan Khmelnytsky Monument (1888)
+  uk: Пам'ятник Богданові Хмельницькому (1888)
 created: 2026-08-05
 modified: 2026-08-31
 version: '1.0'
 technique: T0158
+technique_name:
+  ru: Маркировка территории имперскими символами
+  en: Territorial Marking with Imperial Symbols
+  uk: Маркування території імперськими символами
 people: ukrainians
 actor: G0009
 tool: S0008

@@ -1,9 +1,17 @@
 type: procedure
 id: C0116.T0162.004
+campaign_name:
+  ru: 'Изюм: пыточные и массовое захоронение (2022)'
+  en: 'Izium: Torture Chambers and a Mass Grave (2022)'
+  uk: 'Ізюм: катівні та масове поховання (2022)'
 created: 2026-08-16
 modified: 2026-10-26
 version: '1.0'
 technique: T0162.004
+technique_name:
+  ru: Пытки и истязания
+  en: Torture and Abuse
+  uk: Катування та знущання
 people: ukrainians
 actor: G0011
 tool: S0010

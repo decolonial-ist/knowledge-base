@@ -1,9 +1,17 @@
 type: procedure
 id: C1136.T0077
+campaign_name:
+  ru: Эксплуатация села Сольжа (Сунженская) как ресурсной базы и его карательное разорение за вооружённый отпор нохчи (1818)
+  en: Exploitation of the village of Solzha (Sunzhenskaya) as a resource base and its punitive devastation for the armed resistance of the Nokhchi (1818)
+  uk: Експлуатація села Сольжа (Сунженська) як ресурсної бази та його каральне розорення за збройну відсіч Нохчі (1818)
 created: 2026-06-25
 modified: 2026-06-25
 version: '1.0'
 technique: T0077
+technique_name:
+  ru: Карательные экспедиции
+  en: Punitive Expeditions
+  uk: Каральні експедиції
 people: nokhchi
 actor: G0009
 tool: S0010

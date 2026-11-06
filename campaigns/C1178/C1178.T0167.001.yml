@@ -1,9 +1,17 @@
 type: procedure
 id: C1178.T0167.001
+campaign_name:
+  ru: Коллективизация Чечни (1927-1936)
+  en: Collectivization of Chechnya (1927-1936)
+  uk: Колективізація Чечні (1927-1936)
 created: 2026-08-27
 modified: 2026-08-27
 version: '1.0'
 technique: T0167.001
+technique_name:
+  ru: Ложные гарантии безопасности
+  en: False Guarantees of Safety
+  uk: Фальшиві гарантії безпеки
 people: nokhchi
 actor: G0010
 tool: S0017

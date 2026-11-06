@@ -1,9 +1,17 @@
 type: procedure
 id: C0069.T0141
+campaign_name:
+  ru: Столыпинские репрессии и массовое выселение (1906–1914)
+  en: Stolypin Repressions and Mass Displacement (1906–1914)
+  uk: Столипінські репресії та масове виселення (1906–1914)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0141
+technique_name:
+  ru: Создание экономической безысходности
+  en: Creation of Economic Hopelessness
+  uk: Створення економічної безвиході
 people: ukrainians
 actor: G0009
 tool: S0008

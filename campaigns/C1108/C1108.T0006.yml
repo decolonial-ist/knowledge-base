@@ -1,9 +1,17 @@
 type: procedure
 id: C1108.T0006
+campaign_name:
+  ru: Навязывание образа отсталости и «цивилизаторская» миссия (1721–1800-е гг.)
+  en: Imposition of an Image of Backwardness and the “Civilizing” Mission (1721–1800s)
+  uk: Нав’язування образу відсталості та «цивілізаторська» місія (1721–1800-ті рр.)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0006
+technique_name:
+  ru: Дегуманизация
+  en: Dehumanization
+  uk: Дегуманізація
 people: nokhchi
 actor: G0009
 tool: S0008

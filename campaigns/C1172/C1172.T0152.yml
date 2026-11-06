@@ -1,9 +1,17 @@
 type: procedure
 id: C1172.T0152
+campaign_name:
+  ru: '«Косите все, бейте и вешайте беспощадно»: подавление восстания 1877 года и казни в Грозном (1877-1878)'
+  en: '"Mow Down Everything, Beat and Hang Without Mercy": Suppression of the 1877 Uprising and the Executions in Grozny (1877-1878)'
+  uk: '«Косіть усе, бийте і вішайте нещадно»: придушення повстання 1877 року і страти в Грозному (1877-1878)'
 created: 2026-08-03
 modified: 2026-08-03
 version: '1.0'
 technique: T0152
+technique_name:
+  ru: Стравливание соседних народов
+  en: Pitting Neighboring Peoples Against Each Other
+  uk: Нацьковування сусідніх народів
 people: nokhchi
 actor: G0009
 tool: S0010

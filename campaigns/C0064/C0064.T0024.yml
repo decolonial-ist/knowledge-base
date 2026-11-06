@@ -1,9 +1,17 @@
 type: procedure
 id: C0064.T0024
+campaign_name:
+  ru: Русско-турецкая война и панславизм (1877–1878)
+  en: Russo-Turkish War and Pan-Slavism (1877–1878)
+  uk: Російсько-турецька війна та панславізм (1877–1878)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0024
+technique_name:
+  ru: Оправдание через религию
+  en: Justification Through Religion
+  uk: Виправдання через релігію
 people: ukrainians
 actor: G0009
 tool: S0008

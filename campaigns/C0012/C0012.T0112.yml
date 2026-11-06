@@ -1,9 +1,17 @@
 type: procedure
 id: C0012.T0112
+campaign_name:
+  ru: Переход Мазепы на сторону Швеции и Батуринская резня (1708)
+  en: Mazepa's Defection to Sweden and the Baturyn Massacre (1708)
+  uk: Перехід Мазепи на бік Швеції та Батуринська різанина (1708)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0112
+technique_name:
+  ru: Кража культурных ценностей
+  en: Theft of Cultural Property
+  uk: Крадіжка культурних цінностей
 people: ukrainians
 actor: G0008
 tool: S0010

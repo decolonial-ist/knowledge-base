@@ -1,9 +1,17 @@
 type: procedure
 id: C0003.T0019
+campaign_name:
+  ru: Московско-украинская война (1658–1659)
+  en: Muscovite–Ukrainian War (1658–1659)
+  uk: Московсько-українська війна (1658–1659)
 created: 2026-04-24
 modified: 2026-08-03
 version: '1.0'
 technique: T0019
+technique_name:
+  ru: Военная интервенция
+  en: Military Intervention
+  uk: Воєнна інтервенція
 people: ukrainians
 actor: G0008
 tool: S0010
