@@ -5,8 +5,8 @@ campaign_name:
   en: Diplomatic Attack Against NATO Enlargement (2008)
   uk: Дипломатична атака проти розширення НАТО (2008)
 created: 2026-04-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-01
+version: '1.0'
 technique: T0137
 technique_name:
   ru: Дезинформация

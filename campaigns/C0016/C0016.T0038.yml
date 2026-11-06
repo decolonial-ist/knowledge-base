@@ -5,8 +5,8 @@ campaign_name:
   en: The Reshetylivka Articles (1709)
   uk: Решетилівські статті (1709)
 created: 2026-04-24
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-10-26
+version: '1.0'
 technique: T0038
 technique_name:
   ru: Экономический контроль

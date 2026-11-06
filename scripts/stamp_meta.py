@@ -8,7 +8,10 @@
   - `modified` = сегодня (UTC);
   - `version` поднимается на 0.1, если `modified` до этого была не сегодняшней (не чаще раза в день);
   - `created` ставится, если поля нет.
-Автор PR эти поля не трогает; если тронул - CI их перезапишет. Карточек материалов в базе нет (они в архиве).
+Автор PR эти поля не трогает; если тронул - CI их перезапишет.
+Правка только служебных полей (эти три, campaign_name, technique_name) - не изменение содержимого: файл
+сравнивается с версией из HEAD~1 без них и, если равен, не штампуется (06.11.2026: добавление названий
+кампании и техники проштамповало 852 процедуры, текст которых не менялся). Карточек материалов в базе нет (они в архиве).
 Файл переписывается тем же дампером, что у копии из таблицы, поэтому меняются только эти три строки.
 Названия кампании и техники в процедурах ставит соседний procedure_names.py (CI гонит его следом).
 """
@@ -20,6 +23,24 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kbformat  # noqa: E402
 
 META_KINDS = ("tactics", "techniques", "actors", "tools", "campaigns")
+# поля, смена которых содержимым не считается
+SERVICE_FIELDS = ("created", "modified", "version", "campaign_name", "technique_name")
+
+
+def content(doc):
+    return {k: v for k, v in doc.items() if k not in SERVICE_FIELDS}
+
+
+def previous(path):
+    """Файл из HEAD~1 (до merge), None - если его там нет или это не git."""
+    import subprocess
+    try:
+        top = subprocess.run(["git", "rev-parse", "--show-toplevel"], capture_output=True, text=True, cwd=os.path.dirname(path)).stdout.strip()
+        rel = os.path.relpath(path, top)
+        r = subprocess.run(["git", "show", f"HEAD~1:{rel}"], capture_output=True, text=True, cwd=top)
+        return kbformat.yaml.safe_load(r.stdout) if r.returncode == 0 else None
+    except (OSError, ValueError):
+        return None
 
 
 def bump(version):
@@ -36,6 +57,9 @@ def stamp(path, today):
         return False
     doc = kbformat.load_yaml(path)
     if not isinstance(doc, dict):
+        return False
+    prev_doc = previous(os.path.abspath(path))
+    if isinstance(prev_doc, dict) and content(prev_doc) == content(doc):
         return False
     before = dict(doc)
     if not doc.get("created"):

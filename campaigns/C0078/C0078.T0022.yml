@@ -5,8 +5,8 @@ campaign_name:
   en: 'Terror by Famine: The Holodomor (1932–1933)'
   uk: 'Терор голодом: Голодомор (1932–1933)'
 created: 2026-04-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-04-27
+version: '1.0'
 technique: T0022
 technique_name:
   ru: Террор

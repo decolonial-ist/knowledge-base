@@ -5,8 +5,8 @@ campaign_name:
   en: 'Sovietization of Chechnya: revkoms in place of Soviets, punitive operations and Cheka executions (1920-1924)'
   uk: 'Радянізація Чечні: ревкоми замість Рад, каральні операції та розстріли ЧК (1920-1924)'
 created: 2026-08-08
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-08
+version: '1.0'
 technique: T0155
 technique_name:
   ru: Принудительное разоружение

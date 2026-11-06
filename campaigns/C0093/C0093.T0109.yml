@@ -5,8 +5,8 @@ campaign_name:
   en: Manipulative Referendum on the Preservation of the USSR (March 1991)
   uk: Маніпулятивний референдум про збереження СРСР (березень 1991)
 created: 2026-04-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-01
+version: '1.0'
 technique: T0109
 technique_name:
   ru: Имитация народного волеизъявления

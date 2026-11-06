@@ -5,8 +5,8 @@ campaign_name:
   en: Military Liquidation of the Zaporozhian Sich (1775)
   uk: Військова ліквідація Запорозької Січі (1775)
 created: 2026-04-25
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-01
+version: '1.0'
 technique: T0019
 technique_name:
   ru: Военная интервенция

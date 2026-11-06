@@ -5,8 +5,8 @@ campaign_name:
   en: Comprehensive Reconnaissance of Territories and an Attempt to Coerce into Subjecthood (1658–1660)
   uk: Комплексна розвідка територій і спроба примусу до підданства (1658–1660)
 created: 2026-06-15
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-06-15
+version: '1.0'
 technique: T0147
 technique_name:
   ru: Принудительное оформление подданства

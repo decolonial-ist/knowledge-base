@@ -5,8 +5,8 @@ campaign_name:
   en: 'Coercion of Chechnya into Oaths by Feze''s Spring Tour: Amanats from Communities Coerced into the Oath, Destruction of Auls along the Dzhalka, a Livestock Fine (February-April 1837)'
   uk: 'Примушення Чечні до присяги весняним туром Фезе: аманати з примушених до присяги громад, знищення аулів по Джалці, штраф худобою (лютий-квітень 1837)'
 created: 2026-07-21
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-04
+version: '1.0'
 technique: T0099
 technique_name:
   ru: Захват заложников

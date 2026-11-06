@@ -5,8 +5,8 @@ campaign_name:
   en: Attempted Coup d'État by the GKChP (August 1991)
   uk: Спроба державного перевороту ГКЧП (серпень 1991)
 created: 2026-04-27
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-01
+version: '1.0'
 technique: T0020
 technique_name:
   ru: Организация переворота

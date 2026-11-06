@@ -5,8 +5,8 @@ campaign_name:
   en: 'Denikin''s terror in Chechnya: destroyed auls and 15 thousand dead (1919)'
   uk: 'Денікінський терор у Чечні: зруйновані аули і 15 тисяч загиблих (1919)'
 created: 2026-08-09
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-08-09
+version: '1.0'
 technique: T0156
 technique_name:
   ru: Принудительная выдача беглых и повстанцев

@@ -5,8 +5,8 @@ campaign_name:
   en: Suppression of the Uprising, Military Intervention, and Forced Formalization of Subjecthood (1722)
   uk: Придушення повстання, воєнна інтервенція та примусове оформлення підданства (1722)
 created: 2026-06-18
-modified: 2026-11-06
-version: '1.1'
+modified: 2026-06-18
+version: '1.0'
 technique: T0147
 technique_name:
   ru: Принудительное оформление подданства
