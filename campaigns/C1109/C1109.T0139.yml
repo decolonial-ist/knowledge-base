@@ -1,22 +1,22 @@
 type: procedure
 id: C1109.T0139
 campaign_name:
-  ru: Циклическая перестройка и ликвидация укреплений на реке Сунжа (1571–1653)
   en: Cyclical Rebuilding and Elimination of Fortifications on the Sunzha River (1571–1653)
   uk: Циклічна перебудова та ліквідація укріплень на річці Сунжа (1571–1653)
+  ru: Циклическая перестройка и ликвидация укреплений на реке Сунжа (1571–1653)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0139
 technique_name:
-  ru: Возведение крепостей
   en: Construction of Fortresses
   uk: Зведення фортець
+  ru: Возведение крепостей
 people: nokhchi
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'Военные силы Московского Царства многократно восстанавливали укрепленный пункт на землях нохчи: историк Е. Н. Кушева пишет, что «в 1577 - 1578 гг... русский город был возобновлен на реке на Терке на устье Сунчи»(Citation: 83), а составитель сборника документов Е. Н. Кушева указывает, что военные силы Московского Царства «острог отстраивали в 1590, 1635 гг.»(Citation: 82) и «в 1651 г. был вновь построен русский острог на левом берегу Сунжи»(Citation: 82).'
   en: 'The military forces of the Tsardom of Muscovy repeatedly rebuilt the fortified outpost on the lands of the Nokhchi: historian E. N. Kusheva writes that "in 1577 - 1578... the Russian town was reestablished on the Terek River at the mouth of the Sunzha"(Citation: 83), while the compiler of the collection of documents E. N. Kusheva indicates that the military forces of the Tsardom of Muscovy "rebuilt the ostrog in 1590 and 1635"(Citation: 82) and that "in 1651 a Russian ostrog was built anew on the left bank of the Sunzha"(Citation: 82).'
   uk: 'Військові сили Московського царства багаторазово відновлювали укріплений пункт на землях Нохчі: історик Е. Н. Кушева пише, що «в 1577 - 1578 рр... руське місто було відновлене на річці Терек у гирлі Сунжі»(Citation: 83), а укладачка збірника документів Е. Н. Кушева вказує, що військові сили Московського царства «острог відбудовували в 1590, 1635 рр.»(Citation: 82) і «в 1651 р. був знову збудований руський острог на лівому березі Сунжі»(Citation: 82).'
+  ru: 'Военные силы Московского Царства многократно восстанавливали укрепленный пункт на землях нохчи: историк Е. Н. Кушева пишет, что «в 1577 - 1578 гг... русский город был возобновлен на реке на Терке на устье Сунчи»(Citation: 83), а составитель сборника документов Е. Н. Кушева указывает, что военные силы Московского Царства «острог отстраивали в 1590, 1635 гг.»(Citation: 82) и «в 1651 г. был вновь построен русский острог на левом берегу Сунжи»(Citation: 82).'

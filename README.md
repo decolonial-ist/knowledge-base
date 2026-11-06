@@ -1,39 +1,39 @@
-# DECOLONIAL.IST - база знаний о российском колониализме
+# DECOLONIAL.IST - a knowledge base on Russian colonialism
 
-[Українською](#українською) · [English](#english)
+[Українською](#українською) · [По-русски](#по-русски)
 
-База знаний о том, как Россия колонизирует народы: действия империи описаны в структуре [MITRE ATT&CK](https://attack.mitre.org), с позиции колонизированных. Сайт - https://decolonial.ist. Здесь лежат сами данные сайта: один YAML-файл на сущность, проза - Markdown внутри файла.
+A knowledge base on how Russia colonises peoples: the empire's actions described in the [MITRE ATT&CK](https://attack.mitre.org) structure, from the perspective of the colonised. Site - https://decolonial.ist. This repository holds the site's data itself: one YAML file per entity, prose as Markdown inside the file.
 
-## Устройство
+## Layout
 
-| Папка | Что внутри | Имя файла |
+| Folder | What is inside | File name |
 |---|---|---|
-| `tactics/` | тактики - цели колонизатора | `TA0001.yml` |
-| `techniques/` | техники и подтехники - как он действует | `T0023.yml`, `T0162.004.yml` |
-| `actors/` | акторы - кто действует | `G0013.yml` |
-| `tools/` | инструменты | `S0010.yml` |
-| `campaigns/` | кампании - период или система политики против народа; в папке кампании её описание и процедуры | `C1193/C1193.yml` |
-| `campaigns/<кампания>/` | процедуры - конкретное применение техники в кампании, главный текст базы; в файле названия кампании и техники | `C1193/C1193.T0023.yml` |
-| `sources/` | файлы источников, которые ждут приёмки в архив; в `main` пуста | |
-| `unpublished/` | то, чего на сайте нет, той же раскладкой; сайт и экспорт папку не читают, проверяется только форма файлов. Снять с сайта или вернуть - перенос файла одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `tactics/` | tactics - the coloniser's goals | `TA0001.yml` |
+| `techniques/` | techniques and sub-techniques - how it acts | `T0023.yml`, `T0162.004.yml` |
+| `actors/` | actors - who acts | `G0013.yml` |
+| `tools/` | tools | `S0010.yml` |
+| `campaigns/` | campaigns - a period or a system of policy against a people; the campaign folder holds its description and its procedures | `C1193/C1193.yml` |
+| `campaigns/<campaign>/` | procedures - a concrete application of a technique in a campaign, the main text of the base; the file carries the campaign and technique names | `C1193/C1193.T0023.yml` |
+| `sources/` | source files awaiting intake into the archive; empty in `main` | |
+| `unpublished/` | what is not on the site, in the same layout; the site and the export do not read this folder, only the file shape is checked. To take off the site or bring back - move the file in one pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
 
-Имя файла - только идентификатор; названия на трёх языках (`ru`, `en`, `uk`) внутри. В прозе одна фраза - одна строка, абзац - пустая строка: так правка в pull request видна по фразе. Правила прозы - в `CONTRIBUTING.md`.
+The file name is the identifier only; the names in three languages (`en`, `uk`, `ru`) are inside. In the prose, one sentence per line, a blank line between paragraphs: this way an edit in a pull request is visible sentence by sentence. The rules of the prose are in `CONTRIBUTING.md`.
 
-Источники живут в архиве https://archive.decolonial.ist: сноска в тексте - номер карточки, `(Citation: 1068)`; список номеров - `MATERIALS.md`. Нет вашего источника - поставьте в сноску ссылку, библиографию словами или файл из `sources/`, номер выдаст Архивариус.
+Sources live in the archive https://archive.decolonial.ist: a citation in the text is a card number, `(Citation: 1068)`; the list of numbers is `MATERIALS.md`. If your source is not there, put a link, a bibliography line or a file from `sources/` into the citation; the archivist assigns the number.
 
 ## STIX
 
-При каждом merge в `main` CI собирает базу в три бандла STIX 2.1 (`scripts/export_stix.py`) и слои ATT&CK Navigator и кладёт их в релиз `stix` с постоянными адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (русский), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Идентификаторы объектов стабильны: они выводятся из идентификаторов сущностей. Сайт decolonial.ist собирается из этих же файлов.
+On every merge into `main`, CI builds the base into three STIX 2.1 bundles (`scripts/export_stix.py`) and ATT&CK Navigator layers and puts them into the `stix` release at permanent addresses: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (Russian), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Object identifiers are stable: they derive from the entity identifiers. The decolonial.ist site is built from these same files.
 
-## Как предложить правку
+## How to propose an edit
 
-1. Откройте файл на GitHub и нажмите карандаш «Edit» (или кнопку «Предложить правку» на странице сайта).
-2. Исправьте текст, внизу нажмите «Propose changes»: GitHub сам создаст копию и pull request.
-3. Проверки формы пройдут автоматически; содержание читает куратор и отвечает в pull request.
+1. Open the file on GitHub and click the pencil "Edit" (or the "Suggest an edit" button on a page of the site).
+2. Fix the text, click "Propose changes" at the bottom: GitHub creates the copy and the pull request for you.
+3. The shape checks run automatically; the content is read by the curator, who replies in the pull request.
 
-Заметили ошибку, но править не хотите - создайте issue по шаблону. Подробности - `CONTRIBUTING.md`.
+Spotted an error but do not want to edit - open an issue from a template. Details - `CONTRIBUTING.md`.
 
-Лицензия: тексты CC BY-SA 4.0, код Apache-2.0 - `LICENSE.md`.
+License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
 
 ---
 
@@ -54,7 +54,7 @@
 | `sources/` | файли джерел, які чекають на приймання в архів; у `main` порожня | |
 | `unpublished/` | те, чого на сайті немає, тією самою розкладкою; сайт і експорт папку не читають, перевіряється лише форма файлів. Зняти з сайту або повернути - перенесення файлу одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
 
-Ім'я файлу - лише ідентифікатор; назви трьома мовами (`ru`, `en`, `uk`) усередині. У прозі одна фраза - один рядок, абзац - порожній рядок: так правка в pull request видна за фразою. Правила прози - у `CONTRIBUTING.md`.
+Ім'я файлу - лише ідентифікатор; назви трьома мовами (`en`, `uk`, `ru`) усередині. У прозі одна фраза - один рядок, абзац - порожній рядок: так правка в pull request видна за фразою. Правила прози - у `CONTRIBUTING.md`.
 
 Джерела живуть в архіві https://archive.decolonial.ist: зноска в тексті - номер картки, `(Citation: 1068)`; список номерів - `MATERIALS.md`. Немає вашого джерела - поставте у зноску посилання, бібліографію словами або файл із `sources/`, номер видасть Архіваріус.
 
@@ -74,37 +74,37 @@
 
 ---
 
-## English
+## По-русски
 
-A knowledge base on how Russia colonises peoples: the empire's actions described in the [MITRE ATT&CK](https://attack.mitre.org) structure, from the perspective of the colonised. Site - https://decolonial.ist. This repository holds the site's data itself: one YAML file per entity, prose as Markdown inside the file.
+База знаний о том, как Россия колонизирует народы: действия империи описаны в структуре [MITRE ATT&CK](https://attack.mitre.org), с позиции колонизированных. Сайт - https://decolonial.ist. Здесь лежат сами данные сайта: один YAML-файл на сущность, проза - Markdown внутри файла.
 
-### Layout
+### Устройство
 
-| Folder | What is inside | File name |
+| Папка | Что внутри | Имя файла |
 |---|---|---|
-| `tactics/` | tactics - the coloniser's goals | `TA0001.yml` |
-| `techniques/` | techniques and sub-techniques - how it acts | `T0023.yml`, `T0162.004.yml` |
-| `actors/` | actors - who acts | `G0013.yml` |
-| `tools/` | tools | `S0010.yml` |
-| `campaigns/` | campaigns - a period or a system of policy against a people; the campaign folder holds its description and its procedures | `C1193/C1193.yml` |
-| `campaigns/<campaign>/` | procedures - a concrete application of a technique in a campaign, the main text of the base; the file carries the campaign and technique names | `C1193/C1193.T0023.yml` |
-| `sources/` | source files awaiting intake into the archive; empty in `main` | |
-| `unpublished/` | what is not on the site, in the same layout; the site and the export do not read this folder, only the file shape is checked. To take off the site or bring back - move the file in one pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `tactics/` | тактики - цели колонизатора | `TA0001.yml` |
+| `techniques/` | техники и подтехники - как он действует | `T0023.yml`, `T0162.004.yml` |
+| `actors/` | акторы - кто действует | `G0013.yml` |
+| `tools/` | инструменты | `S0010.yml` |
+| `campaigns/` | кампании - период или система политики против народа; в папке кампании её описание и процедуры | `C1193/C1193.yml` |
+| `campaigns/<кампания>/` | процедуры - конкретное применение техники в кампании, главный текст базы; в файле названия кампании и техники | `C1193/C1193.T0023.yml` |
+| `sources/` | файлы источников, которые ждут приёмки в архив; в `main` пуста | |
+| `unpublished/` | то, чего на сайте нет, той же раскладкой; сайт и экспорт папку не читают, проверяется только форма файлов. Снять с сайта или вернуть - перенос файла одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
 
-The file name is the identifier only; the names in three languages (`ru`, `en`, `uk`) are inside. In the prose, one sentence per line, a blank line between paragraphs: this way an edit in a pull request is visible sentence by sentence. The rules of the prose are in `CONTRIBUTING.md`.
+Имя файла - только идентификатор; названия на трёх языках (`en`, `uk`, `ru`) внутри. В прозе одна фраза - одна строка, абзац - пустая строка: так правка в pull request видна по фразе. Правила прозы - в `CONTRIBUTING.md`.
 
-Sources live in the archive https://archive.decolonial.ist: a citation in the text is a card number, `(Citation: 1068)`; the list of numbers is `MATERIALS.md`. If your source is not there, put a link, a bibliography line or a file from `sources/` into the citation; the archivist assigns the number.
+Источники живут в архиве https://archive.decolonial.ist: сноска в тексте - номер карточки, `(Citation: 1068)`; список номеров - `MATERIALS.md`. Нет вашего источника - поставьте в сноску ссылку, библиографию словами или файл из `sources/`, номер выдаст Архивариус.
 
 ### STIX
 
-On every merge into `main`, CI builds the base into three STIX 2.1 bundles (`scripts/export_stix.py`) and ATT&CK Navigator layers and puts them into the `stix` release at permanent addresses: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (Russian), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Object identifiers are stable: they derive from the entity identifiers. The decolonial.ist site is built from these same files.
+При каждом merge в `main` CI собирает базу в три бандла STIX 2.1 (`scripts/export_stix.py`) и слои ATT&CK Navigator и кладёт их в релиз `stix` с постоянными адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (русский), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Идентификаторы объектов стабильны: они выводятся из идентификаторов сущностей. Сайт decolonial.ist собирается из этих же файлов.
 
-### How to propose an edit
+### Как предложить правку
 
-1. Open the file on GitHub and click the pencil "Edit" (or the "Suggest an edit" button on a page of the site).
-2. Fix the text, click "Propose changes" at the bottom: GitHub creates the copy and the pull request for you.
-3. The shape checks run automatically; the content is read by the curator, who replies in the pull request.
+1. Откройте файл на GitHub и нажмите карандаш «Edit» (или кнопку «Предложить правку» на странице сайта).
+2. Исправьте текст, внизу нажмите «Propose changes»: GitHub сам создаст копию и pull request.
+3. Проверки формы пройдут автоматически; содержание читает куратор и отвечает в pull request.
 
-Spotted an error but do not want to edit - open an issue from a template. Details - `CONTRIBUTING.md`.
+Заметили ошибку, но править не хотите - создайте issue по шаблону. Подробности - `CONTRIBUTING.md`.
 
-License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
+Лицензия: тексты CC BY-SA 4.0, код Apache-2.0 - `LICENSE.md`.

@@ -1,22 +1,22 @@
 type: procedure
 id: C1115.T0057
 campaign_name:
-  ru: Экономическая эксплуатация и создание зависимости нохчи (1617–1622)
   en: Economic Exploitation and Creation of Dependency of the Nokhchi (1617–1622)
   uk: Економічна експлуатація та створення залежності Нохчі (1617–1622)
+  ru: Экономическая эксплуатация и создание зависимости нохчи (1617–1622)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0057
 technique_name:
-  ru: Эксплуатация труда
   en: Labor Exploitation
   uk: Експлуатація праці
+  ru: Эксплуатация труда
 people: nokhchi
 actor: G0008
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация целенаправленно истощала коренное население материально, заставляя нести принудительную службу за свой счет: в поданной царю Михаилу Федоровичу челобитной окоцкий мурза Кохостров Бийтемиров и служилые окочане Терского города докладывали, что из-за невыплаты жалованья они «стали безхлебны, от голоду и от всякие нужи в конец погибли и одолжали, государь, великим долгом и помираем з женишками и з детишка голодною смертью»(Citation: 82).'
   en: 'The occupation administration deliberately exhausted the Indigenous population materially, forcing them to perform compulsory service at their own expense: in a petition submitted to Tsar Mikhail Fyodorovich, the Okotsky murza Kokhostrov Biytemirov and the serving Okochans of Tersky Town reported that, because their allowance went unpaid, they «were left without grain, have utterly perished from hunger and every hardship, have fallen, sovereign, into great debt, and are dying a death of starvation together with our wives and little children»(Citation: 82).'
   uk: 'Окупаційна адміністрація цілеспрямовано виснажувала корінне населення матеріально, змушуючи нести примусову службу власним коштом: у поданій цареві Михайлу Федоровичу чолобитній окоцький мурза Кохостров Бійтеміров та служилі Окочани Терського міста доповідали, що через невиплату жалування вони «стали безхлібні, від голоду і від усякої нужди вкрай загинули і заборгували, государю, великим боргом, і помираємо з жінками і з дітьми голодною смертю»(Citation: 82).'
+  ru: 'Оккупационная администрация целенаправленно истощала коренное население материально, заставляя нести принудительную службу за свой счет: в поданной царю Михаилу Федоровичу челобитной окоцкий мурза Кохостров Бийтемиров и служилые окочане Терского города докладывали, что из-за невыплаты жалованья они «стали безхлебны, от голоду и от всякие нужи в конец погибли и одолжали, государь, великим долгом и помираем з женишками и з детишка голодною смертью»(Citation: 82).'

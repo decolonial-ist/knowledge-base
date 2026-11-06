@@ -1,24 +1,24 @@
 type: procedure
 id: C0045.T0036
 campaign_name:
-  ru: Отмена Магдебургского права (1831)
   en: Abolition of Magdeburg Rights (1831)
   uk: Скасування Магдебурзького права (1831)
+  ru: Отмена Магдебургского права (1831)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0036
 technique_name:
-  ru: Установка новой системы управления
   en: Installation of a New System of Governance
   uk: Встановлення нової системи управління
+  ru: Установка новой системы управления
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Отмена традиционного местного самоуправления: «Окончательная ликвидация магдебургского права … в городах Центральной и Левобережной Украины – в 1831 (в Киеве – 1834)»(Citation: 194) – города переводились на общеимперское городовое устройство.'
   en: 'The abolition of traditional local self-government: "The final liquidation of Magdeburg law… in the cities of Central and Left-Bank Ukraine – in 1831 (in Kyiv – 1834)"(Citation: 194) – the cities were transferred to the empire-wide municipal order.'
   uk: |-
     Скасування традиційного місцевого самоврядування: «Остаточна ліквідація М[агдебурзького] п[рава] … в містах Центр. і Лівобереж.
     України – у 1831 (у Києві – 1834)»(Citation: 194) – міста переводилися на загальноімперський міський устрій.
+  ru: 'Отмена традиционного местного самоуправления: «Окончательная ликвидация магдебургского права … в городах Центральной и Левобережной Украины – в 1831 (в Киеве – 1834)»(Citation: 194) – города переводились на общеимперское городовое устройство.'

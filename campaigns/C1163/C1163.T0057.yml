@@ -1,28 +1,22 @@
 type: procedure
 id: C1163.T0057
 campaign_name:
-  ru: Аманатско-податная система полковника Пулло в захваченных аулах Чечни (1836-1840)
   en: The amanat-and-tribute system of colonel Pullo in the seized auls of Chechnya (1836-1840)
   uk: Аманатсько-податна система полковника Пулло у захоплених аулах Чечні (1836-1840)
+  ru: Аманатско-податная система полковника Пулло в захваченных аулах Чечни (1836-1840)
 created: 2026-07-23
 modified: 2026-07-23
 version: '1.0'
 technique: T0057
 technique_name:
-  ru: Эксплуатация труда
   en: Labor Exploitation
   uk: Експлуатація праці
+  ru: Эксплуатация труда
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Аманатско-податная система Пулло, командующего левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), включала принудительные работы: войска принуждали жителей захваченных аулов Чечни рубить собственный лес по разнарядке.
-    Имперский историк Юров записал о декабрьской экспедиции 1839 года, что жители аулов под давлением отряда «рубили по наряду лес в Гехи, на ур.
-    Валерик и между сс.
-    Шали и м. Атагой» (Гехи, Валерик, Шали, Малая Атага - чеченские селения и урочища; «по наряду» - по принудительной развёрстке, наложенной войсками наряду с податью и выдачей оружия)(Citation: 134).
-    Лес, который жителей заставляли валить, был средой жизни и укрытием чеченских обществ.
   en: |-
     The amanat-and-tribute system of Pullo, commander of the left flank of the Caucasus Line (a chain of imperial fortifications on the land of the Nokhchi), included forced labor: the troops forced the inhabitants of the seized auls of Chechnya to fell their own forest by allotment.
     The imperial historian Yurov recorded of the December 1839 expedition that under the pressure of the detachment the inhabitants of the auls "felled forest by allotment at Gekhi, at the Valerik tract and between the villages of Shali and Malaya Ataga" (Gekhi, Valerik, Shali, Malaya Ataga - Chechen villages and tracts; "by allotment" - by a forced apportionment imposed by the troops alongside the tribute and the surrender of weapons)(Citation: 134).
@@ -33,3 +27,9 @@ description:
     Валерик і між сс.
     Шалі та М. Атагою» (Гехі, Валерик, Шалі, Мала Атага - чеченські селища й урочища; «за нарядом» - за примусовою розверсткою, накладеною військами поряд з податтю і видачею зброї)(Citation: 134).
     Ліс, який жителів змушували валити, був середовищем життя і укриттям чеченських товариств.
+  ru: |-
+    Аманатско-податная система Пулло, командующего левым флангом Кавказской линии (цепи имперских укреплений на земле нохчи), включала принудительные работы: войска принуждали жителей захваченных аулов Чечни рубить собственный лес по разнарядке.
+    Имперский историк Юров записал о декабрьской экспедиции 1839 года, что жители аулов под давлением отряда «рубили по наряду лес в Гехи, на ур.
+    Валерик и между сс.
+    Шали и м. Атагой» (Гехи, Валерик, Шали, Малая Атага - чеченские селения и урочища; «по наряду» - по принудительной развёрстке, наложенной войсками наряду с податью и выдачей оружия)(Citation: 134).
+    Лес, который жителей заставляли валить, был средой жизни и укрытием чеченских обществ.

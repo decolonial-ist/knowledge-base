@@ -1,22 +1,22 @@
 type: procedure
 id: C0103.T0118
 campaign_name:
-  ru: Полномасштабное вторжение (с 24 февраля 2022)
   en: Full-Scale Invasion (from February 24, 2022)
   uk: Повномасштабне вторгнення (з 24 лютого 2022)
+  ru: Полномасштабное вторжение (с 24 февраля 2022)
 created: 2026-04-27
 modified: 2026-08-01
 version: '1.0'
 technique: T0118
 technique_name:
-  ru: Истребление по территориальному признаку
   en: Extermination on a Territorial Basis
   uk: Винищення за територіальною ознакою
+  ru: Истребление по территориальному признаку
 people: ukrainians
 actor: G0011
 tool: S0010
 contributors: []
 description:
-  ru: 'Целенаправленные массовые убийства людей без разбора их этнического происхождения исключительно по факту их принадлежности к украинскому гражданству и государству(Citation: 2).'
   en: 'Deliberate mass killings of people without regard to their ethnic origin, solely on the basis of their Ukrainian citizenship and affiliation with the Ukrainian state(Citation: 2).'
   uk: 'Цілеспрямовані масові вбивства людей без розбору їхнього етнічного походження виключно за фактом їхньої належності до українського громадянства та держави(Citation: 2).'
+  ru: 'Целенаправленные массовые убийства людей без разбора их этнического происхождения исключительно по факту их принадлежности к украинскому гражданству и государству(Citation: 2).'

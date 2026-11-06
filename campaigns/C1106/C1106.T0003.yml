@@ -1,22 +1,22 @@
 type: procedure
 id: C1106.T0003
 campaign_name:
-  ru: Пропагандистская инверсия ролей и дегуманизация (1800–1864 гг.)
   en: Propagandistic Inversion of Roles and Dehumanization (1800–1864)
   uk: Пропагандистська інверсія ролей і дегуманізація (1800–1864 рр.)
+  ru: Пропагандистская инверсия ролей и дегуманизация (1800–1864 гг.)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0003
 technique_name:
-  ru: Культивирование логики превосходства
   en: Cultivation of a Logic of Superiority
   uk: Культивування логіки вищості
+  ru: Культивирование логики превосходства
 people: nokhchi
 actor: G0009
 tool: S0021
 contributors: []
 description:
-  ru: 'Аппарат пропаганды Российской империи использовал поэзию для трансляции в общество логики доминирования: имперский историк и участник событий В. А. Потто фиксирует, что поэт А. С. Пушкин в стихах провозглашал неизбежность завоевания: «Смирись, Кавказ,- идет Ермолов!»(Citation: 75), а поэт В. А. Жуковский восхвалял разрушение инфраструктуры военачальниками: «Лишь к селам - пышут села»(Citation: 74).'
   en: 'The propaganda apparatus of the Russian Empire used poetry to broadcast the logic of domination into society: the imperial historian and participant in the events V. A. Potto records that the poet A. S. Pushkin proclaimed in verse the inevitability of subjugation: «Submit, Caucasus - Yermolov is coming!»(Citation: 75), while the poet V. A. Zhukovsky extolled the destruction of infrastructure by military commanders: «Scarcely at the villages - the villages blaze»(Citation: 74).'
   uk: 'Апарат пропаганди Російської імперії використовував поезію для трансляції в суспільство логіки домінування: імперський історик і учасник подій В. О. Потто фіксує, що поет О. С. Пушкін у віршах проголошував неминучість підкорення: «Смирися, Кавказе, - іде Єрмолов!»(Citation: 75), а поет В. А. Жуковський вихваляв руйнування інфраструктури воєначальниками: «Лиш до сіл - палають села»(Citation: 74).'
+  ru: 'Аппарат пропаганды Российской империи использовал поэзию для трансляции в общество логики доминирования: имперский историк и участник событий В. А. Потто фиксирует, что поэт А. С. Пушкин в стихах провозглашал неизбежность завоевания: «Смирись, Кавказ,- идет Ермолов!»(Citation: 75), а поэт В. А. Жуковский восхвалял разрушение инфраструктуры военачальниками: «Лишь к селам - пышут села»(Citation: 74).'

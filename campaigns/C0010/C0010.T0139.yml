@@ -1,28 +1,28 @@
 type: procedure
 id: C0010.T0139
 campaign_name:
-  ru: Азовские походы и строительство крепостей (1695–1700)
   en: Azov Campaigns and Fortress Construction (1695–1700)
   uk: Азовські походи та будівництво фортець (1695–1700)
+  ru: Азовские походы и строительство крепостей (1695–1700)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0139
 technique_name:
-  ru: Возведение крепостей
   en: Construction of Fortresses
   uk: Зведення фортець
+  ru: Возведение крепостей
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Развертывание сети военных баз (Новобогородицкая, Каменный Затон) возле Запорожской Сечи.
-    Под предлогом защиты Москва устанавливала жесткий военный контроль: «Запорожцы... как условие для любой присяги выдвигали разрушение Каменного Затона»(Citation: 4)(Citation: 3).
   en: |-
     The deployment of a network of military bases (Novobohorodytska, Kamianyi Zaton) near the Zaporozhian Sich.
     Under the pretext of protection, Moscow was establishing rigid military control: "The Zaporozhians... put forward the destruction of Kamianyi Zaton as a condition for any oath of allegiance"(Citation: 4)(Citation: 3).
   uk: |-
     Розгортання мережі військових баз (Новобогородицька, Кам'яний Затон) біля Запорозької Січі.
     Під приводом захисту Москва встановлювала жорсткий військовий контроль: «Запорожці... як умову для будь-якої присяги висували зруйнування Кам'яного Затону»(Citation: 4)(Citation: 3).
+  ru: |-
+    Развертывание сети военных баз (Новобогородицкая, Каменный Затон) возле Запорожской Сечи.
+    Под предлогом защиты Москва устанавливала жесткий военный контроль: «Запорожцы... как условие для любой присяги выдвигали разрушение Каменного Затона»(Citation: 4)(Citation: 3).

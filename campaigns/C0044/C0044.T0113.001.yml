@@ -1,22 +1,22 @@
 type: procedure
 id: C0044.T0113.001
 campaign_name:
-  ru: Русификация образования и религии (1769–1786)
   en: Russification of Education and Religion (1769–1786)
   uk: Русифікація освіти та релігії (1769–1786)
+  ru: Русификация образования и религии (1769–1786)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0113.001
 technique_name:
-  ru: Законодательный запрет родного языка
   en: Legislative Ban on the Native Language
   uk: Законодавча заборона рідної мови
+  ru: Законодательный запрет родного языка
 people: ukrainians
 actor: G0009
 tool: S0011
 contributors: []
 description:
-  ru: 'Массовое изъятие национальной учебной и духовной литературы: «в 1769 г. Св. Синодъ не только не разрѣшилъ печатанія южно-русскихъ букварей, но предписалъ отобрать уже находящіеся на рукахъ, такъ какъ буквари того времени разсматривались какъ церковныя книги»(Citation: 159).'
   en: 'The mass confiscation of national educational and religious literature: "in 1769 the Holy Synod not only refused permission to print South Russian primers, but ordered the confiscation of those already in people''s hands, since the primers of that time were regarded as church books"(Citation: 159).'
   uk: 'Масове вилучення національної навчальної та духовної літератури: «1769 р. Св. Синод не тільки не дозволив друкування південноруських букварів, а й приписав відібрати ті, що вже були на руках, оскільки букварі того часу розглядалися як церковні книги»(Citation: 159).'
+  ru: 'Массовое изъятие национальной учебной и духовной литературы: «в 1769 г. Св. Синодъ не только не разрѣшилъ печатанія южно-русскихъ букварей, но предписалъ отобрать уже находящіеся на рукахъ, такъ какъ буквари того времени разсматривались какъ церковныя книги»(Citation: 159).'

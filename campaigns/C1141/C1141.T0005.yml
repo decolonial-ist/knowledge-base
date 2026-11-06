@@ -1,28 +1,28 @@
 type: procedure
 id: C1141.T0005
 campaign_name:
-  ru: 'Закрепление в Чечне: подкуп старшин, экономический контроль и стравливание соседей (1809-1811)'
   en: 'Consolidation in Chechnya: Bribery of Elders, Economic Control, and Setting Neighbors against One Another (1809-1811)'
   uk: 'Закріплення в Чечні: підкуп старшин, економічний контроль і нацьковування сусідів (1809-1811)'
+  ru: 'Закрепление в Чечне: подкуп старшин, экономический контроль и стравливание соседей (1809-1811)'
 created: 2026-06-26
 modified: 2026-06-26
 version: '1.0'
 technique: T0005
 technique_name:
-  ru: Присвоение статуса жертвы агрессором
   en: Aggressor Claiming Victim Status
   uk: Привласнення статусу жертви агресором
+  ru: Присвоение статуса жертвы агрессором
 people: nokhchi
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Российская империя перекладывала вину за учинённое ею разорение на сам пострадавший народ.
-    В прокламации обитателям Чеченской земли главнокомандующий на Кавказе генерал Тормасов представил погром 1807 года как следствие действий самих жителей: «набеги и хищничества, кои вы производили в пределах России, навлекли на вас праведный гнев… сами вы были причиною постигшего вас в третьем году несчастия», — и пригрозил новым вторжением, «чтобы внести к виновным меч и пламя», предлагая «милость» в обмен на подчинение(Citation: 100).
   en: |-
     The Russian Empire shifted the blame for the devastation it had wrought onto the victimized people itself.
     In a proclamation to the inhabitants of the Chechen land, the commander-in-chief in the Caucasus, General Tormasov, presented the pogrom of 1807 as a consequence of the inhabitants' own actions: «the raids and depredations that you carried out within the borders of Russia brought upon you righteous wrath… you yourselves were the cause of the misfortune that befell you three years ago» — and threatened a new invasion, «to bring sword and flame upon the guilty», offering «mercy» in exchange for submission(Citation: 100).
   uk: |-
     Російська імперія перекладала провину за вчинене нею розорення на сам постраждалий народ.
     У прокламації до мешканців Чеченської землі головнокомандувач на Кавказі генерал Тормасов подав погром 1807 року як наслідок дій самих жителів: «набіги та хижацтва, які ви чинили в межах Росії, накликали на вас праведний гнів… самі ви були причиною нещастя, що спіткало вас три роки тому», — і погрозив новим вторгненням, «щоб внести до винних меч і полум'я», пропонуючи «милість» в обмін на підпорядкування(Citation: 100).
+  ru: |-
+    Российская империя перекладывала вину за учинённое ею разорение на сам пострадавший народ.
+    В прокламации обитателям Чеченской земли главнокомандующий на Кавказе генерал Тормасов представил погром 1807 года как следствие действий самих жителей: «набеги и хищничества, кои вы производили в пределах России, навлекли на вас праведный гнев… сами вы были причиною постигшего вас в третьем году несчастия», — и пригрозил новым вторжением, «чтобы внести к виновным меч и пламя», предлагая «милость» в обмен на подчинение(Citation: 100).

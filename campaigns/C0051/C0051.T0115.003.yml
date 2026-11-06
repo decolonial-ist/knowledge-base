@@ -1,22 +1,22 @@
 type: procedure
 id: C0051.T0115.003
 campaign_name:
-  ru: Запрет культуры и прессы перед Первой мировой войной (1913–1914)
   en: Ban on Culture and the Press Before World War I (1913–1914)
   uk: Заборона культури та преси напередодні Першої світової війни (1913–1914)
+  ru: Запрет культуры и прессы перед Первой мировой войной (1913–1914)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0115.003
 technique_name:
-  ru: Культурный шовинизм
   en: Cultural Chauvinism
   uk: Культурний шовінізм
+  ru: Культурный шовинизм
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Запрет на посещение культурных мероприятий: попечитель округа «издал инструкцию, в которой определил посещение учащейся молодёжью украинских театральных спектаклей столь же недопустимым, как пребывание в бильярдных или пивных»(Citation: 200).'
   en: 'The ban on attending cultural events: the district curator "issued an instruction in which he declared students'' attendance of Ukrainian theatrical performances as inadmissible as spending time in billiard halls or beer houses"(Citation: 200).'
   uk: 'Заборона відвідувати культурні заходи: попечитель округу «видав інструкцію, в якій визначив відвідання учнівською молоддю українських театральних вистав так само неприпустимим, як перебування у більярдних чи пивних»(Citation: 200).'
+  ru: 'Запрет на посещение культурных мероприятий: попечитель округа «издал инструкцию, в которой определил посещение учащейся молодёжью украинских театральных спектаклей столь же недопустимым, как пребывание в бильярдных или пивных»(Citation: 200).'

@@ -1,22 +1,22 @@
 type: procedure
 id: C1112.T0088
 campaign_name:
-  ru: Начало политического подчинения нохчи (1588–1591)
   en: Beginning of the political subjugation of the Nokhchi (1588–1591)
   uk: Початок політичного підпорядкування Нохчі (1588–1591)
+  ru: Начало политического подчинения нохчи (1588–1591)
 created: 2026-06-12
 modified: 2026-06-12
 version: '1.0'
 technique: T0088
 technique_name:
-  ru: Фиктивные договоры
   en: Sham Treaties
   uk: Фіктивні договори
+  ru: Фиктивные договоры
 people: nokhchi
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: 'Оккупационная администрация навязала вассалитет под видом равноправного союза: историк Мурат Яшар (Murat Yasar) отмечает, что правители «рассматривали шерть скорее как военный союз»(Citation: 72), однако историк Майкл Ходарковский (Michael Khodarkovsky) указывает, что «в глазах Москвы шерть теперь означала клятву верности новых и преданных подданных царя»(Citation: 70).'
   en: 'The occupation administration imposed vassalage under the guise of an equal alliance: historian Murat Yasar notes that the rulers «regarded the shert rather as a military alliance»(Citation: 72), whereas historian Michael Khodarkovsky points out that «in Moscow''s eyes, the shert now signified an oath of allegiance by the tsar''s new and loyal subjects»(Citation: 70).'
   uk: 'Окупаційна адміністрація нав''язала васалітет під виглядом рівноправного союзу: історик Мурат Яшар (Murat Yasar) зазначає, що правителі «розглядали шерть радше як військовий союз»(Citation: 72), однак історик Майкл Ходарковський (Michael Khodarkovsky) вказує, що «в очах Москви шерть тепер означала клятву вірності нових і відданих підданих царя»(Citation: 70).'
+  ru: 'Оккупационная администрация навязала вассалитет под видом равноправного союза: историк Мурат Яшар (Murat Yasar) отмечает, что правители «рассматривали шерть скорее как военный союз»(Citation: 72), однако историк Майкл Ходарковский (Michael Khodarkovsky) указывает, что «в глазах Москвы шерть теперь означала клятву верности новых и преданных подданных царя»(Citation: 70).'

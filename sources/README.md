@@ -1,6 +1,6 @@
-# sources/ - файлы источников, которые ждут приёмки в архив
+# sources/ - source files awaiting intake into the archive
 
-Нашли документ, которого нет в архиве, и у него нет ссылки - положите файл сюда в своём pull request и сошлитесь на него в тексте: `(Citation: sources/имя-файла.pdf)`. Архивариус заведёт карточку, выдаст номер, заменит сноску и уберёт файл отсюда. В `main` эта папка всегда пуста.
+Found a document that the archive does not have and that has no link? Put the file here in your pull request and cite it in the text: `(Citation: sources/file-name.pdf)`. The archivist creates a card, assigns a number, replaces the citation and removes the file from here. In `main` this folder is always empty.
 
 ---
 
@@ -8,4 +8,4 @@
 
 ---
 
-Found a document that the archive does not have and that has no link? Put the file here in your pull request and cite it in the text: `(Citation: sources/file-name.pdf)`. The archivist creates a card, assigns a number, replaces the citation and removes the file from here. In `main` this folder is always empty.
+Нашли документ, которого нет в архиве, и у него нет ссылки - положите файл сюда в своём pull request и сошлитесь на него в тексте: `(Citation: sources/имя-файла.pdf)`. Архивариус заведёт карточку, выдаст номер, заменит сноску и уберёт файл отсюда. В `main` эта папка всегда пуста.

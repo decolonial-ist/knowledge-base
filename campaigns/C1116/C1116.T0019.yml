@@ -1,24 +1,24 @@
 type: procedure
 id: C1116.T0019
 campaign_name:
-  ru: Использование нохчи в военных экспедициях, интервенция и обложение ясаком (1626–1628)
   en: Use of the Nokhchi in Military Expeditions, Intervention, and Imposition of Yasak (1626–1628)
   uk: Використання Нохчі у воєнних експедиціях, інтервенція та обкладення ясаком (1626–1628)
+  ru: Использование нохчи в военных экспедициях, интервенция и обложение ясаком (1626–1628)
 created: 2026-06-14
 modified: 2026-06-14
 version: '1.0'
 technique: T0019
 technique_name:
-  ru: Военная интервенция
   en: Military Intervention
   uk: Воєнна інтервенція
+  ru: Военная интервенция
 people: nokhchi
 actor: G0008
 tool: S0012
 contributors: []
 description:
-  ru: 'Вооруженные отряды, лояльные метрополии, осуществляли вторжение на территории горных обществ нохчи для подавления их сопротивления: историк И. Х. Тхамокова указывает, что в 1628 году кабардинский мурза Коншов-мурза Битемрюков «ходил на этих «горских людей» вместе с «вольными» атаманами и казаками и с «окочанами»»(Citation: 85).'
   en: |-
     Armed detachments loyal to the metropole carried out incursions into the territories of the Nokhchi mountain communities in order to suppress their resistance: the historian I. Kh.
     Tkhamokova notes that in 1628 the Kabardian murza Konshov-murza Bitemryukov «went against these “mountain people” together with the “free” atamans and Cossacks and with the “Okochans”»(Citation: 85).
   uk: 'Збройні загони, лояльні метрополії, здійснювали вторгнення на території гірських громад Нохчі для придушення їхнього опору: історикиня І. Х. Тхамокова вказує, що 1628 року кабардинський мурза Коншов-мурза Бітемрюков «ходив на цих «горських людей» разом із «вольними» отаманами й козаками та з «Окочанами»»(Citation: 85).'
+  ru: 'Вооруженные отряды, лояльные метрополии, осуществляли вторжение на территории горных обществ нохчи для подавления их сопротивления: историк И. Х. Тхамокова указывает, что в 1628 году кабардинский мурза Коншов-мурза Битемрюков «ходил на этих «горских людей» вместе с «вольными» атаманами и казаками и с «окочанами»»(Citation: 85).'

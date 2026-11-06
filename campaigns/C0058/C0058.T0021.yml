@@ -1,28 +1,28 @@
 type: procedure
 id: C0058.T0021
 campaign_name:
-  ru: Подавление гайдамацкого восстания Устима Кармалюка (до 1835)
   en: Suppression of the Haidamak Uprising of Ustym Karmaliuk (until 1835)
   uk: Придушення гайдамацького повстання Устима Кармалюка (до 1835)
+  ru: Подавление гайдамацкого восстания Устима Кармалюка (до 1835)
 created: 2026-04-25
 modified: 2026-08-01
 version: '1.0'
 technique: T0021
 technique_name:
-  ru: Нейтрализация оппозиции
   en: Neutralization of the Opposition
   uk: Нейтралізація опозиції
+  ru: Нейтрализация оппозиции
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Многолетняя силовая кампания против крестьянского движения на Подолье: «в 1833—39 действовало специальное следствие по делу Кармалюка и его сообщников — «Галузинецкая комиссия»…
-    За время её деятельности по обвинению или по подозрению в связях с Кармалюком проходило ок. 20 тыс. человек»(Citation: 192).
   en: |-
     A years-long campaign of force against the peasant movement in Podillia: "In 1833–39 a special investigation into the case of Karmaliuk and his associates operated – the 'Haluzyntsi commission'…
     During its activity, about 20 thousand people passed through it as accused or suspected of ties with Karmaliuk"(Citation: 192).
   uk: |-
     Багаторічна силова кампанія проти селянського руху на Поділлі: «1833—39 діяло спец. слідство в справі К. та його спільників — «Галузинецька комісія»…
     За час її діяльності за обвинуваченням або за підозрою у зв'язках із К. проходило бл. 20 тис. осіб»(Citation: 192).
+  ru: |-
+    Многолетняя силовая кампания против крестьянского движения на Подолье: «в 1833—39 действовало специальное следствие по делу Кармалюка и его сообщников — «Галузинецкая комиссия»…
+    За время её деятельности по обвинению или по подозрению в связях с Кармалюком проходило ок. 20 тыс. человек»(Citation: 192).

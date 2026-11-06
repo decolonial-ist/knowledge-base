@@ -17,7 +17,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kbformat  # noqa: E402
 
-LANGS = ("ru", "en", "uk")
+LANGS = ("en", "uk", "ru")
 PEOPLE_BY_SHEET = {"Кампании Нохчи": "nokhchi", "Процедуры Нохчи": "nokhchi",
                    "Кампании Украина": "ukrainians", "Процедуры Украина": "ukrainians"}
 

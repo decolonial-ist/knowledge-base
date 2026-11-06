@@ -1,22 +1,22 @@
 type: procedure
 id: C0027.T0041
 campaign_name:
-  ru: Поход Пилипа Орлика на Правобережье (1711)
   en: Pylyp Orlyk's Campaign in Right-Bank Ukraine (1711)
   uk: Похід Пилипа Орлика на Правобережжя (1711)
+  ru: Поход Пилипа Орлика на Правобережье (1711)
 created: 2026-04-24
 modified: 2026-08-01
 version: '1.0'
 technique: T0041
 technique_name:
-  ru: Подселение чиновников и военных
   en: Implantation of Officials and Military Personnel
   uk: Підселення чиновників і військових
+  ru: Подселение чиновников и военных
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'Силовое удержание Правобережья империей: белоцерковская крепость с московским гарнизоном устояла, а поход захлебнулся после измены татар – «Орлик отступил, не взявши Белой Церкви»(Citation: 156), и его армия разложилась.'
   en: 'The empire''s forcible retention of the Right Bank: the Bila Tserkva fortress with its Muscovite garrison held out, and the campaign collapsed after the Tatars'' betrayal – "Orlyk retreated without taking Bila Tserkva"(Citation: 156), and his army disintegrated.'
   uk: 'Силове утримання Правобережжя імперією: білоцерківська фортеця з московською залогою встояла, а похід захлинувся після зради татар – «Орлик відступив, не взявши Білої Церкви»(Citation: 156), і його військо розклалося.'
+  ru: 'Силовое удержание Правобережья империей: белоцерковская крепость с московским гарнизоном устояла, а поход захлебнулся после измены татар – «Орлик отступил, не взявши Белой Церкви»(Citation: 156), и его армия разложилась.'

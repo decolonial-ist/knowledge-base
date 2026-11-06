@@ -1,22 +1,22 @@
 type: procedure
 id: C0043.T0101
 campaign_name:
-  ru: Запрет украинского книгопечатания (1720)
   en: Ban on Ukrainian Book Printing (1720)
   uk: Заборона українського книгодрукування (1720)
+  ru: Запрет украинского книгопечатания (1720)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0101
 technique_name:
-  ru: Цензура
   en: Censorship
   uk: Цензура
+  ru: Цензура
 people: ukrainians
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: 'Введение цензуры на книгопечатание указом Петра I от 5 октября 1720 года: «вновь книг никаких, кроме церковных прежних изданий, не печатать, да и оныя церковныя старыя книги… справливать прежде печати»(Citation: 143).'
   en: 'The introduction of censorship over book printing by Peter I''s decree of 5 October 1720: "no new books whatsoever are to be printed except previous church editions, and even those old church books… are to be corrected before printing"(Citation: 143).'
   uk: 'Запровадження цензури на книгодрукування указом Петра I від 5 жовтня 1720 року: «знову жодних книг, крім церковних попередніх видань, не друкувати, та й ті церковні старі книги… виправляти перед друком»(Citation: 143).'
+  ru: 'Введение цензуры на книгопечатание указом Петра I от 5 октября 1720 года: «вновь книг никаких, кроме церковных прежних изданий, не печатать, да и оныя церковныя старыя книги… справливать прежде печати»(Citation: 143).'

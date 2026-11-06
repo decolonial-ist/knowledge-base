@@ -1,22 +1,22 @@
 type: procedure
 id: C0105.T0053
 campaign_name:
-  ru: Резня в Буче (2022)
   en: The Bucha Massacre (2022)
   uk: Різанина в Бучі (2022)
+  ru: Резня в Буче (2022)
 created: 2026-08-16
 modified: 2026-08-16
 version: '1.0'
 technique: T0053
 technique_name:
-  ru: Похищение людей
   en: Abduction of People
   uk: Викрадення людей
+  ru: Похищение людей
 people: ukrainians
 actor: G0011
 tool: S0010
 contributors: []
 description:
-  ru: 'Насильственный вывоз жителей города в неволю: городской совет Бучи сообщает - «32 людини ворог силоміць вивіз у неволю, одна з них загинула»(Citation: 506).'
   en: ''
   uk: ''
+  ru: 'Насильственный вывоз жителей города в неволю: городской совет Бучи сообщает - «32 людини ворог силоміць вивіз у неволю, одна з них загинула»(Citation: 506).'

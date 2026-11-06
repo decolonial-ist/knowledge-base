@@ -1,22 +1,22 @@
 type: procedure
 id: C0078.T0121
 campaign_name:
-  ru: 'Террор голодом: Голодомор (1932–1933)'
   en: 'Terror by Famine: The Holodomor (1932–1933)'
   uk: 'Терор голодом: Голодомор (1932–1933)'
+  ru: 'Террор голодом: Голодомор (1932–1933)'
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0121
 technique_name:
-  ru: Искусственный голод
   en: Artificial Famine
   uk: Штучний голод
+  ru: Искусственный голод
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Конфискация абсолютно всего продовольствия, включая выкачку семенных фондов, через механизм непосильных хлебозаготовок, что привело к массовому смертоносному голоду(Citation: 22).'
   en: 'Confiscation of absolutely all food, including the extraction of seed stocks, through the mechanism of crushing grain procurement quotas, which led to mass deadly famine(Citation: 22).'
   uk: 'Конфіскація абсолютно всього продовольства, включно з викачуванням насіннєвих фондів, через механізм непосильних хлібозаготівель, що призвело до масового смертоносного голоду(Citation: 22).'
+  ru: 'Конфискация абсолютно всего продовольствия, включая выкачку семенных фондов, через механизм непосильных хлебозаготовок, что привело к массовому смертоносному голоду(Citation: 22).'

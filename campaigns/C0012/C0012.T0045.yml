@@ -1,28 +1,28 @@
 type: procedure
 id: C0012.T0045
 campaign_name:
-  ru: Переход Мазепы на сторону Швеции и Батуринская резня (1708)
   en: Mazepa's Defection to Sweden and the Baturyn Massacre (1708)
   uk: Перехід Мазепи на бік Швеції та Батуринська різанина (1708)
+  ru: Переход Мазепы на сторону Швеции и Батуринская резня (1708)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0045
 technique_name:
-  ru: Уничтожение исторической памяти
   en: Destruction of Historical Memory
   uk: Знищення історичної пам'яті
+  ru: Уничтожение исторической памяти
 people: ukrainians
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Кампания по стиранию имени лидера сопротивления (damnatio memoriae): «Два столетия имя и дела Мазепы вымарывались…
-    Сбивали его гербы на построенных им храмах, замазывали его имя на книгах»(Citation: 3)(Citation: 4).
   en: |-
     A campaign to erase the resistance leader's name (damnatio memoriae): "For two centuries the name and deeds of Mazepa were expunged…
     His coats of arms were knocked off the churches he had built, his name was painted over in books"(Citation: 3)(Citation: 4).
   uk: |-
     Кампанія зі стирання імені лідера опору (damnatio memoriae): «Два століття ім'я і діла Мазепи вимазувалися…
     Збивали його герби на збудованих ним храмах, замазували його ім'я на книгах»(Citation: 3)(Citation: 4).
+  ru: |-
+    Кампания по стиранию имени лидера сопротивления (damnatio memoriae): «Два столетия имя и дела Мазепы вымарывались…
+    Сбивали его гербы на построенных им храмах, замазывали его имя на книгах»(Citation: 3)(Citation: 4).

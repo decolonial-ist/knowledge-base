@@ -1,22 +1,22 @@
 type: procedure
 id: C0014.T0118
 campaign_name:
-  ru: Ликвидация Запорожской Сечи (1709)
   en: Liquidation of the Zaporozhian Sich (1709)
   uk: Ліквідація Запорозької Січі (1709)
+  ru: Ликвидация Запорожской Сечи (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0118
 technique_name:
-  ru: Истребление по территориальному признаку
   en: Extermination on a Territorial Basis
   uk: Винищення за територіальною ознакою
+  ru: Истребление по территориальному признаку
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'Тотальное истребление защитников: при взятии Переволочной «Все запорожцы и жители были убиты (в плен живьем взяли только 12 человек), жгли и вырезали также соседние курени»(Citation: 3).'
   en: 'Total extermination of the defenders: when Perevolochna was taken, "All the Zaporozhians and inhabitants were killed (only 12 people were taken alive), and the neighboring kurins were also burned and slaughtered"(Citation: 3).'
   uk: 'Тотальне винищення захисників: під час взяття Переволочної «Усі запорожці й жителі були вбиті (в полон живцем узяли лише 12 осіб), палили й вирізали також сусідні курені»(Citation: 3).'
+  ru: 'Тотальное истребление защитников: при взятии Переволочной «Все запорожцы и жители были убиты (в плен живьем взяли только 12 человек), жгли и вырезали также соседние курени»(Citation: 3).'

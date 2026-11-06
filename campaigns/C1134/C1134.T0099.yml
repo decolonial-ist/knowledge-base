@@ -1,26 +1,26 @@
 type: procedure
 id: C1134.T0099
 campaign_name:
-  ru: Возведение укрепленных станиц, подселение казаков на границах и удержание заложников (1736–1740)
   en: Construction of Fortified Stanitsas, Settlement of Cossacks on the Borders, and Holding of Hostages (1736–1740)
   uk: Зведення укріплених станиць, підселення Козаків на кордонах та утримання заручників (1736–1740)
+  ru: Возведение укрепленных станиц, подселение казаков на границах и удержание заложников (1736–1740)
 created: 2026-06-22
 modified: 2026-06-22
 version: '1.0'
 technique: T0099
 technique_name:
-  ru: Захват заложников
   en: Hostage-Taking
   uk: Захоплення заручників
+  ru: Захват заложников
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: |-
-    Оккупационная администрация Российской империи продолжала физически удерживать родственников элиты нохчи: историк Я. З. Ахмадов фиксирует наличие документа за 1738 год, определенного как «Письмо чеченского владельца А. Бартыханова подполк.
-    Бунину о своей верной службе России и с просьбой отпустить его сестру из Кизляра»(Citation: 94).
   en: |-
     The occupation administration of the Russian Empire continued to physically hold relatives of the Nokhchi elite: historian Ya.
     Z. Akhmadov records the existence of a document from 1738 identified as a «Letter from the Chechen lord A. Bartykhanov to Lieutenant Colonel Bunin regarding his loyal service to Russia and requesting the release of his sister from Kizlyar»(Citation: 94).
   uk: 'Окупаційна адміністрація Російської імперії продовжувала фізично утримувати родичів еліти Нохчі: історик Я. З. Ахмадов фіксує наявність документа за 1738 рік, визначеного як «Лист чеченського володаря А. Бартиханова підполковнику Буніну про свою вірну службу Росії та з проханням відпустити його сестру з Кізляра»(Citation: 94).'
+  ru: |-
+    Оккупационная администрация Российской империи продолжала физически удерживать родственников элиты нохчи: историк Я. З. Ахмадов фиксирует наличие документа за 1738 год, определенного как «Письмо чеченского владельца А. Бартыханова подполк.
+    Бунину о своей верной службе России и с просьбой отпустить его сестру из Кизляра»(Citation: 94).

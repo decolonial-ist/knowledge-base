@@ -1,28 +1,28 @@
 type: procedure
 id: C0016.T0008
 campaign_name:
-  ru: Решетиловские статьи (1709)
   en: The Reshetylivka Articles (1709)
   uk: Решетилівські статті (1709)
+  ru: Решетиловские статьи (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0008
 technique_name:
-  ru: Лишение субъектности
   en: Deprivation of Agency
   uk: Позбавлення суб'єктності
+  ru: Лишение субъектности
 people: ukrainians
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Отказ от подписания договора: замена равноправного соглашения односторонними «резолюциями» царя.
-    «Совместный документ, оформленный как указ, подписал государственный канцлер граф Г.Головкин»(Citation: 196)(Citation: 393) – автономия перестала быть договорной стороной.
   en: |-
     Refusal to sign a treaty: the replacement of an equal agreement with the tsar's unilateral "resolutions."
     "The joint document, drawn up as a decree, was signed by state chancellor Count G. Golovkin"(Citation: 196)(Citation: 393) – the autonomy ceased to be a party to a treaty.
   uk: |-
     Відмова від підписання договору: заміна рівноправної угоди односторонніми «резолюціями» царя.
     «Спільний документ, оформлений як указ, підписав держ. канцлер граф Г.Головкін»(Citation: 196)(Citation: 393) – автономія перестала бути договірною стороною.
+  ru: |-
+    Отказ от подписания договора: замена равноправного соглашения односторонними «резолюциями» царя.
+    «Совместный документ, оформленный как указ, подписал государственный канцлер граф Г.Головкин»(Citation: 196)(Citation: 393) – автономия перестала быть договорной стороной.

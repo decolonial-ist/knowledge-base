@@ -1,28 +1,28 @@
 type: procedure
 id: C0087.T0010
 campaign_name:
-  ru: Идеологическая кампания «300-летие воссоединения» и передача Крыма (1954)
   en: The Ideological Campaign of the "300th Anniversary of Reunification" and the Transfer of Crimea (1954)
   uk: Ідеологічна кампанія «300-річчя возз'єднання» та передача Криму (1954)
+  ru: Идеологическая кампания «300-летие воссоединения» и передача Крыма (1954)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0010
 technique_name:
-  ru: Непризнание самостоятельной идентичности
   en: Denial of a Distinct Identity
   uk: Невизнання самостійної ідентичності
+  ru: Непризнание самостоятельной идентичности
 people: ukrainians
 actor: G0010
 tool: S0021
 contributors: []
 description:
-  ru: |-
-    Навязывание концепта неразрывного единства вместо признания отдельной нации: по Тезисам, «Актом воссоединения украинский народ закрепил свою тесную и неразрывную историческую связь с русским народом, в лице которого он нашёл великого союзника, верного друга и защитника»(Citation: 171).
-    Празднования и передача Крыма «Учитывая общность экономики, территориальную близость и тесные хозяйственные и культурные связи»(Citation: 169) работали на ту же рамку.
   en: |-
     The imposition of a concept of unbreakable unity instead of recognizing a distinct nation: per the Theses, "by the act of reunification the Ukrainian people consolidated its close and unbreakable historical bond with the Russian people, in whom it found a great ally, a faithful friend and defender"(Citation: 171).
     The celebrations and the transfer of Crimea "taking into account the commonality of the economy, territorial proximity, and close economic and cultural ties"(Citation: 169) served the same frame.
   uk: |-
     Нав'язування концепту нерозривної єдності замість визнання окремої нації: за Тезами, «Актом возз'єднання український народ закріпив свій тісний і нерозривний історичний зв'язок з російським народом, в особі якого він знайшов великого союзника, вірного друга і захисника»(Citation: 171).
     Святкування та передача Криму «Враховуючи спільність економіки, територіальну близькість і тісні господарські та культурні зв'язки»(Citation: 169) працювали на ту саму рамку.
+  ru: |-
+    Навязывание концепта неразрывного единства вместо признания отдельной нации: по Тезисам, «Актом воссоединения украинский народ закрепил свою тесную и неразрывную историческую связь с русским народом, в лице которого он нашёл великого союзника, верного друга и защитника»(Citation: 171).
+    Празднования и передача Крыма «Учитывая общность экономики, территориальную близость и тесные хозяйственные и культурные связи»(Citation: 169) работали на ту же рамку.

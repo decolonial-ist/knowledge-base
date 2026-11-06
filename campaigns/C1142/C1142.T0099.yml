@@ -1,28 +1,28 @@
 type: procedure
 id: C1142.T0099
 campaign_name:
-  ru: Карательное разорение присунженских селений нохчи и стравливание против них соседних народов при Ртищеве (1813-1816)
   en: Punitive devastation of the Nokhchi villages along the Sunzha and pitting neighboring peoples against them under Rtishchev (1813-1816)
   uk: Каральне розорення присунженських селищ Нохчі та нацьковування проти них сусідніх народів за Ртіщева (1813-1816)
+  ru: Карательное разорение присунженских селений нохчи и стравливание против них соседних народов при Ртищеве (1813-1816)
 created: 2026-06-27
 modified: 2026-06-27
 version: '1.0'
 technique: T0099
 technique_name:
-  ru: Захват заложников
   en: Hostage-Taking
   uk: Захоплення заручників
+  ru: Захват заложников
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Российская империя разорением селений силой принуждала нохчи к выдаче заложников.
-    Имперский историк Потто пишет, что после того как полковник Эристов разорил присунженские селения, нохчи «дали аманатов, обещая больше не тревожить русских границ»(Citation: 74).
   en: |-
     The Russian Empire used the devastation of villages to force the Nokhchi to hand over hostages.
     The imperial historian Potto writes that after Colonel Eristov had laid waste to the villages along the Sunzha, the Nokhchi «gave amanats (hostages), promising to trouble the Russian borders no more»(Citation: 74).
   uk: |-
     Російська імперія розоренням селищ силою примушувала Нохчі до видачі заручників.
     Імперський історик Потто пише, що після того, як полковник Ерістов розорив присунженські селища, Нохчі «дали аманатів, обіцяючи більше не турбувати російських кордонів»(Citation: 74).
+  ru: |-
+    Российская империя разорением селений силой принуждала нохчи к выдаче заложников.
+    Имперский историк Потто пишет, что после того как полковник Эристов разорил присунженские селения, нохчи «дали аманатов, обещая больше не тревожить русских границ»(Citation: 74).

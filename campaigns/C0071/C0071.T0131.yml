@@ -1,22 +1,22 @@
 type: procedure
 id: C0071.T0131
 campaign_name:
-  ru: Провал политического захвата УНР в Киеве (ноябрь – декабрь 1917)
   en: Failure of the Political Seizure of the UNR in Kyiv (November – December 1917)
   uk: Провал політичного захоплення УНР у Києві (листопад – грудень 1917)
+  ru: Провал политического захвата УНР в Киеве (ноябрь – декабрь 1917)
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0131
 technique_name:
-  ru: Поддержка подконтрольной оппозиции
   en: Support for a Controlled Opposition
   uk: Підтримка підконтрольної опозиції
+  ru: Поддержка подконтрольной оппозиции
 people: ukrainians
 actor: G0013
 tool: S0009
 contributors: []
 description:
-  ru: 'Использование Советом народных комиссаров местных большевистских ячеек в качестве легальной политической силы, которая должна была выступить от имени украинского пролетариата против Центральной Рады(Citation: 25).'
   en: 'Use by the Council of People''s Commissars of local Bolshevik cells as a legal political force that was to speak on behalf of the Ukrainian proletariat against the Central Rada(Citation: 25).'
   uk: 'Використання Радою народних комісарів місцевих більшовицьких осередків як легальної політичної сили, що мала виступити від імені українського пролетаріату проти Центральної Ради(Citation: 25).'
+  ru: 'Использование Советом народных комиссаров местных большевистских ячеек в качестве легальной политической силы, которая должна была выступить от имени украинского пролетариата против Центральной Рады(Citation: 25).'

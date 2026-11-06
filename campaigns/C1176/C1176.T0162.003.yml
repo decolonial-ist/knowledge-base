@@ -1,28 +1,28 @@
 type: procedure
 id: C1176.T0162.003
 campaign_name:
-  ru: 'Советизация Чечни: ревкомы вместо Советов, карательные операции и расстрелы ЧК (1920-1924)'
   en: 'Sovietization of Chechnya: revkoms in place of Soviets, punitive operations and Cheka executions (1920-1924)'
   uk: 'Радянізація Чечні: ревкоми замість Рад, каральні операції та розстріли ЧК (1920-1924)'
+  ru: 'Советизация Чечни: ревкомы вместо Советов, карательные операции и расстрелы ЧК (1920-1924)'
 created: 2026-08-08
 modified: 2026-08-29
 version: '1.0'
 technique: T0162.003
 technique_name:
-  ru: Убийство пленных и задержанных
   en: Killing of Prisoners and Detainees
   uk: Вбивство полонених і затриманих
+  ru: Убийство пленных и задержанных
 people: nokhchi
 actor: G0013
 tool: S0017
 contributors: []
 description:
-  ru: |-
-    Особый отдел Кавказской трудовой армии вёл массовые расстрелы бесконтрольно даже для собственного командования: комиссар армии Врачев жаловался, что о них «...почти ничего не известно не только Ревтрибуналу или Политическому отделу армии, но ни мне, ни командующему армией»(Citation: 125).
-    При разоружении в мае 1922 года людей сначала брали, потом расстреливали: «было захвачено и расстреляно до 30 «бандитов», чье имущество власти конфисковали»(Citation: 125).
   en: |-
     The special department of the Caucasus Labor Army carried out mass shootings uncontrolled even by its own command: army commissar Vrachev complained that of them "...almost nothing is known not only to the Revolutionary Tribunal or the Political Department of the army, but to me or the army commander either"(Citation: 125).
     During the disarmament of May 1922 people were first captured and then shot: "up to 30 'bandits' were captured and shot, and their property was confiscated by the authorities"(Citation: 125).
   uk: |-
     Особливий відділ Кавказької трудової армії вів масові розстріли безконтрольно навіть для власного командування: комісар армії Врачев скаржився, що про них «...майже нічого не відомо не тільки Ревтрибуналу чи Політичному відділу армії, а й ні мені, ні командувачу армії»(Citation: 125).
     Під час роззброєння у травні 1922 року людей спочатку брали, потім розстрілювали: «було захоплено і розстріляно до 30 «бандитів», чиє майно влада конфіскувала»(Citation: 125).
+  ru: |-
+    Особый отдел Кавказской трудовой армии вёл массовые расстрелы бесконтрольно даже для собственного командования: комиссар армии Врачев жаловался, что о них «...почти ничего не известно не только Ревтрибуналу или Политическому отделу армии, но ни мне, ни командующему армией»(Citation: 125).
+    При разоружении в мае 1922 года людей сначала брали, потом расстреливали: «было захвачено и расстреляно до 30 «бандитов», чье имущество власти конфисковали»(Citation: 125).

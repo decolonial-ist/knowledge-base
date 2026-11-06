@@ -1,28 +1,28 @@
 type: procedure
 id: C0005.T0030
 campaign_name:
-  ru: Андрусовское перемирие (1667)
   en: Truce of Andrusovo (1667)
   uk: Андрусівське перемир'я (1667)
+  ru: Андрусовское перемирие (1667)
 created: 2026-04-24
 modified: 2026-04-24
 version: '1.0'
 technique: T0030
 technique_name:
-  ru: Административно-территориальное деление
   en: Administrative-Territorial Division
   uk: Адміністративно-територіальний поділ
+  ru: Административно-территориальное деление
 people: ukrainians
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Юридическая фиксация раскола территории.
-    Москва целенаправленно раздробила некогда единую страну, превратив такие важные регионы, как Запорожье, в бесправные буферные зоны под совместным управлением: «...Запорожье (которое по договору 1667 года было в совместном правлении Москвы и Варшавы)»(Citation: 4).
   en: |-
     The legal codification of the territory's division.
     Moscow deliberately fragmented a once unified country, turning such important regions as Zaporizhzhia into rightless buffer zones under joint administration: "...Zaporizhzhia (which under the treaty of 1667 was under the joint rule of Moscow and Warsaw)"(Citation: 4).
   uk: |-
     Юридична фіксація розколу території.
     Москва цілеспрямовано роздробила колись єдину країну, перетворивши такі важливі регіони, як Запорожжя, на безправні буферні зони під спільним управлінням: «...Запорожжя (яке за договором 1667 року перебувало у спільному правлінні Москви та Варшави)»(Citation: 4).
+  ru: |-
+    Юридическая фиксация раскола территории.
+    Москва целенаправленно раздробила некогда единую страну, превратив такие важные регионы, как Запорожье, в бесправные буферные зоны под совместным управлением: «...Запорожье (которое по договору 1667 года было в совместном правлении Москвы и Варшавы)»(Citation: 4).

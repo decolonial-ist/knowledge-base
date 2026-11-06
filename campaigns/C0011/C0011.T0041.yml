@@ -1,22 +1,22 @@
 type: procedure
 id: C0011.T0041
 campaign_name:
-  ru: Интеграционные реформы Петра I и Северная война (1700–1708)
   en: Integration Reforms of Peter I and the Great Northern War (1700–1708)
   uk: Інтеграційні реформи Петра I та Північна війна (1700–1708)
+  ru: Интеграционные реформы Петра I и Северная война (1700–1708)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0041
 technique_name:
-  ru: Подселение чиновников и военных
   en: Implantation of Officials and Military Personnel
   uk: Підселення чиновників і військових
+  ru: Подселение чиновников и военных
 people: ukrainians
 actor: G0008
 tool: S0010
 contributors: []
 description:
-  ru: 'Удушение экономики автономии через систему военного постоя регулярной армии: «А когда на квартерах зимовых компанія и сердюки стоят... 24 человека людей посполитых едного компанійца без всяих вымыслов кормят»(Citation: 4)(Citation: 3).'
   en: 'The strangulation of the autonomy''s economy through the system of billeting the regular army: "And when the kompaniytsi and serdiuks stand in winter quarters... 24 commoners feed a single kompaniyets without any excuses"(Citation: 4)(Citation: 3).'
   uk: 'Удушення економіки автономії через систему військового постою регулярної армії: «А коли на зимових квартирах компанія і сердюки стоять... 24 особи посполитих одного компанійця без жодних вимислів годують»(Citation: 4)(Citation: 3).'
+  ru: 'Удушение экономики автономии через систему военного постоя регулярной армии: «А когда на квартерах зимовых компанія и сердюки стоят... 24 человека людей посполитых едного компанійца без всяих вымыслов кормят»(Citation: 4)(Citation: 3).'

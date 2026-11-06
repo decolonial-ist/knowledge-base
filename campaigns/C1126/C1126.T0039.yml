@@ -1,28 +1,28 @@
 type: procedure
 id: C1126.T0039
 campaign_name:
-  ru: Подавление восстания Мурата Кучукова и террор против коренного населения (1708)
   en: Suppression of the Uprising of Murat Kuchukov and Terror against the Indigenous Population (1708)
   uk: Придушення повстання Мурата Кучукова і терор проти корінного населення (1708)
+  ru: Подавление восстания Мурата Кучукова и террор против коренного населения (1708)
 created: 2026-06-18
 modified: 2026-06-18
 version: '1.0'
 technique: T0039
 technique_name:
-  ru: Сговор с третьей стороной за спиной народа
   en: Collusion with a Third Party Behind the People's Back
   uk: Змова з третьою стороною за спиною народу
+  ru: Сговор с третьей стороной за спиной народа
 people: nokhchi
 actor: G0008
 tool: S0009
 contributors: []
 description:
-  ru: |-
-    Дипломатический аппарат Московского Царства заключил союзное соглашение с калмыцкими силами для совместных действий против коренного населения: историк Я. З. Ахмадов констатирует, что 30 сентября 1708 года «на переговорах петровского военачальника П.М.
-    Апраксина с калмыцким ханом Аюкой было заключено соглашение из восьми статей, включая «о преследовании чеченцев и ногайцев»»(Citation: 94).
   en: |-
     The diplomatic apparatus of the Tsardom of Muscovy concluded an alliance agreement with Kalmyk forces for joint actions against the Indigenous population: historian Ya.
     Z. Akhmadov states that on September 30, 1708, "at the negotiations between Peter's military commander P.M. Apraksin and the Kalmyk khan Ayuka, an agreement of eight articles was concluded, including 'on the pursuit of the Chechens and Nogais'"(Citation: 94).
   uk: |-
     Дипломатичний апарат Московського царства уклав союзну угоду з калмицькими силами для спільних дій проти корінного населення: історик Я. З. Ахмадов констатує, що 30 вересня 1708 року «на переговорах петровського воєначальника П.М.
     Апраксіна з калмицьким ханом Аюкою було укладено угоду з восьми статей, включно зі статтею «про переслідування Чеченців і Ногайців»»(Citation: 94).
+  ru: |-
+    Дипломатический аппарат Московского Царства заключил союзное соглашение с калмыцкими силами для совместных действий против коренного населения: историк Я. З. Ахмадов констатирует, что 30 сентября 1708 года «на переговорах петровского военачальника П.М.
+    Апраксина с калмыцким ханом Аюкой было заключено соглашение из восьми статей, включая «о преследовании чеченцев и ногайцев»»(Citation: 94).

@@ -1,28 +1,28 @@
 type: procedure
 id: C0030.T0115
 campaign_name:
-  ru: Ликвидация института гетманства и Вторая Малороссийская коллегия (1764)
   en: Liquidation of the Institution of the Hetmancy and the Second Little Russian Collegium (1764)
   uk: Ліквідація інституту гетьманства та Друга Малоросійська колегія (1764)
+  ru: Ликвидация института гетманства и Вторая Малороссийская коллегия (1764)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0115
 technique_name:
-  ru: Культурная ассимиляция
   en: Cultural Assimilation
   uk: Культурна асиміляція
+  ru: Культурная ассимиляция
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Секретная инструкция монарха по культурному перевариванию края: «Малая Россия, Лифляндия и Финляндия суть провинции, которые правятся конфирмованными им привилегиями…
-    Сии провинции, также и Смоленскую, надлежит легчайшими способами привести к тому, чтоб они обрусели и перестали бы глядеть, как волки к лесу»(Citation: 144).
   en: |-
     The monarch's secret instruction on the cultural digestion of the land: "Little Russia, Livonia, and Finland are provinces governed by the privileges confirmed to them…
     These provinces, as well as Smolensk, must by the easiest means be brought to the point where they become Russified and cease looking to the forest like wolves"(Citation: 144).
   uk: |-
     Секретна інструкція монарха щодо культурного перетравлення краю: «Мала Росія, Ліфляндія і Фінляндія суть провінції, які правляться конфірмованими їм привілеями…
     Ці провінції, а також Смоленську, належить найлегшими способами привести до того, щоб вони обрусіли й перестали дивитися, як вовки до лісу»(Citation: 144).
+  ru: |-
+    Секретная инструкция монарха по культурному перевариванию края: «Малая Россия, Лифляндия и Финляндия суть провинции, которые правятся конфирмованными им привилегиями…
+    Сии провинции, также и Смоленскую, надлежит легчайшими способами привести к тому, чтоб они обрусели и перестали бы глядеть, как волки к лесу»(Citation: 144).

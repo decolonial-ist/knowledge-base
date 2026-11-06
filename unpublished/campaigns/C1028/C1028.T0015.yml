@@ -1,22 +1,22 @@
 type: procedure
 id: C1028.T0015
 campaign_name:
-  ru: Прокси-война и политическая дестабилизация (1993–1994)
   en: Proxy war and political destabilization (1993–1994)
   uk: Проксі-війна та політична дестабілізація (1993–1994)
+  ru: Прокси-война и политическая дестабилизация (1993–1994)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0015
 technique_name:
-  ru: Подкуп элит
   en: Bribery of Elites
   uk: Підкуп еліт
+  ru: Подкуп элит
 people: nokhchi
 actor: G0011
 tool: S0017
 contributors: []
 description:
-  ru: 'Передача лидерам оппозиции огромных объемов наличных средств, включая получение У. Автурхановым не менее 150 млрд рублей летом-осенью 1994 года(Citation: 26).'
   en: 'Transfer of enormous amounts of cash to opposition leaders, including U. Avturkhanov receiving at least 150 billion rubles in the summer and fall of 1994(Citation: 26).'
   uk: 'Передавання лідерам опозиції величезних обсягів готівки, зокрема отримання У. Автурхановим щонайменше 150 млрд рублів улітку-восени 1994 року(Citation: 26).'
+  ru: 'Передача лидерам оппозиции огромных объемов наличных средств, включая получение У. Автурхановым не менее 150 млрд рублей летом-осенью 1994 года(Citation: 26).'

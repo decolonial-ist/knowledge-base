@@ -1,22 +1,22 @@
 type: procedure
 id: C0008.T0116.003
 campaign_name:
-  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
   en: Annexation of the Kyiv Metropolis by the Moscow Patriarchate (1685–1690)
   uk: Анексія Київської митрополії Московським патріархатом (1685–1690)
+  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0116.003
 technique_name:
-  ru: Запрет богослужений на родном языке
   en: Ban on Worship in the Native Language
   uk: Заборона богослужінь рідною мовою
+  ru: Запрет богослужений на родном языке
 people: ukrainians
 actor: G0008
 tool: S0011
 contributors: []
 description:
-  ru: 'Вслед за установлением контроля над митрополией последовала постепенная унификация богослужебной печати и произношения по московским образцам, завершившаяся прямым указом Петра I 1720 года: церковные книги дозволялось печатать только сверенными с московскими, «дабы никакой розни и особливого наречия в них не было»(Citation: 143).'
   en: 'Following the establishment of control over the metropolitanate came the gradual unification of liturgical printing and pronunciation along Muscovite models, culminating in Peter I''s direct decree of 1720: church books could be printed only after being checked against Muscovite ones, "so that there be no discord or distinct dialect in them"(Citation: 143).'
   uk: 'Услід за встановленням контролю над митрополією відбувалася поступова уніфікація богослужбового друку та вимови за московськими зразками, що завершилася прямим указом Петра I 1720 року: церковні книги дозволялося друкувати лише звіреними з московськими, «аби ніякої різниці й осібного наріччя в них не було»(Citation: 143).'
+  ru: 'Вслед за установлением контроля над митрополией последовала постепенная унификация богослужебной печати и произношения по московским образцам, завершившаяся прямым указом Петра I 1720 года: церковные книги дозволялось печатать только сверенными с московскими, «дабы никакой розни и особливого наречия в них не было»(Citation: 143).'

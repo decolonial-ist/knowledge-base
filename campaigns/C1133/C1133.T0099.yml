@@ -1,24 +1,24 @@
 type: procedure
 id: C1133.T0099
 campaign_name:
-  ru: Подкуп знати и институционализация системы заложников (1735)
   en: Bribery of the Nobility and Institutionalization of the Hostage System (1735)
   uk: Підкуп знаті та інституціоналізація системи заручників (1735)
+  ru: Подкуп знати и институционализация системы заложников (1735)
 created: 2026-06-21
 modified: 2026-06-21
 version: '1.0'
 technique: T0099
 technique_name:
-  ru: Захват заложников
   en: Hostage-Taking
   uk: Захоплення заручників
+  ru: Захват заложников
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: 'Оккупационная администрация Российской империи институционализировала систему удержания родственников местной элиты: историк Я. З. Ахмадов фиксирует, что «В 1735 г. в Кизляре уже содержалось два аманата из Чеченского владения: от Айдемира - Бардыхан, и от чеченского владельца Алисултана Казбулатова - Бамат»(Citation: 94).'
   en: |-
     The occupation administration of the Russian Empire institutionalized a system of holding relatives of the local elite: historian Ya.
     Z. Akhmadov records that «In 1735, two amanats from the Chechen domain were already being held in Kizlyar: from Aidemir - Bardykhan, and from the Chechen lord Alisultan Kazbulatov - Bamat»(Citation: 94).
   uk: 'Окупаційна адміністрація Російської імперії інституціоналізувала систему утримання родичів місцевої еліти: історик Я. З. Ахмадов фіксує, що «У 1735 р. в Кізлярі вже утримувалося два аманати з Чеченського володіння: від Айдеміра - Бардихан, і від чеченського володаря Алісултана Казбулатова - Бамат»(Citation: 94).'
+  ru: 'Оккупационная администрация Российской империи институционализировала систему удержания родственников местной элиты: историк Я. З. Ахмадов фиксирует, что «В 1735 г. в Кизляре уже содержалось два аманата из Чеченского владения: от Айдемира - Бардыхан, и от чеченского владельца Алисултана Казбулатова - Бамат»(Citation: 94).'

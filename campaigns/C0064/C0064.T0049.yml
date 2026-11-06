@@ -1,22 +1,22 @@
 type: procedure
 id: C0064.T0049
 campaign_name:
-  ru: Русско-турецкая война и панславизм (1877–1878)
   en: Russo-Turkish War and Pan-Slavism (1877–1878)
   uk: Російсько-турецька війна та панславізм (1877–1878)
+  ru: Русско-турецкая война и панславизм (1877–1878)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0049
 technique_name:
-  ru: Принудительная мобилизация
   en: Forced Mobilization
   uk: Примусова мобілізація
+  ru: Принудительная мобилизация
 people: ukrainians
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'Мобилизация жителей колонизированных украинских губерний в имперскую армию для войны на Балканах – в рамках всеобщей воинской повинности, действовавшей в украинских землях со времен ликвидации автономии(Citation: 196).'
   en: 'The mobilization of the inhabitants of the colonized Ukrainian governorates into the imperial army for the war in the Balkans – under the universal military conscription in force in the Ukrainian lands since the liquidation of the autonomy(Citation: 196).'
   uk: 'Мобілізація мешканців колонізованих українських губерній до імперської армії для війни на Балканах – у рамках загальної військової повинності, що діяла в українських землях з часів ліквідації автономії(Citation: 196).'
+  ru: 'Мобилизация жителей колонизированных украинских губерний в имперскую армию для войны на Балканах – в рамках всеобщей воинской повинности, действовавшей в украинских землях со времен ликвидации автономии(Citation: 196).'

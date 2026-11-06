@@ -1,28 +1,28 @@
 type: procedure
 id: C1154.T0053
 campaign_name:
-  ru: 'Зимние набеги Вельяминова на чеченские хутора и сёла по Сунже: пленение женщин и разорение дворов (1831-1832)'
   en: 'Velyaminov''s winter raids on Chechen hamlets and villages along the Sunzha: capture of women and devastation of homesteads (1831-1832)'
   uk: 'Зимові набіги Вельямінова на чеченські хутори й села вздовж Сунжі: полонення жінок і розорення дворів (1831-1832)'
+  ru: 'Зимние набеги Вельяминова на чеченские хутора и сёла по Сунже: пленение женщин и разорение дворов (1831-1832)'
 created: 2026-07-03
 modified: 2026-07-03
 version: '1.0'
 technique: T0053
 technique_name:
-  ru: Похищение людей
   en: Abduction of People
   uk: Викрадення людей
+  ru: Похищение людей
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    23 декабря 1831 при разорении хуторов у села Чертугай казаки отряда подполковника Засса, командира Моздокского казачьего полка, захватили в плен трёх женщин.
-    Имперский историк Волконский писал: Засс «доставил в лагерь трёх пленных женщин»(Citation: 116).
   en: |-
     On December 23, 1831, during the devastation of the hamlets near the village of Chertugai, Cossacks of the detachment of Lieutenant Colonel Zass, commander of the Mozdok Cossack Regiment, took three women captive.
     The imperial historian Volkonsky wrote: Zass “delivered three captive women to the camp”(Citation: 116).
   uk: |-
     23 грудня 1831 під час розорення хуторів біля села Чертугай козаки загону підполковника Засса, командира Моздокського козачого полку, захопили в полон трьох жінок.
     Імперський історик Волконський писав: Засс «доставив у табір трьох полонених жінок»(Citation: 116).
+  ru: |-
+    23 декабря 1831 при разорении хуторов у села Чертугай казаки отряда подполковника Засса, командира Моздокского казачьего полка, захватили в плен трёх женщин.
+    Имперский историк Волконский писал: Засс «доставил в лагерь трёх пленных женщин»(Citation: 116).

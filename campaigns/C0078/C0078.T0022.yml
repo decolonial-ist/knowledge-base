@@ -1,22 +1,22 @@
 type: procedure
 id: C0078.T0022
 campaign_name:
-  ru: 'Террор голодом: Голодомор (1932–1933)'
   en: 'Terror by Famine: The Holodomor (1932–1933)'
   uk: 'Терор голодом: Голодомор (1932–1933)'
+  ru: 'Террор голодом: Голодомор (1932–1933)'
 created: 2026-04-27
 modified: 2026-04-27
 version: '1.0'
 technique: T0022
 technique_name:
-  ru: Террор
   en: Terror
   uk: Терор
+  ru: Террор
 people: ukrainians
 actor: G0010
 tool: S0017
 contributors: []
 description:
-  ru: 'Системное психологическое подавление через публичные показательные суды над «саботажниками» и введение карательного закона об охране социалистической собственности («закон о пяти колосках»)(Citation: 22).'
   en: 'Systematic psychological suppression through public show trials of "saboteurs" and the introduction of the punitive law on the protection of socialist property (the "law of five ears of grain")(Citation: 22).'
   uk: 'Системне психологічне придушення через публічні показові суди над «саботажниками» та запровадження карального закону про охорону соціалістичної власності («закон про п''ять колосків»)(Citation: 22).'
+  ru: 'Системное психологическое подавление через публичные показательные суды над «саботажниками» и введение карательного закона об охране социалистической собственности («закон о пяти колосках»)(Citation: 22).'

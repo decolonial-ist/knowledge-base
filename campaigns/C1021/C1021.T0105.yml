@@ -1,28 +1,28 @@
 type: procedure
 id: C1021.T0105
 campaign_name:
-  ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
   en: Destruction of the Nokhchi Villages along the Sunzha and Construction of the Groznaya Fortress in Their Place (1817–1818)
   uk: Знищення присунженських селищ Нохчі та зведення фортеці Грозної на їхньому місці (1817–1818)
+  ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
 created: 2026-06-25
 modified: 2026-06-25
 version: '1.0'
 technique: T0105
 technique_name:
-  ru: Тотальное уничтожение инфраструктуры
   en: Total Destruction of Infrastructure
   uk: Тотальне знищення інфраструктури
+  ru: Тотальное уничтожение инфраструктуры
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Регулярная армия Российской империи сносила чеченские селения, чтобы расчистить место под крепость.
-    Историк Д. А. Хожаев фиксирует уничтожение восьми селений: под Грозную «восемь цветущих чеченских селений (Бугун-юрт, Амирхан-кичу, Кули-юрт, Сорочан-юрт, Сунжа, Н. Чечен, Топли, Алкханчу) были уничтожены»(Citation: 95).
   en: |-
     The Regular Army of the Russian Empire demolished Chechen villages to clear ground for a fortress.
     Historian D. A. Khozhayev records the destruction of eight villages: to make way for Groznaya, “eight flourishing Chechen villages (Bugun-Yurt, Amirkhan-Kichu, Kuli-Yurt, Sorochan-Yurt, Sunzha, N. Chechen, Topli, Alkhanchu) were destroyed”(Citation: 95).
   uk: |-
     Регулярна армія Російської імперії зносила чеченські селища, щоб розчистити місце під фортецю.
     Історик Д. А. Хожаєв фіксує знищення восьми селищ: під Грозну «вісім квітучих чеченських селищ (Бугун-юрт, Амірхан-кічу, Кулі-юрт, Сорочан-юрт, Сунжа, Н. Чечен, Топлі, Алханчу) були знищені»(Citation: 95).
+  ru: |-
+    Регулярная армия Российской империи сносила чеченские селения, чтобы расчистить место под крепость.
+    Историк Д. А. Хожаев фиксирует уничтожение восьми селений: под Грозную «восемь цветущих чеченских селений (Бугун-юрт, Амирхан-кичу, Кули-юрт, Сорочан-юрт, Сунжа, Н. Чечен, Топли, Алкханчу) были уничтожены»(Citation: 95).

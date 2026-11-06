@@ -1,22 +1,22 @@
 type: procedure
 id: C0016.T0038
 campaign_name:
-  ru: Решетиловские статьи (1709)
   en: The Reshetylivka Articles (1709)
   uk: Решетилівські статті (1709)
+  ru: Решетиловские статьи (1709)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0038
 technique_name:
-  ru: Экономический контроль
   en: Economic Control
   uk: Економічний контроль
+  ru: Экономический контроль
 people: ukrainians
 actor: G0008
 tool: S0008
 contributors: []
 description:
-  ru: 'Сохранение контроля центра над финансами региона: статьи «полностью сохраняли установленный ранее контроль царата над местным финансированием»(Citation: 196).'
   en: 'Preservation of the center''s control over the region''s finances: the articles "fully preserved the previously established control of the tsarist regime over local financing"(Citation: 196).'
   uk: 'Збереження контролю центру над фінансами регіону: статті «повністю зберігали встановлений раніше контроль царату над місц. фінансуванням»(Citation: 196).'
+  ru: 'Сохранение контроля центра над финансами региона: статьи «полностью сохраняли установленный ранее контроль царата над местным финансированием»(Citation: 196).'

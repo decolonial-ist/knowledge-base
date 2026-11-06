@@ -1,22 +1,22 @@
 type: procedure
 id: C1029.T0019
 campaign_name:
-  ru: Военная интервенция и неизбирательный террор (1994–1996)
   en: Military intervention and indiscriminate terror (1994–1996)
   uk: Воєнна інтервенція та невибірковий терор (1994–1996)
+  ru: Военная интервенция и неизбирательный террор (1994–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0019
 technique_name:
-  ru: Военная интервенция
   en: Military Intervention
   uk: Воєнна інтервенція
+  ru: Военная интервенция
 people: nokhchi
 actor: G0011
 tool: S0010
 contributors: []
 description:
-  ru: 'Прямой ввод войск Минобороны и МВД России на территорию Ичкерии 11 декабря 1994 года с трех направлений на основании секретного Указа Ельцина №2137с(Citation: 26).'
   en: 'Direct deployment of troops of the Russian Ministry of Defense and Ministry of Internal Affairs into the territory of Ichkeria on December 11, 1994, from three directions, on the basis of Yeltsin''s secret Decree No. 2137s(Citation: 26).'
   uk: 'Пряме введення військ Міноборони та МВС Росії на територію Ічкерії 11 грудня 1994 року з трьох напрямків на підставі таємного Указу Єльцина №2137с(Citation: 26).'
+  ru: 'Прямой ввод войск Минобороны и МВД России на территорию Ичкерии 11 декабря 1994 года с трех направлений на основании секретного Указа Ельцина №2137с(Citation: 26).'

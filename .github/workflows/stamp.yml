@@ -1,5 +1,6 @@
 # После merge в main: 1) проставить modified / version изменённым сущностям (роль autostamp.gs таблицы)
-#    и обновить названия кампании и техники в файлах процедур (scripts/procedure_names.py),
+#    обновить названия кампании и техники в файлах процедур (scripts/procedure_names.py) и порядок языков
+#    en, uk, ru (scripts/lang_order.py),
 # 2) собрать три бандла STIX и слои Навигатора и положить их в релиз `stix` (постоянные адреса
 # releases/download/stix/<файл>), откуда их скачивает сборка сайта decolonial.ist.
 # Коммитит в main от имени github-actions; свой же коммит повторно не штампует (меняются только мета-поля).
@@ -30,6 +31,8 @@ jobs:
           if [ -n "$CHANGED" ]; then python scripts/stamp_meta.py $CHANGED; fi
       - name: campaign_name / technique_name in procedures
         run: python scripts/procedure_names.py
+      - name: language order en, uk, ru in entity files
+        run: python scripts/lang_order.py
       - name: materials index from the archive registry
         run: python scripts/materials_index.py
       - name: commit
@@ -53,18 +56,18 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r scripts/requirements.txt
-      - name: export STIX bundles (ru, en, uk)
+      - name: export STIX bundles (en, uk, ru)
         run: python scripts/export_stix.py
       - name: navigator layers
         run: |
-          python scripts/generate_layer.py dist/russia-colonialism.json    dist/colonial_full_layer.json    "DECOLONIAL.IST: все техники"
           python scripts/generate_layer.py dist/russia-colonialism-en.json dist/colonial_full_layer-en.json "DECOLONIAL.IST: all techniques"
           python scripts/generate_layer.py dist/russia-colonialism-uk.json dist/colonial_full_layer-uk.json "DECOLONIAL.IST: усі техніки"
+          python scripts/generate_layer.py dist/russia-colonialism.json    dist/colonial_full_layer.json    "DECOLONIAL.IST: все техники"
       - name: check bundles load as STIX
         run: |
           python - <<'EOF'
           import json, stix2
-          for f in ("dist/russia-colonialism.json", "dist/russia-colonialism-en.json", "dist/russia-colonialism-uk.json"):
+          for f in ("dist/russia-colonialism-en.json", "dist/russia-colonialism-uk.json", "dist/russia-colonialism.json"):
               n = len(json.load(open(f, encoding="utf-8"))["objects"])
               stix2.MemoryStore().load_from_file(f)
               print(f, "объектов:", n)
@@ -73,6 +76,6 @@ jobs:
         run: |
           git tag -f stix && git push -f origin stix
           gh release view stix >/dev/null 2>&1 || gh release create stix --title "STIX bundles (latest main)" \
-            --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (ru, en, uk) и слои ATT&CK Navigator. Пересобираются при каждом merge в main; адреса файлов постоянные."
-          gh release edit stix --target main --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (ru, en, uk) и слои ATT&CK Navigator. Пересобираются при каждом merge в main; адреса файлов постоянные. Коммит: ${GITHUB_SHA}" >/dev/null
+            --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (en, uk, ru) и слои ATT&CK Navigator. Пересобираются при каждом merge в main; адреса файлов постоянные."
+          gh release edit stix --target main --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (en, uk, ru) и слои ATT&CK Navigator. Пересобираются при каждом merge в main; адреса файлов постоянные. Коммит: ${GITHUB_SHA}" >/dev/null
           gh release upload stix dist/*.json --clobber

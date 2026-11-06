@@ -1,25 +1,22 @@
 type: procedure
 id: C0079.T0004
 campaign_name:
-  ru: Культурный террор и «Расстрелянное возрождение» (1933–1938)
   en: Cultural Terror and the "Executed Renaissance" (1933–1938)
   uk: Культурний терор і «Розстріляне відродження» (1933–1938)
+  ru: Культурный террор и «Расстрелянное возрождение» (1933–1938)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0004
 technique_name:
-  ru: Переписывание истории
   en: Rewriting of History
   uk: Переписування історії
+  ru: Переписывание истории
 people: ukrainians
 actor: G0010
 tool: S0021
 contributors: []
 description:
-  ru: |-
-    Конструирование нового советско-имперского исторического канона для подмены украинского прошлого: «с конца 1930-х гг. в исторической науке СССР утвердился тезис», провозглашенная в работах Б. Грекова, К. Гуслистого и Ф. Ястребова, «о Киевской Руси как об „общей колыбели“ истории украинского, русского и белорусского народов», а «в 1939 Б.Греков выдвинул положение об этническом единстве „русского народа“ в эпоху Киевской Руси»(Citation: 186).
-    Эта схема вытесняла концепцию М. Грушевского и отрицала самостоятельность истории Украины.
   en: |-
     The construction of a new Soviet-imperial historical canon to supplant the Ukrainian past: "from the late 1930s a thesis took hold in the historical scholarship of the USSR," proclaimed in the works of B. Grekov, K. Huslystyi, and F. Yastrebov, "of Kyivan Rus as the 'common cradle' of the history of the Ukrainian, Russian, and Belarusian peoples," and "in 1939 B. Grekov advanced the proposition of the ethnic unity of the 'Rus people' in the era of Kyivan Rus"(Citation: 186).
     This scheme displaced M. Hrushevsky's conception and denied the independence of Ukraine's history.
@@ -28,3 +25,6 @@ description:
     Русь як про „спільну колиску“ історії укр., рос. і білорус. народів», а «1939 Б.Греков висунув положення про етнічну єдність „руського народу“ в добу Київ.
     Русі»(Citation: 186).
     Ця схема витісняла концепцію М. Грушевського та заперечувала самостійність історії України.
+  ru: |-
+    Конструирование нового советско-имперского исторического канона для подмены украинского прошлого: «с конца 1930-х гг. в исторической науке СССР утвердился тезис», провозглашенная в работах Б. Грекова, К. Гуслистого и Ф. Ястребова, «о Киевской Руси как об „общей колыбели“ истории украинского, русского и белорусского народов», а «в 1939 Б.Греков выдвинул положение об этническом единстве „русского народа“ в эпоху Киевской Руси»(Citation: 186).
+    Эта схема вытесняла концепцию М. Грушевского и отрицала самостоятельность истории Украины.

@@ -1,28 +1,28 @@
 type: procedure
 id: C0086.T0104
 campaign_name:
-  ru: Подавление восстаний в ГУЛАГе (1953–1954)
   en: Suppression of the GULAG Uprisings (1953–1954)
   uk: Придушення повстань у ГУЛАГу (1953–1954)
+  ru: Подавление восстаний в ГУЛАГе (1953–1954)
 created: 2026-04-27
 modified: 2026-07-31
 version: '1.0'
 technique: T0104
 technique_name:
-  ru: Массовые убийства гражданских
   en: Mass Killings of Civilians
   uk: Масові вбивства цивільних
+  ru: Массовые убийства гражданских
 people: ukrainians
 actor: G0010
 tool: S0010
 contributors: []
 description:
-  ru: |-
-    Массовые убийства заключенных при силовом подавлении восстаний.
-    В Норильске «было убито около 100 человек и ранено более 200»(Citation: 201); в Кенгире «Во время подавления восстания погибло и было ранено около 700 заключённых»(Citation: 214).
   en: |-
     Mass killings of prisoners during the forcible suppression of the uprisings.
     In Norilsk, "about 100 people were killed and more than 200 wounded"(Citation: 201); in Kengir, "during the suppression of the uprising, about 700 prisoners were killed or wounded"(Citation: 214).
   uk: |-
     Масові вбивства в'язнів під час силового придушення повстань.
     У Норильську «було вбито близько 100 осіб і поранено понад 200»(Citation: 201); у Кенгірі «Під час придушення повстання загинуло і було поранено близько 700 в'язнів»(Citation: 214).
+  ru: |-
+    Массовые убийства заключенных при силовом подавлении восстаний.
+    В Норильске «было убито около 100 человек и ранено более 200»(Citation: 201); в Кенгире «Во время подавления восстания погибло и было ранено около 700 заключённых»(Citation: 214).

@@ -1,22 +1,22 @@
 type: procedure
 id: C1030.T0023
 campaign_name:
-  ru: Институциональный террор и фильтрационные лагеря (1994–1996)
   en: Institutional terror and filtration camps (1994–1996)
   uk: Інституційний терор і фільтраційні табори (1994–1996)
+  ru: Институциональный террор и фильтрационные лагеря (1994–1996)
 created: 2026-04-20
 modified: 2026-04-20
 version: '1.0'
 technique: T0023
 technique_name:
-  ru: Система фильтрационных лагерей
   en: Filtration Camp System
   uk: Система фільтраційних таборів
+  ru: Система фильтрационных лагерей
 people: nokhchi
 actor: G0011
 tool: S0017
 contributors: []
 description:
-  ru: 'Создание не предусмотренной законами сети официальных фильтрационных пунктов и тайных тюрем («зинданов», земляных ям, вагонов) для массового содержания гражданских лиц(Citation: 27).'
   en: 'Creation of a network, not provided for by law, of official filtration points and secret prisons ("zindans," earthen pits, railcars) for the mass detention of civilians(Citation: 27).'
   uk: 'Створення не передбаченої законами мережі офіційних фільтраційних пунктів і таємних в''язниць («зинданів», земляних ям, вагонів) для масового утримання цивільних осіб(Citation: 27).'
+  ru: 'Создание не предусмотренной законами сети официальных фильтрационных пунктов и тайных тюрем («зинданов», земляных ям, вагонов) для массового содержания гражданских лиц(Citation: 27).'

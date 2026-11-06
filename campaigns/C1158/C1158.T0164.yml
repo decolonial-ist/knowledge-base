@@ -1,22 +1,22 @@
 type: procedure
 id: C1158.T0164
 campaign_name:
-  ru: 'Истребление жителей Кишкерой-Юрта отрядом Пулло: 76 убитых, 40 пленных, сожжение села с запасами (декабрь 1836)'
   en: 'Extermination of the Inhabitants of Kishkeroy-Yurt by Pullo''s Detachment: 76 Killed, 40 Captured, Village Burned with Its Stores (December 1836)'
   uk: 'Винищення жителів Кишкерой-Юрта загоном Пулло: 76 убитих, 40 полонених, спалення села із запасами (грудень 1836)'
+  ru: 'Истребление жителей Кишкерой-Юрта отрядом Пулло: 76 убитых, 40 пленных, сожжение села с запасами (декабрь 1836)'
 created: 2026-07-16
 modified: 2026-08-10
 version: '1.0'
 technique: T0164
 technique_name:
-  ru: Мародерство
   en: Pillage
   uk: Мародерство
+  ru: Мародерство
 people: nokhchi
 actor: G0009
 tool: S0010
 contributors: []
 description:
-  ru: 'При истреблении Кишкерой-Юрта 28-31 декабря 1836 отряд Пулло присвоил имущество жителей, включая оружие, снятое с тел убитых: «все имущество жителей и оружие с убитых досталось войскам нашим»(Citation: 126).'
   en: 'In the course of the extermination of Kishkeroy-Yurt on 28-31 December 1836, Pullo''s detachment appropriated the inhabitants'' property, including weapons taken from the bodies of the slain: "all the property of the inhabitants and the weapons taken from the slain fell to our troops"(Citation: 126).'
   uk: 'Під час винищення Кишкерой-Юрта 28-31 грудня 1836 загін Пулло привласнив майно жителів, включно зі зброєю, знятою з тіл убитих: «все майно жителів і зброя з убитих дісталися військам нашим»(Citation: 126).'
+  ru: 'При истреблении Кишкерой-Юрта 28-31 декабря 1836 отряд Пулло присвоил имущество жителей, включая оружие, снятое с тел убитых: «все имущество жителей и оружие с убитых досталось войскам нашим»(Citation: 126).'

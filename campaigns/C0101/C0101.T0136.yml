@@ -1,28 +1,28 @@
 type: procedure
 id: C0101.T0136
 campaign_name:
-  ru: 'Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)'
   en: 'Continuation of the Russo-Ukrainian War: Armed Aggression in the Donbas (2014–2015)'
   uk: 'Продовження російсько-української війни: Збройна агресія на Донбасі (2014–2015)'
+  ru: 'Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)'
 created: 2026-04-27
 modified: 2026-09-18
 version: '1.0'
 technique: T0136
 technique_name:
-  ru: Кибероперации
   en: Cyber Operations
   uk: Кібероперації
+  ru: Кибероперации
 people: ukrainians
 actor: G0011
 tool: S0017
 contributors: []
 description:
-  ru: |-
-    Использование связанной со спецслужбами хакерской группировки для взлома программного обеспечения украинских артиллеристов: «файл 'Попр-Д30.apk' был связан с легитимным приложением, изначально разработанным внутри Украины офицером 55-й артиллерийской бригады Ярославом Шерстюком», а «углублённый реверс-инжиниринг показал, что APK содержал Android-вариант X-Agent» - импланта, эксклюзивным оператором которого является FANCY BEAR(Citation: 216).
-    Тем же инструментарием велись кибератаки на украинскую энергосеть зимой 2015 и 2016 годов(Citation: 32)(Citation: 33).
   en: |-
     The use of a hacker group linked to the security services to compromise Ukrainian artillerymen's software: "the filename 'Попр-Д30.apk' was linked to a legitimate application which was initially developed domestically within Ukraine by an officer of the 55th Artillery Brigade named Yaroslav Sherstuk," and "in-depth reverse engineering revealed the APK contained an Android variant of X-Agent" - an implant whose exclusive operator is FANCY BEAR(Citation: 216).
     The same toolkit was used in cyberattacks on the Ukrainian power grid in the winters of 2015 and 2016(Citation: 32)(Citation: 33).
   uk: |-
     Використання пов'язаного зі спецслужбами хакерського угруповання для зламу програмного забезпечення українських артилеристів: «файл 'Попр-Д30.apk' був пов'язаний з легітимним застосунком, який спочатку був розроблений усередині України офіцером 55-ї артилерійської бригади Ярославом Шерстюком», а «поглиблений реверс-інжиніринг показав, що APK містив Android-варіант X-Agent» - імпланта, ексклюзивним оператором якого є FANCY BEAR(Citation: 216).
     Тим самим інструментарієм велися кібератаки на українську енергомережу взимку 2015 і 2016 років(Citation: 32)(Citation: 33).
+  ru: |-
+    Использование связанной со спецслужбами хакерской группировки для взлома программного обеспечения украинских артиллеристов: «файл 'Попр-Д30.apk' был связан с легитимным приложением, изначально разработанным внутри Украины офицером 55-й артиллерийской бригады Ярославом Шерстюком», а «углублённый реверс-инжиниринг показал, что APK содержал Android-вариант X-Agent» - импланта, эксклюзивным оператором которого является FANCY BEAR(Citation: 216).
+    Тем же инструментарием велись кибератаки на украинскую энергосеть зимой 2015 и 2016 годов(Citation: 32)(Citation: 33).

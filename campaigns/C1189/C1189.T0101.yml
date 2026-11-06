@@ -1,22 +1,22 @@
 type: procedure
 id: C1189.T0101
 campaign_name:
-  ru: 'Первая мировая война в Чечне: вывоз «ненадежного элемента» в «Дикую дивизию», чрезвычайная охрана и мобилизация бастующих (1914-1917)'
   en: 'First World War in Chechnya: removal of the "unreliable element" into the "Savage Division", extraordinary security and mobilization of strikers (1914-1917)'
   uk: 'Перша світова війна в Чечні: вивіз «ненадійного елементу» в «Дику дивізію», надзвичайна охорона і мобілізація страйкарів (1914-1917)'
+  ru: 'Первая мировая война в Чечне: вывоз «ненадежного элемента» в «Дикую дивизию», чрезвычайная охрана и мобилизация бастующих (1914-1917)'
 created: 2026-08-09
 modified: 2026-08-09
 version: '1.0'
 technique: T0101
 technique_name:
-  ru: Цензура
   en: Censorship
   uk: Цензура
+  ru: Цензура
 people: nokhchi
 actor: G0009
 tool: S0012
 contributors: []
 description:
-  ru: 'Российская империя 16 августа 1914 года, через три дня после перевода Терской области на положение «чрезвычайной охраны», ввела в области временное положение о военной цензуре(Citation: 125)(Citation: 127).'
   en: 'On 16 August 1914, three days after placing the Terek oblast under "extraordinary security", the Russian Empire introduced in the oblast a provisional statute on military censorship(Citation: 125)(Citation: 127).'
   uk: 'Російська імперія 16 серпня 1914 року, через три дні після переведення Терської області на положення «надзвичайної охорони», запровадила в області тимчасове положення про військову цензуру(Citation: 125)(Citation: 127).'
+  ru: 'Российская империя 16 августа 1914 года, через три дня после перевода Терской области на положение «чрезвычайной охраны», ввела в области временное положение о военной цензуре(Citation: 125)(Citation: 127).'

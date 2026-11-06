@@ -1,22 +1,22 @@
 type: procedure
 id: C0052.T0114.001
 campaign_name:
-  ru: Сталинский террор и конец украинизации (1922–1939)
   en: Stalinist Terror and the End of Ukrainization (1922–1939)
   uk: Сталінський терор і кінець українізації (1922–1939)
+  ru: Сталинский террор и конец украинизации (1922–1939)
 created: 2026-04-25
 modified: 2026-08-04
 version: '1.0'
 technique: T0114.001
 technique_name:
-  ru: Навязывание асимметричного двуязычия и факультативности
   en: Imposition of Asymmetric Bilingualism and Optionality
   uk: Нав'язування асиметричної двомовності та факультативності
+  ru: Навязывание асимметричного двуязычия и факультативности
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Принудительное введение языка метрополии в школы: постановление СНК СССР и ЦК ВКП(б) от 13 марта 1938 года № 324 «Об обязательном изучении русского языка в школах национальных республик и областей» предписало «ввести преподавание русского языка, как предмета изучения в школах национальных республик и областей, с 1-го сентября 1938 г.» - со II класса во всех нерусских начальных школах и с III класса в неполных средних и средних(Citation: 423).'
   en: 'The compulsory introduction of the metropole''s language into schools: the resolution of the USSR Council of People''s Commissars and the Central Committee of the VKP(b) of 13 March 1938 No. 324 "On the Compulsory Study of the Russian Language in the Schools of the National Republics and Regions" ordered "to introduce the teaching of the Russian language as a subject of study in the schools of the national republics and regions from September 1, 1938" - from the 2nd grade in all non-Russian primary schools and from the 3rd grade in incomplete secondary and secondary schools(Citation: 423).'
   uk: 'Примусове запровадження мови метрополії до шкіл: постанова РНК СРСР і ЦК ВКП(б) від 13 березня 1938 року № 324 «Про обов''язкове вивчення російської мови в школах національних республік і областей» приписала «ввести викладання російської мови як предмета вивчення в школах національних республік і областей з 1 вересня 1938 р.» - з II класу в усіх неросійських початкових школах і з III класу в неповних середніх та середніх(Citation: 423).'
+  ru: 'Принудительное введение языка метрополии в школы: постановление СНК СССР и ЦК ВКП(б) от 13 марта 1938 года № 324 «Об обязательном изучении русского языка в школах национальных республик и областей» предписало «ввести преподавание русского языка, как предмета изучения в школах национальных республик и областей, с 1-го сентября 1938 г.» - со II класса во всех нерусских начальных школах и с III класса в неполных средних и средних(Citation: 423).'

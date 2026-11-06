@@ -1,28 +1,28 @@
 type: procedure
 id: C0008.T0101
 campaign_name:
-  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
   en: Annexation of the Kyiv Metropolis by the Moscow Patriarchate (1685–1690)
   uk: Анексія Київської митрополії Московським патріархатом (1685–1690)
+  ru: Аннексия Киевской митрополии Московским патриархатом (1685–1690)
 created: 2026-04-24
 modified: 2026-10-26
 version: '1.0'
 technique: T0101
 technique_name:
-  ru: Цензура
   en: Censorship
   uk: Цензура
+  ru: Цензура
 people: ukrainians
 actor: G0008
 tool: S0011
 contributors: []
 description:
-  ru: |-
-    Введение цензурного контроля над украинским книгопечатанием.
-    Патриарх Иоаким запретил издания без своей санкции и прислал выговор за издание книг без предварительного разрешения(Citation: 3)(Citation: 4), а в 1690 году «Собор Российской православной церкви осудил киевские новые книги Петра Могилы, Кирилла Ставровецкого, Иоанникия Галятовского, Сильвестра Косова, Лазаря Барановича и других, наложив на них проклятие и анафему»(Citation: 163).
   en: |-
     The introduction of censorship control over Ukrainian book printing.
     Patriarch Joachim banned publications without his sanction and sent a reprimand for publishing books without prior permission(Citation: 3)(Citation: 4), and in 1690 "the Council of the Russian Orthodox Church condemned the 'new Kyivan books' of Petro Mohyla, Kyrylo Stavrovetsky, Ioanykii Galiatovsky, Sylvestr Kosov, Lazar Baranovych, and others, laying on them a curse and anathema"(Citation: 163).
   uk: |-
     Запровадження цензурного контролю над українським книгодрукуванням.
     Патріарх Йоаким заборонив видання без своєї санкції та надіслав догану за видання книг без попереднього дозволу(Citation: 3)(Citation: 4), а 1690 року «Собор Російської православної церкви засудив київські нові книги Петра Могили, Кирила Ставровецького, Іоаникія Галятовського, Сильвестра Косова, Лазаря Барановича та інших, наклавши на них проклятство й анафему»(Citation: 163).
+  ru: |-
+    Введение цензурного контроля над украинским книгопечатанием.
+    Патриарх Иоаким запретил издания без своей санкции и прислал выговор за издание книг без предварительного разрешения(Citation: 3)(Citation: 4), а в 1690 году «Собор Российской православной церкви осудил киевские новые книги Петра Могилы, Кирилла Ставровецкого, Иоанникия Галятовского, Сильвестра Косова, Лазаря Барановича и других, наложив на них проклятие и анафему»(Citation: 163).

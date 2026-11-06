@@ -1,28 +1,28 @@
 type: procedure
 id: C0053.T0113.002
 campaign_name:
-  ru: Создание единого «советского народа» (1958–1970)
   en: Creation of a Single "Soviet People" (1958–1970)
   uk: Створення єдиного «радянського народу» (1958–1970)
+  ru: Создание единого «советского народа» (1958–1970)
 created: 2026-04-25
 modified: 2026-08-03
 version: '1.0'
 technique: T0113.002
 technique_name:
-  ru: Исключение родного языка из делопроизводства
   en: Exclusion of the Native Language from Official Use
   uk: Виключення рідної мови з діловодства
+  ru: Исключение родного языка из делопроизводства
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Вытеснение языка из научной сферы: «Приказ Министерства образования СССР о написании и защите диссертаций только на русском языке.
-    Утверждение только в Москве»(Citation: 531) – по-русски защищались даже диссертации по украинскому языку и литературе.
   en: |-
     The displacement of the language from scholarship: "The order of the USSR Ministry of Education on writing and defending dissertations only in Russian.
     Approval only in Moscow"(Citation: 531) – even dissertations on the Ukrainian language and literature had to be defended in Russian.
   uk: |-
     Витіснення мови з наукової сфери: «Наказ Міністерства освіти СРСР про написання і захист дисертацій лише російською мовою.
     Затвердження тільки в Москві»(Citation: 531) – російською захищалися навіть дисертації з української мови та літератури.
+  ru: |-
+    Вытеснение языка из научной сферы: «Приказ Министерства образования СССР о написании и защите диссертаций только на русском языке.
+    Утверждение только в Москве»(Citation: 531) – по-русски защищались даже диссертации по украинскому языку и литературе.

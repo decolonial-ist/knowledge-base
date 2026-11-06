@@ -1,22 +1,22 @@
 type: procedure
 id: C0054.T0115.003
 campaign_name:
-  ru: Финансовая русификация школ (1978–1983)
   en: Financial Russification of Schools (1978–1983)
   uk: Фінансова русифікація шкіл (1978–1983)
+  ru: Финансовая русификация школ (1978–1983)
 created: 2026-04-25
 modified: 2026-08-08
 version: '1.0'
 technique: T0115.003
 technique_name:
-  ru: Культурный шовинизм
   en: Cultural Chauvinism
   uk: Культурний шовінізм
+  ru: Культурный шовинизм
 people: ukrainians
 actor: G0010
 tool: S0008
 contributors: []
 description:
-  ru: 'Идеологическое возвышение языка метрополии: всесоюзная научно-теоретическая конференция «Русский язык — язык дружбы и сотрудничества народов СССР» (Ташкент, 22–24 мая 1979 года) приняла развёрнутые рекомендации по русификации - от организации «изучения русского языка в старших группах дошкольных учреждений» до «использования русского языка на уроках по другим учебным предметам» в старших классах национальных школ(Citation: 181).'
   en: 'The ideological exaltation of the metropole''s language: the all-Union scientific-theoretical conference "The Russian Language — the Language of Friendship and Cooperation of the Peoples of the USSR" (Tashkent, 22–24 May 1979) adopted detailed recommendations on Russification - from organizing "the study of the Russian language in the senior groups of preschool institutions" to "the use of the Russian language in lessons in other school subjects" in the senior grades of national schools(Citation: 181).'
   uk: 'Ідеологічне звеличення мови метрополії: всесоюзна науково-теоретична конференція «Російська мова - мова дружби і співробітництва народів СРСР» (Ташкент, 22–24 травня 1979 року) ухвалила розгорнуті рекомендації з русифікації - від організації «вивчення російської мови у старших групах дошкільних закладів» до «використання російської мови на уроках з інших навчальних предметів» у старших класах національних шкіл(Citation: 181).'
+  ru: 'Идеологическое возвышение языка метрополии: всесоюзная научно-теоретическая конференция «Русский язык — язык дружбы и сотрудничества народов СССР» (Ташкент, 22–24 мая 1979 года) приняла развёрнутые рекомендации по русификации - от организации «изучения русского языка в старших группах дошкольных учреждений» до «использования русского языка на уроках по другим учебным предметам» в старших классах национальных школ(Citation: 181).'

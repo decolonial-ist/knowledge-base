@@ -1,22 +1,22 @@
 type: procedure
 id: C0018.T0036
 campaign_name:
-  ru: Дело Павла Полуботка (1723)
   en: The Case of Pavlo Polubotok (1723)
   uk: Справа Павла Полуботка (1723)
+  ru: Дело Павла Полуботка (1723)
 created: 2026-04-29
 modified: 2026-10-26
 version: '1.0'
 technique: T0036
 technique_name:
-  ru: Установка новой системы управления
   en: Installation of a New System of Governance
   uk: Встановлення нової системи управління
+  ru: Установка новой системы управления
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Внедрение коллегии как параллельного органа власти для перехвата судебных и фискальных функций у гетманской администрации: она действовала «как высшая апелляционная инстанция и административно-контролирующий орган»(Citation: 194), а «Малороссийская коллегия впервые в полном объёме привлекла украинские финансы в царскую казну»(Citation: 194).'
   en: 'The introduction of the collegium as a parallel organ of power to seize judicial and fiscal functions from the hetman''s administration: it acted "as the highest appellate instance and administrative-controlling organ"(Citation: 194), and "the Little Russian Collegium for the first time channeled Ukrainian finances into the tsar''s treasury in full"(Citation: 194).'
   uk: 'Впровадження колегії як паралельного органу влади для перехоплення судових і фіскальних функцій у гетьманської адміністрації: вона діяла «як вища апеляційна інстанція та адм.-контролюючий орган»(Citation: 194), а «М[алоросійська] к[олегія] вперше в повному обсязі залучила укр. фінанси до царської казни»(Citation: 194).'
+  ru: 'Внедрение коллегии как параллельного органа власти для перехвата судебных и фискальных функций у гетманской администрации: она действовала «как высшая апелляционная инстанция и административно-контролирующий орган»(Citation: 194), а «Малороссийская коллегия впервые в полном объёме привлекла украинские финансы в царскую казну»(Citation: 194).'

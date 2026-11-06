@@ -1,26 +1,22 @@
 type: procedure
 id: C0066.T0117.001
 campaign_name:
-  ru: Промышленная колонизация и ресурсная эксплуатация Юга (1890)
   en: Industrial Colonization and Resource Exploitation of the South (1890)
   uk: Промислова колонізація та ресурсна експлуатація Півдня (1890)
+  ru: Промышленная колонизация и ресурсная эксплуатация Юга (1890)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0117.001
 technique_name:
-  ru: Миграционное замещение
   en: Migratory Replacement
   uk: Міграційне заміщення
+  ru: Миграционное замещение
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: |-
-    Массовый завоз рабочей силы из российских губерний, менявший демографический баланс: «в 1892 г. 80 процентов рабочей силы на шахтах и заводах Юзовки, одного из промышленных городов Украины, прибыло из Московского региона»(Citation: 183).
-    «Среди рабочих и шахтёров Донбасса преобладали этнические русские из Центральной России…
-    Сельское население Донбасса было в основном этнически украинским»(Citation: 213).
   en: |-
     The mass importation of labor from the Russian governorates, altering the demographic balance: "in 1892, 80 percent of the workforce at the mines and plants of Yuzivka, one of Ukraine's industrial towns, had arrived from the Moscow region"(Citation: 183).
     "Among the workers and miners of the Donbas, ethnic Russians from Central Russia predominated…
@@ -30,3 +26,7 @@ description:
     «Серед робітників і шахтарів Д[онбасу] переважали етнічні росіяни із Центр.
     Росії…
     Сільс. населення Д[онбасу] було здебільшого етнічно українським»(Citation: 213).
+  ru: |-
+    Массовый завоз рабочей силы из российских губерний, менявший демографический баланс: «в 1892 г. 80 процентов рабочей силы на шахтах и заводах Юзовки, одного из промышленных городов Украины, прибыло из Московского региона»(Citation: 183).
+    «Среди рабочих и шахтёров Донбасса преобладали этнические русские из Центральной России…
+    Сельское население Донбасса было в основном этнически украинским»(Citation: 213).

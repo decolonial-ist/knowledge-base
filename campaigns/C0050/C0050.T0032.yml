@@ -1,22 +1,22 @@
 type: procedure
 id: C0050.T0032
 campaign_name:
-  ru: Уничтожение украинских обществ и сегрегация (1906–1910)
   en: Destruction of Ukrainian Societies and Segregation (1906–1910)
   uk: Знищення українських товариств і сегрегація (1906–1910)
+  ru: Уничтожение украинских обществ и сегрегация (1906–1910)
 created: 2026-04-25
 modified: 2026-07-31
 version: '1.0'
 technique: T0032
 technique_name:
-  ru: Правовая сегрегация населения
   en: Legal Segregation of the Population
   uk: Правова сегрегація населення
+  ru: Правовая сегрегация населения
 people: ukrainians
 actor: G0009
 tool: S0008
 contributors: []
 description:
-  ru: 'Официальное зачисление коренного населения в чужаки: Столыпин предписал губернаторам отказывать в регистрации «каких бы то ни было инородческих обществ, в том числе украинских и еврейских, независимо от преследуемых ими целей»(Citation: 160).'
   en: 'The official classing of the indigenous population as aliens: Stolypin prescribed to the governors to refuse the registration of "any alien societies whatsoever, including Ukrainian and Jewish ones, regardless of the aims they pursue"(Citation: 160).'
   uk: 'Офіційне зарахування корінного населення до чужинців: Столипін приписав губернаторам відмовляти в реєстрації «будь-яких інородницьких товариств, у тому числі українських і єврейських, незалежно від цілей, які вони переслідують»(Citation: 160).'
+  ru: 'Официальное зачисление коренного населения в чужаки: Столыпин предписал губернаторам отказывать в регистрации «каких бы то ни было инородческих обществ, в том числе украинских и еврейских, независимо от преследуемых ими целей»(Citation: 160).'
