@@ -16,6 +16,7 @@ A knowledge base on how Russia colonises peoples: the empire's actions described
 | `campaigns/<campaign>/` | procedures - a concrete application of a technique in a campaign, the main text of the base; the file carries the names of the campaign, technique, actor and tool | `C1193/C1193.T0023.yml` |
 | `sources/` | source files awaiting intake into the archive; empty in `main` | |
 | `unpublished/` | what is not on the site, in the same layout; the site and the export do not read this folder, only the file shape is checked. To take off the site or bring back - move the file in one pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `redirects.yml` | address moves: an id that used to live in `campaigns/` and does not any more (campaign merged, technique split, text taken off the site) with the new address; the site sends readers from the old page to the new one. Every vanished id needs an entry, or CI fails; draft - `scripts/redirects.py --suggest` | |
 
 The file name is the identifier only; the names in three languages (`en`, `uk`, `ru`) are inside. In the prose, one sentence per line, a blank line between paragraphs: this way an edit in a pull request is visible sentence by sentence. The rules of the prose are in `CONTRIBUTING.md`.
 
@@ -23,7 +24,7 @@ Sources live in the archive https://archive.decolonial.ist: a citation in the te
 
 ## STIX
 
-On every merge into `main`, CI builds the base into three STIX 2.1 bundles (`scripts/export_stix.py`) and ATT&CK Navigator layers and puts them into the `stix` release at permanent addresses: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (Russian), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Object identifiers are stable: they derive from the entity identifiers. The decolonial.ist site is built from these same files.
+On every merge into `main`, CI builds the base into three STIX 2.1 bundles (`scripts/export_stix.py`) and ATT&CK Navigator layers and puts them into the `stix` release at permanent addresses: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (Russian), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`), and `redirects.json` (address moves for the site). Object identifiers are stable: they derive from the entity identifiers. The decolonial.ist site is built from these same files.
 
 ## How to propose an edit
 
@@ -53,6 +54,7 @@ License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
 | `campaigns/<кампанія>/` | процедури - конкретне застосування техніки в кампанії, головний текст бази; у файлі назви кампанії, техніки, актора та інструменту | `C1193/C1193.T0023.yml` |
 | `sources/` | файли джерел, які чекають на приймання в архів; у `main` порожня | |
 | `unpublished/` | те, чого на сайті немає, тією самою розкладкою; сайт і експорт папку не читають, перевіряється лише форма файлів. Зняти з сайту або повернути - перенесення файлу одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `redirects.yml` | переноси адрес: ідентифікатор, який лежав у `campaigns/` і більше там не лежить (кампанію злили, техніку розділили, текст зняли з сайту), з новою адресою; сайт веде читача зі старої сторінки на нову. Кожен зниклий ідентифікатор потребує запису, інакше CI червоний; чернетка - `scripts/redirects.py --suggest` | |
 
 Ім'я файлу - лише ідентифікатор; назви трьома мовами (`en`, `uk`, `ru`) усередині. У прозі одна фраза - один рядок, абзац - порожній рядок: так правка в pull request видна за фразою. Правила прози - у `CONTRIBUTING.md`.
 
@@ -60,7 +62,7 @@ License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
 
 ### STIX
 
-За кожного merge у `main` CI збирає базу у три бандли STIX 2.1 (`scripts/export_stix.py`) і шари ATT&CK Navigator та кладе їх у реліз `stix` з постійними адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (російська), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Ідентифікатори об'єктів стабільні: вони виводяться з ідентифікаторів сутностей. Сайт decolonial.ist збирається з цих самих файлів.
+За кожного merge у `main` CI збирає базу у три бандли STIX 2.1 (`scripts/export_stix.py`) і шари ATT&CK Navigator та кладе їх у реліз `stix` з постійними адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (російська), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`) і `redirects.json` (переноси адрес для сайту). Ідентифікатори об'єктів стабільні: вони виводяться з ідентифікаторів сутностей. Сайт decolonial.ist збирається з цих самих файлів.
 
 ### Як запропонувати правку
 
@@ -90,6 +92,7 @@ License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
 | `campaigns/<кампания>/` | процедуры - конкретное применение техники в кампании, главный текст базы; в файле названия кампании, техники, актора и инструмента | `C1193/C1193.T0023.yml` |
 | `sources/` | файлы источников, которые ждут приёмки в архив; в `main` пуста | |
 | `unpublished/` | то, чего на сайте нет, той же раскладкой; сайт и экспорт папку не читают, проверяется только форма файлов. Снять с сайта или вернуть - перенос файла одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `redirects.yml` | переносы адресов: идентификатор, который лежал в `campaigns/` и больше там не лежит (кампанию слили, технику разделили, текст сняли с сайта), с новым адресом; сайт ведёт читателя со старой страницы на новую. Каждому пропавшему идентификатору нужна запись, иначе CI красный; черновик - `scripts/redirects.py --suggest` | |
 
 Имя файла - только идентификатор; названия на трёх языках (`en`, `uk`, `ru`) внутри. В прозе одна фраза - одна строка, абзац - пустая строка: так правка в pull request видна по фразе. Правила прозы - в `CONTRIBUTING.md`.
 
@@ -97,7 +100,7 @@ License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
 
 ### STIX
 
-При каждом merge в `main` CI собирает базу в три бандла STIX 2.1 (`scripts/export_stix.py`) и слои ATT&CK Navigator и кладёт их в релиз `stix` с постоянными адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (русский), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`). Идентификаторы объектов стабильны: они выводятся из идентификаторов сущностей. Сайт decolonial.ist собирается из этих же файлов.
+При каждом merge в `main` CI собирает базу в три бандла STIX 2.1 (`scripts/export_stix.py`) и слои ATT&CK Navigator и кладёт их в релиз `stix` с постоянными адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (русский), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`) и `redirects.json` (переносы адресов для сайта). Идентификаторы объектов стабильны: они выводятся из идентификаторов сущностей. Сайт decolonial.ist собирается из этих же файлов.
 
 ### Как предложить правку
 
