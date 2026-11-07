@@ -12,8 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # redirects.py смотрит всю историю: какие адреса когда-либо были в campaigns/
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/validate.py .
+      - name: vanished addresses have a redirect (redirects.yml)
+        run: python scripts/redirects.py --check

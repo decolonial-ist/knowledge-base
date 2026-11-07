@@ -31,7 +31,7 @@ Content is reviewed by a human: the curator reads the edit and replies in the pu
 
 ## What is not on the site
 
-The `unpublished/` folder mirrors the layout of the base and holds what is not on the site: no reason in the file, the reason is with the curator. To take a text off the site or bring it back, move the file between `campaigns/` and `unpublished/campaigns/` in one pull request. There is no "published" field in the files.
+The `unpublished/` folder mirrors the layout of the base and holds what is not on the site: no reason in the file, the reason is with the curator. To take a text off the site or bring it back, move the file between `campaigns/` and `unpublished/campaigns/` in one pull request. There is no "published" field in the files. The address of the page dies with the move: add a line to `redirects.yml` (old id, new address or the campaign, reason `unpublished`), otherwise the check is red. The same when a campaign is merged into another or a technique is split: `python scripts/redirects.py --suggest` drafts the lines.
 
 ## Without editing
 
@@ -74,7 +74,7 @@ By submitting a pull request you agree to `LICENSE.md`: texts CC BY-SA 4.0, code
 
 ### Що не на сайті
 
-Папка `unpublished/` повторює розкладку бази й тримає те, чого на сайті немає: без причини у файлі, причина в куратора. Зняти текст із сайту або повернути - перенести файл між `campaigns/` і `unpublished/campaigns/` одним pull request. Поля «опубліковано» у файлах немає.
+Папка `unpublished/` повторює розкладку бази й тримає те, чого на сайті немає: без причини у файлі, причина в куратора. Зняти текст із сайту або повернути - перенести файл між `campaigns/` і `unpublished/campaigns/` одним pull request. Поля «опубліковано» у файлах немає. Адреса сторінки з перенесенням вмирає: додайте рядок у `redirects.yml` (старий ідентифікатор, нова адреса або кампанія, причина `unpublished`), інакше перевірка червона. Так само, коли кампанію злили в іншу або техніку розділили: `python scripts/redirects.py --suggest` робить чернетку рядків.
 
 ### Без правки
 
@@ -117,7 +117,7 @@ By submitting a pull request you agree to `LICENSE.md`: texts CC BY-SA 4.0, code
 
 ### Что не на сайте
 
-Папка `unpublished/` повторяет раскладку базы и держит то, чего на сайте нет: без причины в файле, причина у куратора. Снять текст с сайта или вернуть - перенести файл между `campaigns/` и `unpublished/campaigns/` одним pull request. Поля «опубликовано» в файлах нет.
+Папка `unpublished/` повторяет раскладку базы и держит то, чего на сайте нет: без причины в файле, причина у куратора. Снять текст с сайта или вернуть - перенести файл между `campaigns/` и `unpublished/campaigns/` одним pull request. Поля «опубликовано» в файлах нет. Адрес страницы с переносом умирает: добавьте строку в `redirects.yml` (старый идентификатор, новый адрес или кампания, причина `unpublished`), иначе проверка красная. То же, когда кампанию слили в другую или технику разделили: `python scripts/redirects.py --suggest` делает черновик строк.
 
 ### Без правки
 
