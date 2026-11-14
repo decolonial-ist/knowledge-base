@@ -1,0 +1,31 @@
+type: procedure
+id: C0088.T0021
+campaign:
+  C0088:
+    en: The First Wave of Repressions Against the "Sixtiers" (1965–1968)
+    uk: Перша хвиля репресій проти «шістдесятників» (1965–1968)
+    ru: Первая волна репрессий против «шестидесятников» (1965–1968)
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique:
+  T0021:
+    en: Neutralization of the Opposition
+    uk: Нейтралізація опозиції
+    ru: Нейтрализация оппозиции
+people: ukrainians
+actor:
+  G0010:
+    en: USSR
+    uk: СРСР
+    ru: СССР
+tool:
+  S0017:
+    en: Secret Police and Security Services
+    uk: Таємна поліція та Спецслужби
+    ru: Тайная полиция и Спецслужбы
+contributors: []
+description:
+  en: 'Targeted arrests of the new Ukrainian intelligentsia, dissidents, and protest participants (including after the premiere of "Shadows of Forgotten Ancestors") to suppress the nascent resistance(Citation: 30).'
+  uk: 'Цілеспрямовані арешти нової української інтелігенції, дисидентів та учасників протестів (зокрема після прем''єри «Тіней забутих предків») для придушення зароджуваного опору(Citation: 30).'
+  ru: 'Целенаправленные аресты новой украинской интеллигенции, диссидентов и участников протестов (в т.ч. после премьеры «Теней забытых предков») для подавления зарождающегося сопротивления(Citation: 30).'

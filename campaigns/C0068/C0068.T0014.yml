@@ -1,0 +1,37 @@
+type: procedure
+id: C0068.T0014
+campaign:
+  C0068:
+    en: Black Hundred Terror and Pogroms (1905–1907)
+    uk: Чорносотенний терор і погроми (1905–1907)
+    ru: Черносотенный террор и погромы (1905–1907)
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique:
+  T0014:
+    en: Sponsoring Domestic Radical Groups
+    uk: Спонсорування внутрішніх радикальних угруповань
+    ru: Спонсирование внутренних радикальных группировок
+people: ukrainians
+actor:
+  G0009:
+    en: Russian Empire
+    uk: Російська імперія
+    ru: Российская Империя
+tool:
+  S0017:
+    en: Secret Police and Security Services
+    uk: Таємна поліція та Спецслужби
+    ru: Тайная полиция и Спецслужбы
+contributors: []
+description:
+  en: |-
+    State support for reactionary organizations: "The organization received financial support from the state and was patronized by Russian emperor Nicholas II.
+    In 1907 there existed about 800 local branches of the 'Union'"(Citation: 196).
+  uk: |-
+    Державна підтримка реакційних організацій: «Орг-ція одержувала фінансову підтримку від д-ви, їй протегував рос. імп.
+    Микола II. 1907 існувало бл. 800 місц. філіалів «Союзу»»(Citation: 196).
+  ru: |-
+    Государственная поддержка реакционных организаций: «Организация получала финансовую поддержку от государства, ей протежировал российский император Николай II.
+    В 1907 существовало ок. 800 местных филиалов «Союза»»(Citation: 196).

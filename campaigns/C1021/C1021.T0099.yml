@@ -1,0 +1,40 @@
+type: procedure
+id: C1021.T0099
+campaign:
+  C1021:
+    en: Destruction of the Nokhchi Villages along the Sunzha and Construction of the Groznaya Fortress in Their Place (1817–1818)
+    uk: Знищення присунженських селищ Нохчі та зведення фортеці Грозної на їхньому місці (1817–1818)
+    ru: Уничтожение присунженских селений нохчи и возведение крепости Грозной на их месте (1817–1818)
+created: 2026-06-25
+modified: 2026-06-25
+version: '1.0'
+technique:
+  T0099:
+    en: Hostage-Taking
+    uk: Захоплення заручників
+    ru: Захват заложников
+people: nokhchi
+actor:
+  G0009:
+    en: Russian Empire
+    uk: Російська імперія
+    ru: Российская Империя
+tool:
+  S0010:
+    en: Regular Army
+    uk: Регулярна армія
+    ru: Регулярная армия
+contributors: []
+description:
+  en: |-
+    The Regular Army of the Russian Empire held representatives of the villages along the Sunzha as a pledge of submission.
+    Imperial general Yermolov testifies in his “Notes” that when the troops advanced to the Sunzha, “amanats (hostages) from their villages were taken into the camp”(Citation: 96).
+    Imperial historian Potto confirms that Yermolov “took amanats from all the auls sitting along the Sunzha”(Citation: 75).
+  uk: |-
+    Регулярна армія Російської імперії утримувала представників присунженських селищ як заставу підпорядкування.
+    Імперський генерал Єрмолов у «Записках» свідчить, що при виході військ до Сунжі «в табір були взяті від їхніх селищ аманати»(Citation: 96).
+    Імперський історик Потто підтверджує, що Єрмолов «від усіх аулів, що сиділи над Сунжею, взяв аманатів»(Citation: 75).
+  ru: |-
+    Регулярная армия Российской империи удерживала представителей присунженских селений как залог подчинения.
+    Имперский генерал Ермолов в «Записках» свидетельствует, что при выходе войск к Сунже «в лагерь взяты были от их селений аманаты»(Citation: 96).
+    Имперский историк Потто подтверждает, что Ермолов «от всех аулов, сидевших над Сунжой, взял аманатов»(Citation: 75).

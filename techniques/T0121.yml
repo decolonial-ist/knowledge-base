@@ -1,0 +1,29 @@
+type: technique
+id: T0121
+created: 2026-04-21
+modified: 2026-08-09
+version: '1.1'
+tactics:
+  TA0004:
+    en: Defense Impairment
+    uk: Ослаблення захисту
+    ru: Ослабление защиты
+  TA0005:
+    en: Persistence
+    uk: Закріплення
+    ru: Закрепление
+name:
+  en: Artificial Famine
+  uk: Штучний голод
+  ru: Искусственный голод
+contributors: []
+description:
+  en: |-
+    Aggressors may artificially create conditions of mass famine through the forcible seizure of food, the destruction of agricultural infrastructure, and the blocking of escape routes.
+    This form of indiscriminate terror physically exterminates the population, suppressing ongoing revolts, while simultaneously clearing the demographic landscape of the colonized territories.
+  uk: |-
+    Агресори можуть штучно створювати умови масового голоду шляхом примусового вилучення продовольства, знищення аграрної інфраструктури та блокування шляхів порятунку.
+    Ця форма невибіркового терору фізично винищує населення, придушуючи поточні повстання, і водночас зачищає демографічний ландшафт колонізованих територій.
+  ru: |-
+    Агрессоры могут искусственно создавать условия массового голода путем принудительного изъятия продовольствия, уничтожения аграрной инфраструктуры и блокирования путей спасения.
+    Эта форма неизбирательного террора физически истребляет население, подавляя текущие мятежи, и одновременно зачищает демографический ландшафт колонизируемых территорий.

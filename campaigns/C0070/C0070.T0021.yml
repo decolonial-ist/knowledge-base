@@ -1,0 +1,40 @@
+type: procedure
+id: C0070.T0021
+campaign:
+  C0070:
+    en: World War I and the Occupation of Galicia (1914–1917)
+    uk: Перша світова війна та окупація Галичини (1914–1917)
+    ru: Первая мировая война и оккупация Галичины (1914–1917)
+created: 2026-04-25
+modified: 2026-08-01
+version: '1.0'
+technique:
+  T0021:
+    en: Neutralization of the Opposition
+    uk: Нейтралізація опозиції
+    ru: Нейтрализация оппозиции
+people: ukrainians
+actor:
+  G0009:
+    en: Russian Empire
+    uk: Російська імперія
+    ru: Российская Империя
+tool:
+  S0012:
+    en: Occupation and Controlled Administrations
+    uk: Окупаційні та підконтрольні адміністрації
+    ru: Оккупационные и подконтрольные администрации
+contributors: []
+description:
+  en: |-
+    The purge of Ukrainian institutions and the persecution of the movement's leaders.
+    Hrushevsky was "arrested by the gendarmerie in Kyiv on December 11, 1914, and accused of Austrophilia and involvement in creating the Legion of Ukrainian Sich Riflemen.
+    He was sent into exile to Simbirsk"(Citation: 186), then transferred to Kazan with a teaching ban and stripped of his professorship.
+  uk: |-
+    Зачистка українських інституцій та переслідування лідерів руху.
+    Грушевський був «11 груд. 1914 заарештований жандармерією у Києві й звинувачений в австрофільстві та причетності до створення Легіону Українських січових стрільців.
+    Відправлений на заслання до Симбірська»(Citation: 186), потім переведений до Казані із забороною викладання та позбавлений професорського звання.
+  ru: |-
+    Зачистка украинских институтов и преследование лидеров движения.
+    Грушевский был «11 декабря 1914 арестован жандармерией в Киеве и обвинён в австрофильстве и причастности к созданию Легиона Украинских сечевых стрельцов.
+    Отправлен в ссылку в Симбирск»(Citation: 186), затем переведен в Казань с запретом преподавания и лишен профессорского звания.

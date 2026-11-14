@@ -1,0 +1,24 @@
+type: tool
+id: S0026
+created: 2026-11-14
+modified: 2026-11-14
+version: '1.0'
+kind: tool
+name:
+  en: Mercenaries and Private Military Companies
+  uk: Найманці та приватні військові компанії
+  ru: Наёмники и частные военные компании
+contributors: []
+description:
+  en: |-
+    Armed people who fight for the colonizer for pay and do not serve in its army.
+    The colonizer pays them and sets their tasks while denying its own involvement.
+    This is how the Russian Wagner Group fought in Ukraine in 2022 and 2023(Citation: 2286).
+  uk: |-
+    Озброєні люди, які воюють за колонізатора за плату й не служать у його армії.
+    Колонізатор платить їм і ставить завдання, а свою участь заперечує.
+    Так воювала в Україні у 2022 і 2023 роках російська група Вагнера(Citation: 2286).
+  ru: |-
+    Вооружённые люди, которые воюют за колонизатора за плату и не служат в его армии.
+    Колонизатор платит им и ставит задачи, а своё участие отрицает.
+    Так воевала в Украине в 2022 и 2023 годах российская группа Вагнера(Citation: 2286).

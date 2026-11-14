@@ -1,0 +1,31 @@
+type: procedure
+id: C0012.T0052
+campaign:
+  C0012:
+    en: Mazepa's Defection to Sweden and the Baturyn Massacre (1708)
+    uk: Перехід Мазепи на бік Швеції та Батуринська різанина (1708)
+    ru: Переход Мазепы на сторону Швеции и Батуринская резня (1708)
+created: 2026-04-24
+modified: 2026-10-26
+version: '1.0'
+technique:
+  T0052:
+    en: Expropriation of Resources
+    uk: Вилучення ресурсів
+    ru: Изъятие ресурсов
+people: ukrainians
+actor:
+  G0008:
+    en: Tsardom of Muscovy
+    uk: Московське царство
+    ru: Московское Царство
+tool:
+  S0010:
+    en: Regular Army
+    uk: Регулярна армія
+    ru: Регулярная армия
+contributors: []
+description:
+  en: 'Large-scale looting of state arsenals and the treasury during the punitive raid on the autonomy''s capital: "Menshikov managed to remove part of the artillery"(Citation: 3)(Citation: 4); the remaining guns were blown up and the city burned.'
+  uk: 'Масштабне розграбування державних арсеналів і скарбниці під час карального рейду на столицю автономії: «Меншиков встиг вивезти частину артилерії»(Citation: 3)(Citation: 4), решту гармат було підірвано, а місто спалено.'
+  ru: 'Масштабное разграбление государственных арсеналов и казны во время карательного рейда на столицу автономии: «Меншиков успел вывезти часть артиллерии»(Citation: 3)(Citation: 4), остальные орудия были подорваны, а город сожжен.'

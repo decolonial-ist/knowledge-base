@@ -1,0 +1,31 @@
+type: procedure
+id: C0047.T0101
+campaign:
+  C0047:
+    en: The Ems Ukaz and Total Censorship (1876–1887)
+    uk: Емський указ і тотальна цензура (1876–1887)
+    ru: Эмский указ и тотальная цензура (1876–1887)
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique:
+  T0101:
+    en: Censorship
+    uk: Цензура
+    ru: Цензура
+people: ukrainians
+actor:
+  G0009:
+    en: Russian Empire
+    uk: Російська імперія
+    ru: Российская Империя
+tool:
+  S0008:
+    en: Government
+    uk: Уряд
+    ru: Правительство
+contributors: []
+description:
+  en: 'The censor''s refusal to consider national manuscripts: "On a Ukrainian grammar prepared in Russian, the censor wrote the resolution: ''It would be naive to hope for permission to print the grammar of a language that must not exist''"(Citation: 181).'
+  uk: 'Відмова цензури розглядати національні рукописи: «На українській граматиці, підготовленій російською мовою, цензор написав резолюцію: „Наївно було б сподіватися на дозвіл друкувати граматику тієї мови, яка не повинна існувати“»(Citation: 181).'
+  ru: 'Отказ цензуры рассматривать национальные рукописи: «На украинской грамматике, подготовленной на русском языке, цензор написал резолюцию: „Наивно было бы надеяться на дозволенне печатать грамматику того языка, который не должен существовать“»(Citation: 181).'

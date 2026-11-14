@@ -1,0 +1,37 @@
+type: procedure
+id: C0004.T0041
+campaign:
+  C0004:
+    en: Pereiaslav Articles (1659)
+    uk: Переяславські статті (1659)
+    ru: Переяславские статьи (1659)
+created: 2026-04-24
+modified: 2026-07-31
+version: '1.0'
+technique:
+  T0041:
+    en: Implantation of Officials and Military Personnel
+    uk: Підселення чиновників і військових
+    ru: Подселение чиновников и военных
+people: ukrainians
+actor:
+  G0008:
+    en: Tsardom of Muscovy
+    uk: Московське царство
+    ru: Московское Царство
+tool:
+  S0010:
+    en: Regular Army
+    uk: Регулярна армія
+    ru: Регулярная армия
+contributors: []
+description:
+  en: |-
+    After forcing the signing of the treaty, Moscow moved to the direct occupation of the autonomy's living space.
+    The articles codified the expansion of the military presence: "besides Kyiv, tsarist voivodes were introduced into Pereiaslav, Chernihiv, Nizhyn, Bratslav, and Uman"(Citation: 195) – garrisons headed by voivodes ensured physical control over the territory from within.
+  uk: |-
+    Після силового примусу до підписання договору Москва перейшла до прямої окупації життєвого простору автономії.
+    Статті закріпили розширення військової присутності: «Крім Києва, царські воєводи вводилися до Переяслава, Чернігова, Ніжина, Брацлава та Умані»(Citation: 195) – гарнізони з воєводами забезпечували фізичний контроль над територією зсередини.
+  ru: |-
+    После силового принуждения к подписанию договора Москва перешла к прямой оккупации жизненного пространства автономии.
+    Статьи закрепили расширение военного присутствия: «Кроме Киева, царские воеводы вводились в Переяслав, Чернигов, Нежин, Брацлав и Умань»(Citation: 195) – гарнизоны с воеводами обеспечивали физический контроль над территорией изнутри.

@@ -1,0 +1,31 @@
+type: procedure
+id: C0077.T0021
+campaign:
+  C0077:
+    en: Forced Collectivization and Dekulakization (1928–1932)
+    uk: Насильницька колективізація та розкуркулення (1928–1932)
+    ru: Насильственная коллективизация и раскулачивание (1928–1932)
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique:
+  T0021:
+    en: Neutralization of the Opposition
+    uk: Нейтралізація опозиції
+    ru: Нейтрализация оппозиции
+people: ukrainians
+actor:
+  G0010:
+    en: USSR
+    uk: СРСР
+    ru: СССР
+tool:
+  S0017:
+    en: Secret Police and Security Services
+    uk: Таємна поліція та Спецслужби
+    ru: Тайная полиция и Спецслужбы
+contributors: []
+description:
+  en: 'Mass arrests of peasants during the dekulakization campaign: according to the 1930 directives, in addition to deportations, tens of thousands of people were sent directly to concentration camps for isolation(Citation: 22).'
+  uk: 'Масові арешти селян під час кампанії розкуркулення: згідно з директивами 1930 року, окрім депортацій, десятки тисяч людей відправляли безпосередньо до концентраційних таборів для ізоляції(Citation: 22).'
+  ru: 'Массовые аресты крестьян в ходе кампании раскулачивания: согласно директивам 1930 года, помимо депортаций, десятки тысяч человек отправлялись непосредственно в концентрационные лагеря для изоляции(Citation: 22).'

@@ -1,0 +1,31 @@
+type: procedure
+id: C1033.T0037
+campaign:
+  C1033:
+    en: Installation of a puppet government through sham elections (1995–1996)
+    uk: Встановлення маріонеткового уряду через фіктивні вибори (1995–1996)
+    ru: Установка марионеточного правительства через фиктивные выборы (1995–1996)
+created: 2026-04-20
+modified: 2026-04-20
+version: '1.0'
+technique:
+  T0037:
+    en: Puppet Government
+    uk: Маріонетковий уряд
+    ru: Марионеточное правительство
+people: nokhchi
+actor:
+  G0011:
+    en: Russian Federation
+    uk: Російська Федерація
+    ru: Российская Федерация
+tool:
+  S0012:
+    en: Occupation and Controlled Administrations
+    uk: Окупаційні та підконтрольні адміністрації
+    ru: Оккупационные и подконтрольные администрации
+contributors: []
+description:
+  en: 'The drive to legitimize the occupation by installing in power the regime of Doku Zavgayev, loyal to the federal center(Citation: 27).'
+  uk: 'Прагнення легітимізувати окупацію шляхом утвердження при владі лояльного до федерального центру режиму Доку Завгаєва(Citation: 27).'
+  ru: 'Стремление легитимизировать оккупацию путем утверждения у власти лояльного федеральному центру режима Доку Завгаева(Citation: 27).'

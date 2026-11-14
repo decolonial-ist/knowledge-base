@@ -1,0 +1,31 @@
+type: procedure
+id: C0079.T0045
+campaign:
+  C0079:
+    en: Cultural Terror and the "Executed Renaissance" (1933–1938)
+    uk: Культурний терор і «Розстріляне відродження» (1933–1938)
+    ru: Культурный террор и «Расстрелянное возрождение» (1933–1938)
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique:
+  T0045:
+    en: Destruction of Historical Memory
+    uk: Знищення історичної пам'яті
+    ru: Уничтожение исторической памяти
+people: ukrainians
+actor:
+  G0010:
+    en: USSR
+    uk: СРСР
+    ru: СССР
+tool:
+  S0017:
+    en: Secret Police and Security Services
+    uk: Таємна поліція та Спецслужби
+    ru: Тайная полиция и Спецслужбы
+contributors: []
+description:
+  en: 'Institutional destruction of national historical scholarship, closure of research schools, and removal of the works of Ukrainian historians from scholarly circulation(Citation: 22).'
+  uk: 'Інституційний розгром національної історичної науки, закриття дослідницьких шкіл та вилучення праць Українських істориків із наукового обігу(Citation: 22).'
+  ru: 'Институциональный разгром национальной исторической науки, закрытие исследовательских школ и изъятие трудов украинских историков из научного оборота(Citation: 22).'

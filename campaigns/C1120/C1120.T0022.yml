@@ -1,0 +1,31 @@
+type: procedure
+id: C1120.T0022
+campaign:
+  C1120:
+    en: Punitive campaign and the devastation of the Nokhchi mountain communities (1617–1618)
+    uk: Каральний похід і розорення гірських спільнот Нохчі (1617–1618)
+    ru: Карательный поход и разорение горных обществ нохчи (1617–1618)
+created: 2026-06-14
+modified: 2026-06-14
+version: '1.0'
+technique:
+  T0022:
+    en: Terror
+    uk: Терор
+    ru: Террор
+people: nokhchi
+actor:
+  G0008:
+    en: Tsardom of Muscovy
+    uk: Московське царство
+    ru: Московское Царство
+tool:
+  S0012:
+    en: Occupation and Controlled Administrations
+    uk: Окупаційні та підконтрольні адміністрації
+    ru: Оккупационные и подконтрольные администрации
+contributors: []
+description:
+  en: 'The occupation administration of Tersky Town employed mass terrorizing violence: in a petition to Tsar Mikhail Fyodorovich, the Kabardian prince Sunchaley Yanglychevich Cherkassky reported that the military detachments «burned down and utterly ruined many Shibut and Kalkan and Erokhan and Michkiz kabaks»(Citation: 82) and «slew many peo[ple]»(Citation: 82).'
+  uk: 'Окупаційна адміністрація Терського міста застосовувала масове залякувальне насильство: у чолобитній цареві Михайлу Федоровичу кабардинський князь Сунчалей Янгличевич Черкаський доповідав, що військові загони «шибуцькі і калканські і ероханські і мічкіські многі кабаки повипалювали і зовсім розорили»(Citation: 82) та «багатьох лю[дей] побили»(Citation: 82).'
+  ru: 'Оккупационная администрация Терского города применяла массовое устрашающее насилие: в челобитной царю Михаилу Федоровичу кабардинский князь Сунчалей Янглычевич Черкасский докладывал, что военные отряды «шибуцкие и калканские и ероханские и мичкиские многие кабаки повыжгли и совсем разорили»(Citation: 82) и «многих лю[дей] побили»(Citation: 82).'

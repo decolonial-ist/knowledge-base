@@ -1,0 +1,90 @@
+# После merge в main: 1) проставить modified / version изменённым файлам,
+#    обновить названия кампании и техники в файлах процедур (scripts/procedure_names.py) и порядок языков
+#    en, uk, ru (scripts/lang_order.py),
+# 2) собрать три бандла STIX и слои Навигатора и положить их в релиз `stix` (постоянные адреса
+# releases/download/stix/<файл>), откуда их скачивает сборка сайта decolonial.ist.
+# Коммитит в main от имени github-actions; свой же коммит повторно не штампует (меняются только мета-поля).
+name: stamp-meta
+
+on:
+  push:
+    branches: [main]
+  # вручную - пересобрать бандлы без нового merge: после пересборки архива у новых источников
+  # появляются карточки, и сноски на них получают ссылку (штамп дат при ручном запуске не идёт)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stamp:
+    if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - name: stamp changed entity files
+        run: |
+          # первый коммит истории сравнивать не с чем - штамп пропускается
+          if git rev-parse -q --verify HEAD~1 >/dev/null; then
+            CHANGED=$(git diff --name-only HEAD~1 HEAD -- tactics techniques actors tools campaigns | grep '\.yml$' || true)
+            if [ -n "$CHANGED" ]; then python scripts/stamp_meta.py $CHANGED; fi
+          fi
+      - name: names of campaign, technique, actors and tools in procedures
+        run: python scripts/procedure_names.py
+      - name: language order en, uk, ru in entity files
+        run: python scripts/lang_order.py
+      - name: materials index from the archive registry
+        run: python scripts/materials_index.py
+      - name: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A tactics techniques actors tools campaigns unpublished MATERIALS.md
+          git diff --cached --quiet || git commit -m "meta: modified/version для изменённых файлов"
+          git push
+
+  stix:
+    needs: stamp
+    # после штампа или без него (ручной запуск); упавший штамп бандлы не выпускает
+    if: ${{ !cancelled() && (needs.stamp.result == 'success' || needs.stamp.result == 'skipped') }}
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main            # уже со штампом дат из job stamp
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - name: export STIX bundles (en, uk, ru)
+        run: python scripts/export_stix.py
+      - name: navigator layers
+        run: |
+          python scripts/generate_layer.py dist/russia-colonialism-en.json dist/colonial_full_layer-en.json "DECOLONIAL.IST: all techniques"
+          python scripts/generate_layer.py dist/russia-colonialism-uk.json dist/colonial_full_layer-uk.json "DECOLONIAL.IST: усі техніки"
+          python scripts/generate_layer.py dist/russia-colonialism.json    dist/colonial_full_layer.json    "DECOLONIAL.IST: все техники"
+          python scripts/redirects.py --export dist/redirects.json
+      - name: check bundles load as STIX
+        run: |
+          python - <<'EOF'
+          import json, stix2
+          for f in ("dist/russia-colonialism-en.json", "dist/russia-colonialism-uk.json", "dist/russia-colonialism.json"):
+              n = len(json.load(open(f, encoding="utf-8"))["objects"])
+              stix2.MemoryStore().load_from_file(f)
+              print(f, "объектов:", n)
+          EOF
+      - name: publish to release `stix`
+        run: |
+          git tag -f stix && git push -f origin stix
+          gh release view stix >/dev/null 2>&1 || gh release create stix --title "STIX bundles (latest main)" \
+            --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (en, uk, ru), слои ATT&CK Navigator и реестр переносов адресов redirects.json. Пересобираются при каждом merge в main; адреса файлов постоянные."
+          gh release edit stix --target main --notes "Бандлы STIX 2.1 базы знаний DECOLONIAL.IST (en, uk, ru), слои ATT&CK Navigator и реестр переносов адресов redirects.json. Пересобираются при каждом merge в main; адреса файлов постоянные. Коммит: ${GITHUB_SHA}" >/dev/null
+          gh release upload stix dist/*.json --clobber

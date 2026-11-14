@@ -1,0 +1,30 @@
+type: technique
+id: T0167.001
+created: 2026-09-27
+modified: 2026-10-18
+version: '1.0'
+parent:
+  T0167:
+    en: Perfidy
+    uk: Віроломство
+    ru: Вероломство
+tactics:
+  TA0004:
+    en: Defense Impairment
+    uk: Ослаблення захисту
+    ru: Ослабление защиты
+name:
+  en: False Guarantees of Safety
+  uk: Фальшиві гарантії безпеки
+  ru: Ложные гарантии безопасности
+contributors: []
+description:
+  en: |-
+    Aggressors may promise that those who lay down their arms, surrender, turn themselves in or return home will keep their lives, freedom or property.
+    The colonizer then arrests, deports or kills those who believed it.
+  uk: |-
+    Агресори можуть обіцяти зберегти життя, свободу або майно тим, хто складе зброю, здасться, прийде з повинною або повернеться додому.
+    Потім колонізатор заарештовує, висилає або вбиває тих, хто повірив.
+  ru: |-
+    Агрессоры могут обещать сохранить жизнь, свободу или имущество тем, кто сложит оружие, сдастся, придёт с повинной или вернётся домой.
+    Затем колонизатор арестовывает, высылает или убивает поверивших.

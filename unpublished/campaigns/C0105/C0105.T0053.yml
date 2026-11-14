@@ -1,0 +1,31 @@
+type: procedure
+id: C0105.T0053
+campaign:
+  C0105:
+    en: The Bucha Massacre (2022)
+    uk: Різанина в Бучі (2022)
+    ru: Резня в Буче (2022)
+created: 2026-08-16
+modified: 2026-08-16
+version: '1.0'
+technique:
+  T0053:
+    en: Abduction of People
+    uk: Викрадення людей
+    ru: Похищение людей
+people: ukrainians
+actor:
+  G0011:
+    en: Russian Federation
+    uk: Російська Федерація
+    ru: Российская Федерация
+tool:
+  S0010:
+    en: Regular Army
+    uk: Регулярна армія
+    ru: Регулярная армия
+contributors: []
+description:
+  en: ''
+  uk: ''
+  ru: 'Насильственный вывоз жителей города в неволю: городской совет Бучи сообщает - «32 людини ворог силоміць вивіз у неволю, одна з них загинула»(Citation: 506).'

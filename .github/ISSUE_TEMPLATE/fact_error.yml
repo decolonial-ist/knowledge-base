@@ -1,0 +1,24 @@
+name: Factual error / Помилка факту / Ошибка факта
+description: A wrong date, number, name, place or event / Хибна дата, число, ім'я, місце чи подія / Неверная дата, число, имя, место или событие
+labels: [fact]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where / Де / Где
+      description: File id and sentence, e.g. campaigns/C1193/C1193.T0023.yml, «12 декабря 1994 года…» / Ідентифікатор файлу і фраза / Идентификатор файла и фраза
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong / Що не так / Что не так
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source / Джерело / Источник
+      description: A document, book, report or link that supports it / Документ, книга, доповідь, посилання - чим це підтверджується / Документ, книга, доклад, ссылка - чем это подтверждается
+    validations:
+      required: true

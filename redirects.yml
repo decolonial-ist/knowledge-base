@@ -1,0 +1,10 @@
+# Address moves: an id that used to live in campaigns/ and does not any more (campaign merged into
+# another, technique split, text taken off the site). The site sends readers from the old address to
+# the new one. Every vanished id must have an entry, or `scripts/redirects.py --check` fails in CI.
+# Draft entries: `python scripts/redirects.py --suggest`. Fields: from, to (list), reason
+# (merged | split | renamed | unpublished), date (YYYY-MM-DD). See scripts/redirects.py.
+#
+# Переноси адрес: ідентифікатор, який лежав у campaigns/ і більше там не лежить. Кожен має бути тут.
+#
+# Переносы адресов: идентификатор, который лежал в campaigns/ и больше там не лежит. Каждый должен быть здесь.
+[]

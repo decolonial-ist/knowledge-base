@@ -1,0 +1,31 @@
+type: procedure
+id: C1120.T0019
+campaign:
+  C1120:
+    en: Punitive campaign and the devastation of the Nokhchi mountain communities (1617–1618)
+    uk: Каральний похід і розорення гірських спільнот Нохчі (1617–1618)
+    ru: Карательный поход и разорение горных обществ нохчи (1617–1618)
+created: 2026-06-14
+modified: 2026-08-07
+version: '1.0'
+technique:
+  T0019:
+    en: Military Intervention
+    uk: Воєнна інтервенція
+    ru: Военная интервенция
+people: nokhchi
+actor:
+  G0008:
+    en: Tsardom of Muscovy
+    uk: Московське царство
+    ru: Московское Царство
+tool:
+  S0012:
+    en: Occupation and Controlled Administrations
+    uk: Окупаційні та підконтрольні адміністрації
+    ru: Оккупационные и подконтрольные администрации
+contributors: []
+description:
+  en: 'The occupation administration of Tersky Town dispatched armed detachments which, as the Kabardian prince Sunchaley Yanglychevich Cherkassky and his son the Kabardian prince Sholokh reported to Tsar Mikhail Fyodorovich, made their way «across the mountains and through mountain crevices, impassable places»(Citation: 82) in order to suppress the defiant communities.'
+  uk: 'Окупаційна адміністрація Терського міста направила збройні загони, які, як доповідали цареві Михайлу Федоровичу кабардинський князь Сунчалей Янгличевич Черкаський та його син кабардинський князь Шолох, здійснили перехід «через гори та гірськими розколинами, непрохідними місцями»(Citation: 82) для придушення громад, що не підкорилися.'
+  ru: 'Оккупационная администрация Терского города направила вооруженные отряды, которые, как докладывали царю Михаилу Федоровичу кабардинский князь Сунчалей Янглычевич Черкасский и его сын кабардинский князь Шолох, совершили переход «через горы и горскими расселинами, непроходимыми месты»(Citation: 82) для подавления не подчинившихся обществ.'

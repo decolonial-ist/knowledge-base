@@ -1,0 +1,31 @@
+type: procedure
+id: C0075.T0021
+campaign:
+  C0075:
+    en: Institutional Absorption through a "Military-Political Union" (1919–1921)
+    uk: Інституційне поглинання через «військово-політичний союз» (1919–1921)
+    ru: Институциональное поглощение через «военно-политический союз» (1919–1921)
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique:
+  T0021:
+    en: Neutralization of the Opposition
+    uk: Нейтралізація опозиції
+    ru: Нейтрализация оппозиции
+people: ukrainians
+actor:
+  G0013:
+    en: Soviet Russia (RSFSR)
+    uk: Радянська Росія (РРФСР)
+    ru: Советская Россия (РСФСР)
+tool:
+  S0008:
+    en: Government
+    uk: Уряд
+    ru: Правительство
+contributors: []
+description:
+  en: 'Coercion of legal Ukrainian parties into self-dissolution (in particular, the Borotbists in the spring of 1920) and their absorption by the CP(b)U through political blackmail and the bribery of their leaders with official posts(Citation: 22).'
+  uk: 'Примус до саморозпуску легальних українських партій (зокрема боротьбистів навесні 1920 року) та їх поглинання КП(б)У шляхом політичного шантажу і підкупу їхніх лідерів посадами(Citation: 22).'
+  ru: 'Принуждение к самороспуску легальных украинских партий (в частности боротьбистов весной 1920 года) и их поглощение КП(б)У путем политического шантажа и подкупа их лидеров должностями(Citation: 22).'

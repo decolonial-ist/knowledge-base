@@ -1,0 +1,24 @@
+type: tool
+id: S0027
+created: 2026-11-14
+modified: 2026-11-14
+version: '1.0'
+kind: tool
+name:
+  en: Puppet Militias
+  uk: Маріонеткові ополчення
+  ru: Марионеточные ополчения
+contributors: []
+description:
+  en: |-
+    Armed units that the colonizer creates, arms and directs while passing them off as local.
+    The colonizer calls them "self-defense" or "militia" and denies that its own troops are fighting there.
+    This is how the units of the puppet opposition acted in the Chechen Republic of Ichkeria in 1994, the "Crimean Self-Defense" and Cossack groups in Crimea in 2014, and the armed groups in eastern Ukraine from 2014 onward(Citation: 27)(Citation: 1086)(Citation: 2229)(Citation: 2286).
+  uk: |-
+    Озброєні загони, які колонізатор створює, озброює та скеровує, а видає за місцевих.
+    Колонізатор називає їх «самообороною» або «ополченням» і заперечує, що там воюють його війська.
+    Так діяли загони маріонеткової опозиції в Чеченській Республіці Ічкерія у 1994 році, «Кримська самооборона» та козацькі групи в Криму у 2014 році й озброєні групи на сході України з 2014 року(Citation: 27)(Citation: 1086)(Citation: 2229)(Citation: 2286).
+  ru: |-
+    Вооружённые отряды, которые колонизатор создаёт, вооружает и направляет, а выдаёт за местных.
+    Колонизатор называет их «самообороной» или «ополчением» и отрицает, что там воюют его войска.
+    Так действовали отряды марионеточной оппозиции в Чеченской Республике Ичкерия в 1994 году, «Крымская самооборона» и казачьи группы в Крыму в 2014 году и вооружённые группы на востоке Украины с 2014 года(Citation: 27)(Citation: 1086)(Citation: 2229)(Citation: 2286).

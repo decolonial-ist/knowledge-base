@@ -1,0 +1,31 @@
+type: procedure
+id: C0041.T0021
+campaign:
+  C0041:
+    en: Introduction of Military Settlements and Liquidation of the Danubian Sich (1817–1828)
+    uk: Запровадження військових поселень і ліквідація Задунайської Січі (1817–1828)
+    ru: Введение военных поселений и ликвидация Задунайской Сечи (1817–1828)
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique:
+  T0021:
+    en: Neutralization of the Opposition
+    uk: Нейтралізація опозиції
+    ru: Нейтрализация оппозиции
+people: ukrainians
+actor:
+  G0009:
+    en: Russian Empire
+    uk: Російська імперія
+    ru: Российская Империя
+tool:
+  S0009:
+    en: Diplomacy
+    uk: Дипломатія
+    ru: Дипломатия
+contributors: []
+description:
+  en: 'The otaman''s defection left the Cossacks remaining beyond the Danube exposed to the Porte''s retaliation and put an end to the last free Cossack host: the Danubian Sich "existed from the last quarter of the 18th century until 1828"(Citation: 189).'
+  uk: 'Перехід отамана залишив козаків, що зосталися за Дунаєм, під ударом Порти й поклав край останній козацькій вольниці: Задунайська Січ «існувала з останньої чв. 18 ст. по 1828»(Citation: 189).'
+  ru: 'Переход атамана оставил оставшихся за Дунаем казаков под ударом Порты и положил конец последней казацкой вольнице: Задунайская Сечь «существовала с последней четверти 18 в. по 1828»(Citation: 189).'

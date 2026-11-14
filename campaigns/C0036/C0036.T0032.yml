@@ -1,0 +1,31 @@
+type: procedure
+id: C0036.T0032
+campaign:
+  C0036:
+    en: Establishment of the "Pale of Settlement" (1791)
+    uk: Запровадження «Смуги осілості» (1791)
+    ru: Учреждение «Черты оседлости» (1791)
+created: 2026-04-25
+modified: 2026-07-31
+version: '1.0'
+technique:
+  T0032:
+    en: Legal Segregation of the Population
+    uk: Правова сегрегація населення
+    ru: Правовая сегрегация населения
+people: ukrainians
+actor:
+  G0009:
+    en: Russian Empire
+    uk: Російська імперія
+    ru: Российская Империя
+tool:
+  S0024:
+    en: Police Apparatus
+    uk: Поліцейський апарат
+    ru: Полицейский аппарат
+contributors: []
+description:
+  en: 'The introduction of territorial discrimination: by the decree of 1791, the Jewish population''s right to burgher and merchant status was confined to specific viceroyalties – Ekaterinoslav and Taurida(Citation: 150) – the legal foundation of the future Pale of Settlement, which confined the area of residence and economic activity to the colonized governorates.'
+  uk: 'Запровадження територіальної дискримінації: указом 1791 року право єврейського населення на міщанський і купецький стан було обмежено визначеними намісництвами – Катеринославським і Таврійським(Citation: 150) – правова основа майбутньої смуги осілості, що обмежила зону проживання та економічної діяльності колонізованими губерніями.'
+  ru: 'Введение территориальной дискриминации: указом 1791 года право еврейского населения на мещанское и купеческое состояние было ограничено определенными наместничествами – Екатеринославским и Таврическим(Citation: 150) – правовая основа будущей черты оседлости, ограничившей зону проживания и экономической деятельности колонизированными губерниями.'

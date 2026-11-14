@@ -1,0 +1,31 @@
+type: procedure
+id: C0071.T0132
+campaign:
+  C0071:
+    en: Failure of the Political Seizure of the UNR in Kyiv (November – December 1917)
+    uk: Провал політичного захоплення УНР у Києві (листопад – грудень 1917)
+    ru: Провал политического захвата УНР в Киеве (ноябрь – декабрь 1917)
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique:
+  T0132:
+    en: Infiltration of Local Political Structures
+    uk: Впровадження своїх людей у місцеві політичні структури
+    ru: Внедрение в местные политические структуры
+people: ukrainians
+actor:
+  G0013:
+    en: Soviet Russia (RSFSR)
+    uk: Радянська Росія (РРФСР)
+    ru: Советская Россия (РСФСР)
+tool:
+  S0020:
+    en: Controlled Opposition
+    uk: Підконтрольна опозиція
+    ru: Подконтрольная оппозиция
+contributors: []
+description:
+  en: 'Deliberate transfer of loyal delegates and political agitators to the All-Ukrainian Congress of Soviets in Kyiv in order to hijack the agenda from within(Citation: 22).'
+  uk: 'Цілеспрямоване перекидання лояльних делегатів і політичних агітаторів на Всеукраїнський з''їзд рад у Києві для перехоплення порядку денного зсередини(Citation: 22).'
+  ru: 'Целенаправленная переброска лояльных делегатов и политических агитаторов на Всеукраинский съезд советов в Киеве для перехвата повестки изнутри(Citation: 22).'

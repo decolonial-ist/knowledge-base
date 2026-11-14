@@ -1,0 +1,113 @@
+# DECOLONIAL.IST - a knowledge base on Russian colonialism
+
+[Українською](#українською) · [По-русски](#по-русски)
+
+A knowledge base on how Russia colonises peoples: the empire's actions described in the [MITRE ATT&CK](https://attack.mitre.org) structure, from the perspective of the colonised. Site - https://decolonial.ist. This repository holds the site's data itself: one YAML file for each tactic, technique, actor, tool, campaign and procedure, prose as Markdown inside the file.
+
+## Layout
+
+| Folder | What is inside | File name |
+|---|---|---|
+| `tactics/` | tactics - the coloniser's goals | `TA0001.yml` |
+| `techniques/` | techniques and sub-techniques - how it acts | `T0023.yml`, `T0162.004.yml` |
+| `actors/` | actors - who acts | `G0013.yml` |
+| `tools/` | tools | `S0010.yml` |
+| `campaigns/` | campaigns - a period or a system of policy against a people; the campaign folder holds its description and its procedures | `C1193/C1193.yml` |
+| `campaigns/<campaign>/` | procedures - a concrete application of a technique in a campaign, the main text of the base; the file carries the names of the campaign, technique, actor and tool | `C1193/C1193.T0023.yml` |
+| `sources/` | source files awaiting intake into the archive; empty in `main` | |
+| `unpublished/` | what is not on the site, in the same layout; the site and the export do not read this folder, only the file shape is checked. To take off the site or bring back - move the file in one pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `redirects.yml` | address moves: an id that used to live in `campaigns/` and does not any more (campaign merged, technique split, text taken off the site) with the new address; the site sends readers from the old page to the new one. Every vanished id needs an entry, or CI fails; draft - `scripts/redirects.py --suggest` | |
+
+The file name is the identifier only; the names in three languages (`en`, `uk`, `ru`) are inside. In the prose, one sentence per line, a blank line between paragraphs: this way an edit in a pull request is visible sentence by sentence. The rules of the prose are in `CONTRIBUTING.md`.
+
+Sources live in the archive https://archive.decolonial.ist: a citation in the text is a card number, `(Citation: 1068)`; the list of numbers is `MATERIALS.md`. If your source is not there, put a link, a bibliography line or a file from `sources/` into the citation; we assign the number.
+
+## STIX
+
+On every merge into `main`, CI builds the base into three STIX 2.1 bundles (`scripts/export_stix.py`) and ATT&CK Navigator layers and puts them into the `stix` release at permanent addresses: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (Russian), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`), and `redirects.json` (address moves for the site). Object identifiers are stable: they derive from the identifiers used in the base (T0023, C1193). The decolonial.ist site is built from these same files.
+
+## How to propose an edit
+
+1. Open the file on GitHub and click the pencil "Edit" (or the "Suggest an edit" button on a page of the site).
+2. Fix the text, click "Propose changes" at the bottom: GitHub creates the copy and the pull request for you.
+3. The shape checks run automatically; we read the content and reply in the pull request.
+
+Spotted an error but do not want to edit - open an issue from a template. Details - `CONTRIBUTING.md`.
+
+License: texts CC BY-SA 4.0, code Apache-2.0 - `LICENSE.md`.
+
+---
+
+## Українською
+
+База знань про те, як Росія колонізує народи: дії імперії описані в структурі [MITRE ATT&CK](https://attack.mitre.org), з позиції колонізованих. Сайт - https://decolonial.ist. Тут лежать самі дані сайту: один YAML-файл на кожну тактику, техніку, актора, інструмент, кампанію і процедуру, проза - Markdown усередині файлу.
+
+### Устрій
+
+| Папка | Що всередині | Ім'я файлу |
+|---|---|---|
+| `tactics/` | тактики - цілі колонізатора | `TA0001.yml` |
+| `techniques/` | техніки й підтехніки - як він діє | `T0023.yml`, `T0162.004.yml` |
+| `actors/` | актори - хто діє | `G0013.yml` |
+| `tools/` | інструменти | `S0010.yml` |
+| `campaigns/` | кампанії - період або система політики проти народу; у папці кампанії її опис і процедури | `C1193/C1193.yml` |
+| `campaigns/<кампанія>/` | процедури - конкретне застосування техніки в кампанії, головний текст бази; у файлі назви кампанії, техніки, актора та інструменту | `C1193/C1193.T0023.yml` |
+| `sources/` | файли джерел, які чекають на приймання в архів; у `main` порожня | |
+| `unpublished/` | те, чого на сайті немає, тією самою розкладкою; сайт і експорт папку не читають, перевіряється лише форма файлів. Зняти з сайту або повернути - перенесення файлу одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `redirects.yml` | переноси адрес: ідентифікатор, який лежав у `campaigns/` і більше там не лежить (кампанію злили, техніку розділили, текст зняли з сайту), з новою адресою; сайт веде читача зі старої сторінки на нову. Кожен зниклий ідентифікатор потребує запису, інакше CI червоний; чернетка - `scripts/redirects.py --suggest` | |
+
+Ім'я файлу - лише ідентифікатор; назви трьома мовами (`en`, `uk`, `ru`) усередині. У прозі одна фраза - один рядок, абзац - порожній рядок: так правка в pull request видна за фразою. Правила прози - у `CONTRIBUTING.md`.
+
+Джерела живуть в архіві https://archive.decolonial.ist: зноска в тексті - номер картки, `(Citation: 1068)`; список номерів - `MATERIALS.md`. Немає вашого джерела - поставте у зноску посилання, бібліографію словами або файл із `sources/`, номер видамо ми.
+
+### STIX
+
+За кожного merge у `main` CI збирає базу у три бандли STIX 2.1 (`scripts/export_stix.py`) і шари ATT&CK Navigator та кладе їх у реліз `stix` з постійними адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (російська), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`) і `redirects.json` (переноси адрес для сайту). Ідентифікатори об'єктів стабільні: вони виводяться з ідентифікаторів бази (T0023, C1193). Сайт decolonial.ist збирається з цих самих файлів.
+
+### Як запропонувати правку
+
+1. Відкрийте файл на GitHub і натисніть олівець «Edit» (або кнопку «Запропонувати правку» на сторінці сайту).
+2. Виправте текст, унизу натисніть «Propose changes»: GitHub сам створить копію та pull request.
+3. Перевірки форми пройдуть автоматично; зміст читаємо ми й відповідаємо в pull request.
+
+Помітили помилку, але правити не хочете - створіть issue за шаблоном. Докладно - `CONTRIBUTING.md`.
+
+Ліцензія: тексти CC BY-SA 4.0, код Apache-2.0 - `LICENSE.md`.
+
+---
+
+## По-русски
+
+База знаний о том, как Россия колонизирует народы: действия империи описаны в структуре [MITRE ATT&CK](https://attack.mitre.org), с позиции колонизированных. Сайт - https://decolonial.ist. Здесь лежат сами данные сайта: один YAML-файл на каждую тактику, технику, актора, инструмент, кампанию и процедуру, проза - Markdown внутри файла.
+
+### Устройство
+
+| Папка | Что внутри | Имя файла |
+|---|---|---|
+| `tactics/` | тактики - цели колонизатора | `TA0001.yml` |
+| `techniques/` | техники и подтехники - как он действует | `T0023.yml`, `T0162.004.yml` |
+| `actors/` | акторы - кто действует | `G0013.yml` |
+| `tools/` | инструменты | `S0010.yml` |
+| `campaigns/` | кампании - период или система политики против народа; в папке кампании её описание и процедуры | `C1193/C1193.yml` |
+| `campaigns/<кампания>/` | процедуры - конкретное применение техники в кампании, главный текст базы; в файле названия кампании, техники, актора и инструмента | `C1193/C1193.T0023.yml` |
+| `sources/` | файлы источников, которые ждут приёмки в архив; в `main` пуста | |
+| `unpublished/` | то, чего на сайте нет, той же раскладкой; сайт и экспорт папку не читают, проверяется только форма файлов. Снять с сайта или вернуть - перенос файла одним pull request | `unpublished/campaigns/C0052/C0052.T0128.yml` |
+| `redirects.yml` | переносы адресов: идентификатор, который лежал в `campaigns/` и больше там не лежит (кампанию слили, технику разделили, текст сняли с сайта), с новым адресом; сайт ведёт читателя со старой страницы на новую. Каждому пропавшему идентификатору нужна запись, иначе CI красный; черновик - `scripts/redirects.py --suggest` | |
+
+Имя файла - только идентификатор; названия на трёх языках (`en`, `uk`, `ru`) внутри. В прозе одна фраза - одна строка, абзац - пустая строка: так правка в pull request видна по фразе. Правила прозы - в `CONTRIBUTING.md`.
+
+Источники живут в архиве https://archive.decolonial.ist: сноска в тексте - номер карточки, `(Citation: 1068)`; список номеров - `MATERIALS.md`. Нет вашего источника - поставьте в сноску ссылку, библиографию словами или файл из `sources/`, номер выдадим мы.
+
+### STIX
+
+При каждом merge в `main` CI собирает базу в три бандла STIX 2.1 (`scripts/export_stix.py`) и слои ATT&CK Navigator и кладёт их в релиз `stix` с постоянными адресами: https://github.com/decolonial-ist/knowledge-base/releases/download/stix/russia-colonialism.json (русский), `russia-colonialism-en.json`, `russia-colonialism-uk.json`, `colonial_full_layer.json` (`-en`, `-uk`) и `redirects.json` (переносы адресов для сайта). Идентификаторы объектов стабильны: они выводятся из идентификаторов базы (T0023, C1193). Сайт decolonial.ist собирается из этих же файлов.
+
+### Как предложить правку
+
+1. Откройте файл на GitHub и нажмите карандаш «Edit» (или кнопку «Предложить правку» на странице сайта).
+2. Исправьте текст, внизу нажмите «Propose changes»: GitHub сам создаст копию и pull request.
+3. Проверки формы пройдут автоматически; содержание читаем мы и отвечаем в pull request.
+
+Заметили ошибку, но править не хотите - создайте issue по шаблону. Подробности - `CONTRIBUTING.md`.
+
+Лицензия: тексты CC BY-SA 4.0, код Apache-2.0 - `LICENSE.md`.

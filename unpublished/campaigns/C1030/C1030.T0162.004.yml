@@ -1,0 +1,31 @@
+type: procedure
+id: C1030.T0162.004
+campaign:
+  C1030:
+    en: Institutional terror and filtration camps (1994–1996)
+    uk: Інституційний терор і фільтраційні табори (1994–1996)
+    ru: Институциональный террор и фильтрационные лагеря (1994–1996)
+created: 2026-04-20
+modified: 2026-08-29
+version: '1.0'
+technique:
+  T0162.004:
+    en: Torture and Abuse
+    uk: Катування та знущання
+    ru: Пытки и истязания
+people: nokhchi
+actor:
+  G0011:
+    en: Russian Federation
+    uk: Російська Федерація
+    ru: Российская Федерация
+tool:
+  S0017:
+    en: Secret Police and Security Services
+    uk: Таємна поліція та Спецслужби
+    ru: Тайная полиция и Спецслужбы
+contributors: []
+description:
+  en: 'Systematic use of electric shock torture and brutal beatings during interrogations, as well as torturous conditions of transport, with people stacked in piles, as a result of which they suffocated and died(Citation: 27).'
+  uk: 'Систематичне застосування катувань струмом, жорстоких побиттів на допитах, а також катівські умови етапування штабелями, внаслідок чого люди задихалися й гинули(Citation: 27).'
+  ru: 'Систематическое применение пыток током, жестоких избиений на допросах, а также пыточные условия этапирования штабелями, в результате чего люди задыхались и гибли(Citation: 27).'

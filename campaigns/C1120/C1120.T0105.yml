@@ -1,0 +1,31 @@
+type: procedure
+id: C1120.T0105
+campaign:
+  C1120:
+    en: Punitive campaign and the devastation of the Nokhchi mountain communities (1617–1618)
+    uk: Каральний похід і розорення гірських спільнот Нохчі (1617–1618)
+    ru: Карательный поход и разорение горных обществ нохчи (1617–1618)
+created: 2026-06-14
+modified: 2026-06-14
+version: '1.0'
+technique:
+  T0105:
+    en: Total Destruction of Infrastructure
+    uk: Тотальне знищення інфраструктури
+    ru: Тотальное уничтожение инфраструктуры
+people: nokhchi
+actor:
+  G0008:
+    en: Tsardom of Muscovy
+    uk: Московське царство
+    ru: Московское Царство
+tool:
+  S0012:
+    en: Occupation and Controlled Administrations
+    uk: Окупаційні та підконтрольні адміністрації
+    ru: Оккупационные и подконтрольные администрации
+contributors: []
+description:
+  en: 'During the punitive campaign, the military detachments burned entire auls to the ground: in a petition to Tsar Mikhail Fyodorovich, the Kabardian prince Sunchaley Yanglychevich Cherkassky reported that they «burned down and utterly ruined many Shibut and Kalkan and Erokhan and Michkiz kabaks»(Citation: 82).'
+  uk: 'Під час карального походу військові загони повністю спалили аули: у чолобитній цареві Михайлу Федоровичу кабардинський князь Сунчалей Янгличевич Черкаський доповідав, що вони «шибуцькі і калканські і ероханські і мічкіські многі кабаки повипалювали і зовсім розорили»(Citation: 82).'
+  ru: 'В ходе карательного похода военные отряды полностью сожгли аулы: в челобитной царю Михаилу Федоровичу кабардинский князь Сунчалей Янглычевич Черкасский докладывал, что они «шибуцкие и калканские и ероханские и мичкиские многие кабаки повыжгли и совсем разорили»(Citation: 82).'

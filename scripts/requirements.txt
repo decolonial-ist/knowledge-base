@@ -1,0 +1,6 @@
+# проверки (CI и локально)
+pyyaml>=6.0
+jsonschema>=4.20
+# экспорт STIX (scripts/export_stix.py, CI после merge в main)
+pandas>=2.2
+stix2>=3.0

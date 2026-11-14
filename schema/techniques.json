@@ -1,0 +1,209 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Техника",
+  "description": "Файл techniques/T0023.yml; подтехника - T0162.004.yml с полем parent.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "type",
+    "id",
+    "created",
+    "modified",
+    "version",
+    "tactics",
+    "name",
+    "contributors",
+    "description"
+  ],
+  "properties": {
+    "type": {
+      "const": "technique"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^T\\d{4}(\\.\\d{3})?$"
+    },
+    "created": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "modified": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+$"
+    },
+    "parent": {
+      "description": "Родитель подтехники: словарь «номер: название на трёх языках». Название - копия name из файла, на который указывает номер, ставит scripts/procedure_names.py; руками достаточно написать номер.",
+      "anyOf": [
+        {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": false,
+          "patternProperties": {
+            "^T\\d{4}$": {
+              "anyOf": [
+                {
+                  "type": "null"
+                },
+                {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "en",
+                    "uk",
+                    "ru"
+                  ],
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "uk": {
+                      "type": "string"
+                    },
+                    "ru": {
+                      "type": "string"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "maxProperties": 1
+        },
+        {
+          "type": "string",
+          "pattern": "^T\\d{4}$"
+        }
+      ]
+    },
+    "tactics": {
+      "description": "Тактики техники: словарь «номер: название на трёх языках». Название - копия name из файла, на который указывает номер, ставит scripts/procedure_names.py; руками достаточно написать номер.",
+      "anyOf": [
+        {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": false,
+          "patternProperties": {
+            "^TA\\d{4}$": {
+              "anyOf": [
+                {
+                  "type": "null"
+                },
+                {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "en",
+                    "uk",
+                    "ru"
+                  ],
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "uk": {
+                      "type": "string"
+                    },
+                    "ru": {
+                      "type": "string"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^TA\\d{4}$"
+          }
+        }
+      ]
+    },
+    "name": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "uk",
+        "ru"
+      ],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        },
+        "ru": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "en",
+          "uk",
+          "ru"
+        ],
+        "properties": {
+          "en": {
+            "type": "string",
+            "minLength": 0
+          },
+          "uk": {
+            "type": "string",
+            "minLength": 0
+          },
+          "ru": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "uk",
+        "ru"
+      ],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 0
+        },
+        "uk": {
+          "type": "string",
+          "minLength": 0
+        },
+        "ru": {
+          "type": "string",
+          "minLength": 0
+        }
+      }
+    }
+  }
+}

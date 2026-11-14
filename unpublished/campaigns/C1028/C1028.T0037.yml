@@ -1,0 +1,31 @@
+type: procedure
+id: C1028.T0037
+campaign:
+  C1028:
+    en: Proxy war and political destabilization (1993–1994)
+    uk: Проксі-війна та політична дестабілізація (1993–1994)
+    ru: Прокси-война и политическая дестабилизация (1993–1994)
+created: 2026-04-20
+modified: 2026-04-20
+version: '1.0'
+technique:
+  T0037:
+    en: Puppet Government
+    uk: Маріонетковий уряд
+    ru: Марионеточное правительство
+people: nokhchi
+actor:
+  G0011:
+    en: Russian Federation
+    uk: Російська Федерація
+    ru: Российская Федерация
+tool:
+  S0012:
+    en: Occupation and Controlled Administrations
+    uk: Окупаційні та підконтрольні адміністрації
+    ru: Оккупационные и подконтрольные администрации
+contributors: []
+description:
+  en: 'Creation of a Provisional Council beyond the control of the authorities, headed by Umar Avturkhanov, and of a puppet "Government of National Revival"(Citation: 26).'
+  uk: 'Створення непідконтрольної владі Тимчасової ради на чолі з Умаром Автурхановим і маріонеткового «Уряду національного відродження»(Citation: 26).'
+  ru: 'Создание неподконтрольного властям Временного совета во главе с Умаром Автурхановым и марионеточного «Правительства национального возрождения»(Citation: 26).'

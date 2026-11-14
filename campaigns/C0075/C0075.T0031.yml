@@ -1,0 +1,31 @@
+type: procedure
+id: C0075.T0031
+campaign:
+  C0075:
+    en: Institutional Absorption through a "Military-Political Union" (1919–1921)
+    uk: Інституційне поглинання через «військово-політичний союз» (1919–1921)
+    ru: Институциональное поглощение через «военно-политический союз» (1919–1921)
+created: 2026-04-27
+modified: 2026-04-27
+version: '1.0'
+technique:
+  T0031:
+    en: Restriction of Sovereignty
+    uk: Обмеження суверенітету
+    ru: Ограничение суверенитета
+people: ukrainians
+actor:
+  G0013:
+    en: Soviet Russia (RSFSR)
+    uk: Радянська Росія (РРФСР)
+    ru: Советская Россия (РСФСР)
+tool:
+  S0009:
+    en: Diplomacy
+    uk: Дипломатія
+    ru: Дипломатия
+contributors: []
+description:
+  en: 'Transfer of control over the military affairs, finances, communications, and transport routes of the Ukrainian republic into the hands of the central bodies of the RSFSR(Citation: 22).'
+  uk: 'Передання контролю над військовими справами, фінансами, зв''язком і шляхами сполучення української республіки до рук центральних органів РРФСР(Citation: 22).'
+  ru: 'Передача контроля над военными делами, финансами, связью и путями сообщения украинской республики в руки центральных органов РСФСР(Citation: 22).'
