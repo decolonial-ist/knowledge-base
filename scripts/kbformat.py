@@ -109,24 +109,61 @@ _ABBR = r"""г|т|ст|им|ул|р|д|др|пр|е|см|ср|акад|проф|
 |Mr|Mrs|Ms|Dr|St|ed|eds|cf|e\.g|i\.e|repr|trans|Jr|Sr|Inc|Ltd|Co|Gen|Col|Lt|Capt|Sgt|Prof|Rev|Mt|Ft|U\.S|U\.K|a\.m|p\.m
 """.replace("\n", "")
 # В списке только сокращения, за которыми идёт слово с заглавной («г. Грозный», «им. Ленина», «ген. Ермолов»).
-# Сокращения перед числами (гг., вв., тыс., с., стр., рис., табл., №, vol., p.) сюда не входят: разрыв ищется
-# только перед заглавной, а «1994-1996 гг. Затем…» - настоящий конец фразы.
+# Сокращения перед числами - в _NUM_ABBR: «1994-1996 гг. Затем…» - настоящий конец фразы.
 _ABBR_RE = re.compile(r"(?:^|[\s(«„\"'])(?:" + _ABBR + r")\.$", re.IGNORECASE)
+# после этих сокращений точка не кончает фразу, если дальше число («1994-1996 гг. 5 мая», «т. 2», «с. 45»,
+# «ф. 1, оп. 2», «10 ч. 30 мин.», «p. 12», «Dec. 11»); перед заглавной они кончают фразу
+_NUM_ABBR = r"""гг|вв|в|рр|с|стр|стор|л|лл|об|оп|ф|дд|спр|арк|тт|ч|кн|вып|п|пп|рис|табл|прим|гл|разд|ок
+|No|Nos|Nr|vol|vols|p|pp|para|paras|art|arts|fig|ch|sec|n|nn|fn|fol|ff
+|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec
+""".replace("\n", "")
+_NUM_ABBR_RE = re.compile(r"(?:^|[\s(«„\"'])(?:" + _NUM_ABBR + r")\.$", re.IGNORECASE)
 # инициал: одиночная заглавная с точкой («А.», «Е. Н.»)
 _INITIAL_RE = re.compile(r"(?:^|[\s(«„\"'])[А-ЯЁІЇЄҐA-Z]\.$")
-# место разрыва: конец фразы, пробелы, начало следующей с заглавной или кавычки
-# закрывающая кавычка или скобка считается концом фразы только после знака конца («labels.” The…»);
-# «“subhumans,” “militants,”» - перечень, не разрыв
-_BREAK_RE = re.compile(
-    r"(?:(?<=[.!?…])|(?<=[.!?…][»\"”)\]])|(?<=[.!?…][»\"”)\]][»\"”)\]]))\s+(?=[А-ЯЁІЇЄҐA-Z«„\"“])"
-)
+# кандидат в разрыв: пробелы перед заглавной, кавычкой или цифрой
+_GAP_RE = re.compile(r"\s+(?=[А-ЯЁІЇЄҐA-Z«„\"“0-9])")
+# текст до разрыва кончается знаком конца фразы; за ним - до двух закрывающих кавычек или скобок
+# («labels.” The…»; «“subhumans,” “militants,”» - перечень, не разрыв) и сноски («…не явились!»(Citation: 711) Зелимхан…»)
+_END_RE = re.compile(r"[.!?…][»\"”)\]]{0,2}(?:\x00\d+\x00)*$")
+_MASK_TAIL_RE = re.compile(r"(?:\x00\d+\x00)+$")
+
+
+def _quote_depth(text: str):
+    """Глубина кавычек в каждой позиции; None, если кавычки в абзаце не парные.
+
+    „…“ - вложенные кавычки ru и uk, “…” - кавычки en: “ закрывает „ и открывает в остальных случаях;
+    прямая " закрывает открытую прямую и открывает в остальных случаях."""
+    depth, stack = [], []
+    for ch in text:
+        if ch == '"':
+            if stack and stack[-1] == '"':
+                stack.pop()
+            else:
+                stack.append(ch)
+        elif ch in "«„":
+            stack.append(ch)
+        elif ch == "“":
+            if stack and stack[-1] == "„":
+                stack.pop()
+            else:
+                stack.append(ch)
+        elif ch == "»":
+            if not stack or stack.pop() != "«":
+                return None
+        elif ch == "”":
+            if not stack or stack.pop() != "“":
+                return None
+        depth.append(len(stack))
+    return depth if not stack else None
 
 
 def split_sentences(paragraph: str) -> list[str]:
     """Абзац -> фразы. Ошибочный разрыв безвреден: загрузчик склеит строки пробелом.
 
     Сноски на время разбивки прячутся за метки: внутри ключа «Название Год» бывают
-    точки и заглавные, рвать его нельзя."""
+    точки и заглавные, рвать его нельзя. Цитата в кавычках из нескольких фраз
+    остаётся на строке той фразы, в которой стоит; если кавычки в абзаце
+    не парные, разрыв ищется и внутри них."""
     cits = []
 
     def hide(m):
@@ -134,10 +171,18 @@ def split_sentences(paragraph: str) -> list[str]:
         return f"\x00{len(cits) - 1}\x00"
 
     masked = CIT_RE.sub(hide, paragraph)
+    depth = _quote_depth(masked)
     out, start = [], 0
-    for m in _BREAK_RE.finditer(masked):
+    for m in _GAP_RE.finditer(masked):
+        if depth is not None and depth[m.start()]:
+            continue
         before = masked[start:m.start()]
-        if _ABBR_RE.search(before) or _INITIAL_RE.search(before):
+        if not _END_RE.search(before):
+            continue
+        core = _MASK_TAIL_RE.sub("", before)
+        if _ABBR_RE.search(core) or _INITIAL_RE.search(core):
+            continue
+        if masked[m.end()].isdigit() and _NUM_ABBR_RE.search(core):
             continue
         out.append(before.strip())
         start = m.end()
@@ -164,3 +209,10 @@ def block_to_cell(block: str) -> str:
     paras = block.split("\n\n")
     # абзацы - пустой строкой, как в таблице: сайт (markdown) делает из них <p>; один перенос дал бы <br>
     return "\n\n".join(" ".join(line.strip() for line in p.split("\n")).strip() for p in paras)
+
+
+def prose_key(text: str) -> str:
+    """Проза без разбивки на строки: абзацы и слова как у загрузчика, пробелы схлопнуты.
+
+    Две прозы с одним ключом на сайте одинаковы: отличаются только места переноса строк."""
+    return "\n\n".join(" ".join(p.split()) for p in block_to_cell(text).split("\n\n"))
