@@ -6,7 +6,8 @@
 Без аргументов проходит tactics, techniques, actors, tools, campaigns и unpublished рядом со scripts/.
 Абзац блока `|` переразбивается делителем kbformat.split_sentences: текст и абзацы не меняются,
 меняется только то, где кончаются строки. Абзац, разбивка которого не меняется, остаётся байт в байт.
-Однострочное описание (description.<язык>) из нескольких фраз становится блоком `|-`.
+Однострочное описание (description.<язык>) из нескольких фраз становится блоком `|-`, а блок,
+от которого осталась одна строка, - строкой в том виде, в каком её пишет дампер базы.
 Остальные строки файла не трогаются, в том числе пустые строки и строки из пробелов в конце файла.
 Перед записью файл читается парсером YAML: если что-то кроме разбивки на строки изменилось бы, файл не пишется.
 
@@ -22,7 +23,7 @@ import kbformat  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_DIRS = ("tactics", "techniques", "actors", "tools", "campaigns", "unpublished")
 
-_BLOCK_RE = re.compile(r"^( *)[^\s#-][^:]*:[ ]+\|[+-]?\d?[ ]*$")
+_BLOCK_RE = re.compile(r"^( *)([^\s#-][^:]*):[ ]+\|([+-]?)\d?[ ]*$")
 _PLAIN_RE = re.compile(r"^( *)(en|uk|ru):[ ]+(?![|>])(\S.*)$")
 _KEY_RE = re.compile(r"^( *)([^\s#-][^:]*):(?:[ ]|$)")
 
@@ -63,7 +64,8 @@ def resplit_text(text: str) -> str:
             ki = len(m_key.group(1))
             while parents and parents[-1][0] >= ki:
                 parents.pop()
-        if _BLOCK_RE.match(line):
+        m_block = _BLOCK_RE.match(line)
+        if m_block:
             head = _indent(line)
             j = i + 1
             while j < len(lines) and (not lines[j].strip() or _indent(lines[j]) > head):
@@ -71,10 +73,19 @@ def resplit_text(text: str) -> str:
             last = j
             while last > i + 1 and not lines[last - 1].strip():
                 last -= 1
-            body = lines[i + 1:last]
+            old_body = body = lines[i + 1:last]
             if body:
                 ind = " " * min(_indent(x) for x in body if x.strip())
                 body = _resplit_body(body, ind)
+            if body != old_body and len(body) == 1 and m_block.group(3) == "-":
+                # проза из одной строки (цитата из нескольких фраз склеилась): тот вид,
+                # в каком её пишет дампер базы, - строка, а не блок
+                one = kbformat.dump_yaml({m_block.group(2): body[0].strip()}).rstrip("\n")
+                if "\n" not in one:
+                    out.append(m_block.group(1) + one)
+                    out.extend(lines[last:j])
+                    i = j
+                    continue
             out.append(line)
             out.extend(body)
             out.extend(lines[last:j])
