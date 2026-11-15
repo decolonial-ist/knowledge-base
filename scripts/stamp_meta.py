@@ -8,8 +8,8 @@
   - `version` поднимается на 0.1, если `modified` до этого была не сегодняшней (не чаще раза в день);
   - `created` ставится, если поля нет.
 Автор PR эти поля не трогает; если тронул - CI их перезапишет.
-Правка только служебных полей (эти три и названия под номерами в ссылках на другие сущности) - не изменение содержимого: файл
-сравнивается с версией из HEAD~1 без них и, если равен, не штампуется. Карточек материалов в базе нет (они в архиве).
+Правка только служебных полей (эти три и названия под номерами в ссылках на другие сущности) и перенос строк
+внутри прозы - не изменение содержимого: файл сравнивается с версией из HEAD~1 без них и, если равен, не штампуется. Карточек материалов в базе нет (они в архиве).
 Файл переписывается тем же дампером, что у копии из таблицы, поэтому меняются только эти три строки.
 Названия кампании и техники в процедурах ставит соседний procedure_names.py (CI гонит его следом).
 """
@@ -25,6 +25,15 @@ META_KINDS = ("tactics", "techniques", "actors", "tools", "campaigns")
 SERVICE_FIELDS = ("created", "modified", "version", "campaign", "campaign_name", "technique_name", "actor_name", "tool_name")
 
 
+def _prose(v):
+    # перенос строк внутри прозы (одна фраза на строку) содержимым не считается: на сайте текст тот же
+    if isinstance(v, dict):
+        return {k: _prose(x) for k, x in v.items()}
+    if isinstance(v, list):
+        return [_prose(x) for x in v]
+    return kbformat.prose_key(v) if isinstance(v, str) else v
+
+
 def content(doc):
     out = {k: v for k, v in doc.items() if k not in SERVICE_FIELDS}
     # в полях-ссылках содержимое - только номера: название под номером служебное, и переход
@@ -32,7 +41,7 @@ def content(doc):
     for field in ("technique", "actor", "tool", "parent", "tactics", "associated_campaigns"):
         if field in out:
             out[field] = kbformat.as_list(out[field])
-    return out
+    return _prose(out)
 
 
 def previous(path):
