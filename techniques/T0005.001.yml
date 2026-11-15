@@ -3,9 +3,16 @@ id: T0005.001
 created: 2026-11-07
 modified: 2026-11-07
 version: '1.0'
-parent: T0005
+parent:
+  T0005:
+    en: Aggressor Claiming Victim Status
+    uk: Привласнення статусу жертви агресором
+    ru: Присвоение статуса жертвы агрессором
 tactics:
-- TA0001
+  TA0001:
+    en: Legitimization of Domination
+    uk: Легітимізація домінування
+    ru: Легитимизация доминирования
 name:
   en: ''
   uk: ''
